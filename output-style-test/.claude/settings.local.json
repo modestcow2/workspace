@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(head:*)",
+      "Bash(python:2)",
+      "Bash(python:*)",
+      "Bash(find \"C:\\\\Users\\\\wilie\\\\.claude\\\\plugins\\\\marketplaces\\\\claude-plugins-official\\\\plugins\" -name \"*.md\" | xargs grep -l \"output.style\\\\|/output\" 2>/dev/null)",
+      "Bash(find:*)",
+      "Bash(find /c/Users/wilie/.claude -name \"*.json\" -type f 2>/dev/null | xargs grep -l \".claude/styles\\\\|styles.*path\\\\|outputStyle.*custom\" 2>/dev/null)"
+    ]
+  },
+  "outputStyle": "Beginner Friendly"
+}

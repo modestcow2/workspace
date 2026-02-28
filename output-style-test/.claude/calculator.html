@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>계산기</title>
+  <!-- 구글 폰트 Inter: Segoe UI보다 더 세련된 숫자 표현 -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    /* ===== 기본 초기화 ===== */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    /* ===== 배경: 움직이는 그라디언트 ===== */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      /* 보라 → 진파랑 → 청록 그라디언트 */
+      background: linear-gradient(-45deg, #1a0533, #0d1b4b, #0a3d62, #1a0533);
+      background-size: 400% 400%;
+      /* gradientShift 애니메이션으로 배경이 천천히 움직임 */
+      animation: gradientShift 10s ease infinite;
+      font-family: 'Inter', 'Segoe UI', sans-serif;
+    }
+
+    /* 배경이 서서히 색상을 이동하는 애니메이션 */
+    @keyframes gradientShift {
+      0%   { background-position: 0% 50%; }
+      50%  { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    /* ===== 계산기 본체: 글래스모피즘 효과 ===== */
+    /* 글래스모피즘 = 유리처럼 반투명하고 배경이 살짝 비치는 스타일 */
+    .calculator {
+      /* 반투명 흰색으로 유리 느낌 */
+      background: rgba(255, 255, 255, 0.08);
+      /* 뒤 배경을 뿌옇게 블러 처리 (유리 효과의 핵심!) */
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px); /* Safari 지원 */
+      /* 얇은 흰색 테두리로 유리 테두리 느낌 */
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 28px;
+      padding: 28px;
+      /* 깊이감 있는 그림자 + 상단 안쪽 빛 반사 효과 */
+      box-shadow:
+        0 30px 60px rgba(0, 0, 0, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.15);
+      width: 360px;
+    }
+
+    /* ===== 디스플레이(숫자 화면) ===== */
+    .display {
+      /* 반투명 어두운 배경 */
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      padding: 20px 24px;
+      margin-bottom: 24px;
+      text-align: right;
+    }
+
+    /* 작은 글씨: 현재 계산식 (예: "4 +") */
+    .display .expression {
+      color: rgba(255, 255, 255, 0.45);
+      font-size: 14px;
+      font-weight: 400;
+      min-height: 22px;
+      margin-bottom: 6px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    /* 큰 글씨: 현재 입력값 또는 결과 */
+    .display .current {
+      color: #ffffff;
+      font-size: 42px;
+      font-weight: 300;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      /* 숫자에 은은한 빛나는 효과 */
+      text-shadow: 0 0 30px rgba(180, 180, 255, 0.4);
+    }
+
+    /* ===== 버튼 그리드: 4열 배치 ===== */
+    .buttons {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px; /* 버튼 사이 간격 */
+    }
+
+    /* ===== 모든 버튼 공통 스타일 ===== */
+    button {
+      height: 68px;
+      border: none;
+      border-radius: 16px;
+      font-size: 19px;
+      font-weight: 500;
+      font-family: 'Inter', 'Segoe UI', sans-serif;
+      cursor: pointer;
+      /* hover/클릭 시 부드러운 전환 효과 */
+      transition: transform 0.12s ease, box-shadow 0.12s ease, filter 0.12s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* 클릭 시 버튼이 살짝 눌리는 효과 */
+    button:active {
+      transform: scale(0.93);
+      filter: brightness(0.85);
+    }
+
+    /* ===== 숫자 버튼 (0~9, 소수점) ===== */
+    .btn-number {
+      /* 반투명 흰색: 글래스 컨테이너와 어울리는 투명한 느낌 */
+      background: rgba(255, 255, 255, 0.12);
+      color: #ffffff;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    /* hover 시 살짝 밝아지며 빛남 */
+    .btn-number:hover {
+      background: rgba(255, 255, 255, 0.2);
+      box-shadow: 0 4px 20px rgba(255, 255, 255, 0.1);
+      transform: translateY(-1px);
+    }
+
+    /* ===== 연산자 버튼 (÷, ×, −, +) ===== */
+    .btn-operator {
+      /* 오렌지 ~ 노란색 그라디언트: iOS 계산기처럼 따뜻한 느낌 */
+      background: linear-gradient(135deg, #f7971e, #ffd200);
+      color: #1a0a00;
+      font-weight: 600;
+      border: none;
+    }
+
+    /* hover 시 더 밝게 빛남 */
+    .btn-operator:hover {
+      filter: brightness(1.15);
+      box-shadow: 0 6px 25px rgba(247, 151, 30, 0.5);
+      transform: translateY(-2px);
+    }
+
+    /* 연산자 버튼이 선택된 상태 (예: + 누른 후 두 번째 숫자 입력 전) */
+    .btn-operator.active-operator {
+      box-shadow: 0 0 0 3px rgba(255, 210, 0, 0.7), 0 6px 25px rgba(247, 151, 30, 0.4);
+      filter: brightness(1.2);
+    }
+
+    /* ===== 특수 버튼 (AC, +/-, %) ===== */
+    .btn-special {
+      /* 밝은 회색-흰색: 눈에 잘 띄되 부드러운 느낌 */
+      background: rgba(255, 255, 255, 0.22);
+      color: #ffffff;
+      font-weight: 500;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+    }
+
+    .btn-special:hover {
+      background: rgba(255, 255, 255, 0.32);
+      box-shadow: 0 4px 20px rgba(255, 255, 255, 0.15);
+      transform: translateY(-1px);
+    }
+
+    /* ===== 등호(=) 버튼 ===== */
+    .btn-equals {
+      /* 핑크 ~ 진보라 그라디언트: 강렬하고 눈에 띄는 느낌 */
+      background: linear-gradient(135deg, #f953c6, #b91d73);
+      color: #ffffff;
+      font-weight: 600;
+      border: none;
+      /* = 버튼은 2칸 차지 */
+      grid-column: span 2;
+    }
+
+    .btn-equals:hover {
+      filter: brightness(1.15);
+      box-shadow: 0 6px 25px rgba(249, 83, 198, 0.5);
+      transform: translateY(-2px);
+    }
+
+    /* 0 버튼도 2칸 차지 */
+    .btn-zero {
+      grid-column: span 2;
+    }
+  </style>
+</head>
+<body>
+  <!-- 계산기 전체 컨테이너 -->
+  <div class="calculator">
+
+    <!-- 디스플레이: 계산식과 현재 숫자를 표시 -->
+    <div class="display">
+      <div class="expression" id="expression"></div>  <!-- 작은 글씨: 계산식 -->
+      <div class="current" id="current">0</div>       <!-- 큰 글씨: 현재값 -->
+    </div>
+
+    <!-- 버튼들: 4열 그리드로 배치 -->
+    <div class="buttons">
+      <!-- 1행: 특수 기능 + 나누기 -->
+      <button class="btn-special" onclick="clearAll()">AC</button>
+      <button class="btn-special" onclick="toggleSign()">+/−</button>
+      <button class="btn-special" onclick="percentage()">%</button>
+      <button class="btn-operator" data-op="/" onclick="setOperator('/')">÷</button>
+
+      <!-- 2행: 숫자 7,8,9 + 곱하기 -->
+      <button class="btn-number" onclick="inputDigit('7')">7</button>
+      <button class="btn-number" onclick="inputDigit('8')">8</button>
+      <button class="btn-number" onclick="inputDigit('9')">9</button>
+      <button class="btn-operator" data-op="*" onclick="setOperator('*')">×</button>
+
+      <!-- 3행: 숫자 4,5,6 + 빼기 -->
+      <button class="btn-number" onclick="inputDigit('4')">4</button>
+      <button class="btn-number" onclick="inputDigit('5')">5</button>
+      <button class="btn-number" onclick="inputDigit('6')">6</button>
+      <button class="btn-operator" data-op="-" onclick="setOperator('-')">−</button>
+
+      <!-- 4행: 숫자 1,2,3 + 더하기 -->
+      <button class="btn-number" onclick="inputDigit('1')">1</button>
+      <button class="btn-number" onclick="inputDigit('2')">2</button>
+      <button class="btn-number" onclick="inputDigit('3')">3</button>
+      <button class="btn-operator" data-op="+" onclick="setOperator('+')">+</button>
+
+      <!-- 5행: 0(2칸), 소수점, 등호(2칸) -->
+      <button class="btn-number btn-zero" onclick="inputDigit('0')">0</button>
+      <button class="btn-number" onclick="inputDecimal()">.</button>
+      <button class="btn-equals" onclick="calcResult()">=</button>
+    </div>
+  </div>
+
+  <script>
+    // ===== 상태 변수 =====
+    let currentValue = '0';         // 현재 화면에 보이는 숫자
+    let firstOperand = null;        // 첫 번째 숫자 (예: 4 + ? 에서 4)
+    let operator = null;            // 선택된 연산자 (+, -, *, /)
+    let shouldResetDisplay = false; // true면 다음 숫자 입력 시 화면 초기화
+
+    // ===== 화면 업데이트 함수 =====
+    function updateDisplay() {
+      document.getElementById('current').textContent = currentValue;
+
+      // 연산자가 있을 때만 식 영역에 표시
+      let expr = '';
+      if (firstOperand !== null && operator) {
+        // 연산자 기호 변환 (* → ×, / → ÷)
+        const opSymbol = operator === '*' ? '×' : operator === '/' ? '÷' : operator;
+
+        if (shouldResetDisplay) {
+          // 연산자를 막 눌렀을 때: "4 +"
+          expr = `${firstOperand} ${opSymbol}`;
+        } else {
+          // 두 번째 숫자 입력 중: "4 + 5"
+          expr = `${firstOperand} ${opSymbol} ${currentValue}`;
+        }
+      }
+      document.getElementById('expression').textContent = expr;
+    }
+
+    // ===== 연산자 버튼 활성화 표시 =====
+    // 연산자를 누른 후 해당 버튼에 빛나는 테두리를 표시
+    function highlightOperator(op) {
+      // 모든 연산자 버튼의 활성화 상태 제거
+      document.querySelectorAll('.btn-operator').forEach(btn => {
+        btn.classList.remove('active-operator');
+      });
+      // op가 있으면 해당 버튼만 활성화
+      if (op) {
+        const activeBtn = document.querySelector(`.btn-operator[data-op="${op}"]`);
+        if (activeBtn) activeBtn.classList.add('active-operator');
+      }
+    }
+
+    // ===== 숫자 입력 =====
+    function inputDigit(digit) {
+      if (shouldResetDisplay) {
+        // 연산자 직후 입력: 새 숫자로 시작
+        currentValue = digit;
+        shouldResetDisplay = false;
+      } else {
+        // 기존 숫자에 이어 붙이기 (단, '0' 하나일 때는 교체)
+        currentValue = currentValue === '0' ? digit : currentValue + digit;
+      }
+      updateDisplay();
+    }
+
+    // ===== 소수점 입력 =====
+    function inputDecimal() {
+      if (shouldResetDisplay) {
+        currentValue = '0.'; // 연산자 직후 소수점: "0."으로 시작
+        shouldResetDisplay = false;
+      } else if (!currentValue.includes('.')) {
+        currentValue += '.'; // 소수점이 없을 때만 추가
+      }
+      updateDisplay();
+    }
+
+    // ===== 연산자 설정 =====
+    function setOperator(op) {
+      // 이미 계산 진행 중이면 먼저 결과 계산
+      if (firstOperand !== null && !shouldResetDisplay) {
+        calcResult();
+      }
+      firstOperand = parseFloat(currentValue);
+      operator = op;
+      shouldResetDisplay = true;
+      highlightOperator(op); // 선택된 연산자 버튼 빛나게 표시
+      updateDisplay();
+    }
+
+    // ===== 초기화 (AC 버튼) =====
+    function clearAll() {
+      currentValue = '0';
+      firstOperand = null;
+      operator = null;
+      shouldResetDisplay = false;
+      highlightOperator(null); // 활성화 표시 제거
+      updateDisplay();
+    }
+
+    // ===== 부호 변환 (+/-) =====
+    function toggleSign() {
+      currentValue = String(parseFloat(currentValue) * -1);
+      updateDisplay();
+    }
+
+    // ===== 퍼센트 (%) =====
+    function percentage() {
+      currentValue = String(parseFloat(currentValue) / 100);
+      updateDisplay();
+    }
+
+    // ===== 계산 실행 (= 버튼) =====
+    function calcResult() {
+      if (firstOperand === null || operator === null) return;
+
+      const second = parseFloat(currentValue);
+      const opSymbol = operator === '*' ? '×' : operator === '/' ? '÷' : operator;
+      const result = calculate(firstOperand, second, operator);
+
+      // 식 영역에 전체 계산식 표시: "4 + 5 ="
+      document.getElementById('expression').textContent =
+        `${firstOperand} ${opSymbol} ${second} =`;
+
+      // 결과값 표시 및 상태 초기화
+      currentValue = String(parseFloat(result.toFixed(10)));
+      firstOperand = null;
+      operator = null;
+      shouldResetDisplay = true;
+      highlightOperator(null); // 활성화 표시 제거
+      document.getElementById('current').textContent = currentValue;
+    }
+
+    // ===== 기본 연산 로직 =====
+    function calculate(a, b, op) {
+      switch (op) {
+        case '+': return a + b;
+        case '-': return a - b;
+        case '*': return a * b;
+        case '/': return b === 0 ? 0 : a / b; // 0으로 나누기 시 0 반환
+        default:  return b;
+      }
+    }
+  </script>
+</body>
+</html>

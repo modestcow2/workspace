@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "데일리픽스 을지로",
+      "link": "https://www.instagram.com/daily.fix.seoul?igsh=ZXRxeHUwbDE2N2E3&utm_source=qr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 140 1층 103호, 104호",
+      "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
+      "mapx": "1269813054",
+      "mapy": "375670949"
+    },
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
+    },
+    {
+      "title": "세븐패티버거 을지로본점",
+      "link": "https://www.instagram.com/se7enpattyburger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 71-2 1층 101호",
+      "roadAddress": "서울특별시 중구 을지로 177 1층 101호",
+      "mapx": "1269975634",
+      "mapy": "375668920"
+    },
+    {
+      "title": "침스버거 안국",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-39 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
+      "mapx": "1269856859",
+      "mapy": "375780911"
+    },
+    {
+      "title": "더블식스버거",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로6가 246-1 1층 더블식스버거",
+      "roadAddress": "서울특별시 종로구 종로39길 6 1층 더블식스버거",
+      "mapx": "1270063793",
+      "mapy": "375714616"
+    }
+  ]
+}

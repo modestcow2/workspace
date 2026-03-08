@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "니욤",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 . 지하1층 B109-6호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 . 지하1층 B109-6호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "타마린드 디타워점",
+      "link": "https://catchtable.co.kr/tamarinddt",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
+    },
+    {
+      "title": "띤띤 SFC",
+      "link": "https://www.instagram.com/tamarind_official/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFCMALL B2",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
+      "mapx": "1269782820",
+      "mapy": "375684612"
+    },
+    {
+      "title": "냐항in안국",
+      "link": "https://www.instagram.com/nhahang_anguk",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 65-1 1층",
+      "roadAddress": "서울특별시 종로구 윤보선길 34-1 1층",
+      "mapx": "1269839227",
+      "mapy": "375776536"
+    }
+  ]
+}

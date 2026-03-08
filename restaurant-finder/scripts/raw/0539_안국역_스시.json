@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이안초밥 안녕인사동점",
+      "link": "https://www.instagram.com/sushi_ian.kr/?hl=ko",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 지상 M층 5,6번매장",
+      "roadAddress": "서울특별시 종로구 인사동길 49 지상 M층 5,6번매장",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "롤인익선",
+      "link": "https://www.instagram.com/rollinikseon/?utm_source=ig_profile_share&igshid=yd782kuc1dyl",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 93",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 37",
+      "mapx": "1269897678",
+      "mapy": "375743393"
+    },
+    {
+      "title": "키즈나",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 159",
+      "roadAddress": "서울특별시 종로구 율곡로1길 78",
+      "mapx": "1269816146",
+      "mapy": "375788338"
+    },
+    {
+      "title": "어담익선",
+      "link": "https://www.instagram.com/uodam_iksun?igsh=MTRuNG80cjd5MmExNw==",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 148 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 27 1층",
+      "mapx": "1269901653",
+      "mapy": "375739949"
+    },
+    {
+      "title": "라쿠엔",
+      "link": "https://www.instagram.com/lakuen_jongro?igsh=Z2l5c2dpem54OTVh&utm_source=qr",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 6 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로 440 1층",
+      "mapx": "1269877363",
+      "mapy": "375739371"
+    }
+  ]
+}

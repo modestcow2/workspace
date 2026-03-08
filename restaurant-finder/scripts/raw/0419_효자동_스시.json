@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>스시</b>누하",
+      "link": "https://catchtable.co.kr/sushi_nuha",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 146-3 스시누하",
+      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
+      "mapx": "1269686694",
+      "mapy": "375791432"
+    },
+    {
+      "title": "키사키",
+      "link": "https://www.instagram.com/kisaki.seoul?igsh=MTA3MnVxeTNpOHF4Yw%3D%3D&utm_source=qr",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 121 1층",
+      "roadAddress": "서울특별시 종로구 자하문로11길 6 1층",
+      "mapx": "1269708972",
+      "mapy": "375796798"
+    },
+    {
+      "title": "여래여거",
+      "link": "https://catchtable.co.kr/yrygyryg",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 53-1 1층 102호",
+      "roadAddress": "서울특별시 종로구 옥인길 23-6 1층 102호",
+      "mapx": "1269671031",
+      "mapy": "375808670"
+    },
+    {
+      "title": "히타토제면소",
+      "link": "https://app.catchtable.co.kr/ct/shop/hitato_jongro",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 55-3 1층 102호",
+      "roadAddress": "서울특별시 종로구 옥인길 19 1층 102호",
+      "mapx": "1269674129",
+      "mapy": "375806593"
+    },
+    {
+      "title": "모아늑",
+      "link": "https://www.instagram.com/mo_aneuk?igsh=c3F4YXR1NHZpcGJ5&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층1호(계단 옆 울타리문)",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층1호(계단 옆 울타리문)",
+      "mapx": "1269711126",
+      "mapy": "375816125"
+    }
+  ]
+}

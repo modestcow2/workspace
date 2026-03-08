@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "평안도만두집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 167 지하104호 평안도만두집",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30 지하104호 평안도만두집",
+      "mapx": "1269731737",
+      "mapy": "375725860"
+    },
+    {
+      "title": "광화문한옥집",
+      "link": "https://www.instagram.com/sejongclubs/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 1 B1층",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 7 B1층",
+      "mapx": "1269741711",
+      "mapy": "375727071"
+    },
+    {
+      "title": "산채향 경희궁본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 58-21 산채향",
+      "roadAddress": "서울특별시 종로구 경희궁길 6 산채향",
+      "mapx": "1269721248",
+      "mapy": "375708167"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "통영굴밥 경복궁점",
+      "link": "",
+      "category": "한식>굴요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
+      "mapx": "1269733152",
+      "mapy": "375753857"
+    }
+  ]
+}

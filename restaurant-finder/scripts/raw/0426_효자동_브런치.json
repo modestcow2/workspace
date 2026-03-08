@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "레스피레베이커리 서촌",
+      "link": "https://instagram.com/___respirer",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
+    },
+    {
+      "title": "데케드",
+      "link": "https://www.instagram.com/dekad.kafeteria/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 218 1층 101호,102호",
+      "roadAddress": "서울특별시 종로구 자하문로7길 43 1층 101호,102호(누하동)",
+      "mapx": "1269696650",
+      "mapy": "375793249"
+    },
+    {
+      "title": "팔",
+      "link": "https://www.instagram.com/phal.cafe",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 138-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로9길 6 1층",
+      "mapx": "1269708232",
+      "mapy": "375795540"
+    },
+    {
+      "title": "에코레 카페앤 그로서리",
+      "link": "https://www.instagram.com/cafe_ekorre",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 145 1층",
+      "roadAddress": "서울특별시 종로구 옥인길 14 1층",
+      "mapx": "1269677584",
+      "mapy": "375806544"
+    },
+    {
+      "title": "카키문 누하",
+      "link": "https://www.instagram.com/khakimooncoffee",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 77-13 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 49-8 1층",
+      "mapx": "1269682003",
+      "mapy": "375804787"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "계열사",
+      "link": "https://app.catchtable.co.kr/ct/shop/gaeyeoalsa",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 258-3",
+      "roadAddress": "서울특별시 종로구 백석동길 7",
+      "mapx": "1269656561",
+      "mapy": "375928996"
+    },
+    {
+      "title": "목식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/mok_restaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 237-30 1층 목식당",
+      "roadAddress": "서울특별시 종로구 백석동길 13 1층 목식당",
+      "mapx": "1269656777",
+      "mapy": "375932517"
+    },
+    {
+      "title": "소소한풍경",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosohanscenery",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 239-13",
+      "roadAddress": "서울특별시 종로구 자하문로40길 75",
+      "mapx": "1269659770",
+      "mapy": "375937240"
+    },
+    {
+      "title": "세검정돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 208-37 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 240 2층",
+      "mapx": "1269640151",
+      "mapy": "375956114"
+    },
+    {
+      "title": "청학동",
+      "link": "http://instagram.com/chunghakdong",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 90-10 1, 2층",
+      "roadAddress": "서울특별시 종로구 세검정로 234 1, 2층",
+      "mapx": "1269586819",
+      "mapy": "376004390"
+    }
+  ]
+}

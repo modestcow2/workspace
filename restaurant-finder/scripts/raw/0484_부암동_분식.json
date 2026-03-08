@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "부암김밥 홍지동점",
+      "link": "https://www.instagram.com/buam_kimbap/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 103-7 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 300 1층",
+      "mapx": "1269599335",
+      "mapy": "375994760"
+    },
+    {
+      "title": "자하손만두",
+      "link": "https://app.catchtable.co.kr/ct/shop/jahasonmandoo",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 245-2",
+      "roadAddress": "서울특별시 종로구 백석동길 12",
+      "mapx": "1269660928",
+      "mapy": "375932163"
+    },
+    {
+      "title": "국시랑만두",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 175-1",
+      "roadAddress": "서울특별시 종로구 자하문로 276",
+      "mapx": "1269624171",
+      "mapy": "375981736"
+    },
+    {
+      "title": "부암김밥 본점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 98 1층",
+      "roadAddress": "서울특별시 종로구 세검정로6길 78 1층",
+      "mapx": "1269626772",
+      "mapy": "376008073"
+    },
+    {
+      "title": "윤가네",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 55-1",
+      "roadAddress": "서울특별시 종로구 홍지문2길 7",
+      "mapx": "1269558690",
+      "mapy": "376010534"
+    }
+  ]
+}

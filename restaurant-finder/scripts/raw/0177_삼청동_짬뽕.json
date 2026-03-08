@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "경춘자의라면땡기는날",
+      "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-21",
+      "roadAddress": "서울특별시 종로구 율곡로3길 82",
+      "mapx": "1269822347",
+      "mapy": "375793111"
+    },
+    {
+      "title": "차이들 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층 307, 308호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "떡상 인사동",
+      "link": "https://www.instagram.com/tteogsang__anguk?igsh=MTI4NXh3NjZiZ2tlag==",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 89 1층 떡상",
+      "roadAddress": "서울특별시 종로구 인사동14길 43 1층 떡상",
+      "mapx": "1269848065",
+      "mapy": "375750243"
+    },
+    {
+      "title": "아키",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-42 2층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 42 2층",
+      "mapx": "1269868677",
+      "mapy": "375794333"
+    },
+    {
+      "title": "어부몽 인사점",
+      "link": "https://www.instagram.com/abumong.2024",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    }
+  ]
+}

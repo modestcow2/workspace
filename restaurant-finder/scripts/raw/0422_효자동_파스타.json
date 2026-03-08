@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
+    },
+    {
+      "title": "이태리총각 서촌점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 137-7",
+      "roadAddress": "서울특별시 종로구 자하문로9길 11",
+      "mapx": "1269705236",
+      "mapy": "375793481"
+    },
+    {
+      "title": "산펠리체",
+      "link": "https://app.catchtable.co.kr/ct/shop/Sanfelice",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 146 1층",
+      "roadAddress": "서울특별시 종로구 옥인1길 1 1층",
+      "mapx": "1269679190",
+      "mapy": "375805954"
+    },
+    {
+      "title": "까델루뽀",
+      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 39-1",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
+      "mapx": "1269714259",
+      "mapy": "375818165"
+    },
+    {
+      "title": "두오모",
+      "link": "https://catchtable.co.kr/duomo",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 40-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5 1층",
+      "mapx": "1269715675",
+      "mapy": "375816121"
+    }
+  ]
+}

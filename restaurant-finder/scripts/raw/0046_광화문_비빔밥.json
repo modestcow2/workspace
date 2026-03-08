@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "함평집 서울시청점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
+      "mapx": "1269736340",
+      "mapy": "375622716"
+    },
+    {
+      "title": "익선애뜻",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 163 1층 익선애뜻",
+      "roadAddress": "서울특별시 종로구 돈화문로11다길 24 1층 익선애뜻",
+      "mapx": "1269905479",
+      "mapy": "375733641"
+    },
+    {
+      "title": "육결 종로본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yuggyeol_jonglo",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-9 지상1층~지상2층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 22 지상1층~지상2층",
+      "mapx": "1269862797",
+      "mapy": "375688942"
+    },
+    {
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
+    },
+    {
+      "title": "뚝배기집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 5-1",
+      "roadAddress": "서울특별시 종로구 종로16길 12",
+      "mapx": "1269885481",
+      "mapy": "375695483"
+    }
+  ]
+}

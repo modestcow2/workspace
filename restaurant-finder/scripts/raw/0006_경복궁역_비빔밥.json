@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신안촌 본점",
+      "link": "https://catchtable.co.kr/sinanchon_og",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 152 1층",
+      "roadAddress": "서울특별시 종로구 사직로12길 8 1층",
+      "mapx": "1269708935",
+      "mapy": "375756401"
+    },
+    {
+      "title": "서촌북촌",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 158 1층(북촌)",
+      "roadAddress": "서울특별시 종로구 자하문로7길 10 1층(북촌)",
+      "mapx": "1269711537",
+      "mapy": "375783804"
+    },
+    {
+      "title": "세종식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 154-5",
+      "roadAddress": "서울특별시 종로구 자하문로 31-10",
+      "mapx": "1269710095",
+      "mapy": "375786597"
+    },
+    {
+      "title": "마지",
+      "link": "http://templefood.com/",
+      "category": "한식>사찰음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 132-1",
+      "roadAddress": "서울특별시 종로구 자하문로5길 19",
+      "mapx": "1269708015",
+      "mapy": "375776553"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
+    },
+    {
+      "title": "오이초이 서촌점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 18-9 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 19 1층",
+      "mapx": "1269707126",
+      "mapy": "375786417"
+    },
+    {
+      "title": "까몬 광화문점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 238 1층 까몬 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로3길 12 1층 까몬 광화문점",
+      "mapx": "1269729932",
+      "mapy": "375713640"
+    },
+    {
+      "title": "정미소 <b>쌀국수</b>",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 15-7 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 21 1층",
+      "mapx": "1269751765",
+      "mapy": "375715283"
+    },
+    {
+      "title": "미소<b>쌀국수</b> 광화문점",
+      "link": "https://youtube.com/misopho23",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 160 지하1층 26, 27, 30, 31호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 13 지하1층 26, 27, 30, 31호",
+      "mapx": "1269744029",
+      "mapy": "375714009"
+    }
+  ]
+}

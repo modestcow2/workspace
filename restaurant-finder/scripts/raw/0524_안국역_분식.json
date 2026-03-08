@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "떡산 안국",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
+      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
+      "mapx": "1269857282",
+      "mapy": "375780061"
+    },
+    {
+      "title": "조선김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 22-1 1층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
+      "mapx": "1269822132",
+      "mapy": "375786507"
+    },
+    {
+      "title": "깡통만두",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
+    },
+    {
+      "title": "경춘자의라면땡기는날",
+      "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-21",
+      "roadAddress": "서울특별시 종로구 율곡로3길 82",
+      "mapx": "1269822347",
+      "mapy": "375793111"
+    },
+    {
+      "title": "개성만두 궁",
+      "link": "http://www.koong.co.kr/",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 30-11",
+      "roadAddress": "서울특별시 종로구 인사동10길 11-3",
+      "mapx": "1269853889",
+      "mapy": "375742917"
+    }
+  ]
+}

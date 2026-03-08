@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "송도갈비 평창점",
+      "link": "https://blog.naver.com/sfg_story",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 5-5 1층",
+      "roadAddress": "서울특별시 종로구 진흥로 493-5 1층",
+      "mapx": "1269618111",
+      "mapy": "376049087"
+    },
+    {
+      "title": "부암식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 260-22",
+      "roadAddress": "서울특별시 종로구 창의문로 140",
+      "mapx": "1269651302",
+      "mapy": "375928232"
+    },
+    {
+      "title": "안암",
+      "link": "http://instagram.com/anam_inanguk",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4 안암",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
+      "mapx": "1269844784",
+      "mapy": "375794197"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
+      "title": "온6.5",
+      "link": "https://app.catchtable.co.kr/ct/shop/on65",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 75-5 지상1층 온6.5",
+      "roadAddress": "서울특별시 종로구 북촌로1길 28 지상1층 온6.5",
+      "mapx": "1269842814",
+      "mapy": "375773758"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "팔선생 상명대점",
+      "link": "https://www.instagram.com/eight_teachers/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 45-2 B1층 팔선생 상명대점",
+      "roadAddress": "서울특별시 종로구 홍지문길 1 B1층 팔선생 상명대점",
+      "mapx": "1269571010",
+      "mapy": "375997156"
+    },
+    {
+      "title": "하림각",
+      "link": "http://www.hwcc.co.kr/harimgak",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 186-2",
+      "roadAddress": "서울특별시 종로구 자하문로 255",
+      "mapx": "1269627057",
+      "mapy": "375971578"
+    },
+    {
+      "title": "목식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/mok_restaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 237-30 1층 목식당",
+      "roadAddress": "서울특별시 종로구 백석동길 13 1층 목식당",
+      "mapx": "1269656777",
+      "mapy": "375932517"
+    },
+    {
+      "title": "란저우우육면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 260-1 1층",
+      "roadAddress": "서울특별시 종로구 창의문로 138 1층",
+      "mapx": "1269652616",
+      "mapy": "375928064"
+    },
+    {
+      "title": "중화정",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 127-1",
+      "roadAddress": "서울특별시 종로구 자하문로 291",
+      "mapx": "1269603500",
+      "mapy": "375988403"
+    }
+  ]
+}

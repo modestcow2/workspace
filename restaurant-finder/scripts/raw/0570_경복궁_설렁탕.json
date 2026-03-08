@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "봉피양 <b>경복궁</b>점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    },
+    {
+      "title": "은설<b>설렁탕</b>",
+      "link": "https://youtube.com/@eunsul_foodie",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 55-1 은설설렁탕",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
+      "mapx": "1269816320",
+      "mapy": "375816001"
+    },
+    {
+      "title": "청담원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 33호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "나주소나주곰탕 <b>경복궁</b>점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 98",
+      "roadAddress": "서울특별시 종로구 자하문로2길 8",
+      "mapx": "1269730853",
+      "mapy": "375764713"
+    },
+    {
+      "title": "고래",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 81",
+      "roadAddress": "서울특별시 종로구 자하문로10길 10-21",
+      "mapx": "1269722441",
+      "mapy": "375788964"
+    }
+  ]
+}

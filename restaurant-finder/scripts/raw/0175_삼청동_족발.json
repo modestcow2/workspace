@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정담은보쌈 북촌점",
+      "link": "http://jungdamun-bukchon.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 104-4",
+      "roadAddress": "서울특별시 종로구 계동길 33-9",
+      "mapx": "1269861281",
+      "mapy": "375788056"
+    },
+    {
+      "title": "권사부순대국 삼청점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-26 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 137-13 1층",
+      "mapx": "1269826631",
+      "mapy": "375869747"
+    },
+    {
+      "title": "인사동마늘보쌈",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
+    },
+    {
+      "title": "콘타이 안국점",
+      "link": "https://www.instagram.com/konthai.official",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 98-5 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로 88 지하1층",
+      "mapx": "1269889236",
+      "mapy": "375768074"
+    },
+    {
+      "title": "장군<b>족발</b>보쌈 본관",
+      "link": "https://blog.naver.com/momojanggun",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 49",
+      "roadAddress": "서울특별시 종로구 삼일대로 434-1",
+      "mapx": "1269881616",
+      "mapy": "375734758"
+    }
+  ]
+}

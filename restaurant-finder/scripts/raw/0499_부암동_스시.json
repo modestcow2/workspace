@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한국초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 96-3 1층 한국초밥",
+      "roadAddress": "서울특별시 종로구 자하문로 314 1층 한국초밥",
+      "mapx": "1269585685",
+      "mapy": "375999206"
+    },
+    {
+      "title": "히바치광 본점",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 242-2 한성빌딩",
+      "roadAddress": "서울특별시 종로구 진흥로 492 한성빌딩",
+      "mapx": "1269609118",
+      "mapy": "376046042"
+    },
+    {
+      "title": "사토루 더 서촌",
+      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 24",
+      "roadAddress": "서울특별시 종로구 자하문로7길 11",
+      "mapx": "1269709856",
+      "mapy": "375783639"
+    },
+    {
+      "title": "효자동초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 59 효자동초밥",
+      "roadAddress": "서울특별시 종로구 자하문로 14 효자동초밥",
+      "mapx": "1269724169",
+      "mapy": "375774163"
+    },
+    {
+      "title": "호림<b>스시</b>",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 341",
+      "roadAddress": "서울특별시 종로구 평창11길 13",
+      "mapx": "1269663655",
+      "mapy": "376067188"
+    }
+  ]
+}

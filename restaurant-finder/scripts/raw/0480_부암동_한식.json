@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소소한풍경",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosohanscenery",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 239-13",
+      "roadAddress": "서울특별시 종로구 자하문로40길 75",
+      "mapx": "1269659770",
+      "mapy": "375937240"
+    },
+    {
+      "title": "석파랑",
+      "link": "http://www.instagram.com/seokparang",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 125-2",
+      "roadAddress": "서울특별시 종로구 자하문로 309",
+      "mapx": "1269583766",
+      "mapy": "375994314"
+    },
+    {
+      "title": "송도갈비 평창점",
+      "link": "https://blog.naver.com/sfg_story",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 5-5 1층",
+      "roadAddress": "서울특별시 종로구 진흥로 493-5 1층",
+      "mapx": "1269618111",
+      "mapy": "376049087"
+    },
+    {
+      "title": "데미타스 <b>부암동</b>본점",
+      "link": "https://www.instagram.com/_demitasse/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-5 2층",
+      "roadAddress": "서울특별시 종로구 창의문로 133 2층",
+      "mapx": "1269657187",
+      "mapy": "375924488"
+    },
+    {
+      "title": "동양방아간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 244-5",
+      "roadAddress": "서울특별시 종로구 자하문로40길 77",
+      "mapx": "1269660021",
+      "mapy": "375935007"
+    }
+  ]
+}

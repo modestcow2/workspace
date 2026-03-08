@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "엄용백 돼지국밥",
+      "link": "https://www.instagram.com/umyongbaek_kr/",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 194-28",
+      "roadAddress": "서울특별시 종로구 인사동3길 20",
+      "mapx": "1269858222",
+      "mapy": "375718777"
+    },
+    {
+      "title": "합천돼지국밥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 290-1",
+      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
+      "mapx": "1269879701",
+      "mapy": "375720097"
+    },
+    {
+      "title": "함박웃음<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 289-2",
+      "roadAddress": "서울특별시 종로구 삼일대로 422",
+      "mapx": "1269880132",
+      "mapy": "375723557"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
+      "title": "산산옥 종각점",
+      "link": "https://www.instagram.com/_sansanok_/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 6-4 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로19길 6 1층",
+      "mapx": "1269872490",
+      "mapy": "375696366"
+    }
+  ]
+}

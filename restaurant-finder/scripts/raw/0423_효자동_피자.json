@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
+    },
+    {
+      "title": "이태리총각 서촌점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 137-7",
+      "roadAddress": "서울특별시 종로구 자하문로9길 11",
+      "mapx": "1269705236",
+      "mapy": "375793481"
+    },
+    {
+      "title": "라벨로타",
+      "link": "",
+      "category": "음식점>스페인음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 192-2 1~3층",
+      "roadAddress": "서울특별시 종로구 필운대로 35-6 1~3층",
+      "mapx": "1269686525",
+      "mapy": "375793435"
+    },
+    {
+      "title": "서울집시 퍼멘테리아 서촌",
+      "link": "https://www.instagram.com/seoulgypsyfermenteria",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 3층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 3층",
+      "mapx": "1269711126",
+      "mapy": "375816125"
+    },
+    {
+      "title": "라파리나 서촌본점",
+      "link": "https://www.instagram.com/lafarina.bagel",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 140 라파리나",
+      "roadAddress": "서울특별시 종로구 자하문로 44 라파리나",
+      "mapx": "1269715365",
+      "mapy": "375799955"
+    }
+  ]
+}

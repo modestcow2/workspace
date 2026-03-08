@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이문<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 88",
+      "roadAddress": "서울특별시 종로구 우정국로 38-13",
+      "mapx": "1269839047",
+      "mapy": "375727663"
+    },
+    {
+      "title": "맑은곰탕 고음 종로",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 209 맑은곰탕 고음 종로",
+      "roadAddress": "서울특별시 종로구 인사동3길 35 맑은곰탕 고음 종로",
+      "mapx": "1269850151",
+      "mapy": "375714996"
+    },
+    {
+      "title": "안국고다",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 77-1 1층",
+      "roadAddress": "서울특별시 종로구 인사동14길 10 1층",
+      "mapx": "1269846454",
+      "mapy": "375747474"
+    },
+    {
+      "title": "향교나주곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 4 1층",
+      "roadAddress": "서울특별시 종로구 인사동4길 5-26 1층",
+      "mapx": "1269864790",
+      "mapy": "375733794"
+    },
+    {
+      "title": "운현궁<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 경운동 89-4 운현궁SK 허브 1F",
+      "roadAddress": "서울특별시 종로구 삼일대로 461 운현궁SK 허브 1F",
+      "mapx": "1269855225",
+      "mapy": "375754506"
+    }
+  ]
+}

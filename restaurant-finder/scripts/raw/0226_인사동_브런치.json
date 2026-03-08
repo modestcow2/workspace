@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "노우즈종로 풍경점",
+      "link": "https://www.instagram.com/knowsproject",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 260 3층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 8 3층",
+      "mapx": "1269834746",
+      "mapy": "375694491"
+    },
+    {
+      "title": "코끼리베이글 <b>인사동</b>",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 196-8",
+      "roadAddress": "서울특별시 종로구 인사동길 35-3",
+      "mapx": "1269852828",
+      "mapy": "375735721"
+    },
+    {
+      "title": "아메리칸 <b>브런치</b> 카페",
+      "link": "https://www.instagram.com/american.brunch.cafe",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 92 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 49-16 1층",
+      "mapx": "1269843728",
+      "mapy": "375767815"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
+    },
+    {
+      "title": "파스쿠찌 종로본점",
+      "link": "https://www.pascucci.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 75-2 1층,2층",
+      "roadAddress": "서울특별시 종로구 종로 84 1층,2층",
+      "mapx": "1269868133",
+      "mapy": "375699473"
+    }
+  ]
+}

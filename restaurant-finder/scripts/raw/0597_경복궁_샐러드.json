@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735061",
+      "mapy": "375779155"
+    },
+    {
+      "title": "애즈라이크 서촌",
+      "link": "http://www.instagram.com/aslike_",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 7-33 1층 애즈라이크",
+      "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
+      "mapx": "1269733577",
+      "mapy": "375783143"
+    },
+    {
+      "title": "쁘띠통",
+      "link": "https://smartstore.naver.com/petittong",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 25-16 쁘띠통",
+      "roadAddress": "서울특별시 종로구 자하문로6길 11-9 쁘띠통",
+      "mapx": "1269726116",
+      "mapy": "375785701"
+    },
+    {
+      "title": "라티에 <b>경복궁</b> 본점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 적선현대 빌딩 지하1층 66호",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대 빌딩 지하1층 66호",
+      "mapx": "1269733438",
+      "mapy": "375753767"
+    },
+    {
+      "title": "스미스가좋아하는한옥",
+      "link": "https://www.instagram.com/smith_hanok",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 62-1",
+      "roadAddress": "서울특별시 종로구 삼청로 22-7",
+      "mapx": "1269801792",
+      "mapy": "375779378"
+    }
+  ]
+}

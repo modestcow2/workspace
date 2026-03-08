@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "플러스84",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 106",
+      "roadAddress": "서울특별시 종로구 인사동16길 6",
+      "mapx": "1269841999",
+      "mapy": "375750122"
+    },
+    {
+      "title": "포브라더스 종로점",
+      "link": "http://4brothers.kr/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 210호",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 210호",
+      "mapx": "1269836223",
+      "mapy": "375707628"
+    },
+    {
+      "title": "얌얌스파이스",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 '안녕인사동' 3층 4호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 '안녕인사동' 3층 4호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "브이엔디 종각직영점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 지하2층 비203호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 지하2층 비203호",
+      "mapx": "1269836590",
+      "mapy": "375714967"
+    },
+    {
+      "title": "호앙비엣 종각역점",
+      "link": "https://hoang-viet.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-43 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 43 1층",
+      "mapx": "1269828093",
+      "mapy": "375728773"
+    }
+  ]
+}

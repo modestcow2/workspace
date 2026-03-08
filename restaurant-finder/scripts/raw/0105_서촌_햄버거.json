@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "버거드조선",
+      "link": "http://www.instagram.com/burger_de_joseon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 147 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
+      "mapx": "1269704616",
+      "mapy": "375755982"
+    },
+    {
+      "title": "퀴진 라끌레",
+      "link": "https://app.catchtable.co.kr/ct/shop/cuisine_lacle",
+      "category": "음식점>프랑스음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 135-2 1층 퀴진 라끌레",
+      "roadAddress": "서울특별시 종로구 자하문로7길 36 1층 퀴진 라끌레",
+      "mapx": "1269702487",
+      "mapy": "375792002"
+    },
+    {
+      "title": "소이로움",
+      "link": "https://www.instagram.com/so_iroum/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 58-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 41 1층",
+      "mapx": "1269685899",
+      "mapy": "375797205"
+    },
+    {
+      "title": "BBQ치킨 효자점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 92",
+      "roadAddress": "서울특별시 종로구 필운대로 59",
+      "mapx": "1269683749",
+      "mapy": "375813250"
+    },
+    {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    }
+  ]
+}

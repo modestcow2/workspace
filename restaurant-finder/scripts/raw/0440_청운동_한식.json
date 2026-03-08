@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "<b>청운동</b>남원추어탕",
+      "link": "",
+      "category": "한식>추어탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 94-2",
+      "roadAddress": "서울특별시 종로구 자하문로30길 23",
+      "mapx": "1269711990",
+      "mapy": "375852600"
+    },
+    {
+      "title": "백령도횟집",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신교동 44",
+      "roadAddress": "서울특별시 종로구 필운대로 112-1",
+      "mapx": "1269698000",
+      "mapy": "375837904"
+    },
+    {
+      "title": "독립식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 59-5",
+      "roadAddress": "서울특별시 종로구 자하문로33길 10",
+      "mapx": "1269693356",
+      "mapy": "375862144"
+    },
+    {
+      "title": "지화자",
+      "link": "http://www.jihwajafood.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 48",
+      "roadAddress": "서울특별시 종로구 자하문로 125",
+      "mapx": "1269693926",
+      "mapy": "375871066"
+    }
+  ]
+}

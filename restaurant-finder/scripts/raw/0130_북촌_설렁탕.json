@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "은설<b>설렁탕</b>",
+      "link": "https://youtube.com/@eunsul_foodie",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 55-1 은설설렁탕",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
+      "mapx": "1269816320",
+      "mapy": "375816001"
+    },
+    {
+      "title": "부영도가니탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-14",
+      "roadAddress": "서울특별시 종로구 북촌로 141",
+      "mapx": "1269826884",
+      "mapy": "375872076"
+    },
+    {
+      "title": "이도곰탕 계동 직영점",
+      "link": "",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 104-2",
+      "roadAddress": "서울특별시 종로구 계동길 33-8",
+      "mapx": "1269863075",
+      "mapy": "375789169"
+    },
+    {
+      "title": "진국곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 111-7",
+      "roadAddress": "서울특별시 종로구 율곡로 57-6",
+      "mapx": "1269856463",
+      "mapy": "375770453"
+    },
+    {
+      "title": "이문<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 88",
+      "roadAddress": "서울특별시 종로구 우정국로 38-13",
+      "mapx": "1269839047",
+      "mapy": "375727663"
+    }
+  ]
+}

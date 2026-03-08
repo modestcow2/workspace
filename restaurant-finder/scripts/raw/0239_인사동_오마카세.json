@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "구테이블 한정식",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 86",
+      "roadAddress": "서울특별시 종로구 인사동14길 41",
+      "mapx": "1269848521",
+      "mapy": "375751535"
+    },
+    {
+      "title": "죽마고돈",
+      "link": "https://catchtable.co.kr/jukmagodon",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 산19-9 1~4층",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 42-4 1~4층",
+      "mapx": "1269852372",
+      "mapy": "375693574"
+    },
+    {
+      "title": "KUT Seoul",
+      "link": "https://app.catchtable.co.kr/ct/shop/KUT?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-6 한올타워 3F KUT",
+      "roadAddress": "서울특별시 종로구 종로 96 한올타워 3F KUT",
+      "mapx": "1269882058",
+      "mapy": "375698597"
+    },
+    {
+      "title": "스시소라 종로점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 2층 201호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 2층 201호",
+      "mapx": "1269840028",
+      "mapy": "375711867"
+    },
+    {
+      "title": "리치런치",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 54-3 1층 리치런치",
+      "roadAddress": "서울특별시 종로구 삼일대로28길 9 1층 리치런치",
+      "mapx": "1269884869",
+      "mapy": "375735727"
+    }
+  ]
+}

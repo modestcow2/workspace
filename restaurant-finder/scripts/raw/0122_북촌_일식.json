@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쿄와우동",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 지하1층",
+      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
+      "mapx": "1269866870",
+      "mapy": "375780953"
+    },
+    {
+      "title": "일월카츠 안국점",
+      "link": "https://www.instagram.com/ill_wall_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 132 1층",
+      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
+      "mapx": "1269851501",
+      "mapy": "375773083"
+    },
+    {
+      "title": "프루",
+      "link": "https://www.instagram.com/fru.seoul?igsh=OTIyNzRjemxmeGVt",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10",
+      "mapx": "1269843767",
+      "mapy": "375794370"
+    },
+    {
+      "title": "일월카츠 계동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ilwolkatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 1층 일월카츠",
+      "roadAddress": "서울특별시 종로구 계동길 17 1층 일월카츠",
+      "mapx": "1269865352",
+      "mapy": "375781458"
+    },
+    {
+      "title": "삼방매",
+      "link": "https://instagram.com/sambangmae?igshid=1urjfbecqrdbo",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 160-2 삼방매 본점",
+      "roadAddress": "서울특별시 종로구 율곡로5길 3-11 삼방매 본점",
+      "mapx": "1269846726",
+      "mapy": "375765832"
+    }
+  ]
+}

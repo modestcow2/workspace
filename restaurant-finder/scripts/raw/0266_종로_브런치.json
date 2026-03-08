@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
+    },
+    {
+      "title": "루시드 서울",
+      "link": "http://instagram.com/lucyd_seoul",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 62-1 1층 101호",
+      "roadAddress": "서울특별시 종로구 삼일대로32길 45 1층 101호",
+      "mapx": "1269895257",
+      "mapy": "375756045"
+    },
+    {
+      "title": "노우즈<b>종로</b> 풍경점",
+      "link": "https://www.instagram.com/knowsproject",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 260 3층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 8 3층",
+      "mapx": "1269834746",
+      "mapy": "375694491"
+    },
+    {
+      "title": "온지심",
+      "link": "https://www.instagram.com/onjisim",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 21",
+      "roadAddress": "서울특별시 종로구 돈화문로11다길 17",
+      "mapx": "1269905082",
+      "mapy": "375731757"
+    },
+    {
+      "title": "도토리가든 안국점",
+      "link": "https://www.instagram.com/dotori__seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-45 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
+      "mapx": "1269862903",
+      "mapy": "375780996"
+    }
+  ]
+}

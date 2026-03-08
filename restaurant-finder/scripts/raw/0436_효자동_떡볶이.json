@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "원조정할머니기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269700183",
+      "mapy": "375806564"
+    },
+    {
+      "title": "원조할머니 기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 94-1",
+      "roadAddress": "서울특별시 종로구 자하문로15길 13",
+      "mapx": "1269703204",
+      "mapy": "375806957"
+    },
+    {
+      "title": "소풍가는날 경복궁점",
+      "link": "https://www.instagram.com/_picnicday",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 소풍가는날",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 소풍가는날",
+      "mapx": "1269712387",
+      "mapy": "375792154"
+    },
+    {
+      "title": "<b>효자동</b>닭꼬치 통인동본점",
+      "link": "http://dp-korea.com/hyojadongcs",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 22-1 효자동닭꼬치",
+      "roadAddress": "서울특별시 종로구 자하문로15길 17 효자동닭꼬치",
+      "mapx": "1269699797",
+      "mapy": "375806500"
+    },
+    {
+      "title": "통인정",
+      "link": "https://www.instagram.com/tonginjeong/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 5-1 1층 134, 135, 137, 149, 150호",
+      "roadAddress": "서울특별시 종로구 자하문로 55 1층 134, 135, 137, 149, 150호",
+      "mapx": "1269706875",
+      "mapy": "375809000"
+    }
+  ]
+}

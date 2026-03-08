@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
+    },
+    {
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-27",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
+      "mapx": "1269840246",
+      "mapy": "375753027"
+    },
+    {
+      "title": "툇마루집된장예술",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 4 중원빌딩 2층",
+      "roadAddress": "서울특별시 종로구 인사동4길 5-26 중원빌딩 2층",
+      "mapx": "1269864249",
+      "mapy": "375733999"
+    },
+    {
+      "title": "도마 <b>인사동</b>점",
+      "link": "https://www.instagram.com/doma_insa/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 15-1 1층 도마",
+      "roadAddress": "서울특별시 종로구 인사동8길 6-1 1층 도마",
+      "mapx": "1269858347",
+      "mapy": "375738125"
+    },
+    {
+      "title": "샤브가든 종로타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    }
+  ]
+}

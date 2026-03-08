@@ -9,20 +9,20 @@ const path = require('path');
 const BASE_POINT = { lat: 37.5796, lng: 126.9770, name: '한국생산성본부' };
 
 const FILTER_META = `const FILTER_META = {
-  flavor:   { label: '맛의 조화',   icon: '👅',
-    options: ['매운맛','단맛','짠맛','기름진','담백·깔끔','새콤한'] },
+  flavor:   { label: '맛',          icon: '👅',
+    options: ['매운', '단', '짠', '기름진', '담백 깔끔', '새콤한', '감칠맛'] },
   texture:  { label: '식감·무게감', icon: '🫦',
-    options: ['바삭한','쫄깃한','아삭한','부드러운','헤비한','가벼운'] },
+    options: ['바삭한', '쫄깃한', '아삭한', '부드러운', '헤비한', '가벼운'] },
   cooking:  { label: '조리 방식',   icon: '🍳',
-    options: ['구이·볶음','국물·찜','생식·무침','튀김'] },
+    options: ['구이·볶음', '국물·찜', '생식·무침', '튀김', '면류·파스타', '오븐·화덕', '발효·숙성'] },
   cuisine:  { label: '음식 국적',   icon: '🌍',
-    options: ['한식','중식','일식','양식','아시안','퓨전'] },
+    options: ['한식', '중식', '일식', '양식', '아시안', '퓨전'] },
   temp:     { label: '온도',        icon: '🌡️',
-    options: ['冷 차가운','溫 따뜻한','평균'] },
+    options: ['차가운', '뜨끈한'] },
   occasion: { label: '상황·목적',   icon: '🎯',
-    options: ['혼밥','사교·회식','안주'] },
+    options: ['혼밥', '사교·회식', '안주'] },
   health:   { label: '건강·소화',   icon: '💪',
-    options: ['디톡스','벌크업·보양','저자극'] },
+    options: ['디톡스', '벌크업·보양', '저자극'] },
 };`;
 
 function generateDataJs(restaurants) {

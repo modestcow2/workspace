@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "홈보이서울",
+      "link": "http://www.instagram.com/homeboy_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 1층 홈보이서울",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
+      "mapx": "1269730709",
+      "mapy": "375762354"
+    },
+    {
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
+    },
+    {
+      "title": "화산",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwasan",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 45-1 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 13-1 2층",
+      "mapx": "1269720404",
+      "mapy": "375773299"
+    },
+    {
+      "title": "넘버원 양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 213 1층,2층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
+      "mapx": "1269705572",
+      "mapy": "375765751"
+    },
+    {
+      "title": "첫잔",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 201-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 28",
+      "mapx": "1269707822",
+      "mapy": "375765240"
+    }
+  ]
+}

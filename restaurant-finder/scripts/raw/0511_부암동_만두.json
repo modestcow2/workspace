@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자하손<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/jahasonmandoo",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 245-2",
+      "roadAddress": "서울특별시 종로구 백석동길 12",
+      "mapx": "1269660928",
+      "mapy": "375932163"
+    },
+    {
+      "title": "국시랑<b>만두</b>",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 175-1",
+      "roadAddress": "서울특별시 종로구 자하문로 276",
+      "mapx": "1269624171",
+      "mapy": "375981736"
+    },
+    {
+      "title": "팔선생 상명대점",
+      "link": "https://www.instagram.com/eight_teachers/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 45-2 B1층 팔선생 상명대점",
+      "roadAddress": "서울특별시 종로구 홍지문길 1 B1층 팔선생 상명대점",
+      "mapx": "1269571010",
+      "mapy": "375997156"
+    },
+    {
+      "title": "목식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/mok_restaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 237-30 1층 목식당",
+      "roadAddress": "서울특별시 종로구 백석동길 13 1층 목식당",
+      "mapx": "1269656777",
+      "mapy": "375932517"
+    },
+    {
+      "title": "천진포자 부암점",
+      "link": "",
+      "category": "중식>딤섬,중식만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-5 천진포자",
+      "roadAddress": "서울특별시 종로구 창의문로 133 천진포자",
+      "mapx": "1269658190",
+      "mapy": "375924535"
+    }
+  ]
+}

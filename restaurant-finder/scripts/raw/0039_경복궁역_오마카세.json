@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시누하",
+      "link": "https://catchtable.co.kr/sushi_nuha",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 146-3 스시누하",
+      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
+      "mapx": "1269686694",
+      "mapy": "375791432"
+    },
+    {
+      "title": "스시호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
+    },
+    {
+      "title": "우직 경복궁점",
+      "link": "https://app.catchtable.co.kr/ct/shop/xuzikx_kbg",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 153-1 1층 우직",
+      "roadAddress": "서울특별시 종로구 자하문로1길 49-4 1층 우직",
+      "mapx": "1269695885",
+      "mapy": "375767578"
+    },
+    {
+      "title": "오카즈",
+      "link": "http://catchtable.co.kr/ohkaz",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 112 1층 오카즈",
+      "roadAddress": "서울특별시 종로구 자하문로 49-1 1층 오카즈",
+      "mapx": "1269709630",
+      "mapy": "375804953"
+    },
+    {
+      "title": "진미필담 용금옥",
+      "link": "https://www.instagram.com/jinmipildam_yonggumok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 199 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
+      "mapx": "1269708497",
+      "mapy": "375766102"
+    }
+  ]
+}

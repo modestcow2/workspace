@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옹시미 경복궁점",
+      "link": "https://blog.naver.com/omgseemegbg",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 사직로 105 1층",
+      "mapx": "1269705376",
+      "mapy": "375762516"
+    },
+    {
+      "title": "체부동잔치집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 190",
+      "roadAddress": "서울특별시 종로구 자하문로1길 16",
+      "mapx": "1269715263",
+      "mapy": "375765394"
+    },
+    {
+      "title": "대선<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-42 우진빌딩 2층 대선칼국수",
+      "roadAddress": "서울특별시 종로구 자하문로4길 6 우진빌딩 2층 대선칼국수",
+      "mapx": "1269726245",
+      "mapy": "375771878"
+    },
+    {
+      "title": "경복궁식당",
+      "link": "https://www.minarikorea.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 211 지하1층",
+      "roadAddress": "서울특별시 종로구 사직로 101 지하1층",
+      "mapx": "1269701158",
+      "mapy": "375762596"
+    },
+    {
+      "title": "사랑방손<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 163-1 B1, 1층",
+      "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
+      "mapx": "1269725749",
+      "mapy": "375825416"
+    }
+  ]
+}

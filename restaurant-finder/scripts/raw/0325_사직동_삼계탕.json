@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "토속촌 <b>삼계탕</b>",
+      "link": "http://www.tosokchon.co.kr/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 85-1 토속촌",
+      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
+      "mapx": "1269716148",
+      "mapy": "375776587"
+    },
+    {
+      "title": "장수한방<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 160 변호사회관지하상가 11호, 24호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 13 변호사회관지하상가 11호, 24호",
+      "mapx": "1269744568",
+      "mapy": "375714054"
+    },
+    {
+      "title": "흑궁흑염소 광화문직영점",
+      "link": "https://naver.me/5wWIpxPz",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 74 지하1층 103호, 104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층 103호, 104호",
+      "mapx": "1269731380",
+      "mapy": "375737740"
+    },
+    {
+      "title": "고봉<b>삼계탕</b> 광화문점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 25 정우빌딩 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 89 정우빌딩 2층",
+      "mapx": "1269744499",
+      "mapy": "375703908"
+    },
+    {
+      "title": "감나무집",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 35-2",
+      "roadAddress": "서울특별시 종로구 새문안로 83-2",
+      "mapx": "1269739242",
+      "mapy": "375705616"
+    }
+  ]
+}

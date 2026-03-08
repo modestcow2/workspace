@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "냐항in안국",
+      "link": "https://www.instagram.com/nhahang_anguk",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 65-1 1층",
+      "roadAddress": "서울특별시 종로구 윤보선길 34-1 1층",
+      "mapx": "1269839227",
+      "mapy": "375776536"
+    },
+    {
+      "title": "플러스84",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 106",
+      "roadAddress": "서울특별시 종로구 인사동16길 6",
+      "mapx": "1269841999",
+      "mapy": "375750122"
+    },
+    {
+      "title": "호앙비엣 종각역점",
+      "link": "https://hoang-viet.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-43 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 43 1층",
+      "mapx": "1269828093",
+      "mapy": "375728773"
+    },
+    {
+      "title": "얌얌스파이스",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 '안녕인사동' 3층 4호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 '안녕인사동' 3층 4호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "비엣 꽌",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 92",
+      "roadAddress": "서울특별시 종로구 북촌로 2",
+      "mapx": "1269861691",
+      "mapy": "375772481"
+    }
+  ]
+}

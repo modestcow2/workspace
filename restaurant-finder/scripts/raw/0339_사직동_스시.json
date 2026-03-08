@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "사토루 더 서촌",
+      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 24",
+      "roadAddress": "서울특별시 종로구 자하문로7길 11",
+      "mapx": "1269709856",
+      "mapy": "375783639"
+    },
+    {
+      "title": "효자동초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 59 효자동초밥",
+      "roadAddress": "서울특별시 종로구 자하문로 14 효자동초밥",
+      "mapx": "1269724169",
+      "mapy": "375774163"
+    },
+    {
+      "title": "경희궁참치집",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 동원빌딩 별관 1층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 동원빌딩 별관 1층",
+      "mapx": "1269724447",
+      "mapy": "375718204"
+    },
+    {
+      "title": "바닷가작은부엌 경희궁점",
+      "link": "http://www.seasidekitchen.co.kr/",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5 5층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
+      "mapx": "1269698101",
+      "mapy": "375683937"
+    },
+    {
+      "title": "<b>스시</b>이찌 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushiichi_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 75 용비어천가 지하1층 120호",
+      "roadAddress": "서울특별시 종로구 새문안로3길 36 용비어천가 지하1층 120호",
+      "mapx": "1269732813",
+      "mapy": "375734105"
+    }
+  ]
+}

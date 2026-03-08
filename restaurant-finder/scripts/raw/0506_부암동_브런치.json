@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카페 클래식",
+      "link": "https://www.instagram.com/cafeclassic_official?igsh=MXIxajU5cTljZWtndQ==",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 63-9 1층",
+      "roadAddress": "서울특별시 종로구 홍지문길 27 1층",
+      "mapx": "1269568983",
+      "mapy": "376018944"
+    },
+    {
+      "title": "<b>부암동</b> 7번지 제빵소",
+      "link": "https://www.instagram.com/buam_7st_bakery/?utm_source=ig_web_button_share_sheet",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 7 7번지 제빵소",
+      "roadAddress": "서울특별시 종로구 북악산로 147 부암동 7번지 제빵소",
+      "mapx": "1269735209",
+      "mapy": "375980256"
+    },
+    {
+      "title": "뤼도 발루즈",
+      "link": "https://www.instagram.com/ludo.balouze",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 260-6 1층",
+      "roadAddress": "서울특별시 종로구 창의문로 142-1 1층",
+      "mapx": "1269648876",
+      "mapy": "375929196"
+    },
+    {
+      "title": "파란대문",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 219-2 1층",
+      "roadAddress": "서울특별시 종로구 창의문로 168 1층",
+      "mapx": "1269638593",
+      "mapy": "375947873"
+    },
+    {
+      "title": "카페 <b>부암동</b>가든",
+      "link": "https://blog.naver.com/cafebuamdong",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 239-8",
+      "roadAddress": "서울특별시 종로구 백석동1가길 43",
+      "mapx": "1269664532",
+      "mapy": "375939489"
+    }
+  ]
+}

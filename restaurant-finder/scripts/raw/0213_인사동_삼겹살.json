@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
+      "title": "853",
+      "link": "https://www.facebook.com/bbq853",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 84-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동12길 16 1층",
+      "mapx": "1269850965",
+      "mapy": "375747440"
+    },
+    {
+      "title": "솥내음 종로<b>인사동</b>점",
+      "link": "https://map.naver.com/p/entry/place/2017586094",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 39 지상2층",
+      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
+      "mapx": "1269870311",
+      "mapy": "375721281"
+    },
+    {
+      "title": "어부몽 인사점",
+      "link": "https://www.instagram.com/abumong.2024",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "쇠고집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 141-2",
+      "roadAddress": "서울특별시 종로구 인사동3길 5-2",
+      "mapx": "1269864496",
+      "mapy": "375718605"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "안암",
+      "link": "http://instagram.com/anam_inanguk",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4 안암",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
+      "mapx": "1269844784",
+      "mapy": "375794197"
+    },
+    {
+      "title": "월하동",
+      "link": "https://www.instagram.com/wolhadong",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29 1층",
+      "roadAddress": "서울특별시 종로구 인사동8길 16-1 1층",
+      "mapx": "1269860099",
+      "mapy": "375742337"
+    },
+    {
+      "title": "신사동인동 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
+      "title": "온6.5",
+      "link": "https://app.catchtable.co.kr/ct/shop/on65",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 75-5 지상1층 온6.5",
+      "roadAddress": "서울특별시 종로구 북촌로1길 28 지상1층 온6.5",
+      "mapx": "1269842814",
+      "mapy": "375773758"
+    }
+  ]
+}

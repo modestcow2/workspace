@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "맘스키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/momskitchen",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 274-1",
+      "roadAddress": "서울특별시 종로구 창의문로 146",
+      "mapx": "1269643922",
+      "mapy": "375929282"
+    },
+    {
+      "title": "데미타스 <b>부암동</b>본점",
+      "link": "https://www.instagram.com/_demitasse/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-5 2층",
+      "roadAddress": "서울특별시 종로구 창의문로 133 2층",
+      "mapx": "1269657187",
+      "mapy": "375924488"
+    },
+    {
+      "title": "카츠카린",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 60-2",
+      "roadAddress": "서울특별시 종로구 홍지문2길 6",
+      "mapx": "1269563826",
+      "mapy": "376011827"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
+    },
+    {
+      "title": "서촌 금상고로케",
+      "link": "https://www.instagram.com/seochonkumsang",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 74",
+      "roadAddress": "서울특별시 종로구 자하문로9길 24",
+      "mapx": "1269697116",
+      "mapy": "375795180"
+    }
+  ]
+}

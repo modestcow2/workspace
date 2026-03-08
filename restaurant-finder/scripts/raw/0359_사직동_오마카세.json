@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
+    },
+    {
+      "title": "스시이찌 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushiichi_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 75 용비어천가 지하1층 120호",
+      "roadAddress": "서울특별시 종로구 새문안로3길 36 용비어천가 지하1층 120호",
+      "mapx": "1269732813",
+      "mapy": "375734105"
+    },
+    {
+      "title": "우직 경복궁점",
+      "link": "https://app.catchtable.co.kr/ct/shop/xuzikx_kbg",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 153-1 1층 우직",
+      "roadAddress": "서울특별시 종로구 자하문로1길 49-4 1층 우직",
+      "mapx": "1269695885",
+      "mapy": "375767578"
+    },
+    {
+      "title": "진미필담 용금옥",
+      "link": "https://www.instagram.com/jinmipildam_yonggumok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 199 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
+      "mapx": "1269708497",
+      "mapy": "375766102"
+    },
+    {
+      "title": "기승전우",
+      "link": "https://go.catchtable.co.kr/m5k81a",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 172-1",
+      "roadAddress": "서울특별시 종로구 사직로8길 15-3",
+      "mapx": "1269705176",
+      "mapy": "375749377"
+    }
+  ]
+}

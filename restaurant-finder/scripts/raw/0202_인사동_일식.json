@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오얏카츠 <b>인사동</b>",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    },
+    {
+      "title": "조금",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 123-4 크라운빌딩 1층 조금식당",
+      "roadAddress": "서울특별시 종로구 인사동길 60 크라운빌딩 1층 조금식당",
+      "mapx": "1269836494",
+      "mapy": "375753395"
+    },
+    {
+      "title": "삿뽀로 관훈점",
+      "link": "http://www.entas.co.kr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-42",
+      "roadAddress": "서울특별시 종로구 인사동5길 38",
+      "mapx": "1269842789",
+      "mapy": "375725730"
+    },
+    {
+      "title": "와",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 153-2",
+      "roadAddress": "서울특별시 종로구 인사동3길 8",
+      "mapx": "1269862674",
+      "mapy": "375719555"
+    },
+    {
+      "title": "라쿠엔",
+      "link": "https://www.instagram.com/lakuen_jongro?igsh=Z2l5c2dpem54OTVh&utm_source=qr",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 6 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로 440 1층",
+      "mapx": "1269877363",
+      "mapy": "375739371"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고씨네동해막국수 종로직영점",
+      "link": "https://blog.naver.com/hjwm0116",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 68 1층",
+      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
+      "mapx": "1269846887",
+      "mapy": "375744624"
+    },
+    {
+      "title": "신사동인동 안녕<b>인사동</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "솥내음 종로<b>인사동</b>점",
+      "link": "https://map.naver.com/p/entry/place/2017586094",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 39 지상2층",
+      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
+      "mapx": "1269870311",
+      "mapy": "375721281"
+    },
+    {
+      "title": "월하동",
+      "link": "https://www.instagram.com/wolhadong",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29 1층",
+      "roadAddress": "서울특별시 종로구 인사동8길 16-1 1층",
+      "mapx": "1269860099",
+      "mapy": "375742337"
+    },
+    {
+      "title": "샤브가든 종로타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "틴 서울",
+      "link": "https://www.instagram.com/tiiin.seoul",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 133 1~2층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 17 1~2층",
+      "mapx": "1269709368",
+      "mapy": "375775737"
+    },
+    {
+      "title": "한옥달 레스토랑",
+      "link": "https://catchtable.co.kr/ct/shop/hanokdal",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 68",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 9",
+      "mapx": "1269718720",
+      "mapy": "375769814"
+    },
+    {
+      "title": "까사 이태리아",
+      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
+      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
+      "mapx": "1269723542",
+      "mapy": "375787841"
+    },
+    {
+      "title": "팜시티 테이블",
+      "link": "https://kardiaspace.com/place",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-348 1층",
+      "roadAddress": "서울특별시 종로구 경희궁3길 3-5 1층",
+      "mapx": "1269681054",
+      "mapy": "375730210"
+    },
+    {
+      "title": "핏제리아 빠드레",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 165-1 지상1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
+      "mapx": "1269741385",
+      "mapy": "375710651"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "초이<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로6가 83",
+      "roadAddress": "서울특별시 종로구 율곡로 290-2",
+      "mapx": "1270085588",
+      "mapy": "375715041"
+    },
+    {
+      "title": "<b>라멘</b> 보루도 종묘 서순라길 본점",
+      "link": "https://www.instagram.com/ramen_bold",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 170-6 1층",
+      "roadAddress": "서울특별시 종로구 서순라길 123-8 1층",
+      "mapx": "1269911446",
+      "mapy": "375756029"
+    },
+    {
+      "title": "츠키<b>라멘</b>",
+      "link": "https://www.instagram.com/tsuki_ramen1",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 B1 108-1-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 B1 108-1-3호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "멘노아지 <b>종로</b>점",
+      "link": "https://www.instagram.com/mennoage_jongno?igsh=MTNzcHFzOHhkNXdhZw%3D%3D&utm_source=qr",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 1층 101호",
+      "roadAddress": "서울특별시 종로구 종로5길 7 1층 101호",
+      "mapx": "1269803681",
+      "mapy": "375708089"
+    },
+    {
+      "title": "멘츠루 <b>종로</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mentsurujn",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 111호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 111호",
+      "mapx": "1269827990",
+      "mapy": "375724459"
+    }
+  ]
+}

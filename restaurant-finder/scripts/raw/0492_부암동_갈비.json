@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "송도<b>갈비</b> 평창점",
+      "link": "https://blog.naver.com/sfg_story",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 5-5 1층",
+      "roadAddress": "서울특별시 종로구 진흥로 493-5 1층",
+      "mapx": "1269618111",
+      "mapy": "376049087"
+    },
+    {
+      "title": "석파랑",
+      "link": "http://www.instagram.com/seokparang",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 125-2",
+      "roadAddress": "서울특별시 종로구 자하문로 309",
+      "mapx": "1269583766",
+      "mapy": "375994314"
+    },
+    {
+      "title": "목식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/mok_restaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 237-30 1층 목식당",
+      "roadAddress": "서울특별시 종로구 백석동길 13 1층 목식당",
+      "mapx": "1269656777",
+      "mapy": "375932517"
+    },
+    {
+      "title": "구기동면옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 254",
+      "roadAddress": "서울특별시 종로구 진흥로 480",
+      "mapx": "1269604875",
+      "mapy": "376053570"
+    },
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    }
+  ]
+}

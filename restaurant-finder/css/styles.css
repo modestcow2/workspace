@@ -205,7 +205,7 @@
 }
 
 /* 필터 결과에서 제외된 마커 → 흐리게 */
-.leaflet-marker-icon.dimmed {
+.restaurant-marker.dimmed {
   opacity: 0.2;
   filter: grayscale(0.5);
 }

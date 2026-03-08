@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:49:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뼈탄집 <b>서촌</b>본점",
+      "link": "http://www.bornpig.co.kr/index2.php",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 9-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13",
+      "mapx": "1269717062",
+      "mapy": "375764468"
+    },
+    {
+      "title": "양탄집 <b>서촌</b>본점",
+      "link": "https://www.instagram.com/yangtanhouse/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 60-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
+      "mapx": "1269720601",
+      "mapy": "375766927"
+    },
+    {
+      "title": "김진목삼",
+      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 164 1층 김진목삼",
+      "roadAddress": "서울특별시 종로구 자하문로1길 56 1층 김진목삼",
+      "mapx": "1269695187",
+      "mapy": "375771457"
+    },
+    {
+      "title": "고기연",
+      "link": "https://www.instagram.com/gogiyeon.kr",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 80 1층 고기연",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 17 1층 고기연",
+      "mapx": "1269718518",
+      "mapy": "375773126"
+    },
+    {
+      "title": "도틔대가",
+      "link": "https://catchtable.co.kr/dottydaega",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 54-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
+      "mapx": "1269720264",
+      "mapy": "375765472"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "육미",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 255-5",
+      "roadAddress": "서울특별시 종로구 종로9길 18",
+      "mapx": "1269843959",
+      "mapy": "375709880"
+    },
+    {
+      "title": "깊픈",
+      "link": "https://www.instagram.com/gippen_insa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 106 깊픈",
+      "roadAddress": "서울특별시 종로구 인사동16길 6 깊픈",
+      "mapx": "1269842551",
+      "mapy": "375750276"
+    },
+    {
+      "title": "소문난집",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 241-12",
+      "roadAddress": "서울특별시 종로구 수표로 131",
+      "mapx": "1269882933",
+      "mapy": "375725190"
+    },
+    {
+      "title": "일품양평<b>해장국</b> 종각역점",
+      "link": "https://www.instagram.com/_ilpumfood_official/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-2 1층",
+      "roadAddress": "서울특별시 종로구 종로 72-1 1층",
+      "mapx": "1269854607",
+      "mapy": "375699980"
+    },
+    {
+      "title": "종로시래기뼈감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-2 2층",
+      "roadAddress": "서울특별시 종로구 종로 72-1 2층",
+      "mapx": "1269854606",
+      "mapy": "375699485"
+    }
+  ]
+}

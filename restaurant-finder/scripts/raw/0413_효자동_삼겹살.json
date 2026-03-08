@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "애월식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 98-19",
+      "roadAddress": "서울특별시 종로구 자하문로 48-1",
+      "mapx": "1269714614",
+      "mapy": "375803453"
+    },
+    {
+      "title": "청하식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 120",
+      "roadAddress": "서울특별시 종로구 자하문로10길 25",
+      "mapx": "1269728999",
+      "mapy": "375794749"
+    },
+    {
+      "title": "창성갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 136",
+      "roadAddress": "서울특별시 종로구 자하문로 40-1",
+      "mapx": "1269715716",
+      "mapy": "375796602"
+    },
+    {
+      "title": "참괜찮소",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 46-25",
+      "roadAddress": "서울특별시 종로구 필운대로6길 8",
+      "mapx": "1269691369",
+      "mapy": "375806653"
+    },
+    {
+      "title": "송림정육점",
+      "link": "https://www.instagram.com/songlim_meat?igsh=d3I0N2NyMnUzaXFs",
+      "category": "쇼핑,유통>정육점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 35-16 송림빌딩 1층 송림정육점",
+      "roadAddress": "서울특별시 종로구 필운대로6길 3 송림빌딩 1층 (통인동) 송림정육점",
+      "mapx": "1269688159",
+      "mapy": "375808338"
+    }
+  ]
+}

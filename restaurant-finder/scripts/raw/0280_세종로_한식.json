@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "난포 광화문",
+      "link": "https://www.instagram.com/nanpo_official/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지층",
+      "mapx": "1269780095",
+      "mapy": "375719377"
+    },
+    {
+      "title": "설가온",
+      "link": "https://blog.naver.com/mdinc6",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하1층 설가온",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하1층 설가온",
+      "mapx": "1269759463",
+      "mapy": "375726222"
+    },
+    {
+      "title": "고려삼계탕 광화문점",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 164",
+      "roadAddress": "서울특별시 종로구 세종대로23길 5-1",
+      "mapx": "1269761163",
+      "mapy": "375714982"
+    },
+    {
+      "title": "비원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 139",
+      "roadAddress": "서울특별시 종로구 청계천로 1",
+      "mapx": "1269780364",
+      "mapy": "375695646"
+    },
+    {
+      "title": "광화문아띠",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3",
+      "roadAddress": "서울특별시 종로구 세종대로 175 (세종로) 지하1층 광화문아띠",
+      "mapx": "1269762487",
+      "mapy": "375723450"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "까델루뽀",
+      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 39-1",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
+      "mapx": "1269714259",
+      "mapy": "375818165"
+    },
+    {
+      "title": "비스트로 친친",
+      "link": "https://app.catchtable.co.kr/ct/shop/Bistro_chin_chin",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 164-8 1층 비스트로친친",
+      "roadAddress": "서울특별시 종로구 효자로13길 54 1층 비스트로친친",
+      "mapx": "1269727901",
+      "mapy": "375821688"
+    },
+    {
+      "title": "고치비",
+      "link": "http://www.instagram.com/osteria_kochibi",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 195-2 1층 고치비",
+      "roadAddress": "서울특별시 종로구 필운대로 38 1층 고치비",
+      "mapx": "1269689316",
+      "mapy": "375793391"
+    },
+    {
+      "title": "두오모",
+      "link": "https://catchtable.co.kr/duomo",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 40-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5 1층",
+      "mapx": "1269715675",
+      "mapy": "375816121"
+    },
+    {
+      "title": "데케드",
+      "link": "https://www.instagram.com/dekad.kafeteria/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 218 1층 101호,102호",
+      "roadAddress": "서울특별시 종로구 자하문로7길 43 1층 101호,102호(누하동)",
+      "mapx": "1269696650",
+      "mapy": "375793249"
+    }
+  ]
+}

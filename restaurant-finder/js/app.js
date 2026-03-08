@@ -1,6 +1,8 @@
 // ─── 상수 ────────────────────────────────────────────────────────────────────
 const STORAGE_CUSTOMS   = 'restaurant_finder_custom';
 const STORAGE_OVERRIDES = 'restaurant_finder_overrides';
+const DATA_VERSION      = 'v2';
+const STORAGE_VERSION   = 'restaurant_finder_version';
 
 // ─── 상태 ────────────────────────────────────────────────────────────────────
 const activeFilters = {
@@ -8,7 +10,7 @@ const activeFilters = {
   cuisine: new Set(), temp: new Set(), occasion: new Set(), health: new Set()
 };
 let allRestaurants = [];
-let markerMap    = new Map();   // id → L.Marker
+let markerMap    = new Map();   // id → { marker, infoWindow }
 let mapInstance  = null;
 let editingId    = null;        // null=신규등록, number=편집 중인 id
 
@@ -26,6 +28,14 @@ function haversineKm(lat, lng) {
 // ─── localStorage 저장/불러오기 ──────────────────────────────────────────────
 function loadState() {
   try {
+    // 데이터 버전 체크 — 버전 불일치 시 사용자 변경사항 초기화
+    const savedVersion = localStorage.getItem(STORAGE_VERSION);
+    if (savedVersion !== DATA_VERSION) {
+      localStorage.removeItem(STORAGE_CUSTOMS);
+      localStorage.removeItem(STORAGE_OVERRIDES);
+      localStorage.setItem(STORAGE_VERSION, DATA_VERSION);
+    }
+
     const customs   = JSON.parse(localStorage.getItem(STORAGE_CUSTOMS)   || '[]');
     const overrides = JSON.parse(localStorage.getItem(STORAGE_OVERRIDES) || '{}');
     const deleted   = new Set(overrides.deleted || []);
@@ -82,7 +92,10 @@ function resetAllData() {
   localStorage.removeItem(STORAGE_OVERRIDES);
 
   // 지도 마커 전체 제거 후 재구성
-  markerMap.forEach((marker) => { if (mapInstance) mapInstance.removeLayer(marker); });
+  markerMap.forEach(({ marker, infoWindow }) => {
+    marker.setMap(null);
+    infoWindow.close();
+  });
   markerMap.clear();
   allRestaurants = [...RESTAURANTS];
   allRestaurants.forEach(addMarkerForRestaurant);
@@ -255,10 +268,11 @@ function renderCards(filtered) {
   grid.querySelectorAll('.restaurant-card').forEach(card => {
     card.addEventListener('click', e => {
       if (e.target.closest('.card-actions')) return;
-      const marker = markerMap.get(+card.dataset.id);
-      if (marker && mapInstance) {
-        marker.openPopup();
-        mapInstance.setView(marker.getLatLng(), 16, { animate: true });
+      const entry = markerMap.get(+card.dataset.id);
+      if (entry && mapInstance) {
+        entry.infoWindow.open(mapInstance, entry.marker);
+        mapInstance.setCenter(entry.marker.getPosition());
+        mapInstance.setZoom(16);
       }
     });
   });
@@ -268,9 +282,12 @@ function renderCards(filtered) {
 function renderMapMarkers(filtered) {
   if (!mapInstance) return;
   const filteredIds = new Set(filtered.map(r => r.id));
-  markerMap.forEach((marker, id) => {
+  markerMap.forEach(({ marker }, id) => {
     const el = marker.getElement();
-    if (el) el.classList.toggle('dimmed', !filteredIds.has(id));
+    if (el) {
+      const markerDiv = el.querySelector('.restaurant-marker');
+      if (markerDiv) markerDiv.classList.toggle('dimmed', !filteredIds.has(id));
+    }
   });
 }
 
@@ -283,19 +300,48 @@ function render() {
   renderMapMarkers(filtered);
 }
 
-// ─── Leaflet 지도 초기화 ──────────────────────────────────────────────────────
+// ─── 네이버 지도 초기화 ──────────────────────────────────────────────────────
 function initMap() {
-  mapInstance = L.map('map', { zoomControl: true }).setView([BASE_POINT.lat, BASE_POINT.lng], 14);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '', maxZoom: 19 }).addTo(mapInstance);
+  const center = new naver.maps.LatLng(BASE_POINT.lat, BASE_POINT.lng);
 
-  L.marker([BASE_POINT.lat, BASE_POINT.lng], {
-    icon: L.divIcon({ html: '<div class="base-marker">🏢</div>', className: '', iconSize: [38,38], iconAnchor: [19,19] })
-  }).addTo(mapInstance).bindPopup(`<b>${BASE_POINT.name}</b><br>기준점 (경복궁역)`);
+  mapInstance = new naver.maps.Map('map', {
+    center: center,
+    zoom: 14,
+    zoomControl: true,
+    zoomControlOptions: {
+      position: naver.maps.Position.TOP_RIGHT
+    }
+  });
 
-  L.circle([BASE_POINT.lat, BASE_POINT.lng], {
-    radius: 3000, color: '#6366f1', weight: 1.5,
-    fillColor: '#6366f1', fillOpacity: 0.04, dashArray: '6 4'
-  }).addTo(mapInstance);
+  // 기준점 마커
+  const baseMarker = new naver.maps.Marker({
+    position: center,
+    map: mapInstance,
+    icon: {
+      content: '<div class="base-marker">🏢</div>',
+      size: new naver.maps.Size(38, 38),
+      anchor: new naver.maps.Point(19, 19)
+    }
+  });
+  const baseInfoWindow = new naver.maps.InfoWindow({
+    content: `<div style="padding:10px;min-width:120px"><b>${BASE_POINT.name}</b><br>기준점 (경복궁역)</div>`
+  });
+  naver.maps.Event.addListener(baseMarker, 'click', () => {
+    baseInfoWindow.open(mapInstance, baseMarker);
+  });
+
+  // 반경 3km 원
+  new naver.maps.Circle({
+    center: center,
+    radius: 3000,
+    map: mapInstance,
+    strokeColor: '#6366f1',
+    strokeWeight: 1.5,
+    strokeOpacity: 1,
+    fillColor: '#6366f1',
+    fillOpacity: 0.04,
+    strokeStyle: 'shortdash'
+  });
 
   allRestaurants.forEach(addMarkerForRestaurant);
 }
@@ -303,28 +349,49 @@ function initMap() {
 function addMarkerForRestaurant(r) {
   if (!mapInstance) return;
   const q = encodeURIComponent(r.name + ' ' + r.address);
-  const marker = L.marker([r.lat, r.lng], {
-    icon: L.divIcon({
-      html: `<div class="restaurant-marker">${getCuisineEmoji(r.tags)}</div>`,
-      className: '', iconSize: [32,32], iconAnchor: [16,16]
-    })
-  }).addTo(mapInstance).bindPopup(`
-    <b>${r.name}</b><br>
-    <span style="font-size:11px;color:#6b7280">${r.address}</span><br>
-    <span style="font-size:12px">${r.mainMenu.join(' · ')}</span><br>
-    <div style="margin-top:6px;display:flex;gap:6px">
-      <a href="https://map.naver.com/p/search/${q}" target="_blank"
-         style="font-size:11px;color:#03c75a;font-weight:600;">🗺️ 네이버</a>
-      <a href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank"
-         style="font-size:11px;color:#4285f4;font-weight:600;">🌍 구글</a>
-    </div>
-  `);
-  markerMap.set(r.id, marker);
+  const position = new naver.maps.LatLng(r.lat, r.lng);
+
+  const marker = new naver.maps.Marker({
+    position: position,
+    map: mapInstance,
+    icon: {
+      content: `<div class="restaurant-marker">${getCuisineEmoji(r.tags)}</div>`,
+      size: new naver.maps.Size(32, 32),
+      anchor: new naver.maps.Point(16, 16)
+    }
+  });
+
+  const infoWindow = new naver.maps.InfoWindow({
+    content: `
+      <div style="padding:10px;min-width:180px">
+        <b>${r.name}</b><br>
+        <span style="font-size:11px;color:#6b7280">${r.address}</span><br>
+        <span style="font-size:12px">${r.mainMenu.join(' · ')}</span><br>
+        <div style="margin-top:6px;display:flex;gap:6px">
+          <a href="https://map.naver.com/p/search/${q}" target="_blank"
+             style="font-size:11px;color:#03c75a;font-weight:600;">🗺️ 네이버</a>
+          <a href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank"
+             style="font-size:11px;color:#4285f4;font-weight:600;">🌍 구글</a>
+        </div>
+      </div>
+    `
+  });
+
+  naver.maps.Event.addListener(marker, 'click', () => {
+    // 다른 InfoWindow 닫기
+    markerMap.forEach(({ infoWindow: iw }) => iw.close());
+    infoWindow.open(mapInstance, marker);
+  });
+
+  markerMap.set(r.id, { marker, infoWindow });
 }
 
 function updateMarker(r) {
-  const old = markerMap.get(r.id);
-  if (old && mapInstance) mapInstance.removeLayer(old);
+  const entry = markerMap.get(r.id);
+  if (entry) {
+    entry.marker.setMap(null);
+    entry.infoWindow.close();
+  }
   markerMap.delete(r.id);
   addMarkerForRestaurant(r);
 }
@@ -336,8 +403,11 @@ function deleteRestaurant(id) {
   if (!confirm(`"${r.name}"을(를) 삭제하시겠습니까?`)) return;
 
   allRestaurants = allRestaurants.filter(x => x.id !== id);
-  const marker = markerMap.get(id);
-  if (marker && mapInstance) mapInstance.removeLayer(marker);
+  const entry = markerMap.get(id);
+  if (entry) {
+    entry.marker.setMap(null);
+    entry.infoWindow.close();
+  }
   markerMap.delete(id);
 
   saveState();
@@ -492,6 +562,6 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('add-form').addEventListener('submit', handleSubmit);
 
   window.addEventListener('resize', () => {
-    if (mapInstance) mapInstance.invalidateSize();
+    if (mapInstance) naver.maps.Event.trigger(mapInstance, 'resize');
   });
 });

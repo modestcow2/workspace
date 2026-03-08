@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:50:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "슬로우캘리 종각역",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 1층 Retail 1R-7호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 1층 Retail 1R-7호",
+      "mapx": "1269836590",
+      "mapy": "375714967"
+    },
+    {
+      "title": "알라보 종각센트로폴리스점",
+      "link": "",
+      "category": "음식점>도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
+      "mapx": "1269836537",
+      "mapy": "375715557"
+    },
+    {
+      "title": "샐러디 종로구청점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 종로1가 대성스카이렉스 1층 110호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 종로1가 대성스카이렉스 1층 110호",
+      "mapx": "1269827978",
+      "mapy": "375724095"
+    },
+    {
+      "title": "사랑해베이글 종로 94빌딩점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 144 94빌딩, 1층 103호",
+      "roadAddress": "서울특별시 종로구 삼봉로 94 94빌딩, 1층 103호",
+      "mapx": "1269822393",
+      "mapy": "375717780"
+    },
+    {
+      "title": "Poke all day <b>포케</b>&amp;샐러드 종로점",
+      "link": "https://pokeallday.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 4-4 2층",
+      "roadAddress": "서울특별시 종로구 종로16길 11 2층",
+      "mapx": "1269886932",
+      "mapy": "375695892"
+    }
+  ]
+}

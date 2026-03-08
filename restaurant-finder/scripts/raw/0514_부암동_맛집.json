@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자하1993",
+      "link": "https://www.instagram.com/zaha1993_/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 245-5",
+      "roadAddress": "서울특별시 종로구 백석동길 8",
+      "mapx": "1269660115",
+      "mapy": "375928815"
+    },
+    {
+      "title": "계열사",
+      "link": "https://app.catchtable.co.kr/ct/shop/gaeyeoalsa",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 258-3",
+      "roadAddress": "서울특별시 종로구 백석동길 7",
+      "mapx": "1269656561",
+      "mapy": "375928996"
+    },
+    {
+      "title": "자하손만두",
+      "link": "https://app.catchtable.co.kr/ct/shop/jahasonmandoo",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 245-2",
+      "roadAddress": "서울특별시 종로구 백석동길 12",
+      "mapx": "1269660928",
+      "mapy": "375932163"
+    },
+    {
+      "title": "희작",
+      "link": "https://www.instagram.com/huijak_seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 97-3 지하1",
+      "roadAddress": "서울특별시 종로구 백석동길 155 지하1",
+      "mapx": "1269677317",
+      "mapy": "375955114"
+    },
+    {
+      "title": "맘스키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/momskitchen",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 274-1",
+      "roadAddress": "서울특별시 종로구 창의문로 146",
+      "mapx": "1269643922",
+      "mapy": "375929282"
+    }
+  ]
+}

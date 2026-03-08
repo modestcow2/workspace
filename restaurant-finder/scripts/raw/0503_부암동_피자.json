@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아델라베일리",
+      "link": "https://blog.naver.com/kiyna",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 23-3",
+      "roadAddress": "서울특별시 종로구 북악산로 48",
+      "mapx": "1269702503",
+      "mapy": "375952438"
+    },
+    {
+      "title": "다움223.1",
+      "link": "https://app.catchtable.co.kr/ct/shop/dawoom",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 281-13 지상1층",
+      "roadAddress": "서울특별시 종로구 자하문로 223-1 지상1층",
+      "mapx": "1269633692",
+      "mapy": "375941934"
+    },
+    {
+      "title": "파란대문",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 219-2 1층",
+      "roadAddress": "서울특별시 종로구 창의문로 168 1층",
+      "mapx": "1269638593",
+      "mapy": "375947873"
+    },
+    {
+      "title": "카페 클래식",
+      "link": "https://www.instagram.com/cafeclassic_official?igsh=MXIxajU5cTljZWtndQ==",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 63-9 1층",
+      "roadAddress": "서울특별시 종로구 홍지문길 27 1층",
+      "mapx": "1269568983",
+      "mapy": "376018944"
+    },
+    {
+      "title": "<b>부암동</b> 7번지 제빵소",
+      "link": "https://www.instagram.com/buam_7st_bakery/?utm_source=ig_web_button_share_sheet",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 7 7번지 제빵소",
+      "roadAddress": "서울특별시 종로구 북악산로 147 부암동 7번지 제빵소",
+      "mapx": "1269735209",
+      "mapy": "375980256"
+    }
+  ]
+}

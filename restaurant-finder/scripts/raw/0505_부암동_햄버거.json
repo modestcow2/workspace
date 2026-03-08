@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "레이지버거클럽 부암점",
+      "link": "http://instagram.com/lazyburgerclub",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-7 2층",
+      "roadAddress": "서울특별시 종로구 창의문로 137 2층",
+      "mapx": "1269652698",
+      "mapy": "375925610"
+    },
+    {
+      "title": "다움223.1",
+      "link": "https://app.catchtable.co.kr/ct/shop/dawoom",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 281-13 지상1층",
+      "roadAddress": "서울특별시 종로구 자하문로 223-1 지상1층",
+      "mapx": "1269633692",
+      "mapy": "375941934"
+    },
+    {
+      "title": "BBQ세검정점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 131-2",
+      "roadAddress": "서울특별시 종로구 세검정로 258-1",
+      "mapx": "1269611360",
+      "mapy": "376015240"
+    },
+    {
+      "title": "멜팅그릴 상명대점",
+      "link": "",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 55-1 1층",
+      "roadAddress": "서울특별시 종로구 홍지문2길 7 1층",
+      "mapx": "1269559124",
+      "mapy": "376010069"
+    },
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Sun, 08 Mar 2026 21:51:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도마 유즈<b>라멘</b>",
+      "link": "https://www.instagram.com/yuzu_ramen2",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-6 유즈라멘",
+      "roadAddress": "서울특별시 종로구 북촌로2길 14 유즈라멘",
+      "mapx": "1269865232",
+      "mapy": "375778648"
+    },
+    {
+      "title": "삼방매",
+      "link": "https://instagram.com/sambangmae?igshid=1urjfbecqrdbo",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 160-2 삼방매 본점",
+      "roadAddress": "서울특별시 종로구 율곡로5길 3-11 삼방매 본점",
+      "mapx": "1269846726",
+      "mapy": "375765832"
+    },
+    {
+      "title": "도모다찌<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 132-2",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 32",
+      "mapx": "1269893871",
+      "mapy": "375741791"
+    },
+    {
+      "title": "멘츠루 종로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mentsurujn",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 111호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 111호",
+      "mapx": "1269827990",
+      "mapy": "375724459"
+    },
+    {
+      "title": "카나르",
+      "link": "https://www.instagram.com/canard_ramen",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 58-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11가길 65 1층",
+      "mapx": "1269902963",
+      "mapy": "375755367"
+    }
+  ]
+}

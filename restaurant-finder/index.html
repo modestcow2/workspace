@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>경복궁역 맛집 찾기</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="bg-gray-50 text-gray-900">
+
+  <!-- Header -->
+  <header class="bg-white shadow-sm sticky top-0 z-40">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+      <div>
+        <h1 class="text-lg sm:text-xl font-bold text-indigo-700">🍽️ 경복궁역 맛집 찾기</h1>
+        <p class="text-xs text-gray-400">한국생산성본부 기준 반경 3km 이내 식당 25곳</p>
+      </div>
+      <span class="text-xs font-semibold bg-indigo-50 text-indigo-600 px-3 py-1 rounded-full whitespace-nowrap">📍 경복궁역</span>
+    </div>
+  </header> 
+
+  <main class="max-w-7xl mx-auto px-4 py-6">
+
+    <!-- Filter Panel -->
+    <section id="filter-panel" class="bg-white rounded-xl shadow-sm p-4 mb-4">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-sm font-semibold text-gray-700">필터</h2>
+        <button id="reset-btn" class="text-xs text-gray-400 hover:text-red-500 transition-colors" style="display:none">
+          전체 초기화
+        </button>
+      </div>
+      <!-- 필터 뱃지 그룹은 JS에서 렌더링 -->
+    </section>
+
+    <!-- Active Filter Chips -->
+    <div id="active-filters" class="flex flex-wrap gap-2 mb-4" style="display:none"></div>
+
+    <!-- Summary + Buttons -->
+    <div class="flex items-center justify-between mb-4 gap-3 flex-wrap">
+      <p id="result-summary" class="text-sm text-gray-500"></p>
+      <div class="flex items-center gap-2">
+        <button id="reset-data-btn" style="display:none"
+          class="text-xs text-orange-500 hover:text-orange-700 border border-orange-300 hover:border-orange-500 px-3 py-1.5 rounded-lg transition-colors whitespace-nowrap">
+          ↺ 변경사항 초기화
+        </button>
+        <button id="add-restaurant-btn"
+          class="flex items-center gap-1 bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors shadow-sm whitespace-nowrap">
+          + 식당 추가
+        </button>
+      </div>
+    </div>
+
+    <!-- Content Grid (지도 + 카드) -->
+    <div class="content-grid">
+
+      <!-- 카드 영역 (left) -->
+      <div class="content-left">
+        <div id="restaurant-grid" class="grid grid-cols-1 sm:grid-cols-2 gap-4"></div>
+        <div id="empty-state" style="display:none" class="text-center py-16 text-gray-400">
+          <p class="text-5xl mb-3">🔍</p>
+          <p class="text-base font-medium">조건에 맞는 식당이 없습니다</p>
+          <p class="text-sm mt-1">다른 필터를 선택해보세요</p>
+        </div>
+      </div>
+
+      <!-- 지도 영역 (right / mobile: top) -->
+      <div class="content-right">
+        <div id="map" class="rounded-xl overflow-hidden shadow-sm w-full"></div>
+        <p class="text-xs text-gray-400 mt-1.5 text-right">© OpenStreetMap contributors</p>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- 식당 추가 모달 -->
+  <div id="modal-overlay" class="fixed inset-0 bg-black/50 z-50 items-center justify-center p-4" style="display:none">
+    <div class="bg-white rounded-2xl shadow-2xl w-full max-w-lg max-h-[90vh] overflow-y-auto">
+      <div class="p-5 sm:p-6">
+
+        <div class="flex items-center justify-between mb-5">
+          <h2 id="modal-title" class="text-lg font-bold">🍴 식당 직접 등록</h2>
+          <button id="modal-close" class="text-gray-400 hover:text-gray-700 text-3xl leading-none">&times;</button>
+        </div>
+
+        <form id="add-form" novalidate>
+
+          <div class="form-group">
+            <label class="form-label">식당 이름 <span class="text-red-500">*</span></label>
+            <input type="text" name="restaurantName" class="form-input" placeholder="예: 광화문 파스타" required />
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">주소 <span class="text-red-500">*</span></label>
+            <input type="text" name="address" class="form-input" placeholder="예: 서울 종로구 새문안로 32" required />
+          </div>
+
+          <!-- 좌표 찾기 안내 -->
+          <div class="bg-blue-50 border border-blue-200 rounded-lg p-3 mb-4 text-xs text-blue-700 leading-relaxed">
+            <p class="font-bold mb-1.5">📌 좌표(위도·경도) 찾는 방법</p>
+            <ol class="list-decimal list-inside space-y-0.5">
+              <li><strong>Google Maps</strong>에서 식당 검색 후 마커를 우클릭</li>
+              <li>좌표 숫자를 클릭하면 클립보드에 자동 복사됨</li>
+              <li>또는 <strong>Naver지도</strong> URL 파라미터에서 확인 가능</li>
+            </ol>
+            <p class="mt-2 text-blue-500">※ 비워두면 기준점(한국생산성본부)으로 자동 설정됩니다</p>
+          </div>
+
+          <div class="grid grid-cols-2 gap-3 mb-4">
+            <div>
+              <label class="form-label">위도 (Latitude)</label>
+              <input type="number" name="lat" class="form-input" placeholder="37.5796" step="any" />
+            </div>
+            <div>
+              <label class="form-label">경도 (Longitude)</label>
+              <input type="number" name="lng" class="form-input" placeholder="126.9770" step="any" />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">
+              대표 메뉴 <span class="text-red-500">*</span>
+              <span class="font-normal text-gray-400 ml-1">(쉼표로 구분)</span>
+            </label>
+            <input type="text" name="mainMenu" class="form-input" placeholder="예: 비빔밥, 된장찌개, 불고기" required />
+          </div>
+
+          <div class="grid grid-cols-2 gap-3 mb-4">
+            <div>
+              <label class="form-label">가격대</label>
+              <select name="priceRange" class="form-input bg-white">
+                <option value="₩">₩ 저렴 (~8천원)</option>
+                <option value="₩₩" selected>₩₩ 보통 (~1.5만)</option>
+                <option value="₩₩₩">₩₩₩ 약간 비쌈</option>
+                <option value="₩₩₩₩">₩₩₩₩ 고급</option>
+              </select>
+            </div>
+            <div>
+              <label class="form-label">영업시간</label>
+              <input type="text" name="openHours" class="form-input" placeholder="11:00~21:00" />
+            </div>
+          </div>
+
+          <!-- 태그 선택 -->
+          <div class="mb-4">
+            <label class="form-label mb-2">
+              태그 선택
+              <span class="font-normal text-gray-400">(복수 선택 가능)</span>
+            </label>
+            <div id="tag-selector" class="space-y-3"></div>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">한 줄 특징 <span class="font-normal text-gray-400">(선택)</span></label>
+            <input type="text" name="tip" class="form-input" placeholder="이 식당의 특징을 간단히..." />
+          </div>
+
+          <div class="flex gap-3 pt-2">
+            <button type="button" id="modal-cancel"
+              class="flex-1 py-2.5 border border-gray-300 text-gray-700 rounded-lg text-sm font-medium hover:bg-gray-50 transition-colors">
+              취소
+            </button>
+            <button type="submit"
+              class="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-sm font-bold transition-colors">
+              등록하기
+            </button>
+          </div>
+
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

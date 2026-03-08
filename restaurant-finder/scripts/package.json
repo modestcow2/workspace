@@ -1,0 +1,13 @@
+{
+  "name": "restaurant-collector",
+  "version": "1.0.0",
+  "private": true,
+  "description": "네이버 지역 검색 API를 활용한 경복궁역 근처 식당 데이터 수집",
+  "scripts": {
+    "collect": "node collect-restaurants.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "proj4": "^2.9.0"
+  }
+}

@@ -10,9 +10,9 @@ const activeFilters = {
   cuisine: new Set(), temp: new Set(), occasion: new Set(), health: new Set()
 };
 let allRestaurants = [];
-let markerMap    = new Map();   // id → { marker, infoWindow }
-let mapInstance  = null;
 let editingId    = null;        // null=신규등록, number=편집 중인 id
+let currentPage     = 1;
+const ITEMS_PER_PAGE = 18;
 
 // ─── 유틸 ────────────────────────────────────────────────────────────────────
 const getCuisineEmoji = () => '🍽️';
@@ -91,14 +91,8 @@ function resetAllData() {
   localStorage.removeItem(STORAGE_CUSTOMS);
   localStorage.removeItem(STORAGE_OVERRIDES);
 
-  // 지도 마커 전체 제거 후 재구성
-  markerMap.forEach(({ marker, infoWindow }) => {
-    marker.setMap(null);
-    infoWindow.close();
-  });
-  markerMap.clear();
   allRestaurants = [...RESTAURANTS];
-  allRestaurants.forEach(addMarkerForRestaurant);
+  currentPage = 1;
 
   updateResetDataBtn();
   render();
@@ -122,44 +116,70 @@ function filterRestaurants() {
 
 function toggleFilter(cat, tag) {
   activeFilters[cat].has(tag) ? activeFilters[cat].delete(tag) : activeFilters[cat].add(tag);
+  currentPage = 1;
   render();
 }
 
 function resetFilters() {
   Object.keys(activeFilters).forEach(k => activeFilters[k].clear());
+  currentPage = 1;
   render();
 }
 
 const hasActiveFilters = () => Object.values(activeFilters).some(s => s.size > 0);
 
 // ─── 렌더: 필터 패널 ──────────────────────────────────────────────────────────
+let activeTab = null;   // 현재 열린 탭 카테고리
+
 function renderFilterPanel() {
   const panel = document.getElementById('filter-panel');
-  panel.querySelectorAll('.filter-group').forEach(el => el.remove());
+  panel.querySelectorAll('.filter-tabs-wrap, .filter-options').forEach(el => el.remove());
   document.getElementById('reset-btn').style.display = hasActiveFilters() ? '' : 'none';
 
-  Object.entries(FILTER_META).forEach(([cat, meta]) => {
-    const group = document.createElement('div');
-    group.className = 'filter-group mb-3 last:mb-0';
+  // ── 탭 행 ──
+  const tabsWrap = document.createElement('div');
+  tabsWrap.className = 'filter-tabs-wrap';
+  const tabs = document.createElement('div');
+  tabs.className = 'filter-tabs';
 
-    const label = document.createElement('p');
-    label.className = 'text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2';
-    label.textContent = (meta.icon ? meta.icon + ' ' : '') + meta.label;
-    group.appendChild(label);
+  Object.entries(FILTER_META).forEach(([cat, meta]) => {
+    const count = activeFilters[cat].size;
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'filter-tab' + (activeTab === cat ? ' active' : '');
+
+    let label = (meta.icon ? meta.icon + ' ' : '') + meta.label;
+    btn.innerHTML = label + (count > 0 ? ` <span class="tab-count">${count}</span>` : '');
+
+    btn.addEventListener('click', () => {
+      activeTab = activeTab === cat ? null : cat;
+      renderFilterPanel();
+    });
+    tabs.appendChild(btn);
+  });
+
+  tabsWrap.appendChild(tabs);
+  panel.appendChild(tabsWrap);
+
+  // ── 옵션 영역 (선택된 탭만) ──
+  if (activeTab && FILTER_META[activeTab]) {
+    const meta = FILTER_META[activeTab];
+    const optionsDiv = document.createElement('div');
+    optionsDiv.className = 'filter-options visible';
 
     const row = document.createElement('div');
     row.className = 'flex flex-wrap gap-2';
     meta.options.forEach(tag => {
       const btn = document.createElement('button');
       btn.type = 'button';
-      btn.className = 'filter-badge' + (activeFilters[cat].has(tag) ? ' active' : '');
+      btn.className = 'filter-badge' + (activeFilters[activeTab].has(tag) ? ' active' : '');
       btn.textContent = tag;
-      btn.addEventListener('click', () => toggleFilter(cat, tag));
+      btn.addEventListener('click', () => toggleFilter(activeTab, tag));
       row.appendChild(btn);
     });
-    group.appendChild(row);
-    panel.appendChild(group);
-  });
+    optionsDiv.appendChild(row);
+    panel.appendChild(optionsDiv);
+  }
 }
 
 // ─── 렌더: 활성 필터 칩 ──────────────────────────────────────────────────────
@@ -189,11 +209,18 @@ function renderCards(filtered) {
   if (filtered.length === 0) {
     grid.innerHTML = '';
     empty.style.display = '';
+    renderPagination(0);
     return;
   }
   empty.style.display = 'none';
 
-  grid.innerHTML = filtered.map(r => {
+  // 페이지네이션 적용
+  const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE);
+  if (currentPage > totalPages) currentPage = totalPages;
+  const start = (currentPage - 1) * ITEMS_PER_PAGE;
+  const paged = filtered.slice(start, start + ITEMS_PER_PAGE);
+
+  grid.innerHTML = paged.map(r => {
     const isCustom   = !!r._custom;
     const isModified = !isCustom && JSON.stringify(RESTAURANTS.find(x => x.id === r.id)) !== JSON.stringify(r);
     const badgeHtml  = isCustom
@@ -264,31 +291,7 @@ function renderCards(filtered) {
     });
   });
 
-  // 카드 클릭 → 지도 포커스
-  grid.querySelectorAll('.restaurant-card').forEach(card => {
-    card.addEventListener('click', e => {
-      if (e.target.closest('.card-actions')) return;
-      const entry = markerMap.get(+card.dataset.id);
-      if (entry && mapInstance) {
-        entry.infoWindow.open(mapInstance, entry.marker);
-        mapInstance.setCenter(entry.marker.getPosition());
-        mapInstance.setZoom(16);
-      }
-    });
-  });
-}
-
-// ─── 렌더: 지도 마커 dim 처리 ────────────────────────────────────────────────
-function renderMapMarkers(filtered) {
-  if (!mapInstance) return;
-  const filteredIds = new Set(filtered.map(r => r.id));
-  markerMap.forEach(({ marker }, id) => {
-    const el = marker.getElement();
-    if (el) {
-      const markerDiv = el.querySelector('.restaurant-marker');
-      if (markerDiv) markerDiv.classList.toggle('dimmed', !filteredIds.has(id));
-    }
-  });
+  renderPagination(filtered.length);
 }
 
 // ─── 메인 렌더 ───────────────────────────────────────────────────────────────
@@ -297,103 +300,63 @@ function render() {
   renderFilterPanel();
   renderActiveChips();
   renderCards(filtered);
-  renderMapMarkers(filtered);
 }
 
-// ─── 네이버 지도 초기화 ──────────────────────────────────────────────────────
-function initMap() {
-  const center = new naver.maps.LatLng(BASE_POINT.lat, BASE_POINT.lng);
+// ─── 렌더: 페이지네이션 ─────────────────────────────────────────────────────
+function renderPagination(totalItems) {
+  const container = document.getElementById('pagination');
+  const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
 
-  mapInstance = new naver.maps.Map('map', {
-    center: center,
-    zoom: 14,
-    zoomControl: true,
-    zoomControlOptions: {
-      position: naver.maps.Position.TOP_RIGHT
-    }
-  });
-
-  // 기준점 마커
-  const baseMarker = new naver.maps.Marker({
-    position: center,
-    map: mapInstance,
-    icon: {
-      content: '<div class="base-marker">🏢</div>',
-      size: new naver.maps.Size(38, 38),
-      anchor: new naver.maps.Point(19, 19)
-    }
-  });
-  const baseInfoWindow = new naver.maps.InfoWindow({
-    content: `<div style="padding:10px;min-width:120px"><b>${BASE_POINT.name}</b><br>기준점 (경복궁역)</div>`
-  });
-  naver.maps.Event.addListener(baseMarker, 'click', () => {
-    baseInfoWindow.open(mapInstance, baseMarker);
-  });
-
-  // 반경 3km 원
-  new naver.maps.Circle({
-    center: center,
-    radius: 3000,
-    map: mapInstance,
-    strokeColor: '#6366f1',
-    strokeWeight: 1.5,
-    strokeOpacity: 1,
-    fillColor: '#6366f1',
-    fillOpacity: 0.04,
-    strokeStyle: 'shortdash'
-  });
-
-  allRestaurants.forEach(addMarkerForRestaurant);
-}
-
-function addMarkerForRestaurant(r) {
-  if (!mapInstance) return;
-  const q = encodeURIComponent(r.name + ' ' + r.address);
-  const position = new naver.maps.LatLng(r.lat, r.lng);
-
-  const marker = new naver.maps.Marker({
-    position: position,
-    map: mapInstance,
-    icon: {
-      content: `<div class="restaurant-marker">${getCuisineEmoji(r.tags)}</div>`,
-      size: new naver.maps.Size(32, 32),
-      anchor: new naver.maps.Point(16, 16)
-    }
-  });
-
-  const infoWindow = new naver.maps.InfoWindow({
-    content: `
-      <div style="padding:10px;min-width:180px">
-        <b>${r.name}</b><br>
-        <span style="font-size:11px;color:#6b7280">${r.address}</span><br>
-        <span style="font-size:12px">${r.mainMenu.join(' · ')}</span><br>
-        <div style="margin-top:6px;display:flex;gap:6px">
-          <a href="https://map.naver.com/p/search/${q}" target="_blank"
-             style="font-size:11px;color:#03c75a;font-weight:600;">🗺️ 네이버</a>
-          <a href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank"
-             style="font-size:11px;color:#4285f4;font-weight:600;">🌍 구글</a>
-        </div>
-      </div>
-    `
-  });
-
-  naver.maps.Event.addListener(marker, 'click', () => {
-    // 다른 InfoWindow 닫기
-    markerMap.forEach(({ infoWindow: iw }) => iw.close());
-    infoWindow.open(mapInstance, marker);
-  });
-
-  markerMap.set(r.id, { marker, infoWindow });
-}
-
-function updateMarker(r) {
-  const entry = markerMap.get(r.id);
-  if (entry) {
-    entry.marker.setMap(null);
-    entry.infoWindow.close();
+  if (totalPages <= 1) {
+    container.innerHTML = '';
+    return;
   }
-  markerMap.delete(r.id);
-  addMarkerForRestaurant(r);
+
+  let html = '';
+
+  // 이전 버튼
+  html += `<button class="page-btn" data-page="prev" ${currentPage === 1 ? 'disabled' : ''}>‹ 이전</button>`;
+
+  // 페이지 번호 (최대 7개 표시, 양 끝 + 현재 주변)
+  const pages = [];
+  if (totalPages <= 7) {
+    for (let i = 1; i <= totalPages; i++) pages.push(i);
+  } else {
+    pages.push(1);
+    let start = Math.max(2, currentPage - 1);
+    let end = Math.min(totalPages - 1, currentPage + 1);
+    if (currentPage <= 3) { start = 2; end = 5; }
+    if (currentPage >= totalPages - 2) { start = totalPages - 4; end = totalPages - 1; }
+    if (start > 2) pages.push('...');
+    for (let i = start; i <= end; i++) pages.push(i);
+    if (end < totalPages - 1) pages.push('...');
+    pages.push(totalPages);
+  }
+
+  pages.forEach(p => {
+    if (p === '...') {
+      html += `<span class="text-gray-400 px-1">…</span>`;
+    } else {
+      html += `<button class="page-btn${p === currentPage ? ' active' : ''}" data-page="${p}">${p}</button>`;
+    }
+  });
+
+  // 다음 버튼
+  html += `<button class="page-btn" data-page="next" ${currentPage === totalPages ? 'disabled' : ''}>다음 ›</button>`;
+
+  container.innerHTML = html;
+
+  // 이벤트 바인딩
+  container.querySelectorAll('.page-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const val = btn.dataset.page;
+      if (val === 'prev') currentPage--;
+      else if (val === 'next') currentPage++;
+      else currentPage = +val;
+      render();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
 }
 
 // ─── 식당 삭제 (모든 식당 공통) ──────────────────────────────────────────────
@@ -403,12 +366,6 @@ function deleteRestaurant(id) {
   if (!confirm(`"${r.name}"을(를) 삭제하시겠습니까?`)) return;
 
   allRestaurants = allRestaurants.filter(x => x.id !== id);
-  const entry = markerMap.get(id);
-  if (entry) {
-    entry.marker.setMap(null);
-    entry.infoWindow.close();
-  }
-  markerMap.delete(id);
 
   saveState();
   updateResetDataBtn();
@@ -513,7 +470,6 @@ function handleSubmit(e) {
       tags,
       tip: (data.get('tip') || '').trim(),
     };
-    updateMarker(allRestaurants[idx]);
     saveState();
     updateResetDataBtn();
     closeModal();
@@ -532,7 +488,6 @@ function handleSubmit(e) {
       _custom: true,
     };
     allRestaurants.push(restaurant);
-    addMarkerForRestaurant(restaurant);
     saveState();
     updateResetDataBtn();
     closeModal();
@@ -547,7 +502,6 @@ function handleSubmit(e) {
 // ─── 초기화 ──────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
   loadState();
-  initMap();
   render();
   updateResetDataBtn();
 
@@ -561,7 +515,4 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   document.getElementById('add-form').addEventListener('submit', handleSubmit);
 
-  window.addEventListener('resize', () => {
-    if (mapInstance) naver.maps.Event.trigger(mapInstance, 'resize');
-  });
 });

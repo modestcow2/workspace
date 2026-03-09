@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그린보이즈 샐러드&amp;<b>포케</b> <b>신촌</b>직영점",
+      "link": "https://www.instagram.com/greenboyz.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-55 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 38 1층",
+      "mapx": "1269387436",
+      "mapy": "375583730"
+    },
+    {
+      "title": "시드위드 이대점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 1-3 103호 시드위드",
+      "roadAddress": "서울특별시 마포구 신촌로 150 103호 시드위드",
+      "mapx": "1269419077",
+      "mapy": "375563005"
+    },
+    {
+      "title": "Poke all day <b>포케</b>&amp;샐러드 <b>신촌</b>점",
+      "link": "https://pokeallday.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-13 1층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 16 1층",
+      "mapx": "1269353003",
+      "mapy": "375569976"
+    },
+    {
+      "title": "샐러드바스켓 <b>신촌</b>점",
+      "link": "https://www.instagram.com/saladbasket_sinchon",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 40-51 2층",
+      "roadAddress": "서울특별시 마포구 백범로1길 29 2층",
+      "mapx": "1269382784",
+      "mapy": "375550798"
+    },
+    {
+      "title": "슬로우캘리 <b>신촌</b>점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 49-1 1층",
+      "roadAddress": "서울특별시 서대문구 연세로12길 10 1층",
+      "mapx": "1269375037",
+      "mapy": "375588993"
+    }
+  ]
+}

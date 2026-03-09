@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "필동면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 1-5",
+      "roadAddress": "서울특별시 중구 서애로 26",
+      "mapx": "1269969235",
+      "mapy": "375603727"
+    },
+    {
+      "title": "오장동함흥냉면",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 오장동 90-10 함흥냉면",
+      "roadAddress": "서울특별시 중구 마른내로 108 오장동함흥냉면",
+      "mapx": "1269999668",
+      "mapy": "375643109"
+    },
+    {
+      "title": "평래옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 18-1",
+      "roadAddress": "서울특별시 중구 마른내로 21-1",
+      "mapx": "1269903879",
+      "mapy": "375649010"
+    },
+    {
+      "title": "동방명주 <b>충무로</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 37-3",
+      "roadAddress": "서울특별시 중구 퇴계로 186",
+      "mapx": "1269924029",
+      "mapy": "375608670"
+    },
+    {
+      "title": "태화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 묵정동 25-20",
+      "roadAddress": "서울특별시 중구 퇴계로50길 37",
+      "mapx": "1270011330",
+      "mapy": "375610168"
+    }
+  ]
+}

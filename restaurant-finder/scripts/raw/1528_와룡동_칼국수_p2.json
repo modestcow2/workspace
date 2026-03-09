@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>와룡동</b>닭매운탕",
+      "link": "https://smartstore.naver.com/wadak2014",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 38-1 동주빌딩 1층",
+      "roadAddress": "서울특별시 종로구 율곡로10길 30 동주빌딩 1층",
+      "mapx": "1269909994",
+      "mapy": "375761086"
+    },
+    {
+      "title": "황생가<b>칼국수</b>",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    },
+    {
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
+    },
+    {
+      "title": "대련집",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 163",
+      "roadAddress": "서울특별시 종로구 종로16길 37",
+      "mapx": "1269889029",
+      "mapy": "375683895"
+    },
+    {
+      "title": "혜화<b>칼국수</b>",
+      "link": "https://www.instagram.com/hyehwanoodlehouse",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 84-3",
+      "roadAddress": "서울특별시 종로구 창경궁로35길 13",
+      "mapx": "1270015420",
+      "mapy": "375865774"
+    }
+  ]
+}

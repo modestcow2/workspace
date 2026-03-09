@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "봉화묵집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 488-1",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 46-2",
+      "mapx": "1270107125",
+      "mapy": "376027154"
+    },
+    {
+      "title": "할머니<b>만두</b>국",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 107-22",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 9-8",
+      "mapx": "1270127999",
+      "mapy": "376023754"
+    },
+    {
+      "title": "청수장",
+      "link": "https://app.catchtable.co.kr/ct/shop/chungsoojang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 416-27",
+      "roadAddress": "서울특별시 성북구 정릉로 237-2",
+      "mapx": "1270107375",
+      "mapy": "376054650"
+    },
+    {
+      "title": "가부 <b>정릉</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 413-6 . 지상 2층",
+      "roadAddress": "서울특별시 성북구 보국문로 20 . 지상 2층",
+      "mapx": "1270111459",
+      "mapy": "376063131"
+    },
+    {
+      "title": "삼양동우동집 <b>정릉</b>직영점",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 164-2 1층 삼양동우동집 정릉직영점",
+      "roadAddress": "서울특별시 성북구 보국문로 6 1층 삼양동우동집 정릉직영점",
+      "mapx": "1270116522",
+      "mapy": "376052008"
+    }
+  ]
+}

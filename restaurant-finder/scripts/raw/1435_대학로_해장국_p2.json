@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼삼뼈국 <b>대학로</b>점",
+      "link": "https://33soup.co.kr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 27 1층",
+      "roadAddress": "서울특별시 종로구 대학로 129-10 1층",
+      "mapx": "1270012023",
+      "mapy": "375828374"
+    },
+    {
+      "title": "순대실록 <b>대학로</b>본점",
+      "link": "https://www.instagram.com/sundaesilrok/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-44 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 113 1층",
+      "mapx": "1270036997",
+      "mapy": "375829946"
+    },
+    {
+      "title": "동숭감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-22 1층",
+      "roadAddress": "서울특별시 종로구 동숭2길 3-8 1층",
+      "mapx": "1270044985",
+      "mapy": "375810574"
+    },
+    {
+      "title": "담미온 <b>대학로</b>점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 176-3",
+      "roadAddress": "서울특별시 종로구 대학로11길 48",
+      "mapx": "1269993623",
+      "mapy": "375826889"
+    },
+    {
+      "title": "혜화가마솥소머리순대국밥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 102-1 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로35길 3 1층",
+      "mapx": "1270012661",
+      "mapy": "375861329"
+    }
+  ]
+}

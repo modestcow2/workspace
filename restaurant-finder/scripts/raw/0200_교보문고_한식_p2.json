@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정백어가 광화문 피맛골본점",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "광화문석갈비 D타워점",
+      "link": "https://www.lumi.co.kr/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "엄용백 돼지구이 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-13",
+      "roadAddress": "서울특별시 종로구 율곡로4길 51",
+      "mapx": "1269812652",
+      "mapy": "375733835"
+    },
+    {
+      "title": "광화문정육",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 21-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
+      "mapx": "1269756171",
+      "mapy": "375712733"
+    },
+    {
+      "title": "일품진진수라 광화문점",
+      "link": "http://www.jinjinsura.com",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
+      "mapx": "1269805216",
+      "mapy": "375706504"
+    }
+  ]
+}

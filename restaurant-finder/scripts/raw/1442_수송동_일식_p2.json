@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오레노 야끼 종로점",
+      "link": "https://catchtable.co.kr/orenoyakki",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-25 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
+      "mapx": "1269813635",
+      "mapy": "375730606"
+    },
+    {
+      "title": "스시미치루",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
+      "mapx": "1269789959",
+      "mapy": "375739044"
+    },
+    {
+      "title": "VIP참치 종로구청점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 156 신라스테이 광화문점 B1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 신라스테이 광화문점 B1층",
+      "mapx": "1269808442",
+      "mapy": "375725008"
+    },
+    {
+      "title": "스시키마에",
+      "link": "https://catchtable.co.kr/sushikimae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 141호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 141호",
+      "mapx": "1269818155",
+      "mapy": "375723952"
+    },
+    {
+      "title": "VIP참치 석탄회관점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 80-6 석탄회관 지하1층",
+      "roadAddress": "서울특별시 종로구 종로5길 58 석탄회관 지하1층",
+      "mapx": "1269805012",
+      "mapy": "375728786"
+    }
+  ]
+}

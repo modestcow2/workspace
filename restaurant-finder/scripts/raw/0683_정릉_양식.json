@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포도집",
+      "link": "http://www.instagram.com/podojib_",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 132-2 1층",
+      "roadAddress": "서울특별시 성북구 정릉로32길 4 1층",
+      "mapx": "1270165782",
+      "mapy": "376027961"
+    },
+    {
+      "title": "예술피자 돈암점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 644 상가2동 106호",
+      "roadAddress": "서울특별시 성북구 아리랑로 75 상가2동 106호",
+      "mapx": "1270135920",
+      "mapy": "375993629"
+    },
+    {
+      "title": "르한스",
+      "link": "https://app.catchtable.co.kr/ct/shop/lehans",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 918",
+      "roadAddress": "서울특별시 성북구 정릉로10길 127",
+      "mapx": "1269983456",
+      "mapy": "376041052"
+    },
+    {
+      "title": "도이칠란드 박",
+      "link": "http://instagram.com/deutsc.park",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 372-37 1층",
+      "roadAddress": "서울특별시 성북구 솔샘로6길 30-15 1층",
+      "mapx": "1270069617",
+      "mapy": "376087966"
+    },
+    {
+      "title": "맘스터치 돈암하늘채점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 644 상가 3동 지1층 111호",
+      "roadAddress": "서울특별시 성북구 아리랑로 75 상가 3동 지1층 111호",
+      "mapx": "1270133699",
+      "mapy": "375997159"
+    }
+  ]
+}

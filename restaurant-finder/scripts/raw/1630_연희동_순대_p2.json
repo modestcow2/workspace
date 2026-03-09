@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "백암왕<b>순대</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 122-18 백암왕순대",
+      "roadAddress": "서울특별시 서대문구 증가로 13-6 백암왕순대",
+      "mapx": "1269310668",
+      "mapy": "375693945"
+    },
+    {
+      "title": "황남국밥 연희본점",
+      "link": "https://smartstore.naver.com/hwangnamgukbap",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 137-15 1층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 32 1층",
+      "mapx": "1269307375",
+      "mapy": "375676631"
+    },
+    {
+      "title": "담음",
+      "link": "https://blog.naver.com/jujeomdameum",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-10 1층 (1.5층 담음)",
+      "roadAddress": "서울특별시 서대문구 연희맛로 5 1층 (1.5층 담음)",
+      "mapx": "1269284693",
+      "mapy": "375661671"
+    },
+    {
+      "title": "연희옥 연희점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-55 1층",
+      "roadAddress": "서울특별시 서대문구 연희로 81-26 1층",
+      "mapx": "1269293542",
+      "mapy": "375659575"
+    },
+    {
+      "title": "전정국밥",
+      "link": "https://www.instagram.com/jj_gukbob?igsh=MTlkbXFjNXk3d3lweg%3D%3D&utm_source=qr",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-10 신관2층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 5 신관2층",
+      "mapx": "1269285311",
+      "mapy": "375660778"
+    }
+  ]
+}

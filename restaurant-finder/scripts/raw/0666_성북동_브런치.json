@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서울노마드",
+      "link": "http://instagram.com/seoulnomad_official",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동4가 124-1",
+      "roadAddress": "서울특별시 성북구 동소문로11길 5",
+      "mapx": "1270119483",
+      "mapy": "375915893"
+    },
+    {
+      "title": "아이코",
+      "link": "https://www.instagram.com/aico.seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 126-35 1층",
+      "roadAddress": "서울특별시 성북구 성북로15길 25 1층",
+      "mapx": "1269995929",
+      "mapy": "375927831"
+    },
+    {
+      "title": "혜화문아래",
+      "link": "https://instagram.com/cafe_hyehwamun?igshid=OGQ5ZDc2ODk2ZA==",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-4 1층",
+      "roadAddress": "서울특별시 성북구 창경궁로43길 16 1층",
+      "mapx": "1270043565",
+      "mapy": "375886927"
+    },
+    {
+      "title": "프로젝트 파이",
+      "link": "https://www.instagram.com/pp_projectpie",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 63-3 1층 102호 (코너) 프로젝트 파이",
+      "roadAddress": "서울특별시 성북구 성북로 82 1층 102호 (코너) 프로젝트 파이",
+      "mapx": "1269998652",
+      "mapy": "375934289"
+    },
+    {
+      "title": "페이퍼앤조모",
+      "link": "https://www.instagram.com/paper_jomo",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 97-29 지층",
+      "roadAddress": "서울특별시 성북구 성북로 114 지층",
+      "mapx": "1269965036",
+      "mapy": "375935181"
+    }
+  ]
+}

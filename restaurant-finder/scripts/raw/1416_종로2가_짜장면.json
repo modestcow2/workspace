@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한양중식 <b>종로</b>점",
+      "link": "http://www.instagram.com/haanyang/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
+      "mapx": "1269836975",
+      "mapy": "375706386"
+    },
+    {
+      "title": "탕화쿵푸마라탕 종각점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-5 2층",
+      "roadAddress": "서울특별시 종로구 종로 70-1 2층",
+      "mapx": "1269852964",
+      "mapy": "375700049"
+    },
+    {
+      "title": "마라공방 <b>종로</b>3가역점",
+      "link": "https://www.instagram.com/maragongbang_official/",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 71-6 2층",
+      "roadAddress": "서울특별시 종로구 종로 86 2층",
+      "mapx": "1269870196",
+      "mapy": "375699463"
+    },
+    {
+      "title": "안동장",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 315-1",
+      "roadAddress": "서울특별시 중구 을지로 124",
+      "mapx": "1269915576",
+      "mapy": "375661354"
+    },
+    {
+      "title": "인사동 화원",
+      "link": "http://instagram.com/choihun81",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-16 인사동 화원",
+      "roadAddress": "서울특별시 종로구 인사동8길 12 인사동 화원",
+      "mapx": "1269859642",
+      "mapy": "375738998"
+    }
+  ]
+}

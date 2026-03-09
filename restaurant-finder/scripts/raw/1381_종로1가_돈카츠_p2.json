@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "코돈부르 광화문본점",
+      "link": "https://www.instagram.com/1999codonbur/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 종로타운 2층 215호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 종로타운 2층 215호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "후니도니",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 B113-5호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 B113-5호",
+      "mapx": "1269798081",
+      "mapy": "375707270"
+    },
+    {
+      "title": "모루카츠",
+      "link": "https://www.instagram.com/moru_katsu/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 지하1층 117-1(홀), 116-1(배달)",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하1층 117-1(홀), 116-1(배달)",
+      "mapx": "1269796639",
+      "mapy": "375710372"
+    },
+    {
+      "title": "만짱카츠",
+      "link": "https://www.instagram.com/manjjangkatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층(엘리베이터 13/14호기 앞, 관리사무소 옆)",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층(엘리베이터 13/14호기 앞, 관리사무소 옆)",
+      "mapx": "1269796863",
+      "mapy": "375709657"
+    }
+  ]
+}

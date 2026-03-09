@@ -104,7 +104,22 @@ const RULES = [
     price: '₩₩₩', menu: ['회'] },
 
   // 양식
-  { keywords: ['파스타', '스파게티', '이탈리안'],
+  { keywords: ['이탈리아음식', '이탈리안', '이탈리아'],
+    tags: { flavor: ['기름진'], texture: ['쫄깃한'], cooking: ['면류·파스타'], cuisine: ['양식'], temp: ['뜨끈한'], occasion: ['사교·회식'], health: [] },
+    price: '₩₩', menu: ['이탈리안'] },
+  { keywords: ['프랑스음식', '프렌치'],
+    tags: { flavor: ['기름진', '감칠맛'], texture: ['부드러운'], cooking: ['오븐·화덕'], cuisine: ['양식'], temp: ['뜨끈한'], occasion: ['사교·회식'], health: [] },
+    price: '₩₩₩', menu: ['프렌치'] },
+  { keywords: ['스페인음식'],
+    tags: { flavor: ['기름진', '짠'], texture: ['가벼운'], cooking: ['구이·볶음'], cuisine: ['양식'], temp: ['뜨끈한'], occasion: ['사교·회식'], health: [] },
+    price: '₩₩', menu: ['스페인요리'] },
+  { keywords: ['멕시코', '남미음식', '타코'],
+    tags: { flavor: ['매운', '기름진'], texture: ['바삭한'], cooking: ['구이·볶음'], cuisine: ['양식'], temp: ['뜨끈한'], occasion: ['사교·회식'], health: [] },
+    price: '₩₩', menu: ['멕시코요리'] },
+  { keywords: ['패밀리레스토랑'],
+    tags: { flavor: ['기름진'], texture: ['헤비한'], cooking: ['구이·볶음'], cuisine: ['양식'], temp: ['뜨끈한'], occasion: ['사교·회식'], health: [] },
+    price: '₩₩', menu: ['양식'] },
+  { keywords: ['파스타', '스파게티'],
     tags: { flavor: ['기름진'], texture: ['쫄깃한'], cooking: ['면류·파스타'], cuisine: ['양식'], temp: ['뜨끈한'], occasion: ['사교·회식'], health: [] },
     price: '₩₩', menu: ['파스타'] },
   { keywords: ['피자'],
@@ -116,14 +131,26 @@ const RULES = [
   { keywords: ['햄버거', '버거'],
     tags: { flavor: ['기름진', '짠'], texture: ['헤비한'], cooking: ['구이·볶음'], cuisine: ['양식'], temp: ['뜨끈한'], occasion: ['혼밥'], health: [] },
     price: '₩₩', menu: ['햄버거'] },
-  { keywords: ['브런치', '카페', '베이커리', '빵'],
+  { keywords: ['브런치'],
     tags: { flavor: ['단', '담백 깔끔'], texture: ['바삭한', '가벼운'], cooking: ['오븐·화덕'], cuisine: ['양식'], temp: ['뜨끈한'], occasion: ['혼밥'], health: [] },
     price: '₩₩', menu: ['브런치'] },
+  { keywords: ['카페', '베이커리', '빵', '디저트', '케이크', '마카롱', '와플', '크로플', '도넛', '아이스크림', '젤라토', '타르트'],
+    tags: { flavor: ['단'], texture: ['부드러운', '가벼운'], cooking: ['오븐·화덕'], cuisine: ['디저트·카페'], temp: ['차가운'], occasion: ['혼밥'], health: [] },
+    price: '₩₩', menu: ['디저트'] },
   { keywords: ['샐러드', '포케'],
     tags: { flavor: ['새콤한', '담백 깔끔'], texture: ['아삭한', '가벼운'], cooking: ['생식·무침'], cuisine: ['양식'], temp: ['차가운'], occasion: ['혼밥'], health: ['디톡스'] },
     price: '₩₩', menu: ['샐러드'] },
 
   // 아시안
+  { keywords: ['베트남음식'],
+    tags: { flavor: ['새콤한', '담백 깔끔'], texture: ['쫄깃한', '가벼운'], cooking: ['면류·파스타'], cuisine: ['아시안'], temp: ['뜨끈한'], occasion: ['혼밥'], health: [] },
+    price: '₩', menu: ['베트남요리'] },
+  { keywords: ['태국음식'],
+    tags: { flavor: ['매운', '새콤한'], texture: ['가벼운'], cooking: ['구이·볶음'], cuisine: ['아시안'], temp: ['뜨끈한'], occasion: ['혼밥'], health: [] },
+    price: '₩₩', menu: ['태국요리'] },
+  { keywords: ['인도음식'],
+    tags: { flavor: ['매운'], texture: ['부드러운', '헤비한'], cooking: ['국물·찜'], cuisine: ['아시안'], temp: ['뜨끈한'], occasion: ['혼밥'], health: [] },
+    price: '₩₩', menu: ['인도요리'] },
   { keywords: ['쌀국수', '포', '베트남', '반미'],
     tags: { flavor: ['새콤한', '담백 깔끔'], texture: ['쫄깃한', '가벼운'], cooking: ['면류·파스타'], cuisine: ['아시안'], temp: ['뜨끈한'], occasion: ['혼밥'], health: [] },
     price: '₩', menu: ['쌀국수'] },
@@ -138,6 +165,11 @@ const RULES = [
   { keywords: ['김치', '젓갈', '장아찌', '발효'],
     tags: { flavor: ['매운', '감칠맛'], texture: ['아삭한'], cooking: ['발효·숙성'], cuisine: ['한식'], temp: ['차가운'], occasion: ['혼밥'], health: [] },
     price: '₩', menu: ['김치'] },
+
+  // 퓨전
+  { keywords: ['퓨전음식', '퓨전'],
+    tags: { flavor: ['기름진', '감칠맛'], texture: ['가벼운'], cooking: ['구이·볶음'], cuisine: ['퓨전'], temp: ['뜨끈한'], occasion: ['사교·회식'], health: [] },
+    price: '₩₩', menu: ['퓨전'] },
 
   // 포괄 카테고리 (맨 뒤에 위치 — 구체적 규칙에 안 걸린 경우)
   { keywords: ['한식'],
@@ -161,6 +193,32 @@ function stripHtml(str) {
   return str.replace(/<\/?b>/g, '').trim();
 }
 
+// 네이버 카테고리 문자열에서 cuisine 추출
+const CATEGORY_CUISINE_MAP = {
+  '한식': '한식',
+  '중식': '중식', '중국식': '중식',
+  '일식': '일식', '일본식': '일식',
+  '양식': '양식', '서양식': '양식',
+  '이탈리아음식': '양식', '이탈리안': '양식',
+  '프랑스음식': '양식', '프렌치': '양식',
+  '스페인음식': '양식',
+  '멕시코음식': '양식', '남미음식': '양식',
+  '베트남음식': '아시안',
+  '태국음식': '아시안',
+  '인도음식': '아시안',
+  '동남아음식': '아시안', '아시아음식': '아시안',
+  '퓨전음식': '퓨전', '퓨전': '퓨전',
+  '카페': '디저트·카페', '디저트': '디저트·카페', '베이커리': '디저트·카페',
+  '제과': '디저트·카페', '아이스크림': '디저트·카페',
+};
+
+function detectCuisineFromCategory(category) {
+  for (const [keyword, cuisine] of Object.entries(CATEGORY_CUISINE_MAP)) {
+    if (category.includes(keyword)) return cuisine;
+  }
+  return '한식';
+}
+
 function inferTags(item) {
   const category = (item.category || '').toLowerCase();
   const title = stripHtml(item.title).toLowerCase();
@@ -174,10 +232,11 @@ function inferTags(item) {
     }
   }
 
-  // 아무 규칙에도 안 걸린 경우 기본값
+  // 아무 규칙에도 안 걸린 경우 카테고리에서 cuisine 추출 시도
   if (!matched) {
+    const detectedCuisine = detectCuisineFromCategory(category);
     matched = {
-      tags: { flavor: ['담백 깔끔'], texture: [], cooking: ['구이·볶음'], cuisine: ['한식'], temp: ['뜨끈한'], occasion: ['혼밥'], health: [] },
+      tags: { flavor: ['담백 깔끔'], texture: [], cooking: ['구이·볶음'], cuisine: [detectedCuisine], temp: ['뜨끈한'], occasion: ['혼밥'], health: [] },
       price: '₩₩',
       menu: [],
     };

@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "감나무집",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 35-2",
+      "roadAddress": "서울특별시 종로구 새문안로 83-2",
+      "mapx": "1269739242",
+      "mapy": "375705616"
+    },
+    {
+      "title": "고봉<b>삼계탕</b> 광화문점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 25 정우빌딩 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 89 정우빌딩 2층",
+      "mapx": "1269744499",
+      "mapy": "375703908"
+    }
+  ]
+}

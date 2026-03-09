@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "육미안 연남점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yookmian_yeonnam",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 228-58 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 5 2층",
+      "mapx": "1269246428",
+      "mapy": "375618595"
+    },
+    {
+      "title": "드럼통 숯불구이 연남점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-402 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로 50 1층",
+      "mapx": "1269178385",
+      "mapy": "375588375"
+    },
+    {
+      "title": "미미램양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-20 1층, 2층",
+      "roadAddress": "서울특별시 마포구 성미산로 196 1층, 2층",
+      "mapx": "1269266498",
+      "mapy": "375625521"
+    },
+    {
+      "title": "돈조세",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 228-42",
+      "roadAddress": "서울특별시 마포구 동교로 254",
+      "mapx": "1269246290",
+      "mapy": "375624479"
+    },
+    {
+      "title": "친친랩 연남본점",
+      "link": "https://kko.kakao.com/3t3g5Znbn6",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 370-30 1층",
+      "roadAddress": "서울특별시 마포구 연남로7길 24 1층",
+      "mapx": "1269189863",
+      "mapy": "375637397"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "밥짓고티우림",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 45-1 2층",
+      "roadAddress": "서울특별시 성북구 성북로2길 15 2층",
+      "mapx": "1270066792",
+      "mapy": "375893178"
+    },
+    {
+      "title": "곤드레딱주기곤드레집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 5",
+      "roadAddress": "서울특별시 성북구 성북로 12-3",
+      "mapx": "1270055930",
+      "mapy": "375894730"
+    },
+    {
+      "title": "<b>성북동</b> 명문막국수",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-17",
+      "roadAddress": "서울특별시 성북구 창경궁로 319",
+      "mapx": "1270048117",
+      "mapy": "375883363"
+    },
+    {
+      "title": "하루사이",
+      "link": "https://www.instagram.com/haru._.sai?igsh=ZmlybHpydzhvcnUz",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-15 1층",
+      "roadAddress": "서울특별시 성북구 성북로5길 9-12 1층",
+      "mapx": "1270046888",
+      "mapy": "375885688"
+    },
+    {
+      "title": "<b>성북동</b>구포국수",
+      "link": "",
+      "category": "음식점>한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 170-46",
+      "roadAddress": "서울특별시 성북구 성북로12길 2",
+      "mapx": "1270026753",
+      "mapy": "375926750"
+    }
+  ]
+}

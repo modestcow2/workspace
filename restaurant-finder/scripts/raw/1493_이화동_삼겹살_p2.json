@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "촌놈",
+      "link": "https://blog.naver.com/chssha1029",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-47",
+      "roadAddress": "서울특별시 종로구 대학로8가길 48",
+      "mapx": "1270023479",
+      "mapy": "375829574"
+    },
+    {
+      "title": "거복이식당 대학로",
+      "link": "https://www.instagram.com/bigbok_2",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-48 1층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 52 1층",
+      "mapx": "1270026535",
+      "mapy": "375830342"
+    },
+    {
+      "title": "돼봉<b>삼겹살</b> 대학로점",
+      "link": "https://catchtable.co.kr/dwaebongsamgyeobsal_daehaglo",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-58 1층 돼봉삼겹살",
+      "roadAddress": "서울특별시 종로구 대학로8가길 30 1층 돼봉삼겹살",
+      "mapx": "1270024865",
+      "mapy": "375823164"
+    },
+    {
+      "title": "춘천집무한닭갈비 대학로점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-60 2층",
+      "roadAddress": "서울특별시 종로구 대학로10길 5 2층",
+      "mapx": "1270025975",
+      "mapy": "375818620"
+    },
+    {
+      "title": "이화김치찌개",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 204-3",
+      "roadAddress": "서울특별시 종로구 율곡로 216",
+      "mapx": "1270029483",
+      "mapy": "375759976"
+    }
+  ]
+}

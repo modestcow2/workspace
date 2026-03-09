@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우리할매<b>떡볶이</b> 경복궁점",
+      "link": "http://wehalmae.co.kr/",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 궁정동 13-8",
+      "roadAddress": "서울특별시 종로구 자하문로 84",
+      "mapx": "1269705994",
+      "mapy": "375835046"
+    },
+    {
+      "title": "원조정할머니기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269700183",
+      "mapy": "375806564"
+    },
+    {
+      "title": "원조할머니 기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 94-1",
+      "roadAddress": "서울특별시 종로구 자하문로15길 13",
+      "mapx": "1269703204",
+      "mapy": "375806957"
+    },
+    {
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "모던김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 97",
+      "roadAddress": "서울특별시 종로구 자하문로2길 10",
+      "mapx": "1269731772",
+      "mapy": "375764902"
+    }
+  ]
+}

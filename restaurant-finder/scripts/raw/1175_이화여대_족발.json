@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대현매운<b>족발</b> 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-25 1층",
+      "roadAddress": "서울특별시 서대문구 연세로2길 95 1층",
+      "mapx": "1269421576",
+      "mapy": "375571933"
+    },
+    {
+      "title": "족의한수 아현점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 134-28 1층",
+      "roadAddress": "서울특별시 서대문구 북아현로 12 1층",
+      "mapx": "1269565443",
+      "mapy": "375584573"
+    },
+    {
+      "title": "응그래식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 346-37 1층",
+      "roadAddress": "서울특별시 마포구 굴레방로9길 56 1층",
+      "mapx": "1269525754",
+      "mapy": "375567419"
+    },
+    {
+      "title": "구구족 이대점",
+      "link": "http://구구족.com",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 37-15 1동 101호",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 38 1동 101호",
+      "mapx": "1269435746",
+      "mapy": "375585018"
+    },
+    {
+      "title": "2대<b>족발</b>",
+      "link": "http://instagram.com/2dae_jokbal_since2001",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 101-5 2대족발",
+      "roadAddress": "서울특별시 서대문구 신촌역로 14 2대족발",
+      "mapx": "1269431132",
+      "mapy": "375578651"
+    }
+  ]
+}

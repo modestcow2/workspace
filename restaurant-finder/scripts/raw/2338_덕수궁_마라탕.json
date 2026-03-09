@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라향각 <b>마라탕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
+      "roadAddress": "서울특별시 중구 세종대로21길 67 2층 라향각마라탕",
+      "mapx": "1269757332",
+      "mapy": "375692879"
+    },
+    {
+      "title": "마라붐 시청점",
+      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
+      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
+      "mapx": "1269771292",
+      "mapy": "375635420"
+    },
+    {
+      "title": "마라공방 광화문점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 76-1 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 2층",
+      "mapx": "1269759345",
+      "mapy": "375690541"
+    },
+    {
+      "title": "마라공방 서대문점",
+      "link": "https://www.instagram.com/maragongbang_official/",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 201동 L층 B135호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 201동 L층 B135호",
+      "mapx": "1269703989",
+      "mapy": "375632968"
+    },
+    {
+      "title": "광화문미시엔",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 지하1층109-2",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층109-2",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    }
+  ]
+}

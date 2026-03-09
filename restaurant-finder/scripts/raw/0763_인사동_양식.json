@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "레스토랑 담",
+      "link": "https://www.instagram.com/restaurant_dam",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 12-2 1층",
+      "roadAddress": "서울특별시 종로구 인사동길 30-7 1층",
+      "mapx": "1269860243",
+      "mapy": "375736433"
+    },
+    {
+      "title": "애슐리퀸즈 종각역점",
+      "link": "https://www.instagram.com/your_ashley",
+      "category": "음식점>패밀리레스토랑",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
+      "mapx": "1269836843",
+      "mapy": "375705758"
+    },
+    {
+      "title": "녁",
+      "link": "https://app.catchtable.co.kr/ct/shop/nyug1",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 260 4층 녁",
+      "roadAddress": "서울특별시 종로구 우정국로2길 8 4층 녁",
+      "mapx": "1269834746",
+      "mapy": "375694491"
+    },
+    {
+      "title": "니즈버거 안국점",
+      "link": "https://www.instagram.com/needs_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 1층 니즈버거",
+      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 1층 니즈버거",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "관훈맨션",
+      "link": "https://www.instagram.com/gwanhunmansion/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 15-2",
+      "roadAddress": "서울특별시 종로구 인사동8길 6-3",
+      "mapx": "1269859565",
+      "mapy": "375737266"
+    }
+  ]
+}

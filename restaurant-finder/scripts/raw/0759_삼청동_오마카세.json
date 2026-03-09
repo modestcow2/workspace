@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "키즈나",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 159",
+      "roadAddress": "서울특별시 종로구 율곡로1길 78",
+      "mapx": "1269816146",
+      "mapy": "375788338"
+    },
+    {
+      "title": "우솔",
+      "link": "https://app.catchtable.co.kr/ct/shop/woosol?type=DINING",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 129",
+      "roadAddress": "서울특별시 종로구 율곡로5길 14",
+      "mapx": "1269850136",
+      "mapy": "375771370"
+    },
+    {
+      "title": "삼월황",
+      "link": "https://smartstore.naver.com/samwolhwang",
+      "category": "카페,디저트>차",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 29 삼월황",
+      "roadAddress": "서울특별시 종로구 삼청로 124-4 삼월황",
+      "mapx": "1269820209",
+      "mapy": "375864381"
+    },
+    {
+      "title": "온재",
+      "link": "https://app.catchtable.co.kr/ct/shop/Onjae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8 2층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54 2층",
+      "mapx": "1269820563",
+      "mapy": "375797533"
+    },
+    {
+      "title": "구테이블 한정식",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 86",
+      "roadAddress": "서울특별시 종로구 인사동14길 41",
+      "mapx": "1269848521",
+      "mapy": "375751535"
+    }
+  ]
+}

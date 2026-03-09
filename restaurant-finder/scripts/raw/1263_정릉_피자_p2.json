@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "르한스",
+      "link": "https://app.catchtable.co.kr/ct/shop/lehans",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 918",
+      "roadAddress": "서울특별시 성북구 정릉로10길 127",
+      "mapx": "1269983456",
+      "mapy": "376041052"
+    },
+    {
+      "title": "예술<b>피자</b> 돈암점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 644 상가2동 106호",
+      "roadAddress": "서울특별시 성북구 아리랑로 75 상가2동 106호",
+      "mapx": "1270135920",
+      "mapy": "375993629"
+    },
+    {
+      "title": "서오릉<b>피자</b> 돈암점",
+      "link": "",
+      "category": "음식점>양식>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 524 1층 서오릉피자",
+      "roadAddress": "서울특별시 성북구 아리랑로 89 1층 서오릉피자",
+      "mapx": "1270136419",
+      "mapy": "376008167"
+    },
+    {
+      "title": "읍천리382 <b>정릉</b>점",
+      "link": "https://www.instagram.com/eupcheonri382_jeongneung",
+      "category": "음식점>카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 161-17 1층 101호",
+      "roadAddress": "서울특별시 성북구 정릉로 251 1층 101호",
+      "mapx": "1270119834",
+      "mapy": "376046061"
+    },
+    {
+      "title": "<b>피자</b>스쿨 돈암점",
+      "link": "http://pizzaschool.net/",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 639 상가동 103호",
+      "roadAddress": "서울특별시 성북구 아리랑로 68 상가동 103호",
+      "mapx": "1270144523",
+      "mapy": "375988381"
+    }
+  ]
+}

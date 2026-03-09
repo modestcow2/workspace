@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라티에 경복궁 본점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 적선현대 빌딩 지하1층 66호",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대 빌딩 지하1층 66호",
+      "mapx": "1269733438",
+      "mapy": "375753767"
+    },
+    {
+      "title": "<b>샐러드</b>하우스",
+      "link": "https://blog.naver.com/saladhouse",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 광화문플래티넘빌딩 B1층 119호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 광화문플래티넘빌딩 B1층 119호",
+      "mapx": "1269736144",
+      "mapy": "375744582"
+    },
+    {
+      "title": "슬로우캘리 경복궁점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 122-1 한국생산성본부 B1층",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 32 한국생산성본부 B1층",
+      "mapx": "1269735672",
+      "mapy": "375749172"
+    },
+    {
+      "title": "쁄라샌드위치",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 21호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 21호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "킹스빈 경복궁점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 적선현대빌딩 지하1층 킹스빈 경복궁점",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대빌딩 지하1층 킹스빈 경복궁점",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    }
+  ]
+}

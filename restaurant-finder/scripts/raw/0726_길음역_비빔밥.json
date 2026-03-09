@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정성채 미아사거리점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 489-42 1층",
+      "roadAddress": "서울특별시 성북구 도봉로3길 9-7 1층",
+      "mapx": "1270296062",
+      "mapy": "376101683"
+    },
+    {
+      "title": "미아리우동집",
+      "link": "http://passryu002.hubweb.net/",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 90-113",
+      "roadAddress": "서울특별시 성북구 종암로 176",
+      "mapx": "1270317231",
+      "mapy": "376056027"
+    },
+    {
+      "title": "얌샘김밥 길음롯데캐슬점",
+      "link": "https://www.instagram.com/yumsem_official",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1289 롯데캐슬클라시아 상가동 B1층 115",
+      "roadAddress": "서울특별시 성북구 숭인로8길 80 롯데캐슬클라시아 상가동 B1층 115",
+      "mapx": "1270274838",
+      "mapy": "376095779"
+    },
+    {
+      "title": "소통애 길음점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1285 두산위브상가 101, 102호",
+      "roadAddress": "서울특별시 성북구 길음로13길 22 두산위브상가 101, 102호",
+      "mapx": "1270199561",
+      "mapy": "376093065"
+    },
+    {
+      "title": "본죽&amp;<b>비빔밥</b> 길음뉴타운점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF102",
+      "category": "음식점>죽",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1282 길음뉴타운상가 2동 108호",
+      "roadAddress": "서울특별시 성북구 길음로 74 길음뉴타운상가 2동 108호",
+      "mapx": "1270203395",
+      "mapy": "376094048"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라밥 시청점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
+    },
+    {
+      "title": "통통김밥 <b>남대문</b>시장점",
+      "link": "https://instagram.com/tongtong_gimbab?igshid=k8bq43u3taii",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-28",
+      "roadAddress": "서울특별시 중구 남대문시장2가길 6-13",
+      "mapx": "1269769690",
+      "mapy": "375591665"
+    },
+    {
+      "title": "애니<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-121",
+      "roadAddress": "서울특별시 중구 남대문시장4길 12",
+      "mapx": "1269771930",
+      "mapy": "375596915"
+    },
+    {
+      "title": "<b>남대문</b>달님즉석<b>떡볶이</b> 서울역본점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 지하 1층 111호",
+      "roadAddress": "서울특별시 중구 칠패로 27 지하 1층 111호",
+      "mapx": "1269721500",
+      "mapy": "375600347"
+    },
+    {
+      "title": "장우손 부산어묵",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-33",
+      "roadAddress": "서울특별시 중구 남대문시장2가길 6",
+      "mapx": "1269768900",
+      "mapy": "375594148"
+    }
+  ]
+}

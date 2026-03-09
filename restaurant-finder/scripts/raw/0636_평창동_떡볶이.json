@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>평창동</b>의봄",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 512-7 1층",
+      "roadAddress": "서울특별시 종로구 평창20길 41 1층",
+      "mapx": "1269707545",
+      "mapy": "376104692"
+    },
+    {
+      "title": "금별맥주 종로평창점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 289-5",
+      "roadAddress": "서울특별시 종로구 평창문화로 29",
+      "mapx": "1269647621",
+      "mapy": "376048634"
+    },
+    {
+      "title": "<b>평창동</b>김밥",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 300-1",
+      "roadAddress": "서울특별시 종로구 평창문화로 35",
+      "mapx": "1269652881",
+      "mapy": "376050388"
+    },
+    {
+      "title": "복실이네<b>떡볶이</b> 구기동점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 88-46",
+      "roadAddress": "서울특별시 종로구 진흥로 453",
+      "mapx": "1269587819",
+      "mapy": "376072274"
+    },
+    {
+      "title": "사발<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 957-17",
+      "roadAddress": "서울특별시 성북구 정릉로6길 45",
+      "mapx": "1269941028",
+      "mapy": "376103296"
+    }
+  ]
+}

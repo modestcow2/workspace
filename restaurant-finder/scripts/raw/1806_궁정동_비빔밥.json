@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "우리할매떡볶이 경복궁점",
+      "link": "http://wehalmae.co.kr/",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 궁정동 13-8",
+      "roadAddress": "서울특별시 종로구 자하문로 84",
+      "mapx": "1269705994",
+      "mapy": "375835046"
+    },
+    {
+      "title": "블루베리",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 144-3",
+      "roadAddress": "서울특별시 종로구 자하문로 94",
+      "mapx": "1269704218",
+      "mapy": "375844019"
+    },
+    {
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
+    },
+    {
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-27",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
+      "mapx": "1269840246",
+      "mapy": "375753027"
+    }
+  ]
+}

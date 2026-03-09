@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "BEER UP 비어럽",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 101동 1층 101호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 101동 1층 101호",
+      "mapx": "1269823691",
+      "mapy": "375722436"
+    },
+    {
+      "title": "북창<b>치킨</b> 서울시청본점",
+      "link": "https://blog.naver.com/j03c",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-2 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로16길 6 1층, 2층",
+      "mapx": "1269772125",
+      "mapy": "375633658"
+    },
+    {
+      "title": "달맞이광장바베큐",
+      "link": "https://app.catchtable.co.kr/ct/shop/dalmajiplaza_bbq?from=share&type=WAITING",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 343-11 1층",
+      "roadAddress": "서울특별시 중구 을지로 112-1 1층",
+      "mapx": "1269904910",
+      "mapy": "375658502"
+    },
+    {
+      "title": "원조만선호프",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 95-6",
+      "roadAddress": "서울특별시 중구 충무로9길 14",
+      "mapx": "1269915199",
+      "mapy": "375671923"
+    },
+    {
+      "title": "청계천 휴",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 32-4 청계천 휴",
+      "roadAddress": "서울특별시 종로구 청계천로 71 청계천 휴",
+      "mapx": "1269856226",
+      "mapy": "375686938"
+    }
+  ]
+}

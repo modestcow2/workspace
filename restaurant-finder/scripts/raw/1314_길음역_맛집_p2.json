@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "빕스 현대백화점 미아점",
+      "link": "",
+      "category": "음식점>패밀리레스토랑",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 8층 빕스",
+      "roadAddress": "서울특별시 성북구 동소문로 315 8층 빕스",
+      "mapx": "1270287466",
+      "mapy": "376084082"
+    },
+    {
+      "title": "길음 모소리",
+      "link": "https://www.instagram.com/mosori_gireum/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1258 1층",
+      "roadAddress": "서울특별시 성북구 삼양로 13 1층",
+      "mapx": "1270248524",
+      "mapy": "376044392"
+    },
+    {
+      "title": "맛찬들왕소금구이 길음점",
+      "link": "https://matwang-gileum.jalib.site/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 107, 108, 112, 113, 114, 115호",
+      "roadAddress": "서울특별시 성북구 길음로 11 107, 108, 112, 113, 114, 115호",
+      "mapx": "1270229927",
+      "mapy": "376035370"
+    },
+    {
+      "title": "메리킹 서울북부점",
+      "link": "https://blog.naver.com/merrykingseoul",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 230 동일하이빌뉴시티 4층",
+      "roadAddress": "서울특별시 성북구 종암로 167 동일하이빌뉴시티 4층",
+      "mapx": "1270312531",
+      "mapy": "376048412"
+    },
+    {
+      "title": "봄담아 하월곡점",
+      "link": "https://www.instagram.com/bomdama_hawolgok/",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 230 107-1호, 107-2호, 107-3호, 107-4호",
+      "roadAddress": "서울특별시 성북구 종암로 167 107-1호, 107-2호, 107-3호, 107-4호",
+      "mapx": "1270309552",
+      "mapy": "376050947"
+    }
+  ]
+}

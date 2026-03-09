@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "맘스키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/momskitchen",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 274-1",
+      "roadAddress": "서울특별시 종로구 창의문로 146",
+      "mapx": "1269643922",
+      "mapy": "375929282"
+    },
+    {
+      "title": "데미타스 부암동본점",
+      "link": "https://www.instagram.com/_demitasse/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-5 2층",
+      "roadAddress": "서울특별시 종로구 창의문로 133 2층",
+      "mapx": "1269657187",
+      "mapy": "375924488"
+    },
+    {
+      "title": "조비스그릴",
+      "link": "",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 97-30",
+      "roadAddress": "서울특별시 성북구 성북로 110",
+      "mapx": "1269968608",
+      "mapy": "375933362"
+    },
+    {
+      "title": "소코아 혜화성대점",
+      "link": "https://www.instagram.com/sokoa_hyehwa/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-213 지상1층",
+      "roadAddress": "서울특별시 종로구 명륜길 39 지상1층",
+      "mapx": "1269949365",
+      "mapy": "375888722"
+    },
+    {
+      "title": "카츠카린",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 60-2",
+      "roadAddress": "서울특별시 종로구 홍지문2길 6",
+      "mapx": "1269563826",
+      "mapy": "376011827"
+    }
+  ]
+}

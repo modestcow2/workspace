@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735061",
+      "mapy": "375779155"
+    },
+    {
+      "title": "애즈라이크 서촌",
+      "link": "http://www.instagram.com/aslike_",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 7-33 1층 애즈라이크",
+      "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
+      "mapx": "1269733577",
+      "mapy": "375783143"
+    },
+    {
+      "title": "쁘띠통",
+      "link": "https://smartstore.naver.com/petittong",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 25-16 쁘띠통",
+      "roadAddress": "서울특별시 종로구 자하문로6길 11-9 쁘띠통",
+      "mapx": "1269726116",
+      "mapy": "375785701"
+    },
+    {
+      "title": "까사 이태리아",
+      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
+      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
+      "mapx": "1269723542",
+      "mapy": "375787841"
+    },
+    {
+      "title": "오스테리아소띠",
+      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 91-38",
+      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
+      "mapx": "1269722295",
+      "mapy": "375789547"
+    }
+  ]
+}

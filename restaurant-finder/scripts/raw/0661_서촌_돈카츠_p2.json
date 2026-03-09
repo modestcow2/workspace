@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "누하의 숲",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 175-2 1F",
+      "roadAddress": "서울특별시 종로구 필운대로 31-1 1F",
+      "mapx": "1269687592",
+      "mapy": "375787996"
+    },
+    {
+      "title": "정류장",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 11-1 1층",
+      "roadAddress": "서울특별시 종로구 사직로 115 1층",
+      "mapx": "1269715540",
+      "mapy": "375762389"
+    },
+    {
+      "title": "옐로우쿡",
+      "link": "http://www.yellowcook.com",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 104 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 32 1층",
+      "mapx": "1269717441",
+      "mapy": "375789833"
+    },
+    {
+      "title": "김밥천국",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-3 1층 김밥천국",
+      "roadAddress": "서울특별시 종로구 자하문로 3 1층 김밥천국",
+      "mapx": "1269723453",
+      "mapy": "375764321"
+    }
+  ]
+}

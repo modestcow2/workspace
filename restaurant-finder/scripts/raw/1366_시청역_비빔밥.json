@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "함평집 서울시청점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
+      "mapx": "1269736340",
+      "mapy": "375622716"
+    },
+    {
+      "title": "오공일 명동점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로2가 111-1 2층",
+      "roadAddress": "서울특별시 중구 남대문로 55 2층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
+    },
+    {
+      "title": "원기옥 광화문점",
+      "link": "https://catchtable.co.kr/wongiok",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "롯데호텔서울 무궁화",
+      "link": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-mugunghwa",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데호텔서울 본관 38층",
+      "roadAddress": "서울특별시 중구 을지로 30 롯데호텔서울 본관 38층",
+      "mapx": "1269816208",
+      "mapy": "375654272"
+    },
+    {
+      "title": "전주유할머니<b>비빔밥</b>",
+      "link": "https://blog.naver.com/startceo/222915926834",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 12-2",
+      "roadAddress": "서울특별시 중구 세종대로14길 27-2",
+      "mapx": "1269783798",
+      "mapy": "375629704"
+    }
+  ]
+}

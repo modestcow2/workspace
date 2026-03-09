@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>서울역</b>철도<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 서계동 223-42 1층",
+      "roadAddress": "서울특별시 용산구 청파로93길 18-1 1층",
+      "mapx": "1269678344",
+      "mapy": "375543253"
+    },
+    {
+      "title": "남대문달님즉석<b>떡볶이</b> <b>서울역</b>본점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 지하 1층 111호",
+      "roadAddress": "서울특별시 중구 칠패로 27 지하 1층 111호",
+      "mapx": "1269721500",
+      "mapy": "375600347"
+    },
+    {
+      "title": "5빠<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 105-72 1층",
+      "roadAddress": "서울특별시 용산구 후암로 37-1 1층",
+      "mapx": "1269774248",
+      "mapy": "375493397"
+    },
+    {
+      "title": "도라무통 즉석<b>떡볶이</b> 중림로38",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 324-1 1층",
+      "roadAddress": "서울특별시 중구 중림로 38 1층",
+      "mapx": "1269672952",
+      "mapy": "375578251"
+    },
+    {
+      "title": "솥내음 <b>서울역</b> 남대문시장점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-11 지하1층",
+      "roadAddress": "서울특별시 중구 통일로 10 지하1층",
+      "mapx": "1269736575",
+      "mapy": "375570913"
+    }
+  ]
+}

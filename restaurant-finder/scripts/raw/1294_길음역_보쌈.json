@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "장수한방족발<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 124-64 1층2층",
+      "roadAddress": "서울특별시 성북구 정릉로 454 1층2층",
+      "mapx": "1270316074",
+      "mapy": "376032907"
+    },
+    {
+      "title": "족발야시장&amp;무청감자탕 길음뉴타운점",
+      "link": "",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 B66호",
+      "roadAddress": "서울특별시 성북구 길음로 11 B66호",
+      "mapx": "1270239102",
+      "mapy": "376038802"
+    },
+    {
+      "title": "봉평메밀국수 <b>길음역</b>점",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1",
+      "roadAddress": "서울특별시 성북구 길음로 11",
+      "mapx": "1270234728",
+      "mapy": "376038013"
+    },
+    {
+      "title": "한강로칼국수 현대백화점미아점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점미아점 지하1층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점미아점 지하1층",
+      "mapx": "1270291131",
+      "mapy": "376083209"
+    },
+    {
+      "title": "서울족발",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1284 래미안8단지 상가 A동 12호 길음뉴타운",
+      "roadAddress": "서울특별시 성북구 길음로 33 래미안8단지 상가 A동 12호 길음뉴타운",
+      "mapx": "1270220328",
+      "mapy": "376054771"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>연희동칼국수</b> 본점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-29",
+      "roadAddress": "서울특별시 서대문구 연희맛로 37",
+      "mapx": "1269307635",
+      "mapy": "375681839"
+    },
+    {
+      "title": "박만배아리랑보쌈 연희점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-10 1층좌측호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
+      "mapx": "1269285120",
+      "mapy": "375657431"
+    },
+    {
+      "title": "소푸리콩나물국밥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 431-3",
+      "roadAddress": "서울특별시 서대문구 성산로 331",
+      "mapx": "1269270716",
+      "mapy": "375662565"
+    },
+    {
+      "title": "개성만두 궁 연희직영점",
+      "link": "http://www.koong.co.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 131-1 2층 개성만두 궁",
+      "roadAddress": "서울특별시 서대문구 연희맛로 23 2층 개성만두 궁",
+      "mapx": "1269298923",
+      "mapy": "375671762"
+    },
+    {
+      "title": "<b>연희동</b>수제비",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 141-34",
+      "roadAddress": "서울특별시 서대문구 연희로36길 26",
+      "mapx": "1269366808",
+      "mapy": "375782649"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광화문면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
+      "mapx": "1269747363",
+      "mapy": "375698520"
+    },
+    {
+      "title": "탄백",
+      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-8",
+      "roadAddress": "서울특별시 중구 정동길 37",
+      "mapx": "1269724678",
+      "mapy": "375659578"
+    },
+    {
+      "title": "명동칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
+      "mapx": "1269759250",
+      "mapy": "375686250"
+    },
+    {
+      "title": "무탄 광화문점",
+      "link": "https://naver.me/5uc3NJV7",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "새봄 서대문점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 62-15",
+      "roadAddress": "서울특별시 중구 새문안로 24",
+      "mapx": "1269685725",
+      "mapy": "375674131"
+    }
+  ]
+}

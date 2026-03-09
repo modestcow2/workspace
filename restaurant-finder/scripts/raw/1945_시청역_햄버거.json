@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "데일리픽스 을지로",
+      "link": "https://www.instagram.com/daily.fix.seoul?igsh=ZXRxeHUwbDE2N2E3&utm_source=qr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 140 1층 103호, 104호",
+      "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
+      "mapx": "1269813054",
+      "mapy": "375670949"
+    },
+    {
+      "title": "멜팅소울 롯데백화점 본점",
+      "link": "https://www.instagram.com/meltingsoul_official/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
+      "mapx": "1269810897",
+      "mapy": "375646669"
+    },
+    {
+      "title": "바스버거 광화문점",
+      "link": "http://www.basburger.net",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 11 광일빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 지하1층",
+      "mapx": "1269797080",
+      "mapy": "375681229"
+    },
+    {
+      "title": "맥도날드 서울시청점",
+      "link": "https://www.mcdonalds.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269793605",
+      "mapy": "375668620"
+    },
+    {
+      "title": "바스버거 서소문<b>시청역</b>점",
+      "link": "https://www.basburger.net/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-28",
+      "roadAddress": "서울특별시 중구 세종대로11길 33",
+      "mapx": "1269741569",
+      "mapy": "375620973"
+    }
+  ]
+}

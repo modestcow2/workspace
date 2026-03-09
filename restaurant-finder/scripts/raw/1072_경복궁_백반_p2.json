@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    },
+    {
+      "title": "청하식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 120",
+      "roadAddress": "서울특별시 종로구 자하문로10길 25",
+      "mapx": "1269728999",
+      "mapy": "375794749"
+    },
+    {
+      "title": "정통코다리",
+      "link": "http://cdrgood.cafe24.com",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 91-26 1층",
+      "roadAddress": "서울특별시 종로구 자하문로10길 14 1층",
+      "mapx": "1269721224",
+      "mapy": "375793735"
+    },
+    {
+      "title": "창성갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 136",
+      "roadAddress": "서울특별시 종로구 자하문로 40-1",
+      "mapx": "1269715716",
+      "mapy": "375796602"
+    },
+    {
+      "title": "세종식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 154-5",
+      "roadAddress": "서울특별시 종로구 자하문로 31-10",
+      "mapx": "1269710095",
+      "mapy": "375786597"
+    }
+  ]
+}

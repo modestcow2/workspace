@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "사장님돈까스 본점",
+      "link": "https://www.instagram.com/boss_donkaz",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-104 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대7길 11 1층",
+      "mapx": "1269450489",
+      "mapy": "375586888"
+    },
+    {
+      "title": "소오",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
+      "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
+      "mapx": "1269463097",
+      "mapy": "375590868"
+    },
+    {
+      "title": "유야케도쿄",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 37-30 101호",
+      "roadAddress": "서울특별시 서대문구 이화여대3길 28 101호",
+      "mapx": "1269441545",
+      "mapy": "375580385"
+    },
+    {
+      "title": "라밥 아현점",
+      "link": "http://labab.co.kr",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 135-9",
+      "roadAddress": "서울특별시 서대문구 북아현로 2",
+      "mapx": "1269563839",
+      "mapy": "375577181"
+    },
+    {
+      "title": "돈천동식당",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-21 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 52-35 2층",
+      "mapx": "1269449801",
+      "mapy": "375594283"
+    }
+  ]
+}

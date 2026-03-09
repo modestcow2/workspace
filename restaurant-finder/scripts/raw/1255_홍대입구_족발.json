@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연남<b>족발</b>1987 연남점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 152-23 1층",
+      "roadAddress": "서울특별시 마포구 동교로 222 1층",
+      "mapx": "1269239621",
+      "mapy": "375597891"
+    },
+    {
+      "title": "탐탐오향<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 328-69 1층, 2층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 48-6 1층, 2층",
+      "mapx": "1269276861",
+      "mapy": "375559238"
+    },
+    {
+      "title": "연남<b>족발</b>1987 <b>홍대</b>점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 332-1 1층 101호",
+      "roadAddress": "서울특별시 마포구 와우산로29길 69 1층 101호",
+      "mapx": "1269264419",
+      "mapy": "375561871"
+    },
+    {
+      "title": "<b>홍대</b><b>족발</b>",
+      "link": "https://www.instagram.com/pighocks_hongdae",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 370-2 1층",
+      "roadAddress": "서울특별시 마포구 양화로16길 18 1층",
+      "mapx": "1269205063",
+      "mapy": "375531496"
+    },
+    {
+      "title": "만족오향<b>족발</b> <b>홍대</b>역점",
+      "link": "http://www.manjok.net/",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 200-30 1층 만족오향족발",
+      "roadAddress": "서울특별시 마포구 동교로 191 1층 만족오향족발",
+      "mapx": "1269223985",
+      "mapy": "375575026"
+    }
+  ]
+}

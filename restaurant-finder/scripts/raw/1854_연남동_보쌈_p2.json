@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "금수족발",
+      "link": "https://www.instagram.com/golden_flow_pork_house",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-84 1층",
+      "roadAddress": "서울특별시 마포구 동교로38길 26-6 1층",
+      "mapx": "1269252767",
+      "mapy": "375617548"
+    },
+    {
+      "title": "우이락 연남점",
+      "link": "https://www.instagram.com/wooyirak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 229-10 1층",
+      "roadAddress": "서울특별시 마포구 동교로 265 1층",
+      "mapx": "1269253415",
+      "mapy": "375633745"
+    },
+    {
+      "title": "소주방",
+      "link": "https://app.catchtable.co.kr/ct/shop/sojubang",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-6 1층",
+      "roadAddress": "서울특별시 마포구 동교로 266-12 1층",
+      "mapx": "1269258430",
+      "mapy": "375628612"
+    },
+    {
+      "title": "연남 초야",
+      "link": "https://www.instagram.com/choya.yeonnam",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-102 지층",
+      "roadAddress": "서울특별시 마포구 연희로1길 59-3 지층",
+      "mapx": "1269263341",
+      "mapy": "375615330"
+    },
+    {
+      "title": "두루미",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 454-15 두루미",
+      "roadAddress": "서울특별시 마포구 동교로51길 129-10 두루미",
+      "mapx": "1269201589",
+      "mapy": "375661479"
+    }
+  ]
+}

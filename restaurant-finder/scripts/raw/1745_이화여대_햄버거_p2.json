@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼촌버거",
+      "link": "https://www.instagram.com/samchon_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-36 1층 삼촌버거",
+      "roadAddress": "서울특별시 서대문구 신촌로 149 1층 삼촌버거",
+      "mapx": "1269424048",
+      "mapy": "375568564"
+    },
+    {
+      "title": "LORD SANDWICH",
+      "link": "https://www.instagram.com/gallery_lord_sandwich",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-1 1층 LORD SANDWICH",
+      "roadAddress": "서울특별시 서대문구 연대동문길 45 1층 LORD SANDWICH",
+      "mapx": "1269444463",
+      "mapy": "375644415"
+    },
+    {
+      "title": "맘스터치 이대점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 40-40",
+      "roadAddress": "서울특별시 서대문구 신촌로 169-1",
+      "mapx": "1269447670",
+      "mapy": "375569169"
+    },
+    {
+      "title": "프랭크버거 아현역점",
+      "link": "http://www.frankburger.co.kr/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 1015 상가 125호",
+      "roadAddress": "서울특별시 서대문구 신촌로35길 10 상가 125호",
+      "mapx": "1269558249",
+      "mapy": "375578199"
+    },
+    {
+      "title": "롯데리아 이대점",
+      "link": "https://www.lotteria.com/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-2 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 59 1층",
+      "mapx": "1269450822",
+      "mapy": "375590761"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "독립밀방 본점",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-11",
+      "roadAddress": "서울특별시 종로구 통일로12길 10-18",
+      "mapx": "1269606514",
+      "mapy": "375727375"
+    },
+    {
+      "title": "초원파스타운",
+      "link": "https://catchtable.co.kr/prairie",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-156 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 25 1층",
+      "mapx": "1269423970",
+      "mapy": "375890575"
+    },
+    {
+      "title": "작은스페인",
+      "link": "https://app.catchtable.co.kr/ct/shop/little.spain.seoul",
+      "category": "음식점>스페인음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 81-27",
+      "roadAddress": "서울특별시 서대문구 연희로25길 37",
+      "mapx": "1269340196",
+      "mapy": "375717835"
+    },
+    {
+      "title": "까델루뽀",
+      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 39-1",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
+      "mapx": "1269714259",
+      "mapy": "375818165"
+    },
+    {
+      "title": "다움223.1",
+      "link": "https://app.catchtable.co.kr/ct/shop/dawoom",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 281-13 지상1층",
+      "roadAddress": "서울특별시 종로구 자하문로 223-1 지상1층",
+      "mapx": "1269633692",
+      "mapy": "375941934"
+    }
+  ]
+}

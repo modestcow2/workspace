@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:23 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:31:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375622716"
     },
     {
-      "title": "익선애뜻",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 163 1층 익선애뜻",
-      "roadAddress": "서울특별시 종로구 돈화문로11다길 24 1층 익선애뜻",
-      "mapx": "1269905479",
-      "mapy": "375733641"
-    },
-    {
       "title": "더식당 명동본점",
       "link": "https://app.catchtable.co.kr/ct/shop/thesikdang",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 명동10길 36 2층",
       "mapx": "1269855667",
       "mapy": "375622625"
+    },
+    {
+      "title": "익선애뜻",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 163 1층 익선애뜻",
+      "roadAddress": "서울특별시 종로구 돈화문로11다길 24 1층 익선애뜻",
+      "mapx": "1269905479",
+      "mapy": "375733641"
     },
     {
       "title": "자하문로118 들풀",

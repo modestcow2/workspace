@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "인사동쭈꾸미",
+      "link": "http://instagram.com/insadong_chungsik",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
+      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
+      "mapx": "1269858898",
+      "mapy": "375791440"
+    },
+    {
+      "title": "삼지",
+      "link": "https://blog.naver.com/samgimoon1000",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
+      "mapx": "1269860086",
+      "mapy": "375782908"
+    },
+    {
+      "title": "담솥 안국역점",
+      "link": "http://damsot.com/store/view.html?skey=%BE%C8%B1%B9&cate1=&cate2=&no=50",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-23 1층",
+      "roadAddress": "서울특별시 종로구 계동2길 4 1층",
+      "mapx": "1269868085",
+      "mapy": "375798245"
+    },
+    {
+      "title": "황칠가 안국점",
+      "link": "https://smartstore.naver.com/goodhealingshop",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 109 지하 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
+      "mapx": "1269857055",
+      "mapy": "375774305"
+    },
+    {
+      "title": "삼청동김치찌개",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 산2-49",
+      "roadAddress": "서울특별시 종로구 삼청로11길 19",
+      "mapx": "1269808990",
+      "mapy": "375885729"
+    }
+  ]
+}

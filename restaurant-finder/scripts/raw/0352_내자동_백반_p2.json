@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    },
+    {
+      "title": "꿀밥상",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 98-1 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
+      "mapx": "1269818749",
+      "mapy": "375844611"
+    },
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
+    },
+    {
+      "title": "다담정식",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 88 관정빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
+      "mapx": "1269813961",
+      "mapy": "375694054"
+    }
+  ]
+}

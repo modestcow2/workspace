@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "닭칼원조집",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 471",
+      "roadAddress": "서울특별시 중구 청파로 457-1",
+      "mapx": "1269678328",
+      "mapy": "375602566"
+    },
+    {
+      "title": "충정로 수연",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 419 CENTRAL PLACE 1층",
+      "roadAddress": "서울특별시 중구 서소문로 50 CENTRAL PLACE 1층",
+      "mapx": "1269670084",
+      "mapy": "375608743"
+    },
+    {
+      "title": "우이락 충정로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/wooyirak_c",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 398-8 1층",
+      "roadAddress": "서울특별시 중구 서소문로 14 1층",
+      "mapx": "1269636483",
+      "mapy": "375590138"
+    },
+    {
+      "title": "전통분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 346",
+      "roadAddress": "서울특별시 서대문구 충정로4길 24",
+      "mapx": "1269642047",
+      "mapy": "375603348"
+    },
+    {
+      "title": "어바웃샤브 서대문역점",
+      "link": "",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 91-2 1층",
+      "roadAddress": "서울특별시 서대문구 충정로 71 1층",
+      "mapx": "1269656866",
+      "mapy": "375650323"
+    }
+  ]
+}

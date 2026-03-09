@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시도쿠 현대백화점 <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-33 신촌점 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 신촌점 10층",
+      "mapx": "1269356172",
+      "mapy": "375559008"
+    },
+    {
+      "title": "여우골초밥 <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-11",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
+      "mapx": "1269349900",
+      "mapy": "375564975"
+    },
+    {
+      "title": "치히로 <b>신촌</b>점",
+      "link": "https://chihiro.co.kr/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-157 B동 1~2층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 25 B동 1~2층",
+      "mapx": "1269354685",
+      "mapy": "375588898"
+    },
+    {
+      "title": "멘지 <b>신촌</b>점",
+      "link": "https://naver.me/5SyzgszE",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 33-14 2층",
+      "roadAddress": "서울특별시 서대문구 연세로9길 8 2층",
+      "mapx": "1269364737",
+      "mapy": "375585778"
+    },
+    {
+      "title": "이국장",
+      "link": "https://www.instagram.com/_leegookjang",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-36 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 36 1층",
+      "mapx": "1269386491",
+      "mapy": "375577204"
+    }
+  ]
+}

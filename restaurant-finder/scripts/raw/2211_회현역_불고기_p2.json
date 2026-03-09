@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "서관면옥 신세계백화점 본점",
+      "link": "https://www.instagram.com/seogwanmyenog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 디 에스테이트 14층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 디 에스테이트 14층",
+      "mapx": "1269806346",
+      "mapy": "375603977"
+    },
+    {
+      "title": "대박물갈비",
+      "link": "https://www.instagram.com/daepark_mulgalbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 168-8 1층 대박물갈비",
+      "roadAddress": "서울특별시 중구 퇴계로4길 7 1층 대박물갈비",
+      "mapx": "1269777252",
+      "mapy": "375575445"
+    },
+    {
+      "title": "우정식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-82",
+      "roadAddress": "서울특별시 중구 남대문시장길 12-9",
+      "mapx": "1269767687",
+      "mapy": "375598118"
+    },
+    {
+      "title": "북촌손두부",
+      "link": "",
+      "category": "한식>두부요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-83 1층",
+      "roadAddress": "서울특별시 중구 남대문로5길 3 1층",
+      "mapx": "1269789448",
+      "mapy": "375615965"
+    }
+  ]
+}

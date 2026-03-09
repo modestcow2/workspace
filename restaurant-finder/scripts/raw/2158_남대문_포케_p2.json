@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그리너 <b>남대문</b>점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
+    {
+      "title": "폴인<b>포케</b> 서울시청점",
+      "link": "https://fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
+      "mapx": "1269775175",
+      "mapy": "375623578"
+    },
+    {
+      "title": "슬로우캘리 숭례문점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 1-1 창화빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로 23 창화빌딩 1층",
+      "mapx": "1269739788",
+      "mapy": "375591484"
+    },
+    {
+      "title": "슬로우캘리 서울시청역점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 97-2 1층",
+      "roadAddress": "서울특별시 중구 서소문로 134 1층",
+      "mapx": "1269758636",
+      "mapy": "375635964"
+    },
+    {
+      "title": "샐러디 서울시청점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 14-5 1층",
+      "roadAddress": "서울특별시 중구 세종대로18길 20-1 1층",
+      "mapx": "1269782375",
+      "mapy": "375636921"
+    }
+  ]
+}

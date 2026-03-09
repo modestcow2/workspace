@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "전설의우대<b>갈비</b> 서울<b>시청</b>직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    },
+    {
+      "title": "월가<b>갈비</b> 서울<b>시청</b>본점",
+      "link": "https://www.instagram.com/wallga_galbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 11-7 1, 2, 3층",
+      "roadAddress": "서울특별시 중구 세종대로18길 22 1, 2, 3층",
+      "mapx": "1269783927",
+      "mapy": "375637074"
+    },
+    {
+      "title": "금성회관 서울<b>시청</b>직영점",
+      "link": "https://www.instagram.com/gumseong5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
+      "mapx": "1269774892",
+      "mapy": "375623316"
+    },
+    {
+      "title": "태산1970 서울<b>시청</b>본점",
+      "link": "https://www.instagram.com/taesan1970",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-22 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로11길 47 1층, 2층",
+      "mapx": "1269733179",
+      "mapy": "375619110"
+    },
+    {
+      "title": "교대<b>갈비</b>집 <b>시청</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyodaegalbi_sicheong",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 20-1 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 31 2층",
+      "mapx": "1269772785",
+      "mapy": "375624314"
+    }
+  ]
+}

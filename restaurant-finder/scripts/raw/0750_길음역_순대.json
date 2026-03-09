@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "불난집",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 877-184 길음 동 비동1층",
+      "roadAddress": "서울특별시 성북구 동소문로 225-9 (길음 동) 비동1층",
+      "mapx": "1270215848",
+      "mapy": "376023044"
+    },
+    {
+      "title": "난이네곱창",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 877-197 전치과의원",
+      "roadAddress": "서울특별시 성북구 동소문로 225-13 전치과의원",
+      "mapx": "1270213272",
+      "mapy": "376023312"
+    },
+    {
+      "title": "오르막길 떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 48-15 송암빌딩 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 179-48 송암빌딩 1층",
+      "mapx": "1270208810",
+      "mapy": "375983548"
+    },
+    {
+      "title": "종암동 소문난 보배곱창",
+      "link": "https://www.instagram.com/bb_gopchang",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 84-39 1층 소문난 보배곱창",
+      "roadAddress": "서울특별시 성북구 종암로23길 14 1층 소문난 보배곱창",
+      "mapx": "1270330848",
+      "mapy": "375999920"
+    },
+    {
+      "title": "월곡동할매떡볶이",
+      "link": "https://www.instagram.com/wg.halmae.tteokbokki",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 81-292 1층 월곡동할매떡볶이",
+      "roadAddress": "서울특별시 성북구 오패산로19길 46 1층 월곡동할매떡볶이",
+      "mapx": "1270332855",
+      "mapy": "376092378"
+    }
+  ]
+}

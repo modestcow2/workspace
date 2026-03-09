@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "솥내음 서울역 <b>남대문시장</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-11 지하1층",
+      "roadAddress": "서울특별시 중구 통일로 10 지하1층",
+      "mapx": "1269736575",
+      "mapy": "375570913"
+    },
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "희락갈치",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-34",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-6",
+      "mapx": "1269770942",
+      "mapy": "375599042"
+    },
+    {
+      "title": "금성관 나주곰탕",
+      "link": "http://m.smartstore.naver.com/slow_naju",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 96 청남빌딩",
+      "roadAddress": "서울특별시 중구 남대문로 29 청남빌딩",
+      "mapx": "1269789044",
+      "mapy": "375613997"
+    },
+    {
+      "title": "어슬 서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/eoseulcheongdam_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-17 에너지플러스 서울로 13층",
+      "roadAddress": "서울특별시 중구 퇴계로 15 에너지플러스 서울로 13층",
+      "mapx": "1269745560",
+      "mapy": "375570296"
+    }
+  ]
+}

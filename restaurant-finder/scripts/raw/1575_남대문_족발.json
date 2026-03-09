@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만족오향<b>족발</b> 시청점",
+      "link": "https://blog.naver.com/manchum4755",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 318-1",
+      "roadAddress": "서울특별시 중구 서소문로 134-7",
+      "mapx": "1269760158",
+      "mapy": "375632554"
+    },
+    {
+      "title": "중앙왕<b>족발</b>",
+      "link": "http://jungangwangjokbal.cityfood.co.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-120",
+      "roadAddress": "서울특별시 중구 남대문시장4길 10-1",
+      "mapx": "1269772061",
+      "mapy": "375597406"
+    },
+    {
+      "title": "크루아타이",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 104호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 104호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "순천왕<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-123",
+      "roadAddress": "서울특별시 중구 남대문시장4길 12-1",
+      "mapx": "1269771824",
+      "mapy": "375596583"
+    },
+    {
+      "title": "꾸이꾸이 맛보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 봉래동1가 5-41",
+      "roadAddress": "서울특별시 중구 칠패로 36",
+      "mapx": "1269729032",
+      "mapy": "375593908"
+    }
+  ]
+}

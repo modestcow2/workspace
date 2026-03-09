@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "독립밀방 익선",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
+      "mapx": "1269902619",
+      "mapy": "375740791"
+    },
+    {
+      "title": "정원레스토랑 어반가든",
+      "link": "http://urbangarden.co.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 28-2",
+      "roadAddress": "서울특별시 중구 정동길 12-15",
+      "mapx": "1269692254",
+      "mapy": "375674386"
+    },
+    {
+      "title": "디라이프스타일키친 <b>광화문</b>점",
+      "link": "https://dlifestyle.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "헤비<b>스테이크</b> 종로구청점",
+      "link": "http://www.heavysteak.co.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 216-1 2층 헤비스테이크",
+      "roadAddress": "서울특별시 종로구 삼봉로 42 2층 헤비스테이크",
+      "mapx": "1269795751",
+      "mapy": "375723837"
+    },
+    {
+      "title": "살롱순라 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
+      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
+      "mapx": "1269916936",
+      "mapy": "375741979"
+    }
+  ]
+}

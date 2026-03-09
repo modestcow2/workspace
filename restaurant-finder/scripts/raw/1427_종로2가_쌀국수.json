@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포브라더스 <b>종로</b>점",
+      "link": "http://4brothers.kr/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 210호",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 210호",
+      "mapx": "1269836223",
+      "mapy": "375707628"
+    },
+    {
+      "title": "호앙비엣 관철동점",
+      "link": "https://hoang-viet.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 75-4 1층",
+      "roadAddress": "서울특별시 종로구 종로 82-1 1층",
+      "mapx": "1269866857",
+      "mapy": "375699844"
+    },
+    {
+      "title": "153구포국수 <b>종로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 23 1층",
+      "roadAddress": "서울특별시 종로구 종로 87-1 1층",
+      "mapx": "1269873204",
+      "mapy": "375704112"
+    },
+    {
+      "title": "을지깐깐",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljicanhcanh?from=share&type=WAITING",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 323 202호 을지깐깐",
+      "roadAddress": "서울특별시 중구 을지로12길 12 202호 을지깐깐",
+      "mapx": "1269910634",
+      "mapy": "375657466"
+    },
+    {
+      "title": "타마린드 디타워점",
+      "link": "https://catchtable.co.kr/tamarinddt",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    }
+  ]
+}

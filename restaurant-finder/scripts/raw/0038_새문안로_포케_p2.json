@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "훅트<b>포케</b> 광화문점",
+      "link": "https://www.instagram.com/hookedpoke_official",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 105호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 105호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "Poke all day <b>포케</b>&amp;샐러드 광화문점",
+      "link": "https://www.instagram.com/pokeallday_official/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "슬로우캘리 종로새문안점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 31 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 87 2층",
+      "mapx": "1269742649",
+      "mapy": "375703698"
+    },
+    {
+      "title": "슬로우캘리 정동점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 92 지하1층 B105-1호, 3호",
+      "roadAddress": "서울특별시 종로구 새문안로 58 지하1층 B105-1호, 3호",
+      "mapx": "1269714366",
+      "mapy": "375694542"
+    }
+  ]
+}

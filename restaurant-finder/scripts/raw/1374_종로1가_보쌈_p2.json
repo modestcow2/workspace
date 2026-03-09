@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광화문미진",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 1층",
+      "mapx": "1269798986",
+      "mapy": "375705485"
+    },
+    {
+      "title": "윤찬식당",
+      "link": "https://www.instagram.com/yunchan_bistro_sotasty",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B105-3호(르메이에르종로타운)",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B105-3호(르메이에르종로타운)",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "한마루",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 2층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 2층",
+      "mapx": "1269797880",
+      "mapy": "375704377"
+    },
+    {
+      "title": "삼해집 <b>종로</b>점",
+      "link": "http://www.samhae1.kr",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 42",
+      "roadAddress": "서울특별시 종로구 수표로20길 16-15",
+      "mapx": "1269909814",
+      "mapy": "375699683"
+    },
+    {
+      "title": "<b>종로</b> 흥부가",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 40 1층",
+      "roadAddress": "서울특별시 종로구 수표로20길 22 1층",
+      "mapx": "1269908525",
+      "mapy": "375699114"
+    }
+  ]
+}

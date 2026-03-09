@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "파툼",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 63-15",
+      "roadAddress": "서울특별시 종로구 삼청로 86-5",
+      "mapx": "1269821735",
+      "mapy": "375832319"
+    },
+    {
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
+    },
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
+      "mapx": "1269814921",
+      "mapy": "375880187"
+    },
+    {
+      "title": "편안한집",
+      "link": "https://ahome.imweb.me/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-3",
+      "roadAddress": "서울특별시 종로구 북촌로 133",
+      "mapx": "1269833492",
+      "mapy": "375873030"
+    },
+    {
+      "title": "바운드리스바이비어드",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 137-1 바운드리스",
+      "roadAddress": "서울특별시 종로구 율곡로3길 74-9 바운드리스",
+      "mapx": "1269826588",
+      "mapy": "375790352"
+    }
+  ]
+}

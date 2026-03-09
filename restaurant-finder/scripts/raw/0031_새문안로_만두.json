@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광화문면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
+      "mapx": "1269747363",
+      "mapy": "375698520"
+    },
+    {
+      "title": "허니떡볶이",
+      "link": "https://blog.naver.com/honeybokki",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
+      "mapx": "1269762132",
+      "mapy": "375705250"
+    },
+    {
+      "title": "봉평 옹심이 막국수",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 164 2층 ( 164, 적십자 별관)",
+      "roadAddress": "서울특별시 종로구 새문안로 9 2층 (평동 164, 적십자 별관)",
+      "mapx": "1269673144",
+      "mapy": "375669020"
+    },
+    {
+      "title": "새봄 서대문점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 62-15",
+      "roadAddress": "서울특별시 중구 새문안로 24",
+      "mapx": "1269685725",
+      "mapy": "375674131"
+    },
+    {
+      "title": "무탄 광화문점",
+      "link": "https://naver.me/5uc3NJV7",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    }
+  ]
+}

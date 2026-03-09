@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "니꾸킹 버거",
+      "link": "http://instagram.com/nikukingburger_seoul",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 381-3 1층 202호",
+      "roadAddress": "서울특별시 마포구 동교로34길 17 1층 202호",
+      "mapx": "1269253123",
+      "mapy": "375609570"
+    },
+    {
+      "title": "히포 브런치하우스",
+      "link": "https://www.instagram.com/brunchhaus_hippo/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-34 1층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 85 1층",
+      "mapx": "1269172618",
+      "mapy": "375652288"
+    },
+    {
+      "title": "고스트블랙 연남",
+      "link": "https://www.instagram.com/ghostblack_yeonnam/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-35 고스트블랙연남",
+      "roadAddress": "서울특별시 마포구 연희로1길 45-6 고스트블랙연남",
+      "mapx": "1269259468",
+      "mapy": "375613117"
+    },
+    {
+      "title": "데이오프",
+      "link": "https://www.instagram.com/dayoff_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 240-29 1층 101호",
+      "roadAddress": "서울특별시 마포구 성미산로 153-16 1층 101호",
+      "mapx": "1269231145",
+      "mapy": "375651289"
+    },
+    {
+      "title": "데일리라운드 연남",
+      "link": "http://www.instagram.com/dailyround__",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-28 2.5",
+      "roadAddress": "서울특별시 마포구 동교로38길 27-19 2.5",
+      "mapx": "1269259933",
+      "mapy": "375619210"
+    }
+  ]
+}

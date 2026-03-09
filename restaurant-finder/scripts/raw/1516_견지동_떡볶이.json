@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이가네 종각점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 대성 스카이렉스 1117호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 대성 스카이렉스 1117호",
+      "mapx": "1269827899",
+      "mapy": "375722724"
+    },
+    {
+      "title": "영차<b>떡볶이</b> 명동점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-10 2~4층",
+      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
+      "mapx": "1269835740",
+      "mapy": "375631401"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
+    },
+    {
+      "title": "명화당 명동1호점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-3 2층",
+      "roadAddress": "서울특별시 중구 명동4길 30 2층",
+      "mapx": "1269837950",
+      "mapy": "375623945"
+    },
+    {
+      "title": "허니<b>떡볶이</b>",
+      "link": "https://blog.naver.com/honeybokki",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
+      "mapx": "1269762132",
+      "mapy": "375705250"
+    }
+  ]
+}

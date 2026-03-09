@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "제주한라해장",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151",
+      "roadAddress": "서울특별시 중구 칠패로 27",
+      "mapx": "1269722870",
+      "mapy": "375600266"
+    },
+    {
+      "title": "담원순대 <b>시청</b>본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
+    },
+    {
+      "title": "본뼈감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 101호 본뼈감자탕",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 101호 본뼈감자탕",
+      "mapx": "1269741781",
+      "mapy": "375622803"
+    },
+    {
+      "title": "보승회관 <b>시청</b>점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-2",
+      "roadAddress": "서울특별시 중구 세종대로 66",
+      "mapx": "1269765651",
+      "mapy": "375621823"
+    },
+    {
+      "title": "제주은희네<b>해장국</b> 인천<b>시청</b>점",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 남동구 구월동 1129-9 우신빌딩 1층",
+      "roadAddress": "인천광역시 남동구 예술로192번길 39 우신빌딩 1층",
+      "mapx": "1267036061",
+      "mapy": "374511750"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "보승회관 시청점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-2",
+      "roadAddress": "서울특별시 중구 세종대로 66",
+      "mapx": "1269765651",
+      "mapy": "375621823"
+    },
+    {
+      "title": "양평<b>해장국</b> 숭례문점",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 20-1",
+      "roadAddress": "서울특별시 중구 세종대로 28",
+      "mapx": "1269746139",
+      "mapy": "375589243"
+    },
+    {
+      "title": "마라공방 서울역점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 지하1층 5호",
+      "roadAddress": "서울특별시 중구 세종대로 17 지하1층 5호",
+      "mapx": "1269732806",
+      "mapy": "375586371"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마성의<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-116 1층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 49 1층",
+      "mapx": "1269703326",
+      "mapy": "372975886"
+    },
+    {
+      "title": "싸움의고수 <b>성균관대</b>점",
+      "link": "http://www.ssaum.co.kr",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 142-2",
+      "roadAddress": "서울특별시 종로구 성균관로 17",
+      "mapx": "1269974430",
+      "mapy": "375843131"
+    },
+    {
+      "title": "더맛있는<b>족발</b>보쌈 수원천천점",
+      "link": "https://www.instagram.com/thejok_suwonchunchun/",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 507-2 1층",
+      "roadAddress": "경기도 수원시 장안구 덕영대로511번길 37-21 1층",
+      "mapx": "1269800110",
+      "mapy": "372999889"
+    }
+  ]
+}

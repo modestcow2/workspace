@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "조선초가한끼 <b>마포</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 대흥동 802 대흥 세양아파트 상가 1층",
+      "roadAddress": "서울특별시 마포구 독막로 288 대흥 세양아파트 상가 1층",
+      "mapx": "1269450432",
+      "mapy": "375441983"
+    },
+    {
+      "title": "우담가&amp;해담가",
+      "link": "http://우담가해담가.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 490 메세나폴리스 1층",
+      "roadAddress": "서울특별시 마포구 양화로 45 메세나폴리스 1층",
+      "mapx": "1269142273",
+      "mapy": "375513354"
+    },
+    {
+      "title": "색동저고리",
+      "link": "http://saekdongmapo.com/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 179-3 sj빌딩 2층",
+      "roadAddress": "서울특별시 마포구 도화길 27 sj빌딩 2층",
+      "mapx": "1269489049",
+      "mapy": "375408646"
+    },
+    {
+      "title": "서리원 <b>마포</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/seoriwon",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 463 현대하이엘오피스텔 지하1층 B123~B125호",
+      "roadAddress": "서울특별시 마포구 마포대로 173 현대하이엘오피스텔 지하1층 B123~B125호",
+      "mapx": "1269544490",
+      "mapy": "375497932"
+    },
+    {
+      "title": "덕승재 상암본점",
+      "link": "https://www.duckseungjea.com",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 상암동 1653 DMC이안오피스텔 2단지 221호",
+      "roadAddress": "서울특별시 마포구 월드컵북로 361 DMC이안오피스텔 2단지 221호",
+      "mapx": "1268919000",
+      "mapy": "375770253"
+    }
+  ]
+}

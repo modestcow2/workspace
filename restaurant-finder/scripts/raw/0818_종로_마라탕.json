@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신룽푸<b>마라탕</b>두타몰점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-12 두산타워빌딩　B2",
+      "roadAddress": "서울특별시 중구 장충단로 275 두산타워빌딩　B2",
+      "mapx": "1270091196",
+      "mapy": "375685686"
+    },
+    {
+      "title": "마라중독",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 7-1 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
+      "mapx": "1269874452",
+      "mapy": "375695065"
+    },
+    {
+      "title": "샹츠마라 <b>종로</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-14 2층",
+      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
+      "mapx": "1269859110",
+      "mapy": "375686220"
+    },
+    {
+      "title": "마라공방 종각2호점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 1층",
+      "mapx": "1269798224",
+      "mapy": "375708585"
+    },
+    {
+      "title": "여의주훠궈관 을지로본점",
+      "link": "https://www.instagram.com/yeouijuhuoguo",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 323 4층 403호",
+      "roadAddress": "서울특별시 중구 을지로12길 12 4층 403호",
+      "mapx": "1269910635",
+      "mapy": "375657466"
+    }
+  ]
+}

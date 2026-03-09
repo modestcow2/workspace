@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "베이직프라이드<b>치킨</b>",
+      "link": "https://베이직프라이드치킨.com",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 성산동 260-8 1층",
+      "roadAddress": "서울특별시 마포구 월드컵로 140 1층",
+      "mapx": "1269064630",
+      "mapy": "375605027"
+    },
+    {
+      "title": "더블플레이<b>치킨</b> 홍대점",
+      "link": "https://www.youtube.com/channel/UCLU-S9rfy2RDtuuiLC396kg",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 200-24 2층 더블플레이치킨",
+      "roadAddress": "서울특별시 마포구 동교로 201 2층 더블플레이치킨",
+      "mapx": "1269230542",
+      "mapy": "375582269"
+    },
+    {
+      "title": "로얄호프<b>치킨</b> 홍대점",
+      "link": "https://로얄호프치킨.COM",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 198-27 1층,2층",
+      "roadAddress": "서울특별시 마포구 동교로 213 1층,2층",
+      "mapx": "1269234817",
+      "mapy": "375590379"
+    },
+    {
+      "title": "홍대 교도리",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 362-6 1층",
+      "roadAddress": "서울특별시 마포구 와우산로 77 1층",
+      "mapx": "1269231521",
+      "mapy": "375513545"
+    },
+    {
+      "title": "로얄호프<b>치킨</b> 합정점",
+      "link": "https://로얄호프치킨.COM",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 396-35 1층",
+      "roadAddress": "서울특별시 마포구 양화로6길 53 1층",
+      "mapx": "1269172966",
+      "mapy": "375488887"
+    }
+  ]
+}

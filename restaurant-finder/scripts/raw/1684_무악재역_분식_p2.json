@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "다시밥",
+      "link": "http://instagram.com/dasibab_",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 307-12 1층 다시 밥",
+      "roadAddress": "서울특별시 서대문구 통일로39길 43 1층 다시 밥",
+      "mapx": "1269425671",
+      "mapy": "375873532"
+    },
+    {
+      "title": "스마일 김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 300-10",
+      "roadAddress": "서울특별시 서대문구 통일로40길 13",
+      "mapx": "1269435790",
+      "mapy": "375903143"
+    },
+    {
+      "title": "만나<b>분식</b>",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "오케이<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 287-182 빌딩 1층",
+      "roadAddress": "서울특별시 서대문구 간호대로 29 홍제동빌딩 1층",
+      "mapx": "1269477233",
+      "mapy": "375968359"
+    },
+    {
+      "title": "라면점빵",
+      "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 202",
+      "roadAddress": "서울특별시 종로구 자하문로1길 39",
+      "mapx": "1269701211",
+      "mapy": "375766355"
+    }
+  ]
+}

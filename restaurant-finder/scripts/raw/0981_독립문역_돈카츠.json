@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "돈박",
+      "link": "http://instagram.com/donbak_",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 롯데캐슬상가 19호",
+      "roadAddress": "서울특별시 종로구 통일로 230 롯데캐슬상가 19호",
+      "mapx": "1269591987",
+      "mapy": "375737352"
+    },
+    {
+      "title": "종로김밥 독립문점",
+      "link": "http://www.jongrokimbap.co.kr/",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 84 현대아파트상가 1-112호",
+      "roadAddress": "서울특별시 종로구 통일로12길 31 현대아파트상가 1-112호",
+      "mapx": "1269591717",
+      "mapy": "375744350"
+    },
+    {
+      "title": "미스터빠삭 독립문점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 299 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 197 1층",
+      "mapx": "1269612950",
+      "mapy": "375709432"
+    },
+    {
+      "title": "최가상회",
+      "link": "https://smartstore.naver.com/choiga_market",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 330 1층 107호",
+      "roadAddress": "서울특별시 서대문구 통일로 185-1 1층 107호",
+      "mapx": "1269621814",
+      "mapy": "375700659"
+    },
+    {
+      "title": "가츠몽 경희궁자이점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍파동 199",
+      "roadAddress": "서울특별시 종로구 송월길 99",
+      "mapx": "1269625988",
+      "mapy": "375703273"
+    }
+  ]
+}

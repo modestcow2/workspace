@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
+    },
+    {
+      "title": "스미스가 좋아하는 테라스",
+      "link": "https://www.instagram.com/smith_terrace_official",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 11 1st Floor",
+      "roadAddress": "서울특별시 종로구 삼청로 135-3 1st Floor",
+      "mapx": "1269814009",
+      "mapy": "375876362"
+    },
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
+      "mapx": "1269814921",
+      "mapy": "375880187"
+    },
+    {
+      "title": "퀸즈베이커리 삼청점",
+      "link": "https://blog.naver.com/queensbakery_cafe",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 119-1",
+      "roadAddress": "서울특별시 종로구 북촌로5길 56",
+      "mapx": "1269819210",
+      "mapy": "375799089"
+    },
+    {
+      "title": "일사삼",
+      "link": "http://app.catchtable.co.kr/ct/shop/143",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-17",
+      "roadAddress": "서울특별시 종로구 북촌로 143",
+      "mapx": "1269823930",
+      "mapy": "375871094"
+    }
+  ]
+}

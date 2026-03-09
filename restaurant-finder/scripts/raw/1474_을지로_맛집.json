@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "페이퍼크레인",
+      "link": "https://www.instagram.com/papercrane_official",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 61-1 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 14 1층",
+      "mapx": "1269921281",
+      "mapy": "375638701"
+    },
+    {
+      "title": "느루집 <b>을지로</b>점",
+      "link": "",
+      "category": "한식>닭갈비",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 107-1 지하 1층 104호(을지로 3가)",
+      "roadAddress": "서울특별시 중구 마른내로 27 지하 1층 104호(을지로 3가)",
+      "mapx": "1269913572",
+      "mapy": "375650245"
+    },
+    {
+      "title": "청기와타운 <b>을지로</b>점",
+      "link": "https://catchtable.co.kr/bluerooftown5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-21 1층 청기와타운 을지로점",
+      "roadAddress": "서울특별시 중구 을지로 54 1층 청기와타운 을지로점",
+      "mapx": "1269836749",
+      "mapy": "375659020"
+    },
+    {
+      "title": "강남 돼지상회 무한리필 명동직영점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-22 3층",
+      "roadAddress": "서울특별시 중구 명동3길 44 3층",
+      "mapx": "1269836364",
+      "mapy": "375656305"
+    },
+    {
+      "title": "산청숯불가든 <b>을지로</b>",
+      "link": "https://www.instagram.com/sancheongin/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 343-1 1층",
+      "roadAddress": "서울특별시 중구 을지로 114-6 1층",
+      "mapx": "1269906186",
+      "mapy": "375658389"
+    }
+  ]
+}

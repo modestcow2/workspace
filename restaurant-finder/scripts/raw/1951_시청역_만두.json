@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "천향원 명동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
+      "roadAddress": "서울특별시 중구 남대문로7길 33 소공빌딩 2층 천향원",
+      "mapx": "1269800515",
+      "mapy": "375637808"
+    },
+    {
+      "title": "이북<b>만두</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 27",
+      "roadAddress": "서울특별시 중구 무교로 17-13",
+      "mapx": "1269785551",
+      "mapy": "375673053"
+    },
+    {
+      "title": "탄백",
+      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-8",
+      "roadAddress": "서울특별시 중구 정동길 37",
+      "mapx": "1269724678",
+      "mapy": "375659578"
+    },
+    {
+      "title": "명동칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
+      "mapx": "1269759250",
+      "mapy": "375686250"
+    }
+  ]
+}

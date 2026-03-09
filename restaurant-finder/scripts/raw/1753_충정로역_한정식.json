@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "사조미가",
+      "link": "http://www.sajomiga.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 157 사조빌딩 2층",
+      "roadAddress": "서울특별시 서대문구 통일로 107-39 사조빌딩 2층",
+      "mapx": "1269665726",
+      "mapy": "375644100"
+    },
+    {
+      "title": "본가 <b>한정식</b>",
+      "link": "https://www.facebook.com/tastebonga",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 250-18",
+      "roadAddress": "서울특별시 서대문구 충정로4길 5-3",
+      "mapx": "1269641327",
+      "mapy": "375611902"
+    },
+    {
+      "title": "산첩첩물첩첩",
+      "link": "https://www.instagram.com/sccmcc_seoul/",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 331-22",
+      "roadAddress": "서울특별시 중구 만리재로35길 47-3",
+      "mapx": "1269676965",
+      "mapy": "375572364"
+    },
+    {
+      "title": "아담한 어상",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 24 아담한 어상",
+      "roadAddress": "서울특별시 서대문구 통일로9안길 36-3 아담한 어상",
+      "mapx": "1269653198",
+      "mapy": "375657441"
+    },
+    {
+      "title": "연",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 40",
+      "roadAddress": "서울특별시 서대문구 경기대로 82",
+      "mapx": "1269648017",
+      "mapy": "375659166"
+    }
+  ]
+}

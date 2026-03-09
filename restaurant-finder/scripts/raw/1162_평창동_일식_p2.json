@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "호림스시",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 341",
+      "roadAddress": "서울특별시 종로구 평창11길 13",
+      "mapx": "1269663655",
+      "mapy": "376067188"
+    },
+    {
+      "title": "온마츠",
+      "link": "https://www.instagram.com/on.mats",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 314 1층 1호, 온마츠",
+      "roadAddress": "서울특별시 종로구 평창문화로 45-1 1층 1호, 온마츠",
+      "mapx": "1269663228",
+      "mapy": "376055896"
+    },
+    {
+      "title": "칠성라멘",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 312-2",
+      "roadAddress": "서울특별시 종로구 평창문화로 45-2",
+      "mapx": "1269664101",
+      "mapy": "376056545"
+    },
+    {
+      "title": "옥도",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 20-14 1층",
+      "roadAddress": "서울특별시 종로구 세검정로9길 78 1층",
+      "mapx": "1269597629",
+      "mapy": "376062465"
+    },
+    {
+      "title": "구기동 야키토리",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 95-11 1층",
+      "roadAddress": "서울특별시 종로구 진흥로 450 1층",
+      "mapx": "1269580686",
+      "mapy": "376073009"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "선어도 충정로점",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 360-26 1층",
+      "roadAddress": "서울특별시 서대문구 충정로 18 1층",
+      "mapx": "1269634729",
+      "mapy": "375605788"
+    },
+    {
+      "title": "청안식탁",
+      "link": "https://youtu.be/KI285F5RR7w",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 282-2",
+      "roadAddress": "서울특별시 서대문구 충정로4길 21",
+      "mapx": "1269643064",
+      "mapy": "375604439"
+    },
+    {
+      "title": "밥순이 연탄불고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 27 밥순이 연탄불고기",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 50 밥순이 연탄불고기",
+      "mapx": "1269667323",
+      "mapy": "375642531"
+    },
+    {
+      "title": "전통분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 346",
+      "roadAddress": "서울특별시 서대문구 충정로4길 24",
+      "mapx": "1269642047",
+      "mapy": "375603348"
+    },
+    {
+      "title": "본가 한정식",
+      "link": "https://www.facebook.com/tastebonga",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 250-18",
+      "roadAddress": "서울특별시 서대문구 충정로4길 5-3",
+      "mapx": "1269641327",
+      "mapy": "375611902"
+    }
+  ]
+}

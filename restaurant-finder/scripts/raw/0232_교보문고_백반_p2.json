@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    },
+    {
+      "title": "사랑방칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 23-1",
+      "roadAddress": "서울특별시 중구 퇴계로27길 46",
+      "mapx": "1269913418",
+      "mapy": "375632872"
+    },
+    {
+      "title": "일미식당",
+      "link": "http://cafe.naver.com/ilmicafe",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
+      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
+      "mapx": "1269876939",
+      "mapy": "375728300"
+    },
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
+    },
+    {
+      "title": "인사동보리밥 본점",
+      "link": "https://smartstore.naver.com/greatsfb",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-17 지하1층",
+      "roadAddress": "서울특별시 종로구 인사동7길 37 지하1층",
+      "mapx": "1269847327",
+      "mapy": "375725991"
+    }
+  ]
+}

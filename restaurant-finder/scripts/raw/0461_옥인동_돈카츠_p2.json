@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우리집",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 102-7",
+      "roadAddress": "서울특별시 종로구 옥인길 4",
+      "mapx": "1269682800",
+      "mapy": "375806128"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "코돈부르 광화문본점",
+      "link": "https://www.instagram.com/1999codonbur/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 종로타운 2층 215호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 종로타운 2층 215호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "후니도니",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 B113-5호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 B113-5호",
+      "mapx": "1269798081",
+      "mapy": "375707270"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "철길떡볶기",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 150-1",
+      "roadAddress": "서울특별시 서대문구 충정로5길 11",
+      "mapx": "1269634943",
+      "mapy": "375626500"
+    },
+    {
+      "title": "도라무통 즉석<b>떡볶이</b> 중림로38",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 324-1 1층",
+      "roadAddress": "서울특별시 중구 중림로 38 1층",
+      "mapx": "1269672952",
+      "mapy": "375578251"
+    },
+    {
+      "title": "두끼 <b>충정로역</b>점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 상가1동 201호",
+      "roadAddress": "서울특별시 중구 중림로 10 상가1동 201호",
+      "mapx": "1269646833",
+      "mapy": "375588965"
+    },
+    {
+      "title": "오소오소",
+      "link": "https://www.instagram.com/osooso189",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 189 신원빌딩 지하1층",
+      "roadAddress": "서울특별시 서대문구 충정로 47 신원빌딩 지하1층",
+      "mapx": "1269643918",
+      "mapy": "375633135"
+    },
+    {
+      "title": "김가네 <b>충정로역</b>점",
+      "link": "https://blog.naver.com/gimkong7127",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200",
+      "roadAddress": "서울특별시 중구 중림로 10",
+      "mapx": "1269647752",
+      "mapy": "375588610"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "사발",
+      "link": "https://m.booking.naver.com/booking/6/bizes/700305/items/5403470?area=pll",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
+      "mapx": "1269724791",
+      "mapy": "375735857"
+    },
+    {
+      "title": "우슴 광화문 직영점",
+      "link": "https://www.instagram.com/wusm.official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
+    },
+    {
+      "title": "아이노가든키친",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-9 2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
+      "mapx": "1269712704",
+      "mapy": "375728324"
+    },
+    {
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
+    }
+  ]
+}

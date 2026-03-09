@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>명동피자</b> 명동본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mdpizzamd",
+      "category": "양식>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 7-1 4층",
+      "roadAddress": "서울특별시 중구 명동10길 41 4층",
+      "mapx": "1269858727",
+      "mapy": "375620569"
+    },
+    {
+      "title": "<b>명동피자</b> 현대시티아울렛동대문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mdpizzaddm",
+      "category": "양식>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 현대시티아울렛 지하2층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 현대시티아울렛 지하2층",
+      "mapx": "1270079222",
+      "mapy": "375685586"
+    },
+    {
+      "title": "세븐티포 <b>명동</b>성당본점",
+      "link": "https://www.instagram.com/74_myeongdong/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 1-18 명동성당 파밀리아채플 1층",
+      "roadAddress": "서울특별시 중구 명동길 66 명동성당 파밀리아채플 1층",
+      "mapx": "1269861464",
+      "mapy": "375639182"
+    },
+    {
+      "title": "도우큐먼트",
+      "link": "https://www.instagram.com/doughcument",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 3-5 103호",
+      "roadAddress": "서울특별시 중구 퇴계로27길 16 103호",
+      "mapx": "1269917077",
+      "mapy": "375620619"
+    },
+    {
+      "title": "이석덕생면파스타 롯데백화점본점",
+      "link": "https://www.instagram.com/lsd_pasta",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 지하1층",
+      "roadAddress": "서울특별시 중구 남대문로 81 지하1층",
+      "mapx": "1269809381",
+      "mapy": "375643717"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "진진만두 <b>시청</b>점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
+    },
+    {
+      "title": "북창옥 <b>시청</b> 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 60 1~4층",
+      "roadAddress": "서울특별시 중구 남대문로1길 38 1~4층",
+      "mapx": "1269774247",
+      "mapy": "375627917"
+    },
+    {
+      "title": "정동1946 서울<b>시청</b>본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 34-5 LL층 1946",
+      "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
+      "mapx": "1269728071",
+      "mapy": "375633419"
+    },
+    {
+      "title": "대보정 서울<b>시청</b>역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "담솥 <b>시청</b>점",
+      "link": "http://damsot.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 지하1층 B01호",
+      "roadAddress": "서울특별시 중구 을지로 6 지하1층 B01호",
+      "mapx": "1269791339",
+      "mapy": "375655460"
+    }
+  ]
+}

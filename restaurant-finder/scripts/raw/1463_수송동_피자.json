@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "디디스<b>피자</b>펍 종로본점",
+      "link": "https://www.instagram.com/dds_pizzapub",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 101호, 122호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 101호, 122호",
+      "mapx": "1269815257",
+      "mapy": "375724234"
+    },
+    {
+      "title": "더 키친 일뽀르노 광화문점",
+      "link": "https://thekitchenilforno.co.kr/index.do",
+      "category": "음식점>양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
+      "mapx": "1269812442",
+      "mapy": "375750348"
+    },
+    {
+      "title": "그랜마스 브래드앤<b>피자</b>",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58",
+      "roadAddress": "서울특별시 종로구 삼봉로 81",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
+    },
+    {
+      "title": "살롱순라 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
+      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
+      "mapx": "1269916936",
+      "mapy": "375741979"
+    }
+  ]
+}

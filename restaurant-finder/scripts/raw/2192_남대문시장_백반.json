@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영도국밥집",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 48-11",
+      "roadAddress": "서울특별시 중구 남대문시장4길 39",
+      "mapx": "1269773255",
+      "mapy": "375584453"
+    },
+    {
+      "title": "우정식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-82",
+      "roadAddress": "서울특별시 중구 남대문시장길 12-9",
+      "mapx": "1269767687",
+      "mapy": "375598118"
+    },
+    {
+      "title": "명동쭈꾸미 회현역 <b>남대문시장</b>본점",
+      "link": "https://www.instagram.com/myeongdong.jjukkumi/",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 181-6 매일빌딩 1층, 명동쭈꾸미",
+      "roadAddress": "서울특별시 중구 퇴계로6길 3-28 매일빌딩 1층, 명동쭈꾸미",
+      "mapx": "1269793151",
+      "mapy": "375585424"
+    },
+    {
+      "title": "대박물갈비",
+      "link": "https://www.instagram.com/daepark_mulgalbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 168-8 1층 대박물갈비",
+      "roadAddress": "서울특별시 중구 퇴계로4길 7 1층 대박물갈비",
+      "mapx": "1269777252",
+      "mapy": "375575445"
+    },
+    {
+      "title": "김명숙아지매순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-46",
+      "roadAddress": "서울특별시 중구 퇴계로 62-2",
+      "mapx": "1269791892",
+      "mapy": "375590113"
+    }
+  ]
+}

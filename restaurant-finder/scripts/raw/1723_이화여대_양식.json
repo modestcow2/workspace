@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신촌칼",
+      "link": "https://instagram.com/shinchon_kal",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-96 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
+      "mapx": "1269390887",
+      "mapy": "375578967"
+    },
+    {
+      "title": "메가포크",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-23 2층",
+      "roadAddress": "서울특별시 서대문구 명물길 49 2층",
+      "mapx": "1269389218",
+      "mapy": "375589401"
+    },
+    {
+      "title": "아민 이화",
+      "link": "https://app.catchtable.co.kr/ct/shop/we.salad.you_0",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-23",
+      "roadAddress": "서울특별시 서대문구 이화여대길 52-31",
+      "mapx": "1269447562",
+      "mapy": "375594661"
+    },
+    {
+      "title": "비아37 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/via37_",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-31 2층 비아37 신촌본점",
+      "roadAddress": "서울특별시 서대문구 이화여대길 68 2층 비아37 신촌본점",
+      "mapx": "1269446608",
+      "mapy": "375592889"
+    },
+    {
+      "title": "닥터로빈 이대점",
+      "link": "https://drrobbin.com/",
+      "category": "양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 11-1 이화여자대학교 ECC B4",
+      "roadAddress": "서울특별시 서대문구 이화여대길 52 이화여자대학교 ECC B4",
+      "mapx": "1269460931",
+      "mapy": "375609410"
+    }
+  ]
+}

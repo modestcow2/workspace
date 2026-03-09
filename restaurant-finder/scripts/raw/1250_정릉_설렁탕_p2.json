@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>정릉설렁탕</b>",
+      "link": "http://02-919-5911.kti114.net",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 413-14 초원빌딩 1층",
+      "roadAddress": "서울특별시 성북구 보국문로 16 초원빌딩 1층",
+      "mapx": "1270113190",
+      "mapy": "376060232"
+    },
+    {
+      "title": "신천순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 161-15",
+      "roadAddress": "서울특별시 성북구 정릉로 253",
+      "mapx": "1270121236",
+      "mapy": "376045554"
+    },
+    {
+      "title": "우육당",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 16-218 1-2",
+      "roadAddress": "서울특별시 성북구 정릉로38가길 13 1-2",
+      "mapx": "1270180137",
+      "mapy": "376019211"
+    },
+    {
+      "title": "손가네곰국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 128-16 손가네곰국수",
+      "roadAddress": "서울특별시 성북구 성북로15길 8 손가네곰국수",
+      "mapx": "1270003774",
+      "mapy": "375931501"
+    },
+    {
+      "title": "100년<b>설렁탕</b> 성신여대역점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동6가 221 서울빌딩",
+      "roadAddress": "서울특별시 성북구 아리랑로 19 서울빌딩",
+      "mapx": "1270159147",
+      "mapy": "375945514"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우리냉면 홍제점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-241",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 1",
+      "mapx": "1269436999",
+      "mapy": "375883236"
+    },
+    {
+      "title": "계화원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-394",
+      "roadAddress": "",
+      "mapx": "1269439488",
+      "mapy": "375885015"
+    },
+    {
+      "title": "봉평메밀촌 홍제점",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-112",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 27",
+      "mapx": "1269427311",
+      "mapy": "375891329"
+    },
+    {
+      "title": "복가네 손<b>만두</b> 찐빵",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 302-1 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 460 1층",
+      "mapx": "1269435138",
+      "mapy": "375895657"
+    },
+    {
+      "title": "차이나타운",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 299-1 지상1층",
+      "roadAddress": "서울특별시 서대문구 통일로40안길 11 지상1층",
+      "mapx": "1269438993",
+      "mapy": "375907196"
+    }
+  ]
+}

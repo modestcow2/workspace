@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "잼배옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 64-4",
+      "roadAddress": "서울특별시 중구 세종대로9길 68-9",
+      "mapx": "1269737271",
+      "mapy": "375625022"
+    },
+    {
+      "title": "한촌<b>설렁탕</b> 서대문역점",
+      "link": "http://hanchonsdm.cityfood.co.kr/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 108호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 108호",
+      "mapx": "1269699345",
+      "mapy": "375636895"
+    },
+    {
+      "title": "정동옹심이메밀칼국수",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 23-8",
+      "roadAddress": "서울특별시 중구 정동길 2-1",
+      "mapx": "1269693870",
+      "mapy": "375680070"
+    },
+    {
+      "title": "풍년옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 17-1",
+      "roadAddress": "서울특별시 종로구 새문안로7길 26",
+      "mapx": "1269750867",
+      "mapy": "375714199"
+    },
+    {
+      "title": "나주소나주곰탕 신문로1가점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 31",
+      "roadAddress": "서울특별시 종로구 새문안로 87",
+      "mapx": "1269744139",
+      "mapy": "375703667"
+    }
+  ]
+}

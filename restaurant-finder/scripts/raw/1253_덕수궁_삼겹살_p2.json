@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "돌담길<b>삼겹살</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 102동 B124",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 102동 B124",
+      "mapx": "1269706118",
+      "mapy": "375638045"
+    },
+    {
+      "title": "덕수정",
+      "link": "http://itvplus.co.kr/home5/deoksu/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-5",
+      "roadAddress": "서울특별시 중구 정동길 41",
+      "mapx": "1269725500",
+      "mapy": "375659000"
+    },
+    {
+      "title": "도누각 서대문역점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 의주로1가 32-2 2층 도누각",
+      "roadAddress": "서울특별시 중구 통일로 102 2층 도누각",
+      "mapx": "1269684198",
+      "mapy": "375644747"
+    },
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
+    },
+    {
+      "title": "서대문식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 1-4 1층 서대문식당",
+      "roadAddress": "서울특별시 중구 통일로4길 22 1층 서대문식당",
+      "mapx": "1269688538",
+      "mapy": "375644615"
+    }
+  ]
+}

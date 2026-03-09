@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼청동수제비",
+      "link": "http://www.삼청동수제비.kr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 99",
+      "roadAddress": "서울특별시 종로구 삼청로 101-1",
+      "mapx": "1269819599",
+      "mapy": "375845273"
+    },
+    {
+      "title": "스낵서울",
+      "link": "https://www.instagram.com/snackseoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6 2층",
+      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
+      "mapx": "1269816137",
+      "mapy": "375837662"
+    },
+    {
+      "title": "봉탁항아리바비큐 불쭈꾸미 삼청동 본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 61-4",
+      "roadAddress": "서울특별시 종로구 삼청로 104-3",
+      "mapx": "1269824147",
+      "mapy": "375845995"
+    },
+    {
+      "title": "삼청동김치찌개",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 산2-49",
+      "roadAddress": "서울특별시 종로구 삼청로11길 19",
+      "mapx": "1269808990",
+      "mapy": "375885729"
+    },
+    {
+      "title": "편안한집",
+      "link": "https://ahome.imweb.me/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-3",
+      "roadAddress": "서울특별시 종로구 북촌로 133",
+      "mapx": "1269833492",
+      "mapy": "375873030"
+    }
+  ]
+}

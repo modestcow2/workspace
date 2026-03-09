@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "락궁",
+      "link": "",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 339",
+      "roadAddress": "서울특별시 종로구 평창11길 5",
+      "mapx": "1269666213",
+      "mapy": "376061802"
+    },
+    {
+      "title": "태성골뱅이신사 상명대구기점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 85-2 1층",
+      "roadAddress": "서울특별시 종로구 진흥로 443 1층",
+      "mapx": "1269578603",
+      "mapy": "376079356"
+    },
+    {
+      "title": "유월",
+      "link": "https://bit.ly/3jyo79e",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 95-26",
+      "roadAddress": "서울특별시 종로구 진흥로 454",
+      "mapx": "1269583568",
+      "mapy": "376070920"
+    },
+    {
+      "title": "로터스가든",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 107-1 1층",
+      "roadAddress": "서울특별시 성북구 성북로 111 1층",
+      "mapx": "1269967584",
+      "mapy": "375929493"
+    },
+    {
+      "title": "팔선생 상명대점",
+      "link": "https://www.instagram.com/eight_teachers/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 45-2 B1층 팔선생 상명대점",
+      "roadAddress": "서울특별시 종로구 홍지문길 1 B1층 팔선생 상명대점",
+      "mapx": "1269571010",
+      "mapy": "375997156"
+    }
+  ]
+}

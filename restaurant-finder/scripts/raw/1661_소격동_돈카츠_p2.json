@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미술관옆 돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-6 미술관옆돈까스",
+      "roadAddress": "서울특별시 종로구 율곡로3길 83 미술관옆돈까스",
+      "mapx": "1269821105",
+      "mapy": "375793632"
+    },
+    {
+      "title": "청국장밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 36 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 29-5 1층",
+      "mapx": "1269816301",
+      "mapy": "375804973"
+    },
+    {
+      "title": "북촌의뜰",
+      "link": "https://www.instagram.com/bookchontteul/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 149-1 1층-4층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 75-4 1층-4층",
+      "mapx": "1269818633",
+      "mapy": "375790615"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    }
+  ]
+}

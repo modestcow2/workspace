@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "위트앤미트 서울역점",
+      "link": "https://litt.ly/wheat.n.meat",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 로비층 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 로비층 106호",
+      "mapx": "1269744164",
+      "mapy": "375575333"
+    },
+    {
+      "title": "버거운녀석들 남대문점",
+      "link": "http://www.burgerguys.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 21-1 1층 101-1호",
+      "roadAddress": "서울특별시 중구 세종대로 30 1층 101-1호",
+      "mapx": "1269749367",
+      "mapy": "375590098"
+    },
+    {
+      "title": "다운타우너 광화문",
+      "link": "http://downtowner.co.kr/info",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFC몰 B1층 다운타우너 광화문",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFC몰 B1층 다운타우너 광화문",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100",
+      "roadAddress": "서울특별시 종로구 세종대로 178",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    }
+  ]
+}

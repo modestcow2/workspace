@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "히포 <b>브런치</b>하우스",
+      "link": "https://www.instagram.com/brunchhaus_hippo/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-34 1층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 85 1층",
+      "mapx": "1269172618",
+      "mapy": "375652288"
+    },
+    {
+      "title": "잼잼",
+      "link": "https://www.instagram.com/jamjam.cafe/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-31 지하1층",
+      "roadAddress": "서울특별시 마포구 성미산로29길 24 지하1층",
+      "mapx": "1269223616",
+      "mapy": "375650550"
+    },
+    {
+      "title": "오뗄드꾸뜨",
+      "link": "https://www.instagram.com/hotel_de_ggoodd?igsh=ODA1NTc5OTg5Nw==",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-19 101호 1.5층",
+      "roadAddress": "서울특별시 마포구 동교로46길 7 101호 1.5층",
+      "mapx": "1269253227",
+      "mapy": "375627102"
+    },
+    {
+      "title": "해옫 연남",
+      "link": "https://www.instagram.com/heod.yeonnam",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-37 1층",
+      "roadAddress": "서울특별시 마포구 성미산로29길 30 1층",
+      "mapx": "1269221550",
+      "mapy": "375653378"
+    },
+    {
+      "title": "로앤쿡드 더<b>브런치</b>",
+      "link": "https://www.instagram.com/rawandcooked_thebrunch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 488-4 1층 로앤쿡드 더브런치",
+      "roadAddress": "서울특별시 마포구 성미산로 109 1층 로앤쿡드 더브런치",
+      "mapx": "1269191443",
+      "mapy": "375621499"
+    }
+  ]
+}

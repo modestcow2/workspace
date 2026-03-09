@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "페르시안궁전",
+      "link": "http://www.persianpalace.com/",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 121-1 1층",
+      "roadAddress": "서울특별시 종로구 성균관로6길 9 1층",
+      "mapx": "1269976014",
+      "mapy": "375849028"
+    },
+    {
+      "title": "정돈 대학로본점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 107 지층",
+      "roadAddress": "서울특별시 종로구 대학로9길 12 지층",
+      "mapx": "1270011237",
+      "mapy": "375818016"
+    },
+    {
+      "title": "깔리",
+      "link": "https://www.instagram.com/kali.seoul",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 171 2층",
+      "roadAddress": "서울특별시 종로구 대학로11길 43 2층",
+      "mapx": "1269992776",
+      "mapy": "375824805"
+    },
+    {
+      "title": "머노까머나 대학로점",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 187 이화빌딩 2층",
+      "roadAddress": "서울특별시 종로구 창경궁로 236 이화빌딩 2층",
+      "mapx": "1269988320",
+      "mapy": "375826920"
+    },
+    {
+      "title": "대학로고래",
+      "link": "https://www.instagram.com/gorae_katsu?igsh=azNxNDE5YmkxMXZi&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 176-1 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 46 1층",
+      "mapx": "1269995278",
+      "mapy": "375826321"
+    }
+  ]
+}

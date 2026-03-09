@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "솔솥 <b>시청역</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 2층 201호",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 2층 201호",
+      "mapx": "1269742207",
+      "mapy": "375623476"
+    },
+    {
+      "title": "북창옥 시청 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 60 1~4층",
+      "roadAddress": "서울특별시 중구 남대문로1길 38 1~4층",
+      "mapx": "1269774247",
+      "mapy": "375627917"
+    },
+    {
+      "title": "광화문면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
+      "mapx": "1269747363",
+      "mapy": "375698520"
+    },
+    {
+      "title": "진진만두 시청점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
+    },
+    {
+      "title": "타와",
+      "link": "https://www.instagram.com/muwa__official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
+      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    }
+  ]
+}

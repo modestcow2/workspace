@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "떡산 안국",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
+      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
+      "mapx": "1269857282",
+      "mapy": "375780061"
+    },
+    {
+      "title": "스낵서울",
+      "link": "https://www.instagram.com/snackseoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6 2층",
+      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
+      "mapx": "1269816137",
+      "mapy": "375837662"
+    },
+    {
+      "title": "먹쉬돈나 <b>삼청동</b>점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 63-28 2층",
+      "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
+      "mapx": "1269819874",
+      "mapy": "375834586"
+    },
+    {
+      "title": "온6.5",
+      "link": "https://app.catchtable.co.kr/ct/shop/on65",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 75-5 지상1층 온6.5",
+      "roadAddress": "서울특별시 종로구 북촌로1길 28 지상1층 온6.5",
+      "mapx": "1269842814",
+      "mapy": "375773758"
+    },
+    {
+      "title": "인사동쭈꾸미",
+      "link": "http://instagram.com/insadong_chungsik",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
+      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
+      "mapx": "1269858898",
+      "mapy": "375791440"
+    }
+  ]
+}

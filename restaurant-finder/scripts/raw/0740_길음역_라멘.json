@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "주대국초밥집 길음점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1284 상가비동 지1층 8,9,10호",
+      "roadAddress": "서울특별시 성북구 길음로 33 상가비동 지1층 8,9,10호",
+      "mapx": "1270217278",
+      "mapy": "376059572"
+    },
+    {
+      "title": "신이치 현대백화점 미아점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점 미아점 지하1층 신이치",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점 미아점 지하1층 신이치",
+      "mapx": "1270290189",
+      "mapy": "376082494"
+    },
+    {
+      "title": "멘지 성신여대점",
+      "link": "https://www.instagram.com/menji_sungshin/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 85-86 2층",
+      "roadAddress": "서울특별시 성북구 동소문로22길 23 2층",
+      "mapx": "1270179741",
+      "mapy": "375920406"
+    },
+    {
+      "title": "하루엔소쿠 미아점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강북구 미아동 1318 1층 4호",
+      "roadAddress": "서울특별시 강북구 월계로 53 1층 4호",
+      "mapx": "1270353700",
+      "mapy": "376119220"
+    },
+    {
+      "title": "하나스",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강북구 미아동 860-189 지하1층",
+      "roadAddress": "서울특별시 강북구 도봉로8길 15 지하1층",
+      "mapx": "1270311057",
+      "mapy": "376127472"
+    }
+  ]
+}

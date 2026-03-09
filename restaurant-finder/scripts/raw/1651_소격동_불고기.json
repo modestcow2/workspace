@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "편안한집",
+      "link": "https://ahome.imweb.me/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-3",
+      "roadAddress": "서울특별시 종로구 북촌로 133",
+      "mapx": "1269833492",
+      "mapy": "375873030"
+    },
+    {
+      "title": "청수정",
+      "link": "http://www.instagram.com/cheongsoojung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6",
+      "roadAddress": "서울특별시 종로구 삼청로 91",
+      "mapx": "1269816875",
+      "mapy": "375835571"
+    },
+    {
+      "title": "꿀밥상",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 98-1 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
+      "mapx": "1269818749",
+      "mapy": "375844611"
+    },
+    {
+      "title": "청국장밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 36 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 29-5 1층",
+      "mapx": "1269816301",
+      "mapy": "375804973"
+    },
+    {
+      "title": "눈나무집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 20-8",
+      "roadAddress": "서울특별시 종로구 삼청로 136-1",
+      "mapx": "1269818766",
+      "mapy": "375874830"
+    }
+  ]
+}

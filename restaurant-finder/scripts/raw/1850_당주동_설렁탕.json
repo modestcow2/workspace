@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "풍년옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 17-1",
+      "roadAddress": "서울특별시 종로구 새문안로7길 26",
+      "mapx": "1269750867",
+      "mapy": "375714199"
+    },
+    {
+      "title": "육대장 광화문점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 37-6 1층 육대장",
+      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 1층 육대장",
+      "mapx": "1269750109",
+      "mapy": "375710027"
+    },
+    {
+      "title": "이도곰탕 광화문 직영점",
+      "link": "https://www.instagram.com/ido_gomtang_gh",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 168 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-27 2층",
+      "mapx": "1269746105",
+      "mapy": "375710464"
+    },
+    {
+      "title": "이문<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 88",
+      "roadAddress": "서울특별시 종로구 우정국로 38-13",
+      "mapx": "1269839047",
+      "mapy": "375727663"
+    },
+    {
+      "title": "미성옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 54-6",
+      "roadAddress": "서울특별시 중구 명동길 25-11",
+      "mapx": "1269839596",
+      "mapy": "375641835"
+    }
+  ]
+}

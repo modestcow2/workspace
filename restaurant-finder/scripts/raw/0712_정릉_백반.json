@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "성원식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 107-25",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 15 ,",
+      "mapx": "1270125523",
+      "mapy": "376024980"
+    },
+    {
+      "title": "먹쇠식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 894-11 1층 먹쇠식당",
+      "roadAddress": "서울특별시 성북구 정릉로10길 27 1층 먹쇠식당",
+      "mapx": "1270002548",
+      "mapy": "376075131"
+    },
+    {
+      "title": "순희네",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 150-7",
+      "roadAddress": "서울특별시 성북구 정릉로 252-5",
+      "mapx": "1270116466",
+      "mapy": "376041244"
+    },
+    {
+      "title": "원조감자탕 일미집 <b>정릉</b>점",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 398-9 1층",
+      "roadAddress": "서울특별시 성북구 보국문로11길 18-6 1층",
+      "mapx": "1270090341",
+      "mapy": "376089785"
+    },
+    {
+      "title": "항아리",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 348-4 항아리",
+      "roadAddress": "서울특별시 성북구 솔샘로18길 92 항아리",
+      "mapx": "1270085894",
+      "mapy": "376089720"
+    }
+  ]
+}

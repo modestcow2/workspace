@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "버거파크 혜화점",
+      "link": "https://www.instagram.com/burgerpark.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 101-2 1층 버거파크",
+      "roadAddress": "서울특별시 종로구 대학로11길 5 1층 버거파크",
+      "mapx": "1270013798",
+      "mapy": "375821694"
+    },
+    {
+      "title": "벅벅 종로혜화점",
+      "link": "https://instagram.com/burg_burg_?igshid=t81zuyryusc3",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜1가 10-22 1층 벅벅 종로혜화점",
+      "roadAddress": "서울특별시 종로구 명륜길 22 1층 벅벅 종로혜화점",
+      "mapx": "1269957318",
+      "mapy": "375883658"
+    },
+    {
+      "title": "스모크 트레인 혜화본점",
+      "link": "https://www.instagram.com/smoketrain.b.b.q",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 21-9 1층 스모크트레인",
+      "roadAddress": "서울특별시 종로구 창경궁로34길 18-5 1층 스모크트레인",
+      "mapx": "1270006536",
+      "mapy": "375840978"
+    },
+    {
+      "title": "유얼버거",
+      "link": "https://www.instagram.com/your__burger__",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜1가 27-58 유얼버거",
+      "roadAddress": "서울특별시 종로구 성균관로 74 유얼버거",
+      "mapx": "1269973648",
+      "mapy": "375891389"
+    },
+    {
+      "title": "버거킹 혜화역점",
+      "link": "",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 179-4",
+      "roadAddress": "서울특별시 종로구 동숭길 148",
+      "mapx": "1270021990",
+      "mapy": "375834783"
+    }
+  ]
+}

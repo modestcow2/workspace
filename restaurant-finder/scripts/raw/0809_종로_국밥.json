@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "엄용백 돼지<b>국밥</b>",
+      "link": "https://www.instagram.com/umyongbaek_kr/",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 194-28",
+      "roadAddress": "서울특별시 종로구 인사동3길 20",
+      "mapx": "1269858222",
+      "mapy": "375718777"
+    },
+    {
+      "title": "광화문<b>국밥</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    },
+    {
+      "title": "북촌무궁화",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 137",
+      "roadAddress": "서울특별시 종로구 수표로 126",
+      "mapx": "1269889329",
+      "mapy": "375723618"
+    },
+    {
+      "title": "합천돼지<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 290-1",
+      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
+      "mapx": "1269879701",
+      "mapy": "375720097"
+    },
+    {
+      "title": "돈맛꿀",
+      "link": "https://youtube.com/@pig_honey",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 179 지상 1층",
+      "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
+      "mapx": "1269895649",
+      "mapy": "375710740"
+    }
+  ]
+}

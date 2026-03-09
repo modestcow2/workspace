@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "가장맛있는족발 경복궁역점",
+      "link": "http://www.가장맛있는족발.com/",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 30 2층",
+      "roadAddress": "서울특별시 종로구 사직로 103-4 2층",
+      "mapx": "1269706204",
+      "mapy": "375764124"
+    },
+    {
+      "title": "풍미가",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 159 풍미가",
+      "roadAddress": "서울특별시 종로구 사직로10길 9-8 풍미가",
+      "mapx": "1269707214",
+      "mapy": "375755001"
+    },
+    {
+      "title": "반가",
+      "link": "https://blog.naver.com/yth880",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 150-1 150-1",
+      "roadAddress": "서울특별시 종로구 사직로10길 9-3 내자동 150-1",
+      "mapx": "1269707509",
+      "mapy": "375754814"
+    }
+  ]
+}

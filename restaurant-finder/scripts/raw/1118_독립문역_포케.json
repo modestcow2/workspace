@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "슬로우캘리 서대문점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 251 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 139 1층",
+      "mapx": "1269653922",
+      "mapy": "375668014"
+    },
+    {
+      "title": "샐러리아 서대문역점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 78",
+      "roadAddress": "서울특별시 서대문구 충정로 71-5",
+      "mapx": "1269654392",
+      "mapy": "375651933"
+    },
+    {
+      "title": "프홍사",
+      "link": "https://blog.naver.com/fhongsa2022",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 157-73 1층 102호",
+      "roadAddress": "서울특별시 서대문구 모래내로 461 1층 102호",
+      "mapx": "1269458761",
+      "mapy": "375857722"
+    },
+    {
+      "title": "슬로우캘리 덕수궁롯데캐슬점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 101동 B104호(로비층)",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 101동 B104호(로비층)",
+      "mapx": "1269698998",
+      "mapy": "375636535"
+    },
+    {
+      "title": "샐러데이즈 순화동점",
+      "link": "http://www.saladdays.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 215 1층 102호",
+      "roadAddress": "서울특별시 중구 통일로 86 1층 102호",
+      "mapx": "1269697215",
+      "mapy": "375630569"
+    }
+  ]
+}

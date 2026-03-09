@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "여의도<b>삼계탕</b> 파이낸스센터점",
+      "link": "https://blog.naver.com/dreamingmoom",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 파이낸스센터 sfc몰 지하1층 103호 여의도 삼계탕",
+      "roadAddress": "서울특별시 중구 세종대로 136 파이낸스센터 sfc몰 지하1층 103호 여의도 삼계탕",
+      "mapx": "1269788924",
+      "mapy": "375682885"
+    },
+    {
+      "title": "경복궁<b>삼계탕</b> 구월길병원점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 남동구 구월동 1140-9",
+      "roadAddress": "인천광역시 남동구 구월남로 161",
+      "mapx": "1267073777",
+      "mapy": "374532537"
+    },
+    {
+      "title": "예담들깨<b>삼계탕</b> 남양화성<b>시청</b>점",
+      "link": "https://www.instagram.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 화성시 만세구 남양읍 남양리 2270-8 광명타운 1동 1층",
+      "roadAddress": "경기도 화성시 만세구 남양읍 역골로 76 광명타운 1동 1층",
+      "mapx": "1268239344",
+      "mapy": "372057628"
+    },
+    {
+      "title": "소담<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 시흥시 장곡동 658-2",
+      "roadAddress": "경기도 시흥시 동서로 250-35",
+      "mapx": "1267786448",
+      "mapy": "373816988"
+    },
+    {
+      "title": "천복집흑염소 포천<b>시청</b>점",
+      "link": "https://www.instagram.com/1000bokzip_official_/?hl=ko",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 포천시 군내면 구읍리 606-3 1층",
+      "roadAddress": "경기도 포천시 군내면 청군로 3371-1 1층",
+      "mapx": "1272081263",
+      "mapy": "378901407"
+    }
+  ]
+}

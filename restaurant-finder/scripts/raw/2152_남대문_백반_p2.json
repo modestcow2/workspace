@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영도국밥집",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 48-11",
+      "roadAddress": "서울특별시 중구 남대문시장4길 39",
+      "mapx": "1269773255",
+      "mapy": "375584453"
+    },
+    {
+      "title": "우정식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-82",
+      "roadAddress": "서울특별시 중구 남대문시장길 12-9",
+      "mapx": "1269767687",
+      "mapy": "375598118"
+    },
+    {
+      "title": "우성식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 94-36",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-40",
+      "mapx": "1269784743",
+      "mapy": "375623352"
+    },
+    {
+      "title": "김명숙아지매순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-46",
+      "roadAddress": "서울특별시 중구 퇴계로 62-2",
+      "mapx": "1269791892",
+      "mapy": "375590113"
+    },
+    {
+      "title": "밥드림",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151",
+      "roadAddress": "서울특별시 중구 칠패로 27",
+      "mapx": "1269723311",
+      "mapy": "375599446"
+    }
+  ]
+}

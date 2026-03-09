@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "슬로우캘리 숭례문점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 1-1 창화빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로 23 창화빌딩 1층",
+      "mapx": "1269739788",
+      "mapy": "375591484"
+    },
+    {
+      "title": "프레퍼스 다이어트 푸드 광화문점",
+      "link": "https://www.instagram.com/preppers_gwanghwamun/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 B2층 210호",
+      "roadAddress": "서울특별시 중구 세종대로 136 B2층 210호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "그린스튜디오",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 150 부영 태평빌딩 지하2층 1호",
+      "roadAddress": "서울특별시 중구 세종대로 55 부영 태평빌딩 지하2층 1호",
+      "mapx": "1269749466",
+      "mapy": "375616355"
+    }
+  ]
+}

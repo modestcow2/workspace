@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신승관",
+      "link": "https://m.blog.naver.com/wmedia77/223171955325",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 217호",
+      "roadAddress": "서울특별시 종로구 종로 19 217호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "청화 우육도삭면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
+      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "마라공방 종각2호점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 1층",
+      "mapx": "1269798224",
+      "mapy": "375708585"
+    },
+    {
+      "title": "오한수우육면가 르메이에르점",
+      "link": "",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
+      "mapx": "1269797063",
+      "mapy": "375709148"
+    },
+    {
+      "title": "중국관",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1",
+      "mapx": "1269795664",
+      "mapy": "375705836"
+    }
+  ]
+}

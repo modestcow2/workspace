@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "강창구찹쌀진순대 <b>종로</b>점",
+      "link": "https://www.instagram.com/jinsundae_jongno",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 113-2호, 114-1호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 113-2호, 114-1호",
+      "mapx": "1269796299",
+      "mapy": "375706974"
+    },
+    {
+      "title": "신의주찹쌀순대 <b>종로</b>구청점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 2층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 2층",
+      "mapx": "1269798688",
+      "mapy": "375706349"
+    },
+    {
+      "title": "전주콩나물국밥",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하 1층",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
+      "title": "이복희해장 <b>종로</b>직영점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 7-14 1층, 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 385 1층, 2층",
+      "mapx": "1269873599",
+      "mapy": "375689415"
+    }
+  ]
+}

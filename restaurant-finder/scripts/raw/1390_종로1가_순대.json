@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꿈떡꿈떡 <b>종로</b>본점",
+      "link": "http://www.꿈떡꿈떡.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 꿈떡꿈떡",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 꿈떡꿈떡",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "강창구찹쌀진<b>순대</b> <b>종로</b>점",
+      "link": "https://www.instagram.com/jinsundae_jongno",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 113-2호, 114-1호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 113-2호, 114-1호",
+      "mapx": "1269796299",
+      "mapy": "375706974"
+    },
+    {
+      "title": "신의주찹쌀<b>순대</b> <b>종로</b>구청점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 2층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 2층",
+      "mapx": "1269798688",
+      "mapy": "375706349"
+    },
+    {
+      "title": "농민백암<b>순대</b> 시청직영점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 19-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 33",
+      "mapx": "1269772550",
+      "mapy": "375626099"
+    },
+    {
+      "title": "화목<b>순대</b>국전문 광화문1호점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 40",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11",
+      "mapx": "1269747764",
+      "mapy": "375712514"
+    }
+  ]
+}

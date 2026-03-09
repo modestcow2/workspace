@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "운종가",
+      "link": "https://app.catchtable.co.kr/ct/shop/Unjongga?from=share&type=DINING",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-34 2층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 2층",
+      "mapx": "1269825303",
+      "mapy": "375729523"
+    },
+    {
+      "title": "바루 인사동점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 71 5F",
+      "roadAddress": "서울특별시 종로구 우정국로 56 5F",
+      "mapx": "1269832061",
+      "mapy": "375739122"
+    },
+    {
+      "title": "일품진진수라 광화문점",
+      "link": "http://www.jinjinsura.com",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
+      "mapx": "1269805216",
+      "mapy": "375706504"
+    },
+    {
+      "title": "모담다이닝 광화문점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "어부몽 인사점",
+      "link": "https://www.instagram.com/abumong.2024",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    }
+  ]
+}

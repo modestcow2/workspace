@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우마담",
+      "link": "https://app.catchtable.co.kr/ct/shop/woomadam?from=share",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 396-46 2층 우마담",
+      "roadAddress": "서울특별시 마포구 독막로3길 30 2층 우마담",
+      "mapx": "1269173303",
+      "mapy": "375496055"
+    },
+    {
+      "title": "우수",
+      "link": "https://app.catchtable.co.kr/ct/shop/woosoo_?from=share&type=DINING",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 467 롯데캐슬프레지던트 상가 지하2층 201호",
+      "roadAddress": "서울특별시 마포구 마포대로 109 롯데캐슬프레지던트 상가 지하2층 201호",
+      "mapx": "1269512549",
+      "mapy": "375450054"
+    },
+    {
+      "title": "봉선화빛",
+      "link": "https://app.catchtable.co.kr/ct/shop/bongsunhwabit",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 359-27 1층",
+      "roadAddress": "서울특별시 마포구 성지3길 60 1층",
+      "mapx": "1269161502",
+      "mapy": "375461332"
+    },
+    {
+      "title": "<b>오마카세</b> 스시미야비",
+      "link": "https://catchtable.co.kr/sushimiyavi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 393-15",
+      "roadAddress": "서울특별시 마포구 포은로2가길 62",
+      "mapx": "1269099401",
+      "mapy": "375495536"
+    },
+    {
+      "title": "함반",
+      "link": "https://app.catchtable.co.kr/ct/shop/hamban393",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 393-11 1층 함반",
+      "roadAddress": "서울특별시 마포구 월드컵로1길 54 1층 함반",
+      "mapx": "1269100845",
+      "mapy": "375490227"
+    }
+  ]
+}

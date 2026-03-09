@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오이지 대학로",
+      "link": "http://app.catchtable.co.kr/ct/shop/oiji_hyewa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 142",
+      "roadAddress": "서울특별시 종로구 대학로9길 33",
+      "mapx": "1270001999",
+      "mapy": "375818701"
+    },
+    {
+      "title": "밥짓고티우림",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 45-1 2층",
+      "roadAddress": "서울특별시 성북구 성북로2길 15 2층",
+      "mapx": "1270066792",
+      "mapy": "375893178"
+    },
+    {
+      "title": "국화정원",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 264",
+      "roadAddress": "서울특별시 성북구 성북로 154",
+      "mapx": "1269926942",
+      "mapy": "375945902"
+    },
+    {
+      "title": "평해옥",
+      "link": "https://www.instagram.com/pyeonghaeok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 80-2",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 17",
+      "mapx": "1269889570",
+      "mapy": "375734036"
+    },
+    {
+      "title": "미성",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 98-62 미성",
+      "roadAddress": "서울특별시 종로구 율곡로6길 22-1 미성",
+      "mapx": "1269891408",
+      "mapy": "375764085"
+    }
+  ]
+}

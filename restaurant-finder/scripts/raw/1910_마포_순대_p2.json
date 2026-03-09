@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>순대</b>일번지 망원본점",
+      "link": "https://www.순대일번지.com",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 481-5",
+      "roadAddress": "서울특별시 마포구 월드컵로 117",
+      "mapx": "1269074875",
+      "mapy": "375586417"
+    },
+    {
+      "title": "홍대조폭떡볶이 홍대2호점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 164-17 1층",
+      "roadAddress": "서울특별시 마포구 홍익로6길 38 1층",
+      "mapx": "1269237556",
+      "mapy": "375558918"
+    },
+    {
+      "title": "<b>마포</b>원조떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 345-4",
+      "roadAddress": "서울특별시 마포구 도화2길 3",
+      "mapx": "1269487607",
+      "mapy": "375403569"
+    },
+    {
+      "title": "홍대조폭떡볶이 본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 328-18 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 26 1층",
+      "mapx": "1269284793",
+      "mapy": "375552696"
+    },
+    {
+      "title": "홍대삭 상수본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 상수동 315-8",
+      "roadAddress": "서울특별시 마포구 독막로 71",
+      "mapx": "1269213053",
+      "mapy": "375479423"
+    }
+  ]
+}

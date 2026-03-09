@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "육미안 연남점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yookmian_yeonnam",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 228-58 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 5 2층",
+      "mapx": "1269246428",
+      "mapy": "375618595"
+    },
+    {
+      "title": "화설 연남본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwaseol_official",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 228-4 1층",
+      "roadAddress": "서울특별시 마포구 성미산로 188 1층",
+      "mapx": "1269261270",
+      "mapy": "375630149"
+    },
+    {
+      "title": "풍년숯불<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 228-21",
+      "roadAddress": "서울특별시 마포구 동교로 264",
+      "mapx": "1269253296",
+      "mapy": "375630736"
+    },
+    {
+      "title": "히츠지야 연남점",
+      "link": "https://hitsujiya.kr",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 229-55 1층 히츠지야 연남점",
+      "roadAddress": "서울특별시 마포구 동교로 257-1 1층 히츠지야 연남점",
+      "mapx": "1269247571",
+      "mapy": "375629167"
+    },
+    {
+      "title": "팔계집",
+      "link": "https://blog.naver.com/hello7stranger",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-34 1층",
+      "roadAddress": "서울특별시 마포구 성미산로 194-4 1층",
+      "mapx": "1269262666",
+      "mapy": "375626376"
+    }
+  ]
+}

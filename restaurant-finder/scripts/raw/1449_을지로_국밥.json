@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "산수갑산",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 15-4",
+      "roadAddress": "서울특별시 중구 을지로20길 24",
+      "mapx": "1269953138",
+      "mapy": "375653833"
+    },
+    {
+      "title": "청와옥 <b>을지로</b>3가직영점",
+      "link": "https://www.instagram.com/cheongwaok/",
+      "category": "음식점>한식>육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 346-1 1층 1호",
+      "roadAddress": "서울특별시 중구 을지로 110 1층 1호",
+      "mapx": "1269900656",
+      "mapy": "375660827"
+    },
+    {
+      "title": "온점 <b>을지로</b>점",
+      "link": "https://www.instagram.com/onjeom.seoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 87 지1층",
+      "roadAddress": "서울특별시 중구 을지로 29 지1층",
+      "mapx": "1269810422",
+      "mapy": "375664910"
+    },
+    {
+      "title": "우래옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 118-1",
+      "roadAddress": "서울특별시 중구 창경궁로 62-29",
+      "mapx": "1269987029",
+      "mapy": "375682697"
+    },
+    {
+      "title": "대화정 진짜해장국",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-85 1층",
+      "roadAddress": "서울특별시 중구 장충단로 249-20 1층",
+      "mapx": "1270077551",
+      "mapy": "375675754"
+    }
+  ]
+}

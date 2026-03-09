@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "산천마루",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 48-149",
+      "roadAddress": "서울특별시 서대문구 세검정로1길 21",
+      "mapx": "1269428649",
+      "mapy": "375925590"
+    },
+    {
+      "title": "미담한상",
+      "link": "https://www.instagram.com/midamhansang/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 469 인왕산한신휴플러스 2층 미담한상 B301호",
+      "roadAddress": "서울특별시 서대문구 통일로 397 인왕산한신휴플러스 2층 미담한상 B301호",
+      "mapx": "1269472793",
+      "mapy": "375855819"
+    },
+    {
+      "title": "처음본명품민물장어 홍제점",
+      "link": "https://www.youtube.com/@first_myeongpumjangeo",
+      "category": "한식>장어,먹장어요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 139-22 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 412 1층",
+      "mapx": "1269472202",
+      "mapy": "375862943"
+    },
+    {
+      "title": "강고집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 137-1 강고집",
+      "roadAddress": "서울특별시 서대문구 통일로36길 14 강고집",
+      "mapx": "1269467358",
+      "mapy": "375874994"
+    },
+    {
+      "title": "꽃돼지식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-71 1층꽃돼지식당",
+      "roadAddress": "서울특별시 서대문구 통일로39길 6 1층꽃돼지식당",
+      "mapx": "1269439245",
+      "mapy": "375884848"
+    }
+  ]
+}

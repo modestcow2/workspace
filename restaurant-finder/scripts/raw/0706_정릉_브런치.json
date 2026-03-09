@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포틀리에",
+      "link": "https://naver.me/GCghFOrO",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 670-5 B1,1,2층",
+      "roadAddress": "서울특별시 성북구 솔샘로 15 B1,1,2층",
+      "mapx": "1270047769",
+      "mapy": "376089585"
+    },
+    {
+      "title": "포도집",
+      "link": "http://www.instagram.com/podojib_",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 132-2 1층",
+      "roadAddress": "서울특별시 성북구 정릉로32길 4 1층",
+      "mapx": "1270165782",
+      "mapy": "376027961"
+    },
+    {
+      "title": "언덕카페",
+      "link": "",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 642 상가1층카페",
+      "roadAddress": "서울특별시 성북구 아리랑로5길 92 상가1층카페",
+      "mapx": "1270117298",
+      "mapy": "375973671"
+    },
+    {
+      "title": "<b>브런치</b>펍2",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 383-2 1층",
+      "roadAddress": "서울특별시 성북구 보국문로11길 21-20 1층",
+      "mapx": "1270090201",
+      "mapy": "376077895"
+    },
+    {
+      "title": "홀리데이 카페",
+      "link": "https://smartstore.naver.com/holyday_cafe",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 16-89 1층 홀리데이",
+      "roadAddress": "서울특별시 성북구 정릉로40길 40 1층 홀리데이",
+      "mapx": "1270189831",
+      "mapy": "376006034"
+    }
+  ]
+}

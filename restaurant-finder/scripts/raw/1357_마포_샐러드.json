@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "어반플랜트 합정",
+      "link": "http://www.instagram.com/urbanplant_official/",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 360-3 어반플랜트 합정",
+      "roadAddress": "서울특별시 마포구 독막로6길 35 어반플랜트 합정",
+      "mapx": "1269170914",
+      "mapy": "375464712"
+    },
+    {
+      "title": "아이엠베이글 공덕점",
+      "link": "https://smartstore.naver.com/iambagel",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 476 101동 1층",
+      "roadAddress": "서울특별시 마포구 백범로 152 101동 1층",
+      "mapx": "1269482171",
+      "mapy": "375446928"
+    },
+    {
+      "title": "저스트단비 크레페 홍대점",
+      "link": "https://blog.naver.com/lov8104",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 366-8 1층",
+      "roadAddress": "서울특별시 마포구 잔다리로6길 30 1층",
+      "mapx": "1269208747",
+      "mapy": "375522543"
+    },
+    {
+      "title": "아민 연남",
+      "link": "https://app.catchtable.co.kr/ct/shop/we.salad.you",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 224-5",
+      "roadAddress": "서울특별시 마포구 동교로52길 10-7",
+      "mapx": "1269268894",
+      "mapy": "375637057"
+    },
+    {
+      "title": "카페드로잉",
+      "link": "https://www.instagram.com/cafe.drawing.official?igsh=bzJ0a25nenRqM3Nr&utm_source=qr",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 403-5 1층",
+      "roadAddress": "서울특별시 마포구 독막로9길 34 1층",
+      "mapx": "1269205227",
+      "mapy": "375497271"
+    }
+  ]
+}

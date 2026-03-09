@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "빌라 더 다이닝 <b>홍대</b>본점",
+      "link": "http://app.catchtable.co.kr/ct/shop/villathedining",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 150-9 JnS.Bldg",
+      "roadAddress": "서울특별시 마포구 동교로30길 16 JnS.Bldg",
+      "mapx": "1269249144",
+      "mapy": "375601583"
+    },
+    {
+      "title": "테이커테이블 연남점",
+      "link": "https://app.catchtable.co.kr/ct/shop/takea.table",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 150-2 1층",
+      "roadAddress": "서울특별시 마포구 동교로30길 6 1층",
+      "mapx": "1269246201",
+      "mapy": "375605408"
+    },
+    {
+      "title": "<b>홍대</b>IN파스타",
+      "link": "https://www.instagram.com/hongdae_in_pasta",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 355-5 준빌라",
+      "roadAddress": "서울특별시 마포구 홍익로5안길 32 준빌라",
+      "mapx": "1269211407",
+      "mapy": "375534442"
+    },
+    {
+      "title": "랑트 연남",
+      "link": "https://app.catchtable.co.kr/ct/shop/till_after",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 154-29 1.5층",
+      "roadAddress": "서울특별시 마포구 양화로19길 22-30 1.5층",
+      "mapx": "1269247157",
+      "mapy": "375590003"
+    },
+    {
+      "title": "헤이죠지",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-96 1층 헤이죠지",
+      "roadAddress": "서울특별시 마포구 동교로46길 42-24 1층 헤이죠지",
+      "mapx": "1269265566",
+      "mapy": "375616970"
+    }
+  ]
+}

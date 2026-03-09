@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "전주콩나물해장국",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-3",
+      "roadAddress": "서울특별시 종로구 자하문로 3",
+      "mapx": "1269722639",
+      "mapy": "375765039"
+    },
+    {
+      "title": "백암박가네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
+      "mapx": "1269710531",
+      "mapy": "375791821"
+    },
+    {
+      "title": "나주소나주곰탕 <b>경복궁</b>점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 98",
+      "roadAddress": "서울특별시 종로구 자하문로2길 8",
+      "mapx": "1269730853",
+      "mapy": "375764713"
+    },
+    {
+      "title": "통영굴밥 <b>경복궁</b>점",
+      "link": "",
+      "category": "한식>굴요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
+      "mapx": "1269733152",
+      "mapy": "375753857"
+    },
+    {
+      "title": "청담원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 33호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해로커피",
+      "link": "https://smartstore.naver.com/haerocoffee",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 66 1층 한옥",
+      "roadAddress": "서울특별시 성북구 성북로 19-3 1층 한옥",
+      "mapx": "1270042807",
+      "mapy": "375896387"
+    },
+    {
+      "title": "한원",
+      "link": "http://01041754007.tshome.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 39 102호",
+      "roadAddress": "서울특별시 성북구 성북로5길 12 102호",
+      "mapx": "1270043562",
+      "mapy": "375890554"
+    },
+    {
+      "title": "AMPM 카페 바 라운지 한성대입구역점",
+      "link": "https://www.instagram.com/ampm_kor/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 140-66",
+      "roadAddress": "서울특별시 성북구 성북로4길 17",
+      "mapx": "1270062067",
+      "mapy": "375897499"
+    },
+    {
+      "title": "밀곳간",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 63-1 1층",
+      "roadAddress": "서울특별시 성북구 성북로18길 19 1층",
+      "mapx": "1269993464",
+      "mapy": "375941193"
+    },
+    {
+      "title": "문화식당",
+      "link": "https://m.booking.naver.com/booking/6/bizes/398158/items/3555119?area=plt",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 122-7 2층, 3층",
+      "roadAddress": "서울특별시 성북구 혜화로 88 2층, 3층",
+      "mapx": "1269982112",
+      "mapy": "375927768"
+    }
+  ]
+}

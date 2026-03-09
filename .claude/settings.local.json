@@ -4,7 +4,13 @@
       "Bash(dir C:\\\\Users\\\\wilie\\\\workspace:*)",
       "WebSearch",
       "Bash(ls:*)",
-      "Bash(claude mcp:*)"
+      "Bash(claude mcp:*)",
+      "Bash(node:*)",
+      "Bash(grep:*)",
+      "WebFetch(domain:map.naver.com)",
+      "WebFetch(domain:pages.map.naver.com)",
+      "Bash(curl:*)",
+      "Bash(NAVER_CLIENT_ID=A_UO9kse0psI9uZytaFK NAVER_CLIENT_SECRET=zk372zalo8 node:*)"
     ]
   }
 }

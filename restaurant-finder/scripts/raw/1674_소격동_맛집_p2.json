@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "봉이밥 삼청동점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
+      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
+      "mapx": "1269822067",
+      "mapy": "375842989"
+    },
+    {
+      "title": "포스톤즈 삼청점",
+      "link": "https://smartstore.naver.com/fourstones/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 105-10 수제비 옆 골목",
+      "roadAddress": "서울특별시 종로구 삼청로 103-4 삼청동 수제비 옆 골목",
+      "mapx": "1269816589",
+      "mapy": "375847732"
+    },
+    {
+      "title": "삼청동수제비",
+      "link": "http://www.삼청동수제비.kr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 99",
+      "roadAddress": "서울특별시 종로구 삼청로 101-1",
+      "mapx": "1269819599",
+      "mapy": "375845273"
+    },
+    {
+      "title": "스낵서울",
+      "link": "https://www.instagram.com/snackseoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6 2층",
+      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
+      "mapx": "1269816137",
+      "mapy": "375837662"
+    },
+    {
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    }
+  ]
+}

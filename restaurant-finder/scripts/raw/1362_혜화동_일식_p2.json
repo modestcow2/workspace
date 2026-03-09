@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쿄코코 대학로점",
+      "link": "https://blog.naver.com/kyokoko11",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 70-3 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 38-23 1층",
+      "mapx": "1270004455",
+      "mapy": "375825887"
+    },
+    {
+      "title": "메종 아카이 혜화본점",
+      "link": "https://www.instagram.com/maison.akai/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 181 2층",
+      "roadAddress": "서울특별시 종로구 대명길 34 2층",
+      "mapx": "1269996390",
+      "mapy": "375832180"
+    },
+    {
+      "title": "죠죠 대학로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jojo_daehakro",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 65-2 1층",
+      "roadAddress": "서울특별시 종로구 대명1길 16-11 1층",
+      "mapx": "1270001562",
+      "mapy": "375828674"
+    },
+    {
+      "title": "하나마토 대학로혜화",
+      "link": "https://hanamato.co.kr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 139-1 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로34길 10 1층",
+      "mapx": "1270009163",
+      "mapy": "375846201"
+    },
+    {
+      "title": "무제스시",
+      "link": "https://www.instagram.com/mujaesushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 118-5 1층",
+      "roadAddress": "서울특별시 종로구 대학로9길 22-5 1층",
+      "mapx": "1270006329",
+      "mapy": "375818784"
+    }
+  ]
+}

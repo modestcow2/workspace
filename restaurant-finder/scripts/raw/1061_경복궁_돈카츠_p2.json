@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옐로우쿡",
+      "link": "http://www.yellowcook.com",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 104 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 32 1층",
+      "mapx": "1269717441",
+      "mapy": "375789833"
+    },
+    {
+      "title": "김밥천국",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-3 1층 김밥천국",
+      "roadAddress": "서울특별시 종로구 자하문로 3 1층 김밥천국",
+      "mapx": "1269723453",
+      "mapy": "375764321"
+    },
+    {
+      "title": "준카츠",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 70호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 70호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "아이자와",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
+      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    }
+  ]
+}

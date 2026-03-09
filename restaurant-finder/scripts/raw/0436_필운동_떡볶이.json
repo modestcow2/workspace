@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "서촌 곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 146-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
+      "mapx": "1269693165",
+      "mapy": "375766924"
+    },
+    {
+      "title": "태성골뱅이신사 서촌점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 197-1 필운프라자 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 43 필운프라자 1층",
+      "mapx": "1269699726",
+      "mapy": "375766548"
+    },
+    {
+      "title": "소박한집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 지하1층 124호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 지하1층 124호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "소문난매운<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
+    }
+  ]
+}

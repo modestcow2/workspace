@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "떡산 안국",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
+      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
+      "mapx": "1269857282",
+      "mapy": "375780061"
+    },
+    {
+      "title": "모퉁이네",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 79-8",
+      "roadAddress": "서울특별시 종로구 계동길 67",
+      "mapx": "1269866828",
+      "mapy": "375803123"
+    },
+    {
+      "title": "깡통만두",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
+    },
+    {
+      "title": "밀양손만두",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 41 1층",
+      "mapx": "1269866713",
+      "mapy": "375791625"
+    },
+    {
+      "title": "배떡 로제떡볶이 종로점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
+      "roadAddress": "서울특별시 종로구 북촌로 35-4",
+      "mapx": "1269847145",
+      "mapy": "375798137"
+    }
+  ]
+}

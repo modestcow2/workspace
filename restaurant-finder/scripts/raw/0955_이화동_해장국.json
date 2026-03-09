@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "순대실록 대학로본점",
+      "link": "https://www.instagram.com/sundaesilrok/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-44 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 113 1층",
+      "mapx": "1270036997",
+      "mapy": "375829946"
+    },
+    {
+      "title": "동숭감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-22 1층",
+      "roadAddress": "서울특별시 종로구 동숭2길 3-8 1층",
+      "mapx": "1270044985",
+      "mapy": "375810574"
+    },
+    {
+      "title": "보승회관 이화사거리점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 187-8",
+      "roadAddress": "서울특별시 종로구 율곡로 212-1",
+      "mapx": "1270024612",
+      "mapy": "375759570"
+    },
+    {
+      "title": "신양평<b>해장국</b> 이화점",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 98-3 신양평해장국 이화점",
+      "roadAddress": "서울특별시 종로구 율곡로 225 신양평해장국 이화점",
+      "mapx": "1270040386",
+      "mapy": "375761964"
+    },
+    {
+      "title": "대화정 진짜<b>해장국</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-85 1층",
+      "roadAddress": "서울특별시 중구 장충단로 249-20 1층",
+      "mapx": "1270077551",
+      "mapy": "375675754"
+    }
+  ]
+}

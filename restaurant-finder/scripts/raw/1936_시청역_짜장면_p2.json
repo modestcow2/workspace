@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무탄 광화문점",
+      "link": "https://naver.me/5uc3NJV7",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "복성각 덕수궁점",
+      "link": "https://www.instagram.com/boksung_meal",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 366-1 오천회관빌딩 2층",
+      "roadAddress": "서울특별시 중구 덕수궁길 7 오천회관빌딩 2층",
+      "mapx": "1269763352",
+      "mapy": "375646727"
+    },
+    {
+      "title": "더퍼스트 서래향 시청점",
+      "link": "https://www.instagram.com/verefood_official",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 94 1층 101호, 102호, 103호, 104호",
+      "roadAddress": "서울특별시 중구 남대문로 27 1층 101호, 102호, 103호, 104호",
+      "mapx": "1269785594",
+      "mapy": "375613479"
+    },
+    {
+      "title": "행화촌",
+      "link": "http://henghwachon.cityfood.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 107-1",
+      "roadAddress": "서울특별시 중구 남대문로 52-5",
+      "mapx": "1269817245",
+      "mapy": "375621053"
+    },
+    {
+      "title": "원흥",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 92",
+      "roadAddress": "서울특별시 중구 다동길 46",
+      "mapx": "1269819007",
+      "mapy": "375678937"
+    }
+  ]
+}

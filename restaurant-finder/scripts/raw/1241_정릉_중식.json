@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "가부 <b>정릉</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 413-6 . 지상 2층",
+      "roadAddress": "서울특별시 성북구 보국문로 20 . 지상 2층",
+      "mapx": "1270111459",
+      "mapy": "376063131"
+    },
+    {
+      "title": "웍스터 <b>정릉</b>역",
+      "link": "https://www.instagram.com/wokster_7.24/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 107-20 1층",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 11 1층",
+      "mapx": "1270127723",
+      "mapy": "376025036"
+    },
+    {
+      "title": "길이식당 국민대점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 373-8",
+      "roadAddress": "서울특별시 성북구 정릉로21길 71",
+      "mapx": "1270078092",
+      "mapy": "376084225"
+    },
+    {
+      "title": "청록원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 674-3 지하1층",
+      "roadAddress": "서울특별시 성북구 솔샘로1길 19 지하1층",
+      "mapx": "1270039784",
+      "mapy": "376084069"
+    },
+    {
+      "title": "황궁",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 374-15 1층 황궁",
+      "roadAddress": "서울특별시 성북구 솔샘로4길 38 1층 황궁",
+      "mapx": "1270069396",
+      "mapy": "376085628"
+    }
+  ]
+}

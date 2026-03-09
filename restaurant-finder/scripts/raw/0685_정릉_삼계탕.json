@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>정릉</b>골오리집",
+      "link": "",
+      "category": "한식>오리요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 697-3",
+      "roadAddress": "서울특별시 성북구 솔샘로 16-7",
+      "mapx": "1270052553",
+      "mapy": "376093892"
+    },
+    {
+      "title": "김영희강남동태찜 <b>정릉</b>점",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 160-4 2층",
+      "roadAddress": "서울특별시 성북구 정릉로 263 2층",
+      "mapx": "1270128920",
+      "mapy": "376040646"
+    },
+    {
+      "title": "<b>정릉</b>설렁탕",
+      "link": "http://02-919-5911.kti114.net",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 413-14 초원빌딩 1층",
+      "roadAddress": "서울특별시 성북구 보국문로 16 초원빌딩 1층",
+      "mapx": "1270113190",
+      "mapy": "376060232"
+    },
+    {
+      "title": "한모둠순대국 <b>정릉</b>점",
+      "link": "",
+      "category": "육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 690-4",
+      "roadAddress": "서울특별시 성북구 솔샘로 16-11",
+      "mapx": "1270053381",
+      "mapy": "376091885"
+    },
+    {
+      "title": "본가장수촌 서울<b>정릉</b>점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 397-19 본가장수촌 누룽지백숙 정릉점",
+      "roadAddress": "서울특별시 성북구 보국문로11가길 4 본가장수촌 누룽지백숙 정릉점",
+      "mapx": "1270093649",
+      "mapy": "376088400"
+    }
+  ]
+}

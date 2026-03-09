@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해화개반",
+      "link": "https://www.instagram.com/haehwagaeban",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-97 스타리움 빌딩 1층",
+      "roadAddress": "서울특별시 종로구 대학로10길 24 동숭동 스타리움 빌딩 1층",
+      "mapx": "1270035248",
+      "mapy": "375815544"
+    },
+    {
+      "title": "교토<b>스시</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/kyoto_sushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-152 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 43 1층",
+      "mapx": "1270043649",
+      "mapy": "375802314"
+    },
+    {
+      "title": "회한접시",
+      "link": "https://www.instagram.com/oneplate_sashimi?igsh=MXdpdW1kdDVyMGl0Nw%3D%3D&utm_source=qr",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-51 1층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 66 1층",
+      "mapx": "1270032974",
+      "mapy": "375829423"
+    },
+    {
+      "title": "오마카세오사이초밥 대학로점",
+      "link": "https://www.instagram.com/542sushi_daehakro",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 50-42 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 76 2층",
+      "mapx": "1270042721",
+      "mapy": "375816581"
+    },
+    {
+      "title": "하리보초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 61-8",
+      "roadAddress": "서울특별시 종로구 이화장1길 3",
+      "mapx": "1270046243",
+      "mapy": "375771804"
+    }
+  ]
+}

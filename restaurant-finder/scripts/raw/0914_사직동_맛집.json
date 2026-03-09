@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고가빈커리하우스 광화문본점",
+      "link": "http://instagram.com/gogabin_curryhouse",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-48 3층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
+      "mapx": "1269709645",
+      "mapy": "375728814"
+    },
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "칸다소바 경복궁점",
+      "link": "https://litt.ly/kandasoba",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 28-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
+      "mapx": "1269712623",
+      "mapy": "375782119"
+    },
+    {
+      "title": "도토리브라더스 광화문본점",
+      "link": "http://www.instagram.com/dotori_brothers",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-248 1층 도토리브라더스",
+      "roadAddress": "서울특별시 종로구 경희궁길 41 1층 도토리브라더스",
+      "mapx": "1269692709",
+      "mapy": "375729254"
+    },
+    {
+      "title": "서촌뜰애우곱창타운",
+      "link": "https://www.instagram.com/sechongopchang?igsh=Mm02YmRhcWNzcnhi",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 189",
+      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
+      "mapx": "1269716341",
+      "mapy": "375765406"
+    }
+  ]
+}

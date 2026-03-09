@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>정릉</b>골오리집",
+      "link": "",
+      "category": "한식>오리요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 697-3",
+      "roadAddress": "서울특별시 성북구 솔샘로 16-7",
+      "mapx": "1270052553",
+      "mapy": "376093892"
+    },
+    {
+      "title": "진흥왕<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 416-10 1층",
+      "roadAddress": "서울특별시 성북구 보국문로 7-6 1층",
+      "mapx": "1270111459",
+      "mapy": "376052835"
+    },
+    {
+      "title": "삼거리<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 482 1층 좌측",
+      "roadAddress": "서울특별시 성북구 정릉로26가길 20 1층 좌측",
+      "mapx": "1270119935",
+      "mapy": "376027996"
+    },
+    {
+      "title": "원할매 <b>족발</b> 마늘보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 490",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 50",
+      "mapx": "1270105955",
+      "mapy": "376024814"
+    },
+    {
+      "title": "바른보쌈1990 <b>정릉</b>점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 111-67 1층",
+      "roadAddress": "서울특별시 성북구 정릉로36길 69-2 1층",
+      "mapx": "1270146414",
+      "mapy": "376022316"
+    }
+  ]
+}

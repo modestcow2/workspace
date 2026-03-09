@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "다시밥",
+      "link": "http://instagram.com/dasibab_",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 307-12 1층 다시 밥",
+      "roadAddress": "서울특별시 서대문구 통일로39길 43 1층 다시 밥",
+      "mapx": "1269425671",
+      "mapy": "375873532"
+    },
+    {
+      "title": "스마일 김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 300-10",
+      "roadAddress": "서울특별시 서대문구 통일로40길 13",
+      "mapx": "1269435790",
+      "mapy": "375903143"
+    },
+    {
+      "title": "이사오김밥",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 245-2 1층 1호",
+      "roadAddress": "서울특별시 서대문구 세무서길 61 1층 1호",
+      "mapx": "1269463783",
+      "mapy": "375907166"
+    },
+    {
+      "title": "오렌지김밥 본점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 246-11 1층 오렌지김밥",
+      "roadAddress": "서울특별시 서대문구 세무서길 43-1 1층 오렌지김밥",
+      "mapx": "1269458807",
+      "mapy": "375899197"
+    },
+    {
+      "title": "오렌지김밥 <b>홍제역</b>점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 173-7 1층 오렌지김밥",
+      "roadAddress": "서울특별시 서대문구 통일로37길 7 1층 오렌지김밥",
+      "mapx": "1269444927",
+      "mapy": "375878207"
+    }
+  ]
+}

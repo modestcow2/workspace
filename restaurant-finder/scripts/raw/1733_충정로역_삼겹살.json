@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "두툼",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 1층",
+      "roadAddress": "서울특별시 중구 중림로 10 1층",
+      "mapx": "1269662595",
+      "mapy": "375583365"
+    },
+    {
+      "title": "원조솥뚜껑삼겹",
+      "link": "https://app.catchtable.co.kr/ct/shop/sot_samgyeop",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 1154 B105 (주차가능/더플레이스 충정로)",
+      "roadAddress": "서울특별시 중구 중림로 21 B105 (주차가능/더플레이스 충정로)",
+      "mapx": "1269658774",
+      "mapy": "375588584"
+    },
+    {
+      "title": "목탄 충정로점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 상가 2동 1층 107-2호",
+      "roadAddress": "서울특별시 중구 중림로 10 상가 2동 1층 107-2호",
+      "mapx": "1269658172",
+      "mapy": "375586251"
+    },
+    {
+      "title": "성요셉길 이층집",
+      "link": "https://www.instagram.com/cheon__young/?igsh=MXc0MWQ4eGxrbHhveQ%3D%3D",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 21-5 1, 2층",
+      "roadAddress": "서울특별시 중구 서소문로6길 48 1, 2층",
+      "mapx": "1269680109",
+      "mapy": "375597087"
+    },
+    {
+      "title": "메가폭탄김치찜 서대문점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 99-11 1층",
+      "roadAddress": "서울특별시 서대문구 충정로9길 12 1층",
+      "mapx": "1269647846",
+      "mapy": "375644768"
+    }
+  ]
+}

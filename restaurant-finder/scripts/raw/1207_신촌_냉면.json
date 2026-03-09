@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "육쌈<b>냉면</b> <b>신촌</b>점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 31-45 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로 19 지하1층",
+      "mapx": "1269367113",
+      "mapy": "375573096"
+    },
+    {
+      "title": "오일내 <b>신촌</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/5dayssinchon",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-55 1층",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 20 1층",
+      "mapx": "1269356284",
+      "mapy": "375574077"
+    },
+    {
+      "title": "공복식당 <b>신촌</b>점",
+      "link": "https://blog.naver.com/gongbok_sinchon?tab=1",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-2 1층",
+      "roadAddress": "서울특별시 서대문구 연세로12길 23 1층",
+      "mapx": "1269383219",
+      "mapy": "375590636"
+    },
+    {
+      "title": "호루몬우직 <b>신촌</b> 본점",
+      "link": "https://blog.naver.com/ji0618su",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-53 1층",
+      "roadAddress": "서울특별시 서대문구 신촌로11길 12 1층",
+      "mapx": "1269330033",
+      "mapy": "375571844"
+    },
+    {
+      "title": "설레임삼겹살 <b>신촌</b>점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-40 낙원빌딩",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 31 낙원빌딩",
+      "mapx": "1269349169",
+      "mapy": "375572216"
+    }
+  ]
+}

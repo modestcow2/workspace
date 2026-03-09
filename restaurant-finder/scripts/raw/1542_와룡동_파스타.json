@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "노우즈 창덕",
+      "link": "https://catchtable.co.kr/knows_changdeok",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 109-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 88-1 1층",
+      "mapx": "1269905898",
+      "mapy": "375763638"
+    },
+    {
+      "title": "풍기 서순라길점",
+      "link": "https://www.instagram.com/poongi_bar",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 55 1층",
+      "roadAddress": "서울특별시 종로구 율곡로8길 57-4 1층",
+      "mapx": "1269913356",
+      "mapy": "375747538"
+    },
+    {
+      "title": "서양면옥 서순라길점",
+      "link": "https://www.instagram.com/seoyangmyunok.seoul",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 46 1층",
+      "roadAddress": "서울특별시 종로구 율곡로8길 45 1층",
+      "mapx": "1269911611",
+      "mapy": "375752912"
+    },
+    {
+      "title": "<b>파스타</b>마켓 혜화 본점",
+      "link": "https://www.instagram.com/Pasta_market",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 103-6 1층 파스타마켓",
+      "roadAddress": "서울특별시 종로구 대학로11길 9-5 1층 파스타마켓",
+      "mapx": "1270012480",
+      "mapy": "375820794"
+    },
+    {
+      "title": "서양집 혜화대학로본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/seoyangzip",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 129 2층",
+      "roadAddress": "서울특별시 종로구 대학로9길 23-2 2층",
+      "mapx": "1270004708",
+      "mapy": "375815013"
+    }
+  ]
+}

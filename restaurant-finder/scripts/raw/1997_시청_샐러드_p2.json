@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그린브로스<b>샐러드</b> <b>시청</b>역점",
+      "link": "https://www.instagram.com/greenbrossalad_cityhall/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 37 B1, 먼슬리키친 17호 그린브로스샐러드",
+      "roadAddress": "서울특별시 중구 서소문로 89-20 B1, 먼슬리키친 17호 그린브로스샐러드",
+      "mapx": "1269720315",
+      "mapy": "375632511"
+    },
+    {
+      "title": "폴인포케 서울<b>시청</b>점",
+      "link": "https://fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
+      "mapx": "1269775175",
+      "mapy": "375623578"
+    },
+    {
+      "title": "샐러디 서울<b>시청</b>점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 14-5 1층",
+      "roadAddress": "서울특별시 중구 세종대로18길 20-1 1층",
+      "mapx": "1269782375",
+      "mapy": "375636921"
+    },
+    {
+      "title": "커스텀<b>샐러드</b> 부천<b>시청</b>점",
+      "link": "https://www.instagram.com/customsalad_b/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1158-8 101호 커스텀샐러드 부천시청점",
+      "roadAddress": "경기도 부천시 원미구 석천로178번길 27 101호 커스텀샐러드 부천시청점",
+      "mapx": "1267644599",
+      "mapy": "375031573"
+    },
+    {
+      "title": "조선보울 서울<b>시청</b>역점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 14-2 2층 201호",
+      "roadAddress": "서울특별시 중구 서소문로 139 2층 201호",
+      "mapx": "1269762443",
+      "mapy": "375641181"
+    }
+  ]
+}

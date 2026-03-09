@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옹시미 경복궁점",
+      "link": "https://blog.naver.com/omgseemegbg",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 사직로 105 1층",
+      "mapx": "1269705376",
+      "mapy": "375762516"
+    },
+    {
+      "title": "체부동잔치집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 190",
+      "roadAddress": "서울특별시 종로구 자하문로1길 16",
+      "mapx": "1269715263",
+      "mapy": "375765394"
+    },
+    {
+      "title": "평안도<b>만두</b>집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 167 지하104호 평안도만두집",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30 지하104호 평안도만두집",
+      "mapx": "1269731737",
+      "mapy": "375725860"
+    },
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "우슴 광화문 직영점",
+      "link": "https://www.instagram.com/wusm.official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
+    }
+  ]
+}

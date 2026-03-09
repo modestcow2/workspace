@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "농민백암<b>순대</b> 시청직영점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 19-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 33",
+      "mapx": "1269772550",
+      "mapy": "375626099"
+    },
+    {
+      "title": "담원<b>순대</b> 시청본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
+    },
+    {
+      "title": "어슬 서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/eoseulcheongdam_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-17 에너지플러스 서울로 13층",
+      "roadAddress": "서울특별시 중구 퇴계로 15 에너지플러스 서울로 13층",
+      "mapx": "1269745560",
+      "mapy": "375570296"
+    },
+    {
+      "title": "영도국밥집",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 48-11",
+      "roadAddress": "서울특별시 중구 남대문시장4길 39",
+      "mapx": "1269773255",
+      "mapy": "375584453"
+    },
+    {
+      "title": "남문아바이왕<b>순대</b>탕 <b>남대문시장</b>점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 48-8 2층",
+      "roadAddress": "서울특별시 중구 남대문시장4길 31-2 2층",
+      "mapx": "1269774068",
+      "mapy": "375586258"
+    }
+  ]
+}

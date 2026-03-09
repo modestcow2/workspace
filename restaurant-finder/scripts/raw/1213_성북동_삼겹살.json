@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌누각",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 122-7 1층 일부호 서촌누각",
+      "roadAddress": "서울특별시 성북구 혜화로 88 1층 일부호 서촌누각",
+      "mapx": "1269981841",
+      "mapy": "375927478"
+    },
+    {
+      "title": "싹쓰리 솥뚜껑 김치<b>삼겹살</b> 성북점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 17 1층",
+      "roadAddress": "서울특별시 성북구 성북로7길 35 1층",
+      "mapx": "1270039397",
+      "mapy": "375888386"
+    },
+    {
+      "title": "갈비도둑 무한리필",
+      "link": "https://www.youtube.com/@%EA%B0%88%EB%B9%84%EB%8F%84%EB%91%91",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 43-2 1층",
+      "roadAddress": "서울특별시 성북구 성북로 13 1층",
+      "mapx": "1270047530",
+      "mapy": "375893957"
+    },
+    {
+      "title": "임흥수의 자연밥상 고기맛집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 35 임흥수의 자연밥상",
+      "roadAddress": "서울특별시 성북구 성북로2길 24 임흥수의 자연밥상",
+      "mapx": "1270071816",
+      "mapy": "375893699"
+    },
+    {
+      "title": "안동할매청국장",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-8 일신빌딩",
+      "roadAddress": "서울특별시 성북구 성북로5길 9-3 일신빌딩",
+      "mapx": "1270046377",
+      "mapy": "375890093"
+    }
+  ]
+}

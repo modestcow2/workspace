@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "금성회관 서울시청직영점",
+      "link": "https://www.instagram.com/gumseong5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
+      "mapx": "1269774892",
+      "mapy": "375623316"
+    },
+    {
+      "title": "월가<b>갈비</b> 서울시청본점",
+      "link": "https://www.instagram.com/wallga_galbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 11-7 1, 2, 3층",
+      "roadAddress": "서울특별시 중구 세종대로18길 22 1, 2, 3층",
+      "mapx": "1269783927",
+      "mapy": "375637074"
+    },
+    {
+      "title": "전설의우대<b>갈비</b> 서울시청직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    },
+    {
+      "title": "온점 을지로점",
+      "link": "https://www.instagram.com/onjeom.seoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 87 지1층",
+      "roadAddress": "서울특별시 중구 을지로 29 지1층",
+      "mapx": "1269810422",
+      "mapy": "375664910"
+    },
+    {
+      "title": "대보정 서울<b>시청역</b>점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    }
+  ]
+}

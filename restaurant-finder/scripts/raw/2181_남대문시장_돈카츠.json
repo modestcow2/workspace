@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠쇼신 서울역그랜드센트럴점",
+      "link": "https://www.instagram.com/katsu_shoshin",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "카츠왕 시청역점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 1층 102호",
+      "mapx": "1269742731",
+      "mapy": "375622864"
+    },
+    {
+      "title": "마마돈가스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-70 1층 마마돈가스",
+      "roadAddress": "서울특별시 중구 남대문시장길 12-5 1층 마마돈가스",
+      "mapx": "1269767843",
+      "mapy": "375598769"
+    },
+    {
+      "title": "23번지 남산돈까스 본점",
+      "link": "https://23namsan.com/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 203-15",
+      "roadAddress": "서울특별시 중구 소파로 23",
+      "mapx": "1269796500",
+      "mapy": "375561415"
+    },
+    {
+      "title": "라밥 회현점",
+      "link": "https://www.instagram.com/lababkimbab",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 94-4 1층",
+      "roadAddress": "서울특별시 중구 퇴계로10길 6 1층",
+      "mapx": "1269800781",
+      "mapy": "375590460"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그레인서울",
+      "link": "https://www.instagram.com/grain_seoul",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-29 2층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 53 2층",
+      "mapx": "1269274575",
+      "mapy": "375662742"
+    },
+    {
+      "title": "박만배아리랑보쌈 연희점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-10 1층좌측호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
+      "mapx": "1269285120",
+      "mapy": "375657431"
+    },
+    {
+      "title": "연희 에스프레소 바",
+      "link": "https://www.instagram.com/yeonhui_espresso",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 190-14 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 39 1층",
+      "mapx": "1269280711",
+      "mapy": "375667712"
+    },
+    {
+      "title": "도우클럽 연희본점",
+      "link": "https://www.instagram.com/doughclub.seoul?igsh=ZHBoa2NuYWl4cWpw",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-10 지하1층 101호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 5 지하1층 101호",
+      "mapx": "1269284693",
+      "mapy": "375661671"
+    },
+    {
+      "title": "연경 연희점",
+      "link": "https://smartstore.naver.com/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 86-15",
+      "roadAddress": "서울특별시 서대문구 연희로 145",
+      "mapx": "1269336393",
+      "mapy": "375705981"
+    }
+  ]
+}

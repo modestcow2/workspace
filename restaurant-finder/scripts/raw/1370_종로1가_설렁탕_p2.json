@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대문곰탕",
+      "link": "https://www.instagram.com/daemungomtang",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B106-4호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B106-4호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "이문<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 88",
+      "roadAddress": "서울특별시 종로구 우정국로 38-13",
+      "mapx": "1269839047",
+      "mapy": "375727663"
+    },
+    {
+      "title": "미성옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 54-6",
+      "roadAddress": "서울특별시 중구 명동길 25-11",
+      "mapx": "1269839596",
+      "mapy": "375641835"
+    },
+    {
+      "title": "중림장<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 468",
+      "roadAddress": "서울특별시 중구 청파로 459-1",
+      "mapx": "1269677079",
+      "mapy": "375602761"
+    },
+    {
+      "title": "<b>종로</b><b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로3가 107-1",
+      "roadAddress": "서울특별시 종로구 종로 110-1",
+      "mapx": "1269898070",
+      "mapy": "375699371"
+    }
+  ]
+}

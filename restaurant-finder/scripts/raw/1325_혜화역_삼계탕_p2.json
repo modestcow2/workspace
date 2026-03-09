@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포도원<b>삼계탕</b>대학로점",
+      "link": "https://blog.naver.com/podowon81",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 154-1 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로26길 41-5 1층",
+      "mapx": "1269996845",
+      "mapy": "375821698"
+    },
+    {
+      "title": "연건<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 86 1,2층",
+      "roadAddress": "서울특별시 종로구 대학로5가길 11 1,2층",
+      "mapx": "1270017528",
+      "mapy": "375786793"
+    },
+    {
+      "title": "마당너른집",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-45",
+      "roadAddress": "서울특별시 종로구 낙산길 3-4",
+      "mapx": "1270046922",
+      "mapy": "375806518"
+    },
+    {
+      "title": "또오리",
+      "link": "https://www.instagram.com/ttoori_duck",
+      "category": "한식>오리요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 205 또오리",
+      "roadAddress": "서울특별시 종로구 성균관로 6-4 또오리",
+      "mapx": "1269986207",
+      "mapy": "375836903"
+    },
+    {
+      "title": "가화원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 28-21 대한외래 지하1층",
+      "roadAddress": "서울특별시 종로구 대학로 101 대한외래 지하1층",
+      "mapx": "1269996862",
+      "mapy": "375794349"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "가메골손왕만두 남대문본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
+    },
+    {
+      "title": "희락갈치",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-34",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-6",
+      "mapx": "1269770942",
+      "mapy": "375599042"
+    },
+    {
+      "title": "김수사 신세계백화점 본점",
+      "link": "https://www.instagram.com/kimsushi1986/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 52-5 14층",
+      "roadAddress": "서울특별시 중구 소공로 63 14층",
+      "mapx": "1269806031",
+      "mapy": "375600578"
+    },
+    {
+      "title": "정희 서울역점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 178 9층",
+      "roadAddress": "서울특별시 중구 소월로 20-4 9층",
+      "mapx": "1269758121",
+      "mapy": "375578973"
+    }
+  ]
+}

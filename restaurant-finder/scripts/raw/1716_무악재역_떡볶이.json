@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "다시밥",
+      "link": "http://instagram.com/dasibab_",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 307-12 1층 다시 밥",
+      "roadAddress": "서울특별시 서대문구 통일로39길 43 1층 다시 밥",
+      "mapx": "1269425671",
+      "mapy": "375873532"
+    },
+    {
+      "title": "짱구<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 1층 22호",
+      "roadAddress": "서울특별시 종로구 통일로 230 1층 22호",
+      "mapx": "1269594558",
+      "mapy": "375734646"
+    },
+    {
+      "title": "불란집",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-29",
+      "roadAddress": "서울특별시 서대문구 통일로 445",
+      "mapx": "1269442653",
+      "mapy": "375884493"
+    },
+    {
+      "title": "원조정할머니기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269700183",
+      "mapy": "375806564"
+    },
+    {
+      "title": "원조할머니 기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 94-1",
+      "roadAddress": "서울특별시 종로구 자하문로15길 13",
+      "mapx": "1269703204",
+      "mapy": "375806957"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
+    },
+    {
+      "title": "진미필담 용금옥",
+      "link": "https://www.instagram.com/jinmipildam_yonggumok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 199 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
+      "mapx": "1269708497",
+      "mapy": "375766102"
+    },
+    {
+      "title": "이마리",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 120-14 2층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 18-13 2층",
+      "mapx": "1269702565",
+      "mapy": "375779153"
+    },
+    {
+      "title": "<b>오마카세</b> 오사이초밥 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "스시산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
+    }
+  ]
+}

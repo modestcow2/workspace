@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "감나무집기사식당",
+      "link": "",
+      "category": "한식>기사식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 515-19",
+      "roadAddress": "서울특별시 마포구 연남로 25",
+      "mapx": "1269221264",
+      "mapy": "375617165"
+    },
+    {
+      "title": "문숙이미나리식당 홍대본점",
+      "link": "https://www.instagram.com/minari_hongdae",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 366-14 1층",
+      "roadAddress": "서울특별시 마포구 잔다리로6길 34-5 1층",
+      "mapx": "1269211336",
+      "mapy": "375520720"
+    },
+    {
+      "title": "월강부산돼지국밥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 258-14 월강부산돼지국밥",
+      "roadAddress": "서울특별시 마포구 동교로 241-1 월강부산돼지국밥",
+      "mapx": "1269241539",
+      "mapy": "375616319"
+    },
+    {
+      "title": "천지식당",
+      "link": "https://blog.naver.com/dmswn415",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 마포동 302",
+      "roadAddress": "서울특별시 마포구 마포대로4가길 54",
+      "mapx": "1269446711",
+      "mapy": "375372891"
+    },
+    {
+      "title": "을왕리꾸덕집 합정직영점",
+      "link": "https://www.kooducjip.co.kr/",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 473 딜라이트스퀘어2 지하1층",
+      "roadAddress": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어2 지하1층",
+      "mapx": "1269122407",
+      "mapy": "375508325"
+    }
+  ]
+}

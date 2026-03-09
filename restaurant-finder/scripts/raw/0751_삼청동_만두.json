@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    },
+    {
+      "title": "깡통<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
+    },
+    {
+      "title": "율동칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 9 2층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
+      "mapx": "1269846160",
+      "mapy": "375794433"
+    },
+    {
+      "title": "온6.5",
+      "link": "https://app.catchtable.co.kr/ct/shop/on65",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 75-5 지상1층 온6.5",
+      "roadAddress": "서울특별시 종로구 북촌로1길 28 지상1층 온6.5",
+      "mapx": "1269842814",
+      "mapy": "375773758"
+    },
+    {
+      "title": "온미관 안국",
+      "link": "https://www.instagram.com/onmigwananguk/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
+      "mapx": "1269861071",
+      "mapy": "375780371"
+    }
+  ]
+}

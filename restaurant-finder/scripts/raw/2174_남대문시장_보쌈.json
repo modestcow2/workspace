@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "숭례회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-7 화남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 15 화남빌딩",
+      "mapx": "1269732674",
+      "mapy": "375583627"
+    },
+    {
+      "title": "신성식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 81",
+      "roadAddress": "서울특별시 중구 세종대로14길 22-3",
+      "mapx": "1269780743",
+      "mapy": "375626338"
+    },
+    {
+      "title": "한가람 본점",
+      "link": "http://www.hangaramfood.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-35",
+      "roadAddress": "서울특별시 중구 남대문로5길 25",
+      "mapx": "1269789529",
+      "mapy": "375625240"
+    },
+    {
+      "title": "대박물갈비",
+      "link": "https://www.instagram.com/daepark_mulgalbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 168-8 1층 대박물갈비",
+      "roadAddress": "서울특별시 중구 퇴계로4길 7 1층 대박물갈비",
+      "mapx": "1269777252",
+      "mapy": "375575445"
+    },
+    {
+      "title": "남도한식 정든님",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 79 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로14길 22-5 1층, 2층",
+      "mapx": "1269780747",
+      "mapy": "375625624"
+    }
+  ]
+}

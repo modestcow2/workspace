@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "통영굴밥 경복궁점",
+      "link": "",
+      "category": "한식>굴요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
+      "mapx": "1269733152",
+      "mapy": "375753857"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "부산집막국수",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 26 1층",
+      "roadAddress": "서울특별시 종로구 사직로 133-8 1층",
+      "mapx": "1269734310",
+      "mapy": "375762754"
+    },
+    {
+      "title": "옛날명동칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 지하1층 111호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 지하1층 111호",
+      "mapx": "1269735421",
+      "mapy": "375744442"
+    }
+  ]
+}

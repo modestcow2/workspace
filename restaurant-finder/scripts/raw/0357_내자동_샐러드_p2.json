@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "하이호",
+      "link": "https://www.instagram.com/hiho_seochon",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 128-1",
+      "roadAddress": "서울특별시 종로구 사직로 110",
+      "mapx": "1269709664",
+      "mapy": "375758334"
+    },
+    {
+      "title": "써브웨이 경복궁점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 11-1",
+      "roadAddress": "서울특별시 종로구 사직로 115",
+      "mapx": "1269714822",
+      "mapy": "375762373"
+    },
+    {
+      "title": "오빈스",
+      "link": "https://www.instagram.com/obins1000",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 19 사학재단 1층 오빈스레스토랑",
+      "roadAddress": "서울특별시 종로구 사직로 113 사학재단 1층 오빈스레스토랑",
+      "mapx": "1269713210",
+      "mapy": "375763777"
+    },
+    {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    },
+    {
+      "title": "저스트<b>샐러드</b>&amp;쥬스",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1",
+      "roadAddress": "서울특별시 종로구 인왕산로 19",
+      "mapx": "1269654664",
+      "mapy": "375755640"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "함평집 서울시청점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
+      "mapx": "1269736340",
+      "mapy": "375622716"
+    },
+    {
+      "title": "오공일 명동점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로2가 111-1 2층",
+      "roadAddress": "서울특별시 중구 남대문로 55 2층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
+    },
+    {
+      "title": "금자네생등심",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 63-7",
+      "roadAddress": "서울특별시 중구 통일로 22-4",
+      "mapx": "1269722205",
+      "mapy": "375577704"
+    },
+    {
+      "title": "전주비빔밥",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 와이즈타워 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 17 와이즈타워 지하1층",
+      "mapx": "1269732360",
+      "mapy": "375586020"
+    },
+    {
+      "title": "심원",
+      "link": "https://www.instagram.com/simwon_sikdang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 168-2 남대문 심원",
+      "roadAddress": "서울특별시 중구 퇴계로 42-3 남대문 심원",
+      "mapx": "1269777074",
+      "mapy": "375577818"
+    }
+  ]
+}

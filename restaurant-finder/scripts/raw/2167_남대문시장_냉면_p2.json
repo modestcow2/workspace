@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "부원면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 47-10 부원상가 2층",
+      "roadAddress": "서울특별시 중구 남대문시장4길 41-6 부원상가 2층",
+      "mapx": "1269775990",
+      "mapy": "375584294"
+    },
+    {
+      "title": "서관면옥 신세계백화점 본점",
+      "link": "https://www.instagram.com/seogwanmyenog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 디 에스테이트 14층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 디 에스테이트 14층",
+      "mapx": "1269806346",
+      "mapy": "375603977"
+    },
+    {
+      "title": "곰<b>냉면</b> <b>남대문</b>본점",
+      "link": "https://www.instagram.com/gom_naeng.official/",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 3-4 1층 1호",
+      "roadAddress": "서울특별시 중구 남대문시장길 29 1층 1호",
+      "mapx": "1269777402",
+      "mapy": "375605031"
+    },
+    {
+      "title": "누리옥 시청역점",
+      "link": "https://www.instagram.com/nuriok83",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 96 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-6 2층",
+      "mapx": "1269777393",
+      "mapy": "375621889"
+    }
+  ]
+}

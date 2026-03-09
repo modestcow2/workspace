@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남도가는길 김형순",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 107-104 지하1층",
+      "roadAddress": "서울특별시 마포구 백범로 18 지하1층",
+      "mapx": "1269369021",
+      "mapy": "375532031"
+    },
+    {
+      "title": "고삼이 <b>신촌</b>점",
+      "link": "https://youtube.com/@user-hi6kz5xp8j?si=EhJwsFQCJwzP2z_-",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-8 고삼이",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 38 고삼이",
+      "mapx": "1269347130",
+      "mapy": "375583079"
+    },
+    {
+      "title": "옥돌구이",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 56-29",
+      "roadAddress": "서울특별시 마포구 신촌로14길 32",
+      "mapx": "1269331529",
+      "mapy": "375547325"
+    },
+    {
+      "title": "청대문집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 1-6",
+      "roadAddress": "서울특별시 마포구 백범로1길 101",
+      "mapx": "1269421981",
+      "mapy": "375561680"
+    },
+    {
+      "title": "거구장",
+      "link": "http://k-turtle.co.kr",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 신수동 63-14 터틀프라자 1층",
+      "roadAddress": "서울특별시 마포구 백범로 23 터틀프라자 1층",
+      "mapx": "1269376563",
+      "mapy": "375524478"
+    }
+  ]
+}

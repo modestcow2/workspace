@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꾸왁<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 153-2 꾸왁칼국수 1층",
+      "roadAddress": "서울특별시 중구 창경궁로 67-13 꾸왁칼국수 1층",
+      "mapx": "1269972173",
+      "mapy": "375682937"
+    },
+    {
+      "title": "계화정 동대문현대시티아울렛점",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 현대시티아울렛 지하2층 계화정",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 현대시티아울렛 지하2층 계화정",
+      "mapx": "1270074175",
+      "mapy": "375683116"
+    },
+    {
+      "title": "본가원조닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 54",
+      "roadAddress": "서울특별시 중구 마른내로2길 19",
+      "mapx": "1269920102",
+      "mapy": "375635413"
+    },
+    {
+      "title": "을지<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 291-45",
+      "roadAddress": "서울특별시 중구 충무로 54-3",
+      "mapx": "1269929795",
+      "mapy": "375660942"
+    },
+    {
+      "title": "샤브산천 던던동대문점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 21-31 던던 동대문점 8층 샤브산천",
+      "roadAddress": "서울특별시 중구 을지로 264 던던 동대문점 8층 샤브산천",
+      "mapx": "1270070531",
+      "mapy": "375657367"
+    }
+  ]
+}

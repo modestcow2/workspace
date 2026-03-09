@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "굽네치킨 <b>정릉</b>역점",
+      "link": "https://www.goobne.co.kr/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 435 정릉중앙하이츠빌 상가 안 GO피자 왼쪽",
+      "roadAddress": "서울특별시 성북구 정릉로26길 8 정릉중앙하이츠빌 상가 안 GO피자 왼쪽",
+      "mapx": "1270110049",
+      "mapy": "376039043"
+    },
+    {
+      "title": "김밥싸고 커피내리고",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동5가 166 1층",
+      "roadAddress": "서울특별시 성북구 아리랑로 58 1층",
+      "mapx": "1270148078",
+      "mapy": "375977925"
+    },
+    {
+      "title": "카레",
+      "link": "https://www.instagram.com/___uncurry/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 161-6",
+      "roadAddress": "서울특별시 성북구 성북로 62-1",
+      "mapx": "1270020459",
+      "mapy": "375931769"
+    },
+    {
+      "title": "하루",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 1035 상가동 1층 105호",
+      "roadAddress": "서울특별시 성북구 북악산로 851 상가동 1층 105호",
+      "mapx": "1270191213",
+      "mapy": "375990534"
+    },
+    {
+      "title": "카츠벨",
+      "link": "https://www.instagram.com/katsubell_",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 116 지상1층",
+      "roadAddress": "서울특별시 성북구 성북로 31 지상1층",
+      "mapx": "1270036109",
+      "mapy": "375907569"
+    }
+  ]
+}

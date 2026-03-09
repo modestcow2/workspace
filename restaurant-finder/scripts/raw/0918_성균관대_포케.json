@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라이크샐러드",
+      "link": "https://www.instagram.com/like_salad_SKKU",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-190 1층 LIKE SALAD",
+      "roadAddress": "서울특별시 종로구 명륜길 44 1층 LIKE SALAD",
+      "mapx": "1269949025",
+      "mapy": "375890462"
+    },
+    {
+      "title": "밀플랜 본점",
+      "link": "https://blog.naver.com/jny8664",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-99",
+      "roadAddress": "경기도 수원시 장안구 율전로 90-6",
+      "mapx": "1269688812",
+      "mapy": "372972875"
+    }
+  ]
+}

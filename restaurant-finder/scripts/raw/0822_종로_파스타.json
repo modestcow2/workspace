@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "독립밀방 익선",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
+      "mapx": "1269902619",
+      "mapy": "375740791"
+    },
+    {
+      "title": "살롱순라 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
+      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
+      "mapx": "1269916936",
+      "mapy": "375741979"
+    },
+    {
+      "title": "반기다 익선",
+      "link": "http://www.instagram.com/bangida_ikseon",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-52 반기다",
+      "roadAddress": "",
+      "mapx": "1269892898",
+      "mapy": "375736887"
+    },
+    {
+      "title": "디라이프스타일키친 광화문점",
+      "link": "https://dlifestyle.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "익선취향",
+      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-70 1층",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
+      "mapx": "1269895934",
+      "mapy": "375735970"
+    }
+  ]
+}

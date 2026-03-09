@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "초식곳간 이대본점",
+      "link": "https://blog.naver.com/vege_save",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 54-28 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대2가길 19 1층",
+      "mapx": "1269460708",
+      "mapy": "375582700"
+    },
+    {
+      "title": "비밀베이커리 이대점",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 27-46 1층 비밀베이커리",
+      "roadAddress": "서울특별시 서대문구 이화여대7길 48 1층 비밀베이커리",
+      "mapx": "1269431420",
+      "mapy": "375585152"
+    },
+    {
+      "title": "시드위드 이대점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 1-3 103호 시드위드",
+      "roadAddress": "서울특별시 마포구 신촌로 150 103호 시드위드",
+      "mapx": "1269419077",
+      "mapy": "375563005"
+    },
+    {
+      "title": "비아37 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/via37_",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-31 2층 비아37 신촌본점",
+      "roadAddress": "서울특별시 서대문구 이화여대길 68 2층 비아37 신촌본점",
+      "mapx": "1269446608",
+      "mapy": "375592889"
+    },
+    {
+      "title": "저도한끼",
+      "link": "https://www.instagram.com/jeodohankki",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-11 2층 43호",
+      "roadAddress": "서울특별시 서대문구 신촌역로 22-5 2층 43호",
+      "mapx": "1269430519",
+      "mapy": "375589259"
+    }
+  ]
+}

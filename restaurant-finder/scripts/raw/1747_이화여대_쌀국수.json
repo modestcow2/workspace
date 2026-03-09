@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꾸아 이대점",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/quaewha",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-9 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 42 2층",
+      "mapx": "1269458643",
+      "mapy": "375588114"
+    },
+    {
+      "title": "방콕익스프레스 신촌본점",
+      "link": "http://www.bangkokexp.com/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-25 백송빌딩 1층 방콕익스프레스",
+      "roadAddress": "서울특별시 서대문구 연세로2길 91 백송빌딩 1층 방콕익스프레스",
+      "mapx": "1269418841",
+      "mapy": "375571725"
+    },
+    {
+      "title": "반타이 쏘이54",
+      "link": "https://www.instagram.com/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-22 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 7-1 1층",
+      "mapx": "1269453912",
+      "mapy": "375582461"
+    },
+    {
+      "title": "하노이의아침 신촌점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-1 3층",
+      "roadAddress": "서울특별시 서대문구 연대동문길 45 3층",
+      "mapx": "1269444000",
+      "mapy": "375644500"
+    },
+    {
+      "title": "타이스토리",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-79 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 2 1층",
+      "mapx": "1269455403",
+      "mapy": "375584208"
+    }
+  ]
+}

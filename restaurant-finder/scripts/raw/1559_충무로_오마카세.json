@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "저돌",
+      "link": "https://linktr.ee/rushlikeboar",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 50-2 3층",
+      "roadAddress": "서울특별시 중구 삼일대로4길 19 3층",
+      "mapx": "1269901921",
+      "mapy": "375621380"
+    },
+    {
+      "title": "스시 소우카이",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushi_soukai",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로5가 274-1 지하1층",
+      "roadAddress": "서울특별시 중구 동호로35길 5 지하1층",
+      "mapx": "1270019924",
+      "mapy": "375662037"
+    },
+    {
+      "title": "을지로화랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_hwarang?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 320-12 2층",
+      "roadAddress": "서울특별시 중구 을지로12길 17 2층",
+      "mapx": "1269910811",
+      "mapy": "375654607"
+    },
+    {
+      "title": "지지타운",
+      "link": "https://catchtable.co.kr/ggtown",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 349-1 3층",
+      "roadAddress": "서울특별시 중구 수표로 52 3층",
+      "mapx": "1269899946",
+      "mapy": "375657753"
+    },
+    {
+      "title": "아재카세 <b>충무로</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/azekase?from=share&type=DINING",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로4가 24-7 1층 아재카세",
+      "roadAddress": "서울특별시 중구 충무로2길 33-2 1층 아재카세",
+      "mapx": "1269950833",
+      "mapy": "375624171"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "채담화",
+      "link": "https://www.instagram.com/cdh_1990",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 168-9 지하1층",
+      "roadAddress": "서울특별시 마포구 독막로 311 지하1층",
+      "mapx": "1269475287",
+      "mapy": "375438726"
+    },
+    {
+      "title": "진청유점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jincheongyujeom",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 385-3 1층",
+      "roadAddress": "서울특별시 마포구 동교로46길 27 1층",
+      "mapx": "1269262932",
+      "mapy": "375622774"
+    },
+    {
+      "title": "역전회관 <b>마포</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yukjeonhoekwan",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 173-21",
+      "roadAddress": "서울특별시 마포구 토정로37길 47",
+      "mapx": "1269470965",
+      "mapy": "375429468"
+    },
+    {
+      "title": "조개우물보쌈&amp;칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 396-46 1층",
+      "roadAddress": "서울특별시 마포구 독막로3길 30 1층",
+      "mapx": "1269172968",
+      "mapy": "375495758"
+    },
+    {
+      "title": "봉평옹심이메밀칼국수",
+      "link": "https://catchtable.co.kr/bongpyeongongsimimemilkalgugsu",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 242-90 1층 봉평옹심이메밀칼국수",
+      "roadAddress": "서울특별시 마포구 만리재옛길 19 1층 봉평옹심이메밀칼국수",
+      "mapx": "1269552378",
+      "mapy": "375459556"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김광석<b>신촌</b>칼국수 본점",
+      "link": "https://scnoodle.com/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 40-9",
+      "roadAddress": "서울특별시 마포구 신촌로 124",
+      "mapx": "1269394407",
+      "mapy": "375556761"
+    },
+    {
+      "title": "청화원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-1 1층 청화원",
+      "roadAddress": "서울특별시 서대문구 명물길 10 1층 청화원",
+      "mapx": "1269375150",
+      "mapy": "375574695"
+    },
+    {
+      "title": "오천집 <b>신촌</b>점",
+      "link": "https://www.instagram.com/5000zip_official",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 72-6 1층 1호",
+      "roadAddress": "서울특별시 서대문구 신촌로 75 1층 1호",
+      "mapx": "1269348323",
+      "mapy": "375561154"
+    },
+    {
+      "title": "댄싱홍콩 <b>신촌</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-77 1층 댄싱홍콩",
+      "roadAddress": "서울특별시 서대문구 연세로12길 37-4 1층 댄싱홍콩",
+      "mapx": "1269391153",
+      "mapy": "375592662"
+    },
+    {
+      "title": "오향미엔",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-120 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 34-4 1층",
+      "mapx": "1269350408",
+      "mapy": "375582756"
+    }
+  ]
+}

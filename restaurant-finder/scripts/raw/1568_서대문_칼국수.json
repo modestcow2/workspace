@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "유닭스토리 닭한마리 신촌점",
+      "link": "https://blog.naver.com/hotjazz22",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-72 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 7 1층",
+      "mapx": "1269374476",
+      "mapy": "375570470"
+    },
+    {
+      "title": "연희동<b>칼국수</b> 본점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-29",
+      "roadAddress": "서울특별시 서대문구 연희맛로 37",
+      "mapx": "1269307635",
+      "mapy": "375681839"
+    },
+    {
+      "title": "맛있는<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북가좌동 345-27 1층",
+      "roadAddress": "서울특별시 서대문구 불광천길 150 1층",
+      "mapx": "1269089080",
+      "mapy": "375819180"
+    },
+    {
+      "title": "김광석신촌<b>칼국수</b> 이대직영점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-11 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 70 1층",
+      "mapx": "1269400794",
+      "mapy": "375589432"
+    },
+    {
+      "title": "박만배아리랑보쌈 연희점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-10 1층좌측호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
+      "mapx": "1269285120",
+      "mapy": "375657431"
+    }
+  ]
+}

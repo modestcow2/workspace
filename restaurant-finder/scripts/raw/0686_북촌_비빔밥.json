@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꽃밥에피다 <b>북촌</b> 친환경 그로서란트",
+      "link": "https://smartstore.naver.com/goodbab7",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269847797",
+      "mapy": "375802375"
+    },
+    {
+      "title": "청수정",
+      "link": "http://www.instagram.com/cheongsoojung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6",
+      "roadAddress": "서울특별시 종로구 삼청로 91",
+      "mapx": "1269816875",
+      "mapy": "375835571"
+    },
+    {
+      "title": "시래기담은",
+      "link": "https://www.instagram.com/siraegidameun",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 팔판동 71 시래기담은",
+      "roadAddress": "서울특별시 종로구 삼청로 65-2 시래기담은",
+      "mapx": "1269809917",
+      "mapy": "375815898"
+    },
+    {
+      "title": "애호락 안국본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
+      "title": "큰기와집",
+      "link": "https://blog.naver.com/keunkiwajip_0501",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 49-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
+      "mapx": "1269854307",
+      "mapy": "375787275"
+    }
+  ]
+}

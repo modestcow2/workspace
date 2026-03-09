@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼각산",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 85-25",
+      "roadAddress": "서울특별시 종로구 진흥로 435",
+      "mapx": "1269573129",
+      "mapy": "376083967"
+    },
+    {
+      "title": "<b>평창동</b>북악정 신관",
+      "link": "https://www.youtube.com/channel/UCo3ibNjQOaYfLvzwrAgPD0A",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 109-1",
+      "roadAddress": "서울특별시 종로구 평창문화로 169",
+      "mapx": "1269778689",
+      "mapy": "376111046"
+    },
+    {
+      "title": "<b>평창동</b>북악정 본관",
+      "link": "https://www.youtube.com/channel/UCo3ibNjQOaYfLvzwrAgPD0A",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 114-12 북악정",
+      "roadAddress": "서울특별시 종로구 평창36길 6 북악정",
+      "mapx": "1269777567",
+      "mapy": "376113545"
+    },
+    {
+      "title": "성북동면옥집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 330-105",
+      "roadAddress": "서울특별시 성북구 대사관로 40",
+      "mapx": "1269886323",
+      "mapy": "375959190"
+    },
+    {
+      "title": "성북동돼지갈비 본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 114-2",
+      "roadAddress": "서울특별시 성북구 성북로 115",
+      "mapx": "1269961462",
+      "mapy": "375933105"
+    }
+  ]
+}

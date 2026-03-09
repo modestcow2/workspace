@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "멘츠루 <b>시청</b>점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
+      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
+      "mapx": "1269731249",
+      "mapy": "375629944"
+    },
+    {
+      "title": "멘무샤 <b>시청</b>점",
+      "link": "http://www.menmusha.co.kr/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 14-5",
+      "roadAddress": "서울특별시 중구 세종대로18길 20-2",
+      "mapx": "1269783021",
+      "mapy": "375636845"
+    },
+    {
+      "title": "아사히<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1168-2 101호",
+      "roadAddress": "경기도 부천시 원미구 소향로 117 101호",
+      "mapx": "1267608736",
+      "mapy": "375027284"
+    },
+    {
+      "title": "이츠모<b>라멘</b> 수원점",
+      "link": "https://www.instagram.com/itsumosw",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1121-9 1층 101호",
+      "roadAddress": "경기도 수원시 팔달구 권광로180번길 45 1층 101호",
+      "mapx": "1270352751",
+      "mapy": "372631224"
+    },
+    {
+      "title": "하나비<b>라멘</b>",
+      "link": "https://www.instagram.com/hanabiramenkr",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1120 나혜석거리 하나비라멘",
+      "roadAddress": "경기도 수원시 팔달구 권광로 184 나혜석거리 하나비라멘",
+      "mapx": "1270336387",
+      "mapy": "372640413"
+    }
+  ]
+}

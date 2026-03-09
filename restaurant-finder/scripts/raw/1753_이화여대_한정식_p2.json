@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이로운밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-13 2층",
+      "roadAddress": "서울특별시 서대문구 연대동문길 27-6 2층",
+      "mapx": "1269437383",
+      "mapy": "375640555"
+    },
+    {
+      "title": "아현동간장게장",
+      "link": "http://instagram.com/ah_gejang",
+      "category": "한식>게요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 282-1 새한빌딩, 간장게장",
+      "roadAddress": "서울특별시 마포구 굴레방로 13 새한빌딩, 아현동간장게장",
+      "mapx": "1269554857",
+      "mapy": "375551924"
+    },
+    {
+      "title": "청대문집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 1-6",
+      "roadAddress": "서울특별시 마포구 백범로1길 101",
+      "mapx": "1269421981",
+      "mapy": "375561680"
+    },
+    {
+      "title": "자연솜씨",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 11-1 진선미관 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 52 진선미관 1층",
+      "mapx": "1269474379",
+      "mapy": "375634575"
+    },
+    {
+      "title": "석굴",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 327-5",
+      "roadAddress": "서울특별시 마포구 굴레방로9길 9",
+      "mapx": "1269551644",
+      "mapy": "375567706"
+    }
+  ]
+}

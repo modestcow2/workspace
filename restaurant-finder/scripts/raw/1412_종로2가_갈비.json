@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "경복궁식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 1층 112호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 112호",
+      "mapx": "1269847135",
+      "mapy": "375704128"
+    },
+    {
+      "title": "KUT Seoul",
+      "link": "https://app.catchtable.co.kr/ct/shop/KUT?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-6 한올타워 3F KUT",
+      "roadAddress": "서울특별시 종로구 종로 96 한올타워 3F KUT",
+      "mapx": "1269882058",
+      "mapy": "375698597"
+    },
+    {
+      "title": "미도<b>갈비</b>",
+      "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-13 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
+      "mapx": "1269861462",
+      "mapy": "375687918"
+    },
+    {
+      "title": "금성회관 서울시청직영점",
+      "link": "https://www.instagram.com/gumseong5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
+      "mapx": "1269774892",
+      "mapy": "375623316"
+    },
+    {
+      "title": "월가<b>갈비</b> 서울시청본점",
+      "link": "https://www.instagram.com/wallga_galbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 11-7 1, 2, 3층",
+      "roadAddress": "서울특별시 중구 세종대로18길 22 1, 2, 3층",
+      "mapx": "1269783927",
+      "mapy": "375637074"
+    }
+  ]
+}

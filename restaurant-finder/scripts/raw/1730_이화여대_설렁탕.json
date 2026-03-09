@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "육수고집 세브란스병원점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 신촌동 134",
+      "roadAddress": "서울특별시 서대문구 연세로 50",
+      "mapx": "1269394992",
+      "mapy": "375647113"
+    },
+    {
+      "title": "명성회관",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 8-65",
+      "roadAddress": "서울특별시 마포구 대흥로30길 17",
+      "mapx": "1269470000",
+      "mapy": "375564667"
+    },
+    {
+      "title": "명품<b>설렁탕</b>&amp;북어국",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 90-85 화영빌딩 1층",
+      "roadAddress": "서울특별시 서대문구 신촌로 157 화영빌딩 1층",
+      "mapx": "1269436510",
+      "mapy": "375568827"
+    },
+    {
+      "title": "나주곰탕냉면 본점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-5 신촌푸르지오시티 101호~102호 나주곰탕",
+      "roadAddress": "서울특별시 서대문구 신촌역로 7 신촌푸르지오시티 101호~102호 나주곰탕",
+      "mapx": "1269426054",
+      "mapy": "375574786"
+    },
+    {
+      "title": "대가<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 331-6 LK빌딩 1,2층",
+      "roadAddress": "서울특별시 마포구 신촌로 254 LK빌딩 1,2층",
+      "mapx": "1269539736",
+      "mapy": "375570730"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마포육곳간 길음점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1222 1층, 2층",
+      "roadAddress": "서울특별시 성북구 삼양로 61-1 1층, 2층",
+      "mapx": "1270229564",
+      "mapy": "376085190"
+    },
+    {
+      "title": "제주흑돼지 마시도니",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 518-1",
+      "roadAddress": "서울특별시 성북구 동소문로43가길 6",
+      "mapx": "1270275480",
+      "mapy": "376070704"
+    },
+    {
+      "title": "엄마 광주식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 517-1",
+      "roadAddress": "서울특별시 성북구 동소문로 311-5",
+      "mapx": "1270285601",
+      "mapy": "376078110"
+    },
+    {
+      "title": "도꼬정",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1125-7",
+      "roadAddress": "서울특별시 성북구 삼양로 86-1",
+      "mapx": "1270224606",
+      "mapy": "376111165"
+    },
+    {
+      "title": "정담은밥상",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 81-479",
+      "roadAddress": "서울특별시 성북구 오패산로3길 146",
+      "mapx": "1270329697",
+      "mapy": "376095201"
+    }
+  ]
+}

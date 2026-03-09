@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도담도담",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 45 도담도담",
+      "roadAddress": "서울특별시 종로구 세검정로9길 11 도담도담",
+      "mapx": "1269612700",
+      "mapy": "376036948"
+    },
+    {
+      "title": "롤라곱창 안국역점",
+      "link": "https://www.instagram.com/lolla_gobchang?igsh=cWt6NDJwajBjZ3k1",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-15 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 4 1층",
+      "mapx": "1269859341",
+      "mapy": "375778300"
+    },
+    {
+      "title": "서촌전통<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
+    },
+    {
+      "title": "백암박가네<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
+      "mapx": "1269710531",
+      "mapy": "375791821"
+    },
+    {
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쪽당 대학로점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-59 쪽당 대학로점",
+      "roadAddress": "서울특별시 종로구 대학로8가길 26 쪽당 대학로점",
+      "mapx": "1270024893",
+      "mapy": "375821563"
+    },
+    {
+      "title": "촌놈",
+      "link": "https://blog.naver.com/chssha1029",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-47",
+      "roadAddress": "서울특별시 종로구 대학로8가길 48",
+      "mapx": "1270023479",
+      "mapy": "375829574"
+    },
+    {
+      "title": "대학로아리랑",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 178-1 동마루빌딩 지하",
+      "roadAddress": "서울특별시 종로구 대학로 60 동마루빌딩 지하",
+      "mapx": "1270025923",
+      "mapy": "375765003"
+    },
+    {
+      "title": "춘천집무한닭<b>갈비</b> 대학로점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-60 2층",
+      "roadAddress": "서울특별시 종로구 대학로10길 5 2층",
+      "mapx": "1270025975",
+      "mapy": "375818620"
+    },
+    {
+      "title": "청계도깨비 대학로 본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 25-10 청계도깨비 대학로 본점",
+      "roadAddress": "서울특별시 종로구 동숭길 98 청계도깨비 대학로 본점",
+      "mapx": "1270043704",
+      "mapy": "375826096"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고씨네동해막국수 종로직영점",
+      "link": "https://blog.naver.com/hjwm0116",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 68 1층",
+      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
+      "mapx": "1269846887",
+      "mapy": "375744624"
+    },
+    {
+      "title": "신사동인동 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "다반 안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/daban_anguk",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 98-5 이노88타워 1층 104호 다반",
+      "roadAddress": "서울특별시 종로구 율곡로 88 이노88타워 1층 104호 다반",
+      "mapx": "1269889420",
+      "mapy": "375768090"
+    },
+    {
+      "title": "엄용백 돼지구이 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-13",
+      "roadAddress": "서울특별시 종로구 율곡로4길 51",
+      "mapx": "1269812652",
+      "mapy": "375733835"
+    },
+    {
+      "title": "호이식 종로 안국",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-7 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
+      "mapx": "1269863069",
+      "mapy": "375777908"
+    }
+  ]
+}

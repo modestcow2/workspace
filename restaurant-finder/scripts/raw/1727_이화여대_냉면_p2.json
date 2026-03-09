@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "천수<b>냉면</b> 이대점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-24 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 72-10 1층",
+      "mapx": "1269445084",
+      "mapy": "375594958"
+    },
+    {
+      "title": "사장님돈까스 본점",
+      "link": "https://www.instagram.com/boss_donkaz",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-104 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대7길 11 1층",
+      "mapx": "1269450489",
+      "mapy": "375586888"
+    },
+    {
+      "title": "육쌈<b>냉면</b> 이대점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-34 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 76 2층",
+      "mapx": "1269443102",
+      "mapy": "375592803"
+    },
+    {
+      "title": "마포육감식당",
+      "link": "https://blog.naver.com/mystyle0113",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 532 A동 B3층 113호",
+      "roadAddress": "서울특별시 마포구 대흥로24길 24 A동 B3층 113호",
+      "mapx": "1269477995",
+      "mapy": "375537271"
+    },
+    {
+      "title": "돈노코돈먹기 이대점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 2층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 2층",
+      "mapx": "1269406379",
+      "mapy": "375589427"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "윤찬식당",
+      "link": "https://www.instagram.com/yunchan_bistro_sotasty",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B105-3호(르메이에르종로타운)",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B105-3호(르메이에르종로타운)",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "더미 광화문본점",
+      "link": "http://www.hanutheme.com/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 3층 더미 본점",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 3층 더미 본점",
+      "mapx": "1269798488",
+      "mapy": "375706671"
+    },
+    {
+      "title": "홍지식탁",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르빌딩 지하2층 B216-2",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르빌딩 지하2층 B216-2",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "국대오리",
+      "link": "",
+      "category": "한식>오리요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 지하2층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 지하2층",
+      "mapx": "1269799424",
+      "mapy": "375706711"
+    },
+    {
+      "title": "한마루",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 2층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 2층",
+      "mapx": "1269797880",
+      "mapy": "375704377"
+    }
+  ]
+}

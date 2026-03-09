@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이안초밥 안녕인사동점",
+      "link": "https://www.instagram.com/sushi_ian.kr/?hl=ko",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 지상 M층 5,6번매장",
+      "roadAddress": "서울특별시 종로구 인사동길 49 지상 M층 5,6번매장",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "사토루 더 서촌",
+      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 24",
+      "roadAddress": "서울특별시 종로구 자하문로7길 11",
+      "mapx": "1269709856",
+      "mapy": "375783639"
+    },
+    {
+      "title": "효자동초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 59 효자동초밥",
+      "roadAddress": "서울특별시 종로구 자하문로 14 효자동초밥",
+      "mapx": "1269724169",
+      "mapy": "375774163"
+    },
+    {
+      "title": "<b>스시</b>누하",
+      "link": "https://catchtable.co.kr/sushi_nuha",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 146-3 스시누하",
+      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
+      "mapx": "1269686694",
+      "mapy": "375791432"
+    },
+    {
+      "title": "<b>스시</b>산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
+    }
+  ]
+}

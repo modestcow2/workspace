@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "황생가칼국수연세동문회관점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 신촌동 134 연세동문회관 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로 50 연세동문회관 지하1층",
+      "mapx": "1269425900",
+      "mapy": "375626642"
+    },
+    {
+      "title": "먼동",
+      "link": "https://catchtable.co.kr/meondong",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 19-52 2층",
+      "roadAddress": "서울특별시 마포구 백범로1길 60 2층",
+      "mapx": "1269399018",
+      "mapy": "375554391"
+    },
+    {
+      "title": "명물화로 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/MyungmulHwaro",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-34 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 71 1층",
+      "mapx": "1269400770",
+      "mapy": "375592707"
+    },
+    {
+      "title": "응그래식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 346-37 1층",
+      "roadAddress": "서울특별시 마포구 굴레방로9길 56 1층",
+      "mapx": "1269525754",
+      "mapy": "375567419"
+    },
+    {
+      "title": "고냉지",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-15 1층 고냉지",
+      "roadAddress": "서울특별시 서대문구 연세로2마길 30 1층 고냉지",
+      "mapx": "1269422129",
+      "mapy": "375584829"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "디라이프스타일키친 광화문점",
+      "link": "https://dlifestyle.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "바리에가타 명동",
+      "link": "https://www.variegata.company/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
+      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
+    },
+    {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    },
+    {
+      "title": "놉스 광화문점",
+      "link": "https://www.instagram.com/nops_steakhouse",
+      "category": "양식>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 39 지하1층 B103, B104호",
+      "roadAddress": "서울특별시 중구 청계천로 24 지하1층 B103, B104호",
+      "mapx": "1269801781",
+      "mapy": "375685545"
+    }
+  ]
+}

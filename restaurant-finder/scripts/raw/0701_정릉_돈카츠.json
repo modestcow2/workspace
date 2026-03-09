@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대단한돈까스 서울<b>정릉</b>점",
+      "link": "https://대단한돈까스.COM",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 416-2 2층",
+      "roadAddress": "서울특별시 성북구 보국문로 13-1 2층",
+      "mapx": "1270110604",
+      "mapy": "376058801"
+    },
+    {
+      "title": "삼양동우동집 <b>정릉</b>직영점",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 164-2 1층 삼양동우동집 정릉직영점",
+      "roadAddress": "서울특별시 성북구 보국문로 6 1층 삼양동우동집 정릉직영점",
+      "mapx": "1270116522",
+      "mapy": "376052008"
+    },
+    {
+      "title": "오즐김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 609-1 한신한진아파트 한진스포츠센타 오즐김밥 1층",
+      "roadAddress": "서울특별시 성북구 성북로4길 52 한신한진아파트 한진스포츠센타 오즐김밥 1층",
+      "mapx": "1270124705",
+      "mapy": "375966961"
+    },
+    {
+      "title": "오물오물",
+      "link": "",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 644-2 코오롱하늘채 상가 107호",
+      "roadAddress": "",
+      "mapx": "1270135470",
+      "mapy": "375994373"
+    },
+    {
+      "title": "박씨돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 373-4 성신프라자 103호",
+      "roadAddress": "서울특별시 성북구 솔샘로4길 46 성신프라자 103호",
+      "mapx": "1270072835",
+      "mapy": "376085674"
+    }
+  ]
+}

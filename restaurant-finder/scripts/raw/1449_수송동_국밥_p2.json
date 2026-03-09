@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "성가백암순대",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브 1층 성가백암순대",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브 1층 성가백암순대",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "해물솥밥모랑 종로구청점",
+      "link": "http://www.morang.co.kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-19 원당빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 55 원당빌딩 지하1층",
+      "mapx": "1269812080",
+      "mapy": "375732240"
+    },
+    {
+      "title": "이여곰탕 종로점",
+      "link": "https://clip.naver.com/@jongno_gomtang",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "mapx": "1269807361",
+      "mapy": "375727720"
+    },
+    {
+      "title": "김명자굴<b>국밥</b> 청진점",
+      "link": "",
+      "category": "한식>굴요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 91 목은관빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로5길 76 목은관빌딩 지하 1층",
+      "mapx": "1269806068",
+      "mapy": "375738119"
+    },
+    {
+      "title": "부산돼지<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B109호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B109호",
+      "mapx": "1269818155",
+      "mapy": "375723952"
+    }
+  ]
+}

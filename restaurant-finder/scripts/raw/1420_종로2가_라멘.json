@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미도인 <b>종로</b>",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "아오리의행방불명 광화문센트럴점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 23 2층",
+      "roadAddress": "서울특별시 종로구 종로 87-1 2층",
+      "mapx": "1269872925",
+      "mapy": "375704251"
+    },
+    {
+      "title": "계도 <b>종로</b>타워",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B212,212-1호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B212,212-1호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "멘츠루 을지로점",
+      "link": "https://www.instagram.com/menchuru_euljiro/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 158-6 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 26 1층",
+      "mapx": "1269916547",
+      "mapy": "375634193"
+    },
+    {
+      "title": "도마 유즈<b>라멘</b>",
+      "link": "https://www.instagram.com/yuzu_ramen2",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-6 유즈라멘",
+      "roadAddress": "서울특별시 종로구 북촌로2길 14 유즈라멘",
+      "mapx": "1269865232",
+      "mapy": "375778648"
+    }
+  ]
+}

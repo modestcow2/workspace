@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아맘픽 광화문",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 B1층 아맘",
+      "roadAddress": "서울특별시 중구 세종대로 136 B1층 아맘",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "카페쎄미 숭례문점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 그레이츠숭례 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 17 그레이츠숭례 지하1층",
+      "mapx": "1269732806",
+      "mapy": "375586371"
+    },
+    {
+      "title": "카페이마",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 139-8 일민미술관 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 152 일민미술관 1층",
+      "mapx": "1269776958",
+      "mapy": "375698359"
+    },
+    {
+      "title": "루드베키아",
+      "link": "https://www.instagram.com/rudbeckia.seoul",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 1층 별관 (KT 광화문빌딩 West)",
+      "roadAddress": "서울특별시 종로구 세종대로 178 1층 별관 (KT 광화문빌딩 West)",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    }
+  ]
+}

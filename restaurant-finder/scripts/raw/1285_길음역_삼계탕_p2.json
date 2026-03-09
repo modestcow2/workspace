@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "지호한방<b>삼계탕</b> 미아점",
+      "link": "https://jihofood.co.kr",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 165",
+      "roadAddress": "서울특별시 성북구 월계로 14",
+      "mapx": "1270318991",
+      "mapy": "376095455"
+    },
+    {
+      "title": "서울닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 530-17 지하1층",
+      "roadAddress": "서울특별시 성북구 길음로 2 지하1층",
+      "mapx": "1270248244",
+      "mapy": "376043085"
+    },
+    {
+      "title": "수오재 닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 132",
+      "roadAddress": "서울특별시 성북구 종암로 132",
+      "mapx": "1270332953",
+      "mapy": "376020240"
+    },
+    {
+      "title": "보승회관 <b>길음역</b>점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 롯데캐슬상가 지하1층 B56,B57호",
+      "roadAddress": "서울특별시 성북구 길음로 11 롯데캐슬상가 지하1층 B56,B57호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    },
+    {
+      "title": "논현<b>삼계탕</b>, 죽",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 230 127호",
+      "roadAddress": "서울특별시 성북구 종암로 167 127호",
+      "mapx": "1270309552",
+      "mapy": "376050947"
+    }
+  ]
+}

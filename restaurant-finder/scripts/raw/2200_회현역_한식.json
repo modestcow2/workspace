@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "희락갈치",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-34",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-6",
+      "mapx": "1269770942",
+      "mapy": "375599042"
+    },
+    {
+      "title": "중앙갈치식당",
+      "link": "http://cityfood.co.kr/h9/jung-angsigdang",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-37",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-12",
+      "mapx": "1269770794",
+      "mapy": "375597919"
+    },
+    {
+      "title": "남대문 전주식당",
+      "link": "http://Junju-sikdang.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-38",
+      "roadAddress": "서울특별시 중구 남대문시장길 18-7",
+      "mapx": "1269770275",
+      "mapy": "375598097"
+    },
+    {
+      "title": "닭진미강원집",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-138",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-20",
+      "mapx": "1269770411",
+      "mapy": "375595669"
+    }
+  ]
+}

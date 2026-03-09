@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "본가서대문<b>족발</b> 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 31-14",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 54",
+      "mapx": "1269668935",
+      "mapy": "375644552"
+    },
+    {
+      "title": "국밥생각 충정로점",
+      "link": "https://www.국밥생각.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 397-9 1~2층",
+      "roadAddress": "서울특별시 중구 중림로4길 8 1~2층",
+      "mapx": "1269641438",
+      "mapy": "375587731"
+    },
+    {
+      "title": "장인왕<b>족발</b>",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 37-18 1층 장인왕족발",
+      "roadAddress": "서울특별시 서대문구 경기대로 76 1층 장인왕족발",
+      "mapx": "1269646729",
+      "mapy": "375655490"
+    },
+    {
+      "title": "귀한<b>족발</b> 충정로점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 상가2동 110호",
+      "roadAddress": "서울특별시 중구 중림로 10 상가2동 110호",
+      "mapx": "1269659982",
+      "mapy": "375585253"
+    },
+    {
+      "title": "본가서대문<b>족발</b> 별관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 192 서대문디오빌 1층",
+      "roadAddress": "서울특별시 서대문구 충정로 59 서대문디오빌 1층",
+      "mapx": "1269649529",
+      "mapy": "375640436"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "Four Run Burger",
+      "link": "https://www.instagram.com/fourrun_burger_suwon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 528-3 2층 포런버거",
+      "roadAddress": "경기도 수원시 장안구 만석로19번길 11-7 2층 포런버거",
+      "mapx": "1269832142",
+      "mapy": "372955917"
+    },
+    {
+      "title": "맥도날드 수원 <b>성균관대</b>점",
+      "link": "https://www.mcdonalds.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 291-6",
+      "roadAddress": "경기도 수원시 장안구 서부로 2127",
+      "mapx": "1269711974",
+      "mapy": "372984889"
+    },
+    {
+      "title": "버거스올마이티 수원<b>성균관대</b>점",
+      "link": "https://blog.naver.com/burgersalmighty00",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 399-17 1층 101호 버거스올마이티",
+      "roadAddress": "경기도 수원시 장안구 율전로 92 1층 101호 버거스올마이티",
+      "mapx": "1269687207",
+      "mapy": "372976544"
+    },
+    {
+      "title": "맘스터치 수원<b>성균관대</b>점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 285-8",
+      "roadAddress": "경기도 수원시 장안구 서부로 2128",
+      "mapx": "1269718402",
+      "mapy": "372982299"
+    },
+    {
+      "title": "맘스터치 <b>성균관대</b>점",
+      "link": "http://momstouch.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 53 경영관 지하2층",
+      "roadAddress": "서울특별시 종로구 성균관로 41 경영관 지하2층",
+      "mapx": "1269925203",
+      "mapy": "375884466"
+    }
+  ]
+}

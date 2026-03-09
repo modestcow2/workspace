@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:51:25 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:32:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375768090"
     },
     {
+      "title": "엄용백 돼지구이 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-13",
+      "roadAddress": "서울특별시 종로구 율곡로4길 51",
+      "mapx": "1269812652",
+      "mapy": "375733835"
+    },
+    {
       "title": "호이식 종로 안국",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
       "mapx": "1269863069",
       "mapy": "375777908"
-    },
-    {
-      "title": "월하동",
-      "link": "https://www.instagram.com/wolhadong",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29 1층",
-      "roadAddress": "서울특별시 종로구 인사동8길 16-1 1층",
-      "mapx": "1269860099",
-      "mapy": "375742337"
     }
   ]
 }

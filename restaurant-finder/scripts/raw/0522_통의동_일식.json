@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해목 서촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 72",
+      "roadAddress": "서울특별시 종로구 자하문로 26-1",
+      "mapx": "1269720065",
+      "mapy": "375784252"
+    },
+    {
+      "title": "효자동초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 59 효자동초밥",
+      "roadAddress": "서울특별시 종로구 자하문로 14 효자동초밥",
+      "mapx": "1269724169",
+      "mapy": "375774163"
+    },
+    {
+      "title": "일일주",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 201동 108호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 201동 108호",
+      "mapx": "1269694864",
+      "mapy": "375749128"
+    },
+    {
+      "title": "스시호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
+    },
+    {
+      "title": "옐로우쿡",
+      "link": "http://www.yellowcook.com",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 104 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 32 1층",
+      "mapx": "1269717441",
+      "mapy": "375789833"
+    }
+  ]
+}

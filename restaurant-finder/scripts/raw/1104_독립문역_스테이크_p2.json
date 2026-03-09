@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "독립밀방 본점",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-11",
+      "roadAddress": "서울특별시 종로구 통일로12길 10-18",
+      "mapx": "1269606514",
+      "mapy": "375727375"
+    },
+    {
+      "title": "돈박",
+      "link": "http://instagram.com/donbak_",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 롯데캐슬상가 19호",
+      "roadAddress": "서울특별시 종로구 통일로 230 롯데캐슬상가 19호",
+      "mapx": "1269591987",
+      "mapy": "375737352"
+    },
+    {
+      "title": "가츠몽 경희궁자이점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍파동 199",
+      "roadAddress": "서울특별시 종로구 송월길 99",
+      "mapx": "1269625988",
+      "mapy": "375703273"
+    },
+    {
+      "title": "팜시티 테이블",
+      "link": "https://kardiaspace.com/place",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-348 1층",
+      "roadAddress": "서울특별시 종로구 경희궁3길 3-5 1층",
+      "mapx": "1269681054",
+      "mapy": "375730210"
+    },
+    {
+      "title": "파틱",
+      "link": "https://app.catchtable.co.kr/ct/shop/patic",
+      "category": "음식점>프랑스음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 29-3 1층 파틱",
+      "roadAddress": "서울특별시 종로구 옥인3길 16 1층 파틱",
+      "mapx": "1269658863",
+      "mapy": "375806846"
+    }
+  ]
+}

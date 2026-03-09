@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "족삼리",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 115-5 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
+      "mapx": "1269483970",
+      "mapy": "375854364"
+    },
+    {
+      "title": "유진감자탕",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-12",
+      "roadAddress": "서울특별시 서대문구 통일로 442-5",
+      "mapx": "1269448356",
+      "mapy": "375887902"
+    },
+    {
+      "title": "귀한족발 홍제점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 474 상가동 1층 5호 귀한족발 홍제점",
+      "roadAddress": "서울특별시 서대문구 세무서8길 30 상가동 1층 5호 귀한족발 홍제점",
+      "mapx": "1269466541",
+      "mapy": "375905858"
+    },
+    {
+      "title": "서대문응암족발 삼계탕",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-102 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 2 1층",
+      "mapx": "1269433190",
+      "mapy": "375885820"
+    },
+    {
+      "title": "홍제상회",
+      "link": "https://www.instagram.com/hongje_store",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-5 1층",
+      "roadAddress": "서울특별시 서대문구 세무서길 67 1층",
+      "mapx": "1269464261",
+      "mapy": "375909638"
+    }
+  ]
+}

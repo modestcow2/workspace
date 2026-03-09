@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "어부몽 인사점",
+      "link": "https://www.instagram.com/abumong.2024",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "양반댁",
+      "link": "http://instagram.com/yangbandeck",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 193-5 양반댁",
+      "roadAddress": "서울특별시 종로구 인사동길 19-18 양반댁",
+      "mapx": "1269859113",
+      "mapy": "375723316"
+    },
+    {
+      "title": "<b>인사동</b> 촌",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 84-17",
+      "roadAddress": "서울특별시 종로구 인사동14길 19",
+      "mapx": "1269851231",
+      "mapy": "375750012"
+    },
+    {
+      "title": "구테이블 <b>한정식</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 86",
+      "roadAddress": "서울특별시 종로구 인사동14길 41",
+      "mapx": "1269848521",
+      "mapy": "375751535"
+    },
+    {
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-27",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
+      "mapx": "1269840246",
+      "mapy": "375753027"
+    }
+  ]
+}

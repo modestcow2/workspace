@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우즈 웨일",
+      "link": "https://app.catchtable.co.kr/ct/shop/ooze.whale_bar?from=share&type=VISIT_RESERVATION",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 71-4 bar 우즈 웨일",
+      "roadAddress": "서울특별시 종로구 종로 88 bar 우즈 웨일",
+      "mapx": "1269871529",
+      "mapy": "375699999"
+    },
+    {
+      "title": "애슐리퀸즈 종각역점",
+      "link": "https://www.instagram.com/your_ashley",
+      "category": "음식점>패밀리레스토랑",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
+      "mapx": "1269836843",
+      "mapy": "375705758"
+    },
+    {
+      "title": "미도인 <b>종로</b>",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "솔솥 <b>종로</b>타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Solsotpotricehouse",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하1층 B108호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하1층 B108호",
+      "mapx": "1269835822",
+      "mapy": "375707034"
+    },
+    {
+      "title": "랄랄라클럽",
+      "link": "http://instagram.com/lallalla_350",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하1층 106호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하1층 106호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    }
+  ]
+}

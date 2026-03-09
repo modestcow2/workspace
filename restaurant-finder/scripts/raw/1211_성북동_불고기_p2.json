@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "손가네곰국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 128-16 손가네곰국수",
+      "roadAddress": "서울특별시 성북구 성북로15길 8 손가네곰국수",
+      "mapx": "1270003774",
+      "mapy": "375931501"
+    },
+    {
+      "title": "자연에서왔소 본점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 177-36",
+      "roadAddress": "서울특별시 성북구 성북로 36",
+      "mapx": "1270038405",
+      "mapy": "375911829"
+    },
+    {
+      "title": "<b>성북동</b>돼지갈비 본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 114-2",
+      "roadAddress": "서울특별시 성북구 성북로 115",
+      "mapx": "1269961462",
+      "mapy": "375933105"
+    },
+    {
+      "title": "중경당",
+      "link": "http://instagram.com/mothersfood_cooking_class/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 87 1층 중경당",
+      "roadAddress": "서울특별시 성북구 창경궁로43길 30 1층 중경당",
+      "mapx": "1270040726",
+      "mapy": "375893443"
+    },
+    {
+      "title": "담벼락",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 5 1층담벼락식당",
+      "roadAddress": "서울특별시 성북구 창경궁로35길 95 1층담벼락식당",
+      "mapx": "1270045023",
+      "mapy": "375880979"
+    }
+  ]
+}

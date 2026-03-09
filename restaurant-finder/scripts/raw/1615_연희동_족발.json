@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "원할머니보쌈<b>족발</b> 연희점",
+      "link": "https://wonandone.co.kr/bossam/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 134-2",
+      "roadAddress": "서울특별시 서대문구 증가로 5",
+      "mapx": "1269317197",
+      "mapy": "375689214"
+    },
+    {
+      "title": "박만배아리랑보쌈 연희점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-10 1층좌측호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
+      "mapx": "1269285120",
+      "mapy": "375657431"
+    },
+    {
+      "title": "연희 LAB",
+      "link": "https://www.instagram.com/yeonhui_lab?igsh=dnpiZ2ZlOXI0MGZ5&utm_source=qr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-6 2층 303호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 7-17 2층 303호",
+      "mapx": "1269281341",
+      "mapy": "375663197"
+    },
+    {
+      "title": "고려왕<b>족발</b>보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 86-2",
+      "roadAddress": "서울특별시 서대문구 연희로 149",
+      "mapx": "1269338149",
+      "mapy": "375708925"
+    },
+    {
+      "title": "큰손왕<b>족발</b>보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 80-7",
+      "roadAddress": "서울특별시 서대문구 연희로 158",
+      "mapx": "1269348394",
+      "mapy": "375712290"
+    }
+  ]
+}

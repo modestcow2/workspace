@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일월카츠 안국점",
+      "link": "https://www.instagram.com/ill_wall_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 132 1층",
+      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
+      "mapx": "1269851501",
+      "mapy": "375773083"
+    },
+    {
+      "title": "스미레<b>돈카츠</b> 안국점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-32",
+      "roadAddress": "서울특별시 종로구 북촌로 14-1",
+      "mapx": "1269856575",
+      "mapy": "375781850"
+    },
+    {
+      "title": "미술관옆 돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-6 미술관옆돈까스",
+      "roadAddress": "서울특별시 종로구 율곡로3길 83 미술관옆돈까스",
+      "mapx": "1269821105",
+      "mapy": "375793632"
+    },
+    {
+      "title": "소소한행복",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-23",
+      "roadAddress": "서울특별시 종로구 율곡로3길 78",
+      "mapx": "1269822499",
+      "mapy": "375791400"
+    },
+    {
+      "title": "일월카츠 계동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ilwolkatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 1층 일월카츠",
+      "roadAddress": "서울특별시 종로구 계동길 17 1층 일월카츠",
+      "mapx": "1269865352",
+      "mapy": "375781458"
+    }
+  ]
+}

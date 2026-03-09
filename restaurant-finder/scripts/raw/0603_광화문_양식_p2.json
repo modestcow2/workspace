@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
+    },
+    {
+      "title": "익선취향",
+      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-70 1층",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
+      "mapx": "1269895934",
+      "mapy": "375735970"
+    },
+    {
+      "title": "독립밀방 익선",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
+      "mapx": "1269902619",
+      "mapy": "375740791"
+    },
+    {
+      "title": "퍼블릭도원 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/publicdowon",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 189-2 2층",
+      "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
+      "mapx": "1269921258",
+      "mapy": "375742436"
+    },
+    {
+      "title": "살롱순라 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
+      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
+      "mapx": "1269916936",
+      "mapy": "375741979"
+    }
+  ]
+}

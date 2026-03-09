@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뚱낙원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 41-1 뚱낙원",
+      "roadAddress": "서울특별시 종로구 자하문로2길 15 뚱낙원",
+      "mapx": "1269735625",
+      "mapy": "375765667"
+    },
+    {
+      "title": "만석꾼",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 43-3",
+      "roadAddress": "서울특별시 종로구 자하문로2길 9",
+      "mapx": "1269732552",
+      "mapy": "375765769"
+    },
+    {
+      "title": "옥이네밥집포차 서촌 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2 2층 옥이네",
+      "roadAddress": "서울특별시 종로구 자하문로 20 2층 옥이네",
+      "mapx": "1269722820",
+      "mapy": "375779035"
+    },
+    {
+      "title": "국수명가",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 49-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 6 1층",
+      "mapx": "1269726940",
+      "mapy": "375766793"
+    },
+    {
+      "title": "뼈탄집 서촌본점",
+      "link": "http://www.bornpig.co.kr/index2.php",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 9-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13",
+      "mapx": "1269717062",
+      "mapy": "375764468"
+    }
+  ]
+}

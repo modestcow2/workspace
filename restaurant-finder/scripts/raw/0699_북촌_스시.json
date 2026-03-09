@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "키즈나",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 159",
+      "roadAddress": "서울특별시 종로구 율곡로1길 78",
+      "mapx": "1269816146",
+      "mapy": "375788338"
+    },
+    {
+      "title": "이안초밥 안녕인사동점",
+      "link": "https://www.instagram.com/sushi_ian.kr/?hl=ko",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 지상 M층 5,6번매장",
+      "roadAddress": "서울특별시 종로구 인사동길 49 지상 M층 5,6번매장",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "삼동소바 <b>북촌</b>점",
+      "link": "https://www.instagram.com/samdong_bukchon",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 13 비03호",
+      "roadAddress": "서울특별시 종로구 계동길 119-1 비03호",
+      "mapx": "1269866762",
+      "mapy": "375825823"
+    },
+    {
+      "title": "곰초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 100-2 1층",
+      "roadAddress": "서울특별시 종로구 계동길 55 1층",
+      "mapx": "1269866190",
+      "mapy": "375797830"
+    },
+    {
+      "title": "온재",
+      "link": "https://app.catchtable.co.kr/ct/shop/Onjae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8 2층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54 2층",
+      "mapx": "1269820563",
+      "mapy": "375797533"
+    }
+  ]
+}

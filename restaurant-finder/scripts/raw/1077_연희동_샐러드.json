@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오트 연희",
+      "link": "https://www.instagram.com/oatt_brunch",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 89-50 오트",
+      "roadAddress": "서울특별시 서대문구 연희로25길 95 오트",
+      "mapx": "1269322656",
+      "mapy": "375695395"
+    },
+    {
+      "title": "산스",
+      "link": "https://www.instagram.com/sans_meals",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 708-3 1층",
+      "roadAddress": "서울특별시 서대문구 홍연4길 33 1층",
+      "mapx": "1269289358",
+      "mapy": "375754168"
+    },
+    {
+      "title": "니바하우스",
+      "link": "https://www.instagram.com/nivahouse_?igsh=MWZ2eGF0bTlrbTl5MA==",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 133-26 1층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 41 1층",
+      "mapx": "1269310265",
+      "mapy": "375684631"
+    },
+    {
+      "title": "새라울",
+      "link": "https://www.instagram.com/saeraul_yeonhui",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 90-1",
+      "roadAddress": "서울특별시 서대문구 연희로27길 99",
+      "mapx": "1269321693",
+      "mapy": "375703054"
+    },
+    {
+      "title": "마우디 브런치",
+      "link": "https://www.instagram.com/maudie_brunch_bar",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 194-30 브라운스톤 A 102",
+      "roadAddress": "서울특별시 서대문구 연희로 82 브라운스톤 A 102",
+      "mapx": "1269300749",
+      "mapy": "375654150"
+    }
+  ]
+}

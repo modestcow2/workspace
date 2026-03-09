@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "함평집 서울<b>시청</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
+      "mapx": "1269736340",
+      "mapy": "375622716"
+    },
+    {
+      "title": "북창옥 <b>시청</b> 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 60 1~4층",
+      "roadAddress": "서울특별시 중구 남대문로1길 38 1~4층",
+      "mapx": "1269774247",
+      "mapy": "375627917"
+    },
+    {
+      "title": "본죽&amp;<b>비빔밥</b> 서울<b>시청</b>점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF102",
+      "category": "음식점>죽",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 센터플레이스 2층 203호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 센터플레이스 2층 203호",
+      "mapx": "1269803692",
+      "mapy": "375670959"
+    },
+    {
+      "title": "쭈담 <b>시청</b>직영점",
+      "link": "",
+      "category": "한식>주꾸미요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 1층 113호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 1층 113호",
+      "mapx": "1269804939",
+      "mapy": "375672094"
+    },
+    {
+      "title": "육미곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 170-1 2층 313",
+      "roadAddress": "서울특별시 중구 다동길 16 2층(다동) 313",
+      "mapx": "1269801686",
+      "mapy": "375677489"
+    }
+  ]
+}

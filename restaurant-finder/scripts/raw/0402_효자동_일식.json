@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:56 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:32:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375787714"
     },
     {
-      "title": "진심",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 44 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
-      "mapx": "1269688524",
-      "mapy": "375798659"
-    },
-    {
       "title": "스시누하",
       "link": "https://catchtable.co.kr/sushi_nuha",
       "category": "음식점>일식>일식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
       "mapx": "1269686694",
       "mapy": "375791432"
+    },
+    {
+      "title": "진심",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 44 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
+      "mapx": "1269688524",
+      "mapy": "375798659"
     },
     {
       "title": "오카즈",

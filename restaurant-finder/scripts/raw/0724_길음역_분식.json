@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "불난집",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 877-184 길음 동 비동1층",
+      "roadAddress": "서울특별시 성북구 동소문로 225-9 (길음 동) 비동1층",
+      "mapx": "1270215848",
+      "mapy": "376023044"
+    },
+    {
+      "title": "떡볶이 대첩",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 132 우림카이저팰리스 1층 106호",
+      "roadAddress": "서울특별시 성북구 종암로 132 우림카이저팰리스 1층 106호",
+      "mapx": "1270332904",
+      "mapy": "376019245"
+    },
+    {
+      "title": "오르막길 떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 48-15 송암빌딩 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 179-48 송암빌딩 1층",
+      "mapx": "1270208810",
+      "mapy": "375983548"
+    },
+    {
+      "title": "부산어묵",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 877-197 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 225-13 1층",
+      "mapx": "1270213912",
+      "mapy": "376022972"
+    },
+    {
+      "title": "훈장만두 길음점",
+      "link": "https://www.instagram.com/kosokhwan",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1276 상가 102동 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 248 상가 102동 1층",
+      "mapx": "1270240512",
+      "mapy": "376032145"
+    }
+  ]
+}

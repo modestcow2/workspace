@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대명해장 <b>충무로</b> 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 17-2 1층",
+      "roadAddress": "서울특별시 중구 퇴계로 210-12 1층",
+      "mapx": "1269949936",
+      "mapy": "375608184"
+    },
+    {
+      "title": "한사리감자탕&amp;뼈구이 <b>충무로</b>점",
+      "link": "",
+      "category": "음식점>한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로4가 116-10 2층",
+      "roadAddress": "서울특별시 중구 퇴계로 220 2층",
+      "mapx": "1269962244",
+      "mapy": "375615265"
+    },
+    {
+      "title": "팔팔너구리해장 을지로3가역점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 17-4 1층",
+      "roadAddress": "서울특별시 중구 충무로 46-1 1층",
+      "mapx": "1269929866",
+      "mapy": "375651794"
+    },
+    {
+      "title": "강가뼈<b>해장국</b>",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 49-5 1층 강가",
+      "roadAddress": "서울특별시 중구 수표로 15 1층 강가",
+      "mapx": "1269902451",
+      "mapy": "375626004"
+    },
+    {
+      "title": "골수",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-16 1, 2층",
+      "roadAddress": "서울특별시 중구 을지로14길 19-3 1, 2층",
+      "mapx": "1269923160",
+      "mapy": "375654255"
+    }
+  ]
+}

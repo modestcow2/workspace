@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "독립밀방 <b>서울역</b>",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-205 서울역사 4층 독립밀방",
+      "roadAddress": "서울특별시 용산구 한강대로 405 서울역사 4층 독립밀방",
+      "mapx": "1269708885",
+      "mapy": "375542027"
+    },
+    {
+      "title": "콤바크",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-7 101-4호 콤바크",
+      "roadAddress": "서울특별시 중구 만리재로 193 101-4호 콤바크",
+      "mapx": "1269674083",
+      "mapy": "375551628"
+    },
+    {
+      "title": "심퍼티쿠시 <b>서울역</b>점",
+      "link": "https://szimpatikus.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "어슬 서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/eoseulcheongdam_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-17 에너지플러스 서울로 13층",
+      "roadAddress": "서울특별시 중구 퇴계로 15 에너지플러스 서울로 13층",
+      "mapx": "1269745560",
+      "mapy": "375570296"
+    },
+    {
+      "title": "제이드앤워터 <b>서울역</b>점",
+      "link": "https://blog.naver.com/jadeandwater_mkt",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-17 2층 202호",
+      "roadAddress": "서울특별시 중구 퇴계로 15 2층 202호",
+      "mapx": "1269745560",
+      "mapy": "375570296"
+    }
+  ]
+}

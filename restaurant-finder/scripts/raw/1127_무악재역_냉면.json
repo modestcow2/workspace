@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우리<b>냉면</b> 홍제점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-241",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 1",
+      "mapx": "1269436999",
+      "mapy": "375883236"
+    },
+    {
+      "title": "안덕",
+      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-53 1층",
+      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
+      "mapx": "1269696346",
+      "mapy": "375815060"
+    },
+    {
+      "title": "인왕골",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 295-22",
+      "roadAddress": "서울특별시 서대문구 인왕시장길 42",
+      "mapx": "1269442597",
+      "mapy": "375914180"
+    },
+    {
+      "title": "도깨비칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 198 도깨비칼국수",
+      "roadAddress": "서울특별시 서대문구 영천시장길 40 도깨비칼국수",
+      "mapx": "1269614284",
+      "mapy": "375703707"
+    },
+    {
+      "title": "능라밥상",
+      "link": "https://www.facebook.com/",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 1-64 능라밥상",
+      "roadAddress": "서울특별시 종로구 사직로2길 14 능라밥상",
+      "mapx": "1269640183",
+      "mapy": "375729551"
+    }
+  ]
+}

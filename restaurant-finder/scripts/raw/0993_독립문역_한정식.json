@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "초장집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 78 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 52-10 1층",
+      "mapx": "1269618726",
+      "mapy": "375700098"
+    },
+    {
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688756",
+      "mapy": "375768581"
+    },
+    {
+      "title": "본도시락 서대문점",
+      "link": "http://www.bonif.co.kr/bondosirak",
+      "category": "음식점>도시락,컵밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 232 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 149-1 1층",
+      "mapx": "1269646782",
+      "mapy": "375675644"
+    },
+    {
+      "title": "한식손만두",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 233 1층",
+      "roadAddress": "서울특별시 서대문구 통일로9길 4 1층",
+      "mapx": "1269647247",
+      "mapy": "375672730"
+    },
+    {
+      "title": "마라",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-162 1층",
+      "roadAddress": "서울특별시 종로구 경희궁길 41-1 1층",
+      "mapx": "1269691862",
+      "mapy": "375730187"
+    }
+  ]
+}

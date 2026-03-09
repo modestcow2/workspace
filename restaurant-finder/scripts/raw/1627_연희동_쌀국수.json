@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고렝 연희점",
+      "link": "https://blog.naver.com/spell1004",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 133-30 1층",
+      "roadAddress": "서울특별시 서대문구 증가로 13-9 1층",
+      "mapx": "1269310799",
+      "mapy": "375690653"
+    },
+    {
+      "title": "하노이의아침 연희점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-16 1층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 10 1층",
+      "mapx": "1269290601",
+      "mapy": "375660681"
+    },
+    {
+      "title": "사케아이",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 28-11 1,2층",
+      "roadAddress": "서울특별시 서대문구 성산로17길 30-14 1,2층",
+      "mapx": "1269334217",
+      "mapy": "375637035"
+    },
+    {
+      "title": "타이이펙트",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 432 3층",
+      "roadAddress": "서울특별시 서대문구 성산로 329-2 3층",
+      "mapx": "1269269180",
+      "mapy": "375664203"
+    },
+    {
+      "title": "코지아시안테이블",
+      "link": "",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 700 1층 106호",
+      "roadAddress": "서울특별시 서대문구 연희로 204 1층 106호",
+      "mapx": "1269356043",
+      "mapy": "375751310"
+    }
+  ]
+}

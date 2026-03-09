@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동화고옥 <b>을지로</b>점",
+      "link": "https://openine.com/동화고옥",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 323 1층 123호",
+      "roadAddress": "서울특별시 중구 을지로 170 1층 123호",
+      "mapx": "1269978993",
+      "mapy": "375659332"
+    },
+    {
+      "title": "노보텔 앰배서더 서울 동대문 푸드 익스체인지",
+      "link": "https://www.instagram.com/novotel_dongdaemun/",
+      "category": "음식점>뷔페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 58-5 노보텔 앰배서더 서울 동대문 20층 푸드 익스체인지",
+      "roadAddress": "서울특별시 중구 을지로 238 노보텔 앰배서더 서울 동대문 20층 푸드 익스체인지",
+      "mapx": "1270044113",
+      "mapy": "375662974"
+    },
+    {
+      "title": "해초섬 현대시티아울렛동대문점",
+      "link": "http://www.ehyundai.com/newPortal/outlet/DN/DN000000_V.do?branchCd=B00173000",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 현대시티아울렛 9층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 현대시티아울렛 9층",
+      "mapx": "1270078685",
+      "mapy": "375689544"
+    },
+    {
+      "title": "한식공간 소반",
+      "link": "https://app.catchtable.co.kr/ct/shop/hansikgonggansoban",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 84-4 2층",
+      "roadAddress": "서울특별시 중구 마른내로 13 2층",
+      "mapx": "1269893575",
+      "mapy": "375648861"
+    },
+    {
+      "title": "꽃게나라",
+      "link": "",
+      "category": "한식>게요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-40 213호, 214호, 215호",
+      "roadAddress": "서울특별시 중구 명동7길 21 213호, 214호, 215호",
+      "mapx": "1269838787",
+      "mapy": "375647371"
+    }
+  ]
+}

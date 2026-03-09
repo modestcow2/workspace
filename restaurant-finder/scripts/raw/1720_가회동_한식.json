@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "호이식 종로 안국",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-7 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
+      "mapx": "1269863069",
+      "mapy": "375777908"
+    },
+    {
+      "title": "애호락 안국본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
+      "title": "신라제면 안국점",
+      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
+      "mapx": "1269862338",
+      "mapy": "375782217"
+    },
+    {
+      "title": "안암",
+      "link": "http://instagram.com/anam_inanguk",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4 안암",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
+      "mapx": "1269844784",
+      "mapy": "375794197"
+    },
+    {
+      "title": "진작 카키",
+      "link": "https://naver.me/xWzWzIYt",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-44 진작카키 안국점",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 38 진작카키 안국점",
+      "mapx": "1269871165",
+      "mapy": "375794798"
+    }
+  ]
+}

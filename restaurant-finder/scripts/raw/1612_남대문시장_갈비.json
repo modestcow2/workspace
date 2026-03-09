@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "금성회관 서울시청직영점",
+      "link": "https://www.instagram.com/gumseong5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
+      "mapx": "1269774892",
+      "mapy": "375623316"
+    },
+    {
+      "title": "대보정 서울시청역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "오공일 명동점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로2가 111-1 2층",
+      "roadAddress": "서울특별시 중구 남대문로 55 2층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
+    },
+    {
+      "title": "양미옥 <b>남대문</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 95-1",
+      "roadAddress": "서울특별시 중구 남대문로 27-2",
+      "mapx": "1269787856",
+      "mapy": "375614278"
+    },
+    {
+      "title": "교대<b>갈비</b>집 시청점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyodaegalbi_sicheong",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 20-1 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 31 2층",
+      "mapx": "1269772785",
+      "mapy": "375624314"
+    }
+  ]
+}

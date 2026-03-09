@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>스시</b>산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
+    },
+    {
+      "title": "진가와 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinkawagwm",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 진가와",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 진가와",
+      "mapx": "1269790252",
+      "mapy": "375747276"
+    },
+    {
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    },
+    {
+      "title": "오마카세 오사이초밥 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "코끼리초밥 광화문점",
+      "link": "https://blog.naver.com/kokirisushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    }
+  ]
+}

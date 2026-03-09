@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "을지면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 55-1",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 12",
+      "mapx": "1269886066",
+      "mapy": "375736812"
+    },
+    {
+      "title": "유진식당",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 221",
+      "roadAddress": "서울특별시 종로구 종로17길 40",
+      "mapx": "1269882793",
+      "mapy": "375720328"
+    },
+    {
+      "title": "서관면옥 신세계백화점 본점",
+      "link": "https://www.instagram.com/seogwanmyenog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 디 에스테이트 14층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 디 에스테이트 14층",
+      "mapx": "1269806346",
+      "mapy": "375603977"
+    },
+    {
+      "title": "명동함흥면옥 본점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 26-1",
+      "roadAddress": "서울특별시 중구 명동10길 35-19",
+      "mapx": "1269856749",
+      "mapy": "375627749"
+    }
+  ]
+}

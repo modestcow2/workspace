@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도우룸 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/doughroom?type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 2층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 2층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "파이프그라운드 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/pipeground_gwanghwamun",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "광화문나폴리",
+      "link": "https://www.instagram.com/gwanghwamun_napoli?igsh=MWcycXBpbXZnaDF3dg%3D%3D&utm_source=qr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 173-1 1층, 2층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 24-4 1층, 2층",
+      "mapx": "1269759158",
+      "mapy": "375714544"
+    },
+    {
+      "title": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100",
+      "roadAddress": "서울특별시 종로구 세종대로 178",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "키보아츠아츠 광화문",
+      "link": "https://www.instagram.com/keebo.co",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 West동 지하1층 B108-1호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    }
+  ]
+}

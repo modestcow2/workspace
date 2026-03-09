@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "장안<b>삼계탕</b>",
+      "link": "https://blog.naver.com/jangan1971",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 53 장안삼계탕",
+      "roadAddress": "서울특별시 중구 세종대로18길 8 장안삼계탕",
+      "mapx": "1269775163",
+      "mapy": "375637587"
+    },
+    {
+      "title": "보승회관 시청점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-2",
+      "roadAddress": "서울특별시 중구 세종대로 66",
+      "mapx": "1269765651",
+      "mapy": "375621823"
+    },
+    {
+      "title": "고구려전통<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 169-2 삼선빌딩1층",
+      "roadAddress": "서울특별시 중구 퇴계로 36 삼선빌딩1층",
+      "mapx": "1269772107",
+      "mapy": "375573423"
+    },
+    {
+      "title": "VIP참치 북창점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 134-1 은성빌딩 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 6 은성빌딩 2층",
+      "mapx": "1269776716",
+      "mapy": "375613585"
+    },
+    {
+      "title": "고려<b>삼계탕</b>",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 55-3",
+      "roadAddress": "서울특별시 중구 서소문로11길 1",
+      "mapx": "1269729232",
+      "mapy": "375629681"
+    }
+  ]
+}

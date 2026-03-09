@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "행화촌",
+      "link": "http://henghwachon.cityfood.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 107-1",
+      "roadAddress": "서울특별시 중구 남대문로 52-5",
+      "mapx": "1269817245",
+      "mapy": "375621053"
+    },
+    {
+      "title": "유가",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 117-5",
+      "roadAddress": "서울특별시 중구 퇴계로12길 68",
+      "mapx": "1269814671",
+      "mapy": "375566901"
+    },
+    {
+      "title": "개화 <b>명동</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 107-1 대한문화예술공사",
+      "roadAddress": "서울특별시 중구 남대문로 52-5 대한문화예술공사",
+      "mapx": "1269818497",
+      "mapy": "375621168"
+    },
+    {
+      "title": "꽁시면관 본점",
+      "link": "http://instagram.com/ggongci_ggongci",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 22-13 꽁시면관",
+      "roadAddress": "서울특별시 중구 명동2길 45 꽁시면관",
+      "mapx": "1269832230",
+      "mapy": "375613839"
+    },
+    {
+      "title": "일품향",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 105",
+      "roadAddress": "서울특별시 중구 남대문로 52-13",
+      "mapx": "1269821940",
+      "mapy": "375621200"
+    }
+  ]
+}

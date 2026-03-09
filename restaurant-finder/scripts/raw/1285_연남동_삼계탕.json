@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광계",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-72 1.5층",
+      "roadAddress": "서울특별시 마포구 연희로1길 55 1.5층",
+      "mapx": "1269262559",
+      "mapy": "375613264"
+    },
+    {
+      "title": "연남회관",
+      "link": "https://sir449",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 259-10 1층 연남회관",
+      "roadAddress": "서울특별시 마포구 동교로 239 1층 연남회관",
+      "mapx": "1269241152",
+      "mapy": "375612570"
+    },
+    {
+      "title": "수을관",
+      "link": "https://catchtable.co.kr/sooeulgwan",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-59 2.5층",
+      "roadAddress": "서울특별시 마포구 동교로38길 19 2.5층",
+      "mapx": "1269254641",
+      "mapy": "375620305"
+    },
+    {
+      "title": "최사장네닭",
+      "link": "https://blog.naver.com/3349242",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-17 1층 최사장네닭",
+      "roadAddress": "서울특별시 마포구 연남로 4-1 1층 최사장네닭",
+      "mapx": "1269236465",
+      "mapy": "375603466"
+    },
+    {
+      "title": "온행",
+      "link": "https://www.instagram.com/onhaeng__",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 224-14 1층 101호",
+      "roadAddress": "서울특별시 마포구 동교로52길 4-3 1층 101호",
+      "mapx": "1269267885",
+      "mapy": "375639580"
+    }
+  ]
+}

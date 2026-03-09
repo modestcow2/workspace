@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "밀과보리",
+      "link": "https://www.instagram.com/milbori_",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-47 1층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 32-1 1층",
+      "mapx": "1269875023",
+      "mapy": "375794104"
+    },
+    {
+      "title": "삼지",
+      "link": "https://blog.naver.com/samgimoon1000",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
+      "mapx": "1269860086",
+      "mapy": "375782908"
+    },
+    {
+      "title": "천하보쌈",
+      "link": "http://instagram.com/chunhabs_official",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 원서동 144 천하보쌈",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 8 천하보쌈",
+      "mapx": "1269888545",
+      "mapy": "375794396"
+    },
+    {
+      "title": "돌담집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-5",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 22",
+      "mapx": "1269880436",
+      "mapy": "375794571"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    }
+  ]
+}

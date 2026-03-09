@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "레스케이프 팔레드 신",
+      "link": "http://www.lescapehotel.com",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 210 레스케이프 호텔 6층",
+      "roadAddress": "서울특별시 중구 퇴계로 67 레스케이프 호텔 6층",
+      "mapx": "1269795727",
+      "mapy": "375600322"
+    },
+    {
+      "title": "홍복",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 202-5 일신빌딩 1층 - 5층",
+      "roadAddress": "서울특별시 중구 남대문시장길 73-3 일신빌딩 1층 - 5층",
+      "mapx": "1269800814",
+      "mapy": "375609820"
+    },
+    {
+      "title": "더퍼스트 서래향 시청점",
+      "link": "https://www.instagram.com/verefood_official",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 94 1층 101호, 102호, 103호, 104호",
+      "roadAddress": "서울특별시 중구 남대문로 27 1층 101호, 102호, 103호, 104호",
+      "mapx": "1269785594",
+      "mapy": "375613479"
+    },
+    {
+      "title": "더차이 서소문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 B1층 B2호 더차이",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 B1층 B2호 더차이",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "자매식당",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-23 2층",
+      "roadAddress": "서울특별시 중구 남대문시장2가길 6-9 2층",
+      "mapx": "1269769660",
+      "mapy": "375592263"
+    }
+  ]
+}

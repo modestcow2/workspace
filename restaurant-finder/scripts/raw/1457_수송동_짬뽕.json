@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "베이징코야",
+      "link": "http://www.베이징코야.com/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 110 연합뉴스 빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 25 연합뉴스 빌딩 지하 1층",
+      "mapx": "1269802390",
+      "mapy": "375745591"
+    },
+    {
+      "title": "홍복성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 123~127호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 123~127호",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "백년가<b>짬뽕</b> 광화문점",
+      "link": "",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 지하1층 백년가짬뽕",
+      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 지하1층 백년가짬뽕",
+      "mapx": "1269789959",
+      "mapy": "375739044"
+    },
+    {
+      "title": "크리스탈제이드 광화문상하이팰리스점",
+      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
+      "mapx": "1269814479",
+      "mapy": "375750528"
+    },
+    {
+      "title": "금문도",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 80-6 지하1층",
+      "roadAddress": "서울특별시 종로구 종로5길 58 지하1층",
+      "mapx": "1269803556",
+      "mapy": "375729125"
+    }
+  ]
+}

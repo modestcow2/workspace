@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>성북동</b>누룽지백숙",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 281-1",
+      "roadAddress": "서울특별시 성북구 성북로31길 9",
+      "mapx": "1269905008",
+      "mapy": "375945857"
+    },
+    {
+      "title": "자연에서왔소 본점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 177-36",
+      "roadAddress": "서울특별시 성북구 성북로 36",
+      "mapx": "1270038405",
+      "mapy": "375911829"
+    },
+    {
+      "title": "쌍다리돼지불백 본점",
+      "link": "https://www.instagram.com/ssangdari/",
+      "category": "육류,고기요리>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 109-2",
+      "roadAddress": "서울특별시 성북구 성북로23길 4",
+      "mapx": "1269958088",
+      "mapy": "375935292"
+    },
+    {
+      "title": "선동 보리밥",
+      "link": "",
+      "category": "한식>보리밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 88 선동보리밥",
+      "roadAddress": "서울특별시 성북구 성북로 134-4 선동보리밥",
+      "mapx": "1269951505",
+      "mapy": "375947215"
+    },
+    {
+      "title": "고석환손만두전골",
+      "link": "https://blog.naver.com/gsh6082",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 138 우리빌딩 1층",
+      "roadAddress": "서울특별시 성북구 성북로2길 55 우리빌딩 1층",
+      "mapx": "1270085954",
+      "mapy": "375901111"
+    }
+  ]
+}

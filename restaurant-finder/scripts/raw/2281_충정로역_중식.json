@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "세양원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 368 B1F (종근당 건물 지하 1층)아케이드 내",
+      "roadAddress": "서울특별시 서대문구 충정로 8 B1F (종근당 건물 지하 1층)아케이드 내",
+      "mapx": "1269632889",
+      "mapy": "375595726"
+    },
+    {
+      "title": "중림각",
+      "link": "https://blog.naver.com/kjh0430",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 61-4 1동1층,2층",
+      "roadAddress": "서울특별시 중구 청파로 443 1동1층,2층",
+      "mapx": "1269686283",
+      "mapy": "375589824"
+    },
+    {
+      "title": "공화춘",
+      "link": "https://gonghwachun.mycafe24.com/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 471 2층",
+      "roadAddress": "서울특별시 중구 청파로 457-1 2층",
+      "mapx": "1269678239",
+      "mapy": "375601963"
+    },
+    {
+      "title": "차이로드",
+      "link": "http://instagram.com/chai__road",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 465 충정리시온 1층 107호(충정로역3번출구 옆 30m)",
+      "roadAddress": "서울특별시 서대문구 서소문로 27 충정리시온 1층 107호(충정로역3번출구 옆 30m)",
+      "mapx": "1269651018",
+      "mapy": "375603814"
+    },
+    {
+      "title": "서문객잔",
+      "link": "https://www.instagram.com/seomun_89?igsh=Z2M5bHV6a3o2dGJ4&utm_source=qr",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 78-14 1~2층",
+      "roadAddress": "서울특별시 서대문구 충정로11길 21-4 1~2층",
+      "mapx": "1269650543",
+      "mapy": "375653162"
+    }
+  ]
+}

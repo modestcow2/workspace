@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "세븐패티버거 <b>을지로</b>본점",
+      "link": "https://www.instagram.com/se7enpattyburger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 71-2 1층 101호",
+      "roadAddress": "서울특별시 중구 을지로 177 1층 101호",
+      "mapx": "1269975634",
+      "mapy": "375668920"
+    },
+    {
+      "title": "니즈버거 <b>을지로</b>점",
+      "link": "https://www.instagram.com/needs_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 84-4 1층 니즈버거",
+      "roadAddress": "서울특별시 중구 마른내로 13 1층 니즈버거",
+      "mapx": "1269893982",
+      "mapy": "375648615"
+    },
+    {
+      "title": "패티바이번 현대아울렛 동대문",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
+      "mapx": "1270075133",
+      "mapy": "375687665"
+    },
+    {
+      "title": "쉐이크쉑 두타점",
+      "link": "http://www.shakeshack.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-12 1층",
+      "roadAddress": "서울특별시 중구 장충단로 275 (을지로6가) 1층",
+      "mapx": "1270091145",
+      "mapy": "375690812"
+    },
+    {
+      "title": "바스버거 <b>을지로</b>점",
+      "link": "http://www.basburger.net/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 320 시어소호텔 지하1층",
+      "roadAddress": "서울특별시 중구 을지로12길 11 시어소호텔 지하1층",
+      "mapx": "1269911768",
+      "mapy": "375656618"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "프홍사",
+      "link": "https://blog.naver.com/fhongsa2022",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 157-73 1층 102호",
+      "roadAddress": "서울특별시 서대문구 모래내로 461 1층 102호",
+      "mapx": "1269458761",
+      "mapy": "375857722"
+    },
+    {
+      "title": "그린앤피니 홍제점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 317-3 1층",
+      "roadAddress": "서울특별시 서대문구 통일로37길 50 1층",
+      "mapx": "1269439454",
+      "mapy": "375860532"
+    },
+    {
+      "title": "원더파이",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-169 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39길 22-50 1층",
+      "mapx": "1269415039",
+      "mapy": "375897677"
+    },
+    {
+      "title": "써브웨이 홍제점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 174-15",
+      "roadAddress": "서울특별시 서대문구 통일로 432-1",
+      "mapx": "1269457051",
+      "mapy": "375877916"
+    },
+    {
+      "title": "싱싱<b>샐러드</b> 홍제점",
+      "link": "https://instagram.com/singsingsalad_hongje?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-57 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 461 1층",
+      "mapx": "1269430390",
+      "mapy": "375894328"
+    }
+  ]
+}

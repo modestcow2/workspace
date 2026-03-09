@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:49:27 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:30:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375632554"
     },
     {
-      "title": "본가서대문<b>족발</b> 본점",
+      "title": "족의한수 종로본점",
       "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 미근동 31-14",
-      "roadAddress": "서울특별시 서대문구 충정로6안길 54",
-      "mapx": "1269668935",
-      "mapy": "375644552"
+      "address": "서울특별시 종로구 관수동 4-1 1층 족의한수",
+      "roadAddress": "서울특별시 종로구 수표로 93-1 1층 족의한수",
+      "mapx": "1269891620",
+      "mapy": "375696277"
     }
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
+    },
+    {
+      "title": "대선칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-42 우진빌딩 2층 대선칼국수",
+      "roadAddress": "서울특별시 종로구 자하문로4길 6 우진빌딩 2층 대선칼국수",
+      "mapx": "1269726245",
+      "mapy": "375771878"
+    },
+    {
+      "title": "돌밭 메밀꽃",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 7-23",
+      "roadAddress": "서울특별시 종로구 효자로 31-1",
+      "mapx": "1269737000",
+      "mapy": "375788863"
+    },
+    {
+      "title": "활짝핀메밀 경복궁역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
+    },
+    {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    }
+  ]
+}

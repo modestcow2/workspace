@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "디라이프스타일키친 광화문점",
+      "link": "https://dlifestyle.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "심퍼티쿠시 서울역점",
+      "link": "https://szimpatikus.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "투뿔 코리안 <b>스테이크</b>하우스 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/twobull_gwanghwamun",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 1층",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 1층",
+      "mapx": "1269785521",
+      "mapy": "375684009"
+    },
+    {
+      "title": "붓처스컷 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/butcherscut_ghm?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하2층",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하2층",
+      "mapx": "1269780574",
+      "mapy": "375684428"
+    },
+    {
+      "title": "미도인 그랜드센트럴",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 105, 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 105, 106호",
+      "mapx": "1269743613",
+      "mapy": "375579375"
+    }
+  ]
+}

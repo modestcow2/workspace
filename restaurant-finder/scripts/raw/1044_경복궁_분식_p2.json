@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "모던김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 97",
+      "roadAddress": "서울특별시 종로구 자하문로2길 10",
+      "mapx": "1269731772",
+      "mapy": "375764902"
+    },
+    {
+      "title": "연희김밥 <b>경복궁</b>점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 55 연희김밥",
+      "roadAddress": "서울특별시 종로구 자하문로 12 연희김밥",
+      "mapx": "1269725615",
+      "mapy": "375770729"
+    },
+    {
+      "title": "크레이지후라이 광화문점",
+      "link": "http://www.crazyfry.co.kr",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하1층",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하1층",
+      "mapx": "1269790614",
+      "mapy": "375747887"
+    },
+    {
+      "title": "이삭토스트 <b>경복궁</b>역",
+      "link": "https://smartorder.beaverworksinc.com/brand/901216",
+      "category": "분식>토스트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 47-1",
+      "roadAddress": "서울특별시 종로구 자하문로 11",
+      "mapx": "1269721585",
+      "mapy": "375770339"
+    },
+    {
+      "title": "소풍가는날 <b>경복궁</b>점",
+      "link": "https://www.instagram.com/_picnicday",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 소풍가는날",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 소풍가는날",
+      "mapx": "1269712387",
+      "mapy": "375792154"
+    }
+  ]
+}

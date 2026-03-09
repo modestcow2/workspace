@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시온",
+      "link": "https://www.instagram.com/yeonnam_midam/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 57 2층",
+      "roadAddress": "서울특별시 중구 새문안로 28-1 2층",
+      "mapx": "1269689384",
+      "mapy": "375676893"
+    },
+    {
+      "title": "사카에",
+      "link": "https://app.catchtable.co.kr/ct/shop/sakae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 24F",
+      "roadAddress": "서울특별시 중구 세종대로 135 24F",
+      "mapx": "1269765840",
+      "mapy": "375683348"
+    },
+    {
+      "title": "설우 서대문점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 222 NH농협 타워 지하 1층 104호 설우 서대문점",
+      "roadAddress": "서울특별시 종로구 통일로 134 NH농협 타워 지하 1층 104호 설우 서대문점",
+      "mapx": "1269662598",
+      "mapy": "375667937"
+    },
+    {
+      "title": "미동식당",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 215 서소문아파트 1층 6호",
+      "roadAddress": "서울특별시 서대문구 충정로6길 59 서소문아파트 1층 6호",
+      "mapx": "1269682141",
+      "mapy": "375629827"
+    },
+    {
+      "title": "고우가 광화문점",
+      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "란저우우육면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 260-1 1층",
+      "roadAddress": "서울특별시 종로구 창의문로 138 1층",
+      "mapx": "1269652616",
+      "mapy": "375928064"
+    },
+    {
+      "title": "홍가복",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-14 1층",
+      "roadAddress": "서울특별시 종로구 명륜길 31 1층",
+      "mapx": "1269952356",
+      "mapy": "375885879"
+    },
+    {
+      "title": "쇼라쬬<b>마라탕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-7 1층",
+      "roadAddress": "서울특별시 종로구 명륜길 41 1층",
+      "mapx": "1269948810",
+      "mapy": "375889164"
+    }
+  ]
+}

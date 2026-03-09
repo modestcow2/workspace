@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우슴 광화문 직영점",
+      "link": "https://www.instagram.com/wusm.official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
+    },
+    {
+      "title": "광화문정육",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 21-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
+      "mapx": "1269756171",
+      "mapy": "375712733"
+    },
+    {
+      "title": "소풍 독립문역점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
+      "mapx": "1269649269",
+      "mapy": "375737152"
+    },
+    {
+      "title": "능라도 광화문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 3층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 3층",
+      "mapx": "1269722833",
+      "mapy": "375717008"
+    },
+    {
+      "title": "우대포 광화문점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 1층 우대포",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 1층 우대포",
+      "mapx": "1269733818",
+      "mapy": "375717596"
+    }
+  ]
+}

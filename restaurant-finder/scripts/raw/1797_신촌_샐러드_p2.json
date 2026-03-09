@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카페 블랙번즈 <b>신촌</b>점",
+      "link": "https://www.instagram.com/blackburns_main",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-91 2층 블랙번즈",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 42 2층 블랙번즈",
+      "mapx": "1269345166",
+      "mapy": "375584052"
+    },
+    {
+      "title": "그린보이즈 <b>샐러드</b>&amp;포케 <b>신촌</b>직영점",
+      "link": "https://www.instagram.com/greenboyz.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-55 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 38 1층",
+      "mapx": "1269387436",
+      "mapy": "375583730"
+    },
+    {
+      "title": "모종인더시티",
+      "link": "https://www.instagram.com/mojonginthecity/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-33 2층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 19 2층",
+      "mapx": "1269378391",
+      "mapy": "375573681"
+    },
+    {
+      "title": "시드위드 이대점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 1-3 103호 시드위드",
+      "roadAddress": "서울특별시 마포구 신촌로 150 103호 시드위드",
+      "mapx": "1269419077",
+      "mapy": "375563005"
+    },
+    {
+      "title": "카페 에피",
+      "link": "https://www.instagram.com/epi_oooo",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 31-191 2층, 루프탑",
+      "roadAddress": "서울특별시 마포구 백범로1길 3 2층, 루프탑",
+      "mapx": "1269373556",
+      "mapy": "375544207"
+    }
+  ]
+}

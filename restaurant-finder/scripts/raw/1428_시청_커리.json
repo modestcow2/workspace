@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "타와",
+      "link": "https://www.instagram.com/muwa__official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
+      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
+      "title": "라마앤바바나 창원점",
+      "link": "https://www.instagram.com/rama_bavana.changwon",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "경상남도 창원시 성산구 용호동 28-4 2층",
+      "roadAddress": "경상남도 창원시 성산구 창이대로460번길 20 2층",
+      "mapx": "1286838196",
+      "mapy": "352376849"
+    },
+    {
+      "title": "로얄인디아 제주<b>시청</b>점",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "제주특별자치도 제주시 이도이동 1778-1 2층",
+      "roadAddress": "제주특별자치도 제주시 서광로32길 6 2층",
+      "mapx": "1265280221",
+      "mapy": "334997359"
+    },
+    {
+      "title": "<b>시청</b>광장돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50-1 시청광장 지하 쇼핑센터 526호",
+      "roadAddress": "서울특별시 중구 을지로 12 시청광장 지하 쇼핑센터 526호",
+      "mapx": "1269783313",
+      "mapy": "375655659"
+    },
+    {
+      "title": "흥도식당 부천점",
+      "link": "https://www.instagram.com/heungdo_bucheon?igsh=MXVhN3Zrazg3bTV6eQ==",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1300 센트럴파크푸르지오 상가 1층 128호",
+      "roadAddress": "경기도 부천시 원미구 소향로 181 센트럴파크푸르지오 상가 1층 128호",
+      "mapx": "1267683596",
+      "mapy": "375022290"
+    }
+  ]
+}

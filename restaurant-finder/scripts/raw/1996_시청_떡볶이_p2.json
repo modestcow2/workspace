@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라밥 <b>시청</b>점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
+    },
+    {
+      "title": "남대문달님즉석<b>떡볶이</b> 서울역본점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 지하 1층 111호",
+      "roadAddress": "서울특별시 중구 칠패로 27 지하 1층 111호",
+      "mapx": "1269721500",
+      "mapy": "375600347"
+    },
+    {
+      "title": "청담동마녀김밥 <b>시청</b>점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 1층 104호",
+      "roadAddress": "서울특별시 중구 을지로 6 1층 104호",
+      "mapx": "1269791071",
+      "mapy": "375654950"
+    },
+    {
+      "title": "하라김밥 <b>시청</b>직영점",
+      "link": "https://haragimbap.com/default/menu/sub01.php",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-11 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 27 1층",
+      "mapx": "1269743748",
+      "mapy": "375621734"
+    },
+    {
+      "title": "분식을품다 수원<b>시청</b>점",
+      "link": "https://www.pumda0202.com/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1030-6 1층 102호",
+      "roadAddress": "경기도 수원시 팔달구 권광로175번길 52 1층 102호",
+      "mapx": "1270296799",
+      "mapy": "372641724"
+    }
+  ]
+}

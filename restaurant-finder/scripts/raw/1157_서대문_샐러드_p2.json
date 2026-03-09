@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "초식곳간 이대본점",
+      "link": "https://blog.naver.com/vege_save",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 54-28 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대2가길 19 1층",
+      "mapx": "1269460708",
+      "mapy": "375582700"
+    },
+    {
+      "title": "베어스덴 브런치",
+      "link": "https://www.instagram.com/bearsden_brunch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 441 1층,2층 베어스덴",
+      "roadAddress": "서울특별시 서대문구 연희로4길 10 1층,2층 베어스덴",
+      "mapx": "1269278323",
+      "mapy": "375616125"
+    },
+    {
+      "title": "카페 블랙번즈 신촌점",
+      "link": "https://www.instagram.com/blackburns_main",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-91 2층 블랙번즈",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 42 2층 블랙번즈",
+      "mapx": "1269345166",
+      "mapy": "375584052"
+    },
+    {
+      "title": "비밀베이커리 이대점",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 27-46 1층 비밀베이커리",
+      "roadAddress": "서울특별시 서대문구 이화여대7길 48 1층 비밀베이커리",
+      "mapx": "1269431420",
+      "mapy": "375585152"
+    },
+    {
+      "title": "그린보이즈 <b>샐러드</b>&amp;포케 신촌직영점",
+      "link": "https://www.instagram.com/greenboyz.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-55 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 38 1층",
+      "mapx": "1269387436",
+      "mapy": "375583730"
+    }
+  ]
+}

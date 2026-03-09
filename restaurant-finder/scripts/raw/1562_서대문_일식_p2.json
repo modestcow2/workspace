@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "시오 연희동본점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 190-4 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 23 1층",
+      "mapx": "1269286886",
+      "mapy": "375672105"
+    },
+    {
+      "title": "스시도쿠 현대백화점 신촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-33 신촌점 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 신촌점 10층",
+      "mapx": "1269356172",
+      "mapy": "375559008"
+    },
+    {
+      "title": "여우골초밥 신촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-11",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
+      "mapx": "1269349900",
+      "mapy": "375564975"
+    },
+    {
+      "title": "가마마루이라멘",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 91-6 창천빌딩 1층 가마마루이",
+      "roadAddress": "서울특별시 서대문구 성산로22길 4 창천빌딩 1층 가마마루이",
+      "mapx": "1269334171",
+      "mapy": "375603703"
+    },
+    {
+      "title": "치히로 신촌점",
+      "link": "https://chihiro.co.kr/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-157 B동 1~2층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 25 B동 1~2층",
+      "mapx": "1269354685",
+      "mapy": "375588898"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠쇼신 서울역그랜드센트럴점",
+      "link": "https://www.instagram.com/katsu_shoshin",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "크루아타이",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 104호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 104호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "<b>남대문</b>명물호떡",
+      "link": "",
+      "category": "분식>호떡",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-73 남대문명물호떡",
+      "roadAddress": "서울특별시 중구 남대문시장길 14 남대문명물호떡",
+      "mapx": "1269768059",
+      "mapy": "375600331"
+    },
+    {
+      "title": "다끼야",
+      "link": "https://www.instagram.com/dakkiya_japanese_food/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-4 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-3 1층",
+      "mapx": "1269776271",
+      "mapy": "375623542"
+    },
+    {
+      "title": "스파이스 서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/sambalchoisatayclub?from=share&type=DINING",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 111-1 브릴란테덕수궁 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 14-1 브릴란테덕수궁 1층",
+      "mapx": "1269778725",
+      "mapy": "375617271"
+    }
+  ]
+}

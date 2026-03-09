@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "탕화쿵푸<b>마라탕</b> 서대문점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 천연동 4 탕화쿵푸 마라탕",
+      "roadAddress": "서울특별시 서대문구 통일로 173-4 탕화쿵푸 마라탕",
+      "mapx": "1269629381",
+      "mapy": "375691909"
+    },
+    {
+      "title": "양치기소녀",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 34",
+      "roadAddress": "서울특별시 서대문구 독립문로 66",
+      "mapx": "1269638727",
+      "mapy": "375671775"
+    },
+    {
+      "title": "하하마라",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 교남동 36-3 1층",
+      "roadAddress": "서울특별시 종로구 경교장1길 5 1층",
+      "mapx": "1269653872",
+      "mapy": "375678925"
+    },
+    {
+      "title": "성민양꼬치 서대문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 161-2 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 143-7 1층",
+      "mapx": "1269648040",
+      "mapy": "375671795"
+    },
+    {
+      "title": "넘버원 양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 213 1층,2층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
+      "mapx": "1269705572",
+      "mapy": "375765751"
+    }
+  ]
+}

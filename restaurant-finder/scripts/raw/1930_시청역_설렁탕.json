@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신가원 <b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 141 신가원설렁탕",
+      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
+      "mapx": "1269815002",
+      "mapy": "375670246"
+    },
+    {
+      "title": "양미옥 남대문점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 95-1",
+      "roadAddress": "서울특별시 중구 남대문로 27-2",
+      "mapx": "1269787856",
+      "mapy": "375614278"
+    },
+    {
+      "title": "잼배옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 64-4",
+      "roadAddress": "서울특별시 중구 세종대로9길 68-9",
+      "mapx": "1269737271",
+      "mapy": "375625022"
+    },
+    {
+      "title": "진주집",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-31",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-2",
+      "mapx": "1269770936",
+      "mapy": "375600090"
+    },
+    {
+      "title": "봉피양 명동점",
+      "link": "http://bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점",
+      "mapx": "1269811548",
+      "mapy": "375644616"
+    }
+  ]
+}

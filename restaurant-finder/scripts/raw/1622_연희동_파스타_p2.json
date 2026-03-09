@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그로어스",
+      "link": "https://catchtable.co.kr/growers",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 83-13",
+      "roadAddress": "서울특별시 서대문구 연희로27길 52",
+      "mapx": "1269333376",
+      "mapy": "375723021"
+    },
+    {
+      "title": "라아",
+      "link": "https://www.instagram.com/raah_seoul",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-75 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11라길 10-8 1층",
+      "mapx": "1269303991",
+      "mapy": "375684723"
+    },
+    {
+      "title": "마우디",
+      "link": "https://www.instagram.com/maudie_dining",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-18",
+      "roadAddress": "서울특별시 서대문구 연희로11길 18",
+      "mapx": "1269301258",
+      "mapy": "375674593"
+    },
+    {
+      "title": "도우클럽 연희본점",
+      "link": "https://www.instagram.com/doughclub.seoul?igsh=ZHBoa2NuYWl4cWpw",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-10 지하1층 101호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 5 지하1층 101호",
+      "mapx": "1269284693",
+      "mapy": "375661671"
+    },
+    {
+      "title": "로얄싸롱",
+      "link": "http://instagram.com/royal.saloon.2018",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-1 1F",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 43 1F",
+      "mapx": "1269278866",
+      "mapy": "375666091"
+    }
+  ]
+}

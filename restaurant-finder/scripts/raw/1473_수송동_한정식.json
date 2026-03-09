@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "은성 <b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
+    },
+    {
+      "title": "키친토크",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 지하 1층 125호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 지하 1층 125호",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "본도시락 종로구청점",
+      "link": "http://www.bonif.co.kr/bondosirak",
+      "category": "음식점>도시락,컵밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 115호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 115호",
+      "mapx": "1269818163",
+      "mapy": "375725761"
+    },
+    {
+      "title": "목단<b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 지하1층 123호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 지하1층 123호",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "한암동 정동점",
+      "link": "https://openine.com/한암동",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
+      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
+      "mapx": "1269708541",
+      "mapy": "375678521"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "파스타마켓 혜화 본점",
+      "link": "https://www.instagram.com/Pasta_market",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 103-6 1층 파스타마켓",
+      "roadAddress": "서울특별시 종로구 대학로11길 9-5 1층 파스타마켓",
+      "mapx": "1270012480",
+      "mapy": "375820794"
+    },
+    {
+      "title": "노말키친 혜화",
+      "link": "https://app.catchtable.co.kr/ct/shop/normal_kitchen?from=share&type=DINING",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 81-1 1층 노말키친",
+      "roadAddress": "서울특별시 종로구 성균관로6길 26 1층 노말키친",
+      "mapx": "1269975211",
+      "mapy": "375855735"
+    },
+    {
+      "title": "아도레 쿠치나",
+      "link": "",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜1가 49",
+      "roadAddress": "서울특별시 종로구 혜화로3길 20",
+      "mapx": "1269993207",
+      "mapy": "375863865"
+    },
+    {
+      "title": "혜화 리나스파스타 대학로본점",
+      "link": "https://talk.naver.com/profile/w40bxq",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 166-4 2층",
+      "roadAddress": "서울특별시 종로구 대학로 141 2층",
+      "mapx": "1270013605",
+      "mapy": "375838976"
+    },
+    {
+      "title": "그 남자의 파스타 대학로",
+      "link": "https://www.instagram.com/tmpasta.official",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 141 1층",
+      "roadAddress": "서울특별시 종로구 대학로 151 1층",
+      "mapx": "1270010712",
+      "mapy": "375846472"
+    }
+  ]
+}

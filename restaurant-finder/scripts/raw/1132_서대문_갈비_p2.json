@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소신이쏘 신촌본점",
+      "link": "https://www.facebook.com/sosinesso",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-39 1층",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 19 1층",
+      "mapx": "1269355349",
+      "mapy": "375572041"
+    },
+    {
+      "title": "연희보리밥",
+      "link": "https://www.instagram.com/boribab_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
+      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
+      "mapx": "1269306323",
+      "mapy": "375679590"
+    },
+    {
+      "title": "형제<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 31-26",
+      "roadAddress": "서울특별시 서대문구 명물1길 2",
+      "mapx": "1269373430",
+      "mapy": "375578619"
+    },
+    {
+      "title": "화우 <b>서대문</b>역본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwauseodaemun",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 5-15",
+      "roadAddress": "서울특별시 서대문구 통일로9안길 32",
+      "mapx": "1269654411",
+      "mapy": "375659994"
+    },
+    {
+      "title": "설레임삼겹살 신촌점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-40 낙원빌딩",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 31 낙원빌딩",
+      "mapx": "1269349169",
+      "mapy": "375572216"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "충무칼국수",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 23-29 충무칼국수",
+      "roadAddress": "서울특별시 용산구 한강대로104길 38 충무칼국수",
+      "mapx": "1269743444",
+      "mapy": "375502498"
+    },
+    {
+      "title": "숭례회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-7 화남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 15 화남빌딩",
+      "mapx": "1269732674",
+      "mapy": "375583627"
+    },
+    {
+      "title": "도온 <b>서울역</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/doon",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 9-14 1층",
+      "roadAddress": "서울특별시 용산구 후암로57길 13 1층",
+      "mapx": "1269741136",
+      "mapy": "375528946"
+    },
+    {
+      "title": "달인명동칼국수<b>보쌈</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 163 이프라자 지하",
+      "roadAddress": "서울특별시 중구 세종대로4길 25 이프라자 지하",
+      "mapx": "1269752692",
+      "mapy": "375578602"
+    },
+    {
+      "title": "족발야시장&amp;무청감자탕 <b>서울역</b>점",
+      "link": "https://www.instagram.com/jokya_official/",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 35-14 2층",
+      "roadAddress": "서울특별시 용산구 후암로57길 55 2층",
+      "mapx": "1269741359",
+      "mapy": "375510868"
+    }
+  ]
+}

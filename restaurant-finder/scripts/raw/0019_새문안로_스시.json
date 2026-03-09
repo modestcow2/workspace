@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포시즌스 호텔 서울 아키라 백",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 12층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 12층",
+      "mapx": "1269753951",
+      "mapy": "375706979"
+    },
+    {
+      "title": "<b>스시</b>온",
+      "link": "https://www.instagram.com/yeonnam_midam/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 57 2층",
+      "roadAddress": "서울특별시 중구 새문안로 28-1 2층",
+      "mapx": "1269689384",
+      "mapy": "375676893"
+    },
+    {
+      "title": "바닷가작은부엌 경희궁점",
+      "link": "http://www.seasidekitchen.co.kr/",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5 5층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
+      "mapx": "1269698101",
+      "mapy": "375683937"
+    },
+    {
+      "title": "막썰이회 서대문점",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 169 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 15-1 지하1층",
+      "mapx": "1269675834",
+      "mapy": "375671209"
+    },
+    {
+      "title": "멘소레",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화 문오피시아빌딩 B1층 제116-1호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화 문오피시아빌딩 B1층 제116-1호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    }
+  ]
+}

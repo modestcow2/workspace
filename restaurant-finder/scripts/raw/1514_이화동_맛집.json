@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "용가회전훠궈 대학로점",
+      "link": "https://www.instagram.com/loonger_daehakro",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-55 지하1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 13 지하1층",
+      "mapx": "1270025484",
+      "mapy": "375827405"
+    },
+    {
+      "title": "순대실록 대학로본점",
+      "link": "https://www.instagram.com/sundaesilrok/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-44 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 113 1층",
+      "mapx": "1270036997",
+      "mapy": "375829946"
+    },
+    {
+      "title": "핏제리아오 대학로 본점",
+      "link": "http://pizzeriao.com/",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 31-37 2, 3층",
+      "roadAddress": "서울특별시 종로구 동숭길 86 2, 3층",
+      "mapx": "1270043262",
+      "mapy": "375820958"
+    },
+    {
+      "title": "우동키노야 대학로점",
+      "link": "http://udonkinoya.com",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-78 2층",
+      "roadAddress": "서울특별시 종로구 대학로12길 50 2층",
+      "mapx": "1270037409",
+      "mapy": "375818625"
+    },
+    {
+      "title": "삼덕통닭 혜화점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-59 1층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 26 1층",
+      "mapx": "1270025476",
+      "mapy": "375820885"
+    }
+  ]
+}

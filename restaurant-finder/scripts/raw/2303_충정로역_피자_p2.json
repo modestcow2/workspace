@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만리재 비스트로 별관",
+      "link": "https://www.instagram.com/mallijae_annex/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 1154",
+      "roadAddress": "서울특별시 중구 중림로 21",
+      "mapx": "1269659962",
+      "mapy": "375588401"
+    },
+    {
+      "title": "도우스 충정로점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 360-1 1층 도우스",
+      "roadAddress": "서울특별시 서대문구 충정로4길 16 1층 도우스",
+      "mapx": "1269640416",
+      "mapy": "375606127"
+    },
+    {
+      "title": "중림공장",
+      "link": "http://www.instagram.com/jungrimgongjang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 1154",
+      "roadAddress": "서울특별시 중구 중림로 21",
+      "mapx": "1269660637",
+      "mapy": "375587977"
+    },
+    {
+      "title": "크랜베리스",
+      "link": "https://www.instagram.com/mylovecranberries",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 64-1 1층",
+      "roadAddress": "서울특별시 중구 청파로103길 5 1층",
+      "mapx": "1269686701",
+      "mapy": "375588367"
+    },
+    {
+      "title": "미친<b>피자</b> 본점",
+      "link": "",
+      "category": "음식점>양식>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 465 충정리시온 106호 미친피자 서대문점",
+      "roadAddress": "서울특별시 서대문구 서소문로 27 충정리시온 106호 미친피자 서대문점",
+      "mapx": "1269650555",
+      "mapy": "375603164"
+    }
+  ]
+}

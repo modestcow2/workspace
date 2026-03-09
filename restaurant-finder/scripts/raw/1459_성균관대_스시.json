@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포동이네 성대점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 399-14",
+      "roadAddress": "경기도 수원시 장안구 율전로98번길 6-2",
+      "mapx": "1269690000",
+      "mapy": "372979480"
+    },
+    {
+      "title": "나츠비 율전동본점",
+      "link": "https://www.instagram.com/natsubi_goodday",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-61 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로2106번길 22 1층",
+      "mapx": "1269715985",
+      "mapy": "372970877"
+    },
+    {
+      "title": "월드오징어바다 성대점",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-85 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로2105번길 11 1층",
+      "mapx": "1269696076",
+      "mapy": "372967281"
+    },
+    {
+      "title": "<b>스시</b>사부",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 297-3 1층 103호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 27 1층 103호",
+      "mapx": "1269696211",
+      "mapy": "372982646"
+    }
+  ]
+}

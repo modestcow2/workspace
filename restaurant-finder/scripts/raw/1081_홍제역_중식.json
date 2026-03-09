@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "중화요리연 <b>홍제역</b>점",
+      "link": "https://blog.naver.com/yeon_hongje",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 474 지상2층 25호, 26호",
+      "roadAddress": "서울특별시 서대문구 세무서8길 30 지상2층 25호, 26호",
+      "mapx": "1269469561",
+      "mapy": "375907481"
+    },
+    {
+      "title": "3호선차이나",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 188 1층 3호선차이나",
+      "roadAddress": "서울특별시 서대문구 통일로36길 17 1층 3호선차이나",
+      "mapx": "1269468725",
+      "mapy": "375878330"
+    },
+    {
+      "title": "화린",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-44 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 421 1층",
+      "mapx": "1269460531",
+      "mapy": "375868551"
+    },
+    {
+      "title": "차이나타운",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 299-1 지상1층",
+      "roadAddress": "서울특별시 서대문구 통일로40안길 11 지상1층",
+      "mapx": "1269438993",
+      "mapy": "375907196"
+    },
+    {
+      "title": "계화원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-394",
+      "roadAddress": "",
+      "mapx": "1269439488",
+      "mapy": "375885015"
+    }
+  ]
+}

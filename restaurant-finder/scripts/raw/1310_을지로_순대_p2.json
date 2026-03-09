@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "산수갑산",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 15-4",
+      "roadAddress": "서울특별시 중구 을지로20길 24",
+      "mapx": "1269953138",
+      "mapy": "375653833"
+    },
+    {
+      "title": "명품을지<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 19-10 1층",
+      "roadAddress": "서울특별시 중구 충무로5길 3 1층",
+      "mapx": "1269923868",
+      "mapy": "375650989"
+    },
+    {
+      "title": "백염막창",
+      "link": "https://app.catchtable.co.kr/ct/shop/whitesalt",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 344-15 1층",
+      "roadAddress": "서울특별시 중구 수표로 48-3 1층",
+      "mapx": "1269901385",
+      "mapy": "375656131"
+    },
+    {
+      "title": "경성<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 102-5 1층",
+      "roadAddress": "서울특별시 중구 마른내로 50-1 (인현동1가) 1층",
+      "mapx": "1269933919",
+      "mapy": "375642608"
+    },
+    {
+      "title": "청와옥 <b>을지로</b>3가직영점",
+      "link": "https://www.instagram.com/cheongwaok/",
+      "category": "음식점>한식>육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 346-1 1층 1호",
+      "roadAddress": "서울특별시 중구 을지로 110 1층 1호",
+      "mapx": "1269900656",
+      "mapy": "375660827"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김광석<b>신촌칼국수</b> 본점",
+      "link": "https://scnoodle.com/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 40-9",
+      "roadAddress": "서울특별시 마포구 신촌로 124",
+      "mapx": "1269394407",
+      "mapy": "375556761"
+    },
+    {
+      "title": "유닭스토리 닭한마리 <b>신촌</b>점",
+      "link": "https://blog.naver.com/hotjazz22",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-72 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 7 1층",
+      "mapx": "1269374476",
+      "mapy": "375570470"
+    },
+    {
+      "title": "김광석<b>신촌칼국수</b> 이대직영점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-11 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 70 1층",
+      "mapx": "1269400794",
+      "mapy": "375589432"
+    },
+    {
+      "title": "당나발포차 <b>신촌</b>점",
+      "link": "https://dangnabal.com/",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-45 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7길 13 1층",
+      "mapx": "1269360244",
+      "mapy": "375576295"
+    },
+    {
+      "title": "온방샤브<b>칼국수</b>",
+      "link": "https://catchtable.co.kr/OnbangShabu",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-9 2층 온방샤브칼국수",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 6 2층 온방샤브칼국수",
+      "mapx": "1269359239",
+      "mapy": "375570074"
+    }
+  ]
+}

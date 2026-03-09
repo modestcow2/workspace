@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "멘츠루 시청점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
+      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
+      "mapx": "1269731249",
+      "mapy": "375629944"
+    },
+    {
+      "title": "모꼬지",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 31-28 대원빌딩 1층 모꼬지",
+      "roadAddress": "서울특별시 중구 무교로 17-27 대원빌딩 1층 모꼬지",
+      "mapx": "1269783832",
+      "mapy": "375674937"
+    },
+    {
+      "title": "돈이찌 롯데백화점 본점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1",
+      "roadAddress": "서울특별시 중구 남대문로 81",
+      "mapx": "1269811389",
+      "mapy": "375648499"
+    },
+    {
+      "title": "정신<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 94-11",
+      "roadAddress": "",
+      "mapx": "1269779677",
+      "mapy": "375623293"
+    },
+    {
+      "title": "멘노아지 종로점",
+      "link": "https://www.instagram.com/mennoage_jongno?igsh=MTNzcHFzOHhkNXdhZw%3D%3D&utm_source=qr",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 1층 101호",
+      "roadAddress": "서울특별시 종로구 종로5길 7 1층 101호",
+      "mapx": "1269803681",
+      "mapy": "375708089"
+    }
+  ]
+}

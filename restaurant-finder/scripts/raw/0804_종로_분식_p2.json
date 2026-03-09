@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남이<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 281-2",
+      "roadAddress": "서울특별시 종로구 종로40가길 3",
+      "mapx": "1270065350",
+      "mapy": "375701990"
+    },
+    {
+      "title": "꼬소한부뚜막 광화문광장점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 150-1 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
+      "mapx": "1269756633",
+      "mapy": "375715135"
+    },
+    {
+      "title": "청담동 마녀김밥 광화문점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1",
+      "roadAddress": "서울특별시 종로구 새문안로 105",
+      "mapx": "1269762542",
+      "mapy": "375704544"
+    },
+    {
+      "title": "귀엽떡볶이 <b>종로</b>본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로3가 16 1층",
+      "roadAddress": "서울특별시 종로구 종로 123 1층",
+      "mapx": "1269913684",
+      "mapy": "375707541"
+    },
+    {
+      "title": "마포만두 시청점",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
+    }
+  ]
+}

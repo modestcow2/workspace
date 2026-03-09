@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:50 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:32:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
       "mapx": "1269708097",
       "mapy": "375796788"
-    },
-    {
-      "title": "까사 이태리아",
-      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
-      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
-      "mapx": "1269723542",
-      "mapy": "375787841"
     },
     {
       "title": "비텔로소띠",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
       "mapx": "1269722295",
       "mapy": "375789547"
+    },
+    {
+      "title": "까사 이태리아",
+      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
+      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
+      "mapx": "1269723542",
+      "mapy": "375787841"
     },
     {
       "title": "이태리총각 서촌점",

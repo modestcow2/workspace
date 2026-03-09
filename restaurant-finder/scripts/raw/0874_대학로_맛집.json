@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "장인닭갈비 <b>대학로</b>점",
+      "link": "https://jangindak.co.kr/",
+      "category": "한식>닭갈비",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 51 1층",
+      "roadAddress": "서울특별시 종로구 대명길 25 1층",
+      "mapx": "1270001928",
+      "mapy": "375832065"
+    },
+    {
+      "title": "고은정 <b>대학로</b>본점",
+      "link": "https://blog.naver.com/koeunjung_hh",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 188-14 A&A타워 1층 102호",
+      "roadAddress": "서울특별시 종로구 창경궁로 240-7 A&A타워 1층 102호",
+      "mapx": "1269989806",
+      "mapy": "375824691"
+    },
+    {
+      "title": "용가회전훠궈 <b>대학로</b>점",
+      "link": "https://www.instagram.com/loonger_daehakro",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-55 지하1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 13 지하1층",
+      "mapx": "1270025484",
+      "mapy": "375827405"
+    },
+    {
+      "title": "메밀향그집 혜화본점",
+      "link": "https://memilhyang.creatorlink.net/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 72-3 메밀향그집 혜화본점",
+      "roadAddress": "서울특별시 종로구 대학로11길 18 메밀향그집 혜화본점",
+      "mapx": "1270006657",
+      "mapy": "375823739"
+    },
+    {
+      "title": "미도인 <b>대학로</b>",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 116 1층 미도인",
+      "roadAddress": "서울특별시 종로구 대학로9길 32 1층 미도인",
+      "mapx": "1270003671",
+      "mapy": "375818711"
+    }
+  ]
+}

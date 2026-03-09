@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아델라베일리",
+      "link": "https://blog.naver.com/kiyna",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 23-3",
+      "roadAddress": "서울특별시 종로구 북악산로 48",
+      "mapx": "1269702503",
+      "mapy": "375952438"
+    },
+    {
+      "title": "다움223.1",
+      "link": "https://app.catchtable.co.kr/ct/shop/dawoom",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 281-13 지상1층",
+      "roadAddress": "서울특별시 종로구 자하문로 223-1 지상1층",
+      "mapx": "1269633692",
+      "mapy": "375941934"
+    },
+    {
+      "title": "파란대문",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 219-2 1층",
+      "roadAddress": "서울특별시 종로구 창의문로 168 1층",
+      "mapx": "1269638593",
+      "mapy": "375947873"
+    },
+    {
+      "title": "데미타스 <b>부암동</b>본점",
+      "link": "https://www.instagram.com/_demitasse/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-5 2층",
+      "roadAddress": "서울특별시 종로구 창의문로 133 2층",
+      "mapx": "1269657187",
+      "mapy": "375924488"
+    },
+    {
+      "title": "<b>부암동</b> 제비꽃다방",
+      "link": "http://www.instagram.com/jvflower",
+      "category": "테마카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 274-1 제비꽃다방",
+      "roadAddress": "서울특별시 종로구 창의문로 146 부암동 제비꽃다방",
+      "mapx": "1269644532",
+      "mapy": "375929446"
+    }
+  ]
+}

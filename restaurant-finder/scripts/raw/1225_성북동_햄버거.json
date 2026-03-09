@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "너의냠냠버거",
+      "link": "http://www.instagram.com/yourburgerhouse",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 58-3 너의냠냠버거",
+      "roadAddress": "서울특별시 성북구 성북로14길 7 너의냠냠버거",
+      "mapx": "1270012362",
+      "mapy": "375937640"
+    },
+    {
+      "title": "맥도날드 삼선점",
+      "link": "https://www.mcdonalds.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 32-3 일화빌딩",
+      "roadAddress": "서울특별시 성북구 동소문로 13 일화빌딩",
+      "mapx": "1270076252",
+      "mapy": "375893439"
+    },
+    {
+      "title": "버거리 한성대입구점",
+      "link": "http://burgerry.co.kr/",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동4가 38 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 35 1층",
+      "mapx": "1270097847",
+      "mapy": "375902497"
+    },
+    {
+      "title": "혜화동버거",
+      "link": "https://catchtable.co.kr/hyehwadong_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-63 1층 혜화동버거",
+      "roadAddress": "서울특별시 종로구 동숭3길 6-4 1층 혜화동버거",
+      "mapx": "1270047525",
+      "mapy": "375811462"
+    },
+    {
+      "title": "버거파크 혜화점",
+      "link": "https://www.instagram.com/burgerpark.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 101-2 1층 버거파크",
+      "roadAddress": "서울특별시 종로구 대학로11길 5 1층 버거파크",
+      "mapx": "1270013798",
+      "mapy": "375821694"
+    }
+  ]
+}

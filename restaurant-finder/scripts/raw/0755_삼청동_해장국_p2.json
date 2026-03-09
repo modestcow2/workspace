@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신의주찹쌀순대 안국역점",
+      "link": "http://www.bigsoondae.com/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 111-1",
+      "roadAddress": "서울특별시 종로구 율곡로 59",
+      "mapx": "1269857102",
+      "mapy": "375769015"
+    },
+    {
+      "title": "깊픈",
+      "link": "https://www.instagram.com/gippen_insa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 106 깊픈",
+      "roadAddress": "서울특별시 종로구 인사동16길 6 깊픈",
+      "mapx": "1269842551",
+      "mapy": "375750276"
+    },
+    {
+      "title": "룻 안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/ROOTroot?from=share&type=NONE",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 9",
+      "roadAddress": "서울특별시 종로구 율곡로1길 54-1",
+      "mapx": "1269809760",
+      "mapy": "375782906"
+    },
+    {
+      "title": "시골맛집물회",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 109-1",
+      "roadAddress": "서울특별시 종로구 율곡로 44-12",
+      "mapx": "1269844967",
+      "mapy": "375754037"
+    },
+    {
+      "title": "권사부순대국 삼청점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-26 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 137-13 1층",
+      "mapx": "1269826631",
+      "mapy": "375869747"
+    }
+  ]
+}

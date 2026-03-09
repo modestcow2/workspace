@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이서방네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
+    },
+    {
+      "title": "별미곱창",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 187 별미곱창",
+      "roadAddress": "서울특별시 종로구 자하문로1길 50 별미곱창",
+      "mapx": "1269696746",
+      "mapy": "375769499"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "서촌시우식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 171",
+      "roadAddress": "서울특별시 종로구 필운대로 18",
+      "mapx": "1269695515",
+      "mapy": "375777250"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    }
+  ]
+}

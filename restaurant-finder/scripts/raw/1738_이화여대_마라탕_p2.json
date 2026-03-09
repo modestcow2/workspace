@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "종금양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 8-61",
+      "roadAddress": "서울특별시 마포구 대흥로30길 21",
+      "mapx": "1269472357",
+      "mapy": "375564451"
+    },
+    {
+      "title": "춘리<b>마라탕</b> 신촌점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-99 2층",
+      "roadAddress": "서울특별시 서대문구 신촌로 125 2층",
+      "mapx": "1269397319",
+      "mapy": "375562526"
+    },
+    {
+      "title": "탕화쿵푸<b>마라탕</b> 신촌이대점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-3 2층 201호",
+      "roadAddress": "서울특별시 서대문구 이화여대길 65 2층 201호",
+      "mapx": "1269447236",
+      "mapy": "375590844"
+    },
+    {
+      "title": "신마라명가 이대점",
+      "link": "https://www.instagram.com/sinmara_Idae",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 45-5 1층",
+      "roadAddress": "서울특별시 서대문구 신촌로 189 1층",
+      "mapx": "1269469363",
+      "mapy": "375570774"
+    },
+    {
+      "title": "신룽푸<b>마라탕</b> 이대점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-8 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 48 2층",
+      "mapx": "1269458423",
+      "mapy": "375590123"
+    }
+  ]
+}

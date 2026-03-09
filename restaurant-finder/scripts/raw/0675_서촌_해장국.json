@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>서촌</b>전통순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
+    },
+    {
+      "title": "체부동잔치집 별관",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 12",
+      "roadAddress": "서울특별시 종로구 사직로 115-3",
+      "mapx": "1269716673",
+      "mapy": "375762475"
+    },
+    {
+      "title": "청하식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 120",
+      "roadAddress": "서울특별시 종로구 자하문로10길 25",
+      "mapx": "1269728999",
+      "mapy": "375794749"
+    },
+    {
+      "title": "백암박가네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
+      "mapx": "1269710531",
+      "mapy": "375791821"
+    },
+    {
+      "title": "이서방네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
+    }
+  ]
+}

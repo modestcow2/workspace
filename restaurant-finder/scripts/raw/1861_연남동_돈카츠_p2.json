@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠몬스터 연남본점",
+      "link": "https://www.instagram.com/katsumon.ynd",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-18 1층 101호 카츠몬스터 연남본점",
+      "roadAddress": "서울특별시 마포구 동교로38길 42-6 1층 101호 카츠몬스터 연남본점",
+      "mapx": "1269255679",
+      "mapy": "375610304"
+    },
+    {
+      "title": "카마카츠",
+      "link": "https://www.instagram.com/kamakatsu_",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-15 2층",
+      "roadAddress": "서울특별시 마포구 동교로 262-10 2층",
+      "mapx": "1269255570",
+      "mapy": "375626905"
+    },
+    {
+      "title": "쿠히치 연남",
+      "link": "https://app.catchtable.co.kr/ct/shop/kuhichi_yeonnam",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-97",
+      "roadAddress": "서울특별시 마포구 동교로46길 42-22",
+      "mapx": "1269264627",
+      "mapy": "375617864"
+    },
+    {
+      "title": "올데이우동 연남점",
+      "link": "https://www.instagram.com/allday_udon",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-37 2층",
+      "roadAddress": "서울특별시 마포구 성미산로29길 30 2층",
+      "mapx": "1269222128",
+      "mapy": "375653409"
+    },
+    {
+      "title": "카츠스위스",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-12 1, 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 6 1, 2층",
+      "mapx": "1269246924",
+      "mapy": "375616511"
+    }
+  ]
+}

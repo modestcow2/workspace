@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>관리자 - KPC 인근 맛집</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="bg-gray-50 text-gray-900">
+
+  <!-- Header -->
+  <header class="bg-white shadow-sm sticky top-0 z-40">
+    <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+      <div>
+        <h1 class="text-lg sm:text-xl font-bold text-indigo-700">🔧 관리자 페이지</h1>
+        <p class="text-xs text-gray-400">수정 제안 검토 및 승인</p>
+      </div>
+      <div class="flex items-center gap-3">
+        <a href="index.html" class="text-xs text-indigo-500 hover:underline">← 메인으로</a>
+        <span id="admin-user" class="text-xs text-gray-500"></span>
+        <button id="login-btn" class="text-xs bg-indigo-600 text-white px-3 py-1.5 rounded-lg hover:bg-indigo-700 transition-colors">Google 로그인</button>
+        <button id="logout-btn" class="text-xs bg-gray-200 text-gray-600 px-3 py-1.5 rounded-lg hover:bg-gray-300 transition-colors" style="display:none">로그아웃</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-6">
+
+    <!-- 로그인 필요 상태 -->
+    <div id="auth-required" class="text-center py-16">
+      <p class="text-5xl mb-4">🔒</p>
+      <p class="text-lg font-semibold text-gray-600 mb-2">관리자 로그인이 필요합니다</p>
+      <p class="text-sm text-gray-400">등록된 관리자 Google 계정으로 로그인하세요</p>
+    </div>
+
+    <!-- 권한 없음 -->
+    <div id="auth-denied" class="text-center py-16" style="display:none">
+      <p class="text-5xl mb-4">⛔</p>
+      <p class="text-lg font-semibold text-gray-600 mb-2">관리자 권한이 없습니다</p>
+      <p class="text-sm text-gray-400">등록된 관리자 이메일로 로그인하세요</p>
+    </div>
+
+    <!-- 관리자 패널 -->
+    <div id="admin-panel" style="display:none">
+
+      <!-- 탭 -->
+      <div class="flex gap-2 mb-4">
+        <button class="admin-tab active" data-tab="pending">⏳ 대기 중</button>
+        <button class="admin-tab" data-tab="reviewed">✅ 처리 완료</button>
+      </div>
+
+      <!-- 대기 중 목록 -->
+      <div id="tab-pending">
+        <div id="pending-count" class="text-sm text-gray-500 mb-3"></div>
+        <div id="pending-list" class="space-y-4"></div>
+      </div>
+
+      <!-- 처리 완료 목록 -->
+      <div id="tab-reviewed" style="display:none">
+        <div id="reviewed-list" class="space-y-4"></div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- 리뷰 노트 모달 -->
+  <div id="review-modal" class="fixed inset-0 bg-black/50 z-50 items-center justify-center p-4" style="display:none">
+    <div class="bg-white rounded-2xl shadow-2xl w-full max-w-md">
+      <div class="p-5">
+        <h3 id="review-modal-title" class="text-lg font-bold mb-4"></h3>
+        <div class="form-group">
+          <label class="form-label">메모 (선택)</label>
+          <textarea id="review-note" class="form-input" rows="3" placeholder="관리자 메모..."></textarea>
+        </div>
+        <div class="flex gap-3 pt-2">
+          <button id="review-cancel" class="flex-1 py-2.5 border border-gray-300 text-gray-700 rounded-lg text-sm font-medium hover:bg-gray-50 transition-colors">취소</button>
+          <button id="review-confirm" class="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-sm font-bold transition-colors">확인</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="toast" style="display:none"></div>
+
+  <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/firebase-config.js"></script>
+  <script src="js/firestore-service.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>

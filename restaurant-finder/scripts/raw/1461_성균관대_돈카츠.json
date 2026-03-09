@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "면식당 수원<b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-121 2층",
+      "roadAddress": "경기도 수원시 장안구 서부로2106번길 18 2층",
+      "mapx": "1269714473",
+      "mapy": "372970067"
+    },
+    {
+      "title": "소코아 혜화성대점",
+      "link": "https://www.instagram.com/sokoa_hyehwa/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-213 지상1층",
+      "roadAddress": "서울특별시 종로구 명륜길 39 지상1층",
+      "mapx": "1269949365",
+      "mapy": "375888722"
+    },
+    {
+      "title": "포보 <b>성균관대</b>점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 199-8 포보",
+      "roadAddress": "서울특별시 종로구 성균관로 4 포보",
+      "mapx": "1269985965",
+      "mapy": "375833382"
+    },
+    {
+      "title": "이게볶음밥 수원<b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 290-14 B동 1층 105호",
+      "roadAddress": "경기도 수원시 장안구 서부로2126번길 24 B동 1층 105호",
+      "mapx": "1269729644",
+      "mapy": "372978561"
+    },
+    {
+      "title": "핵밥 수원<b>성균관대</b>점",
+      "link": "https://www.hecbob.com/",
+      "category": "음식점>일식>덮밥",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 285-8 3층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2128 3층",
+      "mapx": "1269718097",
+      "mapy": "372982790"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무교동북어국집",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 173",
+      "roadAddress": "서울특별시 중구 을지로1길 38",
+      "mapx": "1269798583",
+      "mapy": "375677548"
+    },
+    {
+      "title": "신동궁감자탕 <b>명동</b>직영점",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-18",
+      "roadAddress": "서울특별시 중구 명동9길 43",
+      "mapx": "1269840283",
+      "mapy": "375657027"
+    },
+    {
+      "title": "육통령 <b>명동</b>본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-36",
+      "roadAddress": "서울특별시 중구 명동8나길 37-2",
+      "mapx": "1269828439",
+      "mapy": "375611991"
+    },
+    {
+      "title": "신가원 설렁탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 141 신가원설렁탕",
+      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
+      "mapx": "1269815002",
+      "mapy": "375670246"
+    },
+    {
+      "title": "남산등심 <b>명동</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/namsan_grilledsirloin",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동1가 10-4 남산등심 명동본점 1층, 2층, 3층",
+      "roadAddress": "서울특별시 중구 퇴계로18길 26 남산등심 명동본점 1층, 2층, 3층",
+      "mapx": "1269850726",
+      "mapy": "375597707"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "은혜식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 187-1",
+      "roadAddress": "서울특별시 종로구 자하문로41길 1",
+      "mapx": "1269625459",
+      "mapy": "375975390"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    },
+    {
+      "title": "꿀밥상",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 98-1 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
+      "mapx": "1269818749",
+      "mapy": "375844611"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
+      "title": "정독도서관 구내식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 2",
+      "roadAddress": "서울특별시 종로구 북촌로5길 48",
+      "mapx": "1269838671",
+      "mapy": "375811536"
+    }
+  ]
+}

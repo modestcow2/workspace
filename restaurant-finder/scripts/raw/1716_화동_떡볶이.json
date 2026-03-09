@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
+      "mapx": "1269814921",
+      "mapy": "375880187"
+    },
+    {
+      "title": "스낵서울",
+      "link": "https://www.instagram.com/snackseoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6 2층",
+      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
+      "mapx": "1269816137",
+      "mapy": "375837662"
+    },
+    {
+      "title": "먹쉬돈나 삼청동점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 63-28 2층",
+      "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
+      "mapx": "1269819874",
+      "mapy": "375834586"
+    },
+    {
+      "title": "서울풍경",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-6",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39",
+      "mapx": "1269827007",
+      "mapy": "375793042"
+    },
+    {
+      "title": "산수인",
+      "link": "",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 63-18",
+      "roadAddress": "서울특별시 종로구 삼청로 86-2",
+      "mapx": "1269819609",
+      "mapy": "375831028"
+    }
+  ]
+}

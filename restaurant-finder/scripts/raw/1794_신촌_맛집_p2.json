@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쟁반집8292 <b>신촌</b>점",
+      "link": "http://www.jbj8292.com",
+      "category": "음식점>한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-21 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 27 1층",
+      "mapx": "1269382224",
+      "mapy": "375575882"
+    },
+    {
+      "title": "멘야소바",
+      "link": "https://www.instagram.com/manyasoba?igsh=MWczZGFwdDNub210OQ==",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-39 1층",
+      "roadAddress": "서울특별시 서대문구 연세로2길 83 1층",
+      "mapx": "1269414211",
+      "mapy": "375571680"
+    },
+    {
+      "title": "등촌샤브칼국수 <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 1층 등촌샤브칼국수 신촌점",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층 등촌샤브칼국수 신촌점",
+      "mapx": "1269407741",
+      "mapy": "375589692"
+    },
+    {
+      "title": "유닭스토리 닭한마리 <b>신촌</b>점",
+      "link": "https://blog.naver.com/hotjazz22",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-72 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 7 1층",
+      "mapx": "1269374476",
+      "mapy": "375570470"
+    },
+    {
+      "title": "스시이안앤 <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 29-81 2층 205, 206호",
+      "roadAddress": "서울특별시 서대문구 신촌로 109 2층 205, 206호",
+      "mapx": "1269380184",
+      "mapy": "375557255"
+    }
+  ]
+}

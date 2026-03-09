@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "깊픈",
+      "link": "https://www.instagram.com/gippen_insa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 106 깊픈",
+      "roadAddress": "서울특별시 종로구 인사동16길 6 깊픈",
+      "mapx": "1269842551",
+      "mapy": "375750276"
+    },
+    {
+      "title": "콩뼈숯뼈감자탕",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 42 콩뼈숯뼈감자탕",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 6 콩뼈숯뼈감자탕",
+      "mapx": "1269881876",
+      "mapy": "375737037"
+    },
+    {
+      "title": "청진동장터순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 3-3",
+      "roadAddress": "서울특별시 종로구 종로5길 40",
+      "mapx": "1269804455",
+      "mapy": "375720966"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
+      "title": "신의주찹쌀순대 <b>안국역</b>점",
+      "link": "http://www.bigsoondae.com/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 111-1",
+      "roadAddress": "서울특별시 종로구 율곡로 59",
+      "mapx": "1269857102",
+      "mapy": "375769015"
+    }
+  ]
+}

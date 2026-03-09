@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:01 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:31:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375773758"
     },
     {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
+      "title": "서울풍경",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
+      "address": "서울특별시 종로구 화동 138-6",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39",
+      "mapx": "1269827007",
+      "mapy": "375793042"
     }
   ]
 }

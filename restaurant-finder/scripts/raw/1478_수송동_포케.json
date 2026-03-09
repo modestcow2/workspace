@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뱃살도둑 종로구청점",
+      "link": "https://www.designrut.co.kr/batdo",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 117호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 117호",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "온히어 온샐러드앤<b>포케</b> 광화문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 67-1 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 53 1층",
+      "mapx": "1269802692",
+      "mapy": "375725677"
+    },
+    {
+      "title": "훅트<b>포케</b> 을지로점",
+      "link": "https://www.hookedpoke.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
+      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
+      "mapx": "1269887654",
+      "mapy": "375666400"
+    },
+    {
+      "title": "폴인<b>포케</b> 서울시청점",
+      "link": "https://fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
+      "mapx": "1269775175",
+      "mapy": "375623578"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    }
+  ]
+}

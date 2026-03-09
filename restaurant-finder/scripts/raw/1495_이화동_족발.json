@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "진향<b>족발</b>",
+      "link": "https://www.instagram.com/jinhyang_official",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 44-1 진향족발",
+      "roadAddress": "서울특별시 종로구 종로 231-1 진향족발",
+      "mapx": "1270035363",
+      "mapy": "375712710"
+    },
+    {
+      "title": "창신동매운<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창신동 581-5 1층 매운족발",
+      "roadAddress": "서울특별시 종로구 종로51길 23 1층 창신동매운족발",
+      "mapx": "1270115220",
+      "mapy": "375730483"
+    },
+    {
+      "title": "옥천매운<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창신동 142-27 1층",
+      "roadAddress": "서울특별시 종로구 종로51나길 23 1층",
+      "mapx": "1270115756",
+      "mapy": "375731491"
+    },
+    {
+      "title": "와글와글<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창신동 573-1",
+      "roadAddress": "서울특별시 종로구 창신길 18",
+      "mapx": "1270107879",
+      "mapy": "375723719"
+    },
+    {
+      "title": "대학로<b>족발</b>보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 143-2",
+      "roadAddress": "서울특별시 종로구 대학로 149",
+      "mapx": "1270011367",
+      "mapy": "375845726"
+    }
+  ]
+}

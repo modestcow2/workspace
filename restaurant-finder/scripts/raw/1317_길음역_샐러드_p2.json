@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "주니아 <b>길음역</b>점",
+      "link": "https://www.instagram.com/junia_gireum",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 롯데캐슬트윈골드아파트 상가 지하1층 B39호",
+      "roadAddress": "서울특별시 성북구 길음로 11 롯데캐슬트윈골드아파트 상가 지하1층 B39호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    },
+    {
+      "title": "롤링핀 1976길음점",
+      "link": "https://www.instagram.com/bakery.cafe_rollingpin/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 22-1 베누스타빌딩 1층 롤링핀 1976 길음점",
+      "roadAddress": "서울특별시 성북구 도봉로 1 베누스타빌딩 1층 롤링핀 1976 길음점",
+      "mapx": "1270294137",
+      "mapy": "376092206"
+    },
+    {
+      "title": "써브웨이 길음뉴타운점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1286-10 1층 14호",
+      "roadAddress": "서울특별시 성북구 길음로7길 6 1층 14호",
+      "mapx": "1270223916",
+      "mapy": "376044799"
+    },
+    {
+      "title": "파리바게뜨 종암사거리점",
+      "link": "http://www.paris.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-544 1층",
+      "roadAddress": "서울특별시 성북구 종암로27길 18 (종암동) 1층",
+      "mapx": "1270316743",
+      "mapy": "376028477"
+    },
+    {
+      "title": "매드포갈릭 현대미아점",
+      "link": "http://www.madforgarlic.com/",
+      "category": "양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점 미아점 9층 식당가",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점 미아점 9층 식당가",
+      "mapx": "1270285398",
+      "mapy": "376081721"
+    }
+  ]
+}

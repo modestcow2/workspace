@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그린보이즈 샐러드&amp;<b>포케</b> 신촌직영점",
+      "link": "https://www.instagram.com/greenboyz.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-55 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 38 1층",
+      "mapx": "1269387436",
+      "mapy": "375583730"
+    },
+    {
+      "title": "훅트<b>포케</b> 이대점",
+      "link": "https://www.instagram.com/hookedpoke_official",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-51 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 63 1층",
+      "mapx": "1269449219",
+      "mapy": "375591086"
+    },
+    {
+      "title": "아토키토 샐러드&amp;<b>포케</b> 가좌점",
+      "link": "https://www.instagram.com/atoketo_gajwa?igshid=MzRlODBiNWFlZA==",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 385 205동 103-1호 (, DMC파크뷰자이)",
+      "roadAddress": "서울특별시 서대문구 가재울미래로 2 205동 103-1호 (남가좌동, DMC파크뷰자이)",
+      "mapx": "1269149697",
+      "mapy": "375728529"
+    },
+    {
+      "title": "슬로우캘리 홍대입구역점",
+      "link": "https://blog.naver.com/slowcali_hongdae",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 508-2 1층",
+      "roadAddress": "서울특별시 서대문구 신촌로 9 1층",
+      "mapx": "1269280118",
+      "mapy": "375585075"
+    },
+    {
+      "title": "Poke all day <b>포케</b>&amp;샐러드 신촌점",
+      "link": "https://pokeallday.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-13 1층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 16 1층",
+      "mapx": "1269353003",
+      "mapy": "375569976"
+    }
+  ]
+}

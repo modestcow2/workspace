@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "짱구<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 1층 22호",
+      "roadAddress": "서울특별시 종로구 통일로 230 1층 22호",
+      "mapx": "1269594558",
+      "mapy": "375734646"
+    },
+    {
+      "title": "BHC치킨 <b>독립문역</b>점",
+      "link": "https://www.bhc.co.kr/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-69",
+      "roadAddress": "서울특별시 종로구 통일로12길 10-16",
+      "mapx": "1269605425",
+      "mapy": "375728067"
+    },
+    {
+      "title": "소소<b>떡볶이</b> 경희궁자이점",
+      "link": "https://www.instagram.com/soso_gyeonghuigung?igsh=bGU5MzdpMnc4ZXN6&utm_source=qr",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 교북동 126 경희궁자이 상가 4109호",
+      "roadAddress": "서울특별시 종로구 송월길 155 경희궁자이 상가 4109호",
+      "mapx": "1269613066",
+      "mapy": "375715570"
+    },
+    {
+      "title": "갈현동 할머니 <b>떡볶이</b> 둘째네",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 70-4",
+      "roadAddress": "서울특별시 서대문구 영천시장길 32",
+      "mapx": "1269610833",
+      "mapy": "375706542"
+    },
+    {
+      "title": "영천<b>떡볶이</b>야",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 294 B열 8호",
+      "roadAddress": "서울특별시 서대문구 영천시장길 27 B열 8호",
+      "mapx": "1269610995",
+      "mapy": "375709023"
+    }
+  ]
+}

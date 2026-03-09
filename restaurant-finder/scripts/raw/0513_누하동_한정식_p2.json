@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "목련나무집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 58",
+      "roadAddress": "서울특별시 종로구 자하문로 74",
+      "mapx": "1269708726",
+      "mapy": "375824927"
+    },
+    {
+      "title": "모담다이닝 광화문점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688756",
+      "mapy": "375768581"
+    },
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "설가온",
+      "link": "https://blog.naver.com/mdinc6",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하1층 설가온",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하1층 설가온",
+      "mapx": "1269759463",
+      "mapy": "375726222"
+    }
+  ]
+}

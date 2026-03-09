@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "밀양손만두",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 41 1층",
+      "mapx": "1269866713",
+      "mapy": "375791625"
+    },
+    {
+      "title": "종로수제비 <b>계동</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 145 종로수제비 점",
+      "roadAddress": "서울특별시 종로구 계동길 11 (계동) 종로수제비 계동점",
+      "mapx": "1269866545",
+      "mapy": "375778450"
+    },
+    {
+      "title": "밀과보리",
+      "link": "https://www.instagram.com/milbori_",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-47 1층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 32-1 1층",
+      "mapx": "1269875023",
+      "mapy": "375794104"
+    },
+    {
+      "title": "안동손<b>칼국수</b> <b>계동</b>점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-8",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 25",
+      "mapx": "1269877060",
+      "mapy": "375792740"
+    },
+    {
+      "title": "국수명가 가회점",
+      "link": "http://kooksu.cityfood.co.kr/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 208-7 1층",
+      "roadAddress": "서울특별시 종로구 북촌로6길 1 1층",
+      "mapx": "1269851765",
+      "mapy": "375802290"
+    }
+  ]
+}

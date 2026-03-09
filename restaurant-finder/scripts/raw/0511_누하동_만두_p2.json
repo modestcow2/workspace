@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 25-1",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65",
+      "mapx": "1269690130",
+      "mapy": "375801579"
+    },
+    {
+      "title": "서촌가락",
+      "link": "",
+      "category": "한식>향토음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 31 서촌가락",
+      "roadAddress": "서울특별시 종로구 자하문로7길 59 서촌가락",
+      "mapx": "1269692463",
+      "mapy": "375798964"
+    },
+    {
+      "title": "사랑방손칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 163-1 B1, 1층",
+      "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
+      "mapx": "1269725749",
+      "mapy": "375825416"
+    },
+    {
+      "title": "덕이나루",
+      "link": "https://instagram.com/duginaru",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 27 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65-6 1층",
+      "mapx": "1269688873",
+      "mapy": "375800240"
+    },
+    {
+      "title": "서촌주점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 31 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 59 1층",
+      "mapx": "1269692323",
+      "mapy": "375799084"
+    }
+  ]
+}

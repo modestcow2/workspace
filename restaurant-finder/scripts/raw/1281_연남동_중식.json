@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "가원 연남점",
+      "link": "https://www.instagram.com/gawon1996_official",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-18 1, 2층",
+      "roadAddress": "서울특별시 마포구 동교로 227-1 1, 2층",
+      "mapx": "1269238173",
+      "mapy": "375604509"
+    },
+    {
+      "title": "월량관",
+      "link": "http://instagram.com/wolryanggwan",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-45 1층",
+      "roadAddress": "서울특별시 마포구 동교로46길 10 1층",
+      "mapx": "1269253276",
+      "mapy": "375625777"
+    },
+    {
+      "title": "몽<b>중식</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/mongjungsik",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 229-56 2층",
+      "roadAddress": "서울특별시 마포구 동교로 257 2층",
+      "mapx": "1269246557",
+      "mapy": "375628337"
+    },
+    {
+      "title": "진가",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinga_maop",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-41 2층 진가",
+      "roadAddress": "서울특별시 마포구 동교로34길 12 2층 진가",
+      "mapx": "1269249833",
+      "mapy": "375609162"
+    },
+    {
+      "title": "판다딤섬",
+      "link": "https://www.instagram.com/_pandadimsum_",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-74 2층",
+      "roadAddress": "서울특별시 마포구 동교로38안길 22 2층",
+      "mapx": "1269252074",
+      "mapy": "375622336"
+    }
+  ]
+}

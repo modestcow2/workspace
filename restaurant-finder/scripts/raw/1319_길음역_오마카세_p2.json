@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "또정초밥",
+      "link": "https://www.instagram.com/ttojeong_sushi?igsh=MXc5bHh2b2VodThnOA==",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 23-27 1층 또정초밥",
+      "roadAddress": "서울특별시 성북구 북악산로31길 39 1층 또정초밥",
+      "mapx": "1270347029",
+      "mapy": "375943254"
+    },
+    {
+      "title": "숙성사시미전문 한점에 한잔 우정초밥",
+      "link": "https://app.catchtable.co.kr/ct/shop/ONEBITEONEDRINK",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 34-6 1층 106호",
+      "roadAddress": "서울특별시 성북구 종암로5길 29 1층 106호",
+      "mapx": "1270342944",
+      "mapy": "375940939"
+    },
+    {
+      "title": "숙수도가",
+      "link": "https://blog.naver.com/twins3000",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동6가 158 1층 숙수도가",
+      "roadAddress": "서울특별시 성북구 동소문로17길 28 1층 숙수도가",
+      "mapx": "1270154307",
+      "mapy": "375935620"
+    },
+    {
+      "title": "강필 한상<b>오마카세</b>",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강북구 미아동 55-59 1층",
+      "roadAddress": "서울특별시 강북구 도봉로10가길 5 1층",
+      "mapx": "1270308969",
+      "mapy": "376133409"
+    },
+    {
+      "title": "스담",
+      "link": "http://www.facebook.com/seudam1116",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 29-28 1층 스담",
+      "roadAddress": "서울특별시 성북구 북악산로 1062 1층 스담",
+      "mapx": "1270358644",
+      "mapy": "375924213"
+    }
+  ]
+}

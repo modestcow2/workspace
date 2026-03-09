@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김밥전통만두",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 287-5",
+      "roadAddress": "서울특별시 서대문구 연희로8길 5-3",
+      "mapx": "1269301854",
+      "mapy": "375656522"
+    },
+    {
+      "title": "조은집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 133-24",
+      "roadAddress": "서울특별시 서대문구 연희맛로 43",
+      "mapx": "1269311224",
+      "mapy": "375685870"
+    },
+    {
+      "title": "연희식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 715-4 1층 101호",
+      "roadAddress": "서울특별시 서대문구 홍연길 82 1층 101호",
+      "mapx": "1269312452",
+      "mapy": "375765752"
+    },
+    {
+      "title": "참나무골",
+      "link": "",
+      "category": "음식점>뷔페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 670 1층",
+      "roadAddress": "서울특별시 서대문구 홍제천로6길 11 1층",
+      "mapx": "1269252272",
+      "mapy": "375739620"
+    },
+    {
+      "title": "풍성삼겹살",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 169-23",
+      "roadAddress": "서울특별시 서대문구 홍제천로 208",
+      "mapx": "1269357630",
+      "mapy": "375794500"
+    }
+  ]
+}

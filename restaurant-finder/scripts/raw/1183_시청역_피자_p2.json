@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도치<b>피자</b> 광화문",
+      "link": "https://www.instagram.com/dochi_pz",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-49",
+      "roadAddress": "서울특별시 중구 세종대로21길 67-2",
+      "mapx": "1269755204",
+      "mapy": "375692966"
+    },
+    {
+      "title": "메이드인시카고<b>피자</b>",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 365 2층",
+      "roadAddress": "서울특별시 중구 덕수궁길 5 2층",
+      "mapx": "1269764641",
+      "mapy": "375647953"
+    },
+    {
+      "title": "디라이프스타일키친 광화문점",
+      "link": "https://dlifestyle.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "올리페페 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ollipepe_gwanghwamun",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 149 2층 올리페페",
+      "roadAddress": "서울특별시 종로구 청계천로 11 2층 올리페페",
+      "mapx": "1269789879",
+      "mapy": "375694150"
+    },
+    {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    }
+  ]
+}

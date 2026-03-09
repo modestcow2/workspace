@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "핫떡 <b>정릉</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 110-40 1층 핫떡",
+      "roadAddress": "서울특별시 성북구 아리랑로 120 1층 핫떡",
+      "mapx": "1270137180",
+      "mapy": "376026094"
+    },
+    {
+      "title": "달고나꼬마김밥 <b>정릉</b>점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 416-2 1층 달고나 꼬마김밥",
+      "roadAddress": "서울특별시 성북구 보국문로 13-1 1층 달고나 꼬마김밥",
+      "mapx": "1270111006",
+      "mapy": "376058391"
+    },
+    {
+      "title": "동네사람",
+      "link": "https://www.instagram.com/dongnesaram_",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 406",
+      "roadAddress": "서울특별시 성북구 보국문로 19",
+      "mapx": "1270107827",
+      "mapy": "376063344"
+    },
+    {
+      "title": "주락",
+      "link": "http://cityfood.co.kr/h9/jurak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 894-15 1층",
+      "roadAddress": "서울특별시 성북구 정릉로10길 31 1층",
+      "mapx": "1269999435",
+      "mapy": "376075924"
+    },
+    {
+      "title": "동대문엽기<b>떡볶이</b> <b>정릉</b>점",
+      "link": "https://blog.naver.com/ddm_yupdduk",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 164-15",
+      "roadAddress": "서울특별시 성북구 보국문로 4",
+      "mapx": "1270117450",
+      "mapy": "376050023"
+    }
+  ]
+}

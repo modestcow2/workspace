@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소금집델리 안국",
+      "link": "https://www.salthousekorea.com",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 101-12 1층",
+      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
+      "mapx": "1269863175",
+      "mapy": "375794136"
+    },
+    {
+      "title": "대장장이화덕피자",
+      "link": "http://pf.kakao.com/_Zscxmb",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 202-1",
+      "roadAddress": "서울특별시 종로구 북촌로 42-4",
+      "mapx": "1269853702",
+      "mapy": "375805827"
+    },
+    {
+      "title": "노윤",
+      "link": "https://app.catchtable.co.kr/ct/shop/no_yoon",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-41 1층 101호",
+      "roadAddress": "서울특별시 종로구 계동길 50 1층 101호",
+      "mapx": "1269868060",
+      "mapy": "375794954"
+    },
+    {
+      "title": "<b>계동</b>피자",
+      "link": "https://youtube.com/@kindk7985",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 82-1 1층 피자",
+      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
+      "mapx": "1269866587",
+      "mapy": "375801802"
+    },
+    {
+      "title": "헤비스테이크 안국역점",
+      "link": "http://www.heavysteak.co.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 67 1층",
+      "mapx": "1269866512",
+      "mapy": "375772781"
+    }
+  ]
+}

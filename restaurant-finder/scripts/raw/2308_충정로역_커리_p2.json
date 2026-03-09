@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "하지메노미세",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 215 1층 A-16호",
+      "roadAddress": "서울특별시 서대문구 충정로6길 59 1층 A-16호",
+      "mapx": "1269680036",
+      "mapy": "375624407"
+    },
+    {
+      "title": "더 스푼",
+      "link": "",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 61-1",
+      "roadAddress": "서울특별시 서대문구 충정로6길 35",
+      "mapx": "1269666148",
+      "mapy": "375625478"
+    },
+    {
+      "title": "츄츄",
+      "link": "https://www.instagram.com/chew_chew105",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 105-1 1층 츄츄",
+      "roadAddress": "서울특별시 서대문구 충정로6길 37 1층 츄츄",
+      "mapx": "1269667702",
+      "mapy": "375625446"
+    },
+    {
+      "title": "샐러디 <b>충정로역</b>점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 465 1층 105호",
+      "roadAddress": "서울특별시 서대문구 서소문로 27 1층 105호",
+      "mapx": "1269648271",
+      "mapy": "375601810"
+    },
+    {
+      "title": "살라아띠",
+      "link": "https://www.instagram.com/salaatti__chungjeongno?igsh=MzRlODBiNWFlZA==",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 355 1층 112호",
+      "roadAddress": "서울특별시 중구 청파로 464 1층 112호",
+      "mapx": "1269682593",
+      "mapy": "375604973"
+    }
+  ]
+}

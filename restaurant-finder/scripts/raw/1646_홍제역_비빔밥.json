@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무학바지락칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-29",
+      "roadAddress": "서울특별시 서대문구 통일로35길 6",
+      "mapx": "1269462280",
+      "mapy": "375863988"
+    },
+    {
+      "title": "남도한정식",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-40 1층",
+      "roadAddress": "서울특별시 서대문구 통일로35길 11 1층",
+      "mapx": "1269459305",
+      "mapy": "375862283"
+    },
+    {
+      "title": "담은식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 301-11 담은식당",
+      "roadAddress": "서울특별시 서대문구 통일로 462-10 담은식당",
+      "mapx": "1269434336",
+      "mapy": "375901740"
+    },
+    {
+      "title": "육로",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-71 1 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39길 6 1 1층",
+      "mapx": "1269438239",
+      "mapy": "375883879"
+    },
+    {
+      "title": "안짱",
+      "link": "http://www.instagram.com/anjjang.3.5",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 308-209 1층 안짱",
+      "roadAddress": "서울특별시 서대문구 통일로39길 32 1층 안짱",
+      "mapx": "1269427588",
+      "mapy": "375878184"
+    }
+  ]
+}

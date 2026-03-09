@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "전설의우대<b>갈비</b> 서울시청직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    },
+    {
+      "title": "온점 을지로점",
+      "link": "https://www.instagram.com/onjeom.seoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 87 지1층",
+      "roadAddress": "서울특별시 중구 을지로 29 지1층",
+      "mapx": "1269810422",
+      "mapy": "375664910"
+    },
+    {
+      "title": "육통령 <b>명동</b>본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-36",
+      "roadAddress": "서울특별시 중구 명동8나길 37-2",
+      "mapx": "1269828439",
+      "mapy": "375611991"
+    },
+    {
+      "title": "난로은회 을지로",
+      "link": "https://app.catchtable.co.kr/ct/shop/nanroeunhoi_euljiro",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 203 파인에비뉴 B동 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 100 파인에비뉴 B동 지하1층",
+      "mapx": "1269889089",
+      "mapy": "375658847"
+    },
+    {
+      "title": "오공일 <b>명동</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로2가 111-1 2층",
+      "roadAddress": "서울특별시 중구 남대문로 55 2층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "화락관 <b>신촌</b> 본점",
+      "link": "https://www.instagram.com/hwarakgwan/profilecard/?igsh=bjVwMDliZm9yZ2hn",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 109-86 1층 화락관",
+      "roadAddress": "서울특별시 마포구 서강로 126-1 1층 화락관",
+      "mapx": "1269348963",
+      "mapy": "375535815"
+    },
+    {
+      "title": "해탄 <b>신촌</b>점",
+      "link": "https://youtube.com/shorts/sArmvG7HyAU",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-42 지상1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 30 지상1층",
+      "mapx": "1269384894",
+      "mapy": "375575558"
+    },
+    {
+      "title": "온방샤브칼국수",
+      "link": "https://catchtable.co.kr/OnbangShabu",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-9 2층 온방샤브칼국수",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 6 2층 온방샤브칼국수",
+      "mapx": "1269359239",
+      "mapy": "375570074"
+    },
+    {
+      "title": "남도가는길 김형순",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 107-104 지하1층",
+      "roadAddress": "서울특별시 마포구 백범로 18 지하1층",
+      "mapx": "1269369021",
+      "mapy": "375532031"
+    },
+    {
+      "title": "먼동",
+      "link": "https://catchtable.co.kr/meondong",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 19-52 2층",
+      "roadAddress": "서울특별시 마포구 백범로1길 60 2층",
+      "mapx": "1269399018",
+      "mapy": "375554391"
+    }
+  ]
+}

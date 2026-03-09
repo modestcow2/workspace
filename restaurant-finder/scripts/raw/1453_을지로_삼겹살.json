@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대화정 진짜해장국",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-85 1층",
+      "roadAddress": "서울특별시 중구 장충단로 249-20 1층",
+      "mapx": "1270077551",
+      "mapy": "375675754"
+    },
+    {
+      "title": "산청숯불가든 <b>을지로</b>",
+      "link": "https://www.instagram.com/sancheongin/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 343-1 1층",
+      "roadAddress": "서울특별시 중구 을지로 114-6 1층",
+      "mapx": "1269906186",
+      "mapy": "375658389"
+    },
+    {
+      "title": "<b>삼겹살</b> 전문점 대통령",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-40",
+      "roadAddress": "서울특별시 중구 장충단로 249-24",
+      "mapx": "1270076734",
+      "mapy": "375674462"
+    },
+    {
+      "title": "본고향맛집 <b>을지로</b>4가점",
+      "link": "https://blog.naver.com/bongohyang",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 123-1 세진빌딩",
+      "roadAddress": "서울특별시 중구 창경궁로 67 세진빌딩",
+      "mapx": "1269978304",
+      "mapy": "375683626"
+    },
+    {
+      "title": "용삼식당 <b>을지로</b>",
+      "link": "https://yongsamsikdang.com/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-28 1층",
+      "roadAddress": "서울특별시 중구 충무로7길 3 1층",
+      "mapx": "1269923435",
+      "mapy": "375658028"
+    }
+  ]
+}

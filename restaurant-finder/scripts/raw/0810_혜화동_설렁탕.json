@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "100년<b>설렁탕</b> 대학로점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 111-2 1층 100년설렁탕",
+      "roadAddress": "서울특별시 종로구 대학로9길 18 1층 100년설렁탕",
+      "mapx": "1270008801",
+      "mapy": "375817817"
+    },
+    {
+      "title": "한촌<b>설렁탕</b> 대학로점",
+      "link": "https://baemin.me/GDkTuDUaZ",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 90",
+      "roadAddress": "서울특별시 종로구 대학로11길 3",
+      "mapx": "1270014932",
+      "mapy": "375822783"
+    },
+    {
+      "title": "일송칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜1가 75-1 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 44 1층",
+      "mapx": "1269968020",
+      "mapy": "375865688"
+    },
+    {
+      "title": "명륜손칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜1가 31-23",
+      "roadAddress": "서울특별시 종로구 혜화로 45-5",
+      "mapx": "1269988480",
+      "mapy": "375894539"
+    },
+    {
+      "title": "동숭숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 118-8",
+      "roadAddress": "서울특별시 종로구 대학로9길 26",
+      "mapx": "1270005992",
+      "mapy": "375816895"
+    }
+  ]
+}

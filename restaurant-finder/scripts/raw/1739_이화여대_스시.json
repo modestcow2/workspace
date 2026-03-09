@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연어초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 101-10 3층",
+      "roadAddress": "서울특별시 서대문구 이화여대1길 42-1 3층",
+      "mapx": "1269434040",
+      "mapy": "375572739"
+    },
+    {
+      "title": "하늘초밥",
+      "link": "http://instagram.com/sorasky0616",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 45-17 1층 하늘초밥",
+      "roadAddress": "서울특별시 서대문구 이화여대2길 14 1층 하늘초밥",
+      "mapx": "1269467199",
+      "mapy": "375573422"
+    },
+    {
+      "title": "한끼마끼",
+      "link": "http://www.instagram.com/hankki_makki",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 40-34 1층한끼마끼",
+      "roadAddress": "서울특별시 서대문구 이화여대1길 15 1층한끼마끼",
+      "mapx": "1269449107",
+      "mapy": "375572175"
+    },
+    {
+      "title": "이코노<b>스시</b>본점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 101-5",
+      "roadAddress": "서울특별시 서대문구 신촌역로 14",
+      "mapx": "1269430156",
+      "mapy": "375578346"
+    },
+    {
+      "title": "군초밥",
+      "link": "https://www.instagram.com/goon.sushi/profilecard/?igsh=aXk4bzN4bzA2dXR6",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-11 2층 42호",
+      "roadAddress": "서울특별시 서대문구 신촌역로 22-5 2층 42호",
+      "mapx": "1269430519",
+      "mapy": "375589259"
+    }
+  ]
+}

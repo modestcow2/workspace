@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "친친랩 연남본점",
+      "link": "https://kko.kakao.com/3t3g5Znbn6",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 370-30 1층",
+      "roadAddress": "서울특별시 마포구 연남로7길 24 1층",
+      "mapx": "1269189863",
+      "mapy": "375637397"
+    },
+    {
+      "title": "봉쥬르밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 257-6 지층 101호",
+      "roadAddress": "서울특별시 마포구 성미산로26길 37 지층 101호",
+      "mapx": "1269234684",
+      "mapy": "375622927"
+    },
+    {
+      "title": "일파정",
+      "link": "https://www.instagram.com/ilpajung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 224-51 지층 B101호",
+      "roadAddress": "서울특별시 마포구 동교로52길 20-4 지층 B101호",
+      "mapx": "1269272237",
+      "mapy": "375636025"
+    },
+    {
+      "title": "모래내설농탕본점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 415-42",
+      "roadAddress": "서울특별시 서대문구 모래내로 271",
+      "mapx": "1269280632",
+      "mapy": "375771319"
+    },
+    {
+      "title": "서래옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 384-9",
+      "roadAddress": "서울특별시 마포구 양화로11길 68",
+      "mapx": "1269130077",
+      "mapy": "375520706"
+    }
+  ]
+}

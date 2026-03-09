@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "중림동기내식",
+      "link": "http://instagram.com/kayjay3232/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 61-4 B동1층",
+      "roadAddress": "서울특별시 중구 청파로 443 B동1층",
+      "mapx": "1269686892",
+      "mapy": "375589940"
+    },
+    {
+      "title": "춘리<b>마라탕</b> 서대문점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 192 102호",
+      "roadAddress": "서울특별시 서대문구 충정로 59 102호",
+      "mapx": "1269651076",
+      "mapy": "375642375"
+    },
+    {
+      "title": "샤오당쟈<b>마라탕</b> <b>충정로역</b>점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 465 1층 101호",
+      "roadAddress": "서울특별시 서대문구 서소문로 27 1층 101호",
+      "mapx": "1269646550",
+      "mapy": "375602447"
+    },
+    {
+      "title": "따제<b>마라탕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 185-3 지하1층",
+      "roadAddress": "서울특별시 서대문구 경기대로 42 지하1층",
+      "mapx": "1269621982",
+      "mapy": "375630407"
+    },
+    {
+      "title": "성민양꼬치 서대문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 161-2 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 143-7 1층",
+      "mapx": "1269648040",
+      "mapy": "375671795"
+    }
+  ]
+}

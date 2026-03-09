@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한양중식 종로점",
+      "link": "http://www.instagram.com/haanyang/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
+      "mapx": "1269836975",
+      "mapy": "375706386"
+    },
+    {
+      "title": "한원",
+      "link": "http://01041754007.tshome.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 39 102호",
+      "roadAddress": "서울특별시 성북구 성북로5길 12 102호",
+      "mapx": "1270043562",
+      "mapy": "375890554"
+    },
+    {
+      "title": "안동장",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 315-1",
+      "roadAddress": "서울특별시 중구 을지로 124",
+      "mapx": "1269915576",
+      "mapy": "375661354"
+    },
+    {
+      "title": "서래향 대학로점",
+      "link": "https://www.instagram.com/verefood_official",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-94 1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 64 1층",
+      "mapx": "1270036981",
+      "mapy": "375812584"
+    },
+    {
+      "title": "갸우뚱",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyauttung_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 132",
+      "roadAddress": "서울특별시 종로구 대학로9길 25",
+      "mapx": "1270004372",
+      "mapy": "375816140"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서평옥 광화문본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1",
+      "roadAddress": "서울특별시 종로구 종로1길 42",
+      "mapx": "1269789959",
+      "mapy": "375739044"
+    },
+    {
+      "title": "뚝배기양평<b>해장국</b> 종로구청점",
+      "link": "http://haejangcook.com",
+      "category": "음식점>한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 80-6 석탄회관 지하 1층탄회관 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로5길 58 석탄회관 지하 1층탄회관 지하 1층",
+      "mapx": "1269803368",
+      "mapy": "375729202"
+    },
+    {
+      "title": "담소 누룽지백숙",
+      "link": "http://instagram.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브 파빌리온 지하1층 120호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브 파빌리온 지하1층 120호",
+      "mapx": "1269817944",
+      "mapy": "375723869"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
+      "title": "이복희해장 종로직영점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 7-14 1층, 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 385 1층, 2층",
+      "mapx": "1269873599",
+      "mapy": "375689415"
+    }
+  ]
+}

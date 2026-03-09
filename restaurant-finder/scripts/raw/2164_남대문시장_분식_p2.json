@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "애니떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-121",
+      "roadAddress": "서울특별시 중구 남대문시장4길 12",
+      "mapx": "1269771930",
+      "mapy": "375596915"
+    },
+    {
+      "title": "숭례<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-106",
+      "roadAddress": "서울특별시 중구 남대문시장2길 5",
+      "mapx": "1269766273",
+      "mapy": "375597848"
+    },
+    {
+      "title": "<b>남대문</b>달님즉석떡볶이 서울역본점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 지하 1층 111호",
+      "roadAddress": "서울특별시 중구 칠패로 27 지하 1층 111호",
+      "mapx": "1269721500",
+      "mapy": "375600347"
+    },
+    {
+      "title": "싸다김밥 시청역점",
+      "link": "https://ssadagb.com",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-5 해남빌딩 본관 1층 116호",
+      "roadAddress": "서울특별시 중구 세종대로 64 해남빌딩 본관 1층 116호",
+      "mapx": "1269765121",
+      "mapy": "375620705"
+    },
+    {
+      "title": "가메골손왕만두 <b>남대문</b>본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
+    }
+  ]
+}

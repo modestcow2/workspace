@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정원레스토랑 어반가든",
+      "link": "http://urbangarden.co.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 28-2",
+      "roadAddress": "서울특별시 중구 정동길 12-15",
+      "mapx": "1269692254",
+      "mapy": "375674386"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
+    },
+    {
+      "title": "울프강 <b>스테이크</b>하우스 광화문점",
+      "link": "http://wolfgangssteakhouse.co.kr",
+      "category": "음식점>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-21 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 40 2층",
+      "mapx": "1269757642",
+      "mapy": "375681718"
+    },
+    {
+      "title": "퍼스트플로어 센트럴",
+      "link": "http://fpcs.co.kr/dining-bar/first-floor",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 214 프레이저플레이스 호텔 1층",
+      "roadAddress": "서울특별시 중구 통일로 78 프레이저플레이스 호텔 1층",
+      "mapx": "1269697479",
+      "mapy": "375624505"
+    },
+    {
+      "title": "정동1946 서울시청본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 34-5 LL층 1946",
+      "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
+      "mapx": "1269728071",
+      "mapy": "375633419"
+    }
+  ]
+}

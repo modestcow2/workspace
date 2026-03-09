@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "셔우드",
+      "link": "https://instagram.com/sherwood.seoul?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 189-5 2층",
+      "roadAddress": "서울특별시 마포구 와우산로37길 11 2층",
+      "mapx": "1269301940",
+      "mapy": "375560664"
+    },
+    {
+      "title": "레이몬드 <b>홍대</b>점",
+      "link": "https://catchtable.co.kr/raymond",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 168-7 1층",
+      "roadAddress": "서울특별시 마포구 양화로18안길 15 1층",
+      "mapx": "1269254106",
+      "mapy": "375568888"
+    },
+    {
+      "title": "<b>홍대</b>IN파스타",
+      "link": "https://www.instagram.com/hongdae_in_pasta",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 355-5 준빌라",
+      "roadAddress": "서울특별시 마포구 홍익로5안길 32 준빌라",
+      "mapx": "1269211407",
+      "mapy": "375534442"
+    },
+    {
+      "title": "로쏘 1924 나폴리 화덕<b>피자</b> <b>홍대</b>점",
+      "link": "https://naver.me/xtgzr1zo",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 354-2 1층 로쏘 1924 나폴리 화덕피자",
+      "roadAddress": "서울특별시 마포구 홍익로 29 1층 로쏘 1924 나폴리 화덕피자",
+      "mapx": "1269217268",
+      "mapy": "375545240"
+    },
+    {
+      "title": "더<b>피자</b>보이즈 <b>홍대입구</b>역점",
+      "link": "https://www.instagram.com/thepizzaboyz_machef",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 332-33 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29마길 24-1 1층",
+      "mapx": "1269260660",
+      "mapy": "375552755"
+    }
+  ]
+}

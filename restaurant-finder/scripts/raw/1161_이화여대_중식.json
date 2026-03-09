@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "완차이",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-35 1층 완차이",
+      "roadAddress": "서울특별시 서대문구 명물길 50-7 1층 완차이",
+      "mapx": "1269393929",
+      "mapy": "375587237"
+    },
+    {
+      "title": "천진분식",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-24 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 7 1층",
+      "mapx": "1269452845",
+      "mapy": "375582678"
+    },
+    {
+      "title": "댄싱홍콩 신촌점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-77 1층 댄싱홍콩",
+      "roadAddress": "서울특별시 서대문구 연세로12길 37-4 1층 댄싱홍콩",
+      "mapx": "1269391153",
+      "mapy": "375592662"
+    },
+    {
+      "title": "연래춘",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 19-40 2층",
+      "roadAddress": "서울특별시 마포구 신촌로22길 9 (노고산동,2층)",
+      "mapx": "1269403959",
+      "mapy": "375555857"
+    },
+    {
+      "title": "무릉도원 이대점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 53-9",
+      "roadAddress": "서울특별시 서대문구 이화여대2가길 24",
+      "mapx": "1269462652",
+      "mapy": "375585213"
+    }
+  ]
+}

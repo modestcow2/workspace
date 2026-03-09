@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정돈 현대백화점 미아점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 지하1층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 지하1층",
+      "mapx": "1270289902",
+      "mapy": "376084920"
+    },
+    {
+      "title": "야마모리야",
+      "link": "",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 . 지1층 B19,20호",
+      "roadAddress": "서울특별시 성북구 길음로 11 . 지1층 B19,20호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    },
+    {
+      "title": "리틀방콕 길음뉴타운점",
+      "link": "http://littlebkk.com/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1284 길음뉴타운 상가 1층",
+      "roadAddress": "서울특별시 성북구 길음로 33 길음뉴타운 상가 1층",
+      "mapx": "1270213479",
+      "mapy": "376071782"
+    },
+    {
+      "title": "신이치 현대백화점 미아점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점 미아점 지하1층 신이치",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점 미아점 지하1층 신이치",
+      "mapx": "1270290189",
+      "mapy": "376082494"
+    },
+    {
+      "title": "가본",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 230 동일하이빌 뉴시티 121호",
+      "roadAddress": "서울특별시 성북구 종암로 167 동일하이빌 뉴시티 121호",
+      "mapx": "1270310957",
+      "mapy": "376052719"
+    }
+  ]
+}

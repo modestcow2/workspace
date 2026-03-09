@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영월사랑방식당 광화문점",
+      "link": "https://ohjingoh.mysoho.com/product/34782",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 아케이드 B1 67호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 67호",
+      "mapx": "1269743207",
+      "mapy": "375719690"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "훈이네밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 지하 1층 23호 훈이네밥상",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지하 1층 23호 훈이네밥상",
+      "mapx": "1269735549",
+      "mapy": "375717853"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    },
+    {
+      "title": "인사동보리밥 본점",
+      "link": "https://smartstore.naver.com/greatsfb",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-17 지하1층",
+      "roadAddress": "서울특별시 종로구 인사동7길 37 지하1층",
+      "mapx": "1269847327",
+      "mapy": "375725991"
+    }
+  ]
+}

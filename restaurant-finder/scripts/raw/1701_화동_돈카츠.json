@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소소한행복",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-23",
+      "roadAddress": "서울특별시 종로구 율곡로3길 78",
+      "mapx": "1269822499",
+      "mapy": "375791400"
+    },
+    {
+      "title": "연남토마 북촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yntm_bc",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39 1층",
+      "mapx": "1269827234",
+      "mapy": "375793518"
+    },
+    {
+      "title": "정독도서관 구내식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 2",
+      "roadAddress": "서울특별시 종로구 북촌로5길 48",
+      "mapx": "1269838671",
+      "mapy": "375811536"
+    },
+    {
+      "title": "서울풍경",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-6",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39",
+      "mapx": "1269827007",
+      "mapy": "375793042"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    }
+  ]
+}

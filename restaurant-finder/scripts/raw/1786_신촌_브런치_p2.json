@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카페 블랙번즈 <b>신촌</b>점",
+      "link": "https://www.instagram.com/blackburns_main",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-91 2층 블랙번즈",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 42 2층 블랙번즈",
+      "mapx": "1269345166",
+      "mapy": "375584052"
+    },
+    {
+      "title": "10593 베이글커피하우스 <b>신촌</b>점",
+      "link": "https://smartstore.naver.com/1059-3bagel",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-8 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 28 1층",
+      "mapx": "1269382944",
+      "mapy": "375580433"
+    },
+    {
+      "title": "내안에카페인",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 31-66 1층 102호",
+      "roadAddress": "서울특별시 마포구 백범로1길 8-9 1층 102호",
+      "mapx": "1269377719",
+      "mapy": "375539042"
+    },
+    {
+      "title": "뽁식당 <b>신촌</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/bbok_sinchon",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-17 1층~4층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 24 1층~4층",
+      "mapx": "1269348603",
+      "mapy": "375570525"
+    },
+    {
+      "title": "카페 호기심",
+      "link": "https://www.instagram.com/cafe_hokisim/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 120-14 지하1~지상4층",
+      "roadAddress": "서울특별시 마포구 서강로14길 5 지하1~지상4층",
+      "mapx": "1269341066",
+      "mapy": "375528073"
+    }
+  ]
+}

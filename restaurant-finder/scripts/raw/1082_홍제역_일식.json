@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "네츠라멘",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-238 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 1 1층",
+      "mapx": "1269434810",
+      "mapy": "375884950"
+    },
+    {
+      "title": "홍제상회",
+      "link": "https://www.instagram.com/hongje_store",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-5 1층",
+      "roadAddress": "서울특별시 서대문구 세무서길 67 1층",
+      "mapx": "1269464261",
+      "mapy": "375909638"
+    },
+    {
+      "title": "문화촌초밥집",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-21 1층 문화촌초밥집",
+      "roadAddress": "서울특별시 서대문구 세무서7길 12-6 1층 문화촌초밥집",
+      "mapx": "1269465766",
+      "mapy": "375917076"
+    },
+    {
+      "title": "소담촌 홍제점",
+      "link": "",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-33 5층 502호",
+      "roadAddress": "서울특별시 서대문구 통일로 413 5층 502호",
+      "mapx": "1269464449",
+      "mapy": "375862021"
+    },
+    {
+      "title": "소소식탁 홍제",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 326-12 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 475 1층",
+      "mapx": "1269419769",
+      "mapy": "375904620"
+    }
+  ]
+}

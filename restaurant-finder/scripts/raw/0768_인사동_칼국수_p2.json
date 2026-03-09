@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "인사샤브정",
+      "link": "https://blog.naver.com/insa-shabushabu",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 7 1층",
+      "roadAddress": "서울특별시 종로구 인사동6길 14 1층",
+      "mapx": "1269866792",
+      "mapy": "375735491"
+    },
+    {
+      "title": "북촌<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 72",
+      "roadAddress": "서울특별시 종로구 인사동길 50",
+      "mapx": "1269843355",
+      "mapy": "375745744"
+    },
+    {
+      "title": "밀포유 <b>인사동</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mfu_insa?from=share&type=WAITING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-13",
+      "roadAddress": "서울특별시 종로구 인사동8길 13",
+      "mapx": "1269859037",
+      "mapy": "375740549"
+    },
+    {
+      "title": "황생가<b>칼국수</b> 종로타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B206,B207호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206,B207호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "최대감네",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 경운동 64-47",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-3",
+      "mapx": "1269861240",
+      "mapy": "375740750"
+    }
+  ]
+}

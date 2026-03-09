@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고기꾼김춘배 <b>홍대</b>본점",
+      "link": "https://catchtable.co.kr/gokiggun_hd",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 369-44 3층",
+      "roadAddress": "서울특별시 마포구 홍익로3길 36 3층",
+      "mapx": "1269215517",
+      "mapy": "375528341"
+    },
+    {
+      "title": "육몽 <b>홍대</b>본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 355-13 1-3층",
+      "roadAddress": "서울특별시 마포구 양화로16길 19 1-3층",
+      "mapx": "1269206933",
+      "mapy": "375531962"
+    },
+    {
+      "title": "청돈옥 <b>홍대</b>본점",
+      "link": "https://www.instagram.com/chungdonok",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 368-26 1층 청돈옥",
+      "roadAddress": "서울특별시 마포구 잔다리로6길 10 1층 청돈옥",
+      "mapx": "1269196179",
+      "mapy": "375519884"
+    },
+    {
+      "title": "부추긴돼지",
+      "link": "https://www.instagram.com/chive_pig",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-103 1층",
+      "roadAddress": "서울특별시 마포구 연희로1길 59 1층",
+      "mapx": "1269264400",
+      "mapy": "375614640"
+    },
+    {
+      "title": "돼지명가 연남점",
+      "link": "https://www.instagram.com/myungga_yeonnam",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 198-22 1층",
+      "roadAddress": "서울특별시 마포구 동교로 221 1층",
+      "mapx": "1269235862",
+      "mapy": "375597866"
+    }
+  ]
+}

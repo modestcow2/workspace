@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라 스위스 서촌",
+      "link": "https://blog.naver.com/ysimkim",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 25-2 끄레아주차장 안",
+      "roadAddress": "서울특별시 종로구 자하문로6길 11-36 끄레아주차장 안",
+      "mapx": "1269726212",
+      "mapy": "375786629"
+    },
+    {
+      "title": "아델라베일리",
+      "link": "https://blog.naver.com/kiyna",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 23-3",
+      "roadAddress": "서울특별시 종로구 북악산로 48",
+      "mapx": "1269702503",
+      "mapy": "375952438"
+    },
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
+      "mapx": "1269814921",
+      "mapy": "375880187"
+    },
+    {
+      "title": "까델루뽀",
+      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 39-1",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
+      "mapx": "1269714259",
+      "mapy": "375818165"
+    },
+    {
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
+    }
+  ]
+}

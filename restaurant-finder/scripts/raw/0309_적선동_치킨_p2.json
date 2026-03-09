@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "홈보이서울",
+      "link": "http://www.instagram.com/homeboy_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 1층 홈보이서울",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
+      "mapx": "1269730709",
+      "mapy": "375762354"
+    },
+    {
+      "title": "사직동 그 가게",
+      "link": "http://www.rogpa.com",
+      "category": "테마카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 1-7",
+      "roadAddress": "서울특별시 종로구 사직로9길 18",
+      "mapx": "1269677898",
+      "mapy": "375770928"
+    },
+    {
+      "title": "효도<b>치킨</b> 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hyodochicken_gwanghwa",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 197 1, 2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 21-1 1, 2층",
+      "mapx": "1269710660",
+      "mapy": "375746043"
+    },
+    {
+      "title": "금성슈퍼 광화문본점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 7-5 금성슈퍼 광화문본점 1F",
+      "roadAddress": "서울특별시 종로구 새문안로9길 9 금성슈퍼 광화문본점 1F",
+      "mapx": "1269759933",
+      "mapy": "375706901"
+    },
+    {
+      "title": "태성골뱅이신사 본점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 129 1층",
+      "roadAddress": "서울특별시 중구 을지로3길 35 1층",
+      "mapx": "1269813057",
+      "mapy": "375677406"
+    }
+  ]
+}

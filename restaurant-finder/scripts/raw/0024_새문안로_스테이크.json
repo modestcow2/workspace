@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포시즌스 호텔 서울 보칼리노",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 2층",
+      "mapx": "1269754535",
+      "mapy": "375706990"
+    },
+    {
+      "title": "엘 꾸비또",
+      "link": "https://www.instagram.com/el_cubito_official",
+      "category": "음식점>스페인음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하2층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하2층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "포시즌스 호텔 서울 더 마켓 키친",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 LL층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 LL층",
+      "mapx": "1269753817",
+      "mapy": "375707185"
+    },
+    {
+      "title": "돌고래밥",
+      "link": "https://www.instagram.com/dolphinrice_1/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 제02호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 제02호",
+      "mapx": "1269746331",
+      "mapy": "375697325"
+    },
+    {
+      "title": "포시즌스 호텔 서울 아키라 백",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 12층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 12층",
+      "mapx": "1269753951",
+      "mapy": "375706979"
+    }
+  ]
+}

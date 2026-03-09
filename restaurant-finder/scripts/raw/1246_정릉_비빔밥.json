@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼양동우동집 <b>정릉</b>직영점",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 164-2 1층 삼양동우동집 정릉직영점",
+      "roadAddress": "서울특별시 성북구 보국문로 6 1층 삼양동우동집 정릉직영점",
+      "mapx": "1270116522",
+      "mapy": "376052008"
+    },
+    {
+      "title": "소연",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 161-28 1층",
+      "roadAddress": "서울특별시 성북구 정릉로 251-26 1층",
+      "mapx": "1270121837",
+      "mapy": "376046974"
+    },
+    {
+      "title": "김영희강남동태찜 <b>정릉</b>점",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 160-4 2층",
+      "roadAddress": "서울특별시 성북구 정릉로 263 2층",
+      "mapx": "1270128920",
+      "mapy": "376040646"
+    },
+    {
+      "title": "<b>정릉</b>골오리집",
+      "link": "",
+      "category": "한식>오리요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 697-3",
+      "roadAddress": "서울특별시 성북구 솔샘로 16-7",
+      "mapx": "1270052553",
+      "mapy": "376093892"
+    },
+    {
+      "title": "김밥싸고 커피내리고",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동5가 166 1층",
+      "roadAddress": "서울특별시 성북구 아리랑로 58 1층",
+      "mapx": "1270148078",
+      "mapy": "375977925"
+    }
+  ]
+}

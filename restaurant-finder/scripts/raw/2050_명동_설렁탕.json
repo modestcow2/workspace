@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미성옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 54-6",
+      "roadAddress": "서울특별시 중구 명동길 25-11",
+      "mapx": "1269839596",
+      "mapy": "375641835"
+    },
+    {
+      "title": "신가원 <b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 141 신가원설렁탕",
+      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
+      "mapx": "1269815002",
+      "mapy": "375670246"
+    },
+    {
+      "title": "이남장 을지로본점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-32",
+      "roadAddress": "서울특별시 중구 삼일대로12길 16",
+      "mapx": "1269886620",
+      "mapy": "375666640"
+    },
+    {
+      "title": "이남장 <b>명동</b>점",
+      "link": "https://www.instagram.com/i.nam.jang.myeongdong/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-63 1~2층 이남장 명동점",
+      "roadAddress": "서울특별시 중구 명동9길 39 1~2층 이남장 명동점",
+      "mapx": "1269840776",
+      "mapy": "375655402"
+    },
+    {
+      "title": "갈비명가이상 <b>명동</b>점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 206 2층",
+      "roadAddress": "서울특별시 중구 퇴계로 72 2층",
+      "mapx": "1269806038",
+      "mapy": "375591254"
+    }
+  ]
+}

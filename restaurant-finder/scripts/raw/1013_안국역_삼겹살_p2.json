@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "853",
+      "link": "https://www.facebook.com/bbq853",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 84-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동12길 16 1층",
+      "mapx": "1269850965",
+      "mapy": "375747440"
+    },
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
+      "title": "인사동쭈꾸미",
+      "link": "http://instagram.com/insadong_chungsik",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
+      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
+      "mapx": "1269858898",
+      "mapy": "375791440"
+    },
+    {
+      "title": "익선끝집",
+      "link": "https://www.instagram.com/ikssun_endhouse?igsh=emxvdHQxYjBicnY3",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 56 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 10-3 1층",
+      "mapx": "1269883782",
+      "mapy": "375737625"
+    },
+    {
+      "title": "어부몽 인사점",
+      "link": "https://www.instagram.com/abumong.2024",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    }
+  ]
+}

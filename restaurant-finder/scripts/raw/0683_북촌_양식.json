@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "콩카세 안국",
+      "link": "https://catchtable.co.kr/concasse_anguk",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-31 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
+      "mapx": "1269858330",
+      "mapy": "375781862"
+    },
+    {
+      "title": "비움안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
+      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
+      "mapx": "1269856635",
+      "mapy": "375791098"
+    },
+    {
+      "title": "스미스가좋아하는한옥",
+      "link": "https://www.instagram.com/smith_hanok",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 62-1",
+      "roadAddress": "서울특별시 종로구 삼청로 22-7",
+      "mapx": "1269801792",
+      "mapy": "375779378"
+    },
+    {
+      "title": "로우파이브 안국",
+      "link": "https://www.instagram.com/lowfive_club",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 60 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
+      "mapx": "1269855733",
+      "mapy": "375786322"
+    },
+    {
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
+    }
+  ]
+}

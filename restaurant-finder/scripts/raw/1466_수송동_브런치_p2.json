@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "엘 샌드위치 종로점",
+      "link": "http://elsandwich.co.kr",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 36-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 14 1층",
+      "mapx": "1269817979",
+      "mapy": "375750480"
+    },
+    {
+      "title": "커피앳웍스 이마빌딩광화문점",
+      "link": "http://coffeeatworks.kr",
+      "category": "음식점>카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 1F",
+      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 1F",
+      "mapx": "1269791545",
+      "mapy": "375738773"
+    },
+    {
+      "title": "도토리가든 안국점",
+      "link": "https://www.instagram.com/dotori__seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-45 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
+      "mapx": "1269862903",
+      "mapy": "375780996"
+    },
+    {
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
+    }
+  ]
+}

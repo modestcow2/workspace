@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미담한상",
+      "link": "https://www.instagram.com/midamhansang/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 469 인왕산한신휴플러스 2층 미담한상 B301호",
+      "roadAddress": "서울특별시 서대문구 통일로 397 인왕산한신휴플러스 2층 미담한상 B301호",
+      "mapx": "1269472793",
+      "mapy": "375855819"
+    },
+    {
+      "title": "고미정 연희본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 79-3",
+      "roadAddress": "서울특별시 서대문구 연희로26길 28",
+      "mapx": "1269370736",
+      "mapy": "375727356"
+    },
+    {
+      "title": "수빈",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 81-22",
+      "roadAddress": "서울특별시 서대문구 연희로25길 31-3",
+      "mapx": "1269343205",
+      "mapy": "375718424"
+    },
+    {
+      "title": "사조미가",
+      "link": "http://www.sajomiga.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 157 사조빌딩 2층",
+      "roadAddress": "서울특별시 서대문구 통일로 107-39 사조빌딩 2층",
+      "mapx": "1269665726",
+      "mapy": "375644100"
+    },
+    {
+      "title": "조은집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 133-24",
+      "roadAddress": "서울특별시 서대문구 연희맛로 43",
+      "mapx": "1269311224",
+      "mapy": "375685870"
+    }
+  ]
+}

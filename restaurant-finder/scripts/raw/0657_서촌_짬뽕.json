@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 25-1",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65",
+      "mapx": "1269690130",
+      "mapy": "375801579"
+    },
+    {
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
+    },
+    {
+      "title": "차이치",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 26 1층, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 9 1층, 2층",
+      "mapx": "1269710466",
+      "mapy": "375782778"
+    },
+    {
+      "title": "<b>서촌</b>181",
+      "link": "https://www.instagram.com/181kitchen/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 181 서촌181",
+      "roadAddress": "서울특별시 종로구 자하문로1라길 8 서촌181",
+      "mapx": "1269708275",
+      "mapy": "375768229"
+    },
+    {
+      "title": "이주당",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 189",
+      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
+      "mapx": "1269716059",
+      "mapy": "375765372"
+    }
+  ]
+}

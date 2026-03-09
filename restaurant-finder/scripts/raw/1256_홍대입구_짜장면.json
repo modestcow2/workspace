@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서담헌 <b>홍대</b>본점",
+      "link": "https://www.youtube.com/@%EA%B0%80%EC%A7%80%ED%8A%80%EA%B9%80%EB%A7%A8",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 113-22 1층 서담헌",
+      "roadAddress": "서울특별시 마포구 연희로1길 40-3 1층 서담헌",
+      "mapx": "1269260202",
+      "mapy": "375606598"
+    },
+    {
+      "title": "가원 연남점",
+      "link": "https://www.instagram.com/gawon1996_official",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-18 1, 2층",
+      "roadAddress": "서울특별시 마포구 동교로 227-1 1, 2층",
+      "mapx": "1269238173",
+      "mapy": "375604509"
+    },
+    {
+      "title": "동보성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 154-19",
+      "roadAddress": "서울특별시 마포구 양화로19길 16",
+      "mapx": "1269241239",
+      "mapy": "375582520"
+    },
+    {
+      "title": "왕소야 <b>홍대</b>점",
+      "link": "https://www.instagram.com/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 342-3 2층",
+      "roadAddress": "서울특별시 마포구 와우산로25길 13 2층",
+      "mapx": "1269258355",
+      "mapy": "375539894"
+    },
+    {
+      "title": "편의방",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-94",
+      "roadAddress": "서울특별시 서대문구 연희로 36",
+      "mapx": "1269275231",
+      "mapy": "375617816"
+    }
+  ]
+}

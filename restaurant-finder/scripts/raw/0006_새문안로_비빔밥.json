@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "능라밥상 광화문",
+      "link": "https://www.instagram.com/neungra_gwanghwamun",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 92 지하1층 B102호, B104호",
+      "roadAddress": "서울특별시 종로구 새문안로 58 지하1층 B102호, B104호",
+      "mapx": "1269715861",
+      "mapy": "375693106"
+    },
+    {
+      "title": "리본레시피 광화문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 109-1호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 109-1호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "얌샘김밥 정동점",
+      "link": "https://www.instagram.com/yumsem_official",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 57",
+      "roadAddress": "서울특별시 중구 새문안로 28-1",
+      "mapx": "1269689384",
+      "mapy": "375676893"
+    },
+    {
+      "title": "메밀영글",
+      "link": "https://www.instagram.com/memil_yeonggeul",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하 2층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "봉평 옹심이 막국수",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 164 2층 ( 164, 적십자 별관)",
+      "roadAddress": "서울특별시 종로구 새문안로 9 2층 (평동 164, 적십자 별관)",
+      "mapx": "1269673144",
+      "mapy": "375669020"
+    }
+  ]
+}

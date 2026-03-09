@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동아<b>냉면</b> 혜화점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-89",
+      "roadAddress": "서울특별시 종로구 대학로12길 63",
+      "mapx": "1270040654",
+      "mapy": "375811971"
+    },
+    {
+      "title": "본가칡<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 62-1",
+      "roadAddress": "서울특별시 종로구 대학로7길 9",
+      "mapx": "1270013749",
+      "mapy": "375789916"
+    },
+    {
+      "title": "촌놈",
+      "link": "https://blog.naver.com/chssha1029",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-47",
+      "roadAddress": "서울특별시 종로구 대학로8가길 48",
+      "mapx": "1270023479",
+      "mapy": "375829574"
+    },
+    {
+      "title": "대학로아리랑",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 178-1 동마루빌딩 지하",
+      "roadAddress": "서울특별시 종로구 대학로 60 동마루빌딩 지하",
+      "mapx": "1270025923",
+      "mapy": "375765003"
+    },
+    {
+      "title": "돼봉삼겹살 대학로점",
+      "link": "https://catchtable.co.kr/dwaebongsamgyeobsal_daehaglo",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-58 1층 돼봉삼겹살",
+      "roadAddress": "서울특별시 종로구 대학로8가길 30 1층 돼봉삼겹살",
+      "mapx": "1270024865",
+      "mapy": "375823164"
+    }
+  ]
+}

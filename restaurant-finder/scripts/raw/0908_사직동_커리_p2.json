@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고가빈<b>커리</b>하우스 광화문본점",
+      "link": "http://instagram.com/gogabin_curryhouse",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-48 3층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
+      "mapx": "1269709645",
+      "mapy": "375728814"
+    },
+    {
+      "title": "시카노이에",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-104 신문로하우스 101호",
+      "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
+      "mapx": "1269692608",
+      "mapy": "375725079"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "후라토식당 경복궁 본점",
+      "link": "http://furato.co.kr/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 아케이드 B1 63호 후라토식당",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 63호 후라토식당",
+      "mapx": "1269740978",
+      "mapy": "375720853"
+    },
+    {
+      "title": "아이자와",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
+      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    }
+  ]
+}

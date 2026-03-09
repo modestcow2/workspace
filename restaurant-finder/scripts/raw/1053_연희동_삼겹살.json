@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "리정원 연희점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-16",
+      "roadAddress": "서울특별시 서대문구 연희맛로 4",
+      "mapx": "1269286242",
+      "mapy": "375658550"
+    },
+    {
+      "title": "짚불집",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 287-5",
+      "roadAddress": "서울특별시 서대문구 연희로8길 5-3",
+      "mapx": "1269304904",
+      "mapy": "375657705"
+    },
+    {
+      "title": "꼬들집 연희점",
+      "link": "https://www.instagram.com/ggodle_house/",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-43 2층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 25 2층",
+      "mapx": "1269302319",
+      "mapy": "375674279"
+    },
+    {
+      "title": "장대포주먹고기",
+      "link": "http://pf.kakao.com/_PMkaxj",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 191-2 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 50 1층",
+      "mapx": "1269274403",
+      "mapy": "375665544"
+    },
+    {
+      "title": "명륜진사갈비 서울 연희점",
+      "link": "https://blog.naver.com/jinsafd",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 421-33 1층",
+      "roadAddress": "서울특별시 서대문구 성산로 325 1층",
+      "mapx": "1269266049",
+      "mapy": "375664204"
+    }
+  ]
+}

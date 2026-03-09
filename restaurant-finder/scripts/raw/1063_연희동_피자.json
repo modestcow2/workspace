@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "제니스 까페",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 190-1 2층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 17-49 2층",
+      "mapx": "1269289117",
+      "mapy": "375669896"
+    },
+    {
+      "title": "위어도우",
+      "link": "https://app.catchtable.co.kr/ct/shop/weirdough",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 703 2층 201호",
+      "roadAddress": "서울특별시 서대문구 증가로 80 2층 201호",
+      "mapx": "1269274351",
+      "mapy": "375746132"
+    },
+    {
+      "title": "쉐프 수",
+      "link": "https://blog.naver.com/chefsoo7380",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 189-6 쉐프수 스테이크하우스",
+      "roadAddress": "서울특별시 서대문구 연희맛로 7-8 쉐프수 스테이크하우스",
+      "mapx": "1269285242",
+      "mapy": "375664188"
+    },
+    {
+      "title": "파올로데마리아",
+      "link": "https://www.instagram.com/paolodemariafinetrattoria",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 79-4",
+      "roadAddress": "서울특별시 서대문구 연희로26길 24",
+      "mapx": "1269369071",
+      "mapy": "375727596"
+    },
+    {
+      "title": "론도론도",
+      "link": "https://app.catchtable.co.kr/ct/shop/rondorondo",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 189-16 지하1층 론도론도",
+      "roadAddress": "서울특별시 서대문구 연희맛로 17-13 지하1층 론도론도",
+      "mapx": "1269290919",
+      "mapy": "375668357"
+    }
+  ]
+}

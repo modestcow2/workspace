@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "랄랄라클럽",
+      "link": "http://instagram.com/lallalla_350",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하1층 106호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하1층 106호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "프레퍼스 다이어트 푸드 종각역점",
+      "link": "https://prepperskorea.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-1 영안빌딩 1층",
+      "roadAddress": "서울특별시 종로구 종로 74 영안빌딩 1층",
+      "mapx": "1269856458",
+      "mapy": "375699698"
+    },
+    {
+      "title": "파스쿠찌 <b>종로</b>본점",
+      "link": "https://www.pascucci.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 75-2 1층,2층",
+      "roadAddress": "서울특별시 종로구 종로 84 1층,2층",
+      "mapx": "1269868133",
+      "mapy": "375699473"
+    },
+    {
+      "title": "메가MGC커피 보신각점",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 102-2 1, 2층",
+      "roadAddress": "서울특별시 종로구 종로 62 1, 2층",
+      "mapx": "1269842995",
+      "mapy": "375699434"
+    },
+    {
+      "title": "이춘복참치 종각점",
+      "link": "https://www.instagram.com/lcbtuna_official/",
+      "category": "음식점>한식>해물,생선요리>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 9 1층",
+      "roadAddress": "서울특별시 종로구 종로 69 1층",
+      "mapx": "1269851208",
+      "mapy": "375704273"
+    }
+  ]
+}

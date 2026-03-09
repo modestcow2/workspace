@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "제비한옥",
+      "link": "https://app.catchtable.co.kr/ct/shop/jevi_hanok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 147-5 1층",
+      "roadAddress": "서울특별시 중구 중림로7길 6 1층",
+      "mapx": "1269675900",
+      "mapy": "375582136"
+    },
+    {
+      "title": "오소오소",
+      "link": "https://www.instagram.com/osooso189",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 189 신원빌딩 지하1층",
+      "roadAddress": "서울특별시 서대문구 충정로 47 신원빌딩 지하1층",
+      "mapx": "1269643918",
+      "mapy": "375633135"
+    },
+    {
+      "title": "두툼",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 1층",
+      "roadAddress": "서울특별시 중구 중림로 10 1층",
+      "mapx": "1269662595",
+      "mapy": "375583365"
+    },
+    {
+      "title": "도마 중림동점",
+      "link": "https://catchtable.co.kr/doma_jrd",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 150-1 이화빌딩",
+      "roadAddress": "서울특별시 중구 중림로 31 이화빌딩",
+      "mapx": "1269671832",
+      "mapy": "375581618"
+    },
+    {
+      "title": "중림장설렁탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 468",
+      "roadAddress": "서울특별시 중구 청파로 459-1",
+      "mapx": "1269677079",
+      "mapy": "375602761"
+    }
+  ]
+}

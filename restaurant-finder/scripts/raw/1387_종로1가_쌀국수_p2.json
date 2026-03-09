@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쿠아타이푸드",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층, B208-1",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층, B208-1",
+      "mapx": "1269798875",
+      "mapy": "375706203"
+    },
+    {
+      "title": "풍황",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 1층",
+      "mapx": "1269795262",
+      "mapy": "375706508"
+    },
+    {
+      "title": "하노이피움",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 제지하1층 비124-1호",
+      "roadAddress": "서울특별시 종로구 종로 19 제지하1층 비124-1호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "국수나무 <b>종로</b>르메이에르점",
+      "link": "https://www.namuya.co.kr/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 지하1층",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "정일백 하노이 <b>쌀국수</b> <b>종로</b>직영점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B117-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B117-3호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    }
+  ]
+}

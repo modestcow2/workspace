@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "월가갈비 서울<b>시청</b>본점",
+      "link": "https://www.instagram.com/wallga_galbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 11-7 1, 2, 3층",
+      "roadAddress": "서울특별시 중구 세종대로18길 22 1, 2, 3층",
+      "mapx": "1269783927",
+      "mapy": "375637074"
+    },
+    {
+      "title": "유림면",
+      "link": "https://www.thingoolmarket.com",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 16",
+      "roadAddress": "서울특별시 중구 서소문로 139-1",
+      "mapx": "1269760935",
+      "mapy": "375642371"
+    },
+    {
+      "title": "진진만두 <b>시청</b>점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
+    },
+    {
+      "title": "남촌회관 <b>시청</b>본점",
+      "link": "https://www.instagram.com/nam.chon_",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 31-25 1층 (유성빌딩)",
+      "roadAddress": "서울특별시 중구 세종대로20길 19 1층 (유성빌딩)",
+      "mapx": "1269784994",
+      "mapy": "375671273"
+    },
+    {
+      "title": "전설의우대갈비 서울<b>시청</b>직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    }
+  ]
+}

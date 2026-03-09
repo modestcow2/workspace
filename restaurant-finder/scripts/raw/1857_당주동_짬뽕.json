@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동성각",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 18 당주빌딩",
+      "roadAddress": "서울특별시 종로구 새문안로9길 29-2 당주빌딩",
+      "mapx": "1269752304",
+      "mapy": "375714159"
+    },
+    {
+      "title": "가봉루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 168 당주빌딩 3층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-27 당주빌딩 3층",
+      "mapx": "1269745821",
+      "mapy": "375710389"
+    },
+    {
+      "title": "상인정신",
+      "link": "https://app.catchtable.co.kr/ct/shop/sang_in_jeongshin",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 41 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-1 2층",
+      "mapx": "1269747172",
+      "mapy": "375712892"
+    },
+    {
+      "title": "일일향 광화문",
+      "link": "https://blog.naver.com/11hyang14",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 동원빌딩 별관 2층 일일향 광화문",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 동원빌딩 별관 2층 일일향 광화문",
+      "mapx": "1269723950",
+      "mapy": "375718151"
+    },
+    {
+      "title": "혼미 광화문점",
+      "link": "https://www.honmi.kr",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 43 2층 혼미 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로5길 12 2층 혼미 광화문점",
+      "mapx": "1269749938",
+      "mapy": "375713800"
+    }
+  ]
+}

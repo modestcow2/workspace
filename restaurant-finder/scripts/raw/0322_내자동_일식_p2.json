@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "경성상회",
+      "link": "http://www.instagram.com/seochon_kyungseong/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 10",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13-1",
+      "mapx": "1269716055",
+      "mapy": "375764474"
+    },
+    {
+      "title": "샤브샵",
+      "link": "https://www.instagram.com/karacinikora77",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 24 1, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
+      "mapx": "1269709557",
+      "mapy": "375763909"
+    },
+    {
+      "title": "일일주",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 201동 108호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 201동 108호",
+      "mapx": "1269694864",
+      "mapy": "375749128"
+    },
+    {
+      "title": "스시호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
+    },
+    {
+      "title": "경성주막1929 경복궁역점",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-3 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 3 2층",
+      "mapx": "1269723354",
+      "mapy": "375764564"
+    }
+  ]
+}

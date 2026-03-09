@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
+    },
+    {
+      "title": "스미스가좋아하는한옥",
+      "link": "https://www.instagram.com/smith_hanok",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 62-1",
+      "roadAddress": "서울특별시 종로구 삼청로 22-7",
+      "mapx": "1269801792",
+      "mapy": "375779378"
+    },
+    {
+      "title": "파티나",
+      "link": "https://app.catchtable.co.kr/ct/shop/patina",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 원서동 219 4층",
+      "roadAddress": "서울특별시 종로구 율곡로 83 4층",
+      "mapx": "1269883592",
+      "mapy": "375778205"
+    },
+    {
+      "title": "레스토랑 담",
+      "link": "https://www.instagram.com/restaurant_dam",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 12-2 1층",
+      "roadAddress": "서울특별시 종로구 인사동길 30-7 1층",
+      "mapx": "1269860243",
+      "mapy": "375736433"
+    },
+    {
+      "title": "로우파이브 안국",
+      "link": "https://www.instagram.com/lowfive_club",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 60 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
+      "mapx": "1269855733",
+      "mapy": "375786322"
+    }
+  ]
+}

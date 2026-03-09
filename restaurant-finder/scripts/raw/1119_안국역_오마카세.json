@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "키즈나",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 159",
+      "roadAddress": "서울특별시 종로구 율곡로1길 78",
+      "mapx": "1269816146",
+      "mapy": "375788338"
+    },
+    {
+      "title": "모도우 광화문점",
+      "link": "https://openine.com/PARTY",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 14 트윈트리타워 B동 M층",
+      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 B동 M층",
+      "mapx": "1269799056",
+      "mapy": "375755265"
+    },
+    {
+      "title": "우아라 광화문점",
+      "link": "https://www.instagram.com/wooara__",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 우아라 광화문",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 우아라 광화문",
+      "mapx": "1269791966",
+      "mapy": "375746798"
+    },
+    {
+      "title": "구테이블 한정식",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 86",
+      "roadAddress": "서울특별시 종로구 인사동14길 41",
+      "mapx": "1269848521",
+      "mapy": "375751535"
+    },
+    {
+      "title": "스시미치루",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
+      "mapx": "1269789959",
+      "mapy": "375739044"
+    }
+  ]
+}

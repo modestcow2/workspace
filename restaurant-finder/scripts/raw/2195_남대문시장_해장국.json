@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "은호식당",
+      "link": "https://www.instagram.com/eunho1932?igsh=amhxc2JtYnZqazU3",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-42 은호식당",
+      "roadAddress": "서울특별시 중구 남대문시장4길 28-4 은호식당",
+      "mapx": "1269770705",
+      "mapy": "375590023"
+    },
+    {
+      "title": "담원순대 시청본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
+    },
+    {
+      "title": "진주집",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-31",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-2",
+      "mapx": "1269770936",
+      "mapy": "375600090"
+    },
+    {
+      "title": "본뼈감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 101호 본뼈감자탕",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 101호 본뼈감자탕",
+      "mapx": "1269741781",
+      "mapy": "375622803"
+    },
+    {
+      "title": "함평집 서울시청점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
+      "mapx": "1269736340",
+      "mapy": "375622716"
+    }
+  ]
+}

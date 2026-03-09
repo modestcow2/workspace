@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마포만두 시청점",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
+    },
+    {
+      "title": "두끼 현대시티아울렛동대문점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 9층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 9층",
+      "mapx": "1270077421",
+      "mapy": "375690558"
+    },
+    {
+      "title": "뽁 현대아울렛 동대문점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
+      "mapx": "1270075065",
+      "mapy": "375688780"
+    },
+    {
+      "title": "독일분식 <b>을지로</b>입구지하쇼핑센터점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 9-7 을지로입구지하쇼핑센터",
+      "roadAddress": "서울특별시 중구 을지로 58 을지로입구지하쇼핑센터",
+      "mapx": "1269837741",
+      "mapy": "375660292"
+    },
+    {
+      "title": "아따 중구 <b>을지로</b>",
+      "link": "https://www.instagram.com/adda.sagyopub",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 302-4 1층, 지하 아따 중구 을지로",
+      "roadAddress": "서울특별시 중구 충무로5길 14 1층, 지하 아따 중구 을지로",
+      "mapx": "1269919535",
+      "mapy": "375653061"
+    }
+  ]
+}

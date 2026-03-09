@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "네츠<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-238 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 1 1층",
+      "mapx": "1269434810",
+      "mapy": "375884950"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "토나리<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 268-14 1층",
+      "roadAddress": "서울특별시 서대문구 세무서길 78 1층",
+      "mapx": "1269469258",
+      "mapy": "375911592"
+    },
+    {
+      "title": "거북이의꿈 서촌점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-15 1층 거북이의꿈 서촌점",
+      "roadAddress": "서울특별시 종로구 자하문로 31-6 1층 거북이의꿈 서촌점",
+      "mapx": "1269710606",
+      "mapy": "375787714"
+    },
+    {
+      "title": "칸다소바 경복궁점",
+      "link": "https://litt.ly/kandasoba",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 28-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
+      "mapx": "1269712623",
+      "mapy": "375782119"
+    }
+  ]
+}

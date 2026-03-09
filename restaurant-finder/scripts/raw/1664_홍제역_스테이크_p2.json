@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "초원파스타운",
+      "link": "https://catchtable.co.kr/prairie",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-156 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 25 1층",
+      "mapx": "1269423970",
+      "mapy": "375890575"
+    },
+    {
+      "title": "한스델리 홍제점",
+      "link": "http://www.hansdeli.com",
+      "category": "양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 165-2 2층",
+      "roadAddress": "서울특별시 서대문구 통일로 427 2층",
+      "mapx": "1269457414",
+      "mapy": "375871127"
+    },
+    {
+      "title": "이자카야 날로",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 306-19 1층",
+      "roadAddress": "서울특별시 서대문구 통일로37길 12 1층",
+      "mapx": "1269442052",
+      "mapy": "375877802"
+    },
+    {
+      "title": "써브웨이 홍제점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 174-15",
+      "roadAddress": "서울특별시 서대문구 통일로 432-1",
+      "mapx": "1269457051",
+      "mapy": "375877916"
+    },
+    {
+      "title": "스위스 그랜드 호텔 에이트리움",
+      "link": "http://www.swissgrand.co.kr/Sub_BarRestaurant.asp?tGo=4",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 201-1 지하 로비층",
+      "roadAddress": "서울특별시 서대문구 연희로 353 지하 로비층",
+      "mapx": "1269348658",
+      "mapy": "375889295"
+    }
+  ]
+}

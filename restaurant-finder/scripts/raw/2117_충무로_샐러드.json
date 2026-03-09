@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해운대달맞이빵 을지로점",
+      "link": "https://www.instagram.com/dalmaji_official",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 73-4 1층",
+      "roadAddress": "서울특별시 중구 마른내로 18 1층",
+      "mapx": "1269897709",
+      "mapy": "375647060"
+    },
+    {
+      "title": "수잔나의 앞치마",
+      "link": "https://www.instagram.com/spacedo_official/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 36-12",
+      "roadAddress": "서울특별시 중구 퇴계로49길 24",
+      "mapx": "1269995830",
+      "mapy": "375632870"
+    },
+    {
+      "title": "페인트커피앤바 을지로점",
+      "link": "https://www.instagram.com/paintcoffee.and.bar",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 오장동 69-22 1층",
+      "roadAddress": "서울특별시 중구 마른내로 103 1층",
+      "mapx": "1269994450",
+      "mapy": "375645547"
+    },
+    {
+      "title": "로즐린 가든",
+      "link": "https://www.instagram.com/roslyn_gdns?igsh=MXhyNWh6Y2tudzNwMQ==",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 장충동2가 174-3 1층",
+      "roadAddress": "서울특별시 중구 동호로 301 1층",
+      "mapx": "1270024421",
+      "mapy": "375612463"
+    },
+    {
+      "title": "오브 카페",
+      "link": "https://aube.co.kr",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 8-16 8층",
+      "roadAddress": "서울특별시 중구 퇴계로49길 6 8층",
+      "mapx": "1270006390",
+      "mapy": "375630761"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "침스버거 안국",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-39 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
+      "mapx": "1269856859",
+      "mapy": "375780911"
+    },
+    {
+      "title": "다운타우너 안국",
+      "link": "http://downtowner.co.kr/",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 85-3 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 6-4 1층",
+      "mapx": "1269862902",
+      "mapy": "375774450"
+    },
+    {
+      "title": "베이킹 도우",
+      "link": "http://www.facebook.com/burgerbang156",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 원서동 156 창덕궁길 29",
+      "roadAddress": "서울특별시 종로구 창덕궁길 29 창덕궁길 29",
+      "mapx": "1269890960",
+      "mapy": "375788406"
+    },
+    {
+      "title": "BBQ안국점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 원서동 94",
+      "roadAddress": "서울특별시 종로구 창덕궁길 84",
+      "mapx": "1269893984",
+      "mapy": "375812331"
+    },
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
+    }
+  ]
+}

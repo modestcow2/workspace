@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
+    },
+    {
+      "title": "다담정식",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 88 관정빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
+      "mapx": "1269813961",
+      "mapy": "375694054"
+    },
+    {
+      "title": "남파랑국밥 북창점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 11-6 1층",
+      "roadAddress": "서울특별시 중구 세종대로16길 23 1층",
+      "mapx": "1269782549",
+      "mapy": "375633639"
+    },
+    {
+      "title": "우성식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 94-36",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-40",
+      "mapx": "1269784743",
+      "mapy": "375623352"
+    },
+    {
+      "title": "한솔식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 88 관정빌딩 지하 1층 한솔식당",
+      "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하 1층 한솔식당",
+      "mapx": "1269813282",
+      "mapy": "375692701"
+    }
+  ]
+}

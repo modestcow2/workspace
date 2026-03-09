@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김삼보 충정로직영점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 51-7",
+      "roadAddress": "서울특별시 중구 새문안로 30",
+      "mapx": "1269690767",
+      "mapy": "375679054"
+    },
+    {
+      "title": "덕담",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269750593",
+      "mapy": "375698043"
+    },
+    {
+      "title": "3층찌개전문점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 89-27 3층 302.",
+      "roadAddress": "서울특별시 종로구 새문안로 46 3층 302.",
+      "mapx": "1269702283",
+      "mapy": "375687914"
+    }
+  ]
+}

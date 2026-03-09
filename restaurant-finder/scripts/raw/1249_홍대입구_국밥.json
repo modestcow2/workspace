@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "3일한우<b>국밥</b>",
+      "link": "https://www.instagram.com/francesp89",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 354-11 1층 102호",
+      "roadAddress": "서울특별시 마포구 양화로 120 1층 102호",
+      "mapx": "1269203619",
+      "mapy": "375539514"
+    },
+    {
+      "title": "돈수백 <b>홍대</b>직영점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 168-3",
+      "roadAddress": "서울특별시 마포구 홍익로6길 74",
+      "mapx": "1269252829",
+      "mapy": "375568933"
+    },
+    {
+      "title": "육전<b>국밥</b> 서교점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 351-1 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로 9-1 1층",
+      "mapx": "1269204368",
+      "mapy": "375557919"
+    },
+    {
+      "title": "두루미 해장집",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 446-4 1층 ()",
+      "roadAddress": "서울특별시 마포구 동교로 147-1 1층 (서교동)",
+      "mapx": "1269184795",
+      "mapy": "375555424"
+    },
+    {
+      "title": "도온정 <b>홍대</b>직영점",
+      "link": "https://www.instagram.com/donjung_hd?igsh=dGRuMGd1c2Ixd2c=",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 201-49 1층",
+      "roadAddress": "서울특별시 마포구 동교로 183-12 1층",
+      "mapx": "1269214142",
+      "mapy": "375574457"
+    }
+  ]
+}

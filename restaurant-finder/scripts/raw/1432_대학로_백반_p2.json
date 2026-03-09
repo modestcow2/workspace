@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼삼 뚝배기",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-147",
+      "roadAddress": "서울특별시 종로구 동숭길 51",
+      "mapx": "1270042241",
+      "mapy": "375805148"
+    },
+    {
+      "title": "명륜동식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 31-2",
+      "roadAddress": "서울특별시 종로구 대학로 127-8",
+      "mapx": "1270012173",
+      "mapy": "375826271"
+    },
+    {
+      "title": "다발김치찌개 <b>대학로</b>점",
+      "link": "https://smartstore.naver.com/freshdabal",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 209-2 2층",
+      "roadAddress": "서울특별시 종로구 성균관로 8 2층",
+      "mapx": "1269983282",
+      "mapy": "375836525"
+    },
+    {
+      "title": "성대한 김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 208-5 지하1층",
+      "roadAddress": "서울특별시 종로구 성균관로 6-5 지하1층",
+      "mapx": "1269985187",
+      "mapy": "375837581"
+    },
+    {
+      "title": "명륜건강원",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 237 아남아파트 301동103호",
+      "roadAddress": "서울특별시 종로구 혜화로3길 5 아남아파트 301동103호",
+      "mapx": "1270001678",
+      "mapy": "375855739"
+    }
+  ]
+}

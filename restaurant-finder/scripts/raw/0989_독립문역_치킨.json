@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "구공<b>치킨</b> 독립문점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 102, 103호",
+      "roadAddress": "서울특별시 종로구 통일로 230 102, 103호",
+      "mapx": "1269584895",
+      "mapy": "375743628"
+    },
+    {
+      "title": "소보로식당",
+      "link": "https://www.instagram.com/soboro_sikdang",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 경희궁 롯데캐슬 상가 1층 118호",
+      "roadAddress": "서울특별시 종로구 통일로 230 경희궁 롯데캐슬 상가 1층 118호",
+      "mapx": "1269591683",
+      "mapy": "375737601"
+    },
+    {
+      "title": "BBQ<b>치킨</b> 경희궁자이점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 45-304",
+      "roadAddress": "서울특별시 종로구 통일로14길 8",
+      "mapx": "1269581063",
+      "mapy": "375749049"
+    },
+    {
+      "title": "진미통닭",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 42-2",
+      "roadAddress": "서울특별시 종로구 통일로 250",
+      "mapx": "1269578894",
+      "mapy": "375747658"
+    },
+    {
+      "title": "태성골뱅이신사 독립문점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89",
+      "roadAddress": "서울특별시 종로구 통일로 230",
+      "mapx": "1269596728",
+      "mapy": "375733672"
+    }
+  ]
+}

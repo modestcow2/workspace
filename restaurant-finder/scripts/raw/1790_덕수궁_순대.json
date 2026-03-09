@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광화문국밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    },
+    {
+      "title": "태평<b>순대</b> 광화문본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 76-1 1층 태평순대 광화문본점",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
+      "mapx": "1269760122",
+      "mapy": "375690306"
+    },
+    {
+      "title": "어슬 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "능라밥상 광화문",
+      "link": "https://www.instagram.com/neungra_gwanghwamun",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 92 지하1층 B102호, B104호",
+      "roadAddress": "서울특별시 종로구 새문안로 58 지하1층 B102호, B104호",
+      "mapx": "1269715861",
+      "mapy": "375693106"
+    },
+    {
+      "title": "학교앞분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 170 동서한의원",
+      "roadAddress": "서울특별시 종로구 새문안로 39-1 동서한의원",
+      "mapx": "1269695106",
+      "mapy": "375688274"
+    }
+  ]
+}

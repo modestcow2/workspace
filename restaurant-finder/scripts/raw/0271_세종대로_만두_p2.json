@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "현대칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-3 청남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 76 청남빌딩",
+      "mapx": "1269770000",
+      "mapy": "375628000"
+    },
+    {
+      "title": "영빈루블랙 그랜드센트럴점",
+      "link": "https://blog.naver.com/aking01795",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "현풍닭칼국수 광화문점",
+      "link": "https://www.instagram.com/hyunpungdk_official",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-3 1층",
+      "roadAddress": "서울특별시 중구 세종대로 135-9 1층",
+      "mapx": "1269763007",
+      "mapy": "375688748"
+    },
+    {
+      "title": "제주산방식당 대한상공회의소점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 45 지하1층 제주산방식당 (대한상공회의소)",
+      "roadAddress": "서울특별시 중구 세종대로 39 지하1층 제주산방식당 (대한상공회의소)",
+      "mapx": "1269737772",
+      "mapy": "375607099"
+    },
+    {
+      "title": "이여곰탕 서울역점",
+      "link": "",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 와이즈타워 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 17 와이즈타워 지하1층",
+      "mapx": "1269732806",
+      "mapy": "375586371"
+    }
+  ]
+}

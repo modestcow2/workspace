@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아트스페이스 우월 한우<b>오마카세</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/artspacewoowol",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 342-10 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29가길 84 1층",
+      "mapx": "1269249543",
+      "mapy": "375537804"
+    },
+    {
+      "title": "스시사카바 야마타츠",
+      "link": "https://www.instagram.com/yamatatsu_sushisakaba",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-90 1층",
+      "roadAddress": "서울특별시 마포구 동교로46길 42-20 1층",
+      "mapx": "1269265753",
+      "mapy": "375618604"
+    },
+    {
+      "title": "야키토리나루토 <b>홍대</b>",
+      "link": "https://www.instagram.com/naruto_hongdae",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 330-26 지1층 101호",
+      "roadAddress": "서울특별시 마포구 와우산로29길 56-11 지1층 101호",
+      "mapx": "1269273909",
+      "mapy": "375565250"
+    },
+    {
+      "title": "치쿠린 서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/ChikurinSeoul?from=share&type=DINING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 446-6 2층",
+      "roadAddress": "서울특별시 마포구 동교로 155 2층",
+      "mapx": "1269190580",
+      "mapy": "375557706"
+    },
+    {
+      "title": "쿠시노주방",
+      "link": "https://www.instagram.com/koosino.official?igsh=MWRveHBndHp1MzB1MA==",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 152-18 지하 1층 쿠시노주방",
+      "roadAddress": "서울특별시 마포구 동교로 218-1 지하 1층 쿠시노주방",
+      "mapx": "1269239455",
+      "mapy": "375595050"
+    }
+  ]
+}

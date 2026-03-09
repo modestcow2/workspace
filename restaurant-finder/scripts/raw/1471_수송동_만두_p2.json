@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "류경회관 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
+      "mapx": "1269818280",
+      "mapy": "375724939"
+    },
+    {
+      "title": "만도리 신라스테이 광화문",
+      "link": "https://www.mandori.co.kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 69 1층, 2층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 74 1층, 2층",
+      "mapx": "1269805779",
+      "mapy": "375726960"
+    },
+    {
+      "title": "나주소나주곰탕 종로수송점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-19 원당빌딩",
+      "roadAddress": "서울특별시 종로구 율곡로4길 55 원당빌딩",
+      "mapx": "1269812257",
+      "mapy": "375732864"
+    },
+    {
+      "title": "이여곰탕 종로점",
+      "link": "https://clip.naver.com/@jongno_gomtang",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "mapx": "1269807361",
+      "mapy": "375727720"
+    },
+    {
+      "title": "서평옥 광화문본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1",
+      "roadAddress": "서울특별시 종로구 종로1길 42",
+      "mapx": "1269789959",
+      "mapy": "375739044"
+    }
+  ]
+}

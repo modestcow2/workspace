@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "호랑이김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 184-90",
+      "roadAddress": "서울특별시 성북구 성북로 18",
+      "mapx": "1270049377",
+      "mapy": "375897973"
+    },
+    {
+      "title": "오공김밥 한성대입구역점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 29 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 9-2 1층",
+      "mapx": "1270072738",
+      "mapy": "375891516"
+    },
+    {
+      "title": "바르다김선생 한성대입구역점",
+      "link": "http://www.teacherkim.co.kr",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-1",
+      "roadAddress": "서울특별시 성북구 성북로 11",
+      "mapx": "1270049955",
+      "mapy": "375890061"
+    },
+    {
+      "title": "송혜자김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동4가 220",
+      "roadAddress": "서울특별시 성북구 동소문로3길 149",
+      "mapx": "1270123565",
+      "mapy": "375925456"
+    },
+    {
+      "title": "늘푸른식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 175-3 창성교회",
+      "roadAddress": "서울특별시 성북구 성북로10길 6 창성교회",
+      "mapx": "1270035389",
+      "mapy": "375919000"
+    }
+  ]
+}

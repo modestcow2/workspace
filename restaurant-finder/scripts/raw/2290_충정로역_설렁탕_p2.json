@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "중림장<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 468",
+      "roadAddress": "서울특별시 중구 청파로 459-1",
+      "mapx": "1269677079",
+      "mapy": "375602761"
+    },
+    {
+      "title": "땡땡거리 형제옥",
+      "link": "https://blog.naver.com/hyeongje_ok",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 82-2 형제옥 식당",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 3 형제옥 식당",
+      "mapx": "1269674729",
+      "mapy": "375625471"
+    },
+    {
+      "title": "나주곰탕앤불고기",
+      "link": "http://www.02-364-8266.kti114.net/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 150-1",
+      "roadAddress": "서울특별시 중구 중림로 31",
+      "mapx": "1269671074",
+      "mapy": "375582044"
+    },
+    {
+      "title": "닭곰탕찜닭",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 102-2",
+      "roadAddress": "서울특별시 서대문구 경기대로 64",
+      "mapx": "1269641284",
+      "mapy": "375645049"
+    },
+    {
+      "title": "김대감 한우<b>설렁탕</b>&amp;불고기 아현점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 30-10",
+      "roadAddress": "서울특별시 서대문구 경기대로 27 (충정로3가)",
+      "mapx": "1269616338",
+      "mapy": "375618988"
+    }
+  ]
+}

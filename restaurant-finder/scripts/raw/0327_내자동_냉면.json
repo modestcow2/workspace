@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영삼이네 우정소갈비 서촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 20 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
+      "mapx": "1269712072",
+      "mapy": "375763691"
+    },
+    {
+      "title": "체부동잔치집 별관",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 12",
+      "roadAddress": "서울특별시 종로구 사직로 115-3",
+      "mapx": "1269716673",
+      "mapy": "375762475"
+    },
+    {
+      "title": "김밥천국",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-3 1층 김밥천국",
+      "roadAddress": "서울특별시 종로구 자하문로 3 1층 김밥천국",
+      "mapx": "1269723453",
+      "mapy": "375764321"
+    },
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "류경회관 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
+      "mapx": "1269818280",
+      "mapy": "375724939"
+    }
+  ]
+}

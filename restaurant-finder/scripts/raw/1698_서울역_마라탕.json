@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "취향마라 <b>마라탕</b> <b>서울역</b>점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 35-14",
+      "roadAddress": "서울특별시 용산구 후암로57길 55",
+      "mapx": "1269740981",
+      "mapy": "375511195"
+    },
+    {
+      "title": "마라공방 <b>서울역</b>점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 지하1층 5호",
+      "roadAddress": "서울특별시 중구 세종대로 17 지하1층 5호",
+      "mapx": "1269732806",
+      "mapy": "375586371"
+    },
+    {
+      "title": "중림동기내식",
+      "link": "http://instagram.com/kayjay3232/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 61-4 B동1층",
+      "roadAddress": "서울특별시 중구 청파로 443 B동1층",
+      "mapx": "1269686892",
+      "mapy": "375589940"
+    },
+    {
+      "title": "호우섬 <b>서울역</b>점",
+      "link": "",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 봉래동2가 122-11 서울역사 3층",
+      "roadAddress": "서울특별시 중구 한강대로 405 서울역사 3층",
+      "mapx": "1269713998",
+      "mapy": "375544518"
+    },
+    {
+      "title": "자매식당",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-23 2층",
+      "roadAddress": "서울특별시 중구 남대문시장2가길 6-9 2층",
+      "mapx": "1269769660",
+      "mapy": "375592263"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옐로우보울",
+      "link": "https://booking.naver.com/booking/6/bizes/1352337",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 476 구세군빌딩 지상에서 보이는 지하1층(세븐일레븐 바로 옆",
+      "roadAddress": "서울특별시 서대문구 충정로 7 구세군빌딩 지상에서 보이는 지하1층(세븐일레븐 바로 옆",
+      "mapx": "1269624726",
+      "mapy": "375602761"
+    },
+    {
+      "title": "만리재 비스트로 별관",
+      "link": "https://www.instagram.com/mallijae_annex/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 1154",
+      "roadAddress": "서울특별시 중구 중림로 21",
+      "mapx": "1269659962",
+      "mapy": "375588401"
+    },
+    {
+      "title": "르 셰프 블루",
+      "link": "https://www.facebook.com/lechefbleu/",
+      "category": "음식점>프랑스음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 77-1 1,2층",
+      "roadAddress": "서울특별시 중구 청파로 435-10 1,2층",
+      "mapx": "1269686748",
+      "mapy": "375586070"
+    },
+    {
+      "title": "중림공장",
+      "link": "http://www.instagram.com/jungrimgongjang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 1154",
+      "roadAddress": "서울특별시 중구 중림로 21",
+      "mapx": "1269660637",
+      "mapy": "375587977"
+    },
+    {
+      "title": "써브웨이 충정로점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 470 풍산빌딩 지하1층",
+      "roadAddress": "서울특별시 서대문구 충정로 23 풍산빌딩 지하1층",
+      "mapx": "1269629441",
+      "mapy": "375611475"
+    }
+  ]
+}

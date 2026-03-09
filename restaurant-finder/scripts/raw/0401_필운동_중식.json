@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "용궁",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269695378",
+      "mapy": "375746229"
+    },
+    {
+      "title": "김쉐프",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 301동 지하1층 B113-10호(, 광화문 스페이스본)",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 301동 지하1층 B113-10호(사직동, 광화문 스페이스본)",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "영화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 25-1",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65",
+      "mapx": "1269690130",
+      "mapy": "375801579"
+    },
+    {
+      "title": "무탄 광화문점",
+      "link": "https://naver.me/5uc3NJV7",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "라이빈",
+      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 15 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
+      "mapx": "1269624726",
+      "mapy": "375696654"
+    }
+  ]
+}

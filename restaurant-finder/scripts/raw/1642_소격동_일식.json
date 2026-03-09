@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더 레스토랑",
+      "link": "http://www.therestaurant.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 48",
+      "roadAddress": "서울특별시 종로구 삼청로 54",
+      "mapx": "1269804025",
+      "mapy": "375808245"
+    },
+    {
+      "title": "키즈나",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 159",
+      "roadAddress": "서울특별시 종로구 율곡로1길 78",
+      "mapx": "1269816146",
+      "mapy": "375788338"
+    },
+    {
+      "title": "미술관옆 돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-6 미술관옆돈까스",
+      "roadAddress": "서울특별시 종로구 율곡로3길 83 미술관옆돈까스",
+      "mapx": "1269821105",
+      "mapy": "375793632"
+    },
+    {
+      "title": "온재",
+      "link": "https://app.catchtable.co.kr/ct/shop/Onjae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8 2층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54 2층",
+      "mapx": "1269820563",
+      "mapy": "375797533"
+    },
+    {
+      "title": "반한닥",
+      "link": "",
+      "category": "음식점>일식>일식튀김,꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-6",
+      "roadAddress": "서울특별시 종로구 율곡로3길 83",
+      "mapx": "1269821060",
+      "mapy": "375793000"
+    }
+  ]
+}

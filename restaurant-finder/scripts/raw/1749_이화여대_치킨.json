@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이나닭강정 신촌본점",
+      "link": "http://inaina.co.kr",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-15 1층 이나닭강정",
+      "roadAddress": "서울특별시 서대문구 연세로4길 67 1층 이나닭강정",
+      "mapx": "1269400912",
+      "mapy": "375586640"
+    },
+    {
+      "title": "마포깐풍기",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 101-6 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 12 1층",
+      "mapx": "1269430062",
+      "mapy": "375577524"
+    },
+    {
+      "title": "아웃닭 이대점",
+      "link": "https://www.instagram.com/outdark_korea",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-141 1층 outdark 이대점",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 16 1층 outdark 이대점",
+      "mapx": "1269447861",
+      "mapy": "375584325"
+    },
+    {
+      "title": "아건 이대본점",
+      "link": "https://www.instagram.com/aangan_1?igsh=dWt4ZGFpbGo2MGV0",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-76 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 37 2층",
+      "mapx": "1269455731",
+      "mapy": "375586348"
+    },
+    {
+      "title": "BHC<b>치킨</b> 이대역점",
+      "link": "https://www.bhc.co.kr/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 53-31",
+      "roadAddress": "서울특별시 서대문구 이화여대2길 11",
+      "mapx": "1269465190",
+      "mapy": "375574871"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시마쯔",
+      "link": "http://m.blog.naver.com/sushimatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 79-31",
+      "roadAddress": "서울특별시 서대문구 연희로 166",
+      "mapx": "1269351965",
+      "mapy": "375719056"
+    },
+    {
+      "title": "블루레시피",
+      "link": "https://www.instagram.com/bluerecipe135",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 130-11 2층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 17-16 2층",
+      "mapx": "1269290071",
+      "mapy": "375673151"
+    },
+    {
+      "title": "하늘초밥",
+      "link": "http://instagram.com/sorasky0616",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 45-17 1층 하늘초밥",
+      "roadAddress": "서울특별시 서대문구 이화여대2길 14 1층 하늘초밥",
+      "mapx": "1269467199",
+      "mapy": "375573422"
+    },
+    {
+      "title": "아트스페이스 우월 한우<b>오마카세</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/artspacewoowol",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 342-10 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29가길 84 1층",
+      "mapx": "1269249543",
+      "mapy": "375537804"
+    },
+    {
+      "title": "예스터데이 야키토리와 오뎅",
+      "link": "https://app.catchtable.co.kr/ct/shop/yesterday_yakitori_n_oden?from=share&type=DINING",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 224-60 201호",
+      "roadAddress": "서울특별시 마포구 성미산로 189-5 201호",
+      "mapx": "1269265198",
+      "mapy": "375631920"
+    }
+  ]
+}

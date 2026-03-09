@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "또와생고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 166 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11가길 48 1층",
+      "mapx": "1269906518",
+      "mapy": "375747270"
+    },
+    {
+      "title": "고기꾼김춘배 종로직영점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
+      "mapx": "1269864928",
+      "mapy": "375690679"
+    },
+    {
+      "title": "익선동목장 종로본점",
+      "link": "http://www.instagram.com/iksun.farm",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 묘동 160-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
+      "mapx": "1269911398",
+      "mapy": "375731869"
+    },
+    {
+      "title": "삼안갈비촌",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 16-1 1층",
+      "roadAddress": "서울특별시 종로구 대명1길 7 1층",
+      "mapx": "1270010118",
+      "mapy": "375831396"
+    },
+    {
+      "title": "육즙당 종로본점",
+      "link": "https://www.instagram.com/yukzupdang_official",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 65 1층 육즙당",
+      "roadAddress": "서울특별시 종로구 종로 225 1층 육즙당",
+      "mapx": "1270027342",
+      "mapy": "375712260"
+    }
+  ]
+}

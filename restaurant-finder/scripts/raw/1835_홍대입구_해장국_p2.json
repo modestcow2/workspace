@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "안동실비 <b>홍대</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/andongsilbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 459-7 1층",
+      "roadAddress": "서울특별시 마포구 동교로 125 1층",
+      "mapx": "1269159020",
+      "mapy": "375550970"
+    },
+    {
+      "title": "두루미 해장집",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 446-4 1층 ()",
+      "roadAddress": "서울특별시 마포구 동교로 147-1 1층 (서교동)",
+      "mapx": "1269184795",
+      "mapy": "375555424"
+    },
+    {
+      "title": "이대조뼈다귀",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 158-20 1층",
+      "roadAddress": "서울특별시 마포구 동교로 196 1층",
+      "mapx": "1269229349",
+      "mapy": "375575145"
+    },
+    {
+      "title": "목로관",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 346-45",
+      "roadAddress": "서울특별시 마포구 어울마당로 126",
+      "mapx": "1269240863",
+      "mapy": "375555726"
+    },
+    {
+      "title": "보승회관 <b>홍대</b>직영점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 164-6",
+      "roadAddress": "서울특별시 마포구 어울마당로 131",
+      "mapx": "1269244368",
+      "mapy": "375561453"
+    }
+  ]
+}

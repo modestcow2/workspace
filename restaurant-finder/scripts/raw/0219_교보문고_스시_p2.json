@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    },
+    {
+      "title": "오마카세 오사이초밥 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "코끼리초밥 광화문점",
+      "link": "https://blog.naver.com/kokirisushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "일품 광화문점",
+      "link": "https://www.instagram.com/ilpum0200",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "이안초밥 안녕인사동점",
+      "link": "https://www.instagram.com/sushi_ian.kr/?hl=ko",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 지상 M층 5,6번매장",
+      "roadAddress": "서울특별시 종로구 인사동길 49 지상 M층 5,6번매장",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    }
+  ]
+}

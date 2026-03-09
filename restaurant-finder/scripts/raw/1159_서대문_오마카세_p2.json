@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "하늘초밥",
+      "link": "http://instagram.com/sorasky0616",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 45-17 1층 하늘초밥",
+      "roadAddress": "서울특별시 서대문구 이화여대2길 14 1층 하늘초밥",
+      "mapx": "1269467199",
+      "mapy": "375573422"
+    },
+    {
+      "title": "스미스미",
+      "link": "https://catchtable.co.kr/smismi__",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 33-14 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 56-3 1층",
+      "mapx": "1269452040",
+      "mapy": "375593698"
+    },
+    {
+      "title": "여우골초밥 신촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-11",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
+      "mapx": "1269349900",
+      "mapy": "375564975"
+    },
+    {
+      "title": "문화촌초밥집",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-21 1층 문화촌초밥집",
+      "roadAddress": "서울특별시 서대문구 세무서7길 12-6 1층 문화촌초밥집",
+      "mapx": "1269465766",
+      "mapy": "375917076"
+    },
+    {
+      "title": "스에히로",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushi_sairoku?from=share&type=DINING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북가좌동 295-18 1층",
+      "roadAddress": "서울특별시 서대문구 증가로23나길 25 1층",
+      "mapx": "1269127589",
+      "mapy": "375805203"
+    }
+  ]
+}

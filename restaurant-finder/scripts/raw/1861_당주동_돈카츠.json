@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "후라토식당 경복궁 본점",
+      "link": "http://furato.co.kr/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 아케이드 B1 63호 후라토식당",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 63호 후라토식당",
+      "mapx": "1269740978",
+      "mapy": "375720853"
+    },
+    {
+      "title": "광화문스시",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 44, 46호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 44, 46호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    },
+    {
+      "title": "비어할레 광화문점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩",
+      "mapx": "1269743351",
+      "mapy": "375720260"
+    },
+    {
+      "title": "빵튀",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 23호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 23호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    },
+    {
+      "title": "아람",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 지하 9호 아람식당",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 지하 9호 아람식당",
+      "mapx": "1269733018",
+      "mapy": "375718397"
+    }
+  ]
+}

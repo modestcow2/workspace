@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "중림각",
+      "link": "https://blog.naver.com/kjh0430",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 61-4 1동1층,2층",
+      "roadAddress": "서울특별시 중구 청파로 443 1동1층,2층",
+      "mapx": "1269686283",
+      "mapy": "375589824"
+    },
+    {
+      "title": "세양원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 368 B1F (종근당 건물 지하 1층)아케이드 내",
+      "roadAddress": "서울특별시 서대문구 충정로 8 B1F (종근당 건물 지하 1층)아케이드 내",
+      "mapx": "1269632889",
+      "mapy": "375595726"
+    },
+    {
+      "title": "도마 중림동점",
+      "link": "https://catchtable.co.kr/doma_jrd",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 150-1 이화빌딩",
+      "roadAddress": "서울특별시 중구 중림로 31 이화빌딩",
+      "mapx": "1269671832",
+      "mapy": "375581618"
+    },
+    {
+      "title": "신현무관",
+      "link": "http://www.cityfood.co.kr/h1/chunmu",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 30-8 1층",
+      "roadAddress": "서울특별시 서대문구 경기대로 27-1 1층",
+      "mapx": "1269616909",
+      "mapy": "375620050"
+    },
+    {
+      "title": "채쉐프",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 합동 21-23",
+      "roadAddress": "서울특별시 서대문구 서소문로 53",
+      "mapx": "1269672207",
+      "mapy": "375616494"
+    }
+  ]
+}

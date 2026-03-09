@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "백암박가네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
+      "mapx": "1269710531",
+      "mapy": "375791821"
+    },
+    {
+      "title": "전주콩나물해장국",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-3",
+      "roadAddress": "서울특별시 종로구 자하문로 3",
+      "mapx": "1269722639",
+      "mapy": "375765039"
+    },
+    {
+      "title": "<b>서촌</b>전통순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
+    },
+    {
+      "title": "체부동잔치집돼지갈비",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 194-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 24",
+      "mapx": "1269710530",
+      "mapy": "375765468"
+    },
+    {
+      "title": "만가",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 206",
+      "roadAddress": "서울특별시 종로구 사직로 103-19",
+      "mapx": "1269703769",
+      "mapy": "375763740"
+    }
+  ]
+}

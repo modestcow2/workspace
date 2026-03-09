@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "덕이나루",
+      "link": "https://instagram.com/duginaru",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 27 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65-6 1층",
+      "mapx": "1269688873",
+      "mapy": "375800240"
+    },
+    {
+      "title": "서촌가락",
+      "link": "",
+      "category": "한식>향토음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 31 서촌가락",
+      "roadAddress": "서울특별시 종로구 자하문로7길 59 서촌가락",
+      "mapx": "1269692463",
+      "mapy": "375798964"
+    },
+    {
+      "title": "독도16도",
+      "link": "https://app.catchtable.co.kr/ct/shop/dokdo.16.celsius",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 56-1 3층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 2 3층",
+      "mapx": "1269685771",
+      "mapy": "375794702"
+    },
+    {
+      "title": "효자동밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층",
+      "mapx": "1269710519",
+      "mapy": "375816457"
+    },
+    {
+      "title": "밥+",
+      "link": "https://www.instagram.com/seochon_bob_plus",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 77-15",
+      "roadAddress": "서울특별시 종로구 옥인길 9",
+      "mapx": "1269680075",
+      "mapy": "375804706"
+    }
+  ]
+}

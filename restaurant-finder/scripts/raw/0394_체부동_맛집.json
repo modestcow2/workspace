@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "칸다소바 경복궁점",
+      "link": "https://litt.ly/kandasoba",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 28-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
+      "mapx": "1269712623",
+      "mapy": "375782119"
+    },
+    {
+      "title": "서촌뜰애우곱창타운",
+      "link": "https://www.instagram.com/sechongopchang?igsh=Mm02YmRhcWNzcnhi",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 189",
+      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
+      "mapx": "1269716341",
+      "mapy": "375765406"
+    },
+    {
+      "title": "애소아소금빵",
+      "link": "https://www.instagram.com/esoa.saltbread",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 51 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 7 1층",
+      "mapx": "1269722400",
+      "mapy": "375767339"
+    },
+    {
+      "title": "코피티암 서촌점",
+      "link": "",
+      "category": "음식점>카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 90",
+      "roadAddress": "서울특별시 종로구 자하문로5가길 7",
+      "mapx": "1269712839",
+      "mapy": "375780284"
+    },
+    {
+      "title": "토속촌 삼계탕",
+      "link": "http://www.tosokchon.co.kr/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 85-1 토속촌",
+      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
+      "mapx": "1269716148",
+      "mapy": "375776587"
+    }
+  ]
+}

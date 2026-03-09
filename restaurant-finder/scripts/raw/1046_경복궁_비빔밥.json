@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "홈코리안퀴진",
+      "link": "https://www.instagram.com/home.korean.cuisine/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 60 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 22-9 1층",
+      "mapx": "1269802214",
+      "mapy": "375778524"
+    },
+    {
+      "title": "본죽&amp;<b>비빔밥</b>cafe <b>경복궁</b>역점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF102",
+      "category": "음식점>죽",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 1 1층",
+      "mapx": "1269727756",
+      "mapy": "375765833"
+    },
+    {
+      "title": "옥이네밥집포차 서촌 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2 2층 옥이네",
+      "roadAddress": "서울특별시 종로구 자하문로 20 2층 옥이네",
+      "mapx": "1269722820",
+      "mapy": "375779035"
+    },
+    {
+      "title": "한일관 광화문점",
+      "link": "http://www.hanilkwan.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워",
+      "mapx": "1269789484",
+      "mapy": "375745601"
+    },
+    {
+      "title": "시래기담은",
+      "link": "https://www.instagram.com/siraegidameun",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 팔판동 71 시래기담은",
+      "roadAddress": "서울특별시 종로구 삼청로 65-2 시래기담은",
+      "mapx": "1269809917",
+      "mapy": "375815898"
+    }
+  ]
+}

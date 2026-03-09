@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시 성북",
+      "link": "https://www.instagram.com/sushiseongbuk/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 58-16",
+      "roadAddress": "서울특별시 성북구 성북로 74",
+      "mapx": "1270008029",
+      "mapy": "375935975"
+    },
+    {
+      "title": "이자카야문",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 104-29 1층",
+      "roadAddress": "서울특별시 성북구 성북로7길 34 1층",
+      "mapx": "1270037278",
+      "mapy": "375889174"
+    },
+    {
+      "title": "대규스시",
+      "link": "https://app.catchtable.co.kr/ct/shop/daegyu_sushi",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 128-12 1층",
+      "roadAddress": "서울특별시 종로구 동숭3길 1 1층",
+      "mapx": "1270044280",
+      "mapy": "375812631"
+    },
+    {
+      "title": "여래여거",
+      "link": "https://catchtable.co.kr/yrygyryg",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 53-1 1층 102호",
+      "roadAddress": "서울특별시 종로구 옥인길 23-6 1층 102호",
+      "mapx": "1269671031",
+      "mapy": "375808670"
+    },
+    {
+      "title": "무제스시",
+      "link": "https://www.instagram.com/mujaesushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 118-5 1층",
+      "roadAddress": "서울특별시 종로구 대학로9길 22-5 1층",
+      "mapx": "1270006329",
+      "mapy": "375818784"
+    }
+  ]
+}

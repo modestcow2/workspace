@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "양은이네 <b>충정로역</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 상가 2동 105호",
+      "roadAddress": "서울특별시 중구 중림로 10 상가 2동 105호",
+      "mapx": "1269655039",
+      "mapy": "375587427"
+    },
+    {
+      "title": "독박골맛있는집",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 합동 10-1",
+      "roadAddress": "서울특별시 서대문구 서소문로 61-7",
+      "mapx": "1269678497",
+      "mapy": "375620418"
+    },
+    {
+      "title": "어반할미",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 480 어바니엘충정로 B1층",
+      "roadAddress": "서울특별시 서대문구 경기대로 26-26 어바니엘충정로 B1층",
+      "mapx": "1269625814",
+      "mapy": "375612906"
+    },
+    {
+      "title": "국밥생각 충정로점",
+      "link": "https://www.국밥생각.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 397-9 1~2층",
+      "roadAddress": "서울특별시 중구 중림로4길 8 1~2층",
+      "mapx": "1269641438",
+      "mapy": "375587731"
+    },
+    {
+      "title": "사조미가",
+      "link": "http://www.sajomiga.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 157 사조빌딩 2층",
+      "roadAddress": "서울특별시 서대문구 통일로 107-39 사조빌딩 2층",
+      "mapx": "1269665726",
+      "mapy": "375644100"
+    }
+  ]
+}

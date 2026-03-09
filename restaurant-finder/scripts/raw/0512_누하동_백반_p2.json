@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "효자동밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층",
+      "mapx": "1269710519",
+      "mapy": "375816457"
+    },
+    {
+      "title": "가정식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 20",
+      "roadAddress": "서울특별시 종로구 자하문로7길 69",
+      "mapx": "1269689620",
+      "mapy": "375802560"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    },
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
+    },
+    {
+      "title": "영월사랑방식당 광화문점",
+      "link": "https://ohjingoh.mysoho.com/product/34782",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 아케이드 B1 67호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 67호",
+      "mapx": "1269743207",
+      "mapy": "375719690"
+    }
+  ]
+}

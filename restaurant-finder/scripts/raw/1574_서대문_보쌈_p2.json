@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "녹원쌈밥 연희점",
+      "link": "http://pf.kakao.com/_gGnqn",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 82-3",
+      "roadAddress": "서울특별시 서대문구 연희로25길 22",
+      "mapx": "1269341598",
+      "mapy": "375725288"
+    },
+    {
+      "title": "박만배아리랑<b>보쌈</b> 연희점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-10 1층좌측호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
+      "mapx": "1269285120",
+      "mapy": "375657431"
+    },
+    {
+      "title": "온방샤브칼국수",
+      "link": "https://catchtable.co.kr/OnbangShabu",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-9 2층 온방샤브칼국수",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 6 2층 온방샤브칼국수",
+      "mapx": "1269359239",
+      "mapy": "375570074"
+    },
+    {
+      "title": "종로<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 124",
+      "roadAddress": "서울특별시 서대문구 충정로 73",
+      "mapx": "1269659572",
+      "mapy": "375653260"
+    },
+    {
+      "title": "해탄 신촌점",
+      "link": "https://youtube.com/shorts/sArmvG7HyAU",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-42 지상1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 30 지상1층",
+      "mapx": "1269384894",
+      "mapy": "375575558"
+    }
+  ]
+}

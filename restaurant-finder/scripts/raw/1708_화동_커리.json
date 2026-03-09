@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옐로 드래곤 <b>커리</b> 종묘 서순라길 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yellowdragoncurry",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 봉익동 12-14 옐로 드래곤 커리",
+      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 옐로 드래곤 커리",
+      "mapx": "1269926638",
+      "mapy": "375731094"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
+    },
+    {
+      "title": "두르가 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/durga",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
+      "mapx": "1269797390",
+      "mapy": "375705681"
+    },
+    {
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "일월카츠 안국점",
+      "link": "https://www.instagram.com/ill_wall_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 132 1층",
+      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
+      "mapx": "1269851501",
+      "mapy": "375773083"
+    }
+  ]
+}

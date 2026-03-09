@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "셔우드",
+      "link": "https://instagram.com/sherwood.seoul?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 189-5 2층",
+      "roadAddress": "서울특별시 마포구 와우산로37길 11 2층",
+      "mapx": "1269301940",
+      "mapy": "375560664"
+    },
+    {
+      "title": "<b>피자</b>네버슬립스 합정상수점",
+      "link": "https://www.instagram.com/never_sleeps_pizza_hongdae/",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 400-13",
+      "roadAddress": "서울특별시 마포구 양화로6길 73",
+      "mapx": "1269182982",
+      "mapy": "375486179"
+    },
+    {
+      "title": "홍대화덕<b>피자</b>",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 411-16 1층",
+      "roadAddress": "서울특별시 마포구 독막로7길 5 1층",
+      "mapx": "1269184473",
+      "mapy": "375481915"
+    },
+    {
+      "title": "23플래터",
+      "link": "https://app.catchtable.co.kr/ct/shop/23platter",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 395-126 1층 23플래터",
+      "roadAddress": "서울특별시 마포구 잔다리로3안길 36 1층 23플래터",
+      "mapx": "1269193937",
+      "mapy": "375504806"
+    },
+    {
+      "title": "레이몬드 홍대점",
+      "link": "https://catchtable.co.kr/raymond",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 168-7 1층",
+      "roadAddress": "서울특별시 마포구 양화로18안길 15 1층",
+      "mapx": "1269254106",
+      "mapy": "375568888"
+    }
+  ]
+}

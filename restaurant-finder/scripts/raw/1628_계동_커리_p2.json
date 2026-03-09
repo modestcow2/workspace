@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일월카츠 <b>계동</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ilwolkatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 1층 일월카츠",
+      "roadAddress": "서울특별시 종로구 계동길 17 1층 일월카츠",
+      "mapx": "1269865352",
+      "mapy": "375781458"
+    },
+    {
+      "title": "화양연화 본점",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 78-2 지하1층",
+      "roadAddress": "서울특별시 종로구 계동길 73-1 지하1층",
+      "mapx": "1269866829",
+      "mapy": "375805539"
+    },
+    {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    },
+    {
+      "title": "페르시안궁전",
+      "link": "http://www.persianpalace.com/",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 121-1 1층",
+      "roadAddress": "서울특별시 종로구 성균관로6길 9 1층",
+      "mapx": "1269976014",
+      "mapy": "375849028"
+    },
+    {
+      "title": "옐로 드래곤 <b>커리</b> 종묘 서순라길 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yellowdragoncurry",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 봉익동 12-14 옐로 드래곤 커리",
+      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 옐로 드래곤 커리",
+      "mapx": "1269926638",
+      "mapy": "375731094"
+    }
+  ]
+}

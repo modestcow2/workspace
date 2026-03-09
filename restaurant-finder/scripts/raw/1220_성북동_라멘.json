@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "밀튼가츠멘",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동4가 267 삼송빌딩1층",
+      "roadAddress": "서울특별시 성북구 동소문로 65-2 삼송빌딩1층",
+      "mapx": "1270126118",
+      "mapy": "375917589"
+    },
+    {
+      "title": "쿄코코 대학로점",
+      "link": "https://blog.naver.com/kyokoko11",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 70-3 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 38-23 1층",
+      "mapx": "1270004455",
+      "mapy": "375825887"
+    },
+    {
+      "title": "멘츠루 대학로점",
+      "link": "https://www.instagram.com/menchuru_hyehwa?igsh=Z3BzbWd0d2NjMXZy",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 154-3 1층 멘츠루",
+      "roadAddress": "서울특별시 종로구 창경궁로26길 39 1층 멘츠루",
+      "mapx": "1269998393",
+      "mapy": "375820066"
+    },
+    {
+      "title": "츠루츠루 마제소바",
+      "link": "https://www.instagram.com/tsurutsuru.sb",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 삼선동5가 262-3 1층",
+      "roadAddress": "서울특별시 성북구 삼선교로24길 41 1층",
+      "mapx": "1270166057",
+      "mapy": "375884276"
+    },
+    {
+      "title": "멘지 성신여대점",
+      "link": "https://www.instagram.com/menji_sungshin/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 85-86 2층",
+      "roadAddress": "서울특별시 성북구 동소문로22길 23 2층",
+      "mapx": "1270179741",
+      "mapy": "375920406"
+    }
+  ]
+}

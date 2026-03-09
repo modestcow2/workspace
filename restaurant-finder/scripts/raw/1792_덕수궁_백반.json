@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
+    },
+    {
+      "title": "덕수정",
+      "link": "http://itvplus.co.kr/home5/deoksu/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-5",
+      "roadAddress": "서울특별시 중구 정동길 41",
+      "mapx": "1269725500",
+      "mapy": "375659000"
+    },
+    {
+      "title": "프랑스<b>백반</b>",
+      "link": "http://france.cityfood.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 51-6",
+      "roadAddress": "서울특별시 중구 새문안로 32",
+      "mapx": "1269692398",
+      "mapy": "375679288"
+    },
+    {
+      "title": "밥순이 연탄불고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 27 밥순이 연탄불고기",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 50 밥순이 연탄불고기",
+      "mapx": "1269667323",
+      "mapy": "375642531"
+    },
+    {
+      "title": "덕담",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269750593",
+      "mapy": "375698043"
+    }
+  ]
+}

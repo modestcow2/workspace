@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쇼쿠도 합",
+      "link": "https://app.catchtable.co.kr/ct/shop/shokudo_hab",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 137-17 1층",
+      "mapx": "1269735847",
+      "mapy": "375763322"
+    },
+    {
+      "title": "아이자와",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
+      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "일일주",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 201동 108호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 201동 108호",
+      "mapx": "1269694864",
+      "mapy": "375749128"
+    },
+    {
+      "title": "스시호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
+    },
+    {
+      "title": "온택 메트로",
+      "link": "https://www.instagram.com/on.tac",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 적선현대빌딩 아케이드 지하1층 63호",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대빌딩 아케이드 지하1층 63호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    }
+  ]
+}

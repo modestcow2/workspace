@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "잉꼬",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 17-3 2층",
+      "roadAddress": "서울특별시 중구 세종대로 22 2층",
+      "mapx": "1269743278",
+      "mapy": "375585140"
+    },
+    {
+      "title": "김수사 신세계백화점 본점",
+      "link": "https://www.instagram.com/kimsushi1986/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 52-5 14층",
+      "roadAddress": "서울특별시 중구 소공로 63 14층",
+      "mapx": "1269806031",
+      "mapy": "375600578"
+    },
+    {
+      "title": "란 이자카야",
+      "link": "https://blog.naver.com/yosuk5791",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 19-1",
+      "roadAddress": "서울특별시 중구 세종대로 26-1",
+      "mapx": "1269744865",
+      "mapy": "375588024"
+    },
+    {
+      "title": "<b>스시</b>바 신세계백화점 본점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54",
+      "roadAddress": "서울특별시 중구 퇴계로 77",
+      "mapx": "1269805976",
+      "mapy": "375601521"
+    },
+    {
+      "title": "도제 신세계백화점 본점",
+      "link": "http://www.doje255.com/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 지하1층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 지하1층",
+      "mapx": "1269809003",
+      "mapy": "375601894"
+    }
+  ]
+}

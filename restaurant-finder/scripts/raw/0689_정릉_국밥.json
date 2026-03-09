@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "기차순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 347-2",
+      "roadAddress": "서울특별시 성북구 솔샘로18길 91",
+      "mapx": "1270087058",
+      "mapy": "376089346"
+    },
+    {
+      "title": "손큰할매순대국 국민대점",
+      "link": "https://www.sonkun.co.kr",
+      "category": "육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 675-1",
+      "roadAddress": "서울특별시 성북구 정릉로 169",
+      "mapx": "1270038986",
+      "mapy": "376080213"
+    },
+    {
+      "title": "신천순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 161-15",
+      "roadAddress": "서울특별시 성북구 정릉로 253",
+      "mapx": "1270121236",
+      "mapy": "376045554"
+    },
+    {
+      "title": "<b>정릉</b>설렁탕",
+      "link": "http://02-919-5911.kti114.net",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 413-14 초원빌딩 1층",
+      "roadAddress": "서울특별시 성북구 보국문로 16 초원빌딩 1층",
+      "mapx": "1270113190",
+      "mapy": "376060232"
+    },
+    {
+      "title": "성북주가",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 388-7 1층",
+      "roadAddress": "서울특별시 성북구 보국문로11길 21-12 1층",
+      "mapx": "1270089205",
+      "mapy": "376080893"
+    }
+  ]
+}

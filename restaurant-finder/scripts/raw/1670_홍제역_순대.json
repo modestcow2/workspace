@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "불란집",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-29",
+      "roadAddress": "서울특별시 서대문구 통일로 445",
+      "mapx": "1269442653",
+      "mapy": "375884493"
+    },
+    {
+      "title": "스마일 김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 300-10",
+      "roadAddress": "서울특별시 서대문구 통일로40길 13",
+      "mapx": "1269435790",
+      "mapy": "375903143"
+    },
+    {
+      "title": "토종<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-64",
+      "roadAddress": "서울특별시 서대문구 세무서7길 18",
+      "mapx": "1269460217",
+      "mapy": "375916895"
+    },
+    {
+      "title": "왕십리곱창천하",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 176-6 1층 왕십리곱창천하",
+      "roadAddress": "서울특별시 서대문구 통일로36길 5 1층 왕십리곱창천하",
+      "mapx": "1269462688",
+      "mapy": "375875755"
+    },
+    {
+      "title": "보승회관 <b>홍제역</b>점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 326-12",
+      "roadAddress": "서울특별시 서대문구 통일로 475",
+      "mapx": "1269420107",
+      "mapy": "375904180"
+    }
+  ]
+}

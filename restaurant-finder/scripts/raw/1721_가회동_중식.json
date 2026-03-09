@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서브큐 셰프플라자",
+      "link": "http://www.serveq.co.kr/",
+      "category": "서비스,산업>제조업",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 54-5 삼양사 사옥 지하1층 셰프플라자",
+      "roadAddress": "서울특별시 종로구 북촌로 18 삼양사 재동사옥 지하1층 셰프플라자",
+      "mapx": "1269856305",
+      "mapy": "375784666"
+    },
+    {
+      "title": "한양<b>중식</b> 종로점",
+      "link": "http://www.instagram.com/haanyang/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
+      "mapx": "1269836975",
+      "mapy": "375706386"
+    },
+    {
+      "title": "친니",
+      "link": "http://www.chinee.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
+      "mapx": "1269762577",
+      "mapy": "375724523"
+    },
+    {
+      "title": "안래홍",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 132",
+      "roadAddress": "서울특별시 종로구 종로7길 43",
+      "mapx": "1269826639",
+      "mapy": "375717166"
+    },
+    {
+      "title": "서호장",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 13-1",
+      "roadAddress": "서울특별시 종로구 수표로 91-1",
+      "mapx": "1269893831",
+      "mapy": "375694568"
+    }
+  ]
+}

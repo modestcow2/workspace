@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마라공방 종각점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 109 2층",
+      "roadAddress": "서울특별시 종로구 우정국로 38-1 2층",
+      "mapx": "1269832476",
+      "mapy": "375724974"
+    },
+    {
+      "title": "마라중독",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 7-1 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
+      "mapx": "1269874452",
+      "mapy": "375695065"
+    },
+    {
+      "title": "탕화쿵푸<b>마라탕</b> 종각점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-5 2층",
+      "roadAddress": "서울특별시 종로구 종로 70-1 2층",
+      "mapx": "1269852964",
+      "mapy": "375700049"
+    },
+    {
+      "title": "마라공방 종로3가역점",
+      "link": "https://www.instagram.com/maragongbang_official/",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 71-6 2층",
+      "roadAddress": "서울특별시 종로구 종로 86 2층",
+      "mapx": "1269870196",
+      "mapy": "375699463"
+    },
+    {
+      "title": "청킹마마",
+      "link": "https://www.lumi.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 18-10 2층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 29 2층",
+      "mapx": "1269845378",
+      "mapy": "375696958"
+    }
+  ]
+}

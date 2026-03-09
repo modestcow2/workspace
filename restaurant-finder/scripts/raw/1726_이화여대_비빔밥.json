@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "가미분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 54-1 무궁화상가아파트",
+      "roadAddress": "서울특별시 서대문구 이화여대8길 2 무궁화상가아파트",
+      "mapx": "1269460024",
+      "mapy": "375586996"
+    },
+    {
+      "title": "영미김밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-7 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 21 1층",
+      "mapx": "1269425818",
+      "mapy": "375586428"
+    },
+    {
+      "title": "딸기골",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-8",
+      "roadAddress": "서울특별시 서대문구 연대동문길 29",
+      "mapx": "1269438124",
+      "mapy": "375638764"
+    },
+    {
+      "title": "고냉지",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-15 1층 고냉지",
+      "roadAddress": "서울특별시 서대문구 연세로2마길 30 1층 고냉지",
+      "mapx": "1269422129",
+      "mapy": "375584829"
+    },
+    {
+      "title": "싸다김밥 신촌점",
+      "link": "https://ssadagb.com",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-26 1층 싸다김밥 신촌점",
+      "roadAddress": "서울특별시 서대문구 신촌로 127 1층 싸다김밥 신촌점",
+      "mapx": "1269400767",
+      "mapy": "375563980"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
+    },
+    {
+      "title": "알로이막막",
+      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 150-1 1,2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
+      "mapx": "1269705861",
+      "mapy": "375790359"
+    },
+    {
+      "title": "오이초이 서촌점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 18-9 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 19 1층",
+      "mapx": "1269707126",
+      "mapy": "375786417"
+    },
+    {
+      "title": "Cam on",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 20",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18",
+      "mapx": "1269736505",
+      "mapy": "375764446"
+    },
+    {
+      "title": "일백하노이",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 60",
+      "roadAddress": "서울특별시 종로구 새문안로5길 37",
+      "mapx": "1269742286",
+      "mapy": "375736565"
+    }
+  ]
+}

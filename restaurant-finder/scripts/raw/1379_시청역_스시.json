@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    },
+    {
+      "title": "오복수산참치 광화문점",
+      "link": "https://www.oboksusan.com",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 45 더익스체인지서울 2층",
+      "roadAddress": "서울특별시 중구 무교로 21 더익스체인지서울 2층",
+      "mapx": "1269789531",
+      "mapy": "375679064"
+    },
+    {
+      "title": "미진일식",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 170-1 B1층 을지로 맛집 미진일식",
+      "roadAddress": "서울특별시 중구 다동길 16 B1층 을지로 맛집 미진일식",
+      "mapx": "1269802168",
+      "mapy": "375677739"
+    },
+    {
+      "title": "신성일식",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 128-1 1,2층 신성일식",
+      "roadAddress": "서울특별시 종로구 무교로 42 1,2층 신성일식",
+      "mapx": "1269795017",
+      "mapy": "375696782"
+    },
+    {
+      "title": "배 수사",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 117 나전빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 12 나전빌딩",
+      "mapx": "1269817000",
+      "mapy": "375668280"
+    }
+  ]
+}

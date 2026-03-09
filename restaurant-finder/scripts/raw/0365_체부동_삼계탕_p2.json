@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "토속촌 <b>삼계탕</b>",
+      "link": "http://www.tosokchon.co.kr/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 85-1 토속촌",
+      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
+      "mapx": "1269716148",
+      "mapy": "375776587"
+    },
+    {
+      "title": "명작신의주찹쌀순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "서울래빗",
+      "link": "https://www.instagram.com/seoul.x.rabbit",
+      "category": "카페,디저트>과일,주스전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 37-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 19-1 1층",
+      "mapx": "1269717391",
+      "mapy": "375778052"
+    },
+    {
+      "title": "토속촌 <b>삼계탕</b>주차장",
+      "link": "",
+      "category": "교통시설>주차장",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 88-2",
+      "roadAddress": "서울특별시 종로구 자하문로5길 12",
+      "mapx": "1269712261",
+      "mapy": "375777899"
+    },
+    {
+      "title": "토속촌 <b>삼계탕</b>주차장입구",
+      "link": "",
+      "category": "도로시설>방면정보",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동",
+      "roadAddress": "",
+      "mapx": "1269712338",
+      "mapy": "375777400"
+    }
+  ]
+}

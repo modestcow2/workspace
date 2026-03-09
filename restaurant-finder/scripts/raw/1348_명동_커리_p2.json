@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오제제 광화문",
+      "link": "https://www.instagram.com/ojeje.seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
+      "mapx": "1269783077",
+      "mapy": "375684118"
+    },
+    {
+      "title": "케이코쇼텐",
+      "link": "https://www.instagram.com/keiko_shoten/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동3가 18-1 1,2층",
+      "roadAddress": "서울특별시 중구 퇴계로24길 12-1 1,2층",
+      "mapx": "1269872942",
+      "mapy": "375603950"
+    },
+    {
+      "title": "식당진",
+      "link": "https://www.instagram.com/sicdangjin",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동3가 13-17 지하1층",
+      "roadAddress": "서울특별시 중구 퇴계로22길 5 지하1층",
+      "mapx": "1269864889",
+      "mapy": "375606139"
+    },
+    {
+      "title": "카츠쇼신 을지로입구역페럼타워점",
+      "link": "https://www.instagram.com/katsu_shoshin",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 수하동 66 지하 2층",
+      "roadAddress": "서울특별시 중구 을지로5길 19 지하 2층",
+      "mapx": "1269841421",
+      "mapy": "375670110"
+    },
+    {
+      "title": "을지돈가스 <b>명동</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-5 1층",
+      "roadAddress": "서울특별시 중구 명동9길 10 1층",
+      "mapx": "1269849975",
+      "mapy": "375643266"
+    }
+  ]
+}

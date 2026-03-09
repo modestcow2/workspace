@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소금집델리 안국",
+      "link": "https://www.salthousekorea.com",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 101-12 1층",
+      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
+      "mapx": "1269863175",
+      "mapy": "375794136"
+    },
+    {
+      "title": "아모르나폴리 안국점",
+      "link": "https://booking.kakao.com/short/yw7YSaYnai",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-2 1, 2층",
+      "roadAddress": "서울특별시 종로구 계동길 15 1, 2층",
+      "mapx": "1269866582",
+      "mapy": "375779731"
+    },
+    {
+      "title": "써브웨이 북촌점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269866899",
+      "mapy": "375773891"
+    },
+    {
+      "title": "런던베이글뮤지엄 안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/london_bagel_museum_anguk",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 102-1",
+      "roadAddress": "서울특별시 종로구 북촌로4길 20",
+      "mapx": "1269862130",
+      "mapy": "375792099"
+    },
+    {
+      "title": "대장장이화덕피자",
+      "link": "http://pf.kakao.com/_Zscxmb",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 202-1",
+      "roadAddress": "서울특별시 종로구 북촌로 42-4",
+      "mapx": "1269853702",
+      "mapy": "375805827"
+    }
+  ]
+}

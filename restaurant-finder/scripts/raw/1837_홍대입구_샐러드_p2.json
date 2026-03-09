@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "저스트단비 크레페 <b>홍대</b>점",
+      "link": "https://blog.naver.com/lov8104",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 366-8 1층",
+      "roadAddress": "서울특별시 마포구 잔다리로6길 30 1층",
+      "mapx": "1269208747",
+      "mapy": "375522543"
+    },
+    {
+      "title": "베어스덴 브런치",
+      "link": "https://www.instagram.com/bearsden_brunch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 441 1층,2층 베어스덴",
+      "roadAddress": "서울특별시 서대문구 연희로4길 10 1층,2층 베어스덴",
+      "mapx": "1269278323",
+      "mapy": "375616125"
+    },
+    {
+      "title": "도트블랭킷 연남 브런치카페",
+      "link": "https://catchtable.co.kr/dotblanket",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 148-9 2층",
+      "roadAddress": "서울특별시 마포구 양화로23길 28 2층",
+      "mapx": "1269250363",
+      "mapy": "375596068"
+    },
+    {
+      "title": "아오이토리",
+      "link": "http://www.instagram.com/bakerycafeaoitori",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 327-17 K.C빌딩",
+      "roadAddress": "서울특별시 마포구 와우산로29길 8 K.C빌딩",
+      "mapx": "1269294621",
+      "mapy": "375547510"
+    },
+    {
+      "title": "아벨롭 <b>홍대</b>본점",
+      "link": "https://www.instagram.com/avelop_official?igsh=MWc3enU5dGVja3l6MA==",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 375-2 Avelop",
+      "roadAddress": "서울특별시 마포구 양화로15안길 6 Avelop",
+      "mapx": "1269188258",
+      "mapy": "375544506"
+    }
+  ]
+}

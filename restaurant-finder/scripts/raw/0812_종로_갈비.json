@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미도<b>갈비</b>",
+      "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-13 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
+      "mapx": "1269861462",
+      "mapy": "375687918"
+    },
+    {
+      "title": "전설의우대<b>갈비</b> 서울시청직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    },
+    {
+      "title": "심경희라라랜드 광화문",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 113~116호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
+      "mapx": "1269824621",
+      "mapy": "375726226"
+    },
+    {
+      "title": "우래옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 118-1",
+      "roadAddress": "서울특별시 중구 창경궁로 62-29",
+      "mapx": "1269987029",
+      "mapy": "375682697"
+    },
+    {
+      "title": "광화문석<b>갈비</b> D타워점",
+      "link": "https://www.lumi.co.kr/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "인디아쉐프",
+      "link": "https://www.instagram.com/indiachef_insadong",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-36 2층",
+      "roadAddress": "서울특별시 종로구 인사동5길 20 2층",
+      "mapx": "1269852435",
+      "mapy": "375727026"
+    },
+    {
+      "title": "코코이찌방야 종로타워점",
+      "link": "http://www.cocoichibanya.com",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층",
+      "mapx": "1269836331",
+      "mapy": "375706119"
+    },
+    {
+      "title": "힛더밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 109호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 109호",
+      "mapx": "1269827936",
+      "mapy": "375723129"
+    },
+    {
+      "title": "니르바나",
+      "link": "http://nirvanaseoul.com",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 120 2층",
+      "roadAddress": "서울특별시 종로구 인사동길 58 2층",
+      "mapx": "1269837847",
+      "mapy": "375751361"
+    },
+    {
+      "title": "얌얌스파이스",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 '안녕인사동' 3층 4호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 '안녕인사동' 3층 4호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    }
+  ]
+}

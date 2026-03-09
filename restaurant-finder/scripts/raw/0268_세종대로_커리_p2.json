@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오제제 광화문",
+      "link": "https://www.instagram.com/ojeje.seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
+      "mapx": "1269783077",
+      "mapy": "375684118"
+    },
+    {
+      "title": "크루아타이",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 104호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 104호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "니욤",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 . 지하1층 B109-6호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 . 지하1층 B109-6호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "카츠쇼신 서울역그랜드센트럴점",
+      "link": "https://www.instagram.com/katsu_shoshin",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "띤띤 SFC",
+      "link": "https://www.instagram.com/tamarind_official/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFCMALL B2",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
+      "mapx": "1269782820",
+      "mapy": "375684612"
+    }
+  ]
+}

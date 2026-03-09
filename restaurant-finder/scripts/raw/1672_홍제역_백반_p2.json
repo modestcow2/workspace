@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "제주식탁",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 326-25",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 64",
+      "mapx": "1269414595",
+      "mapy": "375904280"
+    },
+    {
+      "title": "유진식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 300-6 1층",
+      "roadAddress": "서울특별시 서대문구 통일로40안길 6 1층",
+      "mapx": "1269437575",
+      "mapy": "375904376"
+    },
+    {
+      "title": "배나무집소반",
+      "link": "http://www.instagram.com/baenamu_soban",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 139-18 배나무집소반",
+      "roadAddress": "서울특별시 서대문구 홍제원4길 8 배나무집소반",
+      "mapx": "1269473573",
+      "mapy": "375863770"
+    },
+    {
+      "title": "인순이네 집밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 48-152 인순이네 집밥",
+      "roadAddress": "서울특별시 서대문구 세검정로1길 19 인순이네 집밥",
+      "mapx": "1269428327",
+      "mapy": "375924562"
+    },
+    {
+      "title": "복래찬합",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 90-2 1층 복래찬합",
+      "roadAddress": "서울특별시 서대문구 통일로 497 1층 복래찬합",
+      "mapx": "1269408589",
+      "mapy": "375922833"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "주니아 <b>길음역</b>점",
+      "link": "https://www.instagram.com/junia_gireum",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 롯데캐슬트윈골드아파트 상가 지하1층 B39호",
+      "roadAddress": "서울특별시 성북구 길음로 11 롯데캐슬트윈골드아파트 상가 지하1층 B39호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    },
+    {
+      "title": "h315 현대백화점미아점",
+      "link": "https://catchtable.co.kr/h315_mia",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점미아점 2층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점미아점 2층",
+      "mapx": "1270286239",
+      "mapy": "376086875"
+    },
+    {
+      "title": "샐요뜨 월곡점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 90-1975 1층 103호",
+      "roadAddress": "서울특별시 성북구 화랑로1길 26 1층 103호",
+      "mapx": "1270334296",
+      "mapy": "376042511"
+    },
+    {
+      "title": "잇라이트 샐러드&amp;<b>포케</b> 성북직영점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-167 1층",
+      "roadAddress": "서울특별시 성북구 종암로28길 34 1층",
+      "mapx": "1270340553",
+      "mapy": "376016689"
+    },
+    {
+      "title": "샐러디 성신여대점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동4가 99 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 115 1층",
+      "mapx": "1270175733",
+      "mapy": "375934798"
+    }
+  ]
+}

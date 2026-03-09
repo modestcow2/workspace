@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "무학바지락칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-29",
+      "roadAddress": "서울특별시 서대문구 통일로35길 6",
+      "mapx": "1269462280",
+      "mapy": "375863988"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "능라밥상",
+      "link": "https://www.facebook.com/",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 1-64 능라밥상",
+      "roadAddress": "서울특별시 종로구 사직로2길 14 능라밥상",
+      "mapx": "1269640183",
+      "mapy": "375729551"
+    },
+    {
+      "title": "남도한정식",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-40 1층",
+      "roadAddress": "서울특별시 서대문구 통일로35길 11 1층",
+      "mapx": "1269459305",
+      "mapy": "375862283"
+    }
+  ]
+}

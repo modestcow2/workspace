@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "KFC 광화문점",
+      "link": "https://www.kfckorea.com/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 161-1",
+      "roadAddress": "서울특별시 종로구 세종대로23길 7",
+      "mapx": "1269759081",
+      "mapy": "375715545"
+    },
+    {
+      "title": "움버거앤윙스 광화문점",
+      "link": "https://umopen.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 105 1층",
+      "mapx": "1269763278",
+      "mapy": "375704497"
+    },
+    {
+      "title": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100",
+      "roadAddress": "서울특별시 종로구 세종대로 178",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "맘스터치LAB 광화문점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 166-1 1~3층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 3 1~3층",
+      "mapx": "1269762246",
+      "mapy": "375715215"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동화고옥 <b>서울역</b>점",
+      "link": "https://www.instagram.com/donghwagohok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 지하1층 24-1호",
+      "roadAddress": "서울특별시 중구 한강대로 416 지하1층 24-1호",
+      "mapx": "1269737511",
+      "mapy": "375553949"
+    },
+    {
+      "title": "서울로인 <b>서울역</b>점",
+      "link": "https://www.openine.com/PARTY",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 서울스퀘어 지하1층 18호",
+      "roadAddress": "서울특별시 중구 한강대로 416 서울스퀘어 지하1층 18호",
+      "mapx": "1269737678",
+      "mapy": "375555057"
+    },
+    {
+      "title": "해담채 시청점",
+      "link": "http://haedamche.com/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 봉래동1가 25 HSBC빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 칠패로 37 HSBC빌딩 지하1층",
+      "mapx": "1269730458",
+      "mapy": "375600967"
+    },
+    {
+      "title": "여기래",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 105-194",
+      "roadAddress": "서울특별시 용산구 후암로23길 3-7",
+      "mapx": "1269773157",
+      "mapy": "375492926"
+    },
+    {
+      "title": "아리연",
+      "link": "https://www.instagram.com/ariyeon_official/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-19 해남2빌딩, 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로12길 12 해남2빌딩, 지하1층",
+      "mapx": "1269768063",
+      "mapy": "375617253"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시정인",
+      "link": "https://catchtable.co.kr/sushijungin",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-80 1층",
+      "roadAddress": "서울특별시 마포구 성미산로29안길 29 1층",
+      "mapx": "1269235459",
+      "mapy": "375656974"
+    },
+    {
+      "title": "예스터데이 야키토리와 오뎅",
+      "link": "https://app.catchtable.co.kr/ct/shop/yesterday_yakitori_n_oden?from=share&type=DINING",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 224-60 201호",
+      "roadAddress": "서울특별시 마포구 성미산로 189-5 201호",
+      "mapx": "1269265198",
+      "mapy": "375631920"
+    },
+    {
+      "title": "스시사카바 야마타츠",
+      "link": "https://www.instagram.com/yamatatsu_sushisakaba",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-90 1층",
+      "roadAddress": "서울특별시 마포구 동교로46길 42-20 1층",
+      "mapx": "1269265753",
+      "mapy": "375618604"
+    },
+    {
+      "title": "스시미가쿠",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushimigaku",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-3 1층",
+      "roadAddress": "서울특별시 마포구 동교로51길 69 1층",
+      "mapx": "1269231295",
+      "mapy": "375657941"
+    },
+    {
+      "title": "수을관",
+      "link": "https://catchtable.co.kr/sooeulgwan",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-59 2.5층",
+      "roadAddress": "서울특별시 마포구 동교로38길 19 2.5층",
+      "mapx": "1269254641",
+      "mapy": "375620305"
+    }
+  ]
+}

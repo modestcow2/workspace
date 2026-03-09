@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오레노 야끼 종로점",
+      "link": "https://catchtable.co.kr/orenoyakki",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-25 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
+      "mapx": "1269813635",
+      "mapy": "375730606"
+    },
+    {
+      "title": "야마야 광화문 디타워점",
+      "link": "https://store.kakao.com/yamaya/products/688567667",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 (청진동) 광화문 D타워 4층",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "신성<b>일식</b>",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 128-1 1,2층 신성일식",
+      "roadAddress": "서울특별시 종로구 무교로 42 1,2층 신성일식",
+      "mapx": "1269795017",
+      "mapy": "375696782"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    },
+    {
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "봉이밥 삼청동점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
+      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
+      "mapx": "1269822067",
+      "mapy": "375842989"
+    },
+    {
+      "title": "편안한집",
+      "link": "https://ahome.imweb.me/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-3",
+      "roadAddress": "서울특별시 종로구 북촌로 133",
+      "mapx": "1269833492",
+      "mapy": "375873030"
+    },
+    {
+      "title": "단풍나무집 삼청점",
+      "link": "https://www.instagram.com/mapletreekorea",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 31-1",
+      "roadAddress": "서울특별시 종로구 삼청로 130",
+      "mapx": "1269819890",
+      "mapy": "375868876"
+    },
+    {
+      "title": "미도<b>갈비</b>",
+      "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-13 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
+      "mapx": "1269861462",
+      "mapy": "375687918"
+    },
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    }
+  ]
+}

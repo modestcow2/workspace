@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무교동북어국집",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 173",
+      "roadAddress": "서울특별시 중구 을지로1길 38",
+      "mapx": "1269798583",
+      "mapy": "375677548"
+    },
+    {
+      "title": "담원순대 시청본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
+    },
+    {
+      "title": "본뼈감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 101호 본뼈감자탕",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 101호 본뼈감자탕",
+      "mapx": "1269741781",
+      "mapy": "375622803"
+    },
+    {
+      "title": "함평집 서울시청점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
+      "mapx": "1269736340",
+      "mapy": "375622716"
+    },
+    {
+      "title": "신가원 설렁탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 141 신가원설렁탕",
+      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
+      "mapx": "1269815002",
+      "mapy": "375670246"
+    }
+  ]
+}

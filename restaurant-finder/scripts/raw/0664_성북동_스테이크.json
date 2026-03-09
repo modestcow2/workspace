@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "문화식당",
+      "link": "https://m.booking.naver.com/booking/6/bizes/398158/items/3555119?area=plt",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 122-7 2층, 3층",
+      "roadAddress": "서울특별시 성북구 혜화로 88 2층, 3층",
+      "mapx": "1269982112",
+      "mapy": "375927768"
+    },
+    {
+      "title": "서울왕돈까스 본점",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 131-85 서울왕돈까스",
+      "roadAddress": "서울특별시 성북구 창경궁로35다길 140 서울왕돈까스",
+      "mapx": "1269992872",
+      "mapy": "375924600"
+    },
+    {
+      "title": "모짜",
+      "link": "https://instagram.com/102mozza?utm_source=ig_profile_share&igshid=by0nbplhnvep",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 68-4",
+      "roadAddress": "서울특별시 성북구 성북로 102",
+      "mapx": "1269975679",
+      "mapy": "375930524"
+    },
+    {
+      "title": "첸타니",
+      "link": "https://app.catchtable.co.kr/ct/shop/centanni",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 254-11 지하1층",
+      "roadAddress": "서울특별시 성북구 성북로28길 6-5 지하1층",
+      "mapx": "1269940717",
+      "mapy": "375951639"
+    },
+    {
+      "title": "봉 파레트",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-39 1층",
+      "roadAddress": "서울특별시 성북구 창경궁로43길 14 1층",
+      "mapx": "1270044362",
+      "mapy": "375885977"
+    }
+  ]
+}

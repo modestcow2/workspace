@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포보 <b>성균관대</b>점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 199-8 포보",
+      "roadAddress": "서울특별시 종로구 성균관로 4 포보",
+      "mapx": "1269985965",
+      "mapy": "375833382"
+    },
+    {
+      "title": "명륜진사갈비 서울<b>성균관대</b>점",
+      "link": "https://blog.naver.com/jinsafd",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 53 유림회관 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 31 유림회관 1층",
+      "mapx": "1269968472",
+      "mapy": "375854757"
+    },
+    {
+      "title": "행복은간장밥 <b>성균관대</b>점",
+      "link": "https://www.instagram.com/haengbab_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 199-6 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로 241 1층",
+      "mapx": "1269988319",
+      "mapy": "375833228"
+    },
+    {
+      "title": "싸움의고수 <b>성균관대</b>점",
+      "link": "http://www.ssaum.co.kr",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 142-2",
+      "roadAddress": "서울특별시 종로구 성균관로 17",
+      "mapx": "1269974430",
+      "mapy": "375843131"
+    },
+    {
+      "title": "본죽 <b>성균관대</b>점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF101",
+      "category": "음식점>죽",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 168-1 1층 본죽성균관대점",
+      "roadAddress": "서울특별시 종로구 창경궁로 247 1층 본죽성균관대점",
+      "mapx": "1269992327",
+      "mapy": "375836740"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "로뎀나무",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 23-9",
+      "roadAddress": "서울특별시 중구 정동길 2-2",
+      "mapx": "1269694422",
+      "mapy": "375678968"
+    },
+    {
+      "title": "허니<b>떡볶이</b>",
+      "link": "https://blog.naver.com/honeybokki",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
+      "mapx": "1269762132",
+      "mapy": "375705250"
+    },
+    {
+      "title": "청담동 마녀김밥 광화문점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1",
+      "roadAddress": "서울특별시 종로구 새문안로 105",
+      "mapx": "1269762542",
+      "mapy": "375704544"
+    },
+    {
+      "title": "학교앞분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 170 동서한의원",
+      "roadAddress": "서울특별시 종로구 새문안로 39-1 동서한의원",
+      "mapx": "1269695106",
+      "mapy": "375688274"
+    },
+    {
+      "title": "새봄 서대문점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 62-15",
+      "roadAddress": "서울특별시 중구 새문안로 24",
+      "mapx": "1269685725",
+      "mapy": "375674131"
+    }
+  ]
+}

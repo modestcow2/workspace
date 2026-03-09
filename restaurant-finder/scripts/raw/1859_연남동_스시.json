@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연하동 연남본점",
+      "link": "https://www.instagram.com/yeonhadong",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-15",
+      "roadAddress": "서울특별시 마포구 연남로 6",
+      "mapx": "1269235360",
+      "mapy": "375604990"
+    },
+    {
+      "title": "연어롭다",
+      "link": "http://instagram.com/s_kitae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-19",
+      "roadAddress": "서울특별시 마포구 동교로38길 42",
+      "mapx": "1269256927",
+      "mapy": "375610408"
+    },
+    {
+      "title": "연미정 연어 연남본점",
+      "link": "https://youtube.com/channel/UC6K0JB4dIpTiGOErLW8OZ2w?feature=shared",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-9 1층",
+      "roadAddress": "서울특별시 마포구 동교로 262-11 1층",
+      "mapx": "1269256906",
+      "mapy": "375627464"
+    },
+    {
+      "title": "바다회사랑 연남점",
+      "link": "https://www.instagram.com/bada.sa.rang",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-8",
+      "roadAddress": "서울특별시 마포구 동교로27길 60",
+      "mapx": "1269210000",
+      "mapy": "375604083"
+    },
+    {
+      "title": "<b>스시</b>지현",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushijihyun",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-13 1층 스시지현",
+      "roadAddress": "서울특별시 마포구 동교로 227-7 1층 스시지현",
+      "mapx": "1269236372",
+      "mapy": "375606756"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대박물갈비",
+      "link": "https://www.instagram.com/daepark_mulgalbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 168-8 1층 대박물갈비",
+      "roadAddress": "서울특별시 중구 퇴계로4길 7 1층 대박물갈비",
+      "mapx": "1269777252",
+      "mapy": "375575445"
+    },
+    {
+      "title": "달인명동칼국수<b>보쌈</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 163 이프라자 지하",
+      "roadAddress": "서울특별시 중구 세종대로4길 25 이프라자 지하",
+      "mapx": "1269752692",
+      "mapy": "375578602"
+    },
+    {
+      "title": "중앙왕족발",
+      "link": "http://jungangwangjokbal.cityfood.co.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-120",
+      "roadAddress": "서울특별시 중구 남대문시장4길 10-1",
+      "mapx": "1269772061",
+      "mapy": "375597406"
+    },
+    {
+      "title": "숭례회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-7 화남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 15 화남빌딩",
+      "mapx": "1269732674",
+      "mapy": "375583627"
+    },
+    {
+      "title": "북촌손두부",
+      "link": "",
+      "category": "한식>두부요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-83 1층",
+      "roadAddress": "서울특별시 중구 남대문로5길 3 1층",
+      "mapx": "1269789448",
+      "mapy": "375615965"
+    }
+  ]
+}

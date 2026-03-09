@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "화원루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 290-1",
+      "roadAddress": "경기도 수원시 장안구 서부로2126번길 17",
+      "mapx": "1269728815",
+      "mapy": "372979990"
+    },
+    {
+      "title": "정원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 298-8 2층",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 34-3 2층",
+      "mapx": "1269693462",
+      "mapy": "372986041"
+    },
+    {
+      "title": "<b>짬뽕</b>관 수원<b>성균관대</b>점",
+      "link": "http://짬뽕관.com",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 292-7 105호, 106호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 17 105호, 106호",
+      "mapx": "1269702507",
+      "mapy": "372982228"
+    },
+    {
+      "title": "느린마을양조장 대학로점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 27-5 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로34길 24-5 1층",
+      "mapx": "1270008054",
+      "mapy": "375838516"
+    },
+    {
+      "title": "아무술집 성대직영점",
+      "link": "https://www.instagram.com/amusulzip_sungdae",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 407-2 101호",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 56 101호",
+      "mapx": "1269700450",
+      "mapy": "372973616"
+    }
+  ]
+}

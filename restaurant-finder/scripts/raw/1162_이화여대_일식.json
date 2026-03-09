@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "파파노다이닝",
+      "link": "https://smartstore.naver.com/papanodining",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-51",
+      "roadAddress": "서울특별시 서대문구 이화여대길 88-14",
+      "mapx": "1269441291",
+      "mapy": "375594385"
+    },
+    {
+      "title": "스미레",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-32",
+      "roadAddress": "서울특별시 서대문구 연세로4길 61",
+      "mapx": "1269395636",
+      "mapy": "375585546"
+    },
+    {
+      "title": "긴자료코 이대점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-98 1층 101호",
+      "roadAddress": "서울특별시 서대문구 이화여대7길 5 1층 101호",
+      "mapx": "1269453606",
+      "mapy": "375586857"
+    },
+    {
+      "title": "우미마루",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 27-28",
+      "roadAddress": "서울특별시 서대문구 신촌역로 18",
+      "mapx": "1269430015",
+      "mapy": "375582583"
+    },
+    {
+      "title": "신촌돈부리모노",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-95 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 46 1층",
+      "mapx": "1269390126",
+      "mapy": "375579824"
+    }
+  ]
+}

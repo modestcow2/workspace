@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서해초밥 <b>서울역</b>점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-56",
+      "roadAddress": "서울특별시 용산구 한강대로 391",
+      "mapx": "1269723375",
+      "mapy": "375533667"
+    },
+    {
+      "title": "잉꼬",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 17-3 2층",
+      "roadAddress": "서울특별시 중구 세종대로 22 2층",
+      "mapx": "1269743278",
+      "mapy": "375585140"
+    },
+    {
+      "title": "연미정 <b>서울역</b>점",
+      "link": "https://www.instagram.com/yeonmijeong_",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 23-29 1층",
+      "roadAddress": "서울특별시 용산구 한강대로104길 38 1층",
+      "mapx": "1269743943",
+      "mapy": "375502054"
+    },
+    {
+      "title": "오묘 <b>서울역</b>점",
+      "link": "https://www.instagram.com/omyo_dining",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-43 1층",
+      "roadAddress": "서울특별시 용산구 한강대로 373-2 1층",
+      "mapx": "1269720212",
+      "mapy": "375518272"
+    },
+    {
+      "title": "<b>스시</b> 다이이치",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushi_daiichi",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 631 서울역LG빌딩 B1층 103호",
+      "roadAddress": "서울특별시 중구 후암로 98 서울역LG빌딩 B1층 103호",
+      "mapx": "1269748643",
+      "mapy": "375539640"
+    }
+  ]
+}

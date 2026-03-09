@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "그리너 남대문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
+    {
+      "title": "훅트<b>포케</b> 을지로점",
+      "link": "https://www.hookedpoke.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
+      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
+      "mapx": "1269887654",
+      "mapy": "375666400"
+    },
+    {
+      "title": "폴인<b>포케</b> 서울시청점",
+      "link": "https://fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
+      "mapx": "1269775175",
+      "mapy": "375623578"
+    },
+    {
+      "title": "벤자민<b>포케</b>엔샐러드",
+      "link": "https://www.instagram.com/benjamin_pokesalad",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 30-2 1층",
+      "roadAddress": "서울특별시 중구 퇴계로20길 20 1층",
+      "mapx": "1269857917",
+      "mapy": "375593277"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "누리옥 <b>시청</b>역점",
+      "link": "https://www.instagram.com/nuriok83",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 96 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-6 2층",
+      "mapx": "1269777393",
+      "mapy": "375621889"
+    },
+    {
+      "title": "본강남면옥 인천<b>시청</b>본점",
+      "link": "https://www.instagram.com/bongangnam",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 남동구 구월동 1139-4 1층 본강남면옥",
+      "roadAddress": "인천광역시 남동구 남동대로799번길 44 1층 본강남면옥",
+      "mapx": "1267056583",
+      "mapy": "374541093"
+    },
+    {
+      "title": "팔당<b>냉면</b> 용인<b>시청</b>점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 용인시 처인구 삼가동 254-4",
+      "roadAddress": "경기도 용인시 처인구 중부대로 1175",
+      "mapx": "1271763589",
+      "mapy": "372389931"
+    },
+    {
+      "title": "여러분면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 고양시 덕양구 주교동 250-11",
+      "roadAddress": "경기도 고양시 덕양구 원당로33번길 66",
+      "mapx": "1268291225",
+      "mapy": "376579138"
+    },
+    {
+      "title": "진주<b>냉면</b>산홍 진주<b>시청</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sanhong_jinjusicheong",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "경상남도 진주시 상대동 238-1 1층",
+      "roadAddress": "경상남도 진주시 도동천로 157 1층",
+      "mapx": "1281155483",
+      "mapy": "351840959"
+    }
+  ]
+}

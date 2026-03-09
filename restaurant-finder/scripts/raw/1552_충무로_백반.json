@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "사랑방칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 23-1",
+      "roadAddress": "서울특별시 중구 퇴계로27길 46",
+      "mapx": "1269913418",
+      "mapy": "375632872"
+    },
+    {
+      "title": "잊지마식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동2가 192-17",
+      "roadAddress": "서울특별시 중구 퇴계로41길 47",
+      "mapx": "1269954730",
+      "mapy": "375639589"
+    },
+    {
+      "title": "저저",
+      "link": "https://www.instagram.com/zuhzuh.kr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동2가 182-2 1층 101호",
+      "roadAddress": "서울특별시 중구 퇴계로41길 31 1층 101호",
+      "mapx": "1269955378",
+      "mapy": "375631923"
+    },
+    {
+      "title": "성원식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동2가 92-10",
+      "roadAddress": "서울특별시 중구 을지로20길 36",
+      "mapx": "1269953943",
+      "mapy": "375648489"
+    },
+    {
+      "title": "성원식당 별관",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 5-9",
+      "roadAddress": "서울특별시 중구 을지로20길 32",
+      "mapx": "1269953664",
+      "mapy": "375650582"
+    }
+  ]
+}

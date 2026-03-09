@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고우가 광화문점",
+      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "광화문한상 광화문점",
+      "link": "https://www.instagram.com/https://www.instagram.com/korean__ghmhs?igsh=Ynl0dXJuZ2QxZXc0",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 2층",
+      "mapx": "1269765840",
+      "mapy": "375683348"
+    },
+    {
+      "title": "투뿔 코리안 스테이크하우스 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/twobull_gwanghwamun",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 1층",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 1층",
+      "mapx": "1269785521",
+      "mapy": "375684009"
+    },
+    {
+      "title": "서경한우 남대문 장터본가점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-4 1층",
+      "roadAddress": "서울특별시 중구 세종대로 62 1층",
+      "mapx": "1269764527",
+      "mapy": "375617228"
+    },
+    {
+      "title": "바른고기 정육점 광화문SFC점",
+      "link": "",
+      "category": "육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하2층, B202호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하2층, B202호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    }
+  ]
+}

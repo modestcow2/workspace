@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고려<b>삼계탕</b>",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 55-3",
+      "roadAddress": "서울특별시 중구 서소문로11길 1",
+      "mapx": "1269729232",
+      "mapy": "375629681"
+    },
+    {
+      "title": "장안<b>삼계탕</b>",
+      "link": "https://blog.naver.com/jangan1971",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 53 장안삼계탕",
+      "roadAddress": "서울특별시 중구 세종대로18길 8 장안삼계탕",
+      "mapx": "1269775163",
+      "mapy": "375637587"
+    },
+    {
+      "title": "여의도<b>삼계탕</b> 파이낸스센터점",
+      "link": "https://blog.naver.com/dreamingmoom",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 파이낸스센터 sfc몰 지하1층 103호 여의도 삼계탕",
+      "roadAddress": "서울특별시 중구 세종대로 136 파이낸스센터 sfc몰 지하1층 103호 여의도 삼계탕",
+      "mapx": "1269788924",
+      "mapy": "375682885"
+    },
+    {
+      "title": "고구려<b>삼계탕</b> 롯데백화점본점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점본점 13F",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점본점 13F",
+      "mapx": "1269817831",
+      "mapy": "375646270"
+    },
+    {
+      "title": "현풍닭칼국수 광화문점",
+      "link": "https://www.instagram.com/hyunpungdk_official",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-3 1층",
+      "roadAddress": "서울특별시 중구 세종대로 135-9 1층",
+      "mapx": "1269763007",
+      "mapy": "375688748"
+    }
+  ]
+}

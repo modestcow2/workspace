@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "목란",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-28",
+      "roadAddress": "서울특별시 서대문구 연희로15길 21",
+      "mapx": "1269304986",
+      "mapy": "375683712"
+    },
+    {
+      "title": "연경 연희점",
+      "link": "https://smartstore.naver.com/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 86-15",
+      "roadAddress": "서울특별시 서대문구 연희로 145",
+      "mapx": "1269336393",
+      "mapy": "375705981"
+    },
+    {
+      "title": "락희안 가좌본점",
+      "link": "https://www.instagram.com/the_lexian/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 336-20 1, 2층",
+      "roadAddress": "서울특별시 서대문구 가재울로4길 53 1, 2층",
+      "mapx": "1269241681",
+      "mapy": "375760987"
+    },
+    {
+      "title": "이품",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-19",
+      "roadAddress": "서울특별시 서대문구 연희로11길 20",
+      "mapx": "1269300765",
+      "mapy": "375675500"
+    },
+    {
+      "title": "라이빈",
+      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 15 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
+      "mapx": "1269624726",
+      "mapy": "375696654"
+    }
+  ]
+}

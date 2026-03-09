@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무학바지락<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-29",
+      "roadAddress": "서울특별시 서대문구 통일로35길 6",
+      "mapx": "1269462280",
+      "mapy": "375863988"
+    },
+    {
+      "title": "봉평메밀촌 홍제점",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-112",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 27",
+      "mapx": "1269427311",
+      "mapy": "375891329"
+    },
+    {
+      "title": "홍제상회",
+      "link": "https://www.instagram.com/hongje_store",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-5 1층",
+      "roadAddress": "서울특별시 서대문구 세무서길 67 1층",
+      "mapx": "1269464261",
+      "mapy": "375909638"
+    },
+    {
+      "title": "닭한마리전문점",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 299-49",
+      "roadAddress": "서울특별시 서대문구 통일로40안길 3-1",
+      "mapx": "1269433242",
+      "mapy": "375904388"
+    },
+    {
+      "title": "명동<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-14 2층",
+      "roadAddress": "서울특별시 서대문구 통일로 442-9 2층",
+      "mapx": "1269450012",
+      "mapy": "375888316"
+    }
+  ]
+}

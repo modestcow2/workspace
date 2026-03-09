@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "명륜진사<b>갈비</b> 서울<b>성균관대</b>점",
+      "link": "https://blog.naver.com/jinsafd",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 53 유림회관 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 31 유림회관 1층",
+      "mapx": "1269968472",
+      "mapy": "375854757"
+    },
+    {
+      "title": "명륜진사<b>갈비</b> 수원<b>성균관대</b>점",
+      "link": "https://blog.naver.com/jinsafd",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 296-46 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2129-5 1층",
+      "mapx": "1269713254",
+      "mapy": "372989328"
+    },
+    {
+      "title": "더맛구이구이쪽<b>갈비</b> <b>성균관대</b>점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-94",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 41",
+      "mapx": "1269705298",
+      "mapy": "372979356"
+    },
+    {
+      "title": "상록회관 연탄구이 <b>성균관대</b>역점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 281-9 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2144 1층",
+      "mapx": "1269728926",
+      "mapy": "372994197"
+    },
+    {
+      "title": "쌈장 성대점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 402-2 2층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 35 2층",
+      "mapx": "1269706469",
+      "mapy": "372981294"
+    }
+  ]
+}

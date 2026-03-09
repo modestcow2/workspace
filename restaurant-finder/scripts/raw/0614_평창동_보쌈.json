@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼각산",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 85-25",
+      "roadAddress": "서울특별시 종로구 진흥로 435",
+      "mapx": "1269573129",
+      "mapy": "376083967"
+    },
+    {
+      "title": "<b>평창동</b> 칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 595 갑을시티텔 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 19 갑을시티텔 1층",
+      "mapx": "1269638071",
+      "mapy": "376045867"
+    },
+    {
+      "title": "강촌쌈밥",
+      "link": "",
+      "category": "한식>쌈밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 460-1 강촌쌈밥",
+      "roadAddress": "서울특별시 종로구 평창30길 9 강촌쌈밥",
+      "mapx": "1269747212",
+      "mapy": "376108914"
+    },
+    {
+      "title": "쉼터산울림",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 10-5",
+      "roadAddress": "서울특별시 종로구 비봉2길 76",
+      "mapx": "1269610449",
+      "mapy": "376151817"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "파파이스 광화문점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 24",
+      "roadAddress": "서울특별시 종로구 새문안로 91",
+      "mapx": "1269748374",
+      "mapy": "375704194"
+    },
+    {
+      "title": "움버거앤윙스 광화문점",
+      "link": "https://umopen.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 105 1층",
+      "mapx": "1269763278",
+      "mapy": "375704497"
+    },
+    {
+      "title": "버거링맨",
+      "link": "https://www.instagram.com/burgering_man_official",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하 2층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "우리동네 토스트",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "분식>토스트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 89-27 1층 104호",
+      "roadAddress": "서울특별시 종로구 새문안로 46 1층 104호",
+      "mapx": "1269702080",
+      "mapy": "375687973"
+    },
+    {
+      "title": "포시즌스 호텔 서울 마루",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 로비층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 로비층",
+      "mapx": "1269753817",
+      "mapy": "375707185"
+    }
+  ]
+}

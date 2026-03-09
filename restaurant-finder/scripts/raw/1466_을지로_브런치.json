@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "분카샤 <b>을지로</b>점",
+      "link": "http://instagram.com/bunkasha",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 302-24 호성P&P 2층",
+      "roadAddress": "서울특별시 중구 을지로14길 20 호성P&P 2층",
+      "mapx": "1269920219",
+      "mapy": "375653439"
+    },
+    {
+      "title": "스타치",
+      "link": "https://www.instagram.com/starch.seoul?igsh=MXRsYmVmYW5vdGY2aw%3D%3D&utm_source=qr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 132-3 1층",
+      "roadAddress": "서울특별시 중구 마른내로4길 25 1층",
+      "mapx": "1269936304",
+      "mapy": "375631317"
+    },
+    {
+      "title": "에스터스",
+      "link": "https://www.esters.co.kr/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 18-5 1층",
+      "roadAddress": "서울특별시 중구 마른내로 47 1층",
+      "mapx": "1269931626",
+      "mapy": "375645922"
+    },
+    {
+      "title": "끄네들로 <b>을지로</b>본점",
+      "link": "https://www.instagram.com/knedlo95",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 입정동 281 1층 101호",
+      "roadAddress": "서울특별시 중구 을지로19길 23-1 1층 101호",
+      "mapx": "1269944041",
+      "mapy": "375675231"
+    },
+    {
+      "title": "82올리언즈",
+      "link": "https://app.catchtable.co.kr/ct/shop/82orleans_euljiro",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 156-6 1층, 82올리언즈",
+      "roadAddress": "서울특별시 중구 퇴계로27길 64 1층, 82올리언즈",
+      "mapx": "1269912561",
+      "mapy": "375640014"
+    }
+  ]
+}

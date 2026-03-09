@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쿄코코 대학로점",
+      "link": "https://blog.naver.com/kyokoko11",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 70-3 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 38-23 1층",
+      "mapx": "1270004455",
+      "mapy": "375825887"
+    },
+    {
+      "title": "멘츠루 대학로점",
+      "link": "https://www.instagram.com/menchuru_hyehwa?igsh=Z3BzbWd0d2NjMXZy",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 154-3 1층 멘츠루",
+      "roadAddress": "서울특별시 종로구 창경궁로26길 39 1층 멘츠루",
+      "mapx": "1269998393",
+      "mapy": "375820066"
+    },
+    {
+      "title": "혼가츠 대학로점",
+      "link": "https://www.instagram.com/honkaz81",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 36-1 지하 1층 혼가츠",
+      "roadAddress": "서울특별시 종로구 대명길 24 지하 1층 혼가츠",
+      "mapx": "1270003031",
+      "mapy": "375834201"
+    },
+    {
+      "title": "멘야산다이메",
+      "link": "http://menyahyehwa.com",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 147-1",
+      "roadAddress": "서울특별시 종로구 창경궁로26길 38-2",
+      "mapx": "1269997459",
+      "mapy": "375818134"
+    },
+    {
+      "title": "칸다소바",
+      "link": "https://litt.ly/kandasoba",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 24",
+      "roadAddress": "서울특별시 종로구 대학로 131-1",
+      "mapx": "1270013840",
+      "mapy": "375829010"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "홈보이서울",
+      "link": "http://www.instagram.com/homeboy_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 1층 홈보이서울",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
+      "mapx": "1269730709",
+      "mapy": "375762354"
+    },
+    {
+      "title": "포담 서촌본점",
+      "link": "https://www.instagram.com/podam4dish?igsh=MWNhcWVoa3NieG5neQ==",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 25 2층 포담",
+      "roadAddress": "서울특별시 종로구 사직로 133-10 2층 포담",
+      "mapx": "1269734513",
+      "mapy": "375763862"
+    },
+    {
+      "title": "천궁 경복궁점",
+      "link": "https://blog.naver.com/rhkrejrrms",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 광화문플래티넘빌딩 지하 118호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 광화문플래티넘빌딩 지하 118호",
+      "mapx": "1269736144",
+      "mapy": "375744582"
+    },
+    {
+      "title": "용궁",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269695378",
+      "mapy": "375746229"
+    },
+    {
+      "title": "김쉐프",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 301동 지하1층 B113-10호(, 광화문 스페이스본)",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 301동 지하1층 B113-10호(사직동, 광화문 스페이스본)",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    }
+  ]
+}

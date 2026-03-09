@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>홍대</b>조폭떡볶이 <b>홍대</b>2호점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 164-17 1층",
+      "roadAddress": "서울특별시 마포구 홍익로6길 38 1층",
+      "mapx": "1269237556",
+      "mapy": "375558918"
+    },
+    {
+      "title": "<b>홍대</b>조폭떡볶이 본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 328-18 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 26 1층",
+      "mapx": "1269284793",
+      "mapy": "375552696"
+    },
+    {
+      "title": "닭장수김밥 <b>홍대</b>점",
+      "link": "https://www.instagram.com/dakjangsu_gimbap",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 201-41 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로4길 26 1층",
+      "mapx": "1269211790",
+      "mapy": "375574404"
+    },
+    {
+      "title": "마포곱창타운 연남점",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 197-5",
+      "roadAddress": "서울특별시 마포구 동교로27길 20",
+      "mapx": "1269225339",
+      "mapy": "375590716"
+    },
+    {
+      "title": "시골<b>순대</b>",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 375-5 시골순대",
+      "roadAddress": "서울특별시 마포구 월드컵북로1길 50 시골순대",
+      "mapx": "1269189437",
+      "mapy": "375540824"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "풀리너마이트 <b>홍대</b>",
+      "link": "https://blog.naver.com/fullinamite",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 358-103 풀리너마이트 홍대",
+      "roadAddress": "서울특별시 마포구 홍익로 13-4 풀리너마이트 홍대",
+      "mapx": "1269229752",
+      "mapy": "375536729"
+    },
+    {
+      "title": "식스티즈 <b>홍대</b>본점",
+      "link": "http://www.instagram.com/60s_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 344-6 1층",
+      "roadAddress": "서울특별시 마포구 와우산로23길 9 1층",
+      "mapx": "1269244009",
+      "mapy": "375535533"
+    },
+    {
+      "title": "니꾸킹 버거",
+      "link": "http://instagram.com/nikukingburger_seoul",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 381-3 1층 202호",
+      "roadAddress": "서울특별시 마포구 동교로34길 17 1층 202호",
+      "mapx": "1269253123",
+      "mapy": "375609570"
+    },
+    {
+      "title": "더리얼치즈버거",
+      "link": "https://www.instagram.com/trcseoul/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 330-3 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 48-29 1층",
+      "mapx": "1269277551",
+      "mapy": "375562084"
+    },
+    {
+      "title": "고스트블랙 연남",
+      "link": "https://www.instagram.com/ghostblack_yeonnam/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-35 고스트블랙연남",
+      "roadAddress": "서울특별시 마포구 연희로1길 45-6 고스트블랙연남",
+      "mapx": "1269259468",
+      "mapy": "375613117"
+    }
+  ]
+}

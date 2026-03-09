@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>마포</b>옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 용강동 50-13 1층 마포옥",
+      "roadAddress": "서울특별시 마포구 토정로 312 1층 마포옥",
+      "mapx": "1269433125",
+      "mapy": "375398916"
+    },
+    {
+      "title": "<b>마포</b>양지<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 181-37",
+      "roadAddress": "서울특별시 마포구 새창로 6",
+      "mapx": "1269504338",
+      "mapy": "375420571"
+    },
+    {
+      "title": "원조신촌<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 119-45",
+      "roadAddress": "서울특별시 마포구 마포대로14길 16",
+      "mapx": "1269562750",
+      "mapy": "375483083"
+    },
+    {
+      "title": "한양설농탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 335-2",
+      "roadAddress": "서울특별시 마포구 도화길 20-4",
+      "mapx": "1269482826",
+      "mapy": "375401859"
+    },
+    {
+      "title": "우가촌 <b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 신공덕동 172",
+      "roadAddress": "서울특별시 마포구 백범로 205",
+      "mapx": "1269542598",
+      "mapy": "375441200"
+    }
+  ]
+}

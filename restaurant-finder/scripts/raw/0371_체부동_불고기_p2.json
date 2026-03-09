@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소풍 독립문역점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
+      "mapx": "1269649269",
+      "mapy": "375737152"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "궁의아침",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 광화문스페이스본 301동 B208호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문스페이스본 301동 B208호",
+      "mapx": "1269686008",
+      "mapy": "375744034"
+    },
+    {
+      "title": "한복식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 60-2 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 5 지하1층",
+      "mapx": "1269719630",
+      "mapy": "375767225"
+    },
+    {
+      "title": "싱싱밥상",
+      "link": "",
+      "category": "음식점>한식뷔페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 스페이스본오피스텔푸드코트내 싱싱집밥",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 스페이스본오피스텔푸드코트내 싱싱집밥",
+      "mapx": "1269695166",
+      "mapy": "375745032"
+    }
+  ]
+}

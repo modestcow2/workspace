@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "리정원 신촌점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-26 1층 리정원",
+      "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
+      "mapx": "1269393882",
+      "mapy": "375591466"
+    },
+    {
+      "title": "나주어반",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-38",
+      "roadAddress": "서울특별시 서대문구 연세로2마길 29",
+      "mapx": "1269420575",
+      "mapy": "375583949"
+    },
+    {
+      "title": "이로운밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-13 2층",
+      "roadAddress": "서울특별시 서대문구 연대동문길 27-6 2층",
+      "mapx": "1269437383",
+      "mapy": "375640555"
+    },
+    {
+      "title": "존재의 이유",
+      "link": "https://x.com/jonjaeeux",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 125-19",
+      "roadAddress": "서울특별시 서대문구 성산로 569",
+      "mapx": "1269468587",
+      "mapy": "375669467"
+    },
+    {
+      "title": "행복한식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 353-34 1층 행복한식당",
+      "roadAddress": "서울특별시 마포구 신촌로28가길 9 1층 행복한식당",
+      "mapx": "1269504023",
+      "mapy": "375566855"
+    }
+  ]
+}

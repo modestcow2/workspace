@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "친니",
+      "link": "http://www.chinee.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
+      "mapx": "1269762577",
+      "mapy": "375724523"
+    },
+    {
+      "title": "대상해",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
+      "mapx": "1269765840",
+      "mapy": "375683348"
+    },
+    {
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "영빈루블랙 그랜드센트럴점",
+      "link": "https://blog.naver.com/aking01795",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "송쉐프 숭례문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 45 대한서울상공회의소 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 39 대한서울상공회의소 지하1층",
+      "mapx": "1269737753",
+      "mapy": "375607137"
+    }
+  ]
+}

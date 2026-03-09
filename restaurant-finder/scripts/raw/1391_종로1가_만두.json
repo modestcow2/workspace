@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "청화 우육도삭면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
+      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "신승관",
+      "link": "https://m.blog.naver.com/wmedia77/223171955325",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 217호",
+      "roadAddress": "서울특별시 종로구 종로 19 217호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "<b>종로</b>수제비",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1",
+      "mapx": "1269797994",
+      "mapy": "375706931"
+    },
+    {
+      "title": "광화문미진",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 1층",
+      "mapx": "1269798986",
+      "mapy": "375705485"
+    },
+    {
+      "title": "윤찬식당",
+      "link": "https://www.instagram.com/yunchan_bistro_sotasty",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B105-3호(르메이에르종로타운)",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B105-3호(르메이에르종로타운)",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    }
+  ]
+}

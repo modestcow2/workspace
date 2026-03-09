@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "버거옥 <b>종로</b>점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-24 1층~4층",
+      "roadAddress": "서울특별시 종로구 삼일대로 396 1층~4층",
+      "mapx": "1269879939",
+      "mapy": "375698705"
+    },
+    {
+      "title": "버거킹 <b>종로</b>점",
+      "link": "http://www.burgerking.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-23",
+      "roadAddress": "서울특별시 종로구 종로 94",
+      "mapx": "1269881077",
+      "mapy": "375699586"
+    },
+    {
+      "title": "맘스터치 종각역점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 102-1 2층",
+      "roadAddress": "서울특별시 종로구 종로 62-1 2층",
+      "mapx": "1269843665",
+      "mapy": "375699467"
+    },
+    {
+      "title": "버거리 종각역점",
+      "link": "",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 장안빌딩 107호",
+      "roadAddress": "서울특별시 종로구 종로 65 장안빌딩 107호",
+      "mapx": "1269848457",
+      "mapy": "375704080"
+    },
+    {
+      "title": "한국맥도날드",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6",
+      "roadAddress": "서울특별시 종로구 종로 51",
+      "mapx": "1269836224",
+      "mapy": "375707629"
+    }
+  ]
+}

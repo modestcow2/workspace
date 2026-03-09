@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대학로<b>족발</b>보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 143-2",
+      "roadAddress": "서울특별시 종로구 대학로 149",
+      "mapx": "1270011367",
+      "mapy": "375845726"
+    },
+    {
+      "title": "달빛마루",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 83-4",
+      "roadAddress": "서울특별시 종로구 대학로11길 24-1",
+      "mapx": "1270002585",
+      "mapy": "375823016"
+    },
+    {
+      "title": "2014화정<b>족발</b> 혜화점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 163-29 1층",
+      "roadAddress": "서울특별시 종로구 대학로14길 21 1층",
+      "mapx": "1270025478",
+      "mapy": "375842871"
+    },
+    {
+      "title": "동네별장",
+      "link": "https://www.instagram.com/dnbj__/",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 174-1",
+      "roadAddress": "서울특별시 종로구 창경궁로 246-1",
+      "mapx": "1269995235",
+      "mapy": "375834053"
+    },
+    {
+      "title": "재팔이네닭발 대학로점",
+      "link": "http://instagram.com/jaepal2ne_daehakro",
+      "category": "한식>닭발",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 72-2 2층",
+      "roadAddress": "서울특별시 종로구 대학로11길 38-18 2층",
+      "mapx": "1270006730",
+      "mapy": "375824832"
+    }
+  ]
+}

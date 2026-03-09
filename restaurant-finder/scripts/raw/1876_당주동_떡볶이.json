@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "매일분식",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 1",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 5",
+      "mapx": "1269741578",
+      "mapy": "375725741"
+    },
+    {
+      "title": "봉구가래<b>떡볶이</b> 광화문점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 지하1층 133호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지하1층 133호",
+      "mapx": "1269733018",
+      "mapy": "375718397"
+    },
+    {
+      "title": "서울김밥 광화문1호점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-18 서울김밥",
+      "roadAddress": "서울특별시 종로구 새문안로3길 17 서울김밥",
+      "mapx": "1269725721",
+      "mapy": "375719765"
+    },
+    {
+      "title": "생활맥주 광화문점",
+      "link": "https://blog.naver.com/dailybeer",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 167-1",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-7",
+      "mapx": "1269745613",
+      "mapy": "375711584"
+    },
+    {
+      "title": "비어할레 광화문점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩",
+      "mapx": "1269743351",
+      "mapy": "375720260"
+    }
+  ]
+}

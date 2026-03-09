@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마포<b>만두</b> <b>시청</b>점",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
+    },
+    {
+      "title": "진진<b>만두</b> <b>시청</b>점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
+    },
+    {
+      "title": "북창동개성칼<b>만두</b> 서울<b>시청</b>역본점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 92 지층 B1",
+      "roadAddress": "서울특별시 중구 세종대로14길 34 지층 B1",
+      "mapx": "1269785473",
+      "mapy": "375627549"
+    },
+    {
+      "title": "인계동 언니<b>만두</b> &amp; 칼국수 수원<b>시청</b>역본점",
+      "link": "https://www.instagram.com/sister.mandu",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1034-3 101호",
+      "roadAddress": "경기도 수원시 팔달구 경수대로466번길 52 101호",
+      "mapx": "1270297003",
+      "mapy": "372664923"
+    },
+    {
+      "title": "탄백",
+      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-8",
+      "roadAddress": "서울특별시 중구 정동길 37",
+      "mapx": "1269724678",
+      "mapy": "375659578"
+    }
+  ]
+}

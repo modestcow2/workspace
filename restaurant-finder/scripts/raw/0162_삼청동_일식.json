@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:49:53 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:31:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375765832"
     },
     {
-      "title": "쿄와우동",
-      "link": "",
-      "category": "음식점>일식>우동,소바",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 144-1 지하1층",
-      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
-      "mapx": "1269866870",
-      "mapy": "375780953"
-    },
-    {
       "title": "오레노라멘 인사점",
       "link": "https://www.orenoramen.co.kr/",
       "category": "음식점>일식>일본식라면",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 49-4 1층",
       "mapx": "1269845721",
       "mapy": "375765297"
+    },
+    {
+      "title": "쿄와우동",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 지하1층",
+      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
+      "mapx": "1269866870",
+      "mapy": "375780953"
     }
   ]
 }

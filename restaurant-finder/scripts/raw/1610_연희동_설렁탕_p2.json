@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한우명가",
+      "link": "http://한우명가.net/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-111",
+      "roadAddress": "서울특별시 서대문구 연희로 46-1",
+      "mapx": "1269281150",
+      "mapy": "375627970"
+    },
+    {
+      "title": "청송함흥냉면전문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-6",
+      "roadAddress": "서울특별시 서대문구 연희맛로 6",
+      "mapx": "1269287944",
+      "mapy": "375659401"
+    },
+    {
+      "title": "연희곰탕",
+      "link": "https://smartstore.naver.com/yhgom/products/8040960144",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 122-4",
+      "roadAddress": "서울특별시 서대문구 증가로 17",
+      "mapx": "1269309569",
+      "mapy": "375698190"
+    },
+    {
+      "title": "평택고여사집냉면",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-13",
+      "roadAddress": "서울특별시 서대문구 연희로 81-9",
+      "mapx": "1269292870",
+      "mapy": "375657029"
+    },
+    {
+      "title": "장도리곰탕 연희점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 81-8",
+      "roadAddress": "서울특별시 서대문구 연희로25길 27",
+      "mapx": "1269342698",
+      "mapy": "375721023"
+    }
+  ]
+}

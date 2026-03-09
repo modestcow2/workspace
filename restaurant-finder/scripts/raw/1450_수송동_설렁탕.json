@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이여곰탕 종로점",
+      "link": "https://clip.naver.com/@jongno_gomtang",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "mapx": "1269807361",
+      "mapy": "375727720"
+    },
+    {
+      "title": "나주소나주곰탕 종로수송점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-19 원당빌딩",
+      "roadAddress": "서울특별시 종로구 율곡로4길 55 원당빌딩",
+      "mapx": "1269812257",
+      "mapy": "375732864"
+    },
+    {
+      "title": "담소 누룽지백숙",
+      "link": "http://instagram.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브 파빌리온 지하1층 120호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브 파빌리온 지하1층 120호",
+      "mapx": "1269817944",
+      "mapy": "375723869"
+    },
+    {
+      "title": "이문<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 88",
+      "roadAddress": "서울특별시 종로구 우정국로 38-13",
+      "mapx": "1269839047",
+      "mapy": "375727663"
+    },
+    {
+      "title": "미성옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 54-6",
+      "roadAddress": "서울특별시 중구 명동길 25-11",
+      "mapx": "1269839596",
+      "mapy": "375641835"
+    }
+  ]
+}

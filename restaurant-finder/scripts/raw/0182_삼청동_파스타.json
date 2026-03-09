@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:49:58 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:31:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375837523"
     },
     {
-      "title": "도트블랭킷 안국점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
-      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
-      "mapx": "1269840927",
-      "mapy": "375770264"
-    },
-    {
       "title": "팔발라 삼청본점",
       "link": "https://app.catchtable.co.kr/ct/shop/Y2F0Y2hfRkFreVJOak4xWThFVFJlaDdUSDVJUT09",
       "category": "음식점>프랑스음식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 61",
       "mapx": "1269806419",
       "mapy": "375813350"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
     },
     {
       "title": "도트블랭킷 삼청한옥점",

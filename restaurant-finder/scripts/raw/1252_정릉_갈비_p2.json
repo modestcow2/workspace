@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "청수장",
+      "link": "https://app.catchtable.co.kr/ct/shop/chungsoojang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 416-27",
+      "roadAddress": "서울특별시 성북구 정릉로 237-2",
+      "mapx": "1270107375",
+      "mapy": "376054650"
+    },
+    {
+      "title": "불타는돼지",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 966-95",
+      "roadAddress": "서울특별시 성북구 아리랑로 120-4",
+      "mapx": "1270136750",
+      "mapy": "376026487"
+    },
+    {
+      "title": "한라산도새기 <b>정릉</b>점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 506-9",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 79",
+      "mapx": "1270096040",
+      "mapy": "376013169"
+    },
+    {
+      "title": "정돈",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 407-12 1층 정돈",
+      "roadAddress": "서울특별시 성북구 보국문로 21 1층 정돈",
+      "mapx": "1270107505",
+      "mapy": "376064857"
+    },
+    {
+      "title": "하남돼지집 <b>정릉</b>점",
+      "link": "http://www.hanampig.co.kr/",
+      "category": "육류,고기요리>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 465-1 정릉빌딩1층 하남돼지집정릉점",
+      "roadAddress": "서울특별시 성북구 정릉로 250 정릉빌딩1층 하남돼지집정릉점",
+      "mapx": "1270113367",
+      "mapy": "376043741"
+    }
+  ]
+}

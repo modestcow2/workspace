@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연남<b>족발</b>1987 연남점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 152-23 1층",
+      "roadAddress": "서울특별시 마포구 동교로 222 1층",
+      "mapx": "1269239621",
+      "mapy": "375597891"
+    },
+    {
+      "title": "<b>마포</b>소문난원조<b>족발</b>",
+      "link": "http://www.mapojokbal.com/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 256-10 공덕시장",
+      "roadAddress": "서울특별시 마포구 만리재로 19 공덕시장",
+      "mapx": "1269532396",
+      "mapy": "375448414"
+    },
+    {
+      "title": "<b>마포</b>왕<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 256-43",
+      "roadAddress": "",
+      "mapx": "1269533725",
+      "mapy": "375445297"
+    },
+    {
+      "title": "오향<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 256-10 공덕시장",
+      "roadAddress": "서울특별시 마포구 만리재로 19 공덕시장",
+      "mapx": "1269531809",
+      "mapy": "375444967"
+    },
+    {
+      "title": "탐탐오향<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 328-69 1층, 2층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 48-6 1층, 2층",
+      "mapx": "1269276861",
+      "mapy": "375559238"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "홈보이서울",
+      "link": "http://www.instagram.com/homeboy_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 1층 홈보이서울",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
+      "mapx": "1269730709",
+      "mapy": "375762354"
+    },
+    {
+      "title": "오커쇼어",
+      "link": "https://www.instagram.com/ochershore",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지상1층 2호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지상1층 2호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "스타벅스 정부서울청사R점",
+      "link": "http://www.starbucks.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 (적선동)",
+      "mapx": "1269736776",
+      "mapy": "375746212"
+    },
+    {
+      "title": "room5 roastworks",
+      "link": "",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 228",
+      "roadAddress": "서울특별시 종로구 사직로 73",
+      "mapx": "1269674573",
+      "mapy": "375747831"
+    }
+  ]
+}

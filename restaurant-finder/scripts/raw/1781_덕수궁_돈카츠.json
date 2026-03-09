@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "허수아비돈까스 정동점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 23-9",
+      "roadAddress": "서울특별시 중구 정동길 2-2",
+      "mapx": "1269694875",
+      "mapy": "375678500"
+    },
+    {
+      "title": "무무돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 오피시아빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 92 오피시아빌딩 지하1층",
+      "mapx": "1269749175",
+      "mapy": "375697377"
+    },
+    {
+      "title": "댓짱돈까스 정동점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 17-4",
+      "roadAddress": "서울특별시 중구 정동길 17",
+      "mapx": "1269704959",
+      "mapy": "375670788"
+    },
+    {
+      "title": "쟈란",
+      "link": "https://app.catchtable.co.kr/ct/shop/zaran",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 제비층 116-1호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 제비층 116-1호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "긴자료코 시청점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 37 삼정 아트테라스 1층 109호",
+      "roadAddress": "서울특별시 중구 서소문로 89-20 삼정 아트테라스 정동 1층 109호",
+      "mapx": "1269719344",
+      "mapy": "375633083"
+    }
+  ]
+}

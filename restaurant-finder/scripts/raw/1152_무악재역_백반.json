@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "제주식탁",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 326-25",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 64",
+      "mapx": "1269414595",
+      "mapy": "375904280"
+    },
+    {
+      "title": "유진식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 300-6 1층",
+      "roadAddress": "서울특별시 서대문구 통일로40안길 6 1층",
+      "mapx": "1269437575",
+      "mapy": "375904376"
+    },
+    {
+      "title": "존재의 이유",
+      "link": "https://x.com/jonjaeeux",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 125-19",
+      "roadAddress": "서울특별시 서대문구 성산로 569",
+      "mapx": "1269468587",
+      "mapy": "375669467"
+    },
+    {
+      "title": "서촌식당",
+      "link": "http://www.instagram.com/seochondining",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-50",
+      "roadAddress": "서울특별시 종로구 자하문로17길 12",
+      "mapx": "1269699906",
+      "mapy": "375814609"
+    },
+    {
+      "title": "이서방네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
+    }
+  ]
+}

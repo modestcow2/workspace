@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "거북이의꿈 서촌점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-15 1층 거북이의꿈 서촌점",
+      "roadAddress": "서울특별시 종로구 자하문로 31-6 1층 거북이의꿈 서촌점",
+      "mapx": "1269710606",
+      "mapy": "375787714"
+    },
+    {
+      "title": "칸다소바 경복궁점",
+      "link": "https://litt.ly/kandasoba",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 28-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
+      "mapx": "1269712623",
+      "mapy": "375782119"
+    },
+    {
+      "title": "계도 케이트윈타워",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 B1층 19-2호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 B1층 19-2호",
+      "mapx": "1269791966",
+      "mapy": "375746798"
+    },
+    {
+      "title": "산들바람 : 소요카제",
+      "link": "https://www.instagram.com/soyokaze_seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 144 2층 소요카제",
+      "roadAddress": "서울특별시 종로구 인사동길 59 2층 소요카제",
+      "mapx": "1269834025",
+      "mapy": "375751516"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "프랭크버거 종로평창점",
+      "link": "http://www.frankburger.co.kr/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 331 1층",
+      "roadAddress": "서울특별시 종로구 평창11길 3 1층",
+      "mapx": "1269666374",
+      "mapy": "376060340"
+    },
+    {
+      "title": "레이지버거클럽 부암점",
+      "link": "http://instagram.com/lazyburgerclub",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-7 2층",
+      "roadAddress": "서울특별시 종로구 창의문로 137 2층",
+      "mapx": "1269652698",
+      "mapy": "375925610"
+    },
+    {
+      "title": "버거운버거 국민대점",
+      "link": "https://www.burgerunburger.com/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 861-1 지하1층 B107, B108, B109호",
+      "roadAddress": "서울특별시 성북구 정릉로 77 지하1층 B107, B108, B109호",
+      "mapx": "1269959114",
+      "mapy": "376102569"
+    },
+    {
+      "title": "다움223.1",
+      "link": "https://app.catchtable.co.kr/ct/shop/dawoom",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 281-13 지상1층",
+      "roadAddress": "서울특별시 종로구 자하문로 223-1 지상1층",
+      "mapx": "1269633692",
+      "mapy": "375941934"
+    },
+    {
+      "title": "BBQ세검정점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 131-2",
+      "roadAddress": "서울특별시 종로구 세검정로 258-1",
+      "mapx": "1269611360",
+      "mapy": "376015240"
+    }
+  ]
+}

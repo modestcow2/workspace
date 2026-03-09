@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "양지식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로6가 205-1",
+      "roadAddress": "서울특별시 종로구 율곡로29길 4",
+      "mapx": "1270069119",
+      "mapy": "375739033"
+    },
+    {
+      "title": "전주집",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 281-9",
+      "roadAddress": "서울특별시 종로구 종로40가길 5",
+      "mapx": "1270063610",
+      "mapy": "375702900"
+    },
+    {
+      "title": "일미식당",
+      "link": "http://cafe.naver.com/ilmicafe",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
+      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
+      "mapx": "1269876939",
+      "mapy": "375728300"
+    },
+    {
+      "title": "승우네식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로4가 143 지상1층 승우네식당",
+      "roadAddress": "서울특별시 종로구 종로 190-4 지상1층 승우네식당",
+      "mapx": "1269988221",
+      "mapy": "375704887"
+    },
+    {
+      "title": "송정식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 443",
+      "roadAddress": "서울특별시 종로구 종로40가길 13",
+      "mapx": "1270058750",
+      "mapy": "375702732"
+    }
+  ]
+}

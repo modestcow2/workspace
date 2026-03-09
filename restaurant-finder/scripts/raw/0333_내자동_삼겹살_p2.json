@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뼈탄집 서촌본점",
+      "link": "http://www.bornpig.co.kr/index2.php",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 9-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13",
+      "mapx": "1269717062",
+      "mapy": "375764468"
+    },
+    {
+      "title": "영삼이네 우정소갈비 서촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 20 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
+      "mapx": "1269712072",
+      "mapy": "375763691"
+    },
+    {
+      "title": "사랑방",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 185",
+      "roadAddress": "서울특별시 종로구 사직로12길 19",
+      "mapx": "1269711701",
+      "mapy": "375751616"
+    },
+    {
+      "title": "진고기명가",
+      "link": "http://gogimyeongga.cityfood.co.kr/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 30 1층",
+      "roadAddress": "서울특별시 종로구 사직로 103-4 1층",
+      "mapx": "1269705858",
+      "mapy": "375764507"
+    },
+    {
+      "title": "양탄집 서촌본점",
+      "link": "https://www.instagram.com/yangtanhouse/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 60-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
+      "mapx": "1269720601",
+      "mapy": "375766927"
+    }
+  ]
+}

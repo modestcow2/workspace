@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오향<b>만두</b>",
+      "link": "http://map.naver.com/?mid=bl013772130",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-69 삼원빌딩",
+      "roadAddress": "서울특별시 서대문구 연희맛로 22 삼원빌딩",
+      "mapx": "1269301144",
+      "mapy": "375669752"
+    },
+    {
+      "title": "이품",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-19",
+      "roadAddress": "서울특별시 서대문구 연희로11길 20",
+      "mapx": "1269300765",
+      "mapy": "375675500"
+    },
+    {
+      "title": "미스터서왕<b>만두</b>",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 27-20 103호 가이아오피스텔",
+      "roadAddress": "서울특별시 서대문구 신촌역로 16 103호 가이아오피스텔",
+      "mapx": "1269433440",
+      "mapy": "375581397"
+    },
+    {
+      "title": "편의방",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-94",
+      "roadAddress": "서울특별시 서대문구 연희로 36",
+      "mapx": "1269275231",
+      "mapy": "375617816"
+    },
+    {
+      "title": "맛있는칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북가좌동 345-27 1층",
+      "roadAddress": "서울특별시 서대문구 불광천길 150 1층",
+      "mapx": "1269089080",
+      "mapy": "375819180"
+    }
+  ]
+}

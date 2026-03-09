@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "모짜",
+      "link": "https://instagram.com/102mozza?utm_source=ig_profile_share&igshid=by0nbplhnvep",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 68-4",
+      "roadAddress": "서울특별시 성북구 성북로 102",
+      "mapx": "1269975679",
+      "mapy": "375930524"
+    },
+    {
+      "title": "부부셰프",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 48 1층",
+      "roadAddress": "서울특별시 성북구 성북로2길 21 1층",
+      "mapx": "1270070733",
+      "mapy": "375894828"
+    },
+    {
+      "title": "봉 파레트",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-39 1층",
+      "roadAddress": "서울특별시 성북구 창경궁로43길 14 1층",
+      "mapx": "1270044362",
+      "mapy": "375885977"
+    },
+    {
+      "title": "<b>성북동</b>디너쑈",
+      "link": "",
+      "category": "음식점>패밀리레스토랑",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-43 성북동디너쑈",
+      "roadAddress": "서울특별시 성북구 창경궁로43길 6 성북동디너쑈",
+      "mapx": "1270046409",
+      "mapy": "375882870"
+    },
+    {
+      "title": "도우센트",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 173-27",
+      "roadAddress": "서울특별시 성북구 성북로10가길 3",
+      "mapx": "1270031558",
+      "mapy": "375920532"
+    }
+  ]
+}

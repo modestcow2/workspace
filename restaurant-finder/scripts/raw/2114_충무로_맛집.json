@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "페이퍼크레인",
+      "link": "https://www.instagram.com/papercrane_official",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 61-1 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 14 1층",
+      "mapx": "1269921281",
+      "mapy": "375638701"
+    },
+    {
+      "title": "남산도담",
+      "link": "https://blog.naver.com/taekdaeri",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 28-2 남산도담",
+      "roadAddress": "서울특별시 중구 수표로6길 37-1 남산도담",
+      "mapx": "1269925007",
+      "mapy": "375628490"
+    },
+    {
+      "title": "도야집 을지로점",
+      "link": "https://www.instagram.com/doyajib_",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 64-1 도야집",
+      "roadAddress": "서울특별시 중구 수표로12길 31 도야집",
+      "mapx": "1269920323",
+      "mapy": "375640360"
+    },
+    {
+      "title": "온의미반",
+      "link": "https://www.instagram.com/on__miban?igsh=bGQ4Mm92eXdqcGJ2",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 18-12 2층",
+      "roadAddress": "서울특별시 중구 퇴계로 210-27 2층",
+      "mapx": "1269951422",
+      "mapy": "375607944"
+    },
+    {
+      "title": "멘츠루 을지로점",
+      "link": "https://www.instagram.com/menchuru_euljiro/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 158-6 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 26 1층",
+      "mapx": "1269916547",
+      "mapy": "375634193"
+    }
+  ]
+}

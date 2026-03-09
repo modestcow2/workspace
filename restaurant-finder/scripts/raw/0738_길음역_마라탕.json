@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라와<b>마라탕</b> 길음점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1276 102동 지상1층 33호",
+      "roadAddress": "서울특별시 성북구 동소문로 248 102동 지상1층 33호",
+      "mapx": "1270232222",
+      "mapy": "376027488"
+    },
+    {
+      "title": "마라공방 길음뉴타운점",
+      "link": "https://www.instagram.com/maragongbang1?igshid=MTNiYzNiMzkwZA==",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1285 길음7구역 두산위브아파트 상가 제지2층 201호~202호",
+      "roadAddress": "서울특별시 성북구 길음로13길 22 길음7구역 두산위브아파트 상가 제지2층 201호~202호",
+      "mapx": "1270197588",
+      "mapy": "376094873"
+    },
+    {
+      "title": "탕화쿵푸<b>마라탕</b> 종암사거리점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-597",
+      "roadAddress": "서울특별시 성북구 종암로 128",
+      "mapx": "1270336008",
+      "mapy": "376014949"
+    },
+    {
+      "title": "마라톤 <b>마라탕</b>&amp;마라샹궈 본점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 84-58 1층",
+      "roadAddress": "서울특별시 성북구 오패산로3길 125 1층",
+      "mapx": "1270331806",
+      "mapy": "376084866"
+    },
+    {
+      "title": "왕푸징<b>마라탕</b> 현대백화점미아점",
+      "link": "http://www.maratang.co.kr",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 지하1층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 지하1층",
+      "mapx": "1270289961",
+      "mapy": "376081886"
+    }
+  ]
+}

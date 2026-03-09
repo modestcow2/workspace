@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "방일<b>해장국</b> 정동점",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 51-6 동양빌딩",
+      "roadAddress": "서울특별시 중구 새문안로 32 동양빌딩",
+      "mapx": "1269691375",
+      "mapy": "375679583"
+    },
+    {
+      "title": "탐라순대국감자탕 광화문점",
+      "link": "https://www.instagram.com/tamla_gwanghwamun",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 170-2 1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-1 1층",
+      "mapx": "1269747400",
+      "mapy": "375708007"
+    },
+    {
+      "title": "신의주찹쌀순대 광화문점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-2",
+      "roadAddress": "서울특별시 중구 세종대로21길 67-1",
+      "mapx": "1269756453",
+      "mapy": "375693429"
+    },
+    {
+      "title": "담원순대 시청본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
+    },
+    {
+      "title": "잼배옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 64-4",
+      "roadAddress": "서울특별시 중구 세종대로9길 68-9",
+      "mapx": "1269737271",
+      "mapy": "375625022"
+    }
+  ]
+}

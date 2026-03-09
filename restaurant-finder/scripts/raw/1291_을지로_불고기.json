@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우래옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 118-1",
+      "roadAddress": "서울특별시 중구 창경궁로 62-29",
+      "mapx": "1269987029",
+      "mapy": "375682697"
+    },
+    {
+      "title": "도깨비<b>불고기</b> 동대문본점",
+      "link": "https://www.siksinhot.com/P/368347",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-37",
+      "roadAddress": "서울특별시 중구 을지로43길 38",
+      "mapx": "1270076862",
+      "mapy": "375677182"
+    },
+    {
+      "title": "평래옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 18-1",
+      "roadAddress": "서울특별시 중구 마른내로 21-1",
+      "mapx": "1269903879",
+      "mapy": "375649010"
+    },
+    {
+      "title": "초불집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 110 1층",
+      "roadAddress": "서울특별시 중구 을지로12길 21-1 1층",
+      "mapx": "1269910060",
+      "mapy": "375652446"
+    },
+    {
+      "title": "보건옥",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 89-1",
+      "roadAddress": "서울특별시 중구 창경궁로8길 12",
+      "mapx": "1269987685",
+      "mapy": "375685173"
+    }
+  ]
+}

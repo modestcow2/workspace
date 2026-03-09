@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정성채 미아사거리점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 489-42 1층",
+      "roadAddress": "서울특별시 성북구 도봉로3길 9-7 1층",
+      "mapx": "1270296062",
+      "mapy": "376101683"
+    },
+    {
+      "title": "국선생길음뉴타운점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1285",
+      "roadAddress": "서울특별시 성북구 길음로13길 22",
+      "mapx": "1270190541",
+      "mapy": "376102638"
+    },
+    {
+      "title": "본도시락 성신여대점",
+      "link": "http://www.bonif.co.kr/bondosirak",
+      "category": "음식점>도시락,컵밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동3가 1 1층",
+      "roadAddress": "서울특별시 성북구 동소문로26길 1 1층",
+      "mapx": "1270192271",
+      "mapy": "375943670"
+    },
+    {
+      "title": "채화정",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 90-2062",
+      "roadAddress": "서울특별시 성북구 오패산로3길 9",
+      "mapx": "1270365997",
+      "mapy": "376040153"
+    },
+    {
+      "title": "맛자랑남도별미맛집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 90-455",
+      "roadAddress": "서울특별시 성북구 오패산로3길 3",
+      "mapx": "1270368508",
+      "mapy": "376036247"
+    }
+  ]
+}

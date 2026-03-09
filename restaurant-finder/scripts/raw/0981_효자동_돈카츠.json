@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "누하의 숲",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 175-2 1F",
+      "roadAddress": "서울특별시 종로구 필운대로 31-1 1F",
+      "mapx": "1269687592",
+      "mapy": "375787996"
+    },
+    {
+      "title": "우리집",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 102-7",
+      "roadAddress": "서울특별시 종로구 옥인길 4",
+      "mapx": "1269682800",
+      "mapy": "375806128"
+    },
+    {
+      "title": "설야",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269698004",
+      "mapy": "375806420"
+    },
+    {
+      "title": "낭만 해장국",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 31-24 1층",
+      "roadAddress": "서울특별시 종로구 자하문로15길 26-2 1층",
+      "mapx": "1269695574",
+      "mapy": "375807246"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    }
+  ]
+}

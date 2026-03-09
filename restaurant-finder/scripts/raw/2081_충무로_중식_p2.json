@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "태화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 묵정동 25-20",
+      "roadAddress": "서울특별시 중구 퇴계로50길 37",
+      "mapx": "1270011330",
+      "mapy": "375610168"
+    },
+    {
+      "title": "동방명주 <b>충무로</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 37-3",
+      "roadAddress": "서울특별시 중구 퇴계로 186",
+      "mapx": "1269924029",
+      "mapy": "375608670"
+    },
+    {
+      "title": "샤오리앤 <b>충무로</b>본점",
+      "link": "https://blog.naver.com/xiaolian8886",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 10 충무빌딩 1층 103호",
+      "roadAddress": "서울특별시 중구 퇴계로 197 충무빌딩 1층 103호",
+      "mapx": "1269939277",
+      "mapy": "375613764"
+    },
+    {
+      "title": "호빈",
+      "link": "https://www.ambatel.com/theambassador",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 장충동2가 186-54 앰배서더 서울 풀만 호텔 2층",
+      "roadAddress": "서울특별시 중구 동호로 287 앰배서더 서울 풀만 호텔 2층",
+      "mapx": "1270023153",
+      "mapy": "375602761"
+    },
+    {
+      "title": "진더미엔",
+      "link": "https://www.instagram.com/jinthemien",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 4-3 2층(좌측)",
+      "roadAddress": "서울특별시 중구 퇴계로36길 9 2층(좌측)",
+      "mapx": "1269938559",
+      "mapy": "375608230"
+    }
+  ]
+}

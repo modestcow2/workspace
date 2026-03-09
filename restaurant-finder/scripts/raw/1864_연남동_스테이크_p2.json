@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "블루쇼파스타 연남",
+      "link": "https://blog.naver.com/bleuchaud",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 246-4 1층",
+      "roadAddress": "서울특별시 마포구 성미산로23길 46 1층",
+      "mapx": "1269205056",
+      "mapy": "375653576"
+    },
+    {
+      "title": "헤이죠지",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-96 1층 헤이죠지",
+      "roadAddress": "서울특별시 마포구 동교로46길 42-24 1층 헤이죠지",
+      "mapx": "1269265566",
+      "mapy": "375616970"
+    },
+    {
+      "title": "양식구옥",
+      "link": "https://www.instagram.com/yangsikguok",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-25 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 27 2층",
+      "mapx": "1269255517",
+      "mapy": "375616911"
+    },
+    {
+      "title": "서양면옥 연남",
+      "link": "https://booking.naver.com/booking/6/bizes/1233362",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-2 1층 101호",
+      "roadAddress": "서울특별시 마포구 연희로1길 43 1층 101호",
+      "mapx": "1269257279",
+      "mapy": "375609624"
+    },
+    {
+      "title": "<b>연남동</b>와이탑",
+      "link": "https://www.instagram.com/yeonnamdong_ytop",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 223-21 2층, 3층",
+      "roadAddress": "서울특별시 마포구 성미산로 163 2층, 3층",
+      "mapx": "1269242773",
+      "mapy": "375649025"
+    }
+  ]
+}

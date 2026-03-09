@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "장수<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 80-6 석탄회관빌딩",
+      "roadAddress": "서울특별시 종로구 종로5길 58 석탄회관빌딩",
+      "mapx": "1269804260",
+      "mapy": "375729490"
+    },
+    {
+      "title": "정통<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 129-1 2층 정통삼계탕",
+      "roadAddress": "서울특별시 종로구 종로5길 95 2층 정통삼계탕",
+      "mapx": "1269791540",
+      "mapy": "375741620"
+    },
+    {
+      "title": "VIP참치 종로구청점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 156 신라스테이 광화문점 B1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 신라스테이 광화문점 B1층",
+      "mapx": "1269808442",
+      "mapy": "375725008"
+    },
+    {
+      "title": "담소 누룽지백숙",
+      "link": "http://instagram.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브 파빌리온 지하1층 120호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브 파빌리온 지하1층 120호",
+      "mapx": "1269817944",
+      "mapy": "375723869"
+    },
+    {
+      "title": "토속촌 <b>삼계탕</b>",
+      "link": "http://www.tosokchon.co.kr/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 85-1 토속촌",
+      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
+      "mapx": "1269716148",
+      "mapy": "375776587"
+    }
+  ]
+}

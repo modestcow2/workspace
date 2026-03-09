@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "전주콩나물<b>국밥</b>",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하 1층",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "강창구찹쌀진순대 <b>종로</b>점",
+      "link": "https://www.instagram.com/jinsundae_jongno",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 113-2호, 114-1호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 113-2호, 114-1호",
+      "mapx": "1269796299",
+      "mapy": "375706974"
+    },
+    {
+      "title": "대문곰탕",
+      "link": "https://www.instagram.com/daemungomtang",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B106-4호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B106-4호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "신의주찹쌀순대 <b>종로</b>구청점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 2층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 2층",
+      "mapx": "1269798688",
+      "mapy": "375706349"
+    },
+    {
+      "title": "광화문<b>국밥</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    }
+  ]
+}

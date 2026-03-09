@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서울로인 <b>서울역</b>점",
+      "link": "https://www.openine.com/PARTY",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 서울스퀘어 지하1층 18호",
+      "roadAddress": "서울특별시 중구 한강대로 416 서울스퀘어 지하1층 18호",
+      "mapx": "1269737678",
+      "mapy": "375555057"
+    },
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "도동집",
+      "link": "http://www.dodongzip.co.kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 439-19",
+      "roadAddress": "서울특별시 용산구 후암로48길 1",
+      "mapx": "1269767946",
+      "mapy": "375528552"
+    },
+    {
+      "title": "대보정 서울시청역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "동화고옥 <b>서울역</b>점",
+      "link": "https://www.instagram.com/donghwagohok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 지하1층 24-1호",
+      "roadAddress": "서울특별시 중구 한강대로 416 지하1층 24-1호",
+      "mapx": "1269737511",
+      "mapy": "375553949"
+    }
+  ]
+}

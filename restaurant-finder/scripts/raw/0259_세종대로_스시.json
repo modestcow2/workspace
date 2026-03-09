@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "코끼리초밥 광화문점",
+      "link": "https://blog.naver.com/kokirisushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "잉꼬",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 17-3 2층",
+      "roadAddress": "서울특별시 중구 세종대로 22 2층",
+      "mapx": "1269743278",
+      "mapy": "375585140"
+    },
+    {
+      "title": "은행골 시청점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-11 영복빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로 70-1 영복빌딩 1층",
+      "mapx": "1269766512",
+      "mapy": "375624488"
+    },
+    {
+      "title": "VIP참치 코리아나호텔점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
+      "mapx": "1269767357",
+      "mapy": "375679986"
+    },
+    {
+      "title": "란 이자카야",
+      "link": "https://blog.naver.com/yosuk5791",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 19-1",
+      "roadAddress": "서울특별시 중구 세종대로 26-1",
+      "mapx": "1269744865",
+      "mapy": "375588024"
+    }
+  ]
+}

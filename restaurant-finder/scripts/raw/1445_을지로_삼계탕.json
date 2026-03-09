@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "내림손<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-40 2층 내림손삼계탕",
+      "roadAddress": "서울특별시 중구 장충단로 249-24 2층 내림손삼계탕",
+      "mapx": "1270076424",
+      "mapy": "375674462"
+    },
+    {
+      "title": "서울<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 17-8 2층",
+      "roadAddress": "서울특별시 중구 마른내로 19 2층",
+      "mapx": "1269901969",
+      "mapy": "375649565"
+    },
+    {
+      "title": "본가원조닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 54",
+      "roadAddress": "서울특별시 중구 마른내로2길 19",
+      "mapx": "1269920102",
+      "mapy": "375635413"
+    },
+    {
+      "title": "천일<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-187 2층 천일삼계탕",
+      "roadAddress": "서울특별시 중구 장충단로13길 43 2층 천일삼계탕",
+      "mapx": "1270064646",
+      "mapy": "375680983"
+    },
+    {
+      "title": "을지<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-12",
+      "roadAddress": "서울특별시 중구 을지로 99-1",
+      "mapx": "1269890869",
+      "mapy": "375663526"
+    }
+  ]
+}

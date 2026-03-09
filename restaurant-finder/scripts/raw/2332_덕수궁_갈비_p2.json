@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정동1946 서울시청본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 34-5 LL층 1946",
+      "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
+      "mapx": "1269728071",
+      "mapy": "375633419"
+    },
+    {
+      "title": "도누각 서대문역점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 의주로1가 32-2 2층 도누각",
+      "roadAddress": "서울특별시 중구 통일로 102 2층 도누각",
+      "mapx": "1269684198",
+      "mapy": "375644747"
+    },
+    {
+      "title": "한암동 정동점",
+      "link": "https://openine.com/한암동",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
+      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
+      "mapx": "1269708541",
+      "mapy": "375678521"
+    },
+    {
+      "title": "광화문국밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    },
+    {
+      "title": "빠르크 정동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/parcseoull",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 37 1동 1층 105호",
+      "roadAddress": "서울특별시 중구 서소문로 89-20 1동 1층 105호",
+      "mapx": "1269720315",
+      "mapy": "375632511"
+    }
+  ]
+}

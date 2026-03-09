@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "촛불1978",
+      "link": "https://www.instagram.com/candlelight1978",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 8-38 촛불1978 레스토랑",
+      "roadAddress": "서울특별시 중구 소파로 95 촛불1978 레스토랑",
+      "mapx": "1269853192",
+      "mapy": "375567578"
+    },
+    {
+      "title": "디라이프스타일키친 광화문점",
+      "link": "https://dlifestyle.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "바리에가타 <b>명동</b>",
+      "link": "https://www.variegata.company/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
+      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
+    },
+    {
+      "title": "플로팅",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 62-12 L7명동 21층",
+      "roadAddress": "서울특별시 중구 퇴계로 137 L7명동 21층",
+      "mapx": "1269869680",
+      "mapy": "375614860"
+    },
+    {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    }
+  ]
+}

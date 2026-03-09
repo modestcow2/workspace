@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "잭아저씨<b>족발</b>보쌈 종로본점",
+      "link": "https://blog.naver.com/mr_jack-jogbalbossam",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-23 1층 잭아저씨족발보쌈",
+      "roadAddress": "서울특별시 종로구 우정국로2길 34 1층 잭아저씨족발보쌈",
+      "mapx": "1269850023",
+      "mapy": "375695127"
+    },
+    {
+      "title": "장군<b>족발</b>보쌈 본관",
+      "link": "https://blog.naver.com/momojanggun",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 49",
+      "roadAddress": "서울특별시 종로구 삼일대로 434-1",
+      "mapx": "1269881616",
+      "mapy": "375734758"
+    },
+    {
+      "title": "종로족빨 종로본점",
+      "link": "http://027341222.bdp.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 257 1층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 14 1층",
+      "mapx": "1269837098",
+      "mapy": "375693280"
+    },
+    {
+      "title": "<b>인사동</b>마늘보쌈",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
+    },
+    {
+      "title": "자기만족 종로본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-16 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 23 2층",
+      "mapx": "1269861953",
+      "mapy": "375690666"
+    }
+  ]
+}

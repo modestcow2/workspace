@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우아라 광화문점",
+      "link": "https://www.instagram.com/wooara__",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 우아라 광화문",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 우아라 광화문",
+      "mapx": "1269791966",
+      "mapy": "375746798"
+    },
+    {
+      "title": "모도우 광화문점",
+      "link": "https://openine.com/PARTY",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 14 트윈트리타워 B동 M층",
+      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 B동 M층",
+      "mapx": "1269799056",
+      "mapy": "375755265"
+    },
+    {
+      "title": "한일관 광화문점",
+      "link": "http://www.hanilkwan.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워",
+      "mapx": "1269789484",
+      "mapy": "375745601"
+    },
+    {
+      "title": "전주밥차",
+      "link": "",
+      "category": "음식점>한식뷔페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 14 트윈트리타워 A동 지하 1층 전주밥차",
+      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 A동 지하 1층 전주밥차",
+      "mapx": "1269798377",
+      "mapy": "375755507"
+    },
+    {
+      "title": "봉추찜닭 광화문점",
+      "link": "http://bongchu.com/",
+      "category": "한식>찜닭",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워B동 지하1층",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워B동 지하1층",
+      "mapx": "1269790252",
+      "mapy": "375747276"
+    }
+  ]
+}

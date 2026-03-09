@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우슴 광화문 직영점",
+      "link": "https://www.instagram.com/wusm.official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
+    },
+    {
+      "title": "능라도 광화문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 3층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 3층",
+      "mapx": "1269722833",
+      "mapy": "375717008"
+    },
+    {
+      "title": "가봉루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 168 당주빌딩 3층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-27 당주빌딩 3층",
+      "mapx": "1269745821",
+      "mapy": "375710389"
+    },
+    {
+      "title": "문화수제비",
+      "link": "https://www.instagram.com/munhwa5/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 지하1층",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    },
+    {
+      "title": "평가옥 광화문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19",
+      "mapx": "1269744472",
+      "mapy": "375721028"
+    }
+  ]
+}

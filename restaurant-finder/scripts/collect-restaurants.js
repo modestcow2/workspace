@@ -25,7 +25,8 @@ const CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
 const DELAY_MS = 150;           // 요청 간 딜레이
 const MAX_RETRIES = 3;          // 실패 시 재시도
 const DISPLAY = 5;              // 쿼리당 결과 수
-const MAX_DISTANCE_KM = 3;     // 반경 제한
+const START_PAGES = [1, 6];     // 페이지네이션: 2페이지 수집 (최대 10개)
+const MAX_DISTANCE_KM = 1.5;   // 반경 제한
 const RAW_DIR = path.join(__dirname, 'raw');
 
 // ─── 유틸리티 ───
@@ -44,12 +45,12 @@ function haversineKm(lat1, lng1, lat2, lng2) {
 }
 
 // ─── API 호출 ───
-async function searchLocal(query, retries = MAX_RETRIES) {
+async function searchLocal(query, start = 1, retries = MAX_RETRIES) {
   const url = 'https://openapi.naver.com/v1/search/local.json';
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
       const res = await axios.get(url, {
-        params: { query, display: DISPLAY, start: 1, sort: 'random' },
+        params: { query, display: DISPLAY, start, sort: 'random' },
         headers: {
           'X-Naver-Client-Id': CLIENT_ID,
           'X-Naver-Client-Secret': CLIENT_SECRET,
@@ -94,33 +95,36 @@ async function main() {
 
   for (let i = 0; i < queries.length; i++) {
     const query = queries[i];
-    const data = await searchLocal(query);
+    let queryNew = 0;
+    let queryTotal = 0;
 
-    if (data && data.items) {
-      // 원본 저장
-      const filename = `${String(i).padStart(4, '0')}_${query.replace(/\s+/g, '_')}.json`;
-      fs.writeFileSync(path.join(RAW_DIR, filename), JSON.stringify(data, null, 2), 'utf-8');
+    for (const start of START_PAGES) {
+      const data = await searchLocal(query, start);
 
-      let queryNew = 0;
-      for (const item of data.items) {
-        // 음식점 카테고리만 필터
-        if (!item.category || !item.category.includes('음식점')) continue;
+      if (data && data.items) {
+        // 원본 저장 (페이지별)
+        const pageSuffix = start === 1 ? '' : `_p${Math.ceil(start / DISPLAY)}`;
+        const filename = `${String(i).padStart(4, '0')}_${query.replace(/\s+/g, '_')}${pageSuffix}.json`;
+        fs.writeFileSync(path.join(RAW_DIR, filename), JSON.stringify(data, null, 2), 'utf-8');
 
-        if (!seenLinks.has(item.link)) {
-          seenLinks.add(item.link);
-          allItems.push(item);
-          queryNew++;
-          newCount++;
+        for (const item of data.items) {
+          // 음식점 카테고리만 필터
+          if (!item.category || !item.category.includes('음식점')) continue;
+          queryTotal++;
+
+          if (!item.link || !seenLinks.has(item.link)) {
+            if (item.link) seenLinks.add(item.link);
+            allItems.push(item);
+            queryNew++;
+            newCount++;
+          }
         }
       }
 
-      const total = data.items.filter(it => it.category?.includes('음식점')).length;
-      console.log(`[${i + 1}/${queries.length}] "${query}" → ${total}건 (${queryNew}건 신규)`);
-    } else {
-      console.log(`[${i + 1}/${queries.length}] "${query}" → 결과 없음`);
+      await sleep(DELAY_MS);
     }
 
-    await sleep(DELAY_MS);
+    console.log(`[${i + 1}/${queries.length}] "${query}" → ${queryTotal}건 (${queryNew}건 신규)`);
   }
 
   console.log(`\n📊 수집 완료: 총 ${allItems.length}개 고유 항목`);

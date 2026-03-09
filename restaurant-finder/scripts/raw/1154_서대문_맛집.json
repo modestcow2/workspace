@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쟁반집8292 신촌점",
+      "link": "http://www.jbj8292.com",
+      "category": "음식점>한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-21 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 27 1층",
+      "mapx": "1269382224",
+      "mapy": "375575882"
+    },
+    {
+      "title": "꾸아 이대점",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/quaewha",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-9 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 42 2층",
+      "mapx": "1269458643",
+      "mapy": "375588114"
+    },
+    {
+      "title": "멘야소바",
+      "link": "https://www.instagram.com/manyasoba?igsh=MWczZGFwdDNub210OQ==",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-39 1층",
+      "roadAddress": "서울특별시 서대문구 연세로2길 83 1층",
+      "mapx": "1269414211",
+      "mapy": "375571680"
+    },
+    {
+      "title": "소오",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
+      "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
+      "mapx": "1269463097",
+      "mapy": "375590868"
+    },
+    {
+      "title": "등촌샤브칼국수 신촌점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 1층 등촌샤브칼국수 신촌점",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층 등촌샤브칼국수 신촌점",
+      "mapx": "1269407741",
+      "mapy": "375589692"
+    }
+  ]
+}

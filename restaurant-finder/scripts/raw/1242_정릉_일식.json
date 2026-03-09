@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연화객당",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 140-9 1층 연화객당",
+      "roadAddress": "서울특별시 성북구 정릉로26길 61 1층 연화객당",
+      "mapx": "1270131255",
+      "mapy": "376027009"
+    },
+    {
+      "title": "다이츠키",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 684-26 1층",
+      "roadAddress": "서울특별시 성북구 솔샘로4길 12-1 1층",
+      "mapx": "1270054820",
+      "mapy": "376086014"
+    },
+    {
+      "title": "후후세이지",
+      "link": "https://www.instagram.com/huhu_saige",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 474-2",
+      "roadAddress": "서울특별시 성북구 정릉로26길 32",
+      "mapx": "1270118195",
+      "mapy": "376036016"
+    },
+    {
+      "title": "삼양동우동집 <b>정릉</b>직영점",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 164-2 1층 삼양동우동집 정릉직영점",
+      "roadAddress": "서울특별시 성북구 보국문로 6 1층 삼양동우동집 정릉직영점",
+      "mapx": "1270116522",
+      "mapy": "376052008"
+    },
+    {
+      "title": "<b>정릉</b>맨숀",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 684-59 1층",
+      "roadAddress": "서울특별시 성북구 솔샘로 10-7 1층",
+      "mapx": "1270050181",
+      "mapy": "376083232"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "완차이",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-35 1층 완차이",
+      "roadAddress": "서울특별시 서대문구 명물길 50-7 1층 완차이",
+      "mapx": "1269393929",
+      "mapy": "375587237"
+    },
+    {
+      "title": "연래춘",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 19-40 2층",
+      "roadAddress": "서울특별시 마포구 신촌로22길 9 (노고산동,2층)",
+      "mapx": "1269403959",
+      "mapy": "375555857"
+    },
+    {
+      "title": "천진분식",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-24 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 7 1층",
+      "mapx": "1269452845",
+      "mapy": "375582678"
+    },
+    {
+      "title": "효동각 본점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 50-2",
+      "roadAddress": "서울특별시 서대문구 연대동문길 24",
+      "mapx": "1269436373",
+      "mapy": "375635015"
+    },
+    {
+      "title": "가화반점",
+      "link": "https://store.naver.com/restaurants/detail?id=1260872794",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 1015 e편한세상 402동 지하1층 가화반점",
+      "roadAddress": "서울특별시 서대문구 신촌로35길 10 e편한세상 402동 지하1층 가화반점",
+      "mapx": "1269557728",
+      "mapy": "375578776"
+    }
+  ]
+}

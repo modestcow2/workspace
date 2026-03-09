@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "호야반점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 82 지하 1층(후레쉬마트 후면)",
+      "roadAddress": "서울특별시 종로구 통일로 246-10 지하 1층(후레쉬마트 후면)",
+      "mapx": "1269589730",
+      "mapy": "375744586"
+    },
+    {
+      "title": "라이빈",
+      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 15 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
+      "mapx": "1269624726",
+      "mapy": "375696654"
+    },
+    {
+      "title": "홍콩반점0410 독립문점",
+      "link": "https://start.theborn.co.kr/prebrand_detail.php?bc=26",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동",
+      "roadAddress": "",
+      "mapx": "1269602122",
+      "mapy": "375703734"
+    },
+    {
+      "title": "종합분식",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 167-5",
+      "roadAddress": "서울특별시 서대문구 독립문로 14",
+      "mapx": "1269599279",
+      "mapy": "375702835"
+    },
+    {
+      "title": "독립문영천시장 손씨네중국집",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 331",
+      "roadAddress": "서울특별시 서대문구 통일로 185",
+      "mapx": "1269622589",
+      "mapy": "375699876"
+    }
+  ]
+}

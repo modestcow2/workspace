@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뮌헨호프",
+      "link": "https://blog.naver.com/munchennogari",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 21-2 1층",
+      "roadAddress": "서울특별시 중구 을지로14길 30 1층",
+      "mapx": "1269920033",
+      "mapy": "375648895"
+    },
+    {
+      "title": "보스호프 <b>충무로</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/boss",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 54 1층",
+      "roadAddress": "서울특별시 중구 퇴계로42길 5 1층",
+      "mapx": "1269968404",
+      "mapy": "375614816"
+    },
+    {
+      "title": "브라운호프",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 묵정동 32-13",
+      "roadAddress": "서울특별시 중구 퇴계로 252-1",
+      "mapx": "1269997590",
+      "mapy": "375623476"
+    },
+    {
+      "title": "길없음",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 28-26 지층",
+      "roadAddress": "서울특별시 중구 필동로1길 27 지층",
+      "mapx": "1269974622",
+      "mapy": "375588521"
+    },
+    {
+      "title": "그린호프",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 16-1",
+      "roadAddress": "서울특별시 중구 퇴계로 181",
+      "mapx": "1269919980",
+      "mapy": "375612780"
+    }
+  ]
+}

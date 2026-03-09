@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만가타",
+      "link": "https://m.booking.naver.com/booking/6/bizes/289593",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 88-17",
+      "roadAddress": "서울특별시 종로구 삼청로2길 40-5",
+      "mapx": "1269809666",
+      "mapy": "375801885"
+    },
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
+    },
+    {
+      "title": "침스버거 안국",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-39 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
+      "mapx": "1269856859",
+      "mapy": "375780911"
+    },
+    {
+      "title": "버거드조선",
+      "link": "http://www.instagram.com/burger_de_joseon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 147 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
+      "mapx": "1269704616",
+      "mapy": "375755982"
+    },
+    {
+      "title": "니즈버거 안국점",
+      "link": "https://www.instagram.com/needs_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 1층 니즈버거",
+      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 1층 니즈버거",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    }
+  ]
+}

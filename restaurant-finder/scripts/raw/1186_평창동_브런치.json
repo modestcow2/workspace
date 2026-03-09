@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "북커스",
+      "link": "",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 458-8 2층",
+      "roadAddress": "서울특별시 종로구 평창30길 10 2층",
+      "mapx": "1269750900",
+      "mapy": "376109865"
+    },
+    {
+      "title": "주얼리 카페, 아티다",
+      "link": "https://www.instagram.com/with_artyida",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 323-4 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 39 1층",
+      "mapx": "1269657760",
+      "mapy": "376052907"
+    },
+    {
+      "title": "아트<b>브런치</b>",
+      "link": "http://www.artbrunch.co.kr/",
+      "category": "쇼핑,유통>미술,공예품",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 98-12",
+      "roadAddress": "서울특별시 종로구 평창31길 8",
+      "mapx": "1269754004",
+      "mapy": "376117935"
+    },
+    {
+      "title": "페이퍼앤조모",
+      "link": "https://www.instagram.com/paper_jomo",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 97-29 지층",
+      "roadAddress": "서울특별시 성북구 성북로 114 지층",
+      "mapx": "1269965036",
+      "mapy": "375935181"
+    },
+    {
+      "title": "카페 클래식",
+      "link": "https://www.instagram.com/cafeclassic_official?igsh=MXIxajU5cTljZWtndQ==",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 63-9 1층",
+      "roadAddress": "서울특별시 종로구 홍지문길 27 1층",
+      "mapx": "1269568983",
+      "mapy": "376018944"
+    }
+  ]
+}

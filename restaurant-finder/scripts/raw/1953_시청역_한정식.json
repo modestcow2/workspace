@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한암동 정동점",
+      "link": "https://openine.com/한암동",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
+      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
+      "mapx": "1269708541",
+      "mapy": "375678521"
+    },
+    {
+      "title": "모담다이닝 광화문점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "아리연",
+      "link": "https://www.instagram.com/ariyeon_official/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-19 해남2빌딩, 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로12길 12 해남2빌딩, 지하1층",
+      "mapx": "1269768063",
+      "mapy": "375617253"
+    },
+    {
+      "title": "한가람 본점",
+      "link": "http://www.hangaramfood.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-35",
+      "roadAddress": "서울특별시 중구 남대문로5길 25",
+      "mapx": "1269789529",
+      "mapy": "375625240"
+    },
+    {
+      "title": "남도한식 정든님",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 79 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로14길 22-5 1층, 2층",
+      "mapx": "1269780747",
+      "mapy": "375625624"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미쓰<b>족발</b> 서울명동점",
+      "link": "",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-45 미쓰족발 서울명동점",
+      "roadAddress": "서울특별시 중구 명동3길 21 미쓰족발 서울명동점",
+      "mapx": "1269834714",
+      "mapy": "375646640"
+    },
+    {
+      "title": "<b>을지로</b> 볼",
+      "link": "https://catchtable.co.kr/ball",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 107-5 4층 을지로 볼",
+      "roadAddress": "서울특별시 중구 을지로12길 29 4층 을지로 볼",
+      "mapx": "1269908484",
+      "mapy": "375649403"
+    },
+    {
+      "title": "놀부보쌈&amp;부대찌개 <b>을지로</b>6가점",
+      "link": "http://www.nolboo.co.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-103 삼영빌딩 2층",
+      "roadAddress": "서울특별시 중구 을지로43길 34 삼영빌딩 2층",
+      "mapx": "1270076010",
+      "mapy": "375676109"
+    },
+    {
+      "title": "을지갈매기",
+      "link": "https://www.instagram.com/eulji_2918",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 295-12 1층",
+      "roadAddress": "서울특별시 중구 충무로 55 1층",
+      "mapx": "1269925213",
+      "mapy": "375660858"
+    },
+    {
+      "title": "화육계",
+      "link": "http://instagram.com/hwk0806",
+      "category": "한식>닭발",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-6 1층",
+      "roadAddress": "서울특별시 중구 을지로14길 21 1층",
+      "mapx": "1269921891",
+      "mapy": "375653151"
+    }
+  ]
+}

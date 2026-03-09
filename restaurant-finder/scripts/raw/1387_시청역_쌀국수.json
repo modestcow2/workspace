@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "띤띤 SFC",
+      "link": "https://www.instagram.com/tamarind_official/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFCMALL B2",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
+      "mapx": "1269782820",
+      "mapy": "375684612"
+    },
+    {
+      "title": "쎈플러스",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-83 1층",
+      "roadAddress": "서울특별시 중구 남대문로5길 3 1층",
+      "mapx": "1269788812",
+      "mapy": "375615766"
+    },
+    {
+      "title": "벳남미식 시청직영점",
+      "link": "https://www.instagram.com/vietnammisik_cityhall",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 지하1층 103-2호, 104호",
+      "roadAddress": "서울특별시 중구 서소문로 115 지하1층 103-2호, 104호",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
+      "title": "땀땀 롯데백화점 본점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
+      "mapx": "1269811881",
+      "mapy": "375647599"
+    },
+    {
+      "title": "반포식스 서울시청점",
+      "link": "http://www.banhpho6.com",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 24-2 휘닉스빌딩 3층",
+      "roadAddress": "서울특별시 중구 무교로 13 휘닉스빌딩 3층",
+      "mapx": "1269790515",
+      "mapy": "375671662"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "육미안 혜화점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yookmian",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 182-1 1층 육미안",
+      "roadAddress": "서울특별시 종로구 창경궁로 246-4 1층 육미안",
+      "mapx": "1269993945",
+      "mapy": "375832566"
+    },
+    {
+      "title": "삼안<b>갈비</b>촌",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 16-1 1층",
+      "roadAddress": "서울특별시 종로구 대명1길 7 1층",
+      "mapx": "1270010118",
+      "mapy": "375831396"
+    },
+    {
+      "title": "유캔하이 <b>혜화역</b>점",
+      "link": "https://www.instagram.com/youcanhigh_hyehwa",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 177 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로 246-3 1층",
+      "mapx": "1269997111",
+      "mapy": "375833720"
+    },
+    {
+      "title": "쪽당 대학로점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-59 쪽당 대학로점",
+      "roadAddress": "서울특별시 종로구 대학로8가길 26 쪽당 대학로점",
+      "mapx": "1270024893",
+      "mapy": "375821563"
+    },
+    {
+      "title": "동숭숯불<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 118-8",
+      "roadAddress": "서울특별시 종로구 대학로9길 26",
+      "mapx": "1270005992",
+      "mapy": "375816895"
+    }
+  ]
+}

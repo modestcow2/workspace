@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "타와",
+      "link": "https://www.instagram.com/muwa__official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
+      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
+      "title": "허수아비돈까스 정동점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 23-9",
+      "roadAddress": "서울특별시 중구 정동길 2-2",
+      "mapx": "1269694875",
+      "mapy": "375678500"
+    },
+    {
+      "title": "카츠큐브",
+      "link": "https://www.instagram.com/katsucube_official",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "고담",
+      "link": "https://blog.naver.com/gothamcityhall",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 341-2 2층(룸),4층(홀), 루프탑(야외 옥상)",
+      "roadAddress": "서울특별시 중구 세종대로 81 2층(룸),4층(홀), 루프탑(야외 옥상)",
+      "mapx": "1269764150",
+      "mapy": "375635587"
+    },
+    {
+      "title": "옴레스토랑 광화문점",
+      "link": "https://www.instagram.com/om.restaurant",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 2 지하",
+      "roadAddress": "서울특별시 종로구 새문안로 103 지하",
+      "mapx": "1269760717",
+      "mapy": "375704856"
+    }
+  ]
+}

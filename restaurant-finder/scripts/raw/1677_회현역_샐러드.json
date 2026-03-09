@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그리너 남대문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
+    {
+      "title": "넬보스코 남촌빵집",
+      "link": "http://www.nelbosco.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-23 1층",
+      "roadAddress": "서울특별시 중구 퇴계로8길 16 1층",
+      "mapx": "1269797956",
+      "mapy": "375586861"
+    },
+    {
+      "title": "뭉치치카페",
+      "link": "https://www.instagram.com/cafe_mungchichi/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-2",
+      "roadAddress": "서울특별시 중구 남대문시장길 17",
+      "mapx": "1269769894",
+      "mapy": "375602313"
+    },
+    {
+      "title": "넬보스코 이탈리안 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/nelbosco",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-23 2층",
+      "roadAddress": "서울특별시 중구 퇴계로8길 16 2층",
+      "mapx": "1269797099",
+      "mapy": "375587201"
+    },
+    {
+      "title": "파리크라상 신세계백화점 본점",
+      "link": "https://pariscroissantorder.com",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 52-5 지하 1층",
+      "roadAddress": "서울특별시 중구 소공로 63 지하 1층",
+      "mapx": "1269810741",
+      "mapy": "375602864"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "본가<b>서대문족발</b> 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 31-14",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 54",
+      "mapx": "1269668935",
+      "mapy": "375644552"
+    },
+    {
+      "title": "대현매운<b>족발</b> 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-25 1층",
+      "roadAddress": "서울특별시 서대문구 연세로2길 95 1층",
+      "mapx": "1269421576",
+      "mapy": "375571933"
+    },
+    {
+      "title": "족삼리",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 115-5 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
+      "mapx": "1269483970",
+      "mapy": "375854364"
+    },
+    {
+      "title": "신촌정직한<b>족발</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/shinchonhonestjokbal",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-33 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 51 1층",
+      "mapx": "1269340235",
+      "mapy": "375583477"
+    },
+    {
+      "title": "<b>서대문</b>영양<b>족발</b> 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 90-53 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 377 1층",
+      "mapx": "1269491514",
+      "mapy": "375837552"
+    }
+  ]
+}

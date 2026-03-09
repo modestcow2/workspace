@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더타코부스 NYC 안국점",
+      "link": "",
+      "category": "음식점>양식>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 86 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
+      "mapx": "1269860399",
+      "mapy": "375774613"
+    },
+    {
+      "title": "주얼리 카페, 아티다",
+      "link": "https://www.instagram.com/with_artyida",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 323-4 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 39 1층",
+      "mapx": "1269657760",
+      "mapy": "376052907"
+    }
+  ]
+}

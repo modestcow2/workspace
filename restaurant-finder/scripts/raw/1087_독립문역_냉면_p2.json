@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "능라밥상",
+      "link": "https://www.facebook.com/",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 1-64 능라밥상",
+      "roadAddress": "서울특별시 종로구 사직로2길 14 능라밥상",
+      "mapx": "1269640183",
+      "mapy": "375729551"
+    },
+    {
+      "title": "도깨비칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 198 도깨비칼국수",
+      "roadAddress": "서울특별시 서대문구 영천시장길 40 도깨비칼국수",
+      "mapx": "1269614284",
+      "mapy": "375703707"
+    },
+    {
+      "title": "소문난홍가네",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 323 A열 65호",
+      "roadAddress": "서울특별시 서대문구 통일로 189-1 A열 65호",
+      "mapx": "1269618560",
+      "mapy": "375703315"
+    },
+    {
+      "title": "김진목삼",
+      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 164 1층 김진목삼",
+      "roadAddress": "서울특별시 종로구 자하문로1길 56 1층 김진목삼",
+      "mapx": "1269695187",
+      "mapy": "375771457"
+    },
+    {
+      "title": "화우 서대문역본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwauseodaemun",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 5-15",
+      "roadAddress": "서울특별시 서대문구 통일로9안길 32",
+      "mapx": "1269654411",
+      "mapy": "375659994"
+    }
+  ]
+}

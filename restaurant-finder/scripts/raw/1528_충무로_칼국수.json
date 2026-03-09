@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "사랑방<b>칼국수</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 23-1",
+      "roadAddress": "서울특별시 중구 퇴계로27길 46",
+      "mapx": "1269913418",
+      "mapy": "375632872"
+    },
+    {
+      "title": "을지로<b>칼국수</b> 낙원의소바",
+      "link": "https://www.instagram.com/nakwonsoba",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 78-1 2층",
+      "roadAddress": "서울특별시 중구 서애로 2 2층",
+      "mapx": "1269983275",
+      "mapy": "375618772"
+    },
+    {
+      "title": "본가원조닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 54",
+      "roadAddress": "서울특별시 중구 마른내로2길 19",
+      "mapx": "1269920102",
+      "mapy": "375635413"
+    },
+    {
+      "title": "동대닭한마리 본점",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 10-2 동대닭한마리",
+      "roadAddress": "서울특별시 중구 서애로 16-5 동대닭한마리",
+      "mapx": "1269974231",
+      "mapy": "375609938"
+    },
+    {
+      "title": "충무<b>칼국수</b>보쌈 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 2-3",
+      "roadAddress": "서울특별시 중구 퇴계로44길 29",
+      "mapx": "1269968649",
+      "mapy": "375607242"
+    }
+  ]
+}

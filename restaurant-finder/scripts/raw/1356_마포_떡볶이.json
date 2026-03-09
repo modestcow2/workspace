@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그동네<b>떡볶이</b> 연남점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 259-16 1층",
+      "roadAddress": "서울특별시 마포구 동교로 243 1층",
+      "mapx": "1269241019",
+      "mapy": "375616751"
+    },
+    {
+      "title": "그동네<b>떡볶이</b> 홍대본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 335-16 그동네떡볶이",
+      "roadAddress": "서울특별시 마포구 와우산로27길 14 그동네떡볶이",
+      "mapx": "1269275396",
+      "mapy": "375541034"
+    },
+    {
+      "title": "홍대조폭<b>떡볶이</b> 홍대2호점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 164-17 1층",
+      "roadAddress": "서울특별시 마포구 홍익로6길 38 1층",
+      "mapx": "1269237556",
+      "mapy": "375558918"
+    },
+    {
+      "title": "<b>마포</b>원조<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 345-4",
+      "roadAddress": "서울특별시 마포구 도화2길 3",
+      "mapx": "1269487607",
+      "mapy": "375403569"
+    },
+    {
+      "title": "홍대삭 상수본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 상수동 315-8",
+      "roadAddress": "서울특별시 마포구 독막로 71",
+      "mapx": "1269213053",
+      "mapy": "375479423"
+    }
+  ]
+}

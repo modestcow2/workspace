@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "평안도식당 <b>신촌</b>점",
+      "link": "https://www.instagram.com/leejin3020",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 29-30 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 12 1층",
+      "mapx": "1269377470",
+      "mapy": "375570469"
+    },
+    {
+      "title": "백<b>순대</b>본가새맛 <b>신촌</b>연대점",
+      "link": "https://blogdexreview.space/b/c607505c44",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-149 1층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 12 1층",
+      "mapx": "1269361703",
+      "mapy": "375590135"
+    },
+    {
+      "title": "신의주찹쌀<b>순대</b> <b>신촌</b>점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-33",
+      "roadAddress": "서울특별시 서대문구 연세로4길 19",
+      "mapx": "1269378344",
+      "mapy": "375573574"
+    },
+    {
+      "title": "<b>신촌순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-99 2층",
+      "roadAddress": "서울특별시 서대문구 신촌로 125 2층",
+      "mapx": "1269397638",
+      "mapy": "375562966"
+    },
+    {
+      "title": "맨도롱 식당",
+      "link": "",
+      "category": "한식>향토음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-3",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 8-3",
+      "mapx": "1269362385",
+      "mapy": "375575628"
+    }
+  ]
+}

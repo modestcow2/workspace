@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마라붐 시청점",
+      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
+      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
+      "mapx": "1269771292",
+      "mapy": "375635420"
+    },
+    {
+      "title": "자매식당",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-23 2층",
+      "roadAddress": "서울특별시 중구 남대문시장2가길 6-9 2층",
+      "mapx": "1269769660",
+      "mapy": "375592263"
+    },
+    {
+      "title": "마라공방 회현점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 202-6 3층",
+      "roadAddress": "서울특별시 중구 남대문시장길 73 3층",
+      "mapx": "1269800225",
+      "mapy": "375608567"
+    },
+    {
+      "title": "마라공방 서울역점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 지하1층 5호",
+      "roadAddress": "서울특별시 중구 세종대로 17 지하1층 5호",
+      "mapx": "1269732806",
+      "mapy": "375586371"
+    },
+    {
+      "title": "천향원 명동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
+      "roadAddress": "서울특별시 중구 남대문로7길 33 소공빌딩 2층 천향원",
+      "mapx": "1269800515",
+      "mapy": "375637808"
+    }
+  ]
+}

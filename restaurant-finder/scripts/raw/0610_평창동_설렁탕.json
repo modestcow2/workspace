@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "장모님해장국",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 253-1",
+      "roadAddress": "서울특별시 종로구 진흥로 421",
+      "mapx": "1269556760",
+      "mapy": "376089067"
+    },
+    {
+      "title": "두소<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 149-15",
+      "roadAddress": "서울특별시 종로구 비봉길 26",
+      "mapx": "1269566619",
+      "mapy": "376108033"
+    },
+    {
+      "title": "청와<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 47-5",
+      "roadAddress": "서울특별시 종로구 홍지문길 3",
+      "mapx": "1269569316",
+      "mapy": "375999756"
+    },
+    {
+      "title": "성북<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 232-4",
+      "roadAddress": "서울특별시 성북구 성북로 147",
+      "mapx": "1269934068",
+      "mapy": "375945671"
+    },
+    {
+      "title": "성북<b>설렁탕</b>전용주차장",
+      "link": "",
+      "category": "교통시설>주차장",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 232-4",
+      "roadAddress": "서울특별시 성북구 성북로 147",
+      "mapx": "1269933841",
+      "mapy": "375945172"
+    }
+  ]
+}

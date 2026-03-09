@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "레스피레베이커리 서촌",
+      "link": "https://instagram.com/___respirer",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
+    },
+    {
+      "title": "안덕",
+      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-53 1층",
+      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
+      "mapx": "1269696346",
+      "mapy": "375815060"
+    },
+    {
+      "title": "아키비스트 서촌점",
+      "link": "http://www.instagram.com/archivistcoffee",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 164-7 1층 아키비스트 서촌점",
+      "roadAddress": "서울특별시 종로구 효자로13길 52 1층 아키비스트 서촌점",
+      "mapx": "1269726786",
+      "mapy": "375822184"
+    },
+    {
+      "title": "메종드소시송",
+      "link": "https://www.instagram.com/maison_de_saucisson",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 70-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 82 1층",
+      "mapx": "1269706242",
+      "mapy": "375833006"
+    },
+    {
+      "title": "더숲 초소책방",
+      "link": "https://deosup.com/42",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 산3-1",
+      "roadAddress": "서울특별시 종로구 인왕산로 172",
+      "mapx": "1269642050",
+      "mapy": "375859414"
+    }
+  ]
+}

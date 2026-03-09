@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "웅네서서<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-25",
+      "roadAddress": "서울특별시 서대문구 신촌역로 13-1",
+      "mapx": "1269426093",
+      "mapy": "375579488"
+    },
+    {
+      "title": "명물화로 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/MyungmulHwaro",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-34 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 71 1층",
+      "mapx": "1269400770",
+      "mapy": "375592707"
+    },
+    {
+      "title": "명륜진사<b>갈비</b> 서울신촌점",
+      "link": "https://blog.naver.com/jinsafd",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-80 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 63 1층",
+      "mapx": "1269395472",
+      "mapy": "375592384"
+    },
+    {
+      "title": "리정원 신촌점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-26 1층 리정원",
+      "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
+      "mapx": "1269393882",
+      "mapy": "375591466"
+    },
+    {
+      "title": "종금양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 8-61",
+      "roadAddress": "서울특별시 마포구 대흥로30길 21",
+      "mapx": "1269472357",
+      "mapy": "375564451"
+    }
+  ]
+}

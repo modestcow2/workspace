@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뎁짜이 대학로점",
+      "link": "http://www.instagram.com/dep_trai_korea",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 170-2 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 41-4 1층",
+      "mapx": "1269992354",
+      "mapy": "375823969"
+    },
+    {
+      "title": "아로포 <b>쌀국수</b>",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 176-1 2층",
+      "roadAddress": "서울특별시 종로구 대학로11길 46 2층",
+      "mapx": "1269994586",
+      "mapy": "375826021"
+    },
+    {
+      "title": "포보 성균관대점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 199-8 포보",
+      "roadAddress": "서울특별시 종로구 성균관로 4 포보",
+      "mapx": "1269985965",
+      "mapy": "375833382"
+    },
+    {
+      "title": "반수우안",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-74 2층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 79 2층",
+      "mapx": "1270035788",
+      "mapy": "375824833"
+    },
+    {
+      "title": "하이콴 대학로점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-73 1층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 80 1층",
+      "mapx": "1270033459",
+      "mapy": "375824849"
+    }
+  ]
+}

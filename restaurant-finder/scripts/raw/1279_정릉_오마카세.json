@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연꽃치 <b>정릉</b>시장점",
+      "link": "https://www.instagram.com/ykc_jeongneung/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 349-10 1층",
+      "roadAddress": "서울특별시 성북구 솔샘로6길 55 1층",
+      "mapx": "1270080524",
+      "mapy": "376091638"
+    },
+    {
+      "title": "사을한리 정육식당",
+      "link": "https://www.instagram.com/saeulhan_ri.butchershop",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 401-46 B1층 제108, 109호",
+      "roadAddress": "서울특별시 성북구 보국문로 50 B1층 제108, 109호",
+      "mapx": "1270100313",
+      "mapy": "376088213"
+    },
+    {
+      "title": "스시 성북",
+      "link": "https://www.instagram.com/sushiseongbuk/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 58-16",
+      "roadAddress": "서울특별시 성북구 성북로 74",
+      "mapx": "1270008029",
+      "mapy": "375935975"
+    },
+    {
+      "title": "숙수도가",
+      "link": "https://blog.naver.com/twins3000",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동6가 158 1층 숙수도가",
+      "roadAddress": "서울특별시 성북구 동소문로17길 28 1층 숙수도가",
+      "mapx": "1270154307",
+      "mapy": "375935620"
+    },
+    {
+      "title": "김태완스시 성신여대점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동5가 118-15 1층",
+      "roadAddress": "서울특별시 성북구 동소문로20길 32 1층",
+      "mapx": "1270166936",
+      "mapy": "375911757"
+    }
+  ]
+}

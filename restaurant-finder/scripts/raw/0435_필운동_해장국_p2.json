@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌전통순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
+    },
+    {
+      "title": "이서방네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
+    },
+    {
+      "title": "명작신의주찹쌀순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
+      "title": "무교동북어국집",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 173",
+      "roadAddress": "서울특별시 중구 을지로1길 38",
+      "mapx": "1269798583",
+      "mapy": "375677548"
+    }
+  ]
+}

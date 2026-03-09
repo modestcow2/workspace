@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오향<b>만두</b>",
+      "link": "http://map.naver.com/?mid=bl013772130",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-69 삼원빌딩",
+      "roadAddress": "서울특별시 서대문구 연희맛로 22 삼원빌딩",
+      "mapx": "1269301144",
+      "mapy": "375669752"
+    },
+    {
+      "title": "이품",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-19",
+      "roadAddress": "서울특별시 서대문구 연희로11길 20",
+      "mapx": "1269300765",
+      "mapy": "375675500"
+    },
+    {
+      "title": "편의방",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-94",
+      "roadAddress": "서울특별시 서대문구 연희로 36",
+      "mapx": "1269275231",
+      "mapy": "375617816"
+    },
+    {
+      "title": "양밍산",
+      "link": "https://www.instagram.com/yangming_san",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 727",
+      "roadAddress": "서울특별시 서대문구 가좌로 36",
+      "mapx": "1269318946",
+      "mapy": "375776880"
+    },
+    {
+      "title": "이화원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 189-8",
+      "roadAddress": "서울특별시 서대문구 연희맛로 13",
+      "mapx": "1269290326",
+      "mapy": "375665037"
+    }
+  ]
+}

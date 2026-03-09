@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삭 수제튀김 전문점 이화본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-33",
+      "roadAddress": "서울특별시 서대문구 이화여대3길 12",
+      "mapx": "1269451103",
+      "mapy": "375580656"
+    },
+    {
+      "title": "카우떡볶이",
+      "link": "https://smartstore.naver.com/greenbadge/products/7691485943",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-40 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 88-21 1층",
+      "mapx": "1269439510",
+      "mapy": "375595837"
+    },
+    {
+      "title": "마포분식",
+      "link": "https://smartstore.naver.com/maposformula",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 332-21 1층",
+      "roadAddress": "서울특별시 마포구 굴레방로9길 41 1층",
+      "mapx": "1269533829",
+      "mapy": "375566772"
+    },
+    {
+      "title": "신촌<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-99 2층",
+      "roadAddress": "서울특별시 서대문구 신촌로 125 2층",
+      "mapx": "1269397638",
+      "mapy": "375562966"
+    },
+    {
+      "title": "은성<b>순대</b>국",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 346-22",
+      "roadAddress": "서울특별시 마포구 신촌로32길 6",
+      "mapx": "1269531673",
+      "mapy": "375568191"
+    }
+  ]
+}

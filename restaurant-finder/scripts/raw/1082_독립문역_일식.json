@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소보로식당",
+      "link": "https://www.instagram.com/soboro_sikdang",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 경희궁 롯데캐슬 상가 1층 118호",
+      "roadAddress": "서울특별시 종로구 통일로 230 경희궁 롯데캐슬 상가 1층 118호",
+      "mapx": "1269591683",
+      "mapy": "375737601"
+    },
+    {
+      "title": "고쿤스시",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 제지1층 121호",
+      "roadAddress": "서울특별시 종로구 통일로 230 제지1층 121호",
+      "mapx": "1269592729",
+      "mapy": "375736317"
+    },
+    {
+      "title": "돈박",
+      "link": "http://instagram.com/donbak_",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 롯데캐슬상가 19호",
+      "roadAddress": "서울특별시 종로구 통일로 230 롯데캐슬상가 19호",
+      "mapx": "1269591987",
+      "mapy": "375737352"
+    },
+    {
+      "title": "독립술상",
+      "link": "https://blog.naver.com/eunsul_foodie",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 45-19 1층 1호",
+      "roadAddress": "서울특별시 종로구 통일로14길 6-3 1층 1호",
+      "mapx": "1269583035",
+      "mapy": "375748170"
+    },
+    {
+      "title": "미스터빠삭 독립문점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 299 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 197 1층",
+      "mapx": "1269612950",
+      "mapy": "375709432"
+    }
+  ]
+}

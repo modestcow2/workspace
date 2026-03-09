@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "BBQ치킨 효자점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 92",
+      "roadAddress": "서울특별시 종로구 필운대로 59",
+      "mapx": "1269683749",
+      "mapy": "375813250"
+    },
+    {
+      "title": "버거드조선",
+      "link": "http://www.instagram.com/burger_de_joseon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 147 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
+      "mapx": "1269704616",
+      "mapy": "375755982"
+    },
+    {
+      "title": "레이지버거클럽 부암점",
+      "link": "http://instagram.com/lazyburgerclub",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-7 2층",
+      "roadAddress": "서울특별시 종로구 창의문로 137 2층",
+      "mapx": "1269652698",
+      "mapy": "375925610"
+    },
+    {
+      "title": "침스버거 광화문",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B113-2, B113-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B113-2, B113-3호",
+      "mapx": "1269798147",
+      "mapy": "375710182"
+    },
+    {
+      "title": "번앤버니",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 56호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 56호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    }
+  ]
+}

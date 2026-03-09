@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동대문엽기떡볶이 <b>정릉</b>점",
+      "link": "https://blog.naver.com/ddm_yupdduk",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 164-15",
+      "roadAddress": "서울특별시 성북구 보국문로 4",
+      "mapx": "1270117450",
+      "mapy": "376050023"
+    },
+    {
+      "title": "김밥고을 <b>정릉</b>점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 671-3 1층 김밥고을",
+      "roadAddress": "서울특별시 성북구 솔샘로1길 10 1층 김밥고을",
+      "mapx": "1270039749",
+      "mapy": "376086989"
+    },
+    {
+      "title": "떡밀밀 <b>정릉</b>역점",
+      "link": "https://www.instagram.com/ddukmilmil",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 524 상가동 102호 떡밀밀",
+      "roadAddress": "서울특별시 성북구 아리랑로 89 상가동 102호 떡밀밀",
+      "mapx": "1270135405",
+      "mapy": "376006965"
+    },
+    {
+      "title": "신전떡볶이 <b>정릉</b>점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 373-4 성신프라자",
+      "roadAddress": "서울특별시 성북구 솔샘로4길 46 성신프라자",
+      "mapx": "1270074380",
+      "mapy": "376085652"
+    },
+    {
+      "title": "정이 든 김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 407-10 1층",
+      "roadAddress": "서울특별시 성북구 보국문로 19-8 1층",
+      "mapx": "1270104745",
+      "mapy": "376064189"
+    }
+  ]
+}

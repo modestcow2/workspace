@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "후라토식당 서울스퀘어 직영점",
+      "link": "https://www.instagram.com/furato_official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 지하1층 B1F-4",
+      "roadAddress": "서울특별시 중구 한강대로 416 지하1층 B1F-4",
+      "mapx": "1269737678",
+      "mapy": "375555057"
+    },
+    {
+      "title": "솥내음 <b>서울역</b> 남대문시장점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-11 지하1층",
+      "roadAddress": "서울특별시 중구 통일로 10 지하1층",
+      "mapx": "1269736575",
+      "mapy": "375570913"
+    },
+    {
+      "title": "미도인 그랜드센트럴",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 105, 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 105, 106호",
+      "mapx": "1269743613",
+      "mapy": "375579375"
+    },
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "동화고옥 <b>서울역</b>점",
+      "link": "https://www.instagram.com/donghwagohok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 지하1층 24-1호",
+      "roadAddress": "서울특별시 중구 한강대로 416 지하1층 24-1호",
+      "mapx": "1269737511",
+      "mapy": "375553949"
+    }
+  ]
+}

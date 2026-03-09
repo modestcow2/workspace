@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "엄용백 돼지구이 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-13",
+      "roadAddress": "서울특별시 종로구 율곡로4길 51",
+      "mapx": "1269812652",
+      "mapy": "375733835"
+    },
+    {
+      "title": "콩마루",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B1 132, 133호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B1 132, 133호",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "제주오겹살",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-2",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70",
+      "mapx": "1269807326",
+      "mapy": "375727853"
+    },
+    {
+      "title": "대독장 종로구청점",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-1 2층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 66 2층",
+      "mapx": "1269807916",
+      "mapy": "375728627"
+    },
+    {
+      "title": "고기꾼김춘배 종로직영점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
+      "mapx": "1269864928",
+      "mapy": "375690679"
+    }
+  ]
+}

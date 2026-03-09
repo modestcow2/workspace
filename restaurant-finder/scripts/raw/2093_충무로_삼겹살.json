@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해든 <b>충무로</b>본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 24-6 1층",
+      "roadAddress": "서울특별시 중구 퇴계로27길 45 1층",
+      "mapx": "1269911972",
+      "mapy": "375631894"
+    },
+    {
+      "title": "도야집 을지로점",
+      "link": "https://www.instagram.com/doyajib_",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 64-1 도야집",
+      "roadAddress": "서울특별시 중구 수표로12길 31 도야집",
+      "mapx": "1269920323",
+      "mapy": "375640360"
+    },
+    {
+      "title": "초반식당",
+      "link": "https://blog.naver.com/chobandining",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 58-5 1층",
+      "roadAddress": "서울특별시 중구 수표로6길 8-1 1층",
+      "mapx": "1269908753",
+      "mapy": "375627840"
+    },
+    {
+      "title": "빠삼",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동2가 192-19 1층 101호",
+      "roadAddress": "서울특별시 중구 퇴계로41길 43 1층 101호",
+      "mapx": "1269955058",
+      "mapy": "375637756"
+    },
+    {
+      "title": "을지로 돌판집 본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 51-5 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 15-16 1층",
+      "mapx": "1269924600",
+      "mapy": "375634212"
+    }
+  ]
+}

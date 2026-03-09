@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "애호락 안국본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://smartstore.naver.com/goodbab7",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269847797",
+      "mapy": "375802375"
+    },
+    {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    },
+    {
+      "title": "돌담집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-5",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 22",
+      "mapx": "1269880436",
+      "mapy": "375794571"
+    },
+    {
+      "title": "고궁의아침 서울대병원",
+      "link": "https://blog.naver.com/gogungmorning",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 원남동 118-1 고궁의아침 서울대병원",
+      "roadAddress": "서울특별시 종로구 창경궁로 158 고궁의아침 서울대병원",
+      "mapx": "1269975450",
+      "mapy": "375762428"
+    }
+  ]
+}

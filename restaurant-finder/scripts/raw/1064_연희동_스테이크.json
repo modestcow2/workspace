@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "작은스페인",
+      "link": "https://app.catchtable.co.kr/ct/shop/little.spain.seoul",
+      "category": "음식점>스페인음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 81-27",
+      "roadAddress": "서울특별시 서대문구 연희로25길 37",
+      "mapx": "1269340196",
+      "mapy": "375717835"
+    },
+    {
+      "title": "마우디",
+      "link": "https://www.instagram.com/maudie_dining",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-18",
+      "roadAddress": "서울특별시 서대문구 연희로11길 18",
+      "mapx": "1269301258",
+      "mapy": "375674593"
+    },
+    {
+      "title": "와인률연희 <b>연희동</b>본점",
+      "link": "https://blog.naver.com/renguini",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 194-27 1층",
+      "roadAddress": "서울특별시 서대문구 연희로10가길 50 1층",
+      "mapx": "1269306890",
+      "mapy": "375648264"
+    },
+    {
+      "title": "로얄싸롱",
+      "link": "http://instagram.com/royal.saloon.2018",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-1 1F",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 43 1F",
+      "mapx": "1269278866",
+      "mapy": "375666091"
+    },
+    {
+      "title": "라아",
+      "link": "https://www.instagram.com/raah_seoul",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-75 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11라길 10-8 1층",
+      "mapx": "1269303991",
+      "mapy": "375684723"
+    }
+  ]
+}

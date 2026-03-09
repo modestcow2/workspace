@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만나<b>분식</b>",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "라면점빵",
+      "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 202",
+      "roadAddress": "서울특별시 종로구 자하문로1길 39",
+      "mapx": "1269701211",
+      "mapy": "375766355"
+    },
+    {
+      "title": "모던김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 97",
+      "roadAddress": "서울특별시 종로구 자하문로2길 10",
+      "mapx": "1269731772",
+      "mapy": "375764902"
+    },
+    {
+      "title": "통인시장",
+      "link": "https://www.instagram.com/tongin_official/",
+      "category": "쇼핑,유통>시장",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269702361",
+      "mapy": "375807396"
+    },
+    {
+      "title": "연희김밥 경복궁점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 55 연희김밥",
+      "roadAddress": "서울특별시 종로구 자하문로 12 연희김밥",
+      "mapx": "1269725615",
+      "mapy": "375770729"
+    }
+  ]
+}

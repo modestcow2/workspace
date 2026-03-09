@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "하지메노미세",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 215 1층 A-16호",
+      "roadAddress": "서울특별시 서대문구 충정로6길 59 1층 A-16호",
+      "mapx": "1269680036",
+      "mapy": "375624407"
+    },
+    {
+      "title": "곰소바 돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 102-2 인창빌딩 1층 곰소바",
+      "roadAddress": "서울특별시 서대문구 경기대로 64 인창빌딩 1층 곰소바",
+      "mapx": "1269640900",
+      "mapy": "375645340"
+    },
+    {
+      "title": "멘야서울 중림점",
+      "link": "https://www.menyaseoul.kr/news",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 149 성요셉아파트 3층 317호",
+      "roadAddress": "서울특별시 중구 서소문로6길 34 성요셉아파트 3층 317호",
+      "mapx": "1269670365",
+      "mapy": "375595712"
+    },
+    {
+      "title": "토키",
+      "link": "https://instagram.com/toki__2017?igshid=ll4fnq7pv2tk",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 250-22",
+      "roadAddress": "서울특별시 서대문구 충정로4길 3",
+      "mapx": "1269639558",
+      "mapy": "375612117"
+    },
+    {
+      "title": "어도횟집",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 90-14",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 4",
+      "mapx": "1269676424",
+      "mapy": "375624917"
+    }
+  ]
+}

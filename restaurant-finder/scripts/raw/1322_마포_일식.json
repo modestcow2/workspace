@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "시오 합정점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 372-17 1층",
+      "roadAddress": "서울특별시 마포구 독막로2길 30 1층",
+      "mapx": "1269143486",
+      "mapy": "375472597"
+    },
+    {
+      "title": "쿠로코식당 연남점",
+      "link": "https://blog.naver.com/wcd0713",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 562-26 1층",
+      "roadAddress": "서울특별시 마포구 동교로27길 83 1층",
+      "mapx": "1269200428",
+      "mapy": "375612471"
+    },
+    {
+      "title": "테즈쿠리 홍대본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tezkuri",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 355-5 홍대가자2 빌딩 2층",
+      "roadAddress": "서울특별시 마포구 홍익로5안길 32 홍대가자2 빌딩 2층",
+      "mapx": "1269211783",
+      "mapy": "375534765"
+    },
+    {
+      "title": "로스트비프 산볼 망원본점",
+      "link": "https://www.instagram.com/sanbowl_official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 57-284 1층",
+      "roadAddress": "서울특별시 마포구 월드컵로19길 90 1층",
+      "mapx": "1269064008",
+      "mapy": "375538802"
+    },
+    {
+      "title": "카츠몬스터 연남본점",
+      "link": "https://www.instagram.com/katsumon.ynd",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-18 1층 101호 카츠몬스터 연남본점",
+      "roadAddress": "서울특별시 마포구 동교로38길 42-6 1층 101호 카츠몬스터 연남본점",
+      "mapx": "1269255679",
+      "mapy": "375610304"
+    }
+  ]
+}

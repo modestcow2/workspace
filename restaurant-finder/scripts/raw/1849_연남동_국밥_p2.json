@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "월강부산돼지<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 258-14 월강부산돼지국밥",
+      "roadAddress": "서울특별시 마포구 동교로 241-1 월강부산돼지국밥",
+      "mapx": "1269241539",
+      "mapy": "375616319"
+    },
+    {
+      "title": "청백",
+      "link": "https://www.instagram.com/cheongbaek_seoul?igsh=bGl2c20wdDU5dWll&utm_source=qr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-4 1층 우측 102호",
+      "roadAddress": "서울특별시 마포구 동교로 266-8 1층 우측 102호",
+      "mapx": "1269256597",
+      "mapy": "375629861"
+    },
+    {
+      "title": "오이소 연남본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-24 1층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 105 1층",
+      "mapx": "1269170594",
+      "mapy": "375660588"
+    },
+    {
+      "title": "우탕 연남 본점",
+      "link": "https://www.instagram.com/wootang.seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-269 2층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 114 2층",
+      "mapx": "1269170929",
+      "mapy": "375665474"
+    },
+    {
+      "title": "국숯집 연남점",
+      "link": "https://www.instagram.com/gooksootjib",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 381-5 우측 지층",
+      "roadAddress": "서울특별시 마포구 동교로34길 21 우측 지층",
+      "mapx": "1269255799",
+      "mapy": "375608181"
+    }
+  ]
+}

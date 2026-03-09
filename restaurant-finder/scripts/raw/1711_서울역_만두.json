@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "오목칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-42 1층",
+      "roadAddress": "서울특별시 용산구 한강대로 379 1층",
+      "mapx": "1269721059",
+      "mapy": "375521541"
+    },
+    {
+      "title": "밀본 <b>서울역</b>점",
+      "link": "http://www.mealbon.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-205 3층 217호",
+      "roadAddress": "서울특별시 용산구 청파로 378 3층 217호",
+      "mapx": "1269704854",
+      "mapy": "375542424"
+    },
+    {
+      "title": "<b>서울역</b>철도떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 서계동 223-42 1층",
+      "roadAddress": "서울특별시 용산구 청파로93길 18-1 1층",
+      "mapx": "1269678344",
+      "mapy": "375543253"
+    },
+    {
+      "title": "가메골손왕<b>만두</b> 남대문본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
+    }
+  ]
+}

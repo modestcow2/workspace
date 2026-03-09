@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "허니<b>떡볶이</b>",
+      "link": "https://blog.naver.com/honeybokki",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
+      "mapx": "1269762132",
+      "mapy": "375705250"
+    },
+    {
+      "title": "꼬소한부뚜막 광화문광장점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 150-1 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
+      "mapx": "1269756633",
+      "mapy": "375715135"
+    },
+    {
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "모던김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 97",
+      "roadAddress": "서울특별시 종로구 자하문로2길 10",
+      "mapx": "1269731772",
+      "mapy": "375764902"
+    },
+    {
+      "title": "샤브샵",
+      "link": "https://www.instagram.com/karacinikora77",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 24 1, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
+      "mapx": "1269709557",
+      "mapy": "375763909"
+    }
+  ]
+}

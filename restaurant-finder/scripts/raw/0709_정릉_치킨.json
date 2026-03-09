@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "가마치통닭 서울 <b>정릉</b>역점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 139-58",
+      "roadAddress": "서울특별시 성북구 정릉로 272",
+      "mapx": "1270135426",
+      "mapy": "376031189"
+    },
+    {
+      "title": "풍덕천두꺼비집 <b>정릉</b>우체국점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 416-77 1층",
+      "roadAddress": "서울특별시 성북구 보국문로 9-3 1층",
+      "mapx": "1270110551",
+      "mapy": "376055084"
+    },
+    {
+      "title": "웍스터 <b>정릉</b>역",
+      "link": "https://www.instagram.com/wokster_7.24/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 107-20 1층",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 11 1층",
+      "mapx": "1270127723",
+      "mapy": "376025036"
+    },
+    {
+      "title": "일번지옛날통닭 <b>정릉</b>점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 110-32",
+      "roadAddress": "서울특별시 성북구 정릉로36길 82",
+      "mapx": "1270140227",
+      "mapy": "376024616"
+    },
+    {
+      "title": "다이츠키",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 684-26 1층",
+      "roadAddress": "서울특별시 성북구 솔샘로4길 12-1 1층",
+      "mapx": "1270054820",
+      "mapy": "376086014"
+    }
+  ]
+}

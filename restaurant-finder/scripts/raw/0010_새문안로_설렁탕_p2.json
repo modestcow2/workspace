@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광화문닭곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
+      "mapy": "375697325"
+    },
+    {
+      "title": "고다",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "나주소나주곰탕 신문로1가점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 31",
+      "roadAddress": "서울특별시 종로구 새문안로 87",
+      "mapx": "1269744139",
+      "mapy": "375703667"
+    }
+  ]
+}

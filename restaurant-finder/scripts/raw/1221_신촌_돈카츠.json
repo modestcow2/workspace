@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠업",
+      "link": "https://blog.naver.com/katsup",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-4 1층 카츠업",
+      "roadAddress": "서울특별시 서대문구 연세로5길 32 1층 카츠업",
+      "mapx": "1269353168",
+      "mapy": "375563150"
+    },
+    {
+      "title": "솜솜카츠 <b>신촌</b>본점",
+      "link": "https://somsomkatsu.co.kr",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-9 2층",
+      "roadAddress": "서울특별시 서대문구 연세로 18 2층",
+      "mapx": "1269371108",
+      "mapy": "375571630"
+    },
+    {
+      "title": "아소비바 <b>신촌</b>연세대본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/asoviva?from=share&type=DINING",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-151 1층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 27 1층",
+      "mapx": "1269352908",
+      "mapy": "375588864"
+    },
+    {
+      "title": "이국장",
+      "link": "https://www.instagram.com/_leegookjang",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-36 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 36 1층",
+      "mapx": "1269386491",
+      "mapy": "375577204"
+    },
+    {
+      "title": "꼬숑돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 31-26",
+      "roadAddress": "서울특별시 서대문구 명물1길 2",
+      "mapx": "1269372941",
+      "mapy": "375579747"
+    }
+  ]
+}

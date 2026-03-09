@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "유자유김치떡볶이 <b>신촌</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-156",
+      "roadAddress": "서울특별시 서대문구 연세로11길 22",
+      "mapx": "1269356093",
+      "mapy": "375590089"
+    },
+    {
+      "title": "틈새라면 <b>신촌</b>점",
+      "link": "http://www.teumsae.com",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-11",
+      "roadAddress": "서울특별시 서대문구 연세로4길 6",
+      "mapx": "1269373790",
+      "mapy": "375569440"
+    },
+    {
+      "title": "리김밥 <b>신촌</b>점",
+      "link": "http://www.leegimbap.co.kr/#none",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 57-50 에피소드 신촌 369 1층 106호",
+      "roadAddress": "서울특별시 마포구 신촌로16길 29 에피소드 신촌 369 1층 106호",
+      "mapx": "1269347002",
+      "mapy": "375542493"
+    },
+    {
+      "title": "닭장수김밥 서강대점",
+      "link": "https://www.instagram.com/dakjangsu_gimbap",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 31-176 1층",
+      "roadAddress": "서울특별시 마포구 백범로 19 1층",
+      "mapx": "1269374508",
+      "mapy": "375529385"
+    },
+    {
+      "title": "영미김밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-7 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 21 1층",
+      "mapx": "1269425818",
+      "mapy": "375586428"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오이소 연남본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-24 1층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 105 1층",
+      "mapx": "1269170594",
+      "mapy": "375660588"
+    },
+    {
+      "title": "시실리 연남본점",
+      "link": "https://www.instagram.com/sicily_yeonnam?igsh=dTAzYTNmc3V0bnR0&utm_source=qr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-22 1층",
+      "roadAddress": "서울특별시 마포구 성미산로 194 1층",
+      "mapx": "1269264585",
+      "mapy": "375627400"
+    },
+    {
+      "title": "홍쌤떡볶이 연남점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 504-23 1층",
+      "roadAddress": "서울특별시 마포구 연남로5길 36 1층",
+      "mapx": "1269200421",
+      "mapy": "375614791"
+    },
+    {
+      "title": "기호",
+      "link": "https://www.instagram.com/giho.seoul?igsh=c3B5Ym51bGp4eWxl&utm_source=qr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 224-57 아라크네빌딩 1층 101호",
+      "roadAddress": "서울특별시 마포구 성미산로 187 아라크네빌딩 1층 101호",
+      "mapx": "1269262228",
+      "mapy": "375632215"
+    },
+    {
+      "title": "우리할매떡볶이 연남점",
+      "link": "http://wehalmae.co.kr/",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-14",
+      "roadAddress": "서울특별시 마포구 동교로 227-5",
+      "mapx": "1269236785",
+      "mapy": "375606017"
+    }
+  ]
+}

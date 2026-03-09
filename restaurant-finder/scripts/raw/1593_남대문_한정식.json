@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아리연",
+      "link": "https://www.instagram.com/ariyeon_official/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-19 해남2빌딩, 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로12길 12 해남2빌딩, 지하1층",
+      "mapx": "1269768063",
+      "mapy": "375617253"
+    },
+    {
+      "title": "남도한식 정든님",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 79 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로14길 22-5 1층, 2층",
+      "mapx": "1269780747",
+      "mapy": "375625624"
+    },
+    {
+      "title": "한가람 본점",
+      "link": "http://www.hangaramfood.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-35",
+      "roadAddress": "서울특별시 중구 남대문로5길 25",
+      "mapx": "1269789529",
+      "mapy": "375625240"
+    },
+    {
+      "title": "해담채 시청점",
+      "link": "http://haedamche.com/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 봉래동1가 25 HSBC빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 칠패로 37 HSBC빌딩 지하1층",
+      "mapx": "1269730458",
+      "mapy": "375600967"
+    },
+    {
+      "title": "<b>남대문</b>잔치집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 30-11 2층 남대문 잔치집",
+      "roadAddress": "서울특별시 중구 남대문시장길 31-4 2층 남대문 잔치집",
+      "mapx": "1269778473",
+      "mapy": "375605487"
+    }
+  ]
+}

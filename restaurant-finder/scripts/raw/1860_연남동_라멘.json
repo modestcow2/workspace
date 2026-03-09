@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "사루카메",
+      "link": "https://www.instagram.com/sarukame_ramen/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-67 1층",
+      "roadAddress": "서울특별시 마포구 연남로 15 1층",
+      "mapx": "1269227522",
+      "mapy": "375610493"
+    },
+    {
+      "title": "쿠로코식당 연남점",
+      "link": "https://blog.naver.com/wcd0713",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 562-26 1층",
+      "roadAddress": "서울특별시 마포구 동교로27길 83 1층",
+      "mapx": "1269200428",
+      "mapy": "375612471"
+    },
+    {
+      "title": "하쿠텐<b>라멘</b>",
+      "link": "http://instagram.com/hakuten92",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-6 반지하",
+      "roadAddress": "서울특별시 마포구 동교로 266-12 반지하",
+      "mapx": "1269258353",
+      "mapy": "375628480"
+    },
+    {
+      "title": "무겐스위치",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-51",
+      "roadAddress": "서울특별시 마포구 동교로 242-13",
+      "mapx": "1269251456",
+      "mapy": "375613823"
+    },
+    {
+      "title": "쿄 <b>라멘</b>",
+      "link": "http://instagram.com/kyoramen",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 385-4 지층 쿄, 라멘",
+      "roadAddress": "서울특별시 마포구 동교로46길 25 지층 쿄, 라멘",
+      "mapx": "1269261473",
+      "mapy": "375622874"
+    }
+  ]
+}

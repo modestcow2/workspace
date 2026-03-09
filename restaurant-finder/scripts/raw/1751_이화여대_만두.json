@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미스터서왕<b>만두</b>",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 27-20 103호 가이아오피스텔",
+      "roadAddress": "서울특별시 서대문구 신촌역로 16 103호 가이아오피스텔",
+      "mapx": "1269433440",
+      "mapy": "375581397"
+    },
+    {
+      "title": "카우떡볶이",
+      "link": "https://smartstore.naver.com/greenbadge/products/7691485943",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-40 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 88-21 1층",
+      "mapx": "1269439510",
+      "mapy": "375595837"
+    },
+    {
+      "title": "김광석신촌칼국수 본점",
+      "link": "https://scnoodle.com/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 40-9",
+      "roadAddress": "서울특별시 마포구 신촌로 124",
+      "mapx": "1269394407",
+      "mapy": "375556761"
+    },
+    {
+      "title": "유소바 이대점",
+      "link": "https://www.instagram.com/usoba_seoul",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 45-33 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대2길 4 1층",
+      "mapx": "1269461829",
+      "mapy": "375573118"
+    },
+    {
+      "title": "천진분식",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-24 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 7 1층",
+      "mapx": "1269452845",
+      "mapy": "375582678"
+    }
+  ]
+}

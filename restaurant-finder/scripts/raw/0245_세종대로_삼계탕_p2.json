@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "여의도<b>삼계탕</b> 파이낸스센터점",
+      "link": "https://blog.naver.com/dreamingmoom",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 파이낸스센터 sfc몰 지하1층 103호 여의도 삼계탕",
+      "roadAddress": "서울특별시 중구 세종대로 136 파이낸스센터 sfc몰 지하1층 103호 여의도 삼계탕",
+      "mapx": "1269788924",
+      "mapy": "375682885"
+    },
+    {
+      "title": "현풍닭칼국수 광화문점",
+      "link": "https://www.instagram.com/hyunpungdk_official",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-3 1층",
+      "roadAddress": "서울특별시 중구 세종대로 135-9 1층",
+      "mapx": "1269763007",
+      "mapy": "375688748"
+    },
+    {
+      "title": "보승회관 시청점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-2",
+      "roadAddress": "서울특별시 중구 세종대로 66",
+      "mapx": "1269765651",
+      "mapy": "375621823"
+    },
+    {
+      "title": "콘피에르",
+      "link": "https://www.confier.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하 2층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하 2층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    }
+  ]
+}

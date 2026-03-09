@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신촌칼",
+      "link": "https://instagram.com/shinchon_kal",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-96 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
+      "mapx": "1269390887",
+      "mapy": "375578967"
+    },
+    {
+      "title": "비아37 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/via37_",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-31 2층 비아37 신촌본점",
+      "roadAddress": "서울특별시 서대문구 이화여대길 68 2층 비아37 신촌본점",
+      "mapx": "1269446608",
+      "mapy": "375592889"
+    },
+    {
+      "title": "프랭클린 <b>스테이크</b>하우스",
+      "link": "https://www.instagram.com/franklinsteakhouse",
+      "category": "음식점>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-27 1층 프랭클린스테이크하우스",
+      "roadAddress": "서울특별시 서대문구 명물길 61 1층 프랭클린스테이크하우스",
+      "mapx": "1269393525",
+      "mapy": "375592254"
+    },
+    {
+      "title": "포포나무",
+      "link": "",
+      "category": "음식점>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 53-9 1층 포포나무",
+      "roadAddress": "서울특별시 서대문구 이화여대2가길 24 1층 포포나무",
+      "mapx": "1269462228",
+      "mapy": "375585291"
+    },
+    {
+      "title": "스페인식당 더크래프트",
+      "link": "https://www.instagram.com/thecraftkorea",
+      "category": "음식점>스페인음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 331-4",
+      "roadAddress": "서울특별시 마포구 신촌로 256-1",
+      "mapx": "1269541823",
+      "mapy": "375571101"
+    }
+  ]
+}

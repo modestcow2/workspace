@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자매식당",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-23 2층",
+      "roadAddress": "서울특별시 중구 남대문시장2가길 6-9 2층",
+      "mapx": "1269769660",
+      "mapy": "375592263"
+    },
+    {
+      "title": "란주칼면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-9 1층 란주칼면",
+      "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
+      "mapx": "1269821083",
+      "mapy": "375609724"
+    },
+    {
+      "title": "마라공방 회현점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 202-6 3층",
+      "roadAddress": "서울특별시 중구 남대문시장길 73 3층",
+      "mapx": "1269800225",
+      "mapy": "375608567"
+    },
+    {
+      "title": "마라공방 서울역점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 지하1층 5호",
+      "roadAddress": "서울특별시 중구 세종대로 17 지하1층 5호",
+      "mapx": "1269732806",
+      "mapy": "375586371"
+    },
+    {
+      "title": "꽁시면관 본점",
+      "link": "http://instagram.com/ggongci_ggongci",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 22-13 꽁시면관",
+      "roadAddress": "서울특별시 중구 명동2길 45 꽁시면관",
+      "mapx": "1269832230",
+      "mapy": "375613839"
+    }
+  ]
+}

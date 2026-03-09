@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "족삼리",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 115-5 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
+      "mapx": "1269483970",
+      "mapy": "375854364"
+    },
+    {
+      "title": "할매집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 108",
+      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
+      "mapx": "1269714754",
+      "mapy": "375756601"
+    },
+    {
+      "title": "효자왕<b>족발</b>",
+      "link": "https://www.instagram.com/seochonhotpot",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
+    },
+    {
+      "title": "서대문영양<b>족발</b> 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 90-53 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 377 1층",
+      "mapx": "1269491514",
+      "mapy": "375837552"
+    },
+    {
+      "title": "서촌 곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 146-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
+      "mapx": "1269693165",
+      "mapy": "375766924"
+    }
+  ]
+}

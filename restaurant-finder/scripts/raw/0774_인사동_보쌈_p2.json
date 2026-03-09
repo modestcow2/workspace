@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>인사동</b>마늘<b>보쌈</b>",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
+    },
+    {
+      "title": "도담 1988",
+      "link": "https://www.instagram.com/bukchondodam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 30-16 1층",
+      "roadAddress": "서울특별시 종로구 인사동10길 11-5 1층",
+      "mapx": "1269853639",
+      "mapy": "375743610"
+    },
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
+      "title": "하얀고래 종각본점",
+      "link": "https://sites.google.com/view/hayangoraejonggakbonjeom",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 1층 109,110,111호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 109,110,111호",
+      "mapx": "1269847263",
+      "mapy": "375704878"
+    },
+    {
+      "title": "양반댁",
+      "link": "http://instagram.com/yangbandeck",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 193-5 양반댁",
+      "roadAddress": "서울특별시 종로구 인사동길 19-18 양반댁",
+      "mapx": "1269859113",
+      "mapy": "375723316"
+    }
+  ]
+}

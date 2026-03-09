@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서관면옥 <b>홍대</b>점",
+      "link": "http://www.instagram.com/seogwanmyeonog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 460-25 106호~107호",
+      "roadAddress": "서울특별시 마포구 월드컵북로5길 41 106호~107호",
+      "mapx": "1269168070",
+      "mapy": "375562685"
+    },
+    {
+      "title": "<b>홍대</b>물갈비 <b>홍대</b>본점",
+      "link": "https://www.instagram.com/hongdae_shabu?igshid=MTBkcDEwYXhsMW15ZA==",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 358-96 1층",
+      "roadAddress": "서울특별시 마포구 홍익로 3-30 1층",
+      "mapx": "1269229931",
+      "mapy": "375529314"
+    },
+    {
+      "title": "아뜨뜨",
+      "link": "https://www.instagram.com/atteutteu_official?igsh=MTJ5NWM1dWJobWxkbQ%3D%3D&utm_source=qr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-22 1층 아뜨뜨",
+      "roadAddress": "서울특별시 마포구 동교로38길 42-5 1층 아뜨뜨",
+      "mapx": "1269255837",
+      "mapy": "375609600"
+    },
+    {
+      "title": "연남물갈비 <b>홍대</b>본점",
+      "link": "https://www.instagram.com/yeonnam._.mulgalbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 203-46 1층 연남물갈비",
+      "roadAddress": "서울특별시 마포구 동교로25길 37 1층 연남물갈비",
+      "mapx": "1269207401",
+      "mapy": "375584785"
+    },
+    {
+      "title": "우물집 <b>홍대</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Woomoolzip_hongdae",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 332-6 지상1층~4층",
+      "roadAddress": "서울특별시 마포구 와우산로29마길 8 지상1층~4층",
+      "mapx": "1269266481",
+      "mapy": "375557491"
+    }
+  ]
+}

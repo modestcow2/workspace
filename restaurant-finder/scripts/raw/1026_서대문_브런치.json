@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그레인서울",
+      "link": "https://www.instagram.com/grain_seoul",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-29 2층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 53 2층",
+      "mapx": "1269274575",
+      "mapy": "375662742"
+    },
+    {
+      "title": "베어스덴 <b>브런치</b>",
+      "link": "https://www.instagram.com/bearsden_brunch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 441 1층,2층 베어스덴",
+      "roadAddress": "서울특별시 서대문구 연희로4길 10 1층,2층 베어스덴",
+      "mapx": "1269278323",
+      "mapy": "375616125"
+    },
+    {
+      "title": "그로어스",
+      "link": "https://catchtable.co.kr/growers",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 83-13",
+      "roadAddress": "서울특별시 서대문구 연희로27길 52",
+      "mapx": "1269333376",
+      "mapy": "375723021"
+    },
+    {
+      "title": "쿳사 연희",
+      "link": "https://www.instagram.com/coottha_official",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 100-2",
+      "roadAddress": "서울특별시 서대문구 증가로 48",
+      "mapx": "1269293336",
+      "mapy": "375721602"
+    },
+    {
+      "title": "산스",
+      "link": "https://www.instagram.com/sans_meals",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 708-3 1층",
+      "roadAddress": "서울특별시 서대문구 홍연4길 33 1층",
+      "mapx": "1269289358",
+      "mapy": "375754168"
+    }
+  ]
+}

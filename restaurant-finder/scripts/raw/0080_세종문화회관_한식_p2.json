@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정백어가 광화문 피맛골본점",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "고씨네동해막국수 종로직영점",
+      "link": "https://blog.naver.com/hjwm0116",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 68 1층",
+      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
+      "mapx": "1269846887",
+      "mapy": "375744624"
+    },
+    {
+      "title": "광화문석갈비 D타워점",
+      "link": "https://www.lumi.co.kr/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "광화문정육",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 21-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
+      "mapx": "1269756171",
+      "mapy": "375712733"
+    }
+  ]
+}

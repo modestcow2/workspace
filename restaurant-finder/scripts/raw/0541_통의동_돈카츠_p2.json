@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옐로우쿡",
+      "link": "http://www.yellowcook.com",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 104 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 32 1층",
+      "mapx": "1269717441",
+      "mapy": "375789833"
+    },
+    {
+      "title": "하이트클래스",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-2",
+      "roadAddress": "서울특별시 종로구 자하문로2길 1",
+      "mapx": "1269727998",
+      "mapy": "375765893"
+    },
+    {
+      "title": "경성왕<b>돈카츠</b>",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 301동 B113-14호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 301동 B113-14호",
+      "mapx": "1269686007",
+      "mapy": "375744035"
+    },
+    {
+      "title": "다이닝펍",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 91-26 . 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로10길 14 . 지하1층",
+      "mapx": "1269721980",
+      "mapy": "375793324"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:10 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:31:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375739819"
     },
     {
-      "title": "종각역 미술관 고기집 <b>인사동</b>점",
-      "link": "https://blog.naver.com/yhkjwo/223828758572",
-      "category": "한식>육류,고기요리",
+      "title": "종로반상회",
+      "link": "https://blog.naver.com/taekdaeri",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 18-4 2층 미술관고깃집",
-      "roadAddress": "서울특별시 종로구 우정국로2길 37 2층 미술관고깃집",
-      "mapx": "1269852102",
-      "mapy": "375696338"
+      "address": "서울특별시 종로구 관철동 260",
+      "roadAddress": "서울특별시 종로구 우정국로2길 8",
+      "mapx": "1269834746",
+      "mapy": "375694491"
     }
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "샐러디 종로구청점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 종로1가 대성스카이렉스 1층 110호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 종로1가 대성스카이렉스 1층 110호",
+      "mapx": "1269827978",
+      "mapy": "375724095"
+    },
+    {
+      "title": "훅트<b>포케</b> 을지로점",
+      "link": "https://www.hookedpoke.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
+      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
+      "mapx": "1269887654",
+      "mapy": "375666400"
+    },
+    {
+      "title": "폴인<b>포케</b> 서울시청점",
+      "link": "https://fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
+      "mapx": "1269775175",
+      "mapy": "375623578"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "르베지왕 을지공간",
+      "link": "http://www.levegiwang.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 116 2층",
+      "roadAddress": "서울특별시 중구 남대문로9길 10 2층",
+      "mapx": "1269818830",
+      "mapy": "375668000"
+    }
+  ]
+}

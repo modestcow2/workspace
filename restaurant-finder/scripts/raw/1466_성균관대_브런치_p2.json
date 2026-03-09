@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아이엠제이 <b>브런치</b>카페 수원<b>성균관대</b>역점",
+      "link": "https://blog.naver.com/imjbrunch",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 334-39 더크리스탈 지하1-지상1층",
+      "roadAddress": "경기도 수원시 장안구 화산로285번길 18-1 더크리스탈 지하1-지상1층",
+      "mapx": "1269646607",
+      "mapy": "372995666"
+    },
+    {
+      "title": "파티오33",
+      "link": "https://www.instagram.com/patio33_cafe",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 8-34 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로33길 12 1층",
+      "mapx": "1269992092",
+      "mapy": "375842947"
+    }
+  ]
+}

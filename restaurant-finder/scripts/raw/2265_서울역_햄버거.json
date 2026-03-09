@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "위트앤미트 <b>서울역</b>점",
+      "link": "https://litt.ly/wheat.n.meat",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 로비층 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 로비층 106호",
+      "mapx": "1269744164",
+      "mapy": "375575333"
+    },
+    {
+      "title": "바스버거 후암점",
+      "link": "http://www.basburger.net/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 23-30 지상2층",
+      "roadAddress": "서울특별시 용산구 한강대로104길 32 지상2층",
+      "mapx": "1269740654",
+      "mapy": "375502404"
+    },
+    {
+      "title": "콤바크",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-7 101-4호 콤바크",
+      "roadAddress": "서울특별시 중구 만리재로 193 101-4호 콤바크",
+      "mapx": "1269674083",
+      "mapy": "375551628"
+    },
+    {
+      "title": "맥도날드 <b>서울역</b>점",
+      "link": "https://www.mcdonalds.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-205",
+      "roadAddress": "서울특별시 용산구 한강대로 405",
+      "mapx": "1269704782",
+      "mapy": "375542451"
+    },
+    {
+      "title": "파이브가이즈 <b>서울역</b>",
+      "link": "https://www.instagram.com/fiveguys.korea",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 봉래동2가 122-11 커넥트플레이스 1층",
+      "roadAddress": "서울특별시 중구 한강대로 405 커넥트플레이스 1층",
+      "mapx": "1269710428",
+      "mapy": "375552708"
+    }
+  ]
+}

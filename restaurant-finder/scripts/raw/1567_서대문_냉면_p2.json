@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "청송함흥<b>냉면</b>전문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-6",
+      "roadAddress": "서울특별시 서대문구 연희맛로 6",
+      "mapx": "1269287944",
+      "mapy": "375659401"
+    },
+    {
+      "title": "이설면옥 남가좌점",
+      "link": "https://youtube.com/channel/UC5LgQzt5KdmGqJTE9ilDDmg?si=WazBs53wl2QSElTK",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 396 1층 110-3호",
+      "roadAddress": "서울특별시 서대문구 수색로2길 39 1층 110-3호",
+      "mapx": "1269162688",
+      "mapy": "375708805"
+    },
+    {
+      "title": "평택고여사집<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-13",
+      "roadAddress": "서울특별시 서대문구 연희로 81-9",
+      "mapx": "1269292870",
+      "mapy": "375657029"
+    },
+    {
+      "title": "우리<b>냉면</b> 홍제점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-241",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 1",
+      "mapx": "1269436999",
+      "mapy": "375883236"
+    },
+    {
+      "title": "수라면옥 연희점",
+      "link": "https://www.instagram.com/soora_1990",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 89-31",
+      "roadAddress": "서울특별시 서대문구 연희로25길 81",
+      "mapx": "1269327204",
+      "mapy": "375700749"
+    }
+  ]
+}

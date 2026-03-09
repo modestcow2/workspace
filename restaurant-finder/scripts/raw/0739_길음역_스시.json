@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "주대국초밥집 길음점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1284 상가비동 지1층 8,9,10호",
+      "roadAddress": "서울특별시 성북구 길음로 33 상가비동 지1층 8,9,10호",
+      "mapx": "1270217278",
+      "mapy": "376059572"
+    },
+    {
+      "title": "<b>스시</b>로 미아점",
+      "link": "https://www.instagram.com/sushiro_korea/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점 9층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점 9층",
+      "mapx": "1270284222",
+      "mapy": "376084156"
+    },
+    {
+      "title": "정담초밥 길음점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1143 정담초밥",
+      "roadAddress": "서울특별시 성북구 삼양로 62 정담초밥",
+      "mapx": "1270233280",
+      "mapy": "376086336"
+    },
+    {
+      "title": "본가<b>스시</b> 현대백화점미아점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점미아점 B1",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점미아점 B1",
+      "mapx": "1270289132",
+      "mapy": "376080952"
+    },
+    {
+      "title": "<b>스시</b>만 종암점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 69-5 1층 스시만",
+      "roadAddress": "서울특별시 성북구 종암로19길 17 1층 스시만",
+      "mapx": "1270338438",
+      "mapy": "375982003"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이치규 <b>서울역</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 631 지하1층 B116호",
+      "roadAddress": "서울특별시 중구 후암로 98 지하1층 B116호",
+      "mapx": "1269746174",
+      "mapy": "375538652"
+    },
+    {
+      "title": "마츠도 <b>서울역</b>점",
+      "link": "https://www.instagram.com/matsudo_seoul",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-71 1층",
+      "roadAddress": "서울특별시 용산구 한강대로 373-1 1층",
+      "mapx": "1269720537",
+      "mapy": "375517487"
+    },
+    {
+      "title": "죠우",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 11-7 1층 죠우",
+      "roadAddress": "서울특별시 용산구 후암로 97-1 1층 죠우",
+      "mapx": "1269746561",
+      "mapy": "375534156"
+    },
+    {
+      "title": "오묘 <b>서울역</b>점",
+      "link": "https://www.instagram.com/omyo_dining",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-43 1층",
+      "roadAddress": "서울특별시 용산구 한강대로 373-2 1층",
+      "mapx": "1269720212",
+      "mapy": "375518272"
+    },
+    {
+      "title": "유즈라멘",
+      "link": "https://instagram.com/yuzu_ramen?igshid=11uo8yy6mt1aw",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 53-8",
+      "roadAddress": "서울특별시 중구 만리재로 217",
+      "mapx": "1269682545",
+      "mapy": "375568411"
+    }
+  ]
+}

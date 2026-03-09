@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김진목삼",
+      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 164 1층 김진목삼",
+      "roadAddress": "서울특별시 종로구 자하문로1길 56 1층 김진목삼",
+      "mapx": "1269695187",
+      "mapy": "375771457"
+    },
+    {
+      "title": "원창식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 120",
+      "roadAddress": "서울특별시 종로구 사직로9가길 7",
+      "mapx": "1269689726",
+      "mapy": "375767115"
+    },
+    {
+      "title": "서촌 곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 146-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
+      "mapx": "1269693165",
+      "mapy": "375766924"
+    },
+    {
+      "title": "만가",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 206",
+      "roadAddress": "서울특별시 종로구 사직로 103-19",
+      "mapx": "1269703769",
+      "mapy": "375763740"
+    },
+    {
+      "title": "뼈탄집 서촌본점",
+      "link": "http://www.bornpig.co.kr/index2.php",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 9-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13",
+      "mapx": "1269717062",
+      "mapy": "375764468"
+    }
+  ]
+}

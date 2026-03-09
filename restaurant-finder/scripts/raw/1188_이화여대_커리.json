@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소오",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
+      "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
+      "mapx": "1269463097",
+      "mapy": "375590868"
+    },
+    {
+      "title": "아건 이대본점",
+      "link": "https://www.instagram.com/aangan_1?igsh=dWt4ZGFpbGo2MGV0",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-76 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 37 2층",
+      "mapx": "1269455731",
+      "mapy": "375586348"
+    },
+    {
+      "title": "방콕익스프레스 신촌본점",
+      "link": "http://www.bangkokexp.com/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-25 백송빌딩 1층 방콕익스프레스",
+      "roadAddress": "서울특별시 서대문구 연세로2길 91 백송빌딩 1층 방콕익스프레스",
+      "mapx": "1269418841",
+      "mapy": "375571725"
+    },
+    {
+      "title": "아츠마루",
+      "link": "https://www.instagram.com/atsumaru_izakaya",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-1 지하1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 51 지하1층",
+      "mapx": "1269455699",
+      "mapy": "375590487"
+    },
+    {
+      "title": "화타싱가폴",
+      "link": "https://www.instagram.com/huatahsg",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-36 1층 102호",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 15 1층 102호",
+      "mapx": "1269448062",
+      "mapy": "375582962"
+    }
+  ]
+}

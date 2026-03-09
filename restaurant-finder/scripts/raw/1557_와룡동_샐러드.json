@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "노우즈 창덕",
+      "link": "https://catchtable.co.kr/knows_changdeok",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 109-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 88-1 1층",
+      "mapx": "1269905898",
+      "mapy": "375763638"
+    },
+    {
+      "title": "<b>샐러드</b>로우 앤 트라타 익선점",
+      "link": "https://www.instagram.com/saladlowtratar_iksun",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 173 1층 샐러드로우앤트라타",
+      "roadAddress": "서울특별시 종로구 돈화문로 65 1층 샐러드로우앤트라타",
+      "mapx": "1269907696",
+      "mapy": "375742407"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
+    },
+    {
+      "title": "소금집델리 안국",
+      "link": "https://www.salthousekorea.com",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 101-12 1층",
+      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
+      "mapx": "1269863175",
+      "mapy": "375794136"
+    },
+    {
+      "title": "신선식탁 광화문G타워점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 156 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
+      "mapx": "1269810076",
+      "mapy": "375727137"
+    }
+  ]
+}

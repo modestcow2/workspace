@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마라붐 시청점",
+      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
+      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
+      "mapx": "1269771292",
+      "mapy": "375635420"
+    },
+    {
+      "title": "천향원 명동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
+      "roadAddress": "서울특별시 중구 남대문로7길 33 소공빌딩 2층 천향원",
+      "mapx": "1269800515",
+      "mapy": "375637808"
+    },
+    {
+      "title": "라향각 <b>마라탕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
+      "roadAddress": "서울특별시 중구 세종대로21길 67 2층 라향각마라탕",
+      "mapx": "1269757332",
+      "mapy": "375692879"
+    },
+    {
+      "title": "춘리<b>마라탕</b> 명동본점",
+      "link": "https://chunlimalatang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 26 1층 춘리마라탕 명동점",
+      "roadAddress": "서울특별시 중구 남대문로7길 11-6 1층 춘리마라탕 명동점",
+      "mapx": "1269810906",
+      "mapy": "375636450"
+    },
+    {
+      "title": "마라공방 광화문점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 76-1 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 2층",
+      "mapx": "1269759345",
+      "mapy": "375690541"
+    }
+  ]
+}

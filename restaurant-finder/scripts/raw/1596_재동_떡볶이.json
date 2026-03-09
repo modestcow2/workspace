@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "떡산 안국",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
+      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
+      "mapx": "1269857282",
+      "mapy": "375780061"
+    },
+    {
+      "title": "인사동쭈꾸미",
+      "link": "http://instagram.com/insadong_chungsik",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
+      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
+      "mapx": "1269858898",
+      "mapy": "375791440"
+    },
+    {
+      "title": "삼지",
+      "link": "https://blog.naver.com/samgimoon1000",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
+      "mapx": "1269860086",
+      "mapy": "375782908"
+    },
+    {
+      "title": "배떡 로제<b>떡볶이</b> 종로점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
+      "roadAddress": "서울특별시 종로구 북촌로 35-4",
+      "mapx": "1269847145",
+      "mapy": "375798137"
+    },
+    {
+      "title": "명품삼청동<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 165-2",
+      "roadAddress": "서울특별시 종로구 북촌로 33-2",
+      "mapx": "1269848818",
+      "mapy": "375798891"
+    }
+  ]
+}

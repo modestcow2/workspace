@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만리재 비스트로 별관",
+      "link": "https://www.instagram.com/mallijae_annex/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 1154",
+      "roadAddress": "서울특별시 중구 중림로 21",
+      "mapx": "1269659962",
+      "mapy": "375588401"
+    },
+    {
+      "title": "제비한옥",
+      "link": "https://app.catchtable.co.kr/ct/shop/jevi_hanok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 147-5 1층",
+      "roadAddress": "서울특별시 중구 중림로7길 6 1층",
+      "mapx": "1269675900",
+      "mapy": "375582136"
+    },
+    {
+      "title": "중림각",
+      "link": "https://blog.naver.com/kjh0430",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 61-4 1동1층,2층",
+      "roadAddress": "서울특별시 중구 청파로 443 1동1층,2층",
+      "mapx": "1269686283",
+      "mapy": "375589824"
+    },
+    {
+      "title": "오소오소",
+      "link": "https://www.instagram.com/osooso189",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 189 신원빌딩 지하1층",
+      "roadAddress": "서울특별시 서대문구 충정로 47 신원빌딩 지하1층",
+      "mapx": "1269643918",
+      "mapy": "375633135"
+    },
+    {
+      "title": "두툼",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 1층",
+      "roadAddress": "서울특별시 중구 중림로 10 1층",
+      "mapx": "1269662595",
+      "mapy": "375583365"
+    }
+  ]
+}

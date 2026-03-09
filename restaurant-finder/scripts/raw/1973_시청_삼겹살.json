@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남촌회관 <b>시청</b>본점",
+      "link": "https://www.instagram.com/nam.chon_",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 31-25 1층 (유성빌딩)",
+      "roadAddress": "서울특별시 중구 세종대로20길 19 1층 (유성빌딩)",
+      "mapx": "1269784994",
+      "mapy": "375671273"
+    },
+    {
+      "title": "전설의우대갈비 서울<b>시청</b>직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    },
+    {
+      "title": "금성회관 서울<b>시청</b>직영점",
+      "link": "https://www.instagram.com/gumseong5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
+      "mapx": "1269774892",
+      "mapy": "375623316"
+    },
+    {
+      "title": "동락돼지",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 39-2 1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 9 1층",
+      "mapx": "1269748065",
+      "mapy": "375710685"
+    },
+    {
+      "title": "박씨화로숯불구이",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 94-7",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-13",
+      "mapx": "1269780591",
+      "mapy": "375623381"
+    }
+  ]
+}

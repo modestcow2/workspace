@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "두르가 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/durga",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
+      "mapx": "1269797390",
+      "mapy": "375705681"
+    },
+    {
+      "title": "더<b>치킨</b>",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1",
+      "mapx": "1269797328",
+      "mapy": "375706634"
+    },
+    {
+      "title": "효도<b>치킨</b> 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hyodochicken_gwanghwa",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 197 1, 2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 21-1 1, 2층",
+      "mapx": "1269710660",
+      "mapy": "375746043"
+    },
+    {
+      "title": "북창<b>치킨</b> 서울시청본점",
+      "link": "https://blog.naver.com/j03c",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-2 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로16길 6 1층, 2층",
+      "mapx": "1269772125",
+      "mapy": "375633658"
+    },
+    {
+      "title": "달맞이광장바베큐",
+      "link": "https://app.catchtable.co.kr/ct/shop/dalmajiplaza_bbq?from=share&type=WAITING",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 343-11 1층",
+      "roadAddress": "서울특별시 중구 을지로 112-1 1층",
+      "mapx": "1269904910",
+      "mapy": "375658502"
+    }
+  ]
+}

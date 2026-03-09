@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카돈마리 본점",
+      "link": "http://www.instagram.com/KADONMARI",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 덕수궁 롯데캐슬 L층 B112,113호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁 롯데캐슬 L층 B112,113호",
+      "mapx": "1269703450",
+      "mapy": "375637338"
+    },
+    {
+      "title": "벳남미식 시청직영점",
+      "link": "https://www.instagram.com/vietnammisik_cityhall",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 지하1층 103-2호, 104호",
+      "roadAddress": "서울특별시 중구 서소문로 115 지하1층 103-2호, 104호",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
+      "title": "정일백 하노이<b>쌀국수</b>",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 201동 B129호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 201동 B129호",
+      "mapx": "1269705624",
+      "mapy": "375633960"
+    },
+    {
+      "title": "반포식스 <b>덕수궁</b>점",
+      "link": "http://www.banhpho6.com",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 53-2 1층",
+      "roadAddress": "서울특별시 중구 서소문로11길 6-1 1층",
+      "mapx": "1269731101",
+      "mapy": "375632005"
+    },
+    {
+      "title": "호아빈 서울시청점",
+      "link": "http://www.hoabinh.co.kr/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 14-2",
+      "roadAddress": "서울특별시 중구 서소문로 139",
+      "mapx": "1269762235",
+      "mapy": "375641009"
+    }
+  ]
+}

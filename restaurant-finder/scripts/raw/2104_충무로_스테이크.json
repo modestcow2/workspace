@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "필동함박 <b>충무로</b> 본점",
+      "link": "",
+      "category": "음식점>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 28-14 1층 필동함박 충무로 본점",
+      "roadAddress": "서울특별시 중구 필동로 7-1 1층 필동함박 충무로 본점",
+      "mapx": "1269962680",
+      "mapy": "375609184"
+    },
+    {
+      "title": "더 시옷",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesiot",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-15 OK빌딩 2층",
+      "roadAddress": "서울특별시 중구 수표로 30 OK빌딩 2층",
+      "mapx": "1269903062",
+      "mapy": "375638355"
+    },
+    {
+      "title": "BEEFY",
+      "link": "https://blog.naver.com/beefywinebar",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동2가 192-19 3층",
+      "roadAddress": "서울특별시 중구 퇴계로41길 43 3층",
+      "mapx": "1269954247",
+      "mapy": "375637783"
+    },
+    {
+      "title": "보틀러",
+      "link": "https://app.catchtable.co.kr/ct/shop/bottler?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 57-8 한영빌딩 1층",
+      "roadAddress": "서울특별시 중구 퇴계로27길 28 한영빌딩 1층",
+      "mapx": "1269915509",
+      "mapy": "375624030"
+    },
+    {
+      "title": "그릴데미그라스",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 2-19 오리엔스호텔 1층",
+      "roadAddress": "서울특별시 중구 삼일대로2길 50 오리엔스호텔 1층",
+      "mapx": "1269911365",
+      "mapy": "375600953"
+    }
+  ]
+}

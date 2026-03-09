@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "봉평옹심이메밀<b>칼국수</b>",
+      "link": "https://catchtable.co.kr/bongpyeongongsimimemilkalgugsu",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 242-90 1층 봉평옹심이메밀칼국수",
+      "roadAddress": "서울특별시 마포구 만리재옛길 19 1층 봉평옹심이메밀칼국수",
+      "mapx": "1269552378",
+      "mapy": "375459556"
+    },
+    {
+      "title": "김광석신촌<b>칼국수</b> 본점",
+      "link": "https://scnoodle.com/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 40-9",
+      "roadAddress": "서울특별시 마포구 신촌로 124",
+      "mapx": "1269394407",
+      "mapy": "375556761"
+    },
+    {
+      "title": "연남 <b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-56 대로변 1층 일부호()",
+      "roadAddress": "서울특별시 마포구 연남로 19 대로변 1층 일부호(연남동)",
+      "mapx": "1269224618",
+      "mapy": "375613724"
+    },
+    {
+      "title": "어서와<b>칼국수</b> 홍대합정점",
+      "link": "https://www.instagram.com/_welcome_noodles/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 402-19 1층",
+      "roadAddress": "서울특별시 마포구 어울마당로 37 1층",
+      "mapx": "1269202686",
+      "mapy": "375486227"
+    },
+    {
+      "title": "옹시미",
+      "link": "https://www.instagram.com/ongsimi2023",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 204-34 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로4길 59 1층",
+      "mapx": "1269221184",
+      "mapy": "375586778"
+    }
+  ]
+}

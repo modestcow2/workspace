@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대보정 서울시청역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "김수사 신세계백화점 본점",
+      "link": "https://www.instagram.com/kimsushi1986/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 52-5 14층",
+      "roadAddress": "서울특별시 중구 소공로 63 14층",
+      "mapx": "1269806031",
+      "mapy": "375600578"
+    },
+    {
+      "title": "다이닝아오",
+      "link": "https://app.catchtable.co.kr/ct/shop/dining_ao",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 1층 112호",
+      "roadAddress": "서울특별시 중구 칠패로 27 1층 112호",
+      "mapx": "1269720478",
+      "mapy": "375600687"
+    },
+    {
+      "title": "스시화정",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwajeong",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 12-4",
+      "roadAddress": "서울특별시 중구 세종대로14길 29",
+      "mapx": "1269783335",
+      "mapy": "375629054"
+    },
+    {
+      "title": "이자카야나무 시청점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Izakayanamusicheong?from=share&type=DINING",
+      "category": "음식점>술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 19-3 2층 이자카야나무 시청점",
+      "roadAddress": "서울특별시 중구 남대문로1길 37 2층 이자카야나무 시청점",
+      "mapx": "1269772644",
+      "mapy": "375627493"
+    }
+  ]
+}

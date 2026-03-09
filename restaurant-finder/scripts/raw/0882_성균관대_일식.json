@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "나츠비 율전동본점",
+      "link": "https://www.instagram.com/natsubi_goodday",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-61 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로2106번길 22 1층",
+      "mapx": "1269715985",
+      "mapy": "372970877"
+    },
+    {
+      "title": "키와마루아지 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 408-1 1층 키와마루아지",
+      "roadAddress": "경기도 수원시 장안구 서부로2105번길 26-3 1층 키와마루아지",
+      "mapx": "1269687029",
+      "mapy": "372969797"
+    },
+    {
+      "title": "남자주방",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 152",
+      "roadAddress": "서울특별시 종로구 성균관로1길 5",
+      "mapx": "1269980889",
+      "mapy": "375832568"
+    },
+    {
+      "title": "소코아 혜화성대점",
+      "link": "https://www.instagram.com/sokoa_hyehwa/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-213 지상1층",
+      "roadAddress": "서울특별시 종로구 명륜길 39 지상1층",
+      "mapx": "1269949365",
+      "mapy": "375888722"
+    },
+    {
+      "title": "핵밥 수원<b>성균관대</b>점",
+      "link": "https://www.hecbob.com/",
+      "category": "음식점>일식>덮밥",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 285-8 3층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2128 3층",
+      "mapx": "1269718097",
+      "mapy": "372982790"
+    }
+  ]
+}

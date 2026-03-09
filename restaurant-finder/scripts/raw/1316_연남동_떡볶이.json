@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그동네<b>떡볶이</b> 연남점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 259-16 1층",
+      "roadAddress": "서울특별시 마포구 동교로 243 1층",
+      "mapx": "1269241019",
+      "mapy": "375616751"
+    },
+    {
+      "title": "올바른김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-5 1층 올바른김밥",
+      "roadAddress": "서울특별시 마포구 동교로46길 42 1층 올바른김밥",
+      "mapx": "1269268129",
+      "mapy": "375621011"
+    },
+    {
+      "title": "홍쌤<b>떡볶이</b> 연남점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 504-23 1층",
+      "roadAddress": "서울특별시 마포구 연남로5길 36 1층",
+      "mapx": "1269200421",
+      "mapy": "375614791"
+    },
+    {
+      "title": "천국이네김밥",
+      "link": "https://www.instagram.com/chunkukene/",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 567-6",
+      "roadAddress": "서울특별시 마포구 동교로27길 46",
+      "mapx": "1269214684",
+      "mapy": "375599562"
+    },
+    {
+      "title": "우리할매<b>떡볶이</b> 연남점",
+      "link": "http://wehalmae.co.kr/",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-14",
+      "roadAddress": "서울특별시 마포구 동교로 227-5",
+      "mapx": "1269236785",
+      "mapy": "375606017"
+    }
+  ]
+}

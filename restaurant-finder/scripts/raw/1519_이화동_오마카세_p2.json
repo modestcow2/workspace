@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대규스시",
+      "link": "https://app.catchtable.co.kr/ct/shop/daegyu_sushi",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 128-12 1층",
+      "roadAddress": "서울특별시 종로구 동숭3길 1 1층",
+      "mapx": "1270044280",
+      "mapy": "375812631"
+    },
+    {
+      "title": "<b>오마카세</b>오사이초밥 대학로점",
+      "link": "https://www.instagram.com/542sushi_daehakro",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 50-42 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 76 2층",
+      "mapx": "1270042721",
+      "mapy": "375816581"
+    },
+    {
+      "title": "오덕새",
+      "link": "https://blog.naver.com/simpow",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 9-245 1층 오덕새",
+      "roadAddress": "서울특별시 종로구 율곡로19길 57 1층 오덕새",
+      "mapx": "1270075690",
+      "mapy": "375767921"
+    },
+    {
+      "title": "스시 소우카이",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushi_soukai",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로5가 274-1 지하1층",
+      "roadAddress": "서울특별시 중구 동호로35길 5 지하1층",
+      "mapx": "1270019924",
+      "mapy": "375662037"
+    },
+    {
+      "title": "고향횟집",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 104-13 1층 고향횟집",
+      "roadAddress": "서울특별시 종로구 대학로1길 25 1층 고향횟집",
+      "mapx": "1270006148",
+      "mapy": "375716094"
+    }
+  ]
+}

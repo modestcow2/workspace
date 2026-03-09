@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "후로아",
+      "link": "https://app.catchtable.co.kr/ct/shop/FUROASEOUL?from=share&type=DINING",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 61-2 1층",
+      "roadAddress": "서울특별시 중구 명동8가길 52 1층",
+      "mapx": "1269879696",
+      "mapy": "375618020"
+    },
+    {
+      "title": "더버튼스",
+      "link": "https://thebuttons.co.kr",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동2가 26-1 1층",
+      "roadAddress": "서울특별시 중구 소공로 36-5 1층",
+      "mapx": "1269833134",
+      "mapy": "375589160"
+    },
+    {
+      "title": "사운즈오브애플",
+      "link": "https://www.instagram.com/soundsofapple_official/?next=%2F&hl=ko",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 12-27 1층",
+      "roadAddress": "서울특별시 중구 명동8가길 47 1층",
+      "mapx": "1269877034",
+      "mapy": "375619109"
+    },
+    {
+      "title": "코너스토어",
+      "link": "https://www.instagram.com/cornerstoreseoul?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 76-8 1층",
+      "roadAddress": "서울특별시 중구 퇴계로12길 42 1층",
+      "mapx": "1269812471",
+      "mapy": "375577592"
+    },
+    {
+      "title": "크루세",
+      "link": "https://www.instagram.com/https://www.instagram.com/hotelkoreana/?igshid=MzRlODBiNWFlZA%3D%3D",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 2층",
+      "mapx": "1269765840",
+      "mapy": "375683348"
+    }
+  ]
+}

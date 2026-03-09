@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신승관",
+      "link": "https://m.blog.naver.com/wmedia77/223171955325",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 217호",
+      "roadAddress": "서울특별시 종로구 종로 19 217호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "중국관",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1",
+      "mapx": "1269795664",
+      "mapy": "375705836"
+    },
+    {
+      "title": "홍차오",
+      "link": "http://hongchaojrb.cityfood.co.kr/",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 홍차오",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 홍차오",
+      "mapx": "1269797818",
+      "mapy": "375705593"
+    },
+    {
+      "title": "한양중식 <b>종로</b>점",
+      "link": "http://www.instagram.com/haanyang/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
+      "mapx": "1269836975",
+      "mapy": "375706386"
+    },
+    {
+      "title": "란주칼면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-9 1층 란주칼면",
+      "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
+      "mapx": "1269821083",
+      "mapy": "375609724"
+    }
+  ]
+}

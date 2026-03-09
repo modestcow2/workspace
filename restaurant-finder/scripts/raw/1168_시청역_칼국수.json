@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "탄백",
+      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-8",
+      "roadAddress": "서울특별시 중구 정동길 37",
+      "mapx": "1269724678",
+      "mapy": "375659578"
+    },
+    {
+      "title": "베테랑<b>칼국수</b> 롯데본점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 B1F",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 B1F",
+      "mapx": "1269809861",
+      "mapy": "375646815"
+    },
+    {
+      "title": "명동<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
+      "mapx": "1269759250",
+      "mapy": "375686250"
+    },
+    {
+      "title": "인천집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 60 2층",
+      "roadAddress": "서울특별시 중구 다동길 36 2층",
+      "mapx": "1269812250",
+      "mapy": "375678250"
+    },
+    {
+      "title": "조조<b>칼국수</b> 시청점",
+      "link": "https://youtube.com/jojostory",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-11 조조칼국수",
+      "roadAddress": "서울특별시 중구 세종대로11길 27 조조칼국수",
+      "mapx": "1269742849",
+      "mapy": "375621433"
+    }
+  ]
+}

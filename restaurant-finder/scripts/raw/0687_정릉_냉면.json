@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "청수장",
+      "link": "https://app.catchtable.co.kr/ct/shop/chungsoojang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 416-27",
+      "roadAddress": "서울특별시 성북구 정릉로 237-2",
+      "mapx": "1270107375",
+      "mapy": "376054650"
+    },
+    {
+      "title": "이천칡<b>냉면</b>",
+      "link": "https://www.instagram.com/2000_7_naengmyeon/",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 674-8 1층",
+      "roadAddress": "서울특별시 성북구 솔샘로 5 1층",
+      "mapx": "1270042258",
+      "mapy": "376083546"
+    },
+    {
+      "title": "소한마리정육식당 <b>정릉</b>점",
+      "link": "https://www.instagram.com/esang1982",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 667-1 고려중앙빌딩",
+      "roadAddress": "서울특별시 성북구 정릉로 165 고려중앙빌딩",
+      "mapx": "1270033959",
+      "mapy": "376078501"
+    },
+    {
+      "title": "정돈",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 407-12 1층 정돈",
+      "roadAddress": "서울특별시 성북구 보국문로 21 1층 정돈",
+      "mapx": "1270107505",
+      "mapy": "376064857"
+    },
+    {
+      "title": "한라산도새기 <b>정릉</b>점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 506-9",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 79",
+      "mapx": "1270096040",
+      "mapy": "376013169"
+    }
+  ]
+}

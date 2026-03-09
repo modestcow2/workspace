@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "리틀방콕 길음뉴타운점",
+      "link": "http://littlebkk.com/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1284 길음뉴타운 상가 1층",
+      "roadAddress": "서울특별시 성북구 길음로 33 길음뉴타운 상가 1층",
+      "mapx": "1270213479",
+      "mapy": "376071782"
+    },
+    {
+      "title": "퍼틴 현대백화점미아점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 9층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 9층",
+      "mapx": "1270290724",
+      "mapy": "376083538"
+    },
+    {
+      "title": "포옹남 하월곡",
+      "link": "https://www.instagram.com/phoongnam_hawolgok",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 90-1688 1층",
+      "roadAddress": "서울특별시 성북구 종암로 188 1층",
+      "mapx": "1270314109",
+      "mapy": "376065578"
+    },
+    {
+      "title": "국수나무 길음점",
+      "link": "https://www.namuya.co.kr/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1282 길음뉴타운상가 3동 105, 106호",
+      "roadAddress": "서울특별시 성북구 길음로 74 길음뉴타운상가 3동 105, 106호",
+      "mapx": "1270208209",
+      "mapy": "376086900"
+    },
+    {
+      "title": "굿포유<b>쌀국수</b>",
+      "link": "http://www.instagram.com/good_pho_you_",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 83-1",
+      "roadAddress": "서울특별시 성북구 종암로25길 8",
+      "mapx": "1270324834",
+      "mapy": "376007761"
+    }
+  ]
+}

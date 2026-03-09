@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>마포</b>오리농장",
+      "link": "",
+      "category": "한식>오리요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 394-45 명지빌드웰 1층 마포 오리농장",
+      "roadAddress": "서울특별시 마포구 양화로 58 명지빌드웰 1층 마포 오리농장",
+      "mapx": "1269153198",
+      "mapy": "375500423"
+    },
+    {
+      "title": "백년토종<b>삼계탕</b>",
+      "link": "http://www.백년토종삼계탕.kr",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 354-12 1층 백년토종삼계탕",
+      "roadAddress": "서울특별시 마포구 양화로 118 1층 백년토종삼계탕",
+      "mapx": "1269201772",
+      "mapy": "375538481"
+    },
+    {
+      "title": "이화누룽지<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 337-27 1층 101, 2, 3호",
+      "roadAddress": "서울특별시 마포구 와우산로 137 1층 101, 2, 3호",
+      "mapx": "1269286058",
+      "mapy": "375538341"
+    },
+    {
+      "title": "광계",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-72 1.5층",
+      "roadAddress": "서울특별시 마포구 연희로1길 55 1.5층",
+      "mapx": "1269262559",
+      "mapy": "375613264"
+    },
+    {
+      "title": "김미정 남원추어탕 <b>삼계탕</b>",
+      "link": "",
+      "category": "한식>추어탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 대흥동 802 세양아파트 1층 상가",
+      "roadAddress": "서울특별시 마포구 독막로 288 세양아파트 1층 상가",
+      "mapx": "1269451990",
+      "mapy": "375444424"
+    }
+  ]
+}

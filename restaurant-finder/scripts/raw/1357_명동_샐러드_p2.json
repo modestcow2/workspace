@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "훅트포케 을지로점",
+      "link": "https://www.hookedpoke.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
+      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
+      "mapx": "1269887654",
+      "mapy": "375666400"
+    },
+    {
+      "title": "넬보스코 남촌빵집",
+      "link": "http://www.nelbosco.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-23 1층",
+      "roadAddress": "서울특별시 중구 퇴계로8길 16 1층",
+      "mapx": "1269797956",
+      "mapy": "375586861"
+    },
+    {
+      "title": "그라츠과자점",
+      "link": "http://www.graz.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 149-10 을지로지하쇼핑센터2구역 374",
+      "roadAddress": "서울특별시 중구 을지로 88 을지로지하쇼핑센터2구역 374",
+      "mapx": "1269868693",
+      "mapy": "375661527"
+    },
+    {
+      "title": "벤자민포케엔<b>샐러드</b>",
+      "link": "https://www.instagram.com/benjamin_pokesalad",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 30-2 1층",
+      "roadAddress": "서울특별시 중구 퇴계로20길 20 1층",
+      "mapx": "1269857917",
+      "mapy": "375593277"
+    },
+    {
+      "title": "후로아",
+      "link": "https://app.catchtable.co.kr/ct/shop/FUROASEOUL?from=share&type=DINING",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 61-2 1층",
+      "roadAddress": "서울특별시 중구 명동8가길 52 1층",
+      "mapx": "1269879696",
+      "mapy": "375618020"
+    }
+  ]
+}

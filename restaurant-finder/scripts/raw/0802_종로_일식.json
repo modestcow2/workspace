@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오레노 야끼 <b>종로</b>점",
+      "link": "https://catchtable.co.kr/orenoyakki",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-25 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
+      "mapx": "1269813635",
+      "mapy": "375730606"
+    },
+    {
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    },
+    {
+      "title": "야마야 광화문 디타워점",
+      "link": "https://store.kakao.com/yamaya/products/688567667",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 (청진동) 광화문 D타워 4층",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "<b>종로</b> 희희",
+      "link": "https://www.instagram.com/heehee_kr/",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효제동 19-1 1층",
+      "roadAddress": "서울특별시 종로구 대학로 42-7 1층",
+      "mapx": "1270027644",
+      "mapy": "375747045"
+    },
+    {
+      "title": "신성<b>일식</b>",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 128-1 1,2층 신성일식",
+      "roadAddress": "서울특별시 종로구 무교로 42 1,2층 신성일식",
+      "mapx": "1269795017",
+      "mapy": "375696782"
+    }
+  ]
+}

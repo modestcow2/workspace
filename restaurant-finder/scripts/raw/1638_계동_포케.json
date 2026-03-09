@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "샐러링 광화문점",
+      "link": "https://salaring.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 85 1층 101호",
+      "roadAddress": "서울특별시 중구 남대문로 125 다동 1층 101호",
+      "mapx": "1269822027",
+      "mapy": "375682184"
+    },
+    {
+      "title": "라이크샐러드",
+      "link": "https://www.instagram.com/like_salad_SKKU",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-190 1층 LIKE SALAD",
+      "roadAddress": "서울특별시 종로구 명륜길 44 1층 LIKE SALAD",
+      "mapx": "1269949025",
+      "mapy": "375890462"
+    },
+    {
+      "title": "슬로우캘리 을지로점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 수하동 67 미래에셋센터원 지1층 118호",
+      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋센터원 지1층 118호",
+      "mapx": "1269850954",
+      "mapy": "375672787"
+    },
+    {
+      "title": "슬로우캘리 광화문",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 제1층 121-1호",
+      "roadAddress": "서울특별시 종로구 종로 19 제1층 121-1호",
+      "mapx": "1269801711",
+      "mapy": "375708095"
+    }
+  ]
+}

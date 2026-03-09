@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "호림<b>스시</b>",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 341",
+      "roadAddress": "서울특별시 종로구 평창11길 13",
+      "mapx": "1269663655",
+      "mapy": "376067188"
+    },
+    {
+      "title": "이식당",
+      "link": "http://www.facebook.com/leeshokudo",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 152-2 1F",
+      "roadAddress": "서울특별시 종로구 평창문화로 94 1F",
+      "mapx": "1269715667",
+      "mapy": "376069978"
+    },
+    {
+      "title": "금해복집",
+      "link": "https://www.instagram.com/goldseablowfishhouse?igsh=bHU0dDJpa2EzdWRl&utm_source=qr",
+      "category": "해물,생선요리>복어요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 67-19",
+      "roadAddress": "서울특별시 종로구 진흥로 461",
+      "mapx": "1269595596",
+      "mapy": "376069218"
+    },
+    {
+      "title": "호림<b>스시</b>전용주차장입구",
+      "link": "",
+      "category": "도로시설>방면정보",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동",
+      "roadAddress": "",
+      "mapx": "1269664056",
+      "mapy": "376066552"
+    },
+    {
+      "title": "호림<b>스시</b>전용주차장",
+      "link": "",
+      "category": "교통시설>주차장",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 341",
+      "roadAddress": "서울특별시 종로구 평창11길 13",
+      "mapx": "1269663635",
+      "mapy": "376066372"
+    }
+  ]
+}

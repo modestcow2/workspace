@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연희녹두<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-16 2층 연희녹두삼계탕",
+      "roadAddress": "서울특별시 서대문구 연희맛로 4 2층 연희녹두삼계탕",
+      "mapx": "1269286645",
+      "mapy": "375657841"
+    },
+    {
+      "title": "지호한방<b>삼계탕</b> 연희점",
+      "link": "https://jihofood.co.kr",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 78-20",
+      "roadAddress": "서울특별시 서대문구 연희로25길 10",
+      "mapx": "1269348000",
+      "mapy": "375729000"
+    },
+    {
+      "title": "지호한방<b>삼계탕</b> 연희점입구",
+      "link": "",
+      "category": "도로시설>방면정보",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동",
+      "roadAddress": "",
+      "mapx": "1269348750",
+      "mapy": "375727582"
+    },
+    {
+      "title": "산천마루",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 48-149",
+      "roadAddress": "서울특별시 서대문구 세검정로1길 21",
+      "mapx": "1269428649",
+      "mapy": "375925590"
+    },
+    {
+      "title": "백년토종<b>삼계탕</b>",
+      "link": "http://www.백년토종삼계탕.kr",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 354-12 1층 백년토종삼계탕",
+      "roadAddress": "서울특별시 마포구 양화로 118 1층 백년토종삼계탕",
+      "mapx": "1269201772",
+      "mapy": "375538481"
+    }
+  ]
+}

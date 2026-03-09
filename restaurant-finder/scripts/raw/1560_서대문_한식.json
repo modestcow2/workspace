@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "쟁반집8292 신촌점",
+      "link": "http://www.jbj8292.com",
+      "category": "음식점>한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-21 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 27 1층",
+      "mapx": "1269382224",
+      "mapy": "375575882"
+    },
+    {
+      "title": "등촌샤브칼국수 신촌점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 1층 등촌샤브칼국수 신촌점",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층 등촌샤브칼국수 신촌점",
+      "mapx": "1269407741",
+      "mapy": "375589692"
+    },
+    {
+      "title": "유닭스토리 닭한마리 신촌점",
+      "link": "https://blog.naver.com/hotjazz22",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-72 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 7 1층",
+      "mapx": "1269374476",
+      "mapy": "375570470"
+    },
+    {
+      "title": "박만배아리랑보쌈 연희점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-10 1층좌측호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
+      "mapx": "1269285120",
+      "mapy": "375657431"
+    },
+    {
+      "title": "산천마루",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 48-149",
+      "roadAddress": "서울특별시 서대문구 세검정로1길 21",
+      "mapx": "1269428649",
+      "mapy": "375925590"
+    }
+  ]
+}

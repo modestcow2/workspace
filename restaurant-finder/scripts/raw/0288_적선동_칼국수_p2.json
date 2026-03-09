@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "부산집막국수",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 26 1층",
+      "roadAddress": "서울특별시 종로구 사직로 133-8 1층",
+      "mapx": "1269734310",
+      "mapy": "375762754"
+    },
+    {
+      "title": "153구포국수 경복궁점",
+      "link": "",
+      "category": "음식점>한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 93-3 1층",
+      "roadAddress": "서울특별시 종로구 사직로 127-6 1층",
+      "mapx": "1269732078",
+      "mapy": "375760801"
+    },
+    {
+      "title": "옛날명동<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 지하1층 111호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 지하1층 111호",
+      "mapx": "1269735421",
+      "mapy": "375744442"
+    },
+    {
+      "title": "토방<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
+    },
+    {
+      "title": "황생가<b>칼국수</b>",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    }
+  ]
+}

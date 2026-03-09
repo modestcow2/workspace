@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포도집",
+      "link": "http://www.instagram.com/podojib_",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 132-2 1층",
+      "roadAddress": "서울특별시 성북구 정릉로32길 4 1층",
+      "mapx": "1270165782",
+      "mapy": "376027961"
+    },
+    {
+      "title": "h315 현대백화점미아점",
+      "link": "https://catchtable.co.kr/h315_mia",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점미아점 2층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점미아점 2층",
+      "mapx": "1270286239",
+      "mapy": "376086875"
+    },
+    {
+      "title": "37.5 시그니처 미아점",
+      "link": "https://www.instagram.com/37.5signature_mia/?hl=ko",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1289-7 성진교회 B103호",
+      "roadAddress": "서울특별시 성북구 동소문로43가길 35 성진교회 B103호",
+      "mapx": "1270278915",
+      "mapy": "376080808"
+    },
+    {
+      "title": "매드포갈릭 현대미아점",
+      "link": "http://www.madforgarlic.com/",
+      "category": "양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점 미아점 9층 식당가",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점 미아점 9층 식당가",
+      "mapx": "1270285398",
+      "mapy": "376081721"
+    },
+    {
+      "title": "슬로미",
+      "link": "https://www.instagram.com/slome220930",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동3가 259-3 위더스빌",
+      "roadAddress": "서울특별시 성북구 동소문로32길 7-3 위더스빌",
+      "mapx": "1270219243",
+      "mapy": "375967198"
+    }
+  ]
+}

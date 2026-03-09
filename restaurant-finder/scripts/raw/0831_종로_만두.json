@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "잘빠진메밀 서순라길점",
+      "link": "https://smartstore.naver.com/jalppajin-mill",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 묘동 3-1 잘빠진메밀 서순라길점",
+      "roadAddress": "서울특별시 종로구 율곡로8길 73 잘빠진메밀 서순라길점",
+      "mapx": "1269915043",
+      "mapy": "375740448"
+    },
+    {
+      "title": "개성<b>만두</b> 궁",
+      "link": "http://www.koong.co.kr/",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 30-11",
+      "roadAddress": "서울특별시 종로구 인사동10길 11-3",
+      "mapx": "1269853889",
+      "mapy": "375742917"
+    },
+    {
+      "title": "청화 우육도삭면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
+      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "잘빠진메밀 을지로직영점",
+      "link": "https://www.instagram.com/jalppajin_hipjiro",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 75 1층",
+      "roadAddress": "서울특별시 중구 창경궁로5길 7 1층",
+      "mapx": "1269975838",
+      "mapy": "375671481"
+    },
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    }
+  ]
+}

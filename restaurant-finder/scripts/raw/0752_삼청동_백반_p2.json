@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꿀밥상",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 98-1 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
+      "mapx": "1269818749",
+      "mapy": "375844611"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
+      "title": "정독도서관 구내식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 2",
+      "roadAddress": "서울특별시 종로구 북촌로5길 48",
+      "mapx": "1269838671",
+      "mapy": "375811536"
+    },
+    {
+      "title": "삼지",
+      "link": "https://blog.naver.com/samgimoon1000",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
+      "mapx": "1269860086",
+      "mapy": "375782908"
+    },
+    {
+      "title": "순남시래기 <b>삼청동</b>점",
+      "link": "http://soonnam.com/",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 47 1층 순남시래기",
+      "roadAddress": "서울특별시 종로구 삼청로 110-3 1층 순남시래기",
+      "mapx": "1269822738",
+      "mapy": "375853038"
+    }
+  ]
+}

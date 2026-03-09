@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "또와생고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 166 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11가길 48 1층",
+      "mapx": "1269906518",
+      "mapy": "375747270"
+    },
+    {
+      "title": "미도<b>갈비</b>",
+      "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-13 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
+      "mapx": "1269861462",
+      "mapy": "375687918"
+    },
+    {
+      "title": "육미안 혜화점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yookmian",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 182-1 1층 육미안",
+      "roadAddress": "서울특별시 종로구 창경궁로 246-4 1층 육미안",
+      "mapx": "1269993945",
+      "mapy": "375832566"
+    },
+    {
+      "title": "삼안<b>갈비</b>촌",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 16-1 1층",
+      "roadAddress": "서울특별시 종로구 대명1길 7 1층",
+      "mapx": "1270010118",
+      "mapy": "375831396"
+    },
+    {
+      "title": "전설의우대<b>갈비</b> 서울시청직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    }
+  ]
+}

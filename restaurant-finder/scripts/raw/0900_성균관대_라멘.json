@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "키와마루아지 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 408-1 1층 키와마루아지",
+      "roadAddress": "경기도 수원시 장안구 서부로2105번길 26-3 1층 키와마루아지",
+      "mapx": "1269687029",
+      "mapy": "372969797"
+    },
+    {
+      "title": "면식당 수원<b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-121 2층",
+      "roadAddress": "경기도 수원시 장안구 서부로2106번길 18 2층",
+      "mapx": "1269714473",
+      "mapy": "372970067"
+    },
+    {
+      "title": "핵밥 수원<b>성균관대</b>점",
+      "link": "https://www.hecbob.com/",
+      "category": "음식점>일식>덮밥",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 285-8 3층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2128 3층",
+      "mapx": "1269718097",
+      "mapy": "372982790"
+    }
+  ]
+}

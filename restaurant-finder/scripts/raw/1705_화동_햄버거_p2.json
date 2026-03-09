@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
+    },
+    {
+      "title": "침스버거 안국",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-39 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
+      "mapx": "1269856859",
+      "mapy": "375780911"
+    },
+    {
+      "title": "니즈버거 안국점",
+      "link": "https://www.instagram.com/needs_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 1층 니즈버거",
+      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 1층 니즈버거",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "마디그라",
+      "link": "https://www.lumi.co.kr/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 18-10 B1F",
+      "roadAddress": "서울특별시 종로구 우정국로2길 29 B1F",
+      "mapx": "1269845903",
+      "mapy": "375696467"
+    },
+    {
+      "title": "버거옥 종로점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-24 1층~4층",
+      "roadAddress": "서울특별시 종로구 삼일대로 396 1층~4층",
+      "mapx": "1269879939",
+      "mapy": "375698705"
+    }
+  ]
+}

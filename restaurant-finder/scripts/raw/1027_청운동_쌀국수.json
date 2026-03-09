@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
+    },
+    {
+      "title": "냐항in안국",
+      "link": "https://www.instagram.com/nhahang_anguk",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 65-1 1층",
+      "roadAddress": "서울특별시 종로구 윤보선길 34-1 1층",
+      "mapx": "1269839227",
+      "mapy": "375776536"
+    },
+    {
+      "title": "알로이막막",
+      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 150-1 1,2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
+      "mapx": "1269705861",
+      "mapy": "375790359"
+    },
+    {
+      "title": "플러스84",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 106",
+      "roadAddress": "서울특별시 종로구 인사동16길 6",
+      "mapx": "1269841999",
+      "mapy": "375750122"
+    },
+    {
+      "title": "언껀",
+      "link": "https://www.instagram.com/ancan___",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 49 1층 언껀",
+      "roadAddress": "서울특별시 종로구 옥인2길 6 1층 언껀",
+      "mapx": "1269668977",
+      "mapy": "375808260"
+    }
+  ]
+}

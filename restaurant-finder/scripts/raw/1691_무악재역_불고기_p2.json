@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "강고집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 137-1 강고집",
+      "roadAddress": "서울특별시 서대문구 통일로36길 14 강고집",
+      "mapx": "1269467358",
+      "mapy": "375874994"
+    },
+    {
+      "title": "소풍 독립문역점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
+      "mapx": "1269649269",
+      "mapy": "375737152"
+    },
+    {
+      "title": "고미정 연희본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 79-3",
+      "roadAddress": "서울특별시 서대문구 연희로26길 28",
+      "mapx": "1269370736",
+      "mapy": "375727356"
+    },
+    {
+      "title": "명원숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-8",
+      "roadAddress": "서울특별시 종로구 통일로12길 8",
+      "mapx": "1269600719",
+      "mapy": "375732322"
+    }
+  ]
+}

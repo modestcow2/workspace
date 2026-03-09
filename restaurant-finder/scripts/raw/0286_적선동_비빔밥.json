@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "청담원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 33호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "인생소머리국밥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 지하1층104호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 지하1층104호",
+      "mapx": "1269736144",
+      "mapy": "375744582"
+    },
+    {
+      "title": "153구포국수 경복궁점",
+      "link": "",
+      "category": "음식점>한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 93-3 1층",
+      "roadAddress": "서울특별시 종로구 사직로 127-6 1층",
+      "mapx": "1269732078",
+      "mapy": "375760801"
+    }
+  ]
+}

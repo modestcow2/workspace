@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김수사 신세계백화점 본점",
+      "link": "https://www.instagram.com/kimsushi1986/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 52-5 14층",
+      "roadAddress": "서울특별시 중구 소공로 63 14층",
+      "mapx": "1269806031",
+      "mapy": "375600578"
+    },
+    {
+      "title": "그냥밥집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 129-2 1층",
+      "roadAddress": "서울특별시 중구 퇴계로12길 53 1층",
+      "mapx": "1269815500",
+      "mapy": "375573500"
+    },
+    {
+      "title": "진달래 시래기",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 121-1 1층",
+      "roadAddress": "서울특별시 중구 퇴계로12길 60 1층",
+      "mapx": "1269814616",
+      "mapy": "375570826"
+    },
+    {
+      "title": "스시화정",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwajeong",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 12-4",
+      "roadAddress": "서울특별시 중구 세종대로14길 29",
+      "mapx": "1269783335",
+      "mapy": "375629054"
+    },
+    {
+      "title": "대보정 서울시청역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    }
+  ]
+}

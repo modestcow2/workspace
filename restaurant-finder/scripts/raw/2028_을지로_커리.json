@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "까이9",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_kkai9",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-5",
+      "roadAddress": "서울특별시 중구 충무로5길 6",
+      "mapx": "1269924005",
+      "mapy": "375652206"
+    },
+    {
+      "title": "에베레스트레스토랑 동대문역사문화공원점",
+      "link": "http://www.everestfood.com",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-21 굿모닝시티 쇼핑몰 지하 3층",
+      "roadAddress": "서울특별시 중구 장충단로 247 굿모닝시티 쇼핑몰 지하 3층",
+      "mapx": "1270075316",
+      "mapy": "375669757"
+    },
+    {
+      "title": "나베식당",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 19-15 1층",
+      "roadAddress": "서울특별시 중구 충무로 43-1 1층",
+      "mapx": "1269926378",
+      "mapy": "375650632"
+    },
+    {
+      "title": "아소토베이<b>커리</b>",
+      "link": "https://www.instagram.com/asotobakery",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 156-9 1층",
+      "roadAddress": "서울특별시 중구 수표로10길 19 1층",
+      "mapx": "1269914336",
+      "mapy": "375637160"
+    },
+    {
+      "title": "지지타운",
+      "link": "https://catchtable.co.kr/ggtown",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 349-1 3층",
+      "roadAddress": "서울특별시 중구 수표로 52 3층",
+      "mapx": "1269899946",
+      "mapy": "375657753"
+    }
+  ]
+}

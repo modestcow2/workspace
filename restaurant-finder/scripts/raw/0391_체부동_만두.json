@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>체부동</b>잔치집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 190",
+      "roadAddress": "서울특별시 종로구 자하문로1길 16",
+      "mapx": "1269715263",
+      "mapy": "375765394"
+    },
+    {
+      "title": "차이치",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 26 1층, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 9 1층, 2층",
+      "mapx": "1269710466",
+      "mapy": "375782778"
+    },
+    {
+      "title": "명작신의주찹쌀순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "토방칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
+    },
+    {
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    }
+  ]
+}

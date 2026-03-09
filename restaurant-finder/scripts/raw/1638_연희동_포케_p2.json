@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "Poke all day <b>포케</b>&amp;샐러드 연희점",
+      "link": "https://pokeallday.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-51 2층 왼편",
+      "roadAddress": "서울특별시 서대문구 연희맛로 33 2층 왼편",
+      "mapx": "1269305956",
+      "mapy": "375680085"
+    },
+    {
+      "title": "샐러디아&amp;더볶이 연희점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "음식점>도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-1 1층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 26 1층",
+      "mapx": "1269302871",
+      "mapy": "375670969"
+    },
+    {
+      "title": "그린보이즈 샐러드&amp;<b>포케</b> 신촌직영점",
+      "link": "https://www.instagram.com/greenboyz.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-55 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 38 1층",
+      "mapx": "1269387436",
+      "mapy": "375583730"
+    },
+    {
+      "title": "커스텀샐러드 연남본점",
+      "link": "http://www.customsalad.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-59 1층",
+      "roadAddress": "서울특별시 마포구 동교로38길 19 1층",
+      "mapx": "1269254424",
+      "mapy": "375620354"
+    },
+    {
+      "title": "그리너 연남본점",
+      "link": "http://greener.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 240-22 1층 그리너",
+      "roadAddress": "서울특별시 마포구 성미산로 157 1층 그리너",
+      "mapx": "1269236753",
+      "mapy": "375646163"
+    }
+  ]
+}

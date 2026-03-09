@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "동경우동",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 150-8",
+      "roadAddress": "서울특별시 종로구 새문안로9길 28",
+      "mapx": "1269756810",
+      "mapy": "375713832"
+    },
+    {
+      "title": "꼬소한부뚜막 광화문광장점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 150-1 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
+      "mapx": "1269756633",
+      "mapy": "375715135"
+    },
+    {
+      "title": "시카노이에",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-104 신문로하우스 101호",
+      "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
+      "mapx": "1269692608",
+      "mapy": "375725079"
+    },
+    {
+      "title": "무무돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 오피시아빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 92 오피시아빌딩 지하1층",
+      "mapx": "1269749175",
+      "mapy": "375697377"
+    }
+  ]
+}

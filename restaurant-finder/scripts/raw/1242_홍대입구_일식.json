@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "테즈쿠리 <b>홍대</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tezkuri",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 355-5 홍대가자2 빌딩 2층",
+      "roadAddress": "서울특별시 마포구 홍익로5안길 32 홍대가자2 빌딩 2층",
+      "mapx": "1269211783",
+      "mapy": "375534765"
+    },
+    {
+      "title": "카츠몬스터 연남본점",
+      "link": "https://www.instagram.com/katsumon.ynd",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-18 1층 101호 카츠몬스터 연남본점",
+      "roadAddress": "서울특별시 마포구 동교로38길 42-6 1층 101호 카츠몬스터 연남본점",
+      "mapx": "1269255679",
+      "mapy": "375610304"
+    },
+    {
+      "title": "하카타나카",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 346-36 2F",
+      "roadAddress": "서울특별시 마포구 와우산로23길 50 2F",
+      "mapx": "1269236732",
+      "mapy": "375550450"
+    },
+    {
+      "title": "치히로 <b>홍대</b>점",
+      "link": "https://www.instagram.com/chihiro_hongdae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 331-5 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29바길 12-4 1층",
+      "mapx": "1269258985",
+      "mapy": "375559893"
+    },
+    {
+      "title": "쿠히치 연남",
+      "link": "https://app.catchtable.co.kr/ct/shop/kuhichi_yeonnam",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-97",
+      "roadAddress": "서울특별시 마포구 동교로46길 42-22",
+      "mapx": "1269264627",
+      "mapy": "375617864"
+    }
+  ]
+}

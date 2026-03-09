@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연희일공사<b>국밥</b> 찐심",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 77-1 가운데호",
+      "roadAddress": "서울특별시 서대문구 연희로 195 가운데호",
+      "mapx": "1269352803",
+      "mapy": "375744165"
+    },
+    {
+      "title": "대성집",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-35",
+      "roadAddress": "서울특별시 종로구 사직로 5",
+      "mapx": "1269608828",
+      "mapy": "375727012"
+    },
+    {
+      "title": "석교식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 331",
+      "roadAddress": "서울특별시 서대문구 통일로 185",
+      "mapx": "1269622884",
+      "mapy": "375700014"
+    },
+    {
+      "title": "보승회관 홍제역점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 326-12",
+      "roadAddress": "서울특별시 서대문구 통일로 475",
+      "mapx": "1269420107",
+      "mapy": "375904180"
+    },
+    {
+      "title": "왕봉24시해장국",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 295-25",
+      "roadAddress": "서울특별시 서대문구 인왕시장길 46",
+      "mapx": "1269444222",
+      "mapy": "375915652"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정성채 미아사거리점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 489-42 1층",
+      "roadAddress": "서울특별시 성북구 도봉로3길 9-7 1층",
+      "mapx": "1270296062",
+      "mapy": "376101683"
+    },
+    {
+      "title": "갈비명가이상 길음신관",
+      "link": "https://smartstore.naver.com/esang1982",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 221",
+      "roadAddress": "서울특별시 성북구 정릉로 395",
+      "mapx": "1270256874",
+      "mapy": "376039071"
+    },
+    {
+      "title": "갈비명가이상 돈암본관",
+      "link": "https://www.instagram.com/esang1982",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 12-8",
+      "roadAddress": "서울특별시 성북구 정릉로 364",
+      "mapx": "1270236114",
+      "mapy": "376015310"
+    },
+    {
+      "title": "지호한방삼계탕 미아점",
+      "link": "https://jihofood.co.kr",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 165",
+      "roadAddress": "서울특별시 성북구 월계로 14",
+      "mapx": "1270318991",
+      "mapy": "376095455"
+    },
+    {
+      "title": "국수천왕 종암점",
+      "link": "https://www.instagram.com/king.of.noodles",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 86-1",
+      "roadAddress": "서울특별시 성북구 종암로 113",
+      "mapx": "1270336822",
+      "mapy": "376002464"
+    }
+  ]
+}

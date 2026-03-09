@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "목멱산방 남산타워점",
+      "link": "http://instagram.com/m_horaeng",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 산5-6",
+      "roadAddress": "서울특별시 중구 남산공원길 627",
+      "mapx": "1269853285",
+      "mapy": "375553582"
+    },
+    {
+      "title": "목멱산방",
+      "link": "https://mmmroom.co.kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
+      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
+      "mapx": "1269869447",
+      "mapy": "375581107"
+    },
+    {
+      "title": "고우가 광화문점",
+      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "<b>명동</b>정",
+      "link": "http://www.hanjeongsik.co.kr",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 60-3 이화빌딩 1층",
+      "roadAddress": "서울특별시 중구 삼일대로 299 이화빌딩 1층",
+      "mapx": "1269883506",
+      "mapy": "375613152"
+    }
+  ]
+}

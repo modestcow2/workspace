@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "토속칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 435-4",
+      "roadAddress": "서울특별시 종로구 평창길 345",
+      "mapx": "1269785985",
+      "mapy": "376119226"
+    },
+    {
+      "title": "<b>평창동</b> 칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 595 갑을시티텔 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 19 갑을시티텔 1층",
+      "mapx": "1269638071",
+      "mapy": "376045867"
+    },
+    {
+      "title": "토속<b>만두</b>국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 435-4 1층",
+      "roadAddress": "서울특별시 종로구 평창길 345 1층",
+      "mapx": "1269785757",
+      "mapy": "376118991"
+    },
+    {
+      "title": "자하손<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/jahasonmandoo",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 245-2",
+      "roadAddress": "서울특별시 종로구 백석동길 12",
+      "mapx": "1269660928",
+      "mapy": "375932163"
+    },
+    {
+      "title": "성북동면옥집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 330-105",
+      "roadAddress": "서울특별시 성북구 대사관로 40",
+      "mapx": "1269886323",
+      "mapy": "375959190"
+    }
+  ]
+}

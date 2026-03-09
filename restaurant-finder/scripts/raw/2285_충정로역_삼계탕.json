@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "예신라<b>삼계탕</b> 서소문점",
+      "link": "https://blog.naver.com/msks1975",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 355 브라운스톤 107-1호 예신라삼계탕 서소문점",
+      "roadAddress": "서울특별시 중구 청파로 464 브라운스톤 107-1호 예신라삼계탕 서소문점",
+      "mapx": "1269679680",
+      "mapy": "375611675"
+    },
+    {
+      "title": "오가 <b>삼계탕</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 476 구세군빌딩 지하 2층",
+      "roadAddress": "서울특별시 서대문구 충정로 7 구세군빌딩 지하 2층",
+      "mapx": "1269622691",
+      "mapy": "375601211"
+    },
+    {
+      "title": "예 신라<b>삼계탕</b> 본점",
+      "link": "https://blog.naver.com/msks1975",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 더샾 201호 2F",
+      "roadAddress": "서울특별시 중구 칠패로 27 더샾 201호 2F",
+      "mapx": "1269721284",
+      "mapy": "375602598"
+    },
+    {
+      "title": "한방장수<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 167 로얄빌딩",
+      "roadAddress": "서울특별시 서대문구 통일로 111 로얄빌딩",
+      "mapx": "1269672780",
+      "mapy": "375648270"
+    },
+    {
+      "title": "한촌설렁탕 서대문역점",
+      "link": "http://hanchonsdm.cityfood.co.kr/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 108호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 108호",
+      "mapx": "1269699345",
+      "mapy": "375636895"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더솔키친",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 21 1층 더솔키친",
+      "roadAddress": "서울특별시 종로구 자하문로2길 16 1층 더솔키친",
+      "mapx": "1269735369",
+      "mapy": "375764552"
+    },
+    {
+      "title": "미카야",
+      "link": "https://www.instagram.com/mikayatable_",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 적선현대빌딩",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대빌딩",
+      "mapx": "1269733152",
+      "mapy": "375753857"
+    },
+    {
+      "title": "소박한집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 지하1층 124호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 지하1층 124호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "일만",
+      "link": "",
+      "category": "음식점>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28",
+      "mapx": "1269735150",
+      "mapy": "375744339"
+    },
+    {
+      "title": "정원레스토랑 어반가든",
+      "link": "http://urbangarden.co.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 28-2",
+      "roadAddress": "서울특별시 중구 정동길 12-15",
+      "mapx": "1269692254",
+      "mapy": "375674386"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "혜화동버거",
+      "link": "https://catchtable.co.kr/hyehwadong_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-63 1층 혜화동버거",
+      "roadAddress": "서울특별시 종로구 동숭3길 6-4 1층 혜화동버거",
+      "mapx": "1270047525",
+      "mapy": "375811462"
+    },
+    {
+      "title": "버거파크 혜화점",
+      "link": "https://www.instagram.com/burgerpark.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 101-2 1층 버거파크",
+      "roadAddress": "서울특별시 종로구 대학로11길 5 1층 버거파크",
+      "mapx": "1270013798",
+      "mapy": "375821694"
+    },
+    {
+      "title": "슬램버거 <b>대학로</b>점",
+      "link": "https://www.slamburger.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-60 1층",
+      "roadAddress": "서울특별시 종로구 대학로10길 5 1층",
+      "mapx": "1270025840",
+      "mapy": "375818146"
+    },
+    {
+      "title": "스모크 트레인 혜화본점",
+      "link": "https://www.instagram.com/smoketrain.b.b.q",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 21-9 1층 스모크트레인",
+      "roadAddress": "서울특별시 종로구 창경궁로34길 18-5 1층 스모크트레인",
+      "mapx": "1270006536",
+      "mapy": "375840978"
+    },
+    {
+      "title": "맥도날드 <b>대학로</b>점",
+      "link": "https://www.mcdonalds.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-34 맥도널드",
+      "roadAddress": "서울특별시 종로구 대학로 130 맥도널드",
+      "mapx": "1270021009",
+      "mapy": "375828885"
+    }
+  ]
+}

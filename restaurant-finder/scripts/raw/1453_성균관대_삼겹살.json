@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "진짜좋은고기 성대점",
+      "link": "https://catchtable.co.kr/verygoodmeat",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 293 1층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 25 1층",
+      "mapx": "1269707535",
+      "mapy": "372986578"
+    },
+    {
+      "title": "기똥찬고기",
+      "link": "https://instagram.com/wpooq_21w?igshid=1n4g9p2cctyp",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 292-8 기똥찬고기",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 16 기똥찬고기",
+      "mapx": "1269703589",
+      "mapy": "372983679"
+    },
+    {
+      "title": "쌈장 성대점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 402-2 2층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 35 2층",
+      "mapx": "1269706469",
+      "mapy": "372981294"
+    },
+    {
+      "title": "미진축산 수원성대점",
+      "link": "https://mijin2900.com",
+      "category": "음식점>한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 294-4 1층",
+      "roadAddress": "경기도 수원시 장안구 율전로108번길 23 1층",
+      "mapx": "1269705711",
+      "mapy": "372989165"
+    },
+    {
+      "title": "고기극찬 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 325-40 1층 101호",
+      "roadAddress": "경기도 수원시 장안구 정자천로13번길 45 1층 101호",
+      "mapx": "1269783409",
+      "mapy": "372907899"
+    }
+  ]
+}

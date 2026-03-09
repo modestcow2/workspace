@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "온점 을지로점",
+      "link": "https://www.instagram.com/onjeom.seoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 87 지1층",
+      "roadAddress": "서울특별시 중구 을지로 29 지1층",
+      "mapx": "1269810422",
+      "mapy": "375664910"
+    },
+    {
+      "title": "목멱산방",
+      "link": "https://mmmroom.co.kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
+      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
+      "mapx": "1269869447",
+      "mapy": "375581107"
+    },
+    {
+      "title": "서울한우 남대문점",
+      "link": "https://blog.naver.com/seoulhanwoo",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 199-6 2층 서울한우 남대문",
+      "roadAddress": "서울특별시 중구 남대문시장길 61 2층 서울한우 남대문",
+      "mapx": "1269794428",
+      "mapy": "375606907"
+    },
+    {
+      "title": "태진옥",
+      "link": "https://www.instagram.com/taejinoak_official/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 31-19 2층",
+      "roadAddress": "서울특별시 중구 무교로 17-25 2층",
+      "mapx": "1269785584",
+      "mapy": "375674370"
+    },
+    {
+      "title": "백옥 <b>명동</b>",
+      "link": "https://www.instagram.com/baekok.official",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 54-18 지하1층, 1층",
+      "roadAddress": "서울특별시 중구 명동8길 8-23 지하1층, 1층",
+      "mapx": "1269839841",
+      "mapy": "375628872"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "산천마루",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 48-149",
+      "roadAddress": "서울특별시 서대문구 세검정로1길 21",
+      "mapx": "1269428649",
+      "mapy": "375925590"
+    },
+    {
+      "title": "토속촌 <b>삼계탕</b>",
+      "link": "http://www.tosokchon.co.kr/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 85-1 토속촌",
+      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
+      "mapx": "1269716148",
+      "mapy": "375776587"
+    },
+    {
+      "title": "머슴과 마님 홍제점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 474 해리턴플레이스아파트 상가 1층",
+      "roadAddress": "서울특별시 서대문구 세무서8길 30 해리턴플레이스아파트 상가 1층",
+      "mapx": "1269469543",
+      "mapy": "375908003"
+    },
+    {
+      "title": "유진감자탕",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-12",
+      "roadAddress": "서울특별시 서대문구 통일로 442-5",
+      "mapx": "1269448356",
+      "mapy": "375887902"
+    },
+    {
+      "title": "유진식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 300-6 1층",
+      "roadAddress": "서울특별시 서대문구 통일로40안길 6 1층",
+      "mapx": "1269437575",
+      "mapy": "375904376"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영광통닭",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 94 영광통닭",
+      "roadAddress": "서울특별시 종로구 필운대로 55-1 영광통닭",
+      "mapx": "1269684170",
+      "mapy": "375810589"
+    },
+    {
+      "title": "서촌주점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 31 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 59 1층",
+      "mapx": "1269692323",
+      "mapy": "375799084"
+    },
+    {
+      "title": "영광통닭 2호점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 110 1, 2층",
+      "roadAddress": "서울특별시 종로구 필운대로 53-26 1, 2층",
+      "mapx": "1269681573",
+      "mapy": "375807835"
+    },
+    {
+      "title": "누하의 숲",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 175-2 1F",
+      "roadAddress": "서울특별시 종로구 필운대로 31-1 1F",
+      "mapx": "1269687592",
+      "mapy": "375787996"
+    },
+    {
+      "title": "공기식당",
+      "link": "",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 46-5 1층",
+      "roadAddress": "서울특별시 종로구 필운대로6길 20-1 1층",
+      "mapx": "1269695266",
+      "mapy": "375803365"
+    }
+  ]
+}

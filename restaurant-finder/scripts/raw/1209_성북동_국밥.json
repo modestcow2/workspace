@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옛살비전주콩나물<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동4가 32",
+      "roadAddress": "서울특별시 성북구 동소문로 31-36",
+      "mapx": "1270094446",
+      "mapy": "375902687"
+    },
+    {
+      "title": "마전터",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 124-3 마전터",
+      "roadAddress": "서울특별시 성북구 혜화로 82-2 마전터",
+      "mapx": "1269986750",
+      "mapy": "375926570"
+    },
+    {
+      "title": "<b>성북동</b>구포국수",
+      "link": "",
+      "category": "음식점>한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 170-46",
+      "roadAddress": "서울특별시 성북구 성북로12길 2",
+      "mapx": "1270026753",
+      "mapy": "375926750"
+    },
+    {
+      "title": "고석환손만두전골",
+      "link": "https://blog.naver.com/gsh6082",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 138 우리빌딩 1층",
+      "roadAddress": "서울특별시 성북구 성북로2길 55 우리빌딩 1층",
+      "mapx": "1270085954",
+      "mapy": "375901111"
+    },
+    {
+      "title": "참이맛감자탕 삼선교점",
+      "link": "http://www.chamimat.co.kr",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 42-2",
+      "roadAddress": "서울특별시 성북구 성북로5길 2",
+      "mapx": "1270048240",
+      "mapy": "375893190"
+    }
+  ]
+}

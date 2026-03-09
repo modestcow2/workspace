@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "독도16도",
+      "link": "https://app.catchtable.co.kr/ct/shop/dokdo.16.celsius",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 56-1 3층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 2 3층",
+      "mapx": "1269685771",
+      "mapy": "375794702"
+    },
+    {
+      "title": "밥+",
+      "link": "https://www.instagram.com/seochon_bob_plus",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 77-15",
+      "roadAddress": "서울특별시 종로구 옥인길 9",
+      "mapx": "1269680075",
+      "mapy": "375804706"
+    },
+    {
+      "title": "효자동밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층",
+      "mapx": "1269710519",
+      "mapy": "375816457"
+    },
+    {
+      "title": "가진화랑",
+      "link": "",
+      "category": "문화,예술>갤러리,화랑",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 58",
+      "roadAddress": "서울특별시 종로구 자하문로 74",
+      "mapx": "1269708940",
+      "mapy": "375825459"
+    },
+    {
+      "title": "국수돈가",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 60-3",
+      "roadAddress": "서울특별시 종로구 자하문로 74-1",
+      "mapx": "1269708581",
+      "mapy": "375826499"
+    }
+  ]
+}

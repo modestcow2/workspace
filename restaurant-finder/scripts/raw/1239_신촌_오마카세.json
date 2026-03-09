@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "산토스틸라",
+      "link": "https://www.instagram.com/santo__stilla/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 188-19 1층",
+      "roadAddress": "서울특별시 마포구 와우산로38길 28 1층",
+      "mapx": "1269320829",
+      "mapy": "375549115"
+    },
+    {
+      "title": "먼동",
+      "link": "https://catchtable.co.kr/meondong",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 19-52 2층",
+      "roadAddress": "서울특별시 마포구 백범로1길 60 2층",
+      "mapx": "1269399018",
+      "mapy": "375554391"
+    },
+    {
+      "title": "여우골초밥 <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-11",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
+      "mapx": "1269349900",
+      "mapy": "375564975"
+    },
+    {
+      "title": "<b>오마카세</b> 오사이초밥 <b>신촌</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sinchon?from=share&type=DINING",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-25 4층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 10 4층",
+      "mapx": "1269357319",
+      "mapy": "375570347"
+    },
+    {
+      "title": "오늘은",
+      "link": "http://www.instagram.com/today365sushi",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 325-5 1층",
+      "roadAddress": "서울특별시 마포구 와우산로 162-10 1층",
+      "mapx": "1269310600",
+      "mapy": "375550503"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "문숙이미나리식당 <b>홍대</b>본점",
+      "link": "https://www.instagram.com/minari_hongdae",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 366-14 1층",
+      "roadAddress": "서울특별시 마포구 잔다리로6길 34-5 1층",
+      "mapx": "1269211336",
+      "mapy": "375520720"
+    },
+    {
+      "title": "광계",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-72 1.5층",
+      "roadAddress": "서울특별시 마포구 연희로1길 55 1.5층",
+      "mapx": "1269262559",
+      "mapy": "375613264"
+    },
+    {
+      "title": "그녀의밥상",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 358-68 지하 그녀의밥상",
+      "roadAddress": "서울특별시 마포구 와우산로21길 36-4 지하 그녀의밥상",
+      "mapx": "1269220123",
+      "mapy": "375525531"
+    },
+    {
+      "title": "향미",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 358-95",
+      "roadAddress": "서울특별시 마포구 홍익로 3-24",
+      "mapx": "1269233480",
+      "mapy": "375529150"
+    },
+    {
+      "title": "봉림대패 <b>홍대</b>점",
+      "link": "https://www.instagram.com/bongrim_official/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 169-22 1층",
+      "roadAddress": "서울특별시 마포구 양화로18안길 22 1층",
+      "mapx": "1269257702",
+      "mapy": "375568517"
+    }
+  ]
+}

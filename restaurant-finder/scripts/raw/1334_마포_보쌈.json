@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "각시<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 372-27 보광빌딩",
+      "roadAddress": "서울특별시 마포구 성지길 25 보광빌딩",
+      "mapx": "1269133940",
+      "mapy": "375475100"
+    },
+    {
+      "title": "조개우물<b>보쌈</b>&amp;칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 396-46 1층",
+      "roadAddress": "서울특별시 마포구 독막로3길 30 1층",
+      "mapx": "1269172968",
+      "mapy": "375495758"
+    },
+    {
+      "title": "영광<b>보쌈</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 256-20",
+      "roadAddress": "서울특별시 마포구 만리재로1길 14",
+      "mapx": "1269529632",
+      "mapy": "375453460"
+    },
+    {
+      "title": "락희옥 <b>마포</b>본점",
+      "link": "https://blog.naver.com/lakhee1",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 478 공덕더샵아파트 101동 1층 1호",
+      "roadAddress": "서울특별시 마포구 백범로 170 공덕더샵아파트 101동 1층 1호",
+      "mapx": "1269494971",
+      "mapy": "375443604"
+    },
+    {
+      "title": "더기와 합정점",
+      "link": "https://litt.ly/thegiwa_hapjeong",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 395-30 1층",
+      "roadAddress": "서울특별시 마포구 독막로3길 25 1층",
+      "mapx": "1269169059",
+      "mapy": "375495714"
+    }
+  ]
+}

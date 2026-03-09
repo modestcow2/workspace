@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포가레 <b>신촌</b>점",
+      "link": "https://blog.naver.com/wp3998",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-9 2층",
+      "roadAddress": "서울특별시 서대문구 명물길 26 2층",
+      "mapx": "1269382733",
+      "mapy": "375578868"
+    },
+    {
+      "title": "퐁타이 <b>신촌</b>본점",
+      "link": "https://www.instagram.com/pongthaii",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 107-17 2층",
+      "roadAddress": "서울특별시 마포구 백범로 8 2층",
+      "mapx": "1269367693",
+      "mapy": "375538783"
+    },
+    {
+      "title": "방콕익스프레스 <b>신촌</b>본점",
+      "link": "http://www.bangkokexp.com/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-25 백송빌딩 1층 방콕익스프레스",
+      "roadAddress": "서울특별시 서대문구 연세로2길 91 백송빌딩 1층 방콕익스프레스",
+      "mapx": "1269418841",
+      "mapy": "375571725"
+    },
+    {
+      "title": "옛날<b>쌀국수</b> PHO XUA",
+      "link": "https://www.facebook.com/phoxuahanquoc/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-64 1, 2층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 45 1, 2층",
+      "mapx": "1269390020",
+      "mapy": "375581427"
+    },
+    {
+      "title": "미분당 <b>신촌</b>본점",
+      "link": "http://www.mifendang.com",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-9 1층 미분당 신촌본점",
+      "roadAddress": "서울특별시 서대문구 연세로5길 26-7 1층 미분당 신촌본점",
+      "mapx": "1269352400",
+      "mapy": "375566877"
+    }
+  ]
+}

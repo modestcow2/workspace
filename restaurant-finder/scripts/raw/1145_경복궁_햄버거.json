@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만가타",
+      "link": "https://m.booking.naver.com/booking/6/bizes/289593",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 88-17",
+      "roadAddress": "서울특별시 종로구 삼청로2길 40-5",
+      "mapx": "1269809666",
+      "mapy": "375801885"
+    },
+    {
+      "title": "퀴진 라끌레",
+      "link": "https://app.catchtable.co.kr/ct/shop/cuisine_lacle",
+      "category": "음식점>프랑스음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 135-2 1층 퀴진 라끌레",
+      "roadAddress": "서울특별시 종로구 자하문로7길 36 1층 퀴진 라끌레",
+      "mapx": "1269702487",
+      "mapy": "375792002"
+    },
+    {
+      "title": "미트볼라운지 X 아날로그키친 삼청점",
+      "link": "https://app.catchtable.co.kr/ct/shop/meatball_lounge_sj",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 팔판동 27-5 미트볼라운지x아날로그키친 삼청점",
+      "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
+      "mapx": "1269816796",
+      "mapy": "375833417"
+    },
+    {
+      "title": "버거드조선",
+      "link": "http://www.instagram.com/burger_de_joseon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 147 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
+      "mapx": "1269704616",
+      "mapy": "375755982"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    }
+  ]
+}

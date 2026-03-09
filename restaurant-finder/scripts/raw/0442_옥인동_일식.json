@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "모아늑",
+      "link": "https://www.instagram.com/mo_aneuk?igsh=c3F4YXR1NHZpcGJ5&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층1호(계단 옆 울타리문)",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층1호(계단 옆 울타리문)",
+      "mapx": "1269711126",
+      "mapy": "375816125"
+    },
+    {
+      "title": "우리집",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 102-7",
+      "roadAddress": "서울특별시 종로구 옥인길 4",
+      "mapx": "1269682800",
+      "mapy": "375806128"
+    },
+    {
+      "title": "도토리브라더스 광화문본점",
+      "link": "http://www.instagram.com/dotori_brothers",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-248 1층 도토리브라더스",
+      "roadAddress": "서울특별시 종로구 경희궁길 41 1층 도토리브라더스",
+      "mapx": "1269692709",
+      "mapy": "375729254"
+    },
+    {
+      "title": "야마야 광화문 디타워점",
+      "link": "https://store.kakao.com/yamaya/products/688567667",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 (청진동) 광화문 D타워 4층",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "시카노이에",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-104 신문로하우스 101호",
+      "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
+      "mapx": "1269692608",
+      "mapy": "375725079"
+    }
+  ]
+}

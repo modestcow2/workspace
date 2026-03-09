@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더코너키친",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 150-5 행운빌딩",
+      "roadAddress": "서울특별시 종로구 평창문화로 98 행운빌딩",
+      "mapx": "1269719474",
+      "mapy": "376071574"
+    },
+    {
+      "title": "모뜨",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 98 3층 까페 모뜨",
+      "roadAddress": "서울특별시 종로구 평창30길 24 3층 까페 모뜨",
+      "mapx": "1269751103",
+      "mapy": "376116932"
+    },
+    {
+      "title": "오렌지나무",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 88-49 2층",
+      "roadAddress": "서울특별시 종로구 진흥로 455 2층",
+      "mapx": "1269589069",
+      "mapy": "376071729"
+    },
+    {
+      "title": "한상훈 셰프",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/sanho_gn",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 66-50 동화킴스관광호텔 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 136 동화킴스관광호텔 1층",
+      "mapx": "1269751768",
+      "mapy": "376094995"
+    },
+    {
+      "title": "스위스",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 435-2",
+      "roadAddress": "서울특별시 종로구 평창길 349",
+      "mapx": "1269786753",
+      "mapy": "376116754"
+    }
+  ]
+}

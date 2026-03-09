@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도토리가든 안국점",
+      "link": "https://www.instagram.com/dotori__seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-45 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
+      "mapx": "1269862903",
+      "mapy": "375780996"
+    },
+    {
+      "title": "땡스오트 안국",
+      "link": "https://www.thanksoat.co.kr/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 36-2 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-10 1층",
+      "mapx": "1269846561",
+      "mapy": "375787585"
+    },
+    {
+      "title": "애쉬빌 베이커리 카페",
+      "link": "https://www.instagram.com/ashville_bakery/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 28 유니온빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 5-5 유니온빌딩 지하1층",
+      "mapx": "1269846562",
+      "mapy": "375790291"
+    },
+    {
+      "title": "북촌원카페",
+      "link": "https://www.instagram.com/nostalgia_onecafe",
+      "category": "서비스,산업>기업",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 55-2 북촌원카페",
+      "roadAddress": "서울특별시 종로구 북촌로11길 9-4 북촌원카페",
+      "mapx": "1269843329",
+      "mapy": "375815218"
+    },
+    {
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
+    }
+  ]
+}

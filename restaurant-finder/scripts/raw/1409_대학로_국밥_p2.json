@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고은정 <b>대학로</b>본점",
+      "link": "https://blog.naver.com/koeunjung_hh",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 188-14 A&A타워 1층 102호",
+      "roadAddress": "서울특별시 종로구 창경궁로 240-7 A&A타워 1층 102호",
+      "mapx": "1269989806",
+      "mapy": "375824691"
+    },
+    {
+      "title": "순대실록 <b>대학로</b>본점",
+      "link": "https://www.instagram.com/sundaesilrok/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-44 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 113 1층",
+      "mapx": "1270036997",
+      "mapy": "375829946"
+    },
+    {
+      "title": "육전<b>국밥</b> <b>대학로</b>점",
+      "link": "https://yukjeonuniv.jalib.site/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-43 3층",
+      "roadAddress": "서울특별시 종로구 동숭길 117 3층",
+      "mapx": "1270035713",
+      "mapy": "375831723"
+    },
+    {
+      "title": "삼삼뼈국 <b>대학로</b>점",
+      "link": "https://33soup.co.kr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 27 1층",
+      "roadAddress": "서울특별시 종로구 대학로 129-10 1층",
+      "mapx": "1270012023",
+      "mapy": "375828374"
+    },
+    {
+      "title": "제로밥상 혜화점",
+      "link": "https://www.instagram.com/zeroperfectmeal_hyehwa/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 50-44 1층 제로밥상 혜화점",
+      "roadAddress": "서울특별시 종로구 동숭길 74 1층 제로밥상 혜화점",
+      "mapx": "1270042652",
+      "mapy": "375815580"
+    }
+  ]
+}

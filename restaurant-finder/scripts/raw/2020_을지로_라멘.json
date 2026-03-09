@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "멘츠루 <b>을지로</b>점",
+      "link": "https://www.instagram.com/menchuru_euljiro/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 158-6 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 26 1층",
+      "mapx": "1269916547",
+      "mapy": "375634193"
+    },
+    {
+      "title": "콘부",
+      "link": "https://app.catchtable.co.kr/ct/shop/konbu_uljiro",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 7-6 1층 콘부",
+      "roadAddress": "서울특별시 중구 수표로 42-19 1층 콘부",
+      "mapx": "1269903413",
+      "mapy": "375650851"
+    },
+    {
+      "title": "을.지로점심 우츄진<b>라멘</b>",
+      "link": "https://wuchuujin.odw.co.kr/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 산림동 207-2 대림상가(세운대림상가) 3층 라열 375호 우츄진",
+      "roadAddress": "서울특별시 중구 을지로 157 대림상가(세운대림상가) 3층 라열 375호 우츄진",
+      "mapx": "1269955170",
+      "mapy": "375668693"
+    },
+    {
+      "title": "간빠진새 <b>을지로</b>3가점",
+      "link": "https://ganmaek.com/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 19-9 101호",
+      "roadAddress": "서울특별시 중구 을지로14길 27 101호",
+      "mapx": "1269922757",
+      "mapy": "375650440"
+    },
+    {
+      "title": "지지타운",
+      "link": "https://catchtable.co.kr/ggtown",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 349-1 3층",
+      "roadAddress": "서울특별시 중구 수표로 52 3층",
+      "mapx": "1269899946",
+      "mapy": "375657753"
+    }
+  ]
+}

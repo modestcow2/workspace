@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
+    },
+    {
+      "title": "일월카츠 안국점",
+      "link": "https://www.instagram.com/ill_wall_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 132 1층",
+      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
+      "mapx": "1269851501",
+      "mapy": "375773083"
+    },
+    {
+      "title": "일월카츠 계동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ilwolkatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 1층 일월카츠",
+      "roadAddress": "서울특별시 종로구 계동길 17 1층 일월카츠",
+      "mapx": "1269865352",
+      "mapy": "375781458"
+    },
+    {
+      "title": "인디아쉐프",
+      "link": "https://www.instagram.com/indiachef_insadong",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-36 2층",
+      "roadAddress": "서울특별시 종로구 인사동5길 20 2층",
+      "mapx": "1269852435",
+      "mapy": "375727026"
+    },
+    {
+      "title": "니르바나",
+      "link": "http://nirvanaseoul.com",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 120 2층",
+      "roadAddress": "서울특별시 종로구 인사동길 58 2층",
+      "mapx": "1269837847",
+      "mapy": "375751361"
+    }
+  ]
+}

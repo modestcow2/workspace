@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광화문<b>국밥</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    },
+    {
+      "title": "청송옥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 52-1",
+      "roadAddress": "서울특별시 중구 서소문로11길 14",
+      "mapx": "1269730425",
+      "mapy": "375634668"
+    },
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
+    },
+    {
+      "title": "태평순대 광화문본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 76-1 1층 태평순대 광화문본점",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
+      "mapx": "1269760122",
+      "mapy": "375690306"
+    },
+    {
+      "title": "정든다락",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 367-1 현진빌딩 2층",
+      "roadAddress": "서울특별시 중구 덕수궁길 9 현진빌딩 2층",
+      "mapx": "1269762131",
+      "mapy": "375648101"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "순대실록 대학로본점",
+      "link": "https://www.instagram.com/sundaesilrok/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-44 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 113 1층",
+      "mapx": "1270036997",
+      "mapy": "375829946"
+    },
+    {
+      "title": "똥고집 혜화본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-139 한양빌딩 2층 똥고집",
+      "roadAddress": "서울특별시 종로구 대학로12길 92 한양빌딩 2층 똥고집",
+      "mapx": "1270037124",
+      "mapy": "375800757"
+    },
+    {
+      "title": "육전국밥 대학로점",
+      "link": "https://yukjeonuniv.jalib.site/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-43 3층",
+      "roadAddress": "서울특별시 종로구 동숭길 117 3층",
+      "mapx": "1270035713",
+      "mapy": "375831723"
+    },
+    {
+      "title": "두두",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-91 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 63 2층",
+      "mapx": "1270041381",
+      "mapy": "375810119"
+    },
+    {
+      "title": "청년밥상문간 슬로우점",
+      "link": "https://youtube.com/@youthmungan",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 25-7 지하1층",
+      "roadAddress": "서울특별시 종로구 동숭3길 33 지하1층",
+      "mapx": "1270045219",
+      "mapy": "375826345"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고다",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "방일해장국 정동점",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 51-6 동양빌딩",
+      "roadAddress": "서울특별시 중구 새문안로 32 동양빌딩",
+      "mapx": "1269691375",
+      "mapy": "375679583"
+    },
+    {
+      "title": "능라밥상 광화문",
+      "link": "https://www.instagram.com/neungra_gwanghwamun",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 92 지하1층 B102호, B104호",
+      "roadAddress": "서울특별시 종로구 새문안로 58 지하1층 B102호, B104호",
+      "mapx": "1269715861",
+      "mapy": "375693106"
+    },
+    {
+      "title": "한와담 광화문점",
+      "link": "https://www.instagram.com/lighnm_official/",
+      "category": "음식점>한식>육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 115 콘코디언 B1F 102호",
+      "roadAddress": "서울특별시 종로구 새문안로 76 콘코디언 B1F 102호",
+      "mapx": "1269731965",
+      "mapy": "375697843"
+    },
+    {
+      "title": "이화수전통육개장 서대문정동점",
+      "link": "http://ihwasoo.com",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 2층",
+      "mapx": "1269697603",
+      "mapy": "375683795"
+    }
+  ]
+}

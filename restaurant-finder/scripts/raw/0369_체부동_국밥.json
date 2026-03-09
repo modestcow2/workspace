@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "<b>체부동</b>잔치집돼지갈비",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 194-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 24",
+      "mapx": "1269710530",
+      "mapy": "375765468"
+    },
+    {
+      "title": "명작신의주찹쌀순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "진미필담 용금옥",
+      "link": "https://www.instagram.com/jinmipildam_yonggumok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 199 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
+      "mapx": "1269708497",
+      "mapy": "375766102"
+    },
+    {
+      "title": "비빔가락",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    }
+  ]
+}

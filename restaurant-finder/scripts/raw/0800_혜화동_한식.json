@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "장인닭갈비 대학로점",
+      "link": "https://jangindak.co.kr/",
+      "category": "한식>닭갈비",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 51 1층",
+      "roadAddress": "서울특별시 종로구 대명길 25 1층",
+      "mapx": "1270001928",
+      "mapy": "375832065"
+    },
+    {
+      "title": "고은정 대학로본점",
+      "link": "https://blog.naver.com/koeunjung_hh",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 188-14 A&A타워 1층 102호",
+      "roadAddress": "서울특별시 종로구 창경궁로 240-7 A&A타워 1층 102호",
+      "mapx": "1269989806",
+      "mapy": "375824691"
+    },
+    {
+      "title": "메밀향그집 혜화본점",
+      "link": "https://memilhyang.creatorlink.net/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 72-3 메밀향그집 혜화본점",
+      "roadAddress": "서울특별시 종로구 대학로11길 18 메밀향그집 혜화본점",
+      "mapx": "1270006657",
+      "mapy": "375823739"
+    },
+    {
+      "title": "육식주 혜화점",
+      "link": "https://www.instagram.com/yuksikju",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 22 1층",
+      "roadAddress": "서울특별시 종로구 대학로 129-4 1층",
+      "mapx": "1270014603",
+      "mapy": "375828124"
+    },
+    {
+      "title": "혜화 쭈꾸미 본점",
+      "link": "https://www.instagram.com/jjukkumi_hyehwa/profilecard/?igsh=MTBydTd2N3lxNDZ3Yw==",
+      "category": "한식>주꾸미요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 46-2 1층, 2층",
+      "roadAddress": "서울특별시 종로구 대명길 19-6 1층, 2층",
+      "mapx": "1270005413",
+      "mapy": "375831446"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "충무<b>칼국수</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 23-29 충무칼국수",
+      "roadAddress": "서울특별시 용산구 한강대로104길 38 충무칼국수",
+      "mapx": "1269743444",
+      "mapy": "375502498"
+    },
+    {
+      "title": "오목<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-42 1층",
+      "roadAddress": "서울특별시 용산구 한강대로 379 1층",
+      "mapx": "1269721059",
+      "mapy": "375521541"
+    },
+    {
+      "title": "밀본 <b>서울역</b>점",
+      "link": "http://www.mealbon.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-205 3층 217호",
+      "roadAddress": "서울특별시 용산구 청파로 378 3층 217호",
+      "mapx": "1269704854",
+      "mapy": "375542424"
+    },
+    {
+      "title": "닭칼원조집",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 471",
+      "roadAddress": "서울특별시 중구 청파로 457-1",
+      "mapx": "1269678328",
+      "mapy": "375602566"
+    },
+    {
+      "title": "등촌샤브<b>칼국수</b> <b>서울역</b>점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 12 게이트웨이타워 1층",
+      "roadAddress": "서울특별시 용산구 후암로 107 게이트웨이타워 1층",
+      "mapx": "1269735480",
+      "mapy": "375535567"
+    }
+  ]
+}

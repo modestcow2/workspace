@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "황생가<b>칼국수</b>",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    },
+    {
+      "title": "대선<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-42 우진빌딩 2층 대선칼국수",
+      "roadAddress": "서울특별시 종로구 자하문로4길 6 우진빌딩 2층 대선칼국수",
+      "mapx": "1269726245",
+      "mapy": "375771878"
+    },
+    {
+      "title": "돌밭 메밀꽃",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 7-23",
+      "roadAddress": "서울특별시 종로구 효자로 31-1",
+      "mapx": "1269737000",
+      "mapy": "375788863"
+    },
+    {
+      "title": "부산집막국수",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 26 1층",
+      "roadAddress": "서울특별시 종로구 사직로 133-8 1층",
+      "mapx": "1269734310",
+      "mapy": "375762754"
+    },
+    {
+      "title": "명동<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 110-2",
+      "roadAddress": "서울특별시 종로구 종로1길 57",
+      "mapx": "1269789571",
+      "mapy": "375754362"
+    }
+  ]
+}

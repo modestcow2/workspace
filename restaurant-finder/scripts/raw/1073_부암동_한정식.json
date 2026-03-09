@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "석파랑",
+      "link": "http://www.instagram.com/seokparang",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 125-2",
+      "roadAddress": "서울특별시 종로구 자하문로 309",
+      "mapx": "1269583766",
+      "mapy": "375994314"
+    },
+    {
+      "title": "소소한풍경",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosohanscenery",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 239-13",
+      "roadAddress": "서울특별시 종로구 자하문로40길 75",
+      "mapx": "1269659770",
+      "mapy": "375937240"
+    },
+    {
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688756",
+      "mapy": "375768581"
+    },
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "미담한상",
+      "link": "https://www.instagram.com/midamhansang/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 469 인왕산한신휴플러스 2층 미담한상 B301호",
+      "roadAddress": "서울특별시 서대문구 통일로 397 인왕산한신휴플러스 2층 미담한상 B301호",
+      "mapx": "1269472793",
+      "mapy": "375855819"
+    }
+  ]
+}

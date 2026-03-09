@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "목란",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-28",
+      "roadAddress": "서울특별시 서대문구 연희로15길 21",
+      "mapx": "1269304986",
+      "mapy": "375683712"
+    },
+    {
+      "title": "락희안 가좌본점",
+      "link": "https://www.instagram.com/the_lexian/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 336-20 1, 2층",
+      "roadAddress": "서울특별시 서대문구 가재울로4길 53 1, 2층",
+      "mapx": "1269241681",
+      "mapy": "375760987"
+    },
+    {
+      "title": "댄싱홍콩 신촌점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-77 1층 댄싱홍콩",
+      "roadAddress": "서울특별시 서대문구 연세로12길 37-4 1층 댄싱홍콩",
+      "mapx": "1269391153",
+      "mapy": "375592662"
+    },
+    {
+      "title": "이품",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-19",
+      "roadAddress": "서울특별시 서대문구 연희로11길 20",
+      "mapx": "1269300765",
+      "mapy": "375675500"
+    },
+    {
+      "title": "당가원 홍제점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-116 1층",
+      "roadAddress": "서울특별시 서대문구 세무서7길 20 1층",
+      "mapx": "1269459286",
+      "mapy": "375917978"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼덕통닭 혜화점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-59 1층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 26 1층",
+      "mapx": "1270025476",
+      "mapy": "375820885"
+    },
+    {
+      "title": "대학로에 취하다 혜화역 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/daehakro_pub",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-63 1층",
+      "roadAddress": "서울특별시 종로구 대학로10길 15-11 1층",
+      "mapx": "1270028943",
+      "mapy": "375822461"
+    },
+    {
+      "title": "BBQ<b>치킨</b> 대학로점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-105 1층",
+      "roadAddress": "서울특별시 종로구 대학로10길 16 1층",
+      "mapx": "1270030916",
+      "mapy": "375816869"
+    },
+    {
+      "title": "푸라닭 대학로점",
+      "link": "https://blog.naver.com/puradakchicken",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-89 석마빌딩 1층 푸라닭 대학로점",
+      "roadAddress": "서울특별시 종로구 대학로12길 63 석마빌딩 1층 푸라닭 대학로점",
+      "mapx": "1270041288",
+      "mapy": "375812622"
+    },
+    {
+      "title": "니로사레스토랑",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-152",
+      "roadAddress": "서울특별시 종로구 동숭길 43",
+      "mapx": "1270043630",
+      "mapy": "375802065"
+    }
+  ]
+}

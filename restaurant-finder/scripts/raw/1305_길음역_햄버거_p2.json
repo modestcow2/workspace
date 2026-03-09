@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스매시 하우스",
+      "link": "https://www.instagram.com/smashhouse_1.0",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 16-69 1층",
+      "roadAddress": "서울특별시 성북구 정릉로40길 17 1층",
+      "mapx": "1270197997",
+      "mapy": "376012626"
+    },
+    {
+      "title": "프랭크버거 길음뉴타운점",
+      "link": "http://www.frankburger.co.kr/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1286-10 1층",
+      "roadAddress": "서울특별시 성북구 길음로7길 6 1층",
+      "mapx": "1270224133",
+      "mapy": "376044484"
+    },
+    {
+      "title": "롯데리아 길음뉴타운점",
+      "link": "https://www.lotteria.com/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1286-10 길음뉴타운",
+      "roadAddress": "서울특별시 성북구 길음로7길 6 길음뉴타운",
+      "mapx": "1270223973",
+      "mapy": "376045378"
+    },
+    {
+      "title": "버거킹 종암점",
+      "link": "",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-1343",
+      "roadAddress": "서울특별시 성북구 종암로 123",
+      "mapx": "1270332911",
+      "mapy": "376009122"
+    },
+    {
+      "title": "BBQ치킨 길음센터피스점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 499-75",
+      "roadAddress": "",
+      "mapx": "1270277496",
+      "mapy": "376099004"
+    }
+  ]
+}

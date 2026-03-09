@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "샐러드로우 앤 트라타 익선점",
+      "link": "https://www.instagram.com/saladlowtratar_iksun",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 173 1층 샐러드로우앤트라타",
+      "roadAddress": "서울특별시 종로구 돈화문로 65 1층 샐러드로우앤트라타",
+      "mapx": "1269907696",
+      "mapy": "375742407"
+    },
+    {
+      "title": "훅트<b>포케</b> 을지로점",
+      "link": "https://www.hookedpoke.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
+      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
+      "mapx": "1269887654",
+      "mapy": "375666400"
+    },
+    {
+      "title": "샐러링 대학로점",
+      "link": "https://www.instagram.com/salaring_daehakro",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-97 1층",
+      "roadAddress": "서울특별시 종로구 대학로10길 24 1층",
+      "mapx": "1270035234",
+      "mapy": "375816347"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "르베지왕 을지공간",
+      "link": "http://www.levegiwang.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 116 2층",
+      "roadAddress": "서울특별시 중구 남대문로9길 10 2층",
+      "mapx": "1269818830",
+      "mapy": "375668000"
+    }
+  ]
+}

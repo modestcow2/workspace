@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "돈까스앤우찌",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 144 하나빌딩 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 83-1 하나빌딩 1층",
+      "mapx": "1269904155",
+      "mapy": "375759175"
+    },
+    {
+      "title": "안암",
+      "link": "http://instagram.com/anam_inanguk",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4 안암",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
+      "mapx": "1269844784",
+      "mapy": "375794197"
+    },
+    {
+      "title": "엄용백 돼지<b>국밥</b>",
+      "link": "https://www.instagram.com/umyongbaek_kr/",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 194-28",
+      "roadAddress": "서울특별시 종로구 인사동3길 20",
+      "mapx": "1269858222",
+      "mapy": "375718777"
+    },
+    {
+      "title": "북촌무궁화",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 137",
+      "roadAddress": "서울특별시 종로구 수표로 126",
+      "mapx": "1269889329",
+      "mapy": "375723618"
+    },
+    {
+      "title": "합천돼지<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 290-1",
+      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
+      "mapx": "1269879701",
+      "mapy": "375720097"
+    }
+  ]
+}

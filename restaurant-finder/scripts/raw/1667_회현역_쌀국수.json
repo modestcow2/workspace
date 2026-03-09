@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "크루아타이",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 104호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 104호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "쎈플러스",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-83 1층",
+      "roadAddress": "서울특별시 중구 남대문로5길 3 1층",
+      "mapx": "1269788812",
+      "mapy": "375615766"
+    },
+    {
+      "title": "호앙비엣 서울역점",
+      "link": "https://hoang-viet.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 18-2 4호",
+      "roadAddress": "서울특별시 중구 세종대로2나길 22 4호",
+      "mapx": "1269747382",
+      "mapy": "375583437"
+    },
+    {
+      "title": "포메인 RED 남대문점",
+      "link": "https://www.instagram.com/phomein_red/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 202-24 1층",
+      "roadAddress": "서울특별시 중구 남대문로 40 1층",
+      "mapx": "1269801412",
+      "mapy": "375611466"
+    },
+    {
+      "title": "코트야드 메리어트 서울 남대문 모모카페",
+      "link": "https://www.momocafe.courtyardnamdaemun.com/",
+      "category": "음식점>뷔페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-23 코트야드 바이 메리어트 남대문 호텔",
+      "roadAddress": "서울특별시 중구 남대문로 9 코트야드 바이 메리어트 남대문 호텔",
+      "mapx": "1269768823",
+      "mapy": "375611997"
+    }
+  ]
+}

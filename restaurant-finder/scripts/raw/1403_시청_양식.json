@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "퍼스트플로어 센트럴",
+      "link": "http://fpcs.co.kr/dining-bar/first-floor",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 214 프레이저플레이스 호텔 1층",
+      "roadAddress": "서울특별시 중구 통일로 78 프레이저플레이스 호텔 1층",
+      "mapx": "1269697479",
+      "mapy": "375624505"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
+    },
+    {
+      "title": "낭만장사꾼 문학산호랭이",
+      "link": "https://app.catchtable.co.kr/ct/shop/munhakhoraeng2",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 남동구 구월동 1453-2 디에스빌딩 1층",
+      "roadAddress": "인천광역시 남동구 성말로13번길 36-14 디에스빌딩 1층",
+      "mapx": "1267031428",
+      "mapy": "374469043"
+    },
+    {
+      "title": "PPK 키친 수원본점",
+      "link": "https://youtube.com/@parkpilkwan",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1040-3 신일빌딩 1층",
+      "roadAddress": "경기도 수원시 팔달구 인계로124번길 27-18 신일빌딩 1층",
+      "mapx": "1270314725",
+      "mapy": "372657996"
+    },
+    {
+      "title": "쉐프리제",
+      "link": "http://instagram.com/chez__frise",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1300 상가동 1층 174호 쉐프리제",
+      "roadAddress": "경기도 부천시 원미구 소향로 181 상가동 1층 174호 쉐프리제",
+      "mapx": "1267673172",
+      "mapy": "375024163"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>충무로</b> 파주옥",
+      "link": "http://www.instagram.com/chungmuro_pajuok/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 53-2 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 23 1층",
+      "mapx": "1269918749",
+      "mapy": "375634545"
+    },
+    {
+      "title": "만수정",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 22-5 1층 만수정",
+      "roadAddress": "서울특별시 중구 마른내로12길 7-4 1층 만수정",
+      "mapx": "1270006092",
+      "mapy": "375639560"
+    },
+    {
+      "title": "우촌",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 10 1층 우촌",
+      "roadAddress": "서울특별시 중구 을지로12길 24 1층 우촌",
+      "mapx": "1269908043",
+      "mapy": "375652689"
+    },
+    {
+      "title": "황평집닭곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동2가 135-13",
+      "roadAddress": "서울특별시 중구 마른내로 74",
+      "mapx": "1269960896",
+      "mapy": "375640999"
+    },
+    {
+      "title": "별미집 닭곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 86-1",
+      "roadAddress": "서울특별시 중구 마른내로 61-1",
+      "mapx": "1269946959",
+      "mapy": "375644240"
+    }
+  ]
+}

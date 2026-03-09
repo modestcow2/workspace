@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동성각",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 18 당주빌딩",
+      "roadAddress": "서울특별시 종로구 새문안로9길 29-2 당주빌딩",
+      "mapx": "1269752304",
+      "mapy": "375714159"
+    },
+    {
+      "title": "가봉루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 168 당주빌딩 3층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-27 당주빌딩 3층",
+      "mapx": "1269745821",
+      "mapy": "375710389"
+    },
+    {
+      "title": "일일향 광화문",
+      "link": "https://blog.naver.com/11hyang14",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 동원빌딩 별관 2층 일일향 광화문",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 동원빌딩 별관 2층 일일향 광화문",
+      "mapx": "1269723950",
+      "mapy": "375718151"
+    },
+    {
+      "title": "동천홍 광화문점",
+      "link": "http://dongcheonhongdj.cityfood.co.kr/",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 21-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 23 2층",
+      "mapx": "1269755813",
+      "mapy": "375712692"
+    },
+    {
+      "title": "포시즌스 호텔 서울 유유안",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 11층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 11층",
+      "mapx": "1269753817",
+      "mapy": "375707185"
+    }
+  ]
+}

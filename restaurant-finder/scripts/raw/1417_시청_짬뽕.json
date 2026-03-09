@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더퍼스트 서래향 <b>시청</b>점",
+      "link": "https://www.instagram.com/verefood_official",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 94 1층 101호, 102호, 103호, 104호",
+      "roadAddress": "서울특별시 중구 남대문로 27 1층 101호, 102호, 103호, 104호",
+      "mapx": "1269785594",
+      "mapy": "375613479"
+    },
+    {
+      "title": "역대<b>짬뽕</b> 오산<b>시청</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 오산시 오산동 268",
+      "roadAddress": "경기도 오산시 운천로 109",
+      "mapx": "1270744150",
+      "mapy": "371521964"
+    },
+    {
+      "title": "북경",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 안산시 단원구 고잔동 527-8 1층",
+      "roadAddress": "경기도 안산시 단원구 화랑로 402 1층",
+      "mapx": "1268323238",
+      "mapy": "373208938"
+    },
+    {
+      "title": "Chai797 <b>시청</b>점",
+      "link": "http://www.chai797.co.kr",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 136 ENA Center 빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 서소문로 120 ENA Center 빌딩 지하1층",
+      "mapx": "1269744832",
+      "mapy": "375628896"
+    },
+    {
+      "title": "또와요<b>짬뽕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 시흥시 군자동 127-2 1층",
+      "roadAddress": "경기도 시흥시 시흥대로 251 1층",
+      "mapx": "1268061268",
+      "mapy": "373633720"
+    }
+  ]
+}

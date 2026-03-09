@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "태향",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 9-4",
+      "roadAddress": "서울특별시 용산구 후암로57길 3-10",
+      "mapx": "1269746248",
+      "mapy": "375531326"
+    },
+    {
+      "title": "도원스타일 <b>서울역</b>점",
+      "link": "https://www.t-won.com/",
+      "category": "음식점>중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-205 서울역사 4층 도원스타일 서울역점",
+      "roadAddress": "서울특별시 용산구 청파로 378 서울역사 4층 도원스타일 서울역점",
+      "mapx": "1269713235",
+      "mapy": "375549080"
+    },
+    {
+      "title": "더차이 서소문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 B1층 B2호 더차이",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 B1층 B2호 더차이",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "중림각",
+      "link": "https://blog.naver.com/kjh0430",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 61-4 1동1층,2층",
+      "roadAddress": "서울특별시 중구 청파로 443 1동1층,2층",
+      "mapx": "1269686283",
+      "mapy": "375589824"
+    },
+    {
+      "title": "루싱",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 서울스퀘어 B1",
+      "roadAddress": "서울특별시 중구 한강대로 416 서울스퀘어 B1",
+      "mapx": "1269733954",
+      "mapy": "375557919"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "르한스",
+      "link": "https://app.catchtable.co.kr/ct/shop/lehans",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 918",
+      "roadAddress": "서울특별시 성북구 정릉로10길 127",
+      "mapx": "1269983456",
+      "mapy": "376041052"
+    },
+    {
+      "title": "포도집",
+      "link": "http://www.instagram.com/podojib_",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 132-2 1층",
+      "roadAddress": "서울특별시 성북구 정릉로32길 4 1층",
+      "mapx": "1270165782",
+      "mapy": "376027961"
+    },
+    {
+      "title": "온기종기",
+      "link": "https://www.instagram.com/onkijonki",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 609-1 한진스포트센터 상가 1층 온기종기",
+      "roadAddress": "서울특별시 성북구 성북로4길 52 한진스포트센터 상가 1층 온기종기",
+      "mapx": "1270125119",
+      "mapy": "375966706"
+    },
+    {
+      "title": "와인샘",
+      "link": "https://www.instagram.com/winesam_official",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 110-36 1층",
+      "roadAddress": "서울특별시 성북구 정릉로36길 84 1층",
+      "mapx": "1270139396",
+      "mapy": "376025135"
+    },
+    {
+      "title": "신천순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 161-15",
+      "roadAddress": "서울특별시 성북구 정릉로 253",
+      "mapx": "1270121236",
+      "mapy": "376045554"
+    }
+  ]
+}

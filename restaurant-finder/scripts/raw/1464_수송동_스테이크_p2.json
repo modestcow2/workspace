@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더 키친 일뽀르노 광화문점",
+      "link": "https://thekitchenilforno.co.kr/index.do",
+      "category": "음식점>양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
+      "mapx": "1269812442",
+      "mapy": "375750348"
+    },
+    {
+      "title": "신선식탁 광화문G타워점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 156 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
+      "mapx": "1269810076",
+      "mapy": "375727137"
+    },
+    {
+      "title": "써브웨이 안국점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 5 동일빌딩",
+      "roadAddress": "서울특별시 종로구 우정국로 69 동일빌딩",
+      "mapx": "1269824397",
+      "mapy": "375753052"
+    },
+    {
+      "title": "독립밀방 익선",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
+      "mapx": "1269902619",
+      "mapy": "375740791"
+    },
+    {
+      "title": "정원레스토랑 어반가든",
+      "link": "http://urbangarden.co.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 28-2",
+      "roadAddress": "서울특별시 중구 정동길 12-15",
+      "mapx": "1269692254",
+      "mapy": "375674386"
+    }
+  ]
+}

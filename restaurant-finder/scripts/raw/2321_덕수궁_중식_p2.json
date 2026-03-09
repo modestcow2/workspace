@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무탄 광화문점",
+      "link": "https://naver.me/5uc3NJV7",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "복성각 <b>덕수궁</b>점",
+      "link": "https://www.instagram.com/boksung_meal",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 366-1 오천회관빌딩 2층",
+      "roadAddress": "서울특별시 중구 덕수궁길 7 오천회관빌딩 2층",
+      "mapx": "1269763352",
+      "mapy": "375646727"
+    },
+    {
+      "title": "도원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 164 서울적십자병원 별관 3층 도원",
+      "roadAddress": "서울특별시 종로구 새문안로 9 서울적십자병원 별관 3층 도원",
+      "mapx": "1269673413",
+      "mapy": "375669224"
+    },
+    {
+      "title": "대상해",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
+      "mapx": "1269765840",
+      "mapy": "375683348"
+    },
+    {
+      "title": "유방녕의 웍",
+      "link": "https://www.instagram.com/liufangning_wok",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 52-7 2층",
+      "roadAddress": "서울특별시 중구 서소문로11길 8 2층",
+      "mapx": "1269730355",
+      "mapy": "375633273"
+    }
+  ]
+}

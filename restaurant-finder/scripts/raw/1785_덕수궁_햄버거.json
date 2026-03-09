@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "버거킹 서대문역점",
+      "link": "",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 215 바비엥3 1층 104호",
+      "roadAddress": "서울특별시 중구 통일로 86 바비엥3 1층 104호",
+      "mapx": "1269694797",
+      "mapy": "375629816"
+    },
+    {
+      "title": "파파이스 광화문점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 24",
+      "roadAddress": "서울특별시 종로구 새문안로 91",
+      "mapx": "1269748374",
+      "mapy": "375704194"
+    },
+    {
+      "title": "움버거앤윙스 광화문점",
+      "link": "https://umopen.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 105 1층",
+      "mapx": "1269763278",
+      "mapy": "375704497"
+    },
+    {
+      "title": "KFC 시청역",
+      "link": "https://www.kfckorea.com/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 332",
+      "roadAddress": "서울특별시 중구 서소문로 136 1층 일부, 2층 전부",
+      "mapx": "1269761077",
+      "mapy": "375636798"
+    },
+    {
+      "title": "버거링맨",
+      "link": "https://www.instagram.com/burgering_man_official",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하 2층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    }
+  ]
+}

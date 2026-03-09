@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스타벅스 <b>새문안로</b>점",
+      "link": "http://www.starbucks.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아빌딩",
+      "roadAddress": "서울특별시 종로구 새문안로 92 (신문로1가) 광화문오피시아빌딩",
+      "mapx": "1269749951",
+      "mapy": "375698530"
+    },
+    {
+      "title": "커피빈 <b>새문안로</b>점",
+      "link": "https://www.coffeebeankorea.com/main/main.asp",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 24 고려빌딩 1,2층",
+      "roadAddress": "서울특별시 종로구 새문안로 91 고려빌딩 1,2층",
+      "mapx": "1269748826",
+      "mapy": "375704423"
+    },
+    {
+      "title": "광화문면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
+      "mapx": "1269747363",
+      "mapy": "375698520"
+    },
+    {
+      "title": "광화문닭곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
+      "mapy": "375697325"
+    },
+    {
+      "title": "덕담",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269750593",
+      "mapy": "375698043"
+    }
+  ]
+}

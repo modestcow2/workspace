@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오스테리아우노",
+      "link": "http://instagram.com/osteria_uno",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 297-2 102호",
+      "roadAddress": "경기도 수원시 장안구 율전로98번길 7 102호",
+      "mapx": "1269691982",
+      "mapy": "372980619"
+    },
+    {
+      "title": "정성식탁",
+      "link": "http://www.instagram.com/jsst0615",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 288-20 1층 정성식탁",
+      "roadAddress": "경기도 수원시 장안구 서부로2136번길 9 1층 정성식탁",
+      "mapx": "1269728205",
+      "mapy": "372987927"
+    },
+    {
+      "title": "와인일레븐",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 188-14 2층",
+      "roadAddress": "서울특별시 종로구 창경궁로 240-7 2층",
+      "mapx": "1269990329",
+      "mapy": "375824085"
+    },
+    {
+      "title": "블랙스미스",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-115 2층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 47 2층",
+      "mapx": "1269704022",
+      "mapy": "372977178"
+    },
+    {
+      "title": "명륜진사갈비 수원<b>성균관대</b>점",
+      "link": "https://blog.naver.com/jinsafd",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 296-46 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2129-5 1층",
+      "mapx": "1269713254",
+      "mapy": "372989328"
+    }
+  ]
+}

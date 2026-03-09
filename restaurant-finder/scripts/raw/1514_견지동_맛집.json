@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "심경희라라랜드 광화문",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 113~116호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
+      "mapx": "1269824621",
+      "mapy": "375726226"
+    },
+    {
+      "title": "삼봉도담",
+      "link": "https://sambongdodam.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-34 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
+      "mapx": "1269825289",
+      "mapy": "375729806"
+    },
+    {
+      "title": "이문설렁탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 88",
+      "roadAddress": "서울특별시 종로구 우정국로 38-13",
+      "mapx": "1269839047",
+      "mapy": "375727663"
+    },
+    {
+      "title": "사찰음식 전문점 발우공양",
+      "link": "http://balwoo.or.kr/",
+      "category": "한식>사찰음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 71 템플스테이 통합정보센터 5층",
+      "roadAddress": "서울특별시 종로구 우정국로 56 템플스테이 통합정보센터 5층",
+      "mapx": "1269832147",
+      "mapy": "375738365"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    }
+  ]
+}

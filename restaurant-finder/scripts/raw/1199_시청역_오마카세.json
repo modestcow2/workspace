@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대보정 서울<b>시청역</b>점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "고우가 광화문점",
+      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "롯데호텔서울 모모야마",
+      "link": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-momoyama",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1",
+      "roadAddress": "서울특별시 중구 을지로 30",
+      "mapx": "1269810045",
+      "mapy": "375653498"
+    },
+    {
+      "title": "웨스틴 조선 서울 스시조",
+      "link": "https://www.josunhotel.com/hotel/westinSeoul.do",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 87-1",
+      "roadAddress": "서울특별시 중구 소공로 106",
+      "mapx": "1269805282",
+      "mapy": "375646249"
+    },
+    {
+      "title": "스시카세 롯데백화점본점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
+      "mapx": "1269811847",
+      "mapy": "375649963"
+    }
+  ]
+}

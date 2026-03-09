@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "백암박가네<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
+      "mapx": "1269710531",
+      "mapy": "375791821"
+    },
+    {
+      "title": "온지음 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
+      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
+      "mapx": "1269734438",
+      "mapy": "375804848"
+    },
+    {
+      "title": "원조정할머니기름떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269700183",
+      "mapy": "375806564"
+    },
+    {
+      "title": "정금이네김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 30-4",
+      "roadAddress": "서울특별시 종로구 필운대로6길 7",
+      "mapx": "1269690740",
+      "mapy": "375807975"
+    },
+    {
+      "title": "모내기",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 94-1 모내기",
+      "roadAddress": "서울특별시 종로구 자하문로15길 13 모내기",
+      "mapx": "1269702350",
+      "mapy": "375806684"
+    }
+  ]
+}

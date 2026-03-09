@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "후라토식당 경복궁 본점",
+      "link": "http://furato.co.kr/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 아케이드 B1 63호 후라토식당",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 63호 후라토식당",
+      "mapx": "1269740978",
+      "mapy": "375720853"
+    },
+    {
+      "title": "뒷골목 이층집 도화 솥밥",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 3-2 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-10 2층",
+      "mapx": "1269742014",
+      "mapy": "375723516"
+    },
+    {
+      "title": "광화문스시",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 44, 46호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 44, 46호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    },
+    {
+      "title": "사직동 그 가게",
+      "link": "http://www.rogpa.com",
+      "category": "테마카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 1-7",
+      "roadAddress": "서울특별시 종로구 사직로9길 18",
+      "mapx": "1269677898",
+      "mapy": "375770928"
+    },
+    {
+      "title": "광화문<b>커리</b>집",
+      "link": "",
+      "category": "서비스,산업>기업",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 145",
+      "roadAddress": "서울특별시 종로구 세종대로23길 47",
+      "mapx": "1269736829",
+      "mapy": "375713657"
+    }
+  ]
+}

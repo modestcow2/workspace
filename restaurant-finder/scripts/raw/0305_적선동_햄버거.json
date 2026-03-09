@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    },
+    {
+      "title": "저스트샐러드&amp;쥬스",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1",
+      "roadAddress": "서울특별시 종로구 인왕산로 19",
+      "mapx": "1269654664",
+      "mapy": "375755640"
+    },
+    {
+      "title": "데일리픽스 을지로",
+      "link": "https://www.instagram.com/daily.fix.seoul?igsh=ZXRxeHUwbDE2N2E3&utm_source=qr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 140 1층 103호, 104호",
+      "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
+      "mapx": "1269813054",
+      "mapy": "375670949"
+    },
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
+    },
+    {
+      "title": "버거드조선",
+      "link": "http://www.instagram.com/burger_de_joseon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 147 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
+      "mapx": "1269704616",
+      "mapy": "375755982"
+    }
+  ]
+}

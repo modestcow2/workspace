@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "풍문고기집 서울역점",
+      "link": "https://blog.naver.com/pungmun_",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-9 1층",
+      "roadAddress": "서울특별시 중구 세종대로2길 6-1 1층",
+      "mapx": "1269736723",
+      "mapy": "375576757"
+    },
+    {
+      "title": "맛있는<b>삼겹살</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 30-10",
+      "roadAddress": "서울특별시 중구 남대문시장길 37",
+      "mapx": "1269780281",
+      "mapy": "375605147"
+    },
+    {
+      "title": "금성회관 서울시청직영점",
+      "link": "https://www.instagram.com/gumseong5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
+      "mapx": "1269774892",
+      "mapy": "375623316"
+    },
+    {
+      "title": "대박물갈비",
+      "link": "https://www.instagram.com/daepark_mulgalbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 168-8 1층 대박물갈비",
+      "roadAddress": "서울특별시 중구 퇴계로4길 7 1층 대박물갈비",
+      "mapx": "1269777252",
+      "mapy": "375575445"
+    },
+    {
+      "title": "육통령 명동본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-36",
+      "roadAddress": "서울특별시 중구 명동8나길 37-2",
+      "mapx": "1269828439",
+      "mapy": "375611991"
+    }
+  ]
+}

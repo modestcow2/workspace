@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "파스타마켓 혜화 본점",
+      "link": "https://www.instagram.com/Pasta_market",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 103-6 1층 파스타마켓",
+      "roadAddress": "서울특별시 종로구 대학로11길 9-5 1층 파스타마켓",
+      "mapx": "1270012480",
+      "mapy": "375820794"
+    },
+    {
+      "title": "디마떼오",
+      "link": "http://www.dimatteo.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-141 디마떼오",
+      "roadAddress": "서울특별시 종로구 동숭길 29 디마떼오",
+      "mapx": "1270039695",
+      "mapy": "375799156"
+    },
+    {
+      "title": "살롱순라 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
+      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
+      "mapx": "1269916936",
+      "mapy": "375741979"
+    },
+    {
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
+    },
+    {
+      "title": "계동<b>피자</b>",
+      "link": "https://youtube.com/@kindk7985",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 82-1 1층 피자",
+      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
+      "mapx": "1269866587",
+      "mapy": "375801802"
+    }
+  ]
+}

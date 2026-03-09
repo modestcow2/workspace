@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스타벅스 <b>세종대로</b>점",
+      "link": "http://www.starbucks.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-12",
+      "roadAddress": "서울특별시 중구 세종대로 135-5 (태평로1가)",
+      "mapx": "1269764930",
+      "mapy": "375686780"
+    },
+    {
+      "title": "아재커피 <b>세종대로</b>점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 75 1층 AZE커피 세종대로점",
+      "roadAddress": "서울특별시 중구 세종대로21길 61 1층 AZE커피 세종대로점",
+      "mapx": "1269758861",
+      "mapy": "375691203"
+    },
+    {
+      "title": "마이쥬스 <b>세종대로</b>점",
+      "link": "https://www.instagram.com/myjuice_official",
+      "category": "카페,디저트>과일,주스전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 25-3 G스퀘어 1층",
+      "roadAddress": "서울특별시 중구 세종대로22길 12 G스퀘어 1층",
+      "mapx": "1269779806",
+      "mapy": "375681139"
+    },
+    {
+      "title": "매머드익스프레스 <b>세종대로</b>점",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 1-1 1층",
+      "roadAddress": "서울특별시 중구 세종대로 23 1층",
+      "mapx": "1269738833",
+      "mapy": "375590470"
+    },
+    {
+      "title": "커피살롱 광화문점",
+      "link": "https://www.instagram.com/coffeesalon2012",
+      "category": "카페,디저트>테이크아웃커피",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 72-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로21길 67 1층",
+      "mapx": "1269757630",
+      "mapy": "375692467"
+    }
+  ]
+}

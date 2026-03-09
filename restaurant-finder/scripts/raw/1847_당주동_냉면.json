@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "능라도 광화문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 3층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 3층",
+      "mapx": "1269722833",
+      "mapy": "375717008"
+    },
+    {
+      "title": "평가옥 광화문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19",
+      "mapx": "1269744472",
+      "mapy": "375721028"
+    },
+    {
+      "title": "큰손함흥<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 160 제지하1층 제8호, 제9호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 13 제지하1층 제8호, 제9호",
+      "mapx": "1269744029",
+      "mapy": "375714009"
+    },
+    {
+      "title": "황금정",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 1",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 5",
+      "mapx": "1269742704",
+      "mapy": "375726129"
+    },
+    {
+      "title": "서울김밥 광화문1호점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-18 서울김밥",
+      "roadAddress": "서울특별시 종로구 새문안로3길 17 서울김밥",
+      "mapx": "1269725721",
+      "mapy": "375719765"
+    }
+  ]
+}

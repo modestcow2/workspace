@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "달리181 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/daligh181",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 136 B1층",
+      "roadAddress": "서울특별시 종로구 종로5길 13 B1층",
+      "mapx": "1269804824",
+      "mapy": "375710343"
+    },
+    {
+      "title": "달리181 을지로점",
+      "link": "https://www.instagram.com/dali181_euljiro",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 137 2층",
+      "roadAddress": "서울특별시 중구 을지로3길 25-6 2층",
+      "mapx": "1269811502",
+      "mapy": "375673665"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
+    },
+    {
+      "title": "필<b>스테이크</b>",
+      "link": "http://instagram.com/feel_steakbeer",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 김포시 사우동 960 1층 101호",
+      "roadAddress": "경기도 김포시 돌문로62번길 37 1층 101호",
+      "mapx": "1267163649",
+      "mapy": "376212547"
+    },
+    {
+      "title": "바람이분다 구리본점",
+      "link": "https://www.instagram.com/baramibunda_guri/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 구리시 교문동 383-3 바람이분다",
+      "roadAddress": "경기도 구리시 아차산로467번길 65 바람이분다",
+      "mapx": "1271272253",
+      "mapy": "375959747"
+    }
+  ]
+}

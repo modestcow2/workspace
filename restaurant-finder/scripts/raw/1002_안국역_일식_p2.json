@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오레노 야끼 종로점",
+      "link": "https://catchtable.co.kr/orenoyakki",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-25 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
+      "mapx": "1269813635",
+      "mapy": "375730606"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    },
+    {
+      "title": "쿄와우동",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 지하1층",
+      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
+      "mapx": "1269866870",
+      "mapy": "375780953"
+    },
+    {
+      "title": "일월카츠 안국점",
+      "link": "https://www.instagram.com/ill_wall_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 132 1층",
+      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
+      "mapx": "1269851501",
+      "mapy": "375773083"
+    },
+    {
+      "title": "조금",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 123-4 크라운빌딩 1층 조금식당",
+      "roadAddress": "서울특별시 종로구 인사동길 60 크라운빌딩 1층 조금식당",
+      "mapx": "1269836494",
+      "mapy": "375753395"
+    }
+  ]
+}

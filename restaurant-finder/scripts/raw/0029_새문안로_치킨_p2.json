@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "경성<b>치킨</b> 광화문스퀘어점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 135-2",
+      "roadAddress": "서울특별시 종로구 새문안로 96",
+      "mapx": "1269754434",
+      "mapy": "375699667"
+    },
+    {
+      "title": "옴레스토랑 광화문점",
+      "link": "https://www.instagram.com/om.restaurant",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 2 지하",
+      "roadAddress": "서울특별시 종로구 새문안로 103 지하",
+      "mapx": "1269760717",
+      "mapy": "375704856"
+    },
+    {
+      "title": "또래오래 정동점",
+      "link": "https://blog.naver.com/britney420",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 지하1층",
+      "mapx": "1269696735",
+      "mapy": "375682905"
+    },
+    {
+      "title": "파파이스 광화문점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 24",
+      "roadAddress": "서울특별시 종로구 새문안로 91",
+      "mapx": "1269748374",
+      "mapy": "375704194"
+    },
+    {
+      "title": "움버거앤윙스 광화문점",
+      "link": "https://umopen.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 105 1층",
+      "mapx": "1269763278",
+      "mapy": "375704497"
+    }
+  ]
+}

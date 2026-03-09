@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김광석신촌<b>칼국수</b> 이대직영점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-11 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 70 1층",
+      "mapx": "1269400794",
+      "mapy": "375589432"
+    },
+    {
+      "title": "김광석신촌<b>칼국수</b> 본점",
+      "link": "https://scnoodle.com/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 40-9",
+      "roadAddress": "서울특별시 마포구 신촌로 124",
+      "mapx": "1269394407",
+      "mapy": "375556761"
+    },
+    {
+      "title": "가미분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 54-1 무궁화상가아파트",
+      "roadAddress": "서울특별시 서대문구 이화여대8길 2 무궁화상가아파트",
+      "mapx": "1269460024",
+      "mapy": "375586996"
+    },
+    {
+      "title": "등촌샤브<b>칼국수</b> 신촌점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 1층 등촌샤브칼국수 신촌점",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층 등촌샤브칼국수 신촌점",
+      "mapx": "1269407741",
+      "mapy": "375589692"
+    },
+    {
+      "title": "황생가<b>칼국수</b>연세동문회관점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 신촌동 134 연세동문회관 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로 50 연세동문회관 지하1층",
+      "mapx": "1269425900",
+      "mapy": "375626642"
+    }
+  ]
+}

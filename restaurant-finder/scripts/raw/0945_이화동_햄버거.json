@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "혜화동버거",
+      "link": "https://catchtable.co.kr/hyehwadong_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-63 1층 혜화동버거",
+      "roadAddress": "서울특별시 종로구 동숭3길 6-4 1층 혜화동버거",
+      "mapx": "1270047525",
+      "mapy": "375811462"
+    },
+    {
+      "title": "슬램버거 대학로점",
+      "link": "https://www.slamburger.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-60 1층",
+      "roadAddress": "서울특별시 종로구 대학로10길 5 1층",
+      "mapx": "1270025840",
+      "mapy": "375818146"
+    },
+    {
+      "title": "크러쉬버거&amp;펍",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 206-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 220 1층",
+      "mapx": "1270031876",
+      "mapy": "375759537"
+    },
+    {
+      "title": "맥도날드 대학로점",
+      "link": "https://www.mcdonalds.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-34 맥도널드",
+      "roadAddress": "서울특별시 종로구 대학로 130 맥도널드",
+      "mapx": "1270021009",
+      "mapy": "375828885"
+    },
+    {
+      "title": "KFC 대학로점",
+      "link": "https://www.kfckorea.com/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-27",
+      "roadAddress": "서울특별시 종로구 대학로 120",
+      "mapx": "1270022702",
+      "mapy": "375818404"
+    }
+  ]
+}

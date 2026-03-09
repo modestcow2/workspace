@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:49:35 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:30:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375762596"
     },
     {
-      "title": "사랑방손<b>칼국수</b>",
+      "title": "돌밭 메밀꽃",
       "link": "",
-      "category": "한식>칼국수,만두",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 163-1 B1, 1층",
-      "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
-      "mapx": "1269725749",
-      "mapy": "375825416"
+      "address": "서울특별시 종로구 통의동 7-23",
+      "roadAddress": "서울특별시 종로구 효자로 31-1",
+      "mapx": "1269737000",
+      "mapy": "375788863"
     }
   ]
 }

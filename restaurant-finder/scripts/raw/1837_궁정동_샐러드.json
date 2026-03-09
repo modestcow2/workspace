@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "큔",
+      "link": "https://www.instagram.com/grocery_cafe_qyun",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 궁정동 3-18 1층",
+      "roadAddress": "서울특별시 종로구 자하문로26길 17-2 1층",
+      "mapx": "1269722519",
+      "mapy": "375846909"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
+    },
+    {
+      "title": "고트델리 서촌",
+      "link": "https://www.instagram.com/goattdeli",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 100 1층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
+      "mapx": "1269682499",
+      "mapy": "375799314"
+    },
+    {
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735061",
+      "mapy": "375779155"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소풍 독립문역점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
+      "mapx": "1269649269",
+      "mapy": "375737152"
+    },
+    {
+      "title": "뚱낙원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 41-1 뚱낙원",
+      "roadAddress": "서울특별시 종로구 자하문로2길 15 뚱낙원",
+      "mapx": "1269735625",
+      "mapy": "375765667"
+    },
+    {
+      "title": "서래미소 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-43 3~5층",
+      "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
+      "mapx": "1269726487",
+      "mapy": "375770180"
+    },
+    {
+      "title": "활짝핀메밀 경복궁역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
+    },
+    {
+      "title": "옥이네밥집포차 서촌 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2 2층 옥이네",
+      "roadAddress": "서울특별시 종로구 자하문로 20 2층 옥이네",
+      "mapx": "1269722820",
+      "mapy": "375779035"
+    }
+  ]
+}

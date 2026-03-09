@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "베트남시장<b>쌀국수</b> 본점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 70-2",
+      "roadAddress": "서울특별시 서대문구 영천시장길 30",
+      "mapx": "1269609274",
+      "mapy": "375707459"
+    },
+    {
+      "title": "언껀",
+      "link": "https://www.instagram.com/ancan___",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 49 1층 언껀",
+      "roadAddress": "서울특별시 종로구 옥인2길 6 1층 언껀",
+      "mapx": "1269668977",
+      "mapy": "375808260"
+    },
+    {
+      "title": "퍼리코 서촌",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 106-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로1길 3 1층",
+      "mapx": "1269690311",
+      "mapy": "375772869"
+    },
+    {
+      "title": "포옹남 서대문",
+      "link": "https://포옹남.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 248 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 141 1층",
+      "mapx": "1269652503",
+      "mapy": "375669352"
+    },
+    {
+      "title": "도취",
+      "link": "https://app.catchtable.co.kr/ct/shop/DochwiSeochon",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 53-1 서촌마을 제지하층 101호",
+      "roadAddress": "서울특별시 종로구 옥인길 23-6 서촌마을 제지하층 101호",
+      "mapx": "1269670920",
+      "mapy": "375808659"
+    }
+  ]
+}

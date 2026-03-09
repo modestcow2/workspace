@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
+    },
+    {
+      "title": "익선취향",
+      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-70 1층",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
+      "mapx": "1269895934",
+      "mapy": "375735970"
+    },
+    {
+      "title": "스케줄 오스테리아",
+      "link": "https://blog.naver.com/sch_co001",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 85 iM금융센터 2층 202호",
+      "roadAddress": "서울특별시 중구 남대문로 125 iM금융센터 2층 202호",
+      "mapx": "1269823089",
+      "mapy": "375683770"
+    },
+    {
+      "title": "독립밀방 익선",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
+      "mapx": "1269902619",
+      "mapy": "375740791"
+    },
+    {
+      "title": "콩카세 안국",
+      "link": "https://catchtable.co.kr/concasse_anguk",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-31 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
+      "mapx": "1269858330",
+      "mapy": "375781862"
+    }
+  ]
+}

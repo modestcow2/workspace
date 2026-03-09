@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광화문뚝감",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-14",
+      "roadAddress": "서울특별시 종로구 새문안로3길 21",
+      "mapx": "1269725919",
+      "mapy": "375720689"
+    },
+    {
+      "title": "탐라순대국감자탕 광화문점",
+      "link": "https://www.instagram.com/tamla_gwanghwamun",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 170-2 1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-1 1층",
+      "mapx": "1269747400",
+      "mapy": "375708007"
+    },
+    {
+      "title": "순대실록 광화문점",
+      "link": "https://www.instagram.com/sundaesilrok/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 170-1 1층 순대실록 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-3 1층 순대실록 광화문점",
+      "mapx": "1269746939",
+      "mapy": "375708720"
+    },
+    {
+      "title": "족발야시장&amp;무청감자탕 광화문점",
+      "link": "https://go.catchtable.co.kr/zyn34t",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 지상1층 101호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지상1층 101호",
+      "mapx": "1269728682",
+      "mapy": "375719236"
+    },
+    {
+      "title": "소국밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지하1층",
+      "mapx": "1269735034",
+      "mapy": "375717854"
+    }
+  ]
+}

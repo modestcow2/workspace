@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "소소식탁 홍제",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 326-12 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 475 1층",
+      "mapx": "1269419769",
+      "mapy": "375904620"
+    },
+    {
+      "title": "오소이",
+      "link": "https://www.instagram.com/ohsoi_official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 156-1 1층 오소이",
+      "roadAddress": "서울특별시 서대문구 모래내로 470 1층 오소이",
+      "mapx": "1269468379",
+      "mapy": "375859839"
+    },
+    {
+      "title": "세검정돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 208-37 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 240 2층",
+      "mapx": "1269640151",
+      "mapy": "375956114"
+    },
+    {
+      "title": "해피돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-41 1층 107호",
+      "roadAddress": "서울특별시 서대문구 세검정로 52-10 1층 107호",
+      "mapx": "1269466324",
+      "mapy": "375920400"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "을밀대 평양<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 147-6",
+      "roadAddress": "서울특별시 마포구 숭문길 24",
+      "mapx": "1269455004",
+      "mapy": "375474904"
+    },
+    {
+      "title": "아소정",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 149-9",
+      "roadAddress": "서울특별시 마포구 백범로25길 9",
+      "mapx": "1269463933",
+      "mapy": "375466065"
+    },
+    {
+      "title": "서관면옥 홍대점",
+      "link": "http://www.instagram.com/seogwanmyeonog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 460-25 106호~107호",
+      "roadAddress": "서울특별시 마포구 월드컵북로5길 41 106호~107호",
+      "mapx": "1269168070",
+      "mapy": "375562685"
+    },
+    {
+      "title": "능라도",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 마포동 33-1 대농빌딩",
+      "roadAddress": "서울특별시 마포구 마포대로 25 대농빌딩",
+      "mapx": "1269448344",
+      "mapy": "375392870"
+    },
+    {
+      "title": "산까치<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 179-1",
+      "roadAddress": "서울특별시 마포구 도화길 35",
+      "mapx": "1269494987",
+      "mapy": "375414301"
+    }
+  ]
+}

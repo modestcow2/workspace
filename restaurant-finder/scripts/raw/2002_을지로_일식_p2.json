@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "진작",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 46-27 1층",
+      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
+      "mapx": "1269908216",
+      "mapy": "375640300"
+    },
+    {
+      "title": "도우또 <b>을지로</b>",
+      "link": "https://www.instagram.com/dowuddo_euljiro/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 60 1층, 2층",
+      "roadAddress": "서울특별시 중구 을지로18길 42 1층, 2층",
+      "mapx": "1269940415",
+      "mapy": "375647071"
+    },
+    {
+      "title": "와타루",
+      "link": "https://app.catchtable.co.kr/ct/shop/wataru",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 48-25 2층",
+      "roadAddress": "서울특별시 중구 수표로 22-3 2층",
+      "mapx": "1269905675",
+      "mapy": "375632727"
+    },
+    {
+      "title": "오하이요 <b>을지로</b>3가점",
+      "link": "https://www.instagram.com/ohiyo_euljiro3ga/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 344-21 1층, 2층",
+      "roadAddress": "서울특별시 중구 수표로 48-14 1층, 2층",
+      "mapx": "1269905873",
+      "mapy": "375655140"
+    },
+    {
+      "title": "뉴호프 <b>을지로</b> 본점",
+      "link": "https://www.instagram.com/newhope_korea",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 322-1 2-3층",
+      "roadAddress": "서울특별시 중구 을지로12길 14 2-3층",
+      "mapx": "1269909880",
+      "mapy": "375657155"
+    }
+  ]
+}

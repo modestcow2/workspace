@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소이로움",
+      "link": "https://www.instagram.com/so_iroum/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 58-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 41 1층",
+      "mapx": "1269685899",
+      "mapy": "375797205"
+    },
+    {
+      "title": "버거드조선",
+      "link": "http://www.instagram.com/burger_de_joseon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 147 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
+      "mapx": "1269704616",
+      "mapy": "375755982"
+    },
+    {
+      "title": "침스버거 광화문",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B113-2, B113-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B113-2, B113-3호",
+      "mapx": "1269798147",
+      "mapy": "375710182"
+    },
+    {
+      "title": "바스버거 광화문점",
+      "link": "http://www.basburger.net",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 11 광일빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 지하1층",
+      "mapx": "1269797080",
+      "mapy": "375681229"
+    },
+    {
+      "title": "번앤버니",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 56호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 56호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    }
+  ]
+}

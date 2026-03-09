@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "비양도 본점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 271-1 1층",
+      "roadAddress": "서울특별시 성북구 성북로 158 1층",
+      "mapx": "1269923072",
+      "mapy": "375945618"
+    },
+    {
+      "title": "스시산",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-31 산빌딩1층",
+      "roadAddress": "서울특별시 성북구 성북로 5-1 산빌딩1층",
+      "mapx": "1270053690",
+      "mapy": "375887833"
+    },
+    {
+      "title": "카츠벨",
+      "link": "https://www.instagram.com/katsubell_",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 116 지상1층",
+      "roadAddress": "서울특별시 성북구 성북로 31 지상1층",
+      "mapx": "1270036109",
+      "mapy": "375907569"
+    },
+    {
+      "title": "시올돈 성북직영점",
+      "link": "http://www.sioldon.com",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 89 1층",
+      "roadAddress": "서울특별시 성북구 성북로5길 20 1층",
+      "mapx": "1270040391",
+      "mapy": "375889790"
+    },
+    {
+      "title": "카레",
+      "link": "https://www.instagram.com/___uncurry/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 161-6",
+      "roadAddress": "서울특별시 성북구 성북로 62-1",
+      "mapx": "1270020459",
+      "mapy": "375931769"
+    }
+  ]
+}

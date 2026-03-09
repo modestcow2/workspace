@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "유앤피",
+      "link": "https://www.instagram.com/unp_sajik",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 3층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
+      "mapx": "1269655475",
+      "mapy": "375756345"
+    },
+    {
+      "title": "몰림",
+      "link": "https://app.catchtable.co.kr/ct/shop/mollim",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 146 몰림",
+      "roadAddress": "서울특별시 종로구 사직로10길 5 몰림",
+      "mapx": "1269705040",
+      "mapy": "375756787"
+    },
+    {
+      "title": "코브홉스",
+      "link": "",
+      "category": "술집>바(BAR)",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 23 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 23 1층",
+      "mapx": "1269710818",
+      "mapy": "375764121"
+    },
+    {
+      "title": "칼리가리박사의밀실",
+      "link": "http://www.caligaribrewing.com/",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 24",
+      "roadAddress": "서울특별시 종로구 자하문로1길 25",
+      "mapx": "1269710004",
+      "mapy": "375764179"
+    },
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
+    }
+  ]
+}

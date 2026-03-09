@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "부부식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-152 2층 부부식당",
+      "roadAddress": "서울특별시 종로구 동숭길 43 2층 부부식당",
+      "mapx": "1270042971",
+      "mapy": "375802451"
+    },
+    {
+      "title": "조선식당",
+      "link": "https://blog.naver.com/dopal06",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-33",
+      "roadAddress": "서울특별시 종로구 대학로 128",
+      "mapx": "1270021227",
+      "mapy": "375827306"
+    },
+    {
+      "title": "순댕이네",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동",
+      "roadAddress": "",
+      "mapx": "1269995000",
+      "mapy": "375786000"
+    },
+    {
+      "title": "동화고옥 을지로점",
+      "link": "https://openine.com/동화고옥",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 323 1층 123호",
+      "roadAddress": "서울특별시 중구 을지로 170 1층 123호",
+      "mapx": "1269978993",
+      "mapy": "375659332"
+    },
+    {
+      "title": "찌개랑찜이랑",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 259 2층",
+      "roadAddress": "서울특별시 종로구 종로 250 2층",
+      "mapx": "1270055417",
+      "mapy": "375708422"
+    }
+  ]
+}

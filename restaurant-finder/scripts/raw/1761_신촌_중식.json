@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "완차이",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-35 1층 완차이",
+      "roadAddress": "서울특별시 서대문구 명물길 50-7 1층 완차이",
+      "mapx": "1269393929",
+      "mapy": "375587237"
+    },
+    {
+      "title": "가화만사성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-8 2층",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 1 2층",
+      "mapx": "1269361103",
+      "mapy": "375570298"
+    },
+    {
+      "title": "댄싱홍콩 <b>신촌</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-77 1층 댄싱홍콩",
+      "roadAddress": "서울특별시 서대문구 연세로12길 37-4 1층 댄싱홍콩",
+      "mapx": "1269391153",
+      "mapy": "375592662"
+    },
+    {
+      "title": "훠궈먹고 <b>신촌</b>점",
+      "link": "https://www.instagram.com/hotpot_mukgo_official/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-30 2층",
+      "roadAddress": "서울특별시 서대문구 연세로 10 2층",
+      "mapx": "1269370569",
+      "mapy": "375563872"
+    },
+    {
+      "title": "청화원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-1 1층 청화원",
+      "roadAddress": "서울특별시 서대문구 명물길 10 1층 청화원",
+      "mapx": "1269375150",
+      "mapy": "375574695"
+    }
+  ]
+}

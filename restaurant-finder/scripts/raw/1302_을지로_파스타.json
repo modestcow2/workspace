@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>을지로</b> 이멜다분식",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/imeldafnb",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 산림동 207-1 청계세운상가 3층 바열 315호",
+      "roadAddress": "서울특별시 중구 청계천로 160 청계세운상가 3층 바열 315호",
+      "mapx": "1269955021",
+      "mapy": "375677499"
+    },
+    {
+      "title": "떼르세로 코스테스",
+      "link": "https://www.instagram.com/tercero_costes",
+      "category": "음식점>스페인음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 158-15 2층",
+      "roadAddress": "서울특별시 중구 마른내로2길 30 2층",
+      "mapx": "1269915224",
+      "mapy": "375633277"
+    },
+    {
+      "title": "더 시옷",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesiot",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-15 OK빌딩 2층",
+      "roadAddress": "서울특별시 중구 수표로 30 OK빌딩 2층",
+      "mapx": "1269903062",
+      "mapy": "375638355"
+    },
+    {
+      "title": "20 어클락 모먼트",
+      "link": "https://www.instagram.com/twenty_moment/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 77 은희네해장국 건물 2층 20어클락모먼트",
+      "roadAddress": "서울특별시 중구 창경궁로5길 5 은희네해장국 건물 2층 20어클락모먼트",
+      "mapx": "1269977467",
+      "mapy": "375670765"
+    },
+    {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    }
+  ]
+}

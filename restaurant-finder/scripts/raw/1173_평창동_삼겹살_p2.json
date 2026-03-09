@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼각산",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 85-25",
+      "roadAddress": "서울특별시 종로구 진흥로 435",
+      "mapx": "1269573129",
+      "mapy": "376083967"
+    },
+    {
+      "title": "유현수의 숙성일미",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 193-1 A동 1층 101호",
+      "roadAddress": "서울특별시 종로구 평창문화로 84 A동 1층 101호",
+      "mapx": "1269704784",
+      "mapy": "376065907"
+    },
+    {
+      "title": "정선곤드레쌈밥",
+      "link": "",
+      "category": "한식>쌈밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 66-72 안성타워 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 152 안성타워 1층",
+      "mapx": "1269762618",
+      "mapy": "376100653"
+    },
+    {
+      "title": "꼬들집 평창점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 230-3 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 52 1층",
+      "mapx": "1269672906",
+      "mapy": "376056012"
+    },
+    {
+      "title": "이모네산장",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 88-40 2층",
+      "roadAddress": "서울특별시 종로구 진흥로 445 2층",
+      "mapx": "1269580770",
+      "mapy": "376077752"
+    }
+  ]
+}

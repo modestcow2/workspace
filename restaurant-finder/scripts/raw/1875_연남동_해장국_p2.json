@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "송가네감자탕 연남본점",
+      "link": "https://www.songganegamjatang.com/",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 258-10 송가네감자탕",
+      "roadAddress": "서울특별시 마포구 동교로 245 송가네감자탕",
+      "mapx": "1269240761",
+      "mapy": "375618556"
+    },
+    {
+      "title": "모모칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-250 1층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 98 1층",
+      "mapx": "1269172729",
+      "mapy": "375657887"
+    },
+    {
+      "title": "웰빙쌈밥<b>해장국</b>",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 573-1",
+      "roadAddress": "서울특별시 마포구 연남로 52",
+      "mapx": "1269223871",
+      "mapy": "375620676"
+    },
+    {
+      "title": "평안도식당 신촌점",
+      "link": "https://www.instagram.com/leejin3020",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 29-30 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 12 1층",
+      "mapx": "1269377470",
+      "mapy": "375570469"
+    },
+    {
+      "title": "안동실비 홍대본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/andongsilbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 459-7 1층",
+      "roadAddress": "서울특별시 마포구 동교로 125 1층",
+      "mapx": "1269159020",
+      "mapy": "375550970"
+    }
+  ]
+}

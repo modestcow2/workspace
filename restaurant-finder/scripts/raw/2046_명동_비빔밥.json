@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "목멱산방 남산타워점",
+      "link": "http://instagram.com/m_horaeng",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 산5-6",
+      "roadAddress": "서울특별시 중구 남산공원길 627",
+      "mapx": "1269853285",
+      "mapy": "375553582"
+    },
+    {
+      "title": "목멱산방",
+      "link": "https://mmmroom.co.kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
+      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
+      "mapx": "1269869447",
+      "mapy": "375581107"
+    },
+    {
+      "title": "더식당 <b>명동</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesikdang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 31-4 2층",
+      "roadAddress": "서울특별시 중구 명동10길 36 2층",
+      "mapx": "1269855667",
+      "mapy": "375622625"
+    },
+    {
+      "title": "오공일 <b>명동</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로2가 111-1 2층",
+      "roadAddress": "서울특별시 중구 남대문로 55 2층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
+    },
+    {
+      "title": "해밀가 종각점",
+      "link": "https://app.catchtable.co.kr/ct/shop/HAEMILGA",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 85 2층 201호",
+      "roadAddress": "서울특별시 중구 남대문로 125 2층 201호",
+      "mapx": "1269823089",
+      "mapy": "375683770"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "황생가칼국수연세동문회관점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 신촌동 134 연세동문회관 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로 50 연세동문회관 지하1층",
+      "mapx": "1269425900",
+      "mapy": "375626642"
+    },
+    {
+      "title": "목포집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 16-21",
+      "roadAddress": "서울특별시 서대문구 성산로 486",
+      "mapx": "1269412340",
+      "mapy": "375606800"
+    },
+    {
+      "title": "신촌순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-99 2층",
+      "roadAddress": "서울특별시 서대문구 신촌로 125 2층",
+      "mapx": "1269397638",
+      "mapy": "375562966"
+    },
+    {
+      "title": "우사골순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-33 1호 우사골순대국밥",
+      "roadAddress": "서울특별시 서대문구 이화여대3길 12 1호 우사골순대국밥",
+      "mapx": "1269451023",
+      "mapy": "375580907"
+    },
+    {
+      "title": "평안도찹쌀순대 마포 애오개역점",
+      "link": "",
+      "category": "육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 780 상가207호",
+      "roadAddress": "서울특별시 마포구 굴레방로1길 25 상가207호",
+      "mapx": "1269560960",
+      "mapy": "375538556"
+    }
+  ]
+}

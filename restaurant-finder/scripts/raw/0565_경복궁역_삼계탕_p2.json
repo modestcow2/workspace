@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "토속촌 <b>삼계탕</b>",
+      "link": "http://www.tosokchon.co.kr/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 85-1 토속촌",
+      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
+      "mapx": "1269716148",
+      "mapy": "375776587"
+    },
+    {
+      "title": "흑궁흑염소 광화문직영점",
+      "link": "https://naver.me/5wWIpxPz",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 74 지하1층 103호, 104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층 103호, 104호",
+      "mapx": "1269731380",
+      "mapy": "375737740"
+    },
+    {
+      "title": "토담<b>삼계탕</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 211 1층 좌측호",
+      "roadAddress": "서울특별시 종로구 사직로 101 1층 좌측호",
+      "mapx": "1269699384",
+      "mapy": "375762538"
+    },
+    {
+      "title": "통영굴밥 경복궁점",
+      "link": "",
+      "category": "한식>굴요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
+      "mapx": "1269733152",
+      "mapy": "375753857"
+    },
+    {
+      "title": "명작신의주찹쌀순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    }
+  ]
+}

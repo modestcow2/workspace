@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이삭토스트 서울<b>성균관대</b>점",
+      "link": "https://smartorder.beaverworksinc.com/brand/901216",
+      "category": "분식>토스트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 143-9",
+      "roadAddress": "서울특별시 종로구 성균관로 18",
+      "mapx": "1269976010",
+      "mapy": "375844270"
+    },
+    {
+      "title": "김밥천국 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 218 1층 김밥천국",
+      "roadAddress": "서울특별시 종로구 성균관로 13-1 1층 김밥천국",
+      "mapx": "1269976738",
+      "mapy": "375839836"
+    },
+    {
+      "title": "배떡 <b>성균관대</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 550-5 102호",
+      "roadAddress": "경기도 수원시 장안구 하률로 17 102호",
+      "mapx": "1269751768",
+      "mapy": "373030554"
+    },
+    {
+      "title": "홍컵 <b>성균관대</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 290-20",
+      "roadAddress": "경기도 수원시 장안구 서부로2126번길 38",
+      "mapx": "1269736794",
+      "mapy": "372976423"
+    },
+    {
+      "title": "알촌 수원 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-119",
+      "roadAddress": "경기도 수원시 장안구 서부로2106번길 32",
+      "mapx": "1269716966",
+      "mapy": "372974989"
+    }
+  ]
+}

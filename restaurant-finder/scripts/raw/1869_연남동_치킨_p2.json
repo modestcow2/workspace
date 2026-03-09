@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "주류충전소 연남점",
+      "link": "https://www.instagram.com/alcohol_station274?igsh=OThlbmhpMm1xcjRn&utm_source=qr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 224-33 1층",
+      "roadAddress": "서울특별시 마포구 동교로 274 1층",
+      "mapx": "1269261201",
+      "mapy": "375637193"
+    },
+    {
+      "title": "삐딱 연남점",
+      "link": "https://app.catchtable.co.kr/ct/shop/bbiddak_yeonnam?from=share&type=WAITING",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-48 1층",
+      "roadAddress": "서울특별시 마포구 동교로34길 6 1층",
+      "mapx": "1269246903",
+      "mapy": "375609610"
+    },
+    {
+      "title": "옥돌누룽지통닭 홍대연남점",
+      "link": "https://naver.me/Gsop3sQg",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-99 1층",
+      "roadAddress": "서울특별시 마포구 연희로1길 59-2 1층",
+      "mapx": "1269264367",
+      "mapy": "375615701"
+    },
+    {
+      "title": "준이네 연남",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsyeonnam",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-71 1.5층",
+      "roadAddress": "서울특별시 마포구 동교로38길 13 1.5층",
+      "mapx": "1269250032",
+      "mapy": "375620588"
+    },
+    {
+      "title": "헬로인디아",
+      "link": "https://blog.naver.com/helloindia81",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-51 1층",
+      "roadAddress": "서울특별시 마포구 연남로3길 9 1층",
+      "mapx": "1269219680",
+      "mapy": "375612735"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카산도 혜화대학로점",
+      "link": "https://www.instagram.com/kasando._.hyehwa/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-145 1층 카산도 대학로점",
+      "roadAddress": "서울특별시 종로구 동숭길 55 1층 카산도 대학로점",
+      "mapx": "1270042262",
+      "mapy": "375808772"
+    },
+    {
+      "title": "아비꼬 대학로점",
+      "link": "http://abiko.kr/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-66",
+      "roadAddress": "서울특별시 종로구 대학로12길 22",
+      "mapx": "1270030920",
+      "mapy": "375825432"
+    },
+    {
+      "title": "니로사레스토랑",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-152",
+      "roadAddress": "서울특별시 종로구 동숭길 43",
+      "mapx": "1270043630",
+      "mapy": "375802065"
+    },
+    {
+      "title": "후라토식당 혜화점",
+      "link": "https://www.instagram.com/furato.hyehwa?igsh=MWQyaTNtbXN2bzQyMw%3D%3D&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-153 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 39 2층",
+      "mapx": "1270042712",
+      "mapy": "375799919"
+    },
+    {
+      "title": "고씨네 대학로점",
+      "link": "http://www.gossine.com",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-89 지하1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 63 지하1층",
+      "mapx": "1270039830",
+      "mapy": "375812207"
+    }
+  ]
+}

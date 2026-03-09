@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그동네떡볶이 연남점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 259-16 1층",
+      "roadAddress": "서울특별시 마포구 동교로 243 1층",
+      "mapx": "1269241019",
+      "mapy": "375616751"
+    },
+    {
+      "title": "올바른김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-5 1층 올바른김밥",
+      "roadAddress": "서울특별시 마포구 동교로46길 42 1층 올바른김밥",
+      "mapx": "1269268129",
+      "mapy": "375621011"
+    },
+    {
+      "title": "홍쌤떡볶이 연남점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 504-23 1층",
+      "roadAddress": "서울특별시 마포구 연남로5길 36 1층",
+      "mapx": "1269200421",
+      "mapy": "375614791"
+    },
+    {
+      "title": "소풍김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 255-20",
+      "roadAddress": "서울특별시 마포구 동교로 251",
+      "mapx": "1269241853",
+      "mapy": "375623802"
+    },
+    {
+      "title": "보스김밥",
+      "link": "https://www.bosskimbap.com",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 252-13 1층",
+      "roadAddress": "서울특별시 마포구 성미산로 138 1층",
+      "mapx": "1269219735",
+      "mapy": "375634651"
+    }
+  ]
+}

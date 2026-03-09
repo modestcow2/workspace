@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오제제 광화문",
+      "link": "https://www.instagram.com/ojeje.seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
+      "mapx": "1269783077",
+      "mapy": "375684118"
+    },
+    {
+      "title": "알돈 본점",
+      "link": "https://www.instagram.com/r_don22",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 70 지하1층, 11호",
+      "roadAddress": "서울특별시 중구 다동길 43 지하1층, 11호",
+      "mapx": "1269818391",
+      "mapy": "375682023"
+    },
+    {
+      "title": "분지로 한국본점",
+      "link": "https://www.instagram.com/bunjiro_kr",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 13층",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 13층",
+      "mapx": "1269816120",
+      "mapy": "375646957"
+    },
+    {
+      "title": "카츠왕 <b>시청역</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 1층 102호",
+      "mapx": "1269742731",
+      "mapy": "375622864"
+    },
+    {
+      "title": "라밥 시청점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
+    }
+  ]
+}

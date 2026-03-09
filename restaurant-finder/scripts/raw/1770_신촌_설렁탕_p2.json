@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "평안도식당 <b>신촌</b>점",
+      "link": "https://www.instagram.com/leejin3020",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 29-30 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 12 1층",
+      "mapx": "1269377470",
+      "mapy": "375570469"
+    },
+    {
+      "title": "독립문1897<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 31-26 1층 101호",
+      "roadAddress": "서울특별시 서대문구 명물1길 2 1층 101호",
+      "mapx": "1269374685",
+      "mapy": "375577670"
+    },
+    {
+      "title": "나주곰탕냉면 본점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-5 신촌푸르지오시티 101호~102호 나주곰탕",
+      "roadAddress": "서울특별시 서대문구 신촌역로 7 신촌푸르지오시티 101호~102호 나주곰탕",
+      "mapx": "1269426054",
+      "mapy": "375574786"
+    },
+    {
+      "title": "<b>신촌설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 31-36",
+      "roadAddress": "서울특별시 서대문구 연세로 24",
+      "mapx": "1269371621",
+      "mapy": "375577365"
+    },
+    {
+      "title": "예강설농탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 186-19",
+      "roadAddress": "서울특별시 마포구 신촌로12길 30",
+      "mapx": "1269325052",
+      "mapy": "375550501"
+    }
+  ]
+}

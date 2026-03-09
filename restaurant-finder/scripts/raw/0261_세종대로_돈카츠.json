@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오제제 광화문",
+      "link": "https://www.instagram.com/ojeje.seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
+      "mapx": "1269783077",
+      "mapy": "375684118"
+    },
+    {
+      "title": "키보아츠아츠 광화문",
+      "link": "https://www.instagram.com/keebo.co",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 West동 지하1층 B108-1호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "카츠쇼신 서울역그랜드센트럴점",
+      "link": "https://www.instagram.com/katsu_shoshin",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "라밥 시청점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
+    },
+    {
+      "title": "하나센뚝배기돈가스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-15 덕재빌딩1층하나센",
+      "roadAddress": "서울특별시 중구 세종대로 70 덕재빌딩1층하나센",
+      "mapx": "1269766278",
+      "mapy": "375623634"
+    }
+  ]
+}

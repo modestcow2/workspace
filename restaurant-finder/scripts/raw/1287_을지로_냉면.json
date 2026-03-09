@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우래옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 118-1",
+      "roadAddress": "서울특별시 중구 창경궁로 62-29",
+      "mapx": "1269987029",
+      "mapy": "375682697"
+    },
+    {
+      "title": "평래옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 18-1",
+      "roadAddress": "서울특별시 중구 마른내로 21-1",
+      "mapx": "1269903879",
+      "mapy": "375649010"
+    },
+    {
+      "title": "대엽 <b>을지로</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/daeyeop_euljiro",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 342-5 1층",
+      "roadAddress": "서울특별시 중구 을지로 114 1층",
+      "mapx": "1269904676",
+      "mapy": "375661005"
+    },
+    {
+      "title": "강남 돼지상회 무한리필 명동직영점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-22 3층",
+      "roadAddress": "서울특별시 중구 명동3길 44 3층",
+      "mapx": "1269836364",
+      "mapy": "375656305"
+    },
+    {
+      "title": "유천<b>냉면</b> 해늘찹쌀순대 명동점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-46 1층",
+      "roadAddress": "서울특별시 중구 명동3길 17 1층",
+      "mapx": "1269834280",
+      "mapy": "375645166"
+    }
+  ]
+}

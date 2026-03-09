@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "나누미떡볶이 성대본점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 225",
+      "roadAddress": "서울특별시 종로구 성균관로 9-1",
+      "mapx": "1269979068",
+      "mapy": "375837668"
+    },
+    {
+      "title": "동심떡볶이 대왕수제튀김 대학로본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 140-2 1층",
+      "roadAddress": "서울특별시 종로구 성균관로5길 5 1층",
+      "mapx": "1269971346",
+      "mapy": "375843507"
+    },
+    {
+      "title": "이명근떡볶이",
+      "link": "https://blog.naver.com/qlxmfj",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜1가 10-20 1층",
+      "roadAddress": "서울특별시 종로구 명륜길 16 1층",
+      "mapx": "1269959961",
+      "mapy": "375881899"
+    },
+    {
+      "title": "가마솥<b>순대</b>국밥 대학로점",
+      "link": "https://kamasot.co.kr/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 92",
+      "roadAddress": "서울특별시 종로구 대학로 123",
+      "mapx": "1270016054",
+      "mapy": "375821327"
+    },
+    {
+      "title": "혜화가마솥소머리<b>순대</b>국밥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 102-1 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로35길 3 1층",
+      "mapx": "1270012661",
+      "mapy": "375861329"
+    }
+  ]
+}

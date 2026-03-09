@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "솥내음 서울역 <b>남대문시장</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-11 지하1층",
+      "roadAddress": "서울특별시 중구 통일로 10 지하1층",
+      "mapx": "1269736575",
+      "mapy": "375570913"
+    },
+    {
+      "title": "솔솥 시청역점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 2층 201호",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 2층 201호",
+      "mapx": "1269742207",
+      "mapy": "375623476"
+    },
+    {
+      "title": "미도인 그랜드센트럴",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 105, 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 105, 106호",
+      "mapx": "1269743613",
+      "mapy": "375579375"
+    },
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "가메골손왕만두 <b>남대문</b>본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
+    }
+  ]
+}

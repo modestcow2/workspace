@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미도인 그랜드센트럴",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 105, 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 105, 106호",
+      "mapx": "1269743613",
+      "mapy": "375579375"
+    },
+    {
+      "title": "심퍼티쿠시 서울역점",
+      "link": "https://szimpatikus.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "콘피에르",
+      "link": "https://www.confier.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하 2층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하 2층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "놉스 서울역점",
+      "link": "https://app.catchtable.co.kr/ct/shop/noproblemsteak",
+      "category": "양식>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 2층 201호",
+      "roadAddress": "서울특별시 중구 세종대로 14 2층 201호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "바리에가타 명동",
+      "link": "https://www.variegata.company/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
+      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
+    }
+  ]
+}

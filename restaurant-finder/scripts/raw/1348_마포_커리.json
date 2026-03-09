@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카레시 합정본점",
+      "link": "https://www.instagram.com/karesi_soupcurry",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 404-14 1층",
+      "roadAddress": "서울특별시 마포구 독막로9길 31 1층",
+      "mapx": "1269202478",
+      "mapy": "375496722"
+    },
+    {
+      "title": "오레타치카레",
+      "link": "https://www.instagram.com/oretachicurry.korea",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 166-5 1층",
+      "roadAddress": "서울특별시 마포구 홍익로6길 83 1층",
+      "mapx": "1269255960",
+      "mapy": "375574068"
+    },
+    {
+      "title": "토모토카레 홍대점",
+      "link": "",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 335-4 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 27 1층",
+      "mapx": "1269284068",
+      "mapy": "375550653"
+    },
+    {
+      "title": "<b>커리</b>지널",
+      "link": "http://instagram.com/curriginal",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 378-1 1층 커리지널",
+      "roadAddress": "서울특별시 마포구 잔다리로7안길 3 1층 커리지널",
+      "mapx": "1269173437",
+      "mapy": "375529395"
+    },
+    {
+      "title": "카츠몬스터 연남본점",
+      "link": "https://www.instagram.com/katsumon.ynd",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-18 1층 101호 카츠몬스터 연남본점",
+      "roadAddress": "서울특별시 마포구 동교로38길 42-6 1층 101호 카츠몬스터 연남본점",
+      "mapx": "1269255679",
+      "mapy": "375610304"
+    }
+  ]
+}

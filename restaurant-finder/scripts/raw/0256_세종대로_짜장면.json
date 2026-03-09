@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "친니",
+      "link": "http://www.chinee.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
+      "mapx": "1269762577",
+      "mapy": "375724523"
+    },
+    {
+      "title": "대륙중화요리",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 361-1 3층",
+      "roadAddress": "서울특별시 중구 세종대로 91 3층",
+      "mapx": "1269765829",
+      "mapy": "375645599"
+    },
+    {
+      "title": "Chai797 광화문SFC점",
+      "link": "http://www.chai797.co.kr/",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 B2층 F&B 202호",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 B2층 F&B 202호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "대상해",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
+      "mapx": "1269765840",
+      "mapy": "375683348"
+    },
+    {
+      "title": "영빈루블랙 그랜드센트럴점",
+      "link": "https://blog.naver.com/aking01795",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    }
+  ]
+}

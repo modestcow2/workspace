@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아리랑 수미감자탕 본점",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동5가 154 1층",
+      "roadAddress": "서울특별시 성북구 아리랑로 54 1층",
+      "mapx": "1270148621",
+      "mapy": "375975831"
+    },
+    {
+      "title": "<b>정릉</b>골 갈비탕",
+      "link": "",
+      "category": "한식>갈비탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 107-33 . 1층",
+      "roadAddress": "서울특별시 성북구 아리랑로 117 . 1층",
+      "mapx": "1270133932",
+      "mapy": "376022905"
+    },
+    {
+      "title": "손큰할매순대국 국민대점",
+      "link": "https://www.sonkun.co.kr",
+      "category": "육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 675-1",
+      "roadAddress": "서울특별시 성북구 정릉로 169",
+      "mapx": "1270038986",
+      "mapy": "376080213"
+    },
+    {
+      "title": "신천순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 161-15",
+      "roadAddress": "서울특별시 성북구 정릉로 253",
+      "mapx": "1270121236",
+      "mapy": "376045554"
+    },
+    {
+      "title": "고고상회",
+      "link": "http://instagram.com/ggs_gogostore",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 350-10 1층 고고상회 정릉시장",
+      "roadAddress": "서울특별시 성북구 솔샘로6길 56 1층 고고상회 정릉시장",
+      "mapx": "1270078706",
+      "mapy": "376091412"
+    }
+  ]
+}

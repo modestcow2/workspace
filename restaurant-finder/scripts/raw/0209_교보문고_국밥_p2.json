@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "광화문<b>국밥</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    },
+    {
+      "title": "엄용백 돼지<b>국밥</b>",
+      "link": "https://www.instagram.com/umyongbaek_kr/",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 194-28",
+      "roadAddress": "서울특별시 종로구 인사동3길 20",
+      "mapx": "1269858222",
+      "mapy": "375718777"
+    },
+    {
+      "title": "안암",
+      "link": "http://instagram.com/anam_inanguk",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4 안암",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
+      "mapx": "1269844784",
+      "mapy": "375794197"
+    },
+    {
+      "title": "농민백암순대 시청직영점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 19-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 33",
+      "mapx": "1269772550",
+      "mapy": "375626099"
+    },
+    {
+      "title": "북촌무궁화",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 137",
+      "roadAddress": "서울특별시 종로구 수표로 126",
+      "mapx": "1269889329",
+      "mapy": "375723618"
+    }
+  ]
+}

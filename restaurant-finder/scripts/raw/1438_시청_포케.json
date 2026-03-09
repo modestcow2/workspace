@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "폴인<b>포케</b> 서울<b>시청</b>점",
+      "link": "https://fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
+      "mapx": "1269775175",
+      "mapy": "375623578"
+    },
+    {
+      "title": "슬로우캘리 서울<b>시청</b>역점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 97-2 1층",
+      "roadAddress": "서울특별시 중구 서소문로 134 1층",
+      "mapx": "1269758636",
+      "mapy": "375635964"
+    },
+    {
+      "title": "서퍼스 <b>포케</b> 성남<b>시청</b>점",
+      "link": "https://www.instagram.com/surfers_poke",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 성남시 중원구 여수동 213 1층",
+      "roadAddress": "경기도 성남시 중원구 성남대로997번길 25-11 1층",
+      "mapx": "1271264327",
+      "mapy": "374181675"
+    },
+    {
+      "title": "그린포유 인계점",
+      "link": "https://blog.naver.com/greenforyou1",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1120 캐슬타워 133호 나혜석 거리입구",
+      "roadAddress": "경기도 수원시 팔달구 권광로 184 캐슬타워 133호 나혜석 거리입구",
+      "mapx": "1270334375",
+      "mapy": "372638833"
+    },
+    {
+      "title": "<b>포케</b>153 <b>시청</b>점",
+      "link": "https://www.instagram.com/poke_153",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "대전광역시 서구 둔산동 1419 1층 103호",
+      "roadAddress": "대전광역시 서구 둔산중로 38 1층 103호",
+      "mapx": "1273872537",
+      "mapy": "363499644"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "계열사",
+      "link": "https://app.catchtable.co.kr/ct/shop/gaeyeoalsa",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 258-3",
+      "roadAddress": "서울특별시 종로구 백석동길 7",
+      "mapx": "1269656561",
+      "mapy": "375928996"
+    },
+    {
+      "title": "유진<b>치킨</b> 홍제점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-119",
+      "roadAddress": "서울특별시 서대문구 세무서7길 13",
+      "mapx": "1269460886",
+      "mapy": "375914939"
+    },
+    {
+      "title": "주땅",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 174-5 지층",
+      "roadAddress": "서울특별시 서대문구 통일로 436 지층",
+      "mapx": "1269454359",
+      "mapy": "375880105"
+    },
+    {
+      "title": "구공<b>치킨</b> 독립문점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 102, 103호",
+      "roadAddress": "서울특별시 종로구 통일로 230 102, 103호",
+      "mapx": "1269584895",
+      "mapy": "375743628"
+    },
+    {
+      "title": "홍제상회",
+      "link": "https://www.instagram.com/hongje_store",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-5 1층",
+      "roadAddress": "서울특별시 서대문구 세무서길 67 1층",
+      "mapx": "1269464261",
+      "mapy": "375909638"
+    }
+  ]
+}

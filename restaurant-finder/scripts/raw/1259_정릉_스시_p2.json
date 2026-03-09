@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연화객당",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 140-9 1층 연화객당",
+      "roadAddress": "서울특별시 성북구 정릉로26길 61 1층 연화객당",
+      "mapx": "1270131255",
+      "mapy": "376027009"
+    },
+    {
+      "title": "어반어찬",
+      "link": "https://www.instagram.com/sushi_urban/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 684-39 1층",
+      "roadAddress": "서울특별시 성북구 솔샘로4길 8 1층",
+      "mapx": "1270052651",
+      "mapy": "376085713"
+    },
+    {
+      "title": "봉제공장미성",
+      "link": "https://blog.naver.com/mew7234",
+      "category": "제조업>의류제작",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 675-1 2층",
+      "roadAddress": "서울특별시 성북구 정릉로 169 2층",
+      "mapx": "1270038993",
+      "mapy": "376080344"
+    },
+    {
+      "title": "육회바른연어 <b>정릉</b>시장점",
+      "link": "https://yby.co.kr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 397-39",
+      "roadAddress": "서울특별시 성북구 보국문로 59",
+      "mapx": "1270094483",
+      "mapy": "376096493"
+    },
+    {
+      "title": "<b>스시</b> 성북",
+      "link": "https://www.instagram.com/sushiseongbuk/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 58-16",
+      "roadAddress": "서울특별시 성북구 성북로 74",
+      "mapx": "1270008029",
+      "mapy": "375935975"
+    }
+  ]
+}

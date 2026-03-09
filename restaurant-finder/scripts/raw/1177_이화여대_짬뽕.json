@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연래춘",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 19-40 2층",
+      "roadAddress": "서울특별시 마포구 신촌로22길 9 (노고산동,2층)",
+      "mapx": "1269403959",
+      "mapy": "375555857"
+    },
+    {
+      "title": "완차이",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-35 1층 완차이",
+      "roadAddress": "서울특별시 서대문구 명물길 50-7 1층 완차이",
+      "mapx": "1269393929",
+      "mapy": "375587237"
+    },
+    {
+      "title": "댄싱홍콩 신촌점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-77 1층 댄싱홍콩",
+      "roadAddress": "서울특별시 서대문구 연세로12길 37-4 1층 댄싱홍콩",
+      "mapx": "1269391153",
+      "mapy": "375592662"
+    },
+    {
+      "title": "가화반점",
+      "link": "https://store.naver.com/restaurants/detail?id=1260872794",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 1015 e편한세상 402동 지하1층 가화반점",
+      "roadAddress": "서울특별시 서대문구 신촌로35길 10 e편한세상 402동 지하1층 가화반점",
+      "mapx": "1269557728",
+      "mapy": "375578776"
+    },
+    {
+      "title": "무궁화반점 신촌점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-44",
+      "roadAddress": "서울특별시 서대문구 신촌로 117",
+      "mapx": "1269389936",
+      "mapy": "375559862"
+    }
+  ]
+}

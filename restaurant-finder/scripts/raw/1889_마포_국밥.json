@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옥동식",
+      "link": "http://instagram.com/okdongsik",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 385-6",
+      "roadAddress": "서울특별시 마포구 양화로7길 44-10",
+      "mapx": "1269144811",
+      "mapy": "375526833"
+    },
+    {
+      "title": "해정집",
+      "link": "https://litt.ly/haejeongjip_",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 396-32 1층 101호",
+      "roadAddress": "서울특별시 마포구 양화로6길 45 1층 101호",
+      "mapx": "1269167238",
+      "mapy": "375489290"
+    },
+    {
+      "title": "월강부산돼지<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 258-14 월강부산돼지국밥",
+      "roadAddress": "서울특별시 마포구 동교로 241-1 월강부산돼지국밥",
+      "mapx": "1269241539",
+      "mapy": "375616319"
+    },
+    {
+      "title": "3일한우<b>국밥</b>",
+      "link": "https://www.instagram.com/francesp89",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 354-11 1층 102호",
+      "roadAddress": "서울특별시 마포구 양화로 120 1층 102호",
+      "mapx": "1269203619",
+      "mapy": "375539514"
+    },
+    {
+      "title": "그레이스<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 242-3",
+      "roadAddress": "서울특별시 마포구 마포대로12길 18",
+      "mapx": "1269547377",
+      "mapy": "375480360"
+    }
+  ]
+}

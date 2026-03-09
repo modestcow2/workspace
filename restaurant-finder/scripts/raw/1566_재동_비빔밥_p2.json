@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://smartstore.naver.com/goodbab7",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269847797",
+      "mapy": "375802375"
+    },
+    {
+      "title": "큰기와집",
+      "link": "https://blog.naver.com/keunkiwajip_0501",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 49-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
+      "mapx": "1269854307",
+      "mapy": "375787275"
+    },
+    {
+      "title": "<b>재동</b>순두부",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-11",
+      "roadAddress": "서울특별시 종로구 북촌로2길 6",
+      "mapx": "1269860789",
+      "mapy": "375778683"
+    },
+    {
+      "title": "삼지",
+      "link": "https://blog.naver.com/samgimoon1000",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
+      "mapx": "1269860086",
+      "mapy": "375782908"
+    },
+    {
+      "title": "신라제면 안국점",
+      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
+      "mapx": "1269862338",
+      "mapy": "375782217"
+    }
+  ]
+}

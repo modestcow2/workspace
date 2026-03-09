@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "마지",
+      "link": "http://templefood.com/",
+      "category": "한식>사찰음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 132-1",
+      "roadAddress": "서울특별시 종로구 자하문로5길 19",
+      "mapx": "1269708015",
+      "mapy": "375776553"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "<b>체부동</b> 수제비와 보리밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 99 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 16 1층",
+      "mapx": "1269710433",
+      "mapy": "375777698"
+    },
+    {
+      "title": "옛날국수맛집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 47-1 옛날국수맛집",
+      "roadAddress": "서울특별시 종로구 자하문로 11 옛날국수맛집",
+      "mapx": "1269721333",
+      "mapy": "375770705"
+    }
+  ]
+}

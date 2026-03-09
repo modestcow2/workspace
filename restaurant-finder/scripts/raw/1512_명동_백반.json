@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
+    },
+    {
+      "title": "<b>명동</b>쭈꾸미 회현역 남대문시장본점",
+      "link": "https://www.instagram.com/myeongdong.jjukkumi/",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 181-6 매일빌딩 1층, 명동쭈꾸미",
+      "roadAddress": "서울특별시 중구 퇴계로6길 3-28 매일빌딩 1층, 명동쭈꾸미",
+      "mapx": "1269793151",
+      "mapy": "375585424"
+    },
+    {
+      "title": "김명숙아지매순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-46",
+      "roadAddress": "서울특별시 중구 퇴계로 62-2",
+      "mapx": "1269791892",
+      "mapy": "375590113"
+    },
+    {
+      "title": "대지식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 수표동 11-4 4층 대지식당",
+      "roadAddress": "서울특별시 중구 수표로 72-13 4층 대지식당",
+      "mapx": "1269904883",
+      "mapy": "375677945"
+    },
+    {
+      "title": "정화네",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동3가 2-6 1층",
+      "roadAddress": "서울특별시 중구 퇴계로16길 8 1층",
+      "mapx": "1269844768",
+      "mapy": "375604079"
+    }
+  ]
+}

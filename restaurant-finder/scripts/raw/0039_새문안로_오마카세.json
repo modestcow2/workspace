@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시온",
+      "link": "https://www.instagram.com/yeonnam_midam/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 57 2층",
+      "roadAddress": "서울특별시 중구 새문안로 28-1 2층",
+      "mapx": "1269689384",
+      "mapy": "375676893"
+    },
+    {
+      "title": "쟈란",
+      "link": "https://app.catchtable.co.kr/ct/shop/zaran",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 제비층 116-1호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 제비층 116-1호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    }
+  ]
+}

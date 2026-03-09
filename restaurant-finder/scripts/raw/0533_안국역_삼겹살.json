@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:51:28 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:32:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375747440"
     },
     {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
-    },
-    {
       "title": "평양고깃집",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
       "mapx": "1269854482",
       "mapy": "375727819"
+    },
+    {
+      "title": "인사동쭈꾸미",
+      "link": "http://instagram.com/insadong_chungsik",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
+      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
+      "mapx": "1269858898",
+      "mapy": "375791440"
     },
     {
       "title": "익선끝집",

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대보정 서울<b>시청</b>역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "스시 <b>오마카세</b> 미나미 구월점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 남동구 구월동 1133-3 1층 103, 104호 전화(032)422-6580",
+      "roadAddress": "인천광역시 남동구 인주대로591번길 74 1층 103, 104호 전화(032)422-6580",
+      "mapx": "1267031168",
+      "mapy": "374533849"
+    },
+    {
+      "title": "스시화정",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwajeong",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 12-4",
+      "roadAddress": "서울특별시 중구 세종대로14길 29",
+      "mapx": "1269783335",
+      "mapy": "375629054"
+    },
+    {
+      "title": "모미지",
+      "link": "https://app.catchtable.co.kr/ct/shop/momiji_official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 화성시 만세구 남양읍 남양리 2282",
+      "roadAddress": "경기도 화성시 만세구 남양읍 시청로32번길 4 2층 202호",
+      "mapx": "1268195241",
+      "mapy": "372065534"
+    },
+    {
+      "title": "다이닝아오",
+      "link": "https://app.catchtable.co.kr/ct/shop/dining_ao",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 1층 112호",
+      "roadAddress": "서울특별시 중구 칠패로 27 1층 112호",
+      "mapx": "1269720478",
+      "mapy": "375600687"
+    }
+  ]
+}

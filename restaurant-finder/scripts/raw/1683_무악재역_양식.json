@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
+    },
+    {
+      "title": "틴 서울",
+      "link": "https://www.instagram.com/tiiin.seoul",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 133 1~2층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 17 1~2층",
+      "mapx": "1269709368",
+      "mapy": "375775737"
+    },
+    {
+      "title": "까사 이태리아",
+      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
+      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
+      "mapx": "1269723542",
+      "mapy": "375787841"
+    },
+    {
+      "title": "팜시티 테이블",
+      "link": "https://kardiaspace.com/place",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-348 1층",
+      "roadAddress": "서울특별시 종로구 경희궁3길 3-5 1층",
+      "mapx": "1269681054",
+      "mapy": "375730210"
+    },
+    {
+      "title": "아리",
+      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 137-5 아리",
+      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
+      "mapx": "1269686902",
+      "mapy": "375765067"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼안갈비촌",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 16-1 1층",
+      "roadAddress": "서울특별시 종로구 대명1길 7 1층",
+      "mapx": "1270010118",
+      "mapy": "375831396"
+    },
+    {
+      "title": "촌놈",
+      "link": "https://blog.naver.com/chssha1029",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-47",
+      "roadAddress": "서울특별시 종로구 대학로8가길 48",
+      "mapx": "1270023479",
+      "mapy": "375829574"
+    },
+    {
+      "title": "고기하다",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 25 고기하다",
+      "roadAddress": "서울특별시 종로구 대학로 133-5 고기하다",
+      "mapx": "1270013669",
+      "mapy": "375829527"
+    },
+    {
+      "title": "육식주 혜화점",
+      "link": "https://www.instagram.com/yuksikju",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 22 1층",
+      "roadAddress": "서울특별시 종로구 대학로 129-4 1층",
+      "mapx": "1270014603",
+      "mapy": "375828124"
+    },
+    {
+      "title": "고은정 <b>대학로</b>본점",
+      "link": "https://blog.naver.com/koeunjung_hh",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 188-14 A&A타워 1층 102호",
+      "roadAddress": "서울특별시 종로구 창경궁로 240-7 A&A타워 1층 102호",
+      "mapx": "1269989806",
+      "mapy": "375824691"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포마스터 충정로본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/phomaster?from=share&type=DINING",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 21-10 1층",
+      "roadAddress": "서울특별시 중구 청파로 451-1 1층",
+      "mapx": "1269681140",
+      "mapy": "375596461"
+    },
+    {
+      "title": "하노이 맛집",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 99-27",
+      "roadAddress": "서울특별시 서대문구 충정로9길 10-5",
+      "mapx": "1269647564",
+      "mapy": "375646364"
+    },
+    {
+      "title": "월미당 충정로점",
+      "link": "https://www.instagram.com/wolmidang_cjn?igsh=NzBxbWVuNXQ1OTZ0",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 250-72 1층",
+      "roadAddress": "서울특별시 서대문구 충정로4길 1 1층",
+      "mapx": "1269638759",
+      "mapy": "375613450"
+    },
+    {
+      "title": "금별맥주 <b>충정로역</b>점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 2동 104호",
+      "roadAddress": "서울특별시 중구 중림로 10 2동 104호",
+      "mapx": "1269654776",
+      "mapy": "375587552"
+    },
+    {
+      "title": "국수나무 충정로점",
+      "link": "https://www.namuya.co.kr/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 476 구세군빌딩 지하 2층",
+      "roadAddress": "서울특별시 서대문구 충정로 7 구세군빌딩 지하 2층",
+      "mapx": "1269622465",
+      "mapy": "375601364"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더타코부스 NYC 안국점",
+      "link": "",
+      "category": "음식점>양식>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 86 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
+      "mapx": "1269860399",
+      "mapy": "375774613"
+    },
+    {
+      "title": "샐러디 종로구청점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 종로1가 대성스카이렉스 1층 110호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 종로1가 대성스카이렉스 1층 110호",
+      "mapx": "1269827978",
+      "mapy": "375724095"
+    },
+    {
+      "title": "사랑해베이글 종로 94빌딩점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 144 94빌딩, 1층 103호",
+      "roadAddress": "서울특별시 종로구 삼봉로 94 94빌딩, 1층 103호",
+      "mapx": "1269822393",
+      "mapy": "375717780"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "샐러드로우 앤 트라타 익선점",
+      "link": "https://www.instagram.com/saladlowtratar_iksun",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 173 1층 샐러드로우앤트라타",
+      "roadAddress": "서울특별시 종로구 돈화문로 65 1층 샐러드로우앤트라타",
+      "mapx": "1269907696",
+      "mapy": "375742407"
+    }
+  ]
+}

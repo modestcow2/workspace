@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "청하식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 120",
+      "roadAddress": "서울특별시 종로구 자하문로10길 25",
+      "mapx": "1269728999",
+      "mapy": "375794749"
+    },
+    {
+      "title": "토방",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 30",
+      "roadAddress": "서울특별시 종로구 자하문로 66-1",
+      "mapx": "1269709589",
+      "mapy": "375819609"
+    },
+    {
+      "title": "백석 흰 당나귀",
+      "link": "",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 260 2층",
+      "roadAddress": "서울특별시 종로구 필운대로 29 2층",
+      "mapx": "1269689143",
+      "mapy": "375785770"
+    },
+    {
+      "title": "가정식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 20",
+      "roadAddress": "서울특별시 종로구 자하문로7길 69",
+      "mapx": "1269689620",
+      "mapy": "375802560"
+    },
+    {
+      "title": "송림정육점",
+      "link": "https://www.instagram.com/songlim_meat?igsh=d3I0N2NyMnUzaXFs",
+      "category": "쇼핑,유통>정육점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 35-16 송림빌딩 1층 송림정육점",
+      "roadAddress": "서울특별시 종로구 필운대로6길 3 송림빌딩 1층 (통인동) 송림정육점",
+      "mapx": "1269688159",
+      "mapy": "375808338"
+    }
+  ]
+}

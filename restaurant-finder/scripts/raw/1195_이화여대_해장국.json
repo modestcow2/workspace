@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "북성<b>해장국</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 154-1",
+      "roadAddress": "서울특별시 서대문구 신촌로35길 7",
+      "mapx": "1269551282",
+      "mapy": "375578309"
+    },
+    {
+      "title": "일등집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 대흥동 3-14",
+      "roadAddress": "서울특별시 마포구 대흥로28길 8",
+      "mapx": "1269463330",
+      "mapy": "375552840"
+    },
+    {
+      "title": "부성감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 대흥동 2-50 1층",
+      "roadAddress": "서울특별시 마포구 대흥로28길 3 1층",
+      "mapx": "1269461831",
+      "mapy": "375553778"
+    },
+    {
+      "title": "평안도찹쌀순대 마포 애오개역점",
+      "link": "",
+      "category": "육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 780 상가207호",
+      "roadAddress": "서울특별시 마포구 굴레방로1길 25 상가207호",
+      "mapx": "1269560960",
+      "mapy": "375538556"
+    },
+    {
+      "title": "신의주찹쌀순대 이대역점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 대흥동 2-9 1층",
+      "roadAddress": "서울특별시 마포구 대흥로30길 6 1층",
+      "mapx": "1269463386",
+      "mapy": "375562518"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "링키지버거 연희본점",
+      "link": "https://www.instagram.com/linkageburger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-29 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 53 1층",
+      "mapx": "1269274597",
+      "mapy": "375663092"
+    },
+    {
+      "title": "바이트 클럽",
+      "link": "https://www.instagram.com/biteclub_br",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 92-21 1층",
+      "roadAddress": "서울특별시 서대문구 증가로 14 1층",
+      "mapx": "1269314118",
+      "mapy": "375697494"
+    },
+    {
+      "title": "센트그릴 BBQ",
+      "link": "http://www.instagram.com/centgrill",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-87 지하 1층 센트그릴",
+      "roadAddress": "서울특별시 서대문구 연희로 89-3 지하 1층 센트그릴",
+      "mapx": "1269299673",
+      "mapy": "375661978"
+    },
+    {
+      "title": "글루글루",
+      "link": "https://blog.naver.com/gluglu22",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 134-28 1층 글루글루",
+      "roadAddress": "서울특별시 서대문구 연희맛로 38 1층 글루글루",
+      "mapx": "1269312091",
+      "mapy": "375682604"
+    },
+    {
+      "title": "버거킹 연희점",
+      "link": "",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-2 신라빌딩",
+      "roadAddress": "서울특별시 서대문구 연희로 97 신라빌딩",
+      "mapx": "1269306610",
+      "mapy": "375668616"
+    }
+  ]
+}

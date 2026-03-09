@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "담원순대 시청본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
+    },
+    {
+      "title": "봉래축산",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-14 지하1층",
+      "roadAddress": "서울특별시 중구 만리재로35길 6 지하1층",
+      "mapx": "1269675992",
+      "mapy": "375555414"
+    },
+    {
+      "title": "금강산식당",
+      "link": "https://www.instagram.com/woojeamyoung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 청파동2가 114-3 금강산식당",
+      "roadAddress": "서울특별시 용산구 청파로 303 금강산식당",
+      "mapx": "1269700499",
+      "mapy": "375466500"
+    },
+    {
+      "title": "삼삼뼈국 <b>서울역</b>점",
+      "link": "https://33soup.co.kr/",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 11-9",
+      "roadAddress": "서울특별시 용산구 후암로 99",
+      "mapx": "1269745262",
+      "mapy": "375534209"
+    },
+    {
+      "title": "정가네황태<b>해장국</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 35-78",
+      "roadAddress": "서울특별시 용산구 후암로57길 45-3",
+      "mapx": "1269742492",
+      "mapy": "375514754"
+    }
+  ]
+}

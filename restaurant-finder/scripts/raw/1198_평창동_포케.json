@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "주얼리 카페, 아티다",
+      "link": "https://www.instagram.com/with_artyida",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 323-4 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 39 1층",
+      "mapx": "1269657760",
+      "mapy": "376052907"
+    },
+    {
+      "title": "라이크샐러드",
+      "link": "https://www.instagram.com/like_salad_SKKU",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-190 1층 LIKE SALAD",
+      "roadAddress": "서울특별시 종로구 명륜길 44 1층 LIKE SALAD",
+      "mapx": "1269949025",
+      "mapy": "375890462"
+    }
+  ]
+}

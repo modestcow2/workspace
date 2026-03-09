@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "유진<b>치킨</b> 홍제점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-119",
+      "roadAddress": "서울특별시 서대문구 세무서7길 13",
+      "mapx": "1269460886",
+      "mapy": "375914939"
+    },
+    {
+      "title": "주땅",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 174-5 지층",
+      "roadAddress": "서울특별시 서대문구 통일로 436 지층",
+      "mapx": "1269454359",
+      "mapy": "375880105"
+    },
+    {
+      "title": "홍제상회",
+      "link": "https://www.instagram.com/hongje_store",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-5 1층",
+      "roadAddress": "서울특별시 서대문구 세무서길 67 1층",
+      "mapx": "1269464261",
+      "mapy": "375909638"
+    },
+    {
+      "title": "BHC<b>치킨</b> 홍제점",
+      "link": "https://www.bhc.co.kr/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 316-1 가동 1층",
+      "roadAddress": "서울특별시 서대문구 통일로37길 42 가동 1층",
+      "mapx": "1269439617",
+      "mapy": "375864718"
+    },
+    {
+      "title": "놀이터통닭구이 홍제점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 300-16 1층",
+      "roadAddress": "서울특별시 서대문구 통일로40길 17 1층",
+      "mapx": "1269437842",
+      "mapy": "375903039"
+    }
+  ]
+}

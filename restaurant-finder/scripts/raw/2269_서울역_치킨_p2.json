@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뽀빠이<b>치킨</b>",
+      "link": "https://www.instagram.com/popeyechicken_huamdong",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 60-20 뽀빠이치킨",
+      "roadAddress": "서울특별시 용산구 후암로 48 뽀빠이치킨",
+      "mapx": "1269775182",
+      "mapy": "375501990"
+    },
+    {
+      "title": "충남호프",
+      "link": "https://www.instagram.com/",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 129-34",
+      "roadAddress": "서울특별시 중구 청파로 425-3",
+      "mapx": "1269689680",
+      "mapy": "375577029"
+    },
+    {
+      "title": "계모임",
+      "link": "https://www.instagram.com/gyemoim_official",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 142 1층 2호",
+      "roadAddress": "서울특별시 중구 중림로 39 1층 2호",
+      "mapx": "1269676320",
+      "mapy": "375578795"
+    },
+    {
+      "title": "랑우",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 631 엘지서울역빌딩 지하1층 랑우",
+      "roadAddress": "서울특별시 중구 후암로 98 엘지서울역빌딩 지하1층 랑우",
+      "mapx": "1269748643",
+      "mapy": "375539640"
+    },
+    {
+      "title": "서울부띠끄",
+      "link": "https://app.catchtable.co.kr/ct/shop/seoulboutique",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-1",
+      "roadAddress": "서울특별시 중구 만리재로 209-1",
+      "mapx": "1269682380",
+      "mapy": "375561132"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "바다한가득 광화문점",
+      "link": "",
+      "category": "한식>조개요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 15-3 2층,3층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 29 2층,3층",
+      "mapx": "1269754598",
+      "mapy": "375714726"
+    },
+    {
+      "title": "본가닭한마리 광화문점",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 40 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11 2층",
+      "mapx": "1269747506",
+      "mapy": "375712149"
+    },
+    {
+      "title": "안식당",
+      "link": "http://www.instagram.com/ahnsikdang_gwanghwamun",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 지하1층 39호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 지하1층 39호",
+      "mapx": "1269736228",
+      "mapy": "375717911"
+    },
+    {
+      "title": "육대장 광화문점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 37-6 1층 육대장",
+      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 1층 육대장",
+      "mapx": "1269750109",
+      "mapy": "375710027"
+    },
+    {
+      "title": "밀가랑 <b>칼국수</b> 광화문점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 B1층 17호, 18호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 17호, 18호",
+      "mapx": "1269743108",
+      "mapy": "375720320"
+    }
+  ]
+}

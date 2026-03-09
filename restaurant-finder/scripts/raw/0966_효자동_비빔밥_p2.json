@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌북촌",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 158 1층(북촌)",
+      "roadAddress": "서울특별시 종로구 자하문로7길 10 1층(북촌)",
+      "mapx": "1269711537",
+      "mapy": "375783804"
+    },
+    {
+      "title": "세종식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 154-5",
+      "roadAddress": "서울특별시 종로구 자하문로 31-10",
+      "mapx": "1269710095",
+      "mapy": "375786597"
+    },
+    {
+      "title": "서촌식당",
+      "link": "http://www.instagram.com/seochondining",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-50",
+      "roadAddress": "서울특별시 종로구 자하문로17길 12",
+      "mapx": "1269699906",
+      "mapy": "375814609"
+    },
+    {
+      "title": "독도16도",
+      "link": "https://app.catchtable.co.kr/ct/shop/dokdo.16.celsius",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 56-1 3층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 2 3층",
+      "mapx": "1269685771",
+      "mapy": "375794702"
+    },
+    {
+      "title": "밥+",
+      "link": "https://www.instagram.com/seochon_bob_plus",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 77-15",
+      "roadAddress": "서울특별시 종로구 옥인길 9",
+      "mapx": "1269680075",
+      "mapy": "375804706"
+    }
+  ]
+}

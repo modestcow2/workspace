@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "츠케루",
+      "link": "http://instagram.com/tsukeru_tsukemen",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 344-6 1층 102호",
+      "roadAddress": "서울특별시 마포구 와우산로23길 9 1층 102호",
+      "mapx": "1269245307",
+      "mapy": "375533814"
+    },
+    {
+      "title": "이츠모<b>라멘</b>",
+      "link": "http://instagram.com/itsumo_ramen",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 342-16 2층 202호",
+      "roadAddress": "서울특별시 마포구 와우산로23길 18-7 2층 202호",
+      "mapx": "1269246495",
+      "mapy": "375539865"
+    },
+    {
+      "title": "무겐스위치",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-51",
+      "roadAddress": "서울특별시 마포구 동교로 242-13",
+      "mapx": "1269251456",
+      "mapy": "375613823"
+    },
+    {
+      "title": "멘야준 <b>홍대</b>점",
+      "link": "http://instagram.com/menyajoon/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 465-2",
+      "roadAddress": "서울특별시 마포구 동교로 128",
+      "mapx": "1269164357",
+      "mapy": "375549263"
+    },
+    {
+      "title": "히루마",
+      "link": "https://www.instagram.com/hiruma_yeonnamdong",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 148-4 2층",
+      "roadAddress": "서울특별시 마포구 연희로1길 19 2층",
+      "mapx": "1269254381",
+      "mapy": "375598887"
+    }
+  ]
+}

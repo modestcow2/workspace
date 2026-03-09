@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "필린 Fillin",
+      "link": "https://www.instagram.com/fillin_focaccia",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 84 . 1층",
+      "roadAddress": "서울특별시 종로구 필운대로1길 12 . 1층",
+      "mapx": "1269688428",
+      "mapy": "375775444"
+    },
+    {
+      "title": "모브",
+      "link": "http://www.instagram.com/cafe_mauve",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 293",
+      "roadAddress": "서울특별시 종로구 사직로8길 7",
+      "mapx": "1269697832",
+      "mapy": "375752529"
+    },
+    {
+      "title": "클로셰",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 167-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 14 1층",
+      "mapx": "1269695034",
+      "mapy": "375774429"
+    },
+    {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    },
+    {
+      "title": "저스트<b>샐러드</b>&amp;쥬스",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1",
+      "roadAddress": "서울특별시 종로구 인왕산로 19",
+      "mapx": "1269654664",
+      "mapy": "375755640"
+    }
+  ]
+}

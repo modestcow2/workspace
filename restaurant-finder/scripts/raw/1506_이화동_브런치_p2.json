@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "효제눅",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 195-17",
+      "roadAddress": "서울특별시 종로구 창경궁로16길 69",
+      "mapx": "1270014607",
+      "mapy": "375750393"
+    },
+    {
+      "title": "플럼피 <b>브런치</b>",
+      "link": "https://instagram.com/plumpy_brunch",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-43 1층",
+      "roadAddress": "서울특별시 종로구 낙산길 7 1층",
+      "mapx": "1270048710",
+      "mapy": "375805880"
+    },
+    {
+      "title": "마가리",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 190-9 1층 MAGARI",
+      "roadAddress": "서울특별시 종로구 대학로 52 1층 MAGARI",
+      "mapx": "1270023170",
+      "mapy": "375757180"
+    },
+    {
+      "title": "홈스테드 대학로점",
+      "link": "http://www.homestead.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-93",
+      "roadAddress": "서울특별시 종로구 대학로8길 25",
+      "mapx": "1270038043",
+      "mapy": "375810234"
+    },
+    {
+      "title": "카르페가든",
+      "link": "http://www.carpegarden.com/",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 90-5",
+      "roadAddress": "서울특별시 종로구 이화장길 36-2",
+      "mapx": "1270046317",
+      "mapy": "375767639"
+    }
+  ]
+}

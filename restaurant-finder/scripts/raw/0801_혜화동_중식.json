@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해피니스 대학로점",
+      "link": "https://blog.naver.com/happieness_hyehwa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 164-1 세훈빌딩 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 40 세훈빌딩 1층",
+      "mapx": "1269996673",
+      "mapy": "375824470"
+    },
+    {
+      "title": "갸우뚱",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyauttung_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 132",
+      "roadAddress": "서울특별시 종로구 대학로9길 25",
+      "mapx": "1270004372",
+      "mapy": "375816140"
+    },
+    {
+      "title": "구룡관 혜화본점",
+      "link": "https://blog.naver.com/guryongmara_",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 21-14",
+      "roadAddress": "서울특별시 종로구 창경궁로 258-5",
+      "mapx": "1270004672",
+      "mapy": "375840543"
+    },
+    {
+      "title": "금문",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 122-5 1940금문",
+      "roadAddress": "서울특별시 종로구 창경궁로 269-1 1940금문",
+      "mapx": "1270006102",
+      "mapy": "375854073"
+    },
+    {
+      "title": "진아춘",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 66-2",
+      "roadAddress": "서울특별시 종로구 대명1길 18",
+      "mapx": "1270006793",
+      "mapy": "375828314"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "심퍼티쿠시 서울역점",
+      "link": "https://szimpatikus.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "콘피에르",
+      "link": "https://www.confier.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하 2층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하 2층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "레스케이프 라망 시크레",
+      "link": "https://catchtable.co.kr/lamantsecret",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 210 레스케이프 호텔 26층",
+      "roadAddress": "서울특별시 중구 퇴계로 67 레스케이프 호텔 26층",
+      "mapx": "1269795418",
+      "mapy": "375596664"
+    },
+    {
+      "title": "미도인 그랜드센트럴",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 105, 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 105, 106호",
+      "mapx": "1269743613",
+      "mapy": "375579375"
+    },
+    {
+      "title": "퍼스트플로어 <b>남대문</b>",
+      "link": "https://blog.naver.com/fraserplace_hotel",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-7",
+      "roadAddress": "서울특별시 중구 세종대로 58",
+      "mapx": "1269764259",
+      "mapy": "375612335"
+    }
+  ]
+}

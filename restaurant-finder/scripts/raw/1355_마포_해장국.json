@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일등식당",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 476-1",
+      "roadAddress": "서울특별시 마포구 방울내로 82",
+      "mapx": "1269043521",
+      "mapy": "375606012"
+    },
+    {
+      "title": "안동실비 홍대본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/andongsilbi",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 459-7 1층",
+      "roadAddress": "서울특별시 마포구 동교로 125 1층",
+      "mapx": "1269159020",
+      "mapy": "375550970"
+    },
+    {
+      "title": "두루미 해장집",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 446-4 1층 ()",
+      "roadAddress": "서울특별시 마포구 동교로 147-1 1층 (서교동)",
+      "mapx": "1269184795",
+      "mapy": "375555424"
+    },
+    {
+      "title": "송가네감자탕 연남본점",
+      "link": "https://www.songganegamjatang.com/",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 258-10 송가네감자탕",
+      "roadAddress": "서울특별시 마포구 동교로 245 송가네감자탕",
+      "mapx": "1269240761",
+      "mapy": "375618556"
+    },
+    {
+      "title": "해정집",
+      "link": "https://litt.ly/haejeongjip_",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 396-32 1층 101호",
+      "roadAddress": "서울특별시 마포구 양화로6길 45 1층 101호",
+      "mapx": "1269167238",
+      "mapy": "375489290"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만추 현대백화점 미아점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 지하1층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 지하1층",
+      "mapx": "1270290846",
+      "mapy": "376084393"
+    },
+    {
+      "title": "미아리우동집",
+      "link": "http://passryu002.hubweb.net/",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 90-113",
+      "roadAddress": "서울특별시 성북구 종암로 176",
+      "mapx": "1270317231",
+      "mapy": "376056027"
+    },
+    {
+      "title": "훈장<b>만두</b> 길음점",
+      "link": "https://www.instagram.com/kosokhwan",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1276 상가 102동 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 248 상가 102동 1층",
+      "mapx": "1270240512",
+      "mapy": "376032145"
+    },
+    {
+      "title": "전설의왕<b>만두</b> 길음점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1286-10",
+      "roadAddress": "서울특별시 성북구 길음로7길 6",
+      "mapx": "1270223486",
+      "mapy": "376046101"
+    },
+    {
+      "title": "국빈",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-680 복천빌딩",
+      "roadAddress": "서울특별시 성북구 종암로21길 71 복천빌딩",
+      "mapx": "1270322451",
+      "mapy": "376014099"
+    }
+  ]
+}

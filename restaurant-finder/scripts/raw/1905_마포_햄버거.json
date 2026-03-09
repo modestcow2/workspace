@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뉴욕아파트먼트",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 473",
+      "roadAddress": "서울특별시 마포구 월드컵로3길 14",
+      "mapx": "1269122609",
+      "mapy": "375509062"
+    },
+    {
+      "title": "풀리너마이트 홍대",
+      "link": "https://blog.naver.com/fullinamite",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 358-103 풀리너마이트 홍대",
+      "roadAddress": "서울특별시 마포구 홍익로 13-4 풀리너마이트 홍대",
+      "mapx": "1269229752",
+      "mapy": "375536729"
+    },
+    {
+      "title": "테이스티버거",
+      "link": "http://www.instagram.com/teisty_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 상수동 317-2 행운빌딩 1층",
+      "roadAddress": "서울특별시 마포구 독막로 67-11 행운빌딩 1층",
+      "mapx": "1269207157",
+      "mapy": "375482433"
+    },
+    {
+      "title": "식스티즈 홍대본점",
+      "link": "http://www.instagram.com/60s_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 344-6 1층",
+      "roadAddress": "서울특별시 마포구 와우산로23길 9 1층",
+      "mapx": "1269244009",
+      "mapy": "375535533"
+    },
+    {
+      "title": "보어드앤헝그리 <b>마포</b>",
+      "link": "https://www.instagram.com/borednhungry_kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 신수동 85-16 1층",
+      "roadAddress": "서울특별시 마포구 광성로6길 36 1층",
+      "mapx": "1269390861",
+      "mapy": "375483165"
+    }
+  ]
+}

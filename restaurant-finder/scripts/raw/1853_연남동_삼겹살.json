@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "부추긴돼지",
+      "link": "https://www.instagram.com/chive_pig",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-103 1층",
+      "roadAddress": "서울특별시 마포구 연희로1길 59 1층",
+      "mapx": "1269264400",
+      "mapy": "375614640"
+    },
+    {
+      "title": "우삼집",
+      "link": "https://app.catchtable.co.kr/ct/shop/woosamjip?from=share&type=WAITING",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-39 1층, 2층",
+      "roadAddress": "서울특별시 마포구 동교로34길 11 1층, 2층",
+      "mapx": "1269250208",
+      "mapy": "375610495"
+    },
+    {
+      "title": "팔계집",
+      "link": "https://blog.naver.com/hello7stranger",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-34 1층",
+      "roadAddress": "서울특별시 마포구 성미산로 194-4 1층",
+      "mapx": "1269262666",
+      "mapy": "375626376"
+    },
+    {
+      "title": "꿀돼지집",
+      "link": "https://tv.naver.com/v/28409240",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-51 2층",
+      "roadAddress": "서울특별시 마포구 동교로 236 2층",
+      "mapx": "1269244503",
+      "mapy": "375608943"
+    },
+    {
+      "title": "풀뜯는돼지",
+      "link": "https://www.instagram.com/pul__pig",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-46 1층 풀뜯는돼지",
+      "roadAddress": "서울특별시 마포구 동교로32길 7 1층 풀뜯는돼지",
+      "mapx": "1269247263",
+      "mapy": "375607968"
+    }
+  ]
+}

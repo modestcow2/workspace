@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "누하의 숲",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 175-2 1F",
+      "roadAddress": "서울특별시 종로구 필운대로 31-1 1F",
+      "mapx": "1269687592",
+      "mapy": "375787996"
+    },
+    {
+      "title": "맘스키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/momskitchen",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 274-1",
+      "roadAddress": "서울특별시 종로구 창의문로 146",
+      "mapx": "1269643922",
+      "mapy": "375929282"
+    },
+    {
+      "title": "도토리브라더스 광화문본점",
+      "link": "http://www.instagram.com/dotori_brothers",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-248 1층 도토리브라더스",
+      "roadAddress": "서울특별시 종로구 경희궁길 41 1층 도토리브라더스",
+      "mapx": "1269692709",
+      "mapy": "375729254"
+    },
+    {
+      "title": "소보로식당",
+      "link": "https://www.instagram.com/soboro_sikdang",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 경희궁 롯데캐슬 상가 1층 118호",
+      "roadAddress": "서울특별시 종로구 통일로 230 경희궁 롯데캐슬 상가 1층 118호",
+      "mapx": "1269591683",
+      "mapy": "375737601"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동화고옥 <b>서울역</b>점",
+      "link": "https://www.instagram.com/donghwagohok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 지하1층 24-1호",
+      "roadAddress": "서울특별시 중구 한강대로 416 지하1층 24-1호",
+      "mapx": "1269737511",
+      "mapy": "375553949"
+    },
+    {
+      "title": "봉래축산",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-14 지하1층",
+      "roadAddress": "서울특별시 중구 만리재로35길 6 지하1층",
+      "mapx": "1269675992",
+      "mapy": "375555414"
+    },
+    {
+      "title": "대보정 서울시청역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "어슬 서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/eoseulcheongdam_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-17 에너지플러스 서울로 13층",
+      "roadAddress": "서울특별시 중구 퇴계로 15 에너지플러스 서울로 13층",
+      "mapx": "1269745560",
+      "mapy": "375570296"
+    },
+    {
+      "title": "오소<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 서계동 223-52",
+      "roadAddress": "서울특별시 용산구 만리재로 194",
+      "mapx": "1269677688",
+      "mapy": "375547138"
+    }
+  ]
+}

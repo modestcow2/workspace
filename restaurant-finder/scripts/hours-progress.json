@@ -1,0 +1,409 @@
+{
+  "1": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "2": {
+    "openHours": "07:30~14:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "3": {
+    "openHours": "11:30~15:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "4": {
+    "openHours": "11:30~14:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "5": {
+    "openHours": "11:30~21:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "6": {
+    "openHours": "11:30~21:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "7": {
+    "openHours": "11:30~21:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "8": {
+    "openHours": "8:00~18:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "9": {
+    "openHours": "10:40~21:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "10": {
+    "openHours": "09:20~20:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "11": {
+    "openHours": "11:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "12": {
+    "openHours": "11:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "13": {
+    "openHours": "11:30~19:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "14": {
+    "openHours": "11:30~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "15": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "16": {
+    "openHours": "11:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "17": {
+    "openHours": "10:00~19:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "18": {
+    "openHours": "11:30~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "19": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "20": {
+    "openHours": "18:00~24:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "21": {
+    "openHours": "11:00~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "22": {
+    "openHours": "11:00~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "23": {
+    "openHours": "11:30~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "24": {
+    "openHours": "11:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "25": {
+    "openHours": "11:00~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "26": {
+    "openHours": "11:30~21:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "27": {
+    "openHours": "10:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "28": {
+    "openHours": "14:00~04:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "29": {
+    "openHours": "18:00~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "30": {
+    "openHours": "11:00~17:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "31": {
+    "openHours": "12:00~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "32": {
+    "openHours": "11:30~13:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "33": {
+    "openHours": "11:00~24:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "34": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "35": {
+    "openHours": "15:30~23:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "36": {
+    "openHours": "12:00~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "37": {
+    "openHours": "11:00~20:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "38": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "39": {
+    "openHours": "12:00~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "40": {
+    "openHours": "14:00~17:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "41": {
+    "openHours": "08:30~21:00",
+    "source": "broad",
+    "status": "found"
+  },
+  "42": {
+    "openHours": "11:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "43": {
+    "openHours": "16:30~03:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "44": {
+    "openHours": "11:00~20:30",
+    "source": "broad",
+    "status": "found"
+  },
+  "45": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "46": {
+    "openHours": "11:00~23:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "47": {
+    "openHours": "11:30~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "48": {
+    "openHours": "11:30~23:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "49": {
+    "openHours": "11:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "50": {
+    "openHours": "11:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "51": {
+    "openHours": "11:30~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "52": {
+    "openHours": "11:30~21:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "53": {
+    "openHours": "08:30~18:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "54": {
+    "openHours": "11:30~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "55": {
+    "openHours": "11:00~20:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "56": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "57": {
+    "openHours": "11:00~20:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "58": {
+    "openHours": "11:00~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "59": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "60": {
+    "openHours": "11:00~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "61": {
+    "openHours": "11:30~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "62": {
+    "openHours": "11:00~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "63": {
+    "openHours": "11:00~21:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "64": {
+    "openHours": "11:00~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "65": {
+    "openHours": "11:30~17:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "66": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "67": {
+    "openHours": "11:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "68": {
+    "openHours": "10:00~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "69": {
+    "openHours": "11:00~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "70": {
+    "openHours": "11:40~21:40",
+    "source": "panel",
+    "status": "found"
+  },
+  "71": {
+    "openHours": "11:30~22:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "72": {
+    "openHours": "11:30~20:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "73": {
+    "openHours": "9:00~16:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "74": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "75": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "76": {
+    "openHours": "10:00~20:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "77": {
+    "openHours": "11:00~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "78": {
+    "openHours": "-",
+    "status": "not_found"
+  },
+  "79": {
+    "openHours": "11:00~20:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "80": {
+    "openHours": "17:30~23:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "81": {
+    "openHours": "10:30~21:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "82": {
+    "openHours": "11:30~21:30",
+    "source": "panel",
+    "status": "found"
+  },
+  "83": {
+    "openHours": "08:00~19:00",
+    "source": "panel",
+    "status": "found"
+  },
+  "84": {
+    "openHours": "-",
+    "status": "not_found"
+  }
+}

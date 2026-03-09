@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "르한스",
+      "link": "https://app.catchtable.co.kr/ct/shop/lehans",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 918",
+      "roadAddress": "서울특별시 성북구 정릉로10길 127",
+      "mapx": "1269983456",
+      "mapy": "376041052"
+    },
+    {
+      "title": "포도집",
+      "link": "http://www.instagram.com/podojib_",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 132-2 1층",
+      "roadAddress": "서울특별시 성북구 정릉로32길 4 1층",
+      "mapx": "1270165782",
+      "mapy": "376027961"
+    },
+    {
+      "title": "예술피자 돈암점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 644 상가2동 106호",
+      "roadAddress": "서울특별시 성북구 아리랑로 75 상가2동 106호",
+      "mapx": "1270135920",
+      "mapy": "375993629"
+    },
+    {
+      "title": "온기종기",
+      "link": "https://www.instagram.com/onkijonki",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 609-1 한진스포트센터 상가 1층 온기종기",
+      "roadAddress": "서울특별시 성북구 성북로4길 52 한진스포트센터 상가 1층 온기종기",
+      "mapx": "1270125119",
+      "mapy": "375966706"
+    },
+    {
+      "title": "음주다방 단독주택 국민대성북직영점",
+      "link": "https://www.instagram.com/dandok_drink_house?igsh=MTlpNWM5dGxxY2NwdA==",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 900-3",
+      "roadAddress": "서울특별시 성북구 정릉로10길 62",
+      "mapx": "1269992446",
+      "mapy": "376072260"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "세이지핀치",
+      "link": "http://instagram.com/_sagefinch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 82-1 1층 sagefinch",
+      "roadAddress": "서울특별시 종로구 필운대로1길 8 1층 sagefinch",
+      "mapx": "1269689774",
+      "mapy": "375774485"
+    },
+    {
+      "title": "아리",
+      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 137-5 아리",
+      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
+      "mapx": "1269686902",
+      "mapy": "375765067"
+    },
+    {
+      "title": "모브",
+      "link": "http://www.instagram.com/cafe_mauve",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 293",
+      "roadAddress": "서울특별시 종로구 사직로8길 7",
+      "mapx": "1269697832",
+      "mapy": "375752529"
+    },
+    {
+      "title": "필린 Fillin",
+      "link": "https://www.instagram.com/fillin_focaccia",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 84 . 1층",
+      "roadAddress": "서울특별시 종로구 필운대로1길 12 . 1층",
+      "mapx": "1269688428",
+      "mapy": "375775444"
+    },
+    {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    }
+  ]
+}

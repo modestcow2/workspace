@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카레",
+      "link": "https://www.instagram.com/___uncurry/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 161-6",
+      "roadAddress": "서울특별시 성북구 성북로 62-1",
+      "mapx": "1270020459",
+      "mapy": "375931769"
+    },
+    {
+      "title": "카츠벨",
+      "link": "https://www.instagram.com/katsubell_",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 116 지상1층",
+      "roadAddress": "서울특별시 성북구 성북로 31 지상1층",
+      "mapx": "1270036109",
+      "mapy": "375907569"
+    },
+    {
+      "title": "조비스그릴",
+      "link": "",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 97-30",
+      "roadAddress": "서울특별시 성북구 성북로 110",
+      "mapx": "1269968608",
+      "mapy": "375933362"
+    },
+    {
+      "title": "중경당",
+      "link": "http://instagram.com/mothersfood_cooking_class/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 87 1층 중경당",
+      "roadAddress": "서울특별시 성북구 창경궁로43길 30 1층 중경당",
+      "mapx": "1270040726",
+      "mapy": "375893443"
+    },
+    {
+      "title": "시올돈 성북직영점",
+      "link": "http://www.sioldon.com",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 89 1층",
+      "roadAddress": "서울특별시 성북구 성북로5길 20 1층",
+      "mapx": "1270040391",
+      "mapy": "375889790"
+    }
+  ]
+}

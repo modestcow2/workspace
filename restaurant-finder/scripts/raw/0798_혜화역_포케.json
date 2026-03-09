@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "샐러링 대학로점",
+      "link": "https://www.instagram.com/salaring_daehakro",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-97 1층",
+      "roadAddress": "서울특별시 종로구 대학로10길 24 1층",
+      "mapx": "1270035234",
+      "mapy": "375816347"
+    },
+    {
+      "title": "Poke all day <b>포케</b>&amp;샐러드 대학로점",
+      "link": "https://pokeallday.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 21-28 2층",
+      "roadAddress": "서울특별시 종로구 창경궁로 256 2층",
+      "mapx": "1270002133",
+      "mapy": "375840628"
+    },
+    {
+      "title": "그리너샐러드 혜화점",
+      "link": "http://greener.or.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 128-16 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 64 1층",
+      "mapx": "1270043218",
+      "mapy": "375810932"
+    },
+    {
+      "title": "슬로우캘리 대학로점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 227-1 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 7-1 1층",
+      "mapx": "1269980883",
+      "mapy": "375835802"
+    },
+    {
+      "title": "샐러디 성대입구점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 230 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 1 1층",
+      "mapx": "1269985230",
+      "mapy": "375831425"
+    }
+  ]
+}

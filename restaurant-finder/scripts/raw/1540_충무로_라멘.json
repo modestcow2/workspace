@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "멘츠루 을지로점",
+      "link": "https://www.instagram.com/menchuru_euljiro/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 158-6 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 26 1층",
+      "mapx": "1269916547",
+      "mapy": "375634193"
+    },
+    {
+      "title": "콘부",
+      "link": "https://app.catchtable.co.kr/ct/shop/konbu_uljiro",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 7-6 1층 콘부",
+      "roadAddress": "서울특별시 중구 수표로 42-19 1층 콘부",
+      "mapx": "1269903413",
+      "mapy": "375650851"
+    },
+    {
+      "title": "존<b>라멘</b>",
+      "link": "http://instagram.com/jonramen",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 19-2 1층",
+      "roadAddress": "서울특별시 중구 퇴계로49길 33 1층",
+      "mapx": "1269990638",
+      "mapy": "375630282"
+    },
+    {
+      "title": "이츠멘",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 80-1 1층 103호",
+      "roadAddress": "서울특별시 중구 퇴계로36길 32 1층 103호",
+      "mapx": "1269951532",
+      "mapy": "375603733"
+    },
+    {
+      "title": "간빠진새 을지로3가점",
+      "link": "https://ganmaek.com/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 19-9 101호",
+      "roadAddress": "서울특별시 중구 을지로14길 27 101호",
+      "mapx": "1269922757",
+      "mapy": "375650440"
+    }
+  ]
+}

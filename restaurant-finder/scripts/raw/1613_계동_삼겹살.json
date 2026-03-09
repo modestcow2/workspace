@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "담솥 안국역점",
+      "link": "http://damsot.com/store/view.html?skey=%BE%C8%B1%B9&cate1=&cate2=&no=50",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-23 1층",
+      "roadAddress": "서울특별시 종로구 계동2길 4 1층",
+      "mapx": "1269868085",
+      "mapy": "375798245"
+    },
+    {
+      "title": "원조부대고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-50 1,2층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 31 1,2층",
+      "mapx": "1269875153",
+      "mapy": "375792731"
+    },
+    {
+      "title": "고기꾼김춘배 종로직영점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
+      "mapx": "1269864928",
+      "mapy": "375690679"
+    },
+    {
+      "title": "익선동목장 종로본점",
+      "link": "http://www.instagram.com/iksun.farm",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 묘동 160-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
+      "mapx": "1269911398",
+      "mapy": "375731869"
+    },
+    {
+      "title": "참돼짓간 종로본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 137 피카디리 cgv극장 1층 1-89호",
+      "roadAddress": "서울특별시 종로구 돈화문로5가길 1 피카디리 cgv극장 1층 1-89호",
+      "mapx": "1269912405",
+      "mapy": "375710346"
+    }
+  ]
+}

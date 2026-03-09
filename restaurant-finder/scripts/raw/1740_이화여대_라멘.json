@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "멘츠루 신촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mentsurusc",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층",
+      "mapx": "1269406214",
+      "mapy": "375589663"
+    },
+    {
+      "title": "멘야소바",
+      "link": "https://www.instagram.com/manyasoba?igsh=MWczZGFwdDNub210OQ==",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-39 1층",
+      "roadAddress": "서울특별시 서대문구 연세로2길 83 1층",
+      "mapx": "1269414211",
+      "mapy": "375571680"
+    },
+    {
+      "title": "코지로 아자스 이대",
+      "link": "https://www.instagram.com/kojiloajaseu/reels/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-36 1층 코지로아자스",
+      "roadAddress": "서울특별시 서대문구 이화여대5길 15 1층 코지로아자스",
+      "mapx": "1269446969",
+      "mapy": "375582907"
+    },
+    {
+      "title": "바라반",
+      "link": "https://www.instagram.com/baraban_seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 91-15 1층",
+      "roadAddress": "서울특별시 서대문구 연대동문길 49 1층",
+      "mapx": "1269445925",
+      "mapy": "375645861"
+    },
+    {
+      "title": "핵밥 이대점",
+      "link": "https://www.hecbob.com/",
+      "category": "음식점>일식>덮밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 54-9 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 26 2층",
+      "mapx": "1269460450",
+      "mapy": "375579858"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "초이<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로6가 83",
+      "roadAddress": "서울특별시 종로구 율곡로 290-2",
+      "mapx": "1270085588",
+      "mapy": "375715041"
+    },
+    {
+      "title": "쿄코코 대학로점",
+      "link": "https://blog.naver.com/kyokoko11",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 70-3 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 38-23 1층",
+      "mapx": "1270004455",
+      "mapy": "375825887"
+    },
+    {
+      "title": "멘츠루 대학로점",
+      "link": "https://www.instagram.com/menchuru_hyehwa?igsh=Z3BzbWd0d2NjMXZy",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 154-3 1층 멘츠루",
+      "roadAddress": "서울특별시 종로구 창경궁로26길 39 1층 멘츠루",
+      "mapx": "1269998393",
+      "mapy": "375820066"
+    },
+    {
+      "title": "츠루츠루 마제소바",
+      "link": "https://www.instagram.com/tsurutsuru.sb",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 삼선동5가 262-3 1층",
+      "roadAddress": "서울특별시 성북구 삼선교로24길 41 1층",
+      "mapx": "1270166057",
+      "mapy": "375884276"
+    },
+    {
+      "title": "을.지로점심 우츄진<b>라멘</b>",
+      "link": "https://wuchuujin.odw.co.kr/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 산림동 207-2 대림상가(세운대림상가) 3층 라열 375호 우츄진",
+      "roadAddress": "서울특별시 중구 을지로 157 대림상가(세운대림상가) 3층 라열 375호 우츄진",
+      "mapx": "1269955170",
+      "mapy": "375668693"
+    }
+  ]
+}

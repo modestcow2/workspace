@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "봉화묵집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 488-1",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 46-2",
+      "mapx": "1270107125",
+      "mapy": "376027154"
+    },
+    {
+      "title": "이천칡냉면",
+      "link": "https://www.instagram.com/2000_7_naengmyeon/",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 674-8 1층",
+      "roadAddress": "서울특별시 성북구 솔샘로 5 1층",
+      "mapx": "1270042258",
+      "mapy": "376083546"
+    },
+    {
+      "title": "할머니만두국",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 107-22",
+      "roadAddress": "서울특별시 성북구 아리랑로19길 9-8",
+      "mapx": "1270127999",
+      "mapy": "376023754"
+    },
+    {
+      "title": "<b>정릉</b>손<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 16-314 1층",
+      "roadAddress": "서울특별시 성북구 정릉로36길 35 1층",
+      "mapx": "1270167462",
+      "mapy": "376022435"
+    },
+    {
+      "title": "옛날<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 151-8",
+      "roadAddress": "서울특별시 성북구 정릉로 266-1",
+      "mapx": "1270128379",
+      "mapy": "376034282"
+    }
+  ]
+}

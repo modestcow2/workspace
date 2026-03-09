@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "진심",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로4가 308 1층 107호",
+      "roadAddress": "서울특별시 중구 충무로2길 9 1층 107호",
+      "mapx": "1269942012",
+      "mapy": "375626242"
+    },
+    {
+      "title": "산수갑산",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 15-4",
+      "roadAddress": "서울특별시 중구 을지로20길 24",
+      "mapx": "1269953138",
+      "mapy": "375653833"
+    },
+    {
+      "title": "제주상회 을지로점",
+      "link": "https://www.instagram.com/jeju.euljiro",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 25-5 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 31 1층",
+      "mapx": "1269915082",
+      "mapy": "375631209"
+    },
+    {
+      "title": "온수반 <b>충무로</b>점",
+      "link": "http://instagram.com/gosure_chungmuro",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 84-91 1층",
+      "roadAddress": "서울특별시 중구 퇴계로34길 16-9 1층",
+      "mapx": "1269927579",
+      "mapy": "375600453"
+    },
+    {
+      "title": "붓골집 필동점",
+      "link": "https://www.instagram.com/butgoljip",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 40-3 1층",
+      "roadAddress": "서울특별시 중구 필동로 27 1층",
+      "mapx": "1269963106",
+      "mapy": "375591667"
+    }
+  ]
+}

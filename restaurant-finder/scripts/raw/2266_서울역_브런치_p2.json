@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "콤바크",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-7 101-4호 콤바크",
+      "roadAddress": "서울특별시 중구 만리재로 193 101-4호 콤바크",
+      "mapx": "1269674083",
+      "mapy": "375551628"
+    },
+    {
+      "title": "제이드앤워터 <b>서울역</b>점",
+      "link": "https://blog.naver.com/jadeandwater_mkt",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-17 2층 202호",
+      "roadAddress": "서울특별시 중구 퇴계로 15 2층 202호",
+      "mapx": "1269745560",
+      "mapy": "375570296"
+    },
+    {
+      "title": "로우피버",
+      "link": "https://www.instagram.com/lowfever_seoul",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 96 1층",
+      "roadAddress": "서울특별시 용산구 후암로 71-2 1층",
+      "mapx": "1269766495",
+      "mapy": "375523413"
+    },
+    {
+      "title": "카페드누시",
+      "link": "http://instagram.com/cafe.nusi",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 445",
+      "roadAddress": "서울특별시 용산구 소월로2길 17 (후암동)",
+      "mapx": "1269766853",
+      "mapy": "375542506"
+    },
+    {
+      "title": "창가<b>브런치</b>",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-19 2층",
+      "roadAddress": "서울특별시 중구 만리재로 199 2층",
+      "mapx": "1269677140",
+      "mapy": "375554561"
+    }
+  ]
+}

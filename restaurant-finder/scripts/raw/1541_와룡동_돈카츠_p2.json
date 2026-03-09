@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "돈까스앤우찌",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 144 하나빌딩 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 83-1 하나빌딩 1층",
+      "mapx": "1269904155",
+      "mapy": "375759175"
+    },
+    {
+      "title": "돈까스인커피",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동",
+      "roadAddress": "",
+      "mapx": "1269930000",
+      "mapy": "375820000"
+    },
+    {
+      "title": "정돈 대학로본점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 107 지층",
+      "roadAddress": "서울특별시 종로구 대학로9길 12 지층",
+      "mapx": "1270011237",
+      "mapy": "375818016"
+    },
+    {
+      "title": "을지돈가스 명동본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-5 1층",
+      "roadAddress": "서울특별시 중구 명동9길 10 1층",
+      "mapx": "1269849975",
+      "mapy": "375643266"
+    },
+    {
+      "title": "메종 아카이 혜화본점",
+      "link": "https://www.instagram.com/maison.akai/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 181 2층",
+      "roadAddress": "서울특별시 종로구 대명길 34 2층",
+      "mapx": "1269996390",
+      "mapy": "375832180"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "경상도식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 1-1",
+      "roadAddress": "",
+      "mapx": "1270054617",
+      "mapy": "375686875"
+    },
+    {
+      "title": "문경식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 27-2",
+      "roadAddress": "서울특별시 중구 을지로18길 11",
+      "mapx": "1269947640",
+      "mapy": "375658770"
+    },
+    {
+      "title": "삼미정",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 산림동 207-2 대림상가 가열 355호",
+      "roadAddress": "서울특별시 중구 을지로 157 대림상가 가열 355호",
+      "mapx": "1269955094",
+      "mapy": "375670040"
+    },
+    {
+      "title": "성원식당 별관",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 5-9",
+      "roadAddress": "서울특별시 중구 을지로20길 32",
+      "mapx": "1269953664",
+      "mapy": "375650582"
+    },
+    {
+      "title": "강산옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 56-3",
+      "roadAddress": "서울특별시 중구 청계천로 196-1",
+      "mapx": "1269993298",
+      "mapy": "375688665"
+    }
+  ]
+}

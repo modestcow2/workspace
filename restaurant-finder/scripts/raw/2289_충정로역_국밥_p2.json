@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "중림장설렁탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 468",
+      "roadAddress": "서울특별시 중구 청파로 459-1",
+      "mapx": "1269677079",
+      "mapy": "375602761"
+    },
+    {
+      "title": "오소오소",
+      "link": "https://www.instagram.com/osooso189",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 189 신원빌딩 지하1층",
+      "roadAddress": "서울특별시 서대문구 충정로 47 신원빌딩 지하1층",
+      "mapx": "1269643918",
+      "mapy": "375633135"
+    },
+    {
+      "title": "충정로 수연",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 419 CENTRAL PLACE 1층",
+      "roadAddress": "서울특별시 중구 서소문로 50 CENTRAL PLACE 1층",
+      "mapx": "1269670084",
+      "mapy": "375608743"
+    },
+    {
+      "title": "태경이네 <b>국밥</b>",
+      "link": "https://www.instagram.com/taekyeong_ine_gugbab/?igsh=MXR0Z25tejlkOXA5ZQ%3D%3D&utm_source=qr",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 255 1층",
+      "roadAddress": "서울특별시 서대문구 충정로4길 4 1층",
+      "mapx": "1269638084",
+      "mapy": "375611570"
+    },
+    {
+      "title": "<b>국밥</b>생각 충정로점",
+      "link": "https://www.국밥생각.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 397-9 1~2층",
+      "roadAddress": "서울특별시 중구 중림로4길 8 1~2층",
+      "mapx": "1269641438",
+      "mapy": "375587731"
+    }
+  ]
+}

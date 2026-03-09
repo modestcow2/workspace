@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "맥썸 대학로점",
+      "link": "http://www.맥썸.com",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 8-1 2층",
+      "roadAddress": "서울특별시 종로구 대명길 9 2층",
+      "mapx": "1270009343",
+      "mapy": "375834293"
+    },
+    {
+      "title": "당나발포차 서울대학로점",
+      "link": "https://dangnabal.com/",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 11-2 1층",
+      "roadAddress": "서울특별시 종로구 대명1길 4 1층",
+      "mapx": "1270007689",
+      "mapy": "375832792"
+    },
+    {
+      "title": "머노까머나 대학로점",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 187 이화빌딩 2층",
+      "roadAddress": "서울특별시 종로구 창경궁로 236 이화빌딩 2층",
+      "mapx": "1269988320",
+      "mapy": "375826920"
+    },
+    {
+      "title": "페르시안궁전",
+      "link": "http://www.persianpalace.com/",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 121-1 1층",
+      "roadAddress": "서울특별시 종로구 성균관로6길 9 1층",
+      "mapx": "1269976014",
+      "mapy": "375849028"
+    },
+    {
+      "title": "러니피즈",
+      "link": "https://www.instagram.com/runnyfizz.pub/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 186-2 2층",
+      "roadAddress": "서울특별시 종로구 대명길 42 2층",
+      "mapx": "1269993116",
+      "mapy": "375829951"
+    }
+  ]
+}

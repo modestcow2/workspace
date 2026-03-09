@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만리재 비스트로",
+      "link": "https://www.instagram.com/mallijae_bistro?igsh=MW9zb3R5aWFtMm1xdw==",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-11",
+      "roadAddress": "서울특별시 중구 만리재로 201",
+      "mapx": "1269678453",
+      "mapy": "375555955"
+    },
+    {
+      "title": "독립밀방 <b>서울역</b>",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-205 서울역사 4층 독립밀방",
+      "roadAddress": "서울특별시 용산구 한강대로 405 서울역사 4층 독립밀방",
+      "mapx": "1269708885",
+      "mapy": "375542027"
+    },
+    {
+      "title": "비스트로미 <b>서울역</b>점",
+      "link": "https://catchtable.co.kr/bistro_me",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 581 지하1층, 서울역 4호선 10번출구 에스컬레이트를 타고나오시면 파리바게뜨옆 회전문으로들어오시면 바로 보입니다서울시티타워 지하1층 건물연결",
+      "roadAddress": "서울특별시 중구 후암로 110 지하1층, 서울역 4호선 10번출구 에스컬레이트를 타고나오시면 파리바게뜨옆 회전문으로들어오시면 바로 보입니다서울시티타워 지하1층 건물연결",
+      "mapx": "1269741038",
+      "mapy": "375543275"
+    },
+    {
+      "title": "서울부띠끄",
+      "link": "https://app.catchtable.co.kr/ct/shop/seoulboutique",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 62-1",
+      "roadAddress": "서울특별시 중구 만리재로 209-1",
+      "mapx": "1269682380",
+      "mapy": "375561132"
+    },
+    {
+      "title": "이레<b>피자</b>하우스",
+      "link": "https://www.instagram.com/ire.pizza.house",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 서계동 229-11 1층",
+      "roadAddress": "서울특별시 용산구 청파로89길 32-3 1층",
+      "mapx": "1269671999",
+      "mapy": "375534415"
+    }
+  ]
+}

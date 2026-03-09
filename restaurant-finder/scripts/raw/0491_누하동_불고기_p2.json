@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "토방",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 30",
+      "roadAddress": "서울특별시 종로구 자하문로 66-1",
+      "mapx": "1269709589",
+      "mapy": "375819609"
+    },
+    {
+      "title": "백석 흰 당나귀",
+      "link": "",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 260 2층",
+      "roadAddress": "서울특별시 종로구 필운대로 29 2층",
+      "mapx": "1269689143",
+      "mapy": "375785770"
+    },
+    {
+      "title": "가정식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 20",
+      "roadAddress": "서울특별시 종로구 자하문로7길 69",
+      "mapx": "1269689620",
+      "mapy": "375802560"
+    },
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    }
+  ]
+}

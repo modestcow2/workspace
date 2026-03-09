@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연희옥 연희점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-55 1층",
+      "roadAddress": "서울특별시 서대문구 연희로 81-26 1층",
+      "mapx": "1269293542",
+      "mapy": "375659575"
+    },
+    {
+      "title": "연희불고기",
+      "link": "https://www.instagram.com/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 190-3 가나센터",
+      "roadAddress": "서울특별시 서대문구 연희맛로 17-63 가나센터",
+      "mapx": "1269288271",
+      "mapy": "375671181"
+    },
+    {
+      "title": "연희일공사국밥 찐심",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 77-1 가운데호",
+      "roadAddress": "서울특별시 서대문구 연희로 195 가운데호",
+      "mapx": "1269352803",
+      "mapy": "375744165"
+    },
+    {
+      "title": "연희 버섯불고기",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 190-3 지하1층 103호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 17-63 지하1층 103호",
+      "mapx": "1269287690",
+      "mapy": "375670973"
+    },
+    {
+      "title": "아름소 순대국 감자탕 삼겹살",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 78-1 . 1층",
+      "roadAddress": "서울특별시 서대문구 연희로 185 . 1층",
+      "mapx": "1269354046",
+      "mapy": "375735811"
+    }
+  ]
+}

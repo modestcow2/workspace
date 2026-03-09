@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대성집",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-35",
+      "roadAddress": "서울특별시 종로구 사직로 5",
+      "mapx": "1269608828",
+      "mapy": "375727012"
+    },
+    {
+      "title": "대성도가니탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 70 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 54 1층",
+      "mapx": "1269619676",
+      "mapy": "375699326"
+    },
+    {
+      "title": "서대문장수가",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 3",
+      "roadAddress": "서울특별시 서대문구 통일로11길 6-1",
+      "mapx": "1269626544",
+      "mapy": "375694017"
+    },
+    {
+      "title": "나주곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 2",
+      "roadAddress": "서울특별시 서대문구 통일로 161-3",
+      "mapx": "1269638300",
+      "mapy": "375683170"
+    },
+    {
+      "title": "마루곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 1-1 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 161-1 1층",
+      "mapx": "1269639237",
+      "mapy": "375683456"
+    }
+  ]
+}

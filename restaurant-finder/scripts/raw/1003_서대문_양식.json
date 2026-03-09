@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마우디",
+      "link": "https://www.instagram.com/maudie_dining",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-18",
+      "roadAddress": "서울특별시 서대문구 연희로11길 18",
+      "mapx": "1269301258",
+      "mapy": "375674593"
+    },
+    {
+      "title": "잇웰 연희",
+      "link": "https://www.instagram.com/eatwell.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 194-24 1층",
+      "roadAddress": "서울특별시 서대문구 연희로8길 24 1층",
+      "mapx": "1269313208",
+      "mapy": "375651344"
+    },
+    {
+      "title": "신촌칼",
+      "link": "https://instagram.com/shinchon_kal",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-96 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
+      "mapx": "1269390887",
+      "mapy": "375578967"
+    },
+    {
+      "title": "와인률연희 연희동본점",
+      "link": "https://blog.naver.com/renguini",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 194-27 1층",
+      "roadAddress": "서울특별시 서대문구 연희로10가길 50 1층",
+      "mapx": "1269306890",
+      "mapy": "375648264"
+    },
+    {
+      "title": "리틀쿠바",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 33-5 2층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 5 2층",
+      "mapx": "1269364347",
+      "mapy": "375589048"
+    }
+  ]
+}

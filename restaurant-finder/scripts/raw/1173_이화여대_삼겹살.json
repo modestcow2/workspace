@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "슭돈 이대역본점",
+      "link": "https://www.instagram.com/ssgdon_official",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 40-39 1층 슭돈 이대역본점",
+      "roadAddress": "서울특별시 서대문구 신촌로 169 1층 슭돈 이대역본점",
+      "mapx": "1269448787",
+      "mapy": "375569572"
+    },
+    {
+      "title": "리정원 신촌점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-26 1층 리정원",
+      "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
+      "mapx": "1269393882",
+      "mapy": "375591466"
+    },
+    {
+      "title": "명물화로 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/MyungmulHwaro",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-34 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 71 1층",
+      "mapx": "1269400770",
+      "mapy": "375592707"
+    },
+    {
+      "title": "웅네서서갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-25",
+      "roadAddress": "서울특별시 서대문구 신촌역로 13-1",
+      "mapx": "1269426093",
+      "mapy": "375579488"
+    },
+    {
+      "title": "제주도로담",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-18",
+      "roadAddress": "서울특별시 서대문구 연세로2마길 14",
+      "mapx": "1269422903",
+      "mapy": "375578108"
+    }
+  ]
+}

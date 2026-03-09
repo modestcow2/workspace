@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>성북동</b>돼지갈비 본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 114-2",
+      "roadAddress": "서울특별시 성북구 성북로 115",
+      "mapx": "1269961462",
+      "mapy": "375933105"
+    },
+    {
+      "title": "쌍다리돼지불백 본점",
+      "link": "https://www.instagram.com/ssangdari/",
+      "category": "육류,고기요리>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 109-2",
+      "roadAddress": "서울특별시 성북구 성북로23길 4",
+      "mapx": "1269958088",
+      "mapy": "375935292"
+    },
+    {
+      "title": "별미가정식집밥",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 133-58",
+      "roadAddress": "서울특별시 성북구 성북로 57",
+      "mapx": "1270020662",
+      "mapy": "375925595"
+    },
+    {
+      "title": "별미가정식<b>백반</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 133-59",
+      "roadAddress": "서울특별시 성북구 성북로 55-1",
+      "mapx": "1270020611",
+      "mapy": "375925640"
+    },
+    {
+      "title": "꿀밥상",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 98-1 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
+      "mapx": "1269818749",
+      "mapy": "375844611"
+    }
+  ]
+}

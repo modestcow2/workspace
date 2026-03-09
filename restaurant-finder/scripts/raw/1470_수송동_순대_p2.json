@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "성가백암<b>순대</b>",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브 1층 성가백암순대",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브 1층 성가백암순대",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "농민백암<b>순대</b> 시청직영점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 19-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 33",
+      "mapx": "1269772550",
+      "mapy": "375626099"
+    },
+    {
+      "title": "화목<b>순대</b>국전문 광화문1호점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 40",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11",
+      "mapx": "1269747764",
+      "mapy": "375712514"
+    },
+    {
+      "title": "이경문<b>순대</b>곱창",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 11-1",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
+      "mapx": "1269908574",
+      "mapy": "375730931"
+    },
+    {
+      "title": "호반",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 85-7",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 20",
+      "mapx": "1269891446",
+      "mapy": "375733361"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오이지 연남",
+      "link": "http://app.catchtable.co.kr/ct/shop/oiji_yeonnam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 147-28 지층 오이지 연남",
+      "roadAddress": "서울특별시 마포구 연희로1길 15 지층 오이지 연남",
+      "mapx": "1269256022",
+      "mapy": "375596930"
+    },
+    {
+      "title": "진청유점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jincheongyujeom",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 385-3 1층",
+      "roadAddress": "서울특별시 마포구 동교로46길 27 1층",
+      "mapx": "1269262932",
+      "mapy": "375622774"
+    },
+    {
+      "title": "비비리2",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 346-34 B1",
+      "roadAddress": "서울특별시 마포구 와우산로23길 48 B1",
+      "mapx": "1269237027",
+      "mapy": "375549046"
+    },
+    {
+      "title": "조선시대",
+      "link": "https://app.catchtable.co.kr/ct/shop/joseon2018",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 369-4 지하1층",
+      "roadAddress": "서울특별시 마포구 홍익로3길 44 지하1층",
+      "mapx": "1269214312",
+      "mapy": "375525892"
+    },
+    {
+      "title": "테라김밥 <b>홍대</b>본점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 366-12 1층",
+      "roadAddress": "서울특별시 마포구 어울마당로 79 1층",
+      "mapx": "1269214604",
+      "mapy": "375521605"
+    }
+  ]
+}

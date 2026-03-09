@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오도집",
+      "link": "https://www.instagram.com/bukchondodam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 15 1층 오도집",
+      "roadAddress": "서울특별시 종로구 율곡로4길 7 1층 오도집",
+      "mapx": "1269821460",
+      "mapy": "375751757"
+    },
+    {
+      "title": "나주소나주곰탕 종로수송점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-19 원당빌딩",
+      "roadAddress": "서울특별시 종로구 율곡로4길 55 원당빌딩",
+      "mapx": "1269812257",
+      "mapy": "375732864"
+    },
+    {
+      "title": "은성 한정식",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
+    },
+    {
+      "title": "호가양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-1",
+      "roadAddress": "서울특별시 종로구 율곡로4길 66",
+      "mapx": "1269808622",
+      "mapy": "375728576"
+    },
+    {
+      "title": "현궁",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 이마빌딩",
+      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩",
+      "mapx": "1269788931",
+      "mapy": "375739295"
+    }
+  ]
+}

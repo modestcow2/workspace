@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아리",
+      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 137-5 아리",
+      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
+      "mapx": "1269686902",
+      "mapy": "375765067"
+    },
+    {
+      "title": "엔들리스 써머",
+      "link": "https://www.instagram.com/endlesssummer__official",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 50 1층",
+      "roadAddress": "서울특별시 종로구 필운대로1길 31 1층",
+      "mapx": "1269678071",
+      "mapy": "375777930"
+    },
+    {
+      "title": "클로셰",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 167-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 14 1층",
+      "mapx": "1269695034",
+      "mapy": "375774429"
+    },
+    {
+      "title": "유앤피",
+      "link": "https://www.instagram.com/unp_sajik",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 3층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
+      "mapx": "1269655475",
+      "mapy": "375756345"
+    },
+    {
+      "title": "와인슈타인_서촌",
+      "link": "https://www.instagram.com/winestein_seochon",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 108 3층",
+      "roadAddress": "서울특별시 종로구 필운대로 9-2 3층",
+      "mapx": "1269691223",
+      "mapy": "375771482"
+    }
+  ]
+}

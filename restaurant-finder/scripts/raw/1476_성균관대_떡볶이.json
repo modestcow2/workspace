@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "배떡 <b>성균관대</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 550-5 102호",
+      "roadAddress": "경기도 수원시 장안구 하률로 17 102호",
+      "mapx": "1269751768",
+      "mapy": "373030554"
+    },
+    {
+      "title": "금별맥주 <b>성균관대</b>역점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-81 1층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 59 1층",
+      "mapx": "1269701609",
+      "mapy": "372972173"
+    },
+    {
+      "title": "노꼬치킨 수원<b>성균관대</b>점",
+      "link": "https://linktr.ee/noblesse_coq1004",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 407-5 1층 노꼬치킨",
+      "roadAddress": "경기도 수원시 장안구 서부로2105번길 16-4 1층 노꼬치킨",
+      "mapx": "1269694802",
+      "mapy": "372968660"
+    },
+    {
+      "title": "땅스부대찌개 성대점",
+      "link": "https://www.youtube.com/@tsbudae_official",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 305-6 105호",
+      "roadAddress": "경기도 수원시 장안구 율전로 107 105호",
+      "mapx": "1269689928",
+      "mapy": "372987394"
+    },
+    {
+      "title": "홍컵 <b>성균관대</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 290-20",
+      "roadAddress": "경기도 수원시 장안구 서부로2126번길 38",
+      "mapx": "1269736794",
+      "mapy": "372976423"
+    }
+  ]
+}

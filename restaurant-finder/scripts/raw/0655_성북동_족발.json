@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오백집모자<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동5가 111",
+      "roadAddress": "서울특별시 성북구 동소문로20길 20",
+      "mapx": "1270165655",
+      "mapy": "375916835"
+    },
+    {
+      "title": "대학로<b>족발</b>보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 143-2",
+      "roadAddress": "서울특별시 종로구 대학로 149",
+      "mapx": "1270011367",
+      "mapy": "375845726"
+    },
+    {
+      "title": "귀한<b>족발</b> 성신여대본점",
+      "link": "http://귀한족발.com",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 3-12",
+      "roadAddress": "서울특별시 성북구 동소문로20다길 3",
+      "mapx": "1270168202",
+      "mapy": "375916362"
+    },
+    {
+      "title": "달빛마루",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 83-4",
+      "roadAddress": "서울특별시 종로구 대학로11길 24-1",
+      "mapx": "1270002585",
+      "mapy": "375823016"
+    },
+    {
+      "title": "아라맛짱네<b>족발</b>보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동5가 78-1",
+      "roadAddress": "서울특별시 성북구 동소문로20길 16-12",
+      "mapx": "1270160474",
+      "mapy": "375918627"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "달리181 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/daligh181",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 136 B1층",
+      "roadAddress": "서울특별시 종로구 종로5길 13 B1층",
+      "mapx": "1269804824",
+      "mapy": "375710343"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
+    },
+    {
+      "title": "스패뉴",
+      "link": "http://www.instagram.com/seoulcityhall_spannew",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-1 2층 스패뉴",
+      "roadAddress": "서울특별시 중구 세종대로 82 2층 스패뉴",
+      "mapx": "1269770819",
+      "mapy": "375634520"
+    },
+    {
+      "title": "달리181 을지로점",
+      "link": "https://www.instagram.com/dali181_euljiro",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 137 2층",
+      "roadAddress": "서울특별시 중구 을지로3길 25-6 2층",
+      "mapx": "1269811502",
+      "mapy": "375673665"
+    },
+    {
+      "title": "아워킬리바 덕수궁점",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 102동 L120호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 102동 L120호",
+      "mapx": "1269702356",
+      "mapy": "375638607"
+    }
+  ]
+}

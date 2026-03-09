@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "역전회관 <b>마포</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yukjeonhoekwan",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 173-21",
+      "roadAddress": "서울특별시 마포구 토정로37길 47",
+      "mapx": "1269470965",
+      "mapy": "375429468"
+    },
+    {
+      "title": "대상 옛날<b>불고기</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 25-1",
+      "roadAddress": "서울특별시 마포구 새창로 13-4",
+      "mapx": "1269516591",
+      "mapy": "375423927"
+    },
+    {
+      "title": "찌개의정석 <b>마포</b>성산동점",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 성산동 54-1",
+      "roadAddress": "서울특별시 마포구 월드컵북로23길 9",
+      "mapx": "1269117889",
+      "mapy": "375645025"
+    },
+    {
+      "title": "우수",
+      "link": "https://app.catchtable.co.kr/ct/shop/woosoo_?from=share&type=DINING",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 467 롯데캐슬프레지던트 상가 지하2층 201호",
+      "roadAddress": "서울특별시 마포구 마포대로 109 롯데캐슬프레지던트 상가 지하2층 201호",
+      "mapx": "1269512549",
+      "mapy": "375450054"
+    },
+    {
+      "title": "서관면옥 홍대점",
+      "link": "http://www.instagram.com/seogwanmyeonog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 460-25 106호~107호",
+      "roadAddress": "서울특별시 마포구 월드컵북로5길 41 106호~107호",
+      "mapx": "1269168070",
+      "mapy": "375562685"
+    }
+  ]
+}

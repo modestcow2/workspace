@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "보리보리옥선이시골밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 674-3 그린존",
+      "roadAddress": "서울특별시 성북구 솔샘로1길 19 그린존",
+      "mapx": "1270038809",
+      "mapy": "376083110"
+    },
+    {
+      "title": "김영희강남동태찜 <b>정릉</b>점",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 160-4 2층",
+      "roadAddress": "서울특별시 성북구 정릉로 263 2층",
+      "mapx": "1270128920",
+      "mapy": "376040646"
+    },
+    {
+      "title": "진흥왕족발",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 416-10 1층",
+      "roadAddress": "서울특별시 성북구 보국문로 7-6 1층",
+      "mapx": "1270111459",
+      "mapy": "376052835"
+    },
+    {
+      "title": "볼빨간쭈꾸미 돈암점",
+      "link": "",
+      "category": "한식>주꾸미요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 642 301 상가동 지1층 비105-에이호",
+      "roadAddress": "서울특별시 성북구 아리랑로5길 92 301 상가동 지1층 비105-에이호",
+      "mapx": "1270118668",
+      "mapy": "375973514"
+    },
+    {
+      "title": "삼거리족발",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 482 1층 좌측",
+      "roadAddress": "서울특별시 성북구 정릉로26가길 20 1층 좌측",
+      "mapx": "1270119935",
+      "mapy": "376027996"
+    }
+  ]
+}

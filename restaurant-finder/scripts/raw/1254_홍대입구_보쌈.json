@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연남족발1987 연남점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 152-23 1층",
+      "roadAddress": "서울특별시 마포구 동교로 222 1층",
+      "mapx": "1269239621",
+      "mapy": "375597891"
+    },
+    {
+      "title": "연남족발1987 <b>홍대</b>점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 332-1 1층 101호",
+      "roadAddress": "서울특별시 마포구 와우산로29길 69 1층 101호",
+      "mapx": "1269264419",
+      "mapy": "375561871"
+    },
+    {
+      "title": "김장독 <b>홍대</b>본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 166-11",
+      "roadAddress": "서울특별시 마포구 양화로18길 9",
+      "mapx": "1269246749",
+      "mapy": "375567580"
+    },
+    {
+      "title": "만족오향족발 <b>홍대</b>역점",
+      "link": "http://www.manjok.net/",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 200-30 1층 만족오향족발",
+      "roadAddress": "서울특별시 마포구 동교로 191 1층 만족오향족발",
+      "mapx": "1269223985",
+      "mapy": "375575026"
+    },
+    {
+      "title": "베가<b>보쌈</b> <b>홍대</b>점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 346-43 2층",
+      "roadAddress": "서울특별시 마포구 어울마당로 124 2층",
+      "mapx": "1269239964",
+      "mapy": "375555227"
+    }
+  ]
+}

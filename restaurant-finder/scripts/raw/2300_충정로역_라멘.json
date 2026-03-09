@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "멘야서울 중림점",
+      "link": "https://www.menyaseoul.kr/news",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 149 성요셉아파트 3층 317호",
+      "roadAddress": "서울특별시 중구 서소문로6길 34 성요셉아파트 3층 317호",
+      "mapx": "1269670365",
+      "mapy": "375595712"
+    },
+    {
+      "title": "토키",
+      "link": "https://instagram.com/toki__2017?igshid=ll4fnq7pv2tk",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 250-22",
+      "roadAddress": "서울특별시 서대문구 충정로4길 3",
+      "mapx": "1269639558",
+      "mapy": "375612117"
+    },
+    {
+      "title": "유즈<b>라멘</b>",
+      "link": "https://instagram.com/yuzu_ramen?igshid=11uo8yy6mt1aw",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 53-8",
+      "roadAddress": "서울특별시 중구 만리재로 217",
+      "mapx": "1269682545",
+      "mapy": "375568411"
+    },
+    {
+      "title": "소연",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 185-4 1, 2층",
+      "roadAddress": "서울특별시 서대문구 통일로9안길 20-1 1, 2층",
+      "mapx": "1269650791",
+      "mapy": "375664034"
+    },
+    {
+      "title": "빠져나갈구멍",
+      "link": "https://www.instagram.com/loophole_localpub",
+      "category": "음식점>술집",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 53-8 1층 3호",
+      "roadAddress": "서울특별시 중구 만리재로 217 1층 3호",
+      "mapx": "1269682222",
+      "mapy": "375568971"
+    }
+  ]
+}

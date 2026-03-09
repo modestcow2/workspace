@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>마포</b>원조떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 345-4",
+      "roadAddress": "서울특별시 마포구 도화2길 3",
+      "mapx": "1269487607",
+      "mapy": "375403569"
+    },
+    {
+      "title": "홍대조폭떡볶이 본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 328-18 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 26 1층",
+      "mapx": "1269284793",
+      "mapy": "375552696"
+    },
+    {
+      "title": "코끼리<b>분식</b>",
+      "link": "https://www.instagram.com/koggiri_mapo_line5",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 345-4",
+      "roadAddress": "서울특별시 마포구 도화2길 3",
+      "mapx": "1269487449",
+      "mapy": "375403744"
+    },
+    {
+      "title": "닭장수김밥 홍대점",
+      "link": "https://www.instagram.com/dakjangsu_gimbap",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 201-41 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로4길 26 1층",
+      "mapx": "1269211790",
+      "mapy": "375574404"
+    },
+    {
+      "title": "그동네떡볶이 연남점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 259-16 1층",
+      "roadAddress": "서울특별시 마포구 동교로 243 1층",
+      "mapx": "1269241019",
+      "mapy": "375616751"
+    }
+  ]
+}

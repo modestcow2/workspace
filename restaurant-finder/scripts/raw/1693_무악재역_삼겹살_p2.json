@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "강고집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 137-1 강고집",
+      "roadAddress": "서울특별시 서대문구 통일로36길 14 강고집",
+      "mapx": "1269467358",
+      "mapy": "375874994"
+    },
+    {
+      "title": "꽃돼지식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-71 1층꽃돼지식당",
+      "roadAddress": "서울특별시 서대문구 통일로39길 6 1층꽃돼지식당",
+      "mapx": "1269439245",
+      "mapy": "375884848"
+    },
+    {
+      "title": "옛날왕솥뚜껑생<b>삼겹살</b>",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-117 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39길 22-58 1층",
+      "mapx": "1269417411",
+      "mapy": "375899886"
+    },
+    {
+      "title": "마돈돈",
+      "link": "https://blog.naver.com/madondon7",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 136-17 1층 마돈돈",
+      "roadAddress": "서울특별시 서대문구 홍제원3길 18 1층 마돈돈",
+      "mapx": "1269470171",
+      "mapy": "375874862"
+    },
+    {
+      "title": "김진목삼",
+      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 164 1층 김진목삼",
+      "roadAddress": "서울특별시 종로구 자하문로1길 56 1층 김진목삼",
+      "mapx": "1269695187",
+      "mapy": "375771457"
+    }
+  ]
+}

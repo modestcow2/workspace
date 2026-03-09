@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "하우<b>마라탕</b> 을지로점",
+      "link": "https://www.instagram.com/hawoo_euljiro",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 23-3 2층",
+      "roadAddress": "서울특별시 중구 퇴계로27길 42 2층",
+      "mapx": "1269913749",
+      "mapy": "375631812"
+    },
+    {
+      "title": "라화방<b>마라탕</b> 동국대점",
+      "link": "http://rahwabangma.cityfood.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 18-3 1층",
+      "roadAddress": "서울특별시 중구 서애로1길 10 1층",
+      "mapx": "1269984826",
+      "mapy": "375609803"
+    },
+    {
+      "title": "샹츠마라 동국대점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 79-1 2층",
+      "roadAddress": "서울특별시 중구 서애로 6-1 2층",
+      "mapx": "1269982461",
+      "mapy": "375616549"
+    },
+    {
+      "title": "마라식객 필동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 65-2 은은빌딩 1층",
+      "roadAddress": "서울특별시 중구 퇴계로42길 23 은은빌딩 1층",
+      "mapx": "1269966888",
+      "mapy": "375607204"
+    },
+    {
+      "title": "보배반점 을지로점",
+      "link": "",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 2-35 1층",
+      "roadAddress": "서울특별시 중구 마른내로 71 1층",
+      "mapx": "1269958485",
+      "mapy": "375645916"
+    }
+  ]
+}

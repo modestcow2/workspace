@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김인옥의충정로함흥<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 476 지하 2층",
+      "roadAddress": "서울특별시 서대문구 충정로 7 지하 2층",
+      "mapx": "1269623430",
+      "mapy": "375600951"
+    },
+    {
+      "title": "두툼",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 1층",
+      "roadAddress": "서울특별시 중구 중림로 10 1층",
+      "mapx": "1269662595",
+      "mapy": "375583365"
+    },
+    {
+      "title": "메가폭탄김치찜 서대문점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 99-11 1층",
+      "roadAddress": "서울특별시 서대문구 충정로9길 12 1층",
+      "mapx": "1269647846",
+      "mapy": "375644768"
+    },
+    {
+      "title": "양은이네 <b>충정로역</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 상가 2동 105호",
+      "roadAddress": "서울특별시 중구 중림로 10 상가 2동 105호",
+      "mapx": "1269655039",
+      "mapy": "375587427"
+    },
+    {
+      "title": "나주곰탕앤불고기",
+      "link": "http://www.02-364-8266.kti114.net/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 150-1",
+      "roadAddress": "서울특별시 중구 중림로 31",
+      "mapx": "1269671074",
+      "mapy": "375582044"
+    }
+  ]
+}

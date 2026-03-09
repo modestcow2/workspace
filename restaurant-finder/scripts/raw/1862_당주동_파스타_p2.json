@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포시즌스 호텔 서울 보칼리노",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 2층",
+      "mapx": "1269754535",
+      "mapy": "375706990"
+    },
+    {
+      "title": "뽐모도로 광화문지점",
+      "link": "https://www.instagram.com/pomodoro_1994",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 22-1 일선빌딩 1층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 19-1 일선빌딩 1층",
+      "mapx": "1269756648",
+      "mapy": "375711472"
+    },
+    {
+      "title": "핏제리아 빠드레",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 165-1 지상1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
+      "mapx": "1269741385",
+      "mapy": "375710651"
+    },
+    {
+      "title": "오스테리아라디치",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 B1층 58호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 58호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    },
+    {
+      "title": "치로피자바",
+      "link": "https://app.catchtable.co.kr/ct/shop/ciropizza",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 24-4 1층",
+      "roadAddress": "서울특별시 종로구 새문안로7길 16 1층",
+      "mapx": "1269754581",
+      "mapy": "375710843"
+    }
+  ]
+}

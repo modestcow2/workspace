@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "츠야카츠 <b>충무로</b> 본점",
+      "link": "https://www.instagram.com/tsuya.tonkatsu/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 57-3 1층",
+      "roadAddress": "서울특별시 중구 퇴계로31길 29 1층",
+      "mapx": "1269921273",
+      "mapy": "375625218"
+    },
+    {
+      "title": "희희카츠 <b>충무로</b>점",
+      "link": "https://www.instagram.com/heehee.katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 81-11 1층 희희카츠",
+      "roadAddress": "서울특별시 중구 퇴계로36길 36 1층 희희카츠",
+      "mapx": "1269951992",
+      "mapy": "375603177"
+    },
+    {
+      "title": "남산 서울카츠",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 15-14 2층",
+      "roadAddress": "서울특별시 중구 퇴계로 210-4 2층",
+      "mapx": "1269950464",
+      "mapy": "375611500"
+    },
+    {
+      "title": "진작",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 46-27 1층",
+      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
+      "mapx": "1269908216",
+      "mapy": "375640300"
+    },
+    {
+      "title": "필동카츠",
+      "link": "https://www.instagram.com/pildong_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 28-13 1층",
+      "roadAddress": "서울특별시 중구 필동로 7-3 1층",
+      "mapx": "1269963267",
+      "mapy": "375608845"
+    }
+  ]
+}

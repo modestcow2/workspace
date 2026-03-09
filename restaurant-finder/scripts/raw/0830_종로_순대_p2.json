@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이경문<b>순대</b>곱창",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 11-1",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
+      "mapx": "1269908574",
+      "mapy": "375730931"
+    },
+    {
+      "title": "호반",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 85-7",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 20",
+      "mapx": "1269891446",
+      "mapy": "375733361"
+    },
+    {
+      "title": "북촌무궁화",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 137",
+      "roadAddress": "서울특별시 종로구 수표로 126",
+      "mapx": "1269889329",
+      "mapy": "375723618"
+    },
+    {
+      "title": "청진동장터<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 3-3",
+      "roadAddress": "서울특별시 종로구 종로5길 40",
+      "mapx": "1269804455",
+      "mapy": "375720966"
+    },
+    {
+      "title": "강가네 떡볶이",
+      "link": "https://www.instagram.com/gangana_shop",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로4가 188 아케이트 101호",
+      "roadAddress": "서울특별시 종로구 종로32길 2 아케이트 101호",
+      "mapx": "1270004749",
+      "mapy": "375706380"
+    }
+  ]
+}

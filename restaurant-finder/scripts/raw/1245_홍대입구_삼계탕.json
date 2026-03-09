@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이화누룽지<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 337-27 1층 101, 2, 3호",
+      "roadAddress": "서울특별시 마포구 와우산로 137 1층 101, 2, 3호",
+      "mapx": "1269286058",
+      "mapy": "375538341"
+    },
+    {
+      "title": "백년토종<b>삼계탕</b>",
+      "link": "http://www.백년토종삼계탕.kr",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 354-12 1층 백년토종삼계탕",
+      "roadAddress": "서울특별시 마포구 양화로 118 1층 백년토종삼계탕",
+      "mapx": "1269201772",
+      "mapy": "375538481"
+    },
+    {
+      "title": "광계",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-72 1.5층",
+      "roadAddress": "서울특별시 마포구 연희로1길 55 1.5층",
+      "mapx": "1269262559",
+      "mapy": "375613264"
+    },
+    {
+      "title": "<b>홍대</b>닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 154-15 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로2길 81 1층",
+      "mapx": "1269244517",
+      "mapy": "375582489"
+    },
+    {
+      "title": "보승회관 <b>홍대</b>직영점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 164-6",
+      "roadAddress": "서울특별시 마포구 어울마당로 131",
+      "mapx": "1269244368",
+      "mapy": "375561453"
+    }
+  ]
+}

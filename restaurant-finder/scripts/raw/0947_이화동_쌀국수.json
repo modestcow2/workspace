@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "반수우안",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-74 2층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 79 2층",
+      "mapx": "1270035788",
+      "mapy": "375824833"
+    },
+    {
+      "title": "하이콴 대학로점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-73 1층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 80 1층",
+      "mapx": "1270033459",
+      "mapy": "375824849"
+    },
+    {
+      "title": "반포식스 대학로점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-11 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 136 2층",
+      "mapx": "1270028135",
+      "mapy": "375836321"
+    },
+    {
+      "title": "미스사이공 대학로마로니에공원점",
+      "link": "http://www.miss420.net/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-145 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 55 1층",
+      "mapx": "1270042076",
+      "mapy": "375807304"
+    },
+    {
+      "title": "포로이 대학로점",
+      "link": "http://www.phoroi.co.kr/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-83 현대엘리베이터빌딩 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 101 현대엘리베이터빌딩 2층",
+      "mapx": "1270041059",
+      "mapy": "375824597"
+    }
+  ]
+}

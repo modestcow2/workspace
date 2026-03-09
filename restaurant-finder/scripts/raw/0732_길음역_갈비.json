@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>갈비</b>명가이상 길음신관",
+      "link": "https://smartstore.naver.com/esang1982",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 221",
+      "roadAddress": "서울특별시 성북구 정릉로 395",
+      "mapx": "1270256874",
+      "mapy": "376039071"
+    },
+    {
+      "title": "<b>갈비</b>명가이상 돈암본관",
+      "link": "https://www.instagram.com/esang1982",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 12-8",
+      "roadAddress": "서울특별시 성북구 정릉로 364",
+      "mapx": "1270236114",
+      "mapy": "376015310"
+    },
+    {
+      "title": "S서서<b>갈비</b>",
+      "link": "https://m.place.naver.com/restaurant/1219639041/booking?reviewSort=recent",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-680 105호",
+      "roadAddress": "서울특별시 성북구 종암로21길 71 105호",
+      "mapx": "1270321844",
+      "mapy": "376015097"
+    },
+    {
+      "title": "마포육곳간 길음점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1222 1층, 2층",
+      "roadAddress": "서울특별시 성북구 삼양로 61-1 1층, 2층",
+      "mapx": "1270229564",
+      "mapy": "376085190"
+    },
+    {
+      "title": "소통애 길음점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1285 두산위브상가 101, 102호",
+      "roadAddress": "서울특별시 성북구 길음로13길 22 두산위브상가 101, 102호",
+      "mapx": "1270199561",
+      "mapy": "376093065"
+    }
+  ]
+}

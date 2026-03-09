@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "백암박가네<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
+      "mapx": "1269710531",
+      "mapy": "375791821"
+    },
+    {
+      "title": "리김밥 케이트윈타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 B1층",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 B1층",
+      "mapx": "1269790252",
+      "mapy": "375747276"
+    },
+    {
+      "title": "온지음 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
+      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
+      "mapx": "1269734438",
+      "mapy": "375804848"
+    },
+    {
+      "title": "다다익선 본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 122-1 지하1층 5호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 32 지하1층 5호",
+      "mapx": "1269735672",
+      "mapy": "375749172"
+    },
+    {
+      "title": "최고집곱창",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 192",
+      "roadAddress": "서울특별시 종로구 자하문로1길 18",
+      "mapx": "1269713542",
+      "mapy": "375765176"
+    }
+  ]
+}

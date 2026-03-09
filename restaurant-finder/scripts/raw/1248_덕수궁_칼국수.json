@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "탄백",
+      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-8",
+      "roadAddress": "서울특별시 중구 정동길 37",
+      "mapx": "1269724678",
+      "mapy": "375659578"
+    },
+    {
+      "title": "명동<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
+      "mapx": "1269759250",
+      "mapy": "375686250"
+    },
+    {
+      "title": "봉평 옹심이 막국수",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 164 2층 ( 164, 적십자 별관)",
+      "roadAddress": "서울특별시 종로구 새문안로 9 2층 (평동 164, 적십자 별관)",
+      "mapx": "1269673144",
+      "mapy": "375669020"
+    },
+    {
+      "title": "현풍닭<b>칼국수</b> 광화문점",
+      "link": "https://www.instagram.com/hyunpungdk_official",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-3 1층",
+      "roadAddress": "서울특별시 중구 세종대로 135-9 1층",
+      "mapx": "1269763007",
+      "mapy": "375688748"
+    },
+    {
+      "title": "승환네닭한마리",
+      "link": "https://instagram.com/seunghwan_dakhanmari?igshid=6omq6gljx2oa",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 52-2",
+      "roadAddress": "서울특별시 중구 서소문로 109-7",
+      "mapx": "1269731209",
+      "mapy": "375633462"
+    }
+  ]
+}

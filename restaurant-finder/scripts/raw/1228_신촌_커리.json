@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠업",
+      "link": "https://blog.naver.com/katsup",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-4 1층 카츠업",
+      "roadAddress": "서울특별시 서대문구 연세로5길 32 1층 카츠업",
+      "mapx": "1269353168",
+      "mapy": "375563150"
+    },
+    {
+      "title": "퐁타이 <b>신촌</b>본점",
+      "link": "https://www.instagram.com/pongthaii",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 107-17 2층",
+      "roadAddress": "서울특별시 마포구 백범로 8 2층",
+      "mapx": "1269367693",
+      "mapy": "375538783"
+    },
+    {
+      "title": "이국장",
+      "link": "https://www.instagram.com/_leegookjang",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-36 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 36 1층",
+      "mapx": "1269386491",
+      "mapy": "375577204"
+    },
+    {
+      "title": "아마 <b>신촌</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/amma_seoul",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-67 2층",
+      "roadAddress": "서울특별시 서대문구 연세로7길 24 2층",
+      "mapx": "1269354656",
+      "mapy": "375577588"
+    },
+    {
+      "title": "머노까머나 <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-25 2층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 13 2층",
+      "mapx": "1269360452",
+      "mapy": "375588706"
+    }
+  ]
+}

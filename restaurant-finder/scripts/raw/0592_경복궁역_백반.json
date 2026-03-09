@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌식당",
+      "link": "http://www.instagram.com/seochondining",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-50",
+      "roadAddress": "서울특별시 종로구 자하문로17길 12",
+      "mapx": "1269699906",
+      "mapy": "375814609"
+    },
+    {
+      "title": "이서방네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
+    },
+    {
+      "title": "청하식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 120",
+      "roadAddress": "서울특별시 종로구 자하문로10길 25",
+      "mapx": "1269728999",
+      "mapy": "375794749"
+    },
+    {
+      "title": "세종식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 154-5",
+      "roadAddress": "서울특별시 종로구 자하문로 31-10",
+      "mapx": "1269710095",
+      "mapy": "375786597"
+    },
+    {
+      "title": "별미곱창",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 187 별미곱창",
+      "roadAddress": "서울특별시 종로구 자하문로1길 50 별미곱창",
+      "mapx": "1269696746",
+      "mapy": "375769499"
+    }
+  ]
+}

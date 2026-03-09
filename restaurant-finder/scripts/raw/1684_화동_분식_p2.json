@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스낵서울",
+      "link": "https://www.instagram.com/snackseoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6 2층",
+      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
+      "mapx": "1269816137",
+      "mapy": "375837662"
+    },
+    {
+      "title": "먹쉬돈나 삼청동점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 63-28 2층",
+      "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
+      "mapx": "1269819874",
+      "mapy": "375834586"
+    },
+    {
+      "title": "경춘자의라면땡기는날",
+      "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-21",
+      "roadAddress": "서울특별시 종로구 율곡로3길 82",
+      "mapx": "1269822347",
+      "mapy": "375793111"
+    },
+    {
+      "title": "삼청동호떡",
+      "link": "https://www.instagram.com/explore/tags/%EC%82%BC%EC%B2%AD%EB%8F%99%ED%98%B8%EB%96%A1/",
+      "category": "분식>호떡",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-16",
+      "roadAddress": "서울특별시 종로구 율곡로3길 82-6",
+      "mapx": "1269825202",
+      "mapy": "375792245"
+    },
+    {
+      "title": "북촌호떡",
+      "link": "",
+      "category": "분식>호떡",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 72",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 38",
+      "mapx": "1269816004",
+      "mapy": "375811588"
+    }
+  ]
+}

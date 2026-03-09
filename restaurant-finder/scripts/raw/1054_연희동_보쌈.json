@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "녹원쌈밥 연희점",
+      "link": "http://pf.kakao.com/_gGnqn",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 82-3",
+      "roadAddress": "서울특별시 서대문구 연희로25길 22",
+      "mapx": "1269341598",
+      "mapy": "375725288"
+    },
+    {
+      "title": "박만배아리랑<b>보쌈</b> 연희점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-10 1층좌측호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
+      "mapx": "1269285120",
+      "mapy": "375657431"
+    },
+    {
+      "title": "삼정모밀",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 171-1 1층 삼정 모밀",
+      "roadAddress": "서울특별시 서대문구 모래내로 376-7 1층 삼정 모밀",
+      "mapx": "1269376982",
+      "mapy": "375824269"
+    },
+    {
+      "title": "또또",
+      "link": "https://www.instagram.com/ddoddo.seoul",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 684 1층()",
+      "roadAddress": "서울특별시 서대문구 홍제천로6길 2 1층(연희동)",
+      "mapx": "1269248346",
+      "mapy": "375736587"
+    },
+    {
+      "title": "원할머니<b>보쌈</b>족발 연희점",
+      "link": "https://wonandone.co.kr/bossam/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 134-2",
+      "roadAddress": "서울특별시 서대문구 증가로 5",
+      "mapx": "1269317197",
+      "mapy": "375689214"
+    }
+  ]
+}

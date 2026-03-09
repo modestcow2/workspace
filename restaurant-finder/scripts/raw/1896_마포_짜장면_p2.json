@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서담헌 홍대본점",
+      "link": "https://www.youtube.com/@%EA%B0%80%EC%A7%80%ED%8A%80%EA%B9%80%EB%A7%A8",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 113-22 1층 서담헌",
+      "roadAddress": "서울특별시 마포구 연희로1길 40-3 1층 서담헌",
+      "mapx": "1269260202",
+      "mapy": "375606598"
+    },
+    {
+      "title": "서룡",
+      "link": "https://www.instagram.com/seoryong40/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 상암동 1653 DMC이안오피스텔2단지 201호",
+      "roadAddress": "서울특별시 마포구 월드컵북로 361 DMC이안오피스텔2단지 201호",
+      "mapx": "1268910675",
+      "mapy": "375771471"
+    },
+    {
+      "title": "현래장",
+      "link": "https://app.catchtable.co.kr/ct/shop/hyunlaejang",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 마포동 140 다보빌딩 지하1층 현래장",
+      "roadAddress": "서울특별시 마포구 마포대로 20 다보빌딩 지하1층 현래장",
+      "mapx": "1269449196",
+      "mapy": "375383750"
+    },
+    {
+      "title": "가원 연남점",
+      "link": "https://www.instagram.com/gawon1996_official",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-18 1, 2층",
+      "roadAddress": "서울특별시 마포구 동교로 227-1 1, 2층",
+      "mapx": "1269238173",
+      "mapy": "375604509"
+    },
+    {
+      "title": "맛이차이나",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 상수동 321-1",
+      "roadAddress": "서울특별시 마포구 독막로 68",
+      "mapx": "1269208635",
+      "mapy": "375476115"
+    }
+  ]
+}

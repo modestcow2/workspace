@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포메인 홍제점",
+      "link": "http://www.phomein.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 469 인왕산 한신휴플러스",
+      "roadAddress": "서울특별시 서대문구 통일로 397 인왕산 한신휴플러스",
+      "mapx": "1269474024",
+      "mapy": "375854627"
+    },
+    {
+      "title": "미분당 녹번점",
+      "link": "https://www.instagram.com/mifendang_nokbeon/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 은평구 응암동 769 상가 A동 1층 107호",
+      "roadAddress": "서울특별시 은평구 은평로 220 상가 A동 1층 107호",
+      "mapx": "1269319616",
+      "mapy": "376005513"
+    },
+    {
+      "title": "딜리타이",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 은평구 녹번동 155-2 1층 딜리타이",
+      "roadAddress": "서울특별시 은평구 서오릉로 29-5 1층 딜리타이",
+      "mapx": "1269249327",
+      "mapy": "376033885"
+    },
+    {
+      "title": "코지아시안테이블",
+      "link": "",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 700 1층 106호",
+      "roadAddress": "서울특별시 서대문구 연희로 204 1층 106호",
+      "mapx": "1269356043",
+      "mapy": "375751310"
+    },
+    {
+      "title": "냐항in은평구청",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 은평구 녹번동 79-36 1층",
+      "roadAddress": "서울특별시 은평구 은평로 201-9 1층",
+      "mapx": "1269297524",
+      "mapy": "376020063"
+    }
+  ]
+}

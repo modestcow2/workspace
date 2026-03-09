@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>라멘</b>트럭 상수본점",
+      "link": "https://www.facebook.com/ramentruck",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 상수동 324-10 1층 라멘트럭",
+      "roadAddress": "서울특별시 마포구 독막로14길 31 1층 라멘트럭",
+      "mapx": "1269226481",
+      "mapy": "375474679"
+    },
+    {
+      "title": "츠케루",
+      "link": "http://instagram.com/tsukeru_tsukemen",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 344-6 1층 102호",
+      "roadAddress": "서울특별시 마포구 와우산로23길 9 1층 102호",
+      "mapx": "1269245307",
+      "mapy": "375533814"
+    },
+    {
+      "title": "사루카메",
+      "link": "https://www.instagram.com/sarukame_ramen/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-67 1층",
+      "roadAddress": "서울특별시 마포구 연남로 15 1층",
+      "mapx": "1269227522",
+      "mapy": "375610493"
+    },
+    {
+      "title": "담택",
+      "link": "http://instagram.com/damtaek",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 481-15 1층",
+      "roadAddress": "서울특별시 마포구 동교로12안길 51 1층",
+      "mapx": "1269152095",
+      "mapy": "375544837"
+    },
+    {
+      "title": "이리에<b>라멘</b>",
+      "link": "https://www.instagram.com/irie_ramen",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 372-30 1층",
+      "roadAddress": "서울특별시 마포구 성지1길 18 1층",
+      "mapx": "1269144052",
+      "mapy": "375481204"
+    }
+  ]
+}

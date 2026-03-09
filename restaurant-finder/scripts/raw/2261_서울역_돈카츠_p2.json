@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "호시카츠 <b>서울역</b>점",
+      "link": "https://www.instagram.com/hoshi.katsu/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 봉래동2가 122-11 서울역 3층 커넥트 플레이스 식당가 209호 호시카츠",
+      "roadAddress": "서울특별시 중구 한강대로 405 서울역 3층 커넥트 플레이스 식당가 209호 호시카츠",
+      "mapx": "1269710586",
+      "mapy": "375547984"
+    },
+    {
+      "title": "이치규 <b>서울역</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 631 지하1층 B116호",
+      "roadAddress": "서울특별시 중구 후암로 98 지하1층 B116호",
+      "mapx": "1269746174",
+      "mapy": "375538652"
+    },
+    {
+      "title": "후라토식당 서울스퀘어 직영점",
+      "link": "https://www.instagram.com/furato_official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 지하1층 B1F-4",
+      "roadAddress": "서울특별시 중구 한강대로 416 지하1층 B1F-4",
+      "mapx": "1269737678",
+      "mapy": "375555057"
+    },
+    {
+      "title": "카츠쇼신 <b>서울역</b>그랜드센트럴점",
+      "link": "https://www.instagram.com/katsu_shoshin",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "메시야",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 14-132",
+      "roadAddress": "서울특별시 용산구 한강대로 358",
+      "mapx": "1269722062",
+      "mapy": "375500671"
+    }
+  ]
+}

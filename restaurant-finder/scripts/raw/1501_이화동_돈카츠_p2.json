@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카산도 혜화대학로점",
+      "link": "https://www.instagram.com/kasando._.hyehwa/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-145 1층 카산도 대학로점",
+      "roadAddress": "서울특별시 종로구 동숭길 55 1층 카산도 대학로점",
+      "mapx": "1270042262",
+      "mapy": "375808772"
+    },
+    {
+      "title": "우동키노야 대학로점",
+      "link": "http://udonkinoya.com",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-78 2층",
+      "roadAddress": "서울특별시 종로구 대학로12길 50 2층",
+      "mapx": "1270037409",
+      "mapy": "375818625"
+    },
+    {
+      "title": "소바의온도 본점",
+      "link": "https://soba-tem.com/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-85 1층 소바의온도",
+      "roadAddress": "서울특별시 종로구 대학로12길 43 1층 소바의온도",
+      "mapx": "1270039788",
+      "mapy": "375822025"
+    },
+    {
+      "title": "오레노카츠 대학로점",
+      "link": "http://www.orenokatsu.co.kr/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-33 1층",
+      "roadAddress": "서울특별시 종로구 대학로 128 1층",
+      "mapx": "1270021238",
+      "mapy": "375827094"
+    },
+    {
+      "title": "후라토식당 혜화점",
+      "link": "https://www.instagram.com/furato.hyehwa?igsh=MWQyaTNtbXN2bzQyMw%3D%3D&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-153 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 39 2층",
+      "mapx": "1270042712",
+      "mapy": "375799919"
+    }
+  ]
+}

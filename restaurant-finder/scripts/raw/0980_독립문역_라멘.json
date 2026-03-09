@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마마노<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 213 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 157 1층",
+      "mapx": "1269641899",
+      "mapy": "375681003"
+    },
+    {
+      "title": "광화문라면",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-222 B1호",
+      "roadAddress": "서울특별시 종로구 경희궁1길 35 B1호",
+      "mapx": "1269690130",
+      "mapy": "375726415"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "소연",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 185-4 1, 2층",
+      "roadAddress": "서울특별시 서대문구 통일로9안길 20-1 1, 2층",
+      "mapx": "1269650791",
+      "mapy": "375664034"
+    },
+    {
+      "title": "거북이의꿈 서촌점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-15 1층 거북이의꿈 서촌점",
+      "roadAddress": "서울특별시 종로구 자하문로 31-6 1층 거북이의꿈 서촌점",
+      "mapx": "1269710606",
+      "mapy": "375787714"
+    }
+  ]
+}

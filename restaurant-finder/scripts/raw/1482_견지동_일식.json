@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
+    },
+    {
+      "title": "멘츠루 종로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mentsurujn",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 111호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 111호",
+      "mapx": "1269827990",
+      "mapy": "375724459"
+    },
+    {
+      "title": "진작",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 46-27 1층",
+      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
+      "mapx": "1269908216",
+      "mapy": "375640300"
+    },
+    {
+      "title": "오레노 야끼 종로점",
+      "link": "https://catchtable.co.kr/orenoyakki",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-25 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
+      "mapx": "1269813635",
+      "mapy": "375730606"
+    },
+    {
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    }
+  ]
+}

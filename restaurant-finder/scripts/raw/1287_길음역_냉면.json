@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "종암동화야",
+      "link": "https://www.instagram.com/jj_junn/",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-998 고깃집 화야",
+      "roadAddress": "서울특별시 성북구 종암로28길 7 고깃집 화야",
+      "mapx": "1270332234",
+      "mapy": "376024492"
+    },
+    {
+      "title": "홍두깨손칼국수",
+      "link": "https://baemin.me/asvY6CExH",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 489-87 1층",
+      "roadAddress": "서울특별시 성북구 도봉로 7-6 1층",
+      "mapx": "1270297727",
+      "mapy": "376101008"
+    },
+    {
+      "title": "마장동고기집 서울길음점",
+      "link": "https://www.instagram.com/majangdong_office/",
+      "category": "육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 510-173 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 305-1 1층",
+      "mapx": "1270283819",
+      "mapy": "376073996"
+    },
+    {
+      "title": "충남집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 1층 148호",
+      "roadAddress": "서울특별시 성북구 길음로 11 1층 148호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    },
+    {
+      "title": "허가네김밥 종암점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-544",
+      "roadAddress": "서울특별시 성북구 종암로27길 18",
+      "mapx": "1270316079",
+      "mapy": "376028669"
+    }
+  ]
+}

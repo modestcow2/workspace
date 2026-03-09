@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "크루아타이",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 104호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 104호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "쎈플러스",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-83 1층",
+      "roadAddress": "서울특별시 중구 남대문로5길 3 1층",
+      "mapx": "1269788812",
+      "mapy": "375615766"
+    },
+    {
+      "title": "마스터비엣 서울역점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 WISE TOWER B1층 106호",
+      "roadAddress": "서울특별시 중구 세종대로 17 WISE TOWER B1층 106호",
+      "mapx": "1269732806",
+      "mapy": "375586371"
+    },
+    {
+      "title": "반포식스 숭례문점",
+      "link": "http://www.banhpho6.com",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 53 B101, B102호",
+      "roadAddress": "서울특별시 중구 세종대로7길 37 B101, B102호",
+      "mapx": "1269724076",
+      "mapy": "375606157"
+    },
+    {
+      "title": "호앙비엣 서울역점",
+      "link": "https://hoang-viet.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 18-2 4호",
+      "roadAddress": "서울특별시 중구 세종대로2나길 22 4호",
+      "mapx": "1269747382",
+      "mapy": "375583437"
+    }
+  ]
+}

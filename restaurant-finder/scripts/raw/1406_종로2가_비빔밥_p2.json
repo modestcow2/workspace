@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "샤브가든 <b>종로</b>타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "하얀고래 종각본점",
+      "link": "https://sites.google.com/view/hayangoraejonggakbonjeom",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 1층 109,110,111호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 109,110,111호",
+      "mapx": "1269847263",
+      "mapy": "375704878"
+    },
+    {
+      "title": "경복궁식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 1층 112호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 112호",
+      "mapx": "1269847135",
+      "mapy": "375704128"
+    },
+    {
+      "title": "153구포국수 <b>종로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 23 1층",
+      "roadAddress": "서울특별시 종로구 종로 87-1 1층",
+      "mapx": "1269873204",
+      "mapy": "375704112"
+    },
+    {
+      "title": "<b>종로</b>회관 <b>종로</b>타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    }
+  ]
+}

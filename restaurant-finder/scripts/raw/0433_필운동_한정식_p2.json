@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688756",
+      "mapy": "375768581"
+    },
+    {
+      "title": "서촌시우식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 171",
+      "roadAddress": "서울특별시 종로구 필운대로 18",
+      "mapx": "1269695515",
+      "mapy": "375777250"
+    },
+    {
+      "title": "서촌기와집 본점",
+      "link": "http://서촌기와집.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 204-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 35",
+      "mapx": "1269702575",
+      "mapy": "375765504"
+    },
+    {
+      "title": "청산<b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 286",
+      "roadAddress": "서울특별시 종로구 사직로8길 5-5",
+      "mapx": "1269695328",
+      "mapy": "375754341"
+    },
+    {
+      "title": "한암동 정동점",
+      "link": "https://openine.com/한암동",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
+      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
+      "mapx": "1269708541",
+      "mapy": "375678521"
+    }
+  ]
+}

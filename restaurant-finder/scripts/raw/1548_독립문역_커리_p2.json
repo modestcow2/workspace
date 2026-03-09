@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "가츠몽 경희궁자이점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍파동 199",
+      "roadAddress": "서울특별시 종로구 송월길 99",
+      "mapx": "1269625988",
+      "mapy": "375703273"
+    },
+    {
+      "title": "시카노이에",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-104 신문로하우스 101호",
+      "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
+      "mapx": "1269692608",
+      "mapy": "375725079"
+    },
+    {
+      "title": "사직동 그 가게",
+      "link": "http://www.rogpa.com",
+      "category": "테마카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 1-7",
+      "roadAddress": "서울특별시 종로구 사직로9길 18",
+      "mapx": "1269677898",
+      "mapy": "375770928"
+    },
+    {
+      "title": "고가빈<b>커리</b>하우스 광화문본점",
+      "link": "http://instagram.com/gogabin_curryhouse",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-48 3층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
+      "mapx": "1269709645",
+      "mapy": "375728814"
+    },
+    {
+      "title": "푼크툼",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 175-1",
+      "roadAddress": "서울특별시 종로구 필운대로 31",
+      "mapx": "1269688162",
+      "mapy": "375788029"
+    }
+  ]
+}

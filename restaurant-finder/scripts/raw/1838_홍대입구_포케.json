@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "슬로우캘리 <b>홍대입구</b>역점",
+      "link": "https://blog.naver.com/slowcali_hongdae",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 508-2 1층",
+      "roadAddress": "서울특별시 서대문구 신촌로 9 1층",
+      "mapx": "1269280118",
+      "mapy": "375585075"
+    },
+    {
+      "title": "커스텀샐러드 연남본점",
+      "link": "http://www.customsalad.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-59 1층",
+      "roadAddress": "서울특별시 마포구 동교로38길 19 1층",
+      "mapx": "1269254424",
+      "mapy": "375620354"
+    },
+    {
+      "title": "샐러드로우 앤 트라타 연남점",
+      "link": "https://www.instagram.com/saladlowntratar_yeonnam",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 147-24 1층",
+      "roadAddress": "서울특별시 마포구 양화로23길 22-6 1층",
+      "mapx": "1269253792",
+      "mapy": "375595182"
+    },
+    {
+      "title": "슬로우캘리 연남본점 <b>포케</b> 샐러드 &amp; 그릴",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-42 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 35 2층",
+      "mapx": "1269257899",
+      "mapy": "375613978"
+    },
+    {
+      "title": "더타코부스 <b>홍대</b>점",
+      "link": "https://thetacobooth.com/",
+      "category": "음식점>양식>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 358-34 1층",
+      "roadAddress": "서울특별시 마포구 와우산로21길 10 1층",
+      "mapx": "1269233872",
+      "mapy": "375525301"
+    }
+  ]
+}

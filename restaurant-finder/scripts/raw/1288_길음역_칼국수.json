@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "월곡조개창고",
+      "link": "",
+      "category": "한식>조개요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 90-83 1층",
+      "roadAddress": "서울특별시 성북구 종암로38길 10 1층",
+      "mapx": "1270319309",
+      "mapy": "376062541"
+    },
+    {
+      "title": "홍두깨손<b>칼국수</b>",
+      "link": "https://baemin.me/asvY6CExH",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 489-87 1층",
+      "roadAddress": "서울특별시 성북구 도봉로 7-6 1층",
+      "mapx": "1270297727",
+      "mapy": "376101008"
+    },
+    {
+      "title": "서울닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 530-17 지하1층",
+      "roadAddress": "서울특별시 성북구 길음로 2 지하1층",
+      "mapx": "1270248244",
+      "mapy": "376043085"
+    },
+    {
+      "title": "한강로<b>칼국수</b> 현대백화점미아점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 현대백화점미아점 지하1층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 현대백화점미아점 지하1층",
+      "mapx": "1270291131",
+      "mapy": "376083209"
+    },
+    {
+      "title": "충남집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 1층 148호",
+      "roadAddress": "서울특별시 성북구 길음로 11 1층 148호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정백어가 광화문 피맛골본점",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "서린낙지",
+      "link": "",
+      "category": "한식>낙지요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 2층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 2층",
+      "mapx": "1269801286",
+      "mapy": "375709094"
+    },
+    {
+      "title": "더미 광화문본점",
+      "link": "http://www.hanutheme.com/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 3층 더미 본점",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 3층 더미 본점",
+      "mapx": "1269798488",
+      "mapy": "375706671"
+    },
+    {
+      "title": "김삼보 <b>종로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24",
+      "roadAddress": "서울특별시 종로구 종로 19",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "막내낙지",
+      "link": "https://smartstore.naver.com/mnofood",
+      "category": "한식>낙지요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 125호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 125호",
+      "mapx": "1269798143",
+      "mapy": "375711281"
+    }
+  ]
+}

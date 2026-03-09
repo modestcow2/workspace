@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "둥지닭볶음탕 <b>홍대</b>점",
+      "link": "http://instagram.com/dungdark_1025",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 332-8 둥지닭볶음탕 홍대점",
+      "roadAddress": "서울특별시 마포구 와우산로29마길 16 둥지닭볶음탕 홍대점",
+      "mapx": "1269264934",
+      "mapy": "375554944"
+    },
+    {
+      "title": "부추긴돼지",
+      "link": "https://www.instagram.com/chive_pig",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-103 1층",
+      "roadAddress": "서울특별시 마포구 연희로1길 59 1층",
+      "mapx": "1269264400",
+      "mapy": "375614640"
+    },
+    {
+      "title": "초필살돼지구이 <b>홍대</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/chopilsalhongdae?from=share&type=WAITING",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 161-9 1, 2층",
+      "roadAddress": "서울특별시 마포구 동교로 172 1, 2층",
+      "mapx": "1269209950",
+      "mapy": "375559973"
+    },
+    {
+      "title": "마포곱창타운 연남점",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 197-5",
+      "roadAddress": "서울특별시 마포구 동교로27길 20",
+      "mapx": "1269225339",
+      "mapy": "375590716"
+    },
+    {
+      "title": "육전국밥 서교점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 351-1 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로 9-1 1층",
+      "mapx": "1269204368",
+      "mapy": "375557919"
+    }
+  ]
+}

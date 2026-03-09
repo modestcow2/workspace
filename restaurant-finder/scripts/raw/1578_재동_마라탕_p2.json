@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마라중독",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 7-1 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
+      "mapx": "1269874452",
+      "mapy": "375695065"
+    },
+    {
+      "title": "샹츠마라 종로점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-14 2층",
+      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
+      "mapx": "1269859110",
+      "mapy": "375686220"
+    },
+    {
+      "title": "라향각 <b>마라탕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
+      "roadAddress": "서울특별시 중구 세종대로21길 67 2층 라향각마라탕",
+      "mapx": "1269757332",
+      "mapy": "375692879"
+    },
+    {
+      "title": "마라공방 종각2호점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 1층",
+      "mapx": "1269798224",
+      "mapy": "375708585"
+    },
+    {
+      "title": "하우<b>마라탕</b> 종로점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 5-1 2층",
+      "roadAddress": "서울특별시 종로구 종로16길 12 2층",
+      "mapx": "1269885196",
+      "mapy": "375695603"
+    }
+  ]
+}

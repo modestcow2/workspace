@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "요<b>라멘</b>",
+      "link": "https://www.instagram.com/yo_ra.men/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 150-51",
+      "roadAddress": "서울특별시 성북구 정릉로26길 55",
+      "mapx": "1270128550",
+      "mapy": "376029105"
+    },
+    {
+      "title": "밀튼가츠멘",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동4가 267 삼송빌딩1층",
+      "roadAddress": "서울특별시 성북구 동소문로 65-2 삼송빌딩1층",
+      "mapx": "1270126118",
+      "mapy": "375917589"
+    },
+    {
+      "title": "주대국초밥집 길음점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1284 상가비동 지1층 8,9,10호",
+      "roadAddress": "서울특별시 성북구 길음로 33 상가비동 지1층 8,9,10호",
+      "mapx": "1270217278",
+      "mapy": "376059572"
+    },
+    {
+      "title": "멘지 성신여대점",
+      "link": "https://www.instagram.com/menji_sungshin/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 85-86 2층",
+      "roadAddress": "서울특별시 성북구 동소문로22길 23 2층",
+      "mapx": "1270179741",
+      "mapy": "375920406"
+    },
+    {
+      "title": "멘야리 성신여대직영점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 85-57 1층",
+      "roadAddress": "서울특별시 성북구 동소문로20다길 30-11 1층",
+      "mapx": "1270186035",
+      "mapy": "375917083"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "땡땡거리 형제옥",
+      "link": "https://blog.naver.com/hyeongje_ok",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 82-2 형제옥 식당",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 3 형제옥 식당",
+      "mapx": "1269674729",
+      "mapy": "375625471"
+    },
+    {
+      "title": "무봉리토종순대국 충정로점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 삼성 사이버 빌리지",
+      "roadAddress": "서울특별시 중구 중림로 10 중림동 삼성 사이버 빌리지",
+      "mapx": "1269659479",
+      "mapy": "375585609"
+    },
+    {
+      "title": "돌담숯불집",
+      "link": "https://app.catchtable.co.kr/ct/shop/jogaejo",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 1154 B201, 202호",
+      "roadAddress": "서울특별시 중구 중림로 21 B201, 202호",
+      "mapx": "1269661704",
+      "mapy": "375587387"
+    },
+    {
+      "title": "아바이왕순대",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 27",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 52",
+      "mapx": "1269667482",
+      "mapy": "375643103"
+    },
+    {
+      "title": "신한양 식당 중림동본점",
+      "link": "http://www.instagram.com/sin.hanyang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 473-5 1층 신한양 식당",
+      "roadAddress": "서울특별시 중구 청파로 453 1층 신한양 식당",
+      "mapx": "1269678472",
+      "mapy": "375598090"
+    }
+  ]
+}

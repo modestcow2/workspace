@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더숀스키친반미",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 106-6",
+      "roadAddress": "서울특별시 성북구 정릉로26가길 17",
+      "mapx": "1270120766",
+      "mapy": "376026586"
+    },
+    {
+      "title": "포탄탄",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 171-14 1층",
+      "roadAddress": "서울특별시 성북구 정릉로27길 40 1층",
+      "mapx": "1270136407",
+      "mapy": "376055179"
+    },
+    {
+      "title": "사이공본가 <b>정릉</b>점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 396-41 1층",
+      "roadAddress": "서울특별시 성북구 보국문로11길 23 1층",
+      "mapx": "1270087335",
+      "mapy": "376086061"
+    },
+    {
+      "title": "채움늘 하노이",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 852-12",
+      "roadAddress": "서울특별시 성북구 정릉로9길 36",
+      "mapx": "1269992110",
+      "mapy": "376102811"
+    },
+    {
+      "title": "포썸",
+      "link": "https://app.catchtable.co.kr/ct/shop/phosome_by_chanu",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동4가 111-1 1층 포썸",
+      "roadAddress": "서울특별시 성북구 동소문로 125 1층 포썸",
+      "mapx": "1270182308",
+      "mapy": "375941649"
+    }
+  ]
+}

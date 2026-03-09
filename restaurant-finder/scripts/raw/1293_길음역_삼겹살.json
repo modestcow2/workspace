@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "종암동화야",
+      "link": "https://www.instagram.com/jj_junn/",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-998 고깃집 화야",
+      "roadAddress": "서울특별시 성북구 종암로28길 7 고깃집 화야",
+      "mapx": "1270332234",
+      "mapy": "376024492"
+    },
+    {
+      "title": "주공 길음직영",
+      "link": "https://youtube.com/watch?v=adk6eMgHYNo",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1078-1 1층",
+      "roadAddress": "서울특별시 성북구 삼양로 18 1층",
+      "mapx": "1270248948",
+      "mapy": "376048747"
+    },
+    {
+      "title": "S서서갈비",
+      "link": "https://m.place.naver.com/restaurant/1219639041/booking?reviewSort=recent",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-680 105호",
+      "roadAddress": "서울특별시 성북구 종암로21길 71 105호",
+      "mapx": "1270321844",
+      "mapy": "376015097"
+    },
+    {
+      "title": "마포육곳간 길음점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1222 1층, 2층",
+      "roadAddress": "서울특별시 성북구 삼양로 61-1 1층, 2층",
+      "mapx": "1270229564",
+      "mapy": "376085190"
+    },
+    {
+      "title": "제주흑돼지 마시도니",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 518-1",
+      "roadAddress": "서울특별시 성북구 동소문로43가길 6",
+      "mapx": "1270275480",
+      "mapy": "376070704"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠업 <b>홍대</b>점",
+      "link": "https://blog.naver.com/katsup",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 486 서교푸르지오 101동 142호",
+      "roadAddress": "서울특별시 마포구 홍익로 10 서교푸르지오 101동 142호",
+      "mapx": "1269234358",
+      "mapy": "375541052"
+    },
+    {
+      "title": "카와카츠 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/kawakatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 465-1 1층 102호",
+      "roadAddress": "서울특별시 마포구 동교로 126 1층 102호",
+      "mapx": "1269161059",
+      "mapy": "375547362"
+    },
+    {
+      "title": "돈까스튀기는형 <b>홍대</b>점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 158-9 2층",
+      "roadAddress": "서울특별시 마포구 동교로 182-3 2층",
+      "mapx": "1269221583",
+      "mapy": "375567651"
+    },
+    {
+      "title": "카츠몬스터 연남본점",
+      "link": "https://www.instagram.com/katsumon.ynd",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-18 1층 101호 카츠몬스터 연남본점",
+      "roadAddress": "서울특별시 마포구 동교로38길 42-6 1층 101호 카츠몬스터 연남본점",
+      "mapx": "1269255679",
+      "mapy": "375610304"
+    },
+    {
+      "title": "테즈쿠리 <b>홍대</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tezkuri",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 355-5 홍대가자2 빌딩 2층",
+      "roadAddress": "서울특별시 마포구 홍익로5안길 32 홍대가자2 빌딩 2층",
+      "mapx": "1269211783",
+      "mapy": "375534765"
+    }
+  ]
+}

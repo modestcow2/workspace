@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "계향각",
+      "link": "https://app.catchtable.co.kr/ct/shop/heestoryfood?from=share&type=VISIT_RESERVATION",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 31-37 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 86 1층",
+      "mapx": "1270042485",
+      "mapy": "375820757"
+    },
+    {
+      "title": "만리성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-88 계우빌딩",
+      "roadAddress": "서울특별시 종로구 대학로12길 61 계우빌딩",
+      "mapx": "1270039661",
+      "mapy": "375814788"
+    },
+    {
+      "title": "서래향 대학로점",
+      "link": "https://www.instagram.com/verefood_official",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-94 1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 64 1층",
+      "mapx": "1270036981",
+      "mapy": "375812584"
+    },
+    {
+      "title": "중화요리 지엔",
+      "link": "http://instagram.com/znchina218",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 205-2 중화요리지엔",
+      "roadAddress": "서울특별시 종로구 율곡로 218 중화요리지엔",
+      "mapx": "1270030140",
+      "mapy": "375759769"
+    },
+    {
+      "title": "우정양꼬치,무한리필 대학로점",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 50-24",
+      "roadAddress": "서울특별시 종로구 동숭길 78",
+      "mapx": "1270042484",
+      "mapy": "375817442"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해목 서촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 72",
+      "roadAddress": "서울특별시 종로구 자하문로 26-1",
+      "mapx": "1269720065",
+      "mapy": "375784252"
+    },
+    {
+      "title": "쇼쿠도 합",
+      "link": "https://app.catchtable.co.kr/ct/shop/shokudo_hab",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 137-17 1층",
+      "mapx": "1269735847",
+      "mapy": "375763322"
+    },
+    {
+      "title": "진가와 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinkawagwm",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 진가와",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 진가와",
+      "mapx": "1269790252",
+      "mapy": "375747276"
+    },
+    {
+      "title": "스시산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
+    },
+    {
+      "title": "거북이의꿈 서촌점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-15 1층 거북이의꿈 서촌점",
+      "roadAddress": "서울특별시 종로구 자하문로 31-6 1층 거북이의꿈 서촌점",
+      "mapx": "1269710606",
+      "mapy": "375787714"
+    }
+  ]
+}

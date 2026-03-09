@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "시오 <b>연희동</b>본점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 190-4 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 23 1층",
+      "mapx": "1269286886",
+      "mapy": "375672105"
+    },
+    {
+      "title": "강수사",
+      "link": "https://www.instagram.com/gangjeongho6113",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 81-16 여흥빌딩",
+      "roadAddress": "서울특별시 서대문구 연희로 157 여흥빌딩",
+      "mapx": "1269342813",
+      "mapy": "375713773"
+    },
+    {
+      "title": "우동카덴",
+      "link": "https://www.caden.co.kr/",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 81-1 거화빌딩 1층",
+      "roadAddress": "서울특별시 서대문구 연희로 173 거화빌딩 1층",
+      "mapx": "1269350663",
+      "mapy": "375724062"
+    },
+    {
+      "title": "카덴",
+      "link": "https://www.caden.co.kr/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 81-1 거화빌딩 2층",
+      "roadAddress": "서울특별시 서대문구 연희로 173 거화빌딩 2층",
+      "mapx": "1269350880",
+      "mapy": "375725752"
+    },
+    {
+      "title": "희로",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 421-33",
+      "roadAddress": "서울특별시 서대문구 성산로 325",
+      "mapx": "1269266370",
+      "mapy": "375664532"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠스위스",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-12 1, 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 6 1, 2층",
+      "mapx": "1269246924",
+      "mapy": "375616511"
+    },
+    {
+      "title": "올데이우동 연남점",
+      "link": "https://www.instagram.com/allday_udon",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-37 2층",
+      "roadAddress": "서울특별시 마포구 성미산로29길 30 2층",
+      "mapx": "1269222128",
+      "mapy": "375653409"
+    },
+    {
+      "title": "초이다이닝",
+      "link": "https://www.instagram.com/choi_dining/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-25 지하1층",
+      "roadAddress": "서울특별시 마포구 동교로36길 3 지하1층",
+      "mapx": "1269245652",
+      "mapy": "375612678"
+    },
+    {
+      "title": "히포 브런치하우스",
+      "link": "https://www.instagram.com/brunchhaus_hippo/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-34 1층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 85 1층",
+      "mapx": "1269172618",
+      "mapy": "375652288"
+    },
+    {
+      "title": "쿠로코식당 연남점",
+      "link": "https://blog.naver.com/wcd0713",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 562-26 1층",
+      "roadAddress": "서울특별시 마포구 동교로27길 83 1층",
+      "mapx": "1269200428",
+      "mapy": "375612471"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "모던김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 97",
+      "roadAddress": "서울특별시 종로구 자하문로2길 10",
+      "mapx": "1269731772",
+      "mapy": "375764902"
+    },
+    {
+      "title": "153구포국수 경복궁점",
+      "link": "",
+      "category": "음식점>한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 93-3 1층",
+      "roadAddress": "서울특별시 종로구 사직로 127-6 1층",
+      "mapx": "1269732078",
+      "mapy": "375760801"
+    },
+    {
+      "title": "소박한집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 지하1층 124호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 지하1층 124호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "소문난매운<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그동네<b>떡볶이</b> <b>홍대</b>본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 335-16 그동네떡볶이",
+      "roadAddress": "서울특별시 마포구 와우산로27길 14 그동네떡볶이",
+      "mapx": "1269275396",
+      "mapy": "375541034"
+    },
+    {
+      "title": "<b>홍대</b>조폭<b>떡볶이</b> <b>홍대</b>2호점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 164-17 1층",
+      "roadAddress": "서울특별시 마포구 홍익로6길 38 1층",
+      "mapx": "1269237556",
+      "mapy": "375558918"
+    },
+    {
+      "title": "<b>홍대</b>조폭<b>떡볶이</b> 본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 328-18 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 26 1층",
+      "mapx": "1269284793",
+      "mapy": "375552696"
+    },
+    {
+      "title": "<b>홍대</b>씨부엉",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 358-39",
+      "roadAddress": "서울특별시 마포구 와우산로21길 28-6",
+      "mapx": "1269223397",
+      "mapy": "375525889"
+    },
+    {
+      "title": "닭장수김밥 <b>홍대</b>점",
+      "link": "https://www.instagram.com/dakjangsu_gimbap",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 201-41 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로4길 26 1층",
+      "mapx": "1269211790",
+      "mapy": "375574404"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "앗싸 복만두",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 45-313",
+      "roadAddress": "서울특별시 종로구 통일로14길 6",
+      "mapx": "1269581022",
+      "mapy": "375747889"
+    },
+    {
+      "title": "정가촌칼국시",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 현저동 201",
+      "roadAddress": "서울특별시 서대문구 독립문공원길 95",
+      "mapx": "1269544518",
+      "mapy": "375729850"
+    },
+    {
+      "title": "도깨비<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 198 도깨비칼국수",
+      "roadAddress": "서울특별시 서대문구 영천시장길 40 도깨비칼국수",
+      "mapx": "1269614284",
+      "mapy": "375703707"
+    },
+    {
+      "title": "장호덕손만두 종로구점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍파동 199 상가 2102호",
+      "roadAddress": "서울특별시 종로구 송월길 99 상가 2102호",
+      "mapx": "1269621898",
+      "mapy": "375707299"
+    },
+    {
+      "title": "독립문영천시장 영천만두",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 323 영천시장 B열 4호",
+      "roadAddress": "서울특별시 서대문구 통일로 189-1 영천시장 B열 4호",
+      "mapx": "1269618708",
+      "mapy": "375703324"
+    }
+  ]
+}

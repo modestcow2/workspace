@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "은설<b>설렁탕</b>",
+      "link": "https://youtube.com/@eunsul_foodie",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 55-1 은설설렁탕",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
+      "mapx": "1269816320",
+      "mapy": "375816001"
+    },
+    {
+      "title": "체부동잔치집 별관",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 12",
+      "roadAddress": "서울특별시 종로구 사직로 115-3",
+      "mapx": "1269716673",
+      "mapy": "375762475"
+    },
+    {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    },
+    {
+      "title": "청담원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 33호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "안국고다",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 77-1 1층",
+      "roadAddress": "서울특별시 종로구 인사동14길 10 1층",
+      "mapx": "1269846454",
+      "mapy": "375747474"
+    }
+  ]
+}

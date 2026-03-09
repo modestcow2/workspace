@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이안초밥 안녕<b>인사동</b>점",
+      "link": "https://www.instagram.com/sushi_ian.kr/?hl=ko",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 지상 M층 5,6번매장",
+      "roadAddress": "서울특별시 종로구 인사동길 49 지상 M층 5,6번매장",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "참치공방 종각본점",
+      "link": "https://tunaworkshop.com/",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 263 1층",
+      "roadAddress": "서울특별시 종로구 종로9길 8 1층",
+      "mapx": "1269842686",
+      "mapy": "375707912"
+    },
+    {
+      "title": "이춘복참치 종각점",
+      "link": "https://www.instagram.com/lcbtuna_official/",
+      "category": "음식점>한식>해물,생선요리>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 9 1층",
+      "roadAddress": "서울특별시 종로구 종로 69 1층",
+      "mapx": "1269851208",
+      "mapy": "375704273"
+    },
+    {
+      "title": "숙썽수산 종로본점",
+      "link": "https://www.instagram.com/sookseong_jongro",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 14-1 3층",
+      "roadAddress": "서울특별시 종로구 삼일대로19길 16 3층",
+      "mapx": "1269867721",
+      "mapy": "375696614"
+    },
+    {
+      "title": "라쿠엔",
+      "link": "https://www.instagram.com/lakuen_jongro?igsh=Z2l5c2dpem54OTVh&utm_source=qr",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 6 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로 440 1층",
+      "mapx": "1269877363",
+      "mapy": "375739371"
+    }
+  ]
+}

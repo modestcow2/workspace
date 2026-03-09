@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "프홍사",
+      "link": "https://blog.naver.com/fhongsa2022",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 157-73 1층 102호",
+      "roadAddress": "서울특별시 서대문구 모래내로 461 1층 102호",
+      "mapx": "1269458761",
+      "mapy": "375857722"
+    },
+    {
+      "title": "싱싱샐러드 홍제점",
+      "link": "https://instagram.com/singsingsalad_hongje?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-57 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 461 1층",
+      "mapx": "1269430390",
+      "mapy": "375894328"
+    },
+    {
+      "title": "그린앤피니 홍제점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 317-3 1층",
+      "roadAddress": "서울특별시 서대문구 통일로37길 50 1층",
+      "mapx": "1269439454",
+      "mapy": "375860532"
+    },
+    {
+      "title": "달리는커피 서울<b>홍제역</b>점",
+      "link": "https://www.dalcu.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 315-31 지1층 B02호",
+      "roadAddress": "서울특별시 서대문구 통일로37길 27 지1층 B02호",
+      "mapx": "1269442433",
+      "mapy": "375870611"
+    },
+    {
+      "title": "카페 그리니",
+      "link": "",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 은평구 응암동 760-1 211동 상가 버스정류장 앞 카페그리니",
+      "roadAddress": "서울특별시 은평구 백련산로 84 211동 상가 버스정류장 앞 카페그리니",
+      "mapx": "1269233816",
+      "mapy": "375930521"
+    }
+  ]
+}

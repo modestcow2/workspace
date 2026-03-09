@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "유자유김치<b>떡볶이</b> <b>신촌</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-156",
+      "roadAddress": "서울특별시 서대문구 연세로11길 22",
+      "mapx": "1269356093",
+      "mapy": "375590089"
+    },
+    {
+      "title": "오신다<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-5 지층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 8 지층",
+      "mapx": "1269364853",
+      "mapy": "375590464"
+    },
+    {
+      "title": "샤브보트R <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 29-81 1층 103-1호",
+      "roadAddress": "서울특별시 서대문구 신촌로 109 1층 103-1호",
+      "mapx": "1269383026",
+      "mapy": "375558207"
+    },
+    {
+      "title": "샤브온미 <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-4 2층",
+      "roadAddress": "서울특별시 서대문구 연세로5길 32 2층",
+      "mapx": "1269353823",
+      "mapy": "375563652"
+    },
+    {
+      "title": "빨간모자김밥",
+      "link": "https://www.instagram.com/redcap_gimbap",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 107-12 서일빌딩 1층 빨간모자김밥",
+      "roadAddress": "서울특별시 마포구 서강로 142 서일빌딩 1층 빨간모자김밥",
+      "mapx": "1269363509",
+      "mapy": "375544450"
+    }
+  ]
+}

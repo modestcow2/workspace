@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "감나무집기사식당",
+      "link": "",
+      "category": "한식>기사식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 515-19",
+      "roadAddress": "서울특별시 마포구 연남로 25",
+      "mapx": "1269221264",
+      "mapy": "375617165"
+    },
+    {
+      "title": "월강부산돼지국밥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 258-14 월강부산돼지국밥",
+      "roadAddress": "서울특별시 마포구 동교로 241-1 월강부산돼지국밥",
+      "mapx": "1269241539",
+      "mapy": "375616319"
+    },
+    {
+      "title": "광계",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-72 1.5층",
+      "roadAddress": "서울특별시 마포구 연희로1길 55 1.5층",
+      "mapx": "1269262559",
+      "mapy": "375613264"
+    },
+    {
+      "title": "미래회관 연남직영점",
+      "link": "https://www.instagram.com/miraehall___yeonnam",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-27 2층",
+      "roadAddress": "서울특별시 마포구 동교로 242 2층",
+      "mapx": "1269244332",
+      "mapy": "375614118"
+    },
+    {
+      "title": "작은마을밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 361-11",
+      "roadAddress": "서울특별시 마포구 연남로 72-1",
+      "mapx": "1269194854",
+      "mapy": "375654480"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>스시</b>산 본관",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 65",
+      "roadAddress": "서울특별시 성북구 성북로 19",
+      "mapx": "1270044397",
+      "mapy": "375896907"
+    },
+    {
+      "title": "비양도 본점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 271-1 1층",
+      "roadAddress": "서울특별시 성북구 성북로 158 1층",
+      "mapx": "1269923072",
+      "mapy": "375945618"
+    },
+    {
+      "title": "<b>스시</b>산",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-31 산빌딩1층",
+      "roadAddress": "서울특별시 성북구 성북로 5-1 산빌딩1층",
+      "mapx": "1270053690",
+      "mapy": "375887833"
+    },
+    {
+      "title": "밀튼가츠멘",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동4가 267 삼송빌딩1층",
+      "roadAddress": "서울특별시 성북구 동소문로 65-2 삼송빌딩1층",
+      "mapx": "1270126118",
+      "mapy": "375917589"
+    },
+    {
+      "title": "<b>스시</b> 성북",
+      "link": "https://www.instagram.com/sushiseongbuk/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 58-16",
+      "roadAddress": "서울특별시 성북구 성북로 74",
+      "mapx": "1270008029",
+      "mapy": "375935975"
+    }
+  ]
+}

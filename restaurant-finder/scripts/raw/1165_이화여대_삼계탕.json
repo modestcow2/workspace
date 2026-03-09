@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신촌순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-99 2층",
+      "roadAddress": "서울특별시 서대문구 신촌로 125 2층",
+      "mapx": "1269397638",
+      "mapy": "375562966"
+    },
+    {
+      "title": "삼진식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 85 하늬솔빌딩",
+      "roadAddress": "서울특별시 서대문구 성산로 527 하늬솔빌딩",
+      "mapx": "1269440375",
+      "mapy": "375637333"
+    },
+    {
+      "title": "옛촌<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 아현동 346-43",
+      "roadAddress": "서울특별시 마포구 굴레방로9길 46",
+      "mapx": "1269530446",
+      "mapy": "375567748"
+    },
+    {
+      "title": "장수보감 신촌본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 31-50 1층 장수보감",
+      "roadAddress": "서울특별시 마포구 백범로1길 8-7 1층 장수보감",
+      "mapx": "1269377731",
+      "mapy": "375541197"
+    },
+    {
+      "title": "백산왕<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 125-19",
+      "roadAddress": "서울특별시 서대문구 북아현로2안길 9",
+      "mapx": "1269570360",
+      "mapy": "375581290"
+    }
+  ]
+}

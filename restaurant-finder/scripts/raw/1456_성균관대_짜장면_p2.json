@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "화원루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 290-1",
+      "roadAddress": "경기도 수원시 장안구 서부로2126번길 17",
+      "mapx": "1269728815",
+      "mapy": "372979990"
+    },
+    {
+      "title": "정원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 298-8 2층",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 34-3 2층",
+      "mapx": "1269693462",
+      "mapy": "372986041"
+    },
+    {
+      "title": "짬뽕관 수원<b>성균관대</b>점",
+      "link": "http://짬뽕관.com",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 292-7 105호, 106호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 17 105호, 106호",
+      "mapx": "1269702507",
+      "mapy": "372982228"
+    },
+    {
+      "title": "마마오리 <b>성균관대</b>8호점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 225",
+      "roadAddress": "서울특별시 종로구 성균관로 9-1",
+      "mapx": "1269979515",
+      "mapy": "375837300"
+    },
+    {
+      "title": "보배반점 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 288-6 2층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2132 2층",
+      "mapx": "1269721830",
+      "mapy": "372985852"
+    }
+  ]
+}

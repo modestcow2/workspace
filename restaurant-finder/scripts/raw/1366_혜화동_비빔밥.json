@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고은정 대학로본점",
+      "link": "https://blog.naver.com/koeunjung_hh",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 188-14 A&A타워 1층 102호",
+      "roadAddress": "서울특별시 종로구 창경궁로 240-7 A&A타워 1층 102호",
+      "mapx": "1269989806",
+      "mapy": "375824691"
+    },
+    {
+      "title": "혜화 골목냉면",
+      "link": "https://golmokicenoodle.com/About",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 108-1 혜화 골목냉면",
+      "roadAddress": "서울특별시 종로구 혜화로 2 혜화 골목냉면",
+      "mapx": "1270008727",
+      "mapy": "375861262"
+    },
+    {
+      "title": "둘리네분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 144",
+      "roadAddress": "서울특별시 종로구 창경궁로34길 15",
+      "mapx": "1270011471",
+      "mapy": "375843779"
+    },
+    {
+      "title": "오이지 대학로",
+      "link": "http://app.catchtable.co.kr/ct/shop/oiji_hyewa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 142",
+      "roadAddress": "서울특별시 종로구 대학로9길 33",
+      "mapx": "1270001999",
+      "mapy": "375818701"
+    },
+    {
+      "title": "일송칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜1가 75-1 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 44 1층",
+      "mapx": "1269968020",
+      "mapy": "375865688"
+    }
+  ]
+}

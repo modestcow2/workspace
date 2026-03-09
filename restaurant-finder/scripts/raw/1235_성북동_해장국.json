@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마전터",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 124-3 마전터",
+      "roadAddress": "서울특별시 성북구 혜화로 82-2 마전터",
+      "mapx": "1269986750",
+      "mapy": "375926570"
+    },
+    {
+      "title": "이향 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 256-3",
+      "roadAddress": "서울특별시 성북구 성북로26길 13",
+      "mapx": "1269943293",
+      "mapy": "375949681"
+    },
+    {
+      "title": "참이맛감자탕 삼선교점",
+      "link": "http://www.chamimat.co.kr",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 42-2",
+      "roadAddress": "서울특별시 성북구 성북로5길 2",
+      "mapx": "1270048240",
+      "mapy": "375893190"
+    },
+    {
+      "title": "청진동<b>해장국</b>",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 95",
+      "roadAddress": "서울특별시 성북구 동소문로5길 2-7",
+      "mapx": "1270081750",
+      "mapy": "375896487"
+    },
+    {
+      "title": "삼삼뼈국 <b>성북동</b>점",
+      "link": "https://www.instagram.com/samsam.soup",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 266-1 1층",
+      "roadAddress": "서울특별시 성북구 성북로 148-3 1층",
+      "mapx": "1269930953",
+      "mapy": "375946182"
+    }
+  ]
+}

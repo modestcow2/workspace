@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무제스시",
+      "link": "https://www.instagram.com/mujaesushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 118-5 1층",
+      "roadAddress": "서울특별시 종로구 대학로9길 22-5 1층",
+      "mapx": "1270006329",
+      "mapy": "375818784"
+    },
+    {
+      "title": "스시 성북",
+      "link": "https://www.instagram.com/sushiseongbuk/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 58-16",
+      "roadAddress": "서울특별시 성북구 성북로 74",
+      "mapx": "1270008029",
+      "mapy": "375935975"
+    },
+    {
+      "title": "대규스시",
+      "link": "https://app.catchtable.co.kr/ct/shop/daegyu_sushi",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 128-12 1층",
+      "roadAddress": "서울특별시 종로구 동숭3길 1 1층",
+      "mapx": "1270044280",
+      "mapy": "375812631"
+    },
+    {
+      "title": "오온 종로 익선동 본점",
+      "link": "https://www.instagram.com/oon.jongro",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 59-5 7층",
+      "roadAddress": "서울특별시 종로구 삼일대로28길 8 7층",
+      "mapx": "1269884979",
+      "mapy": "375734176"
+    },
+    {
+      "title": "MUU 한우다이닝 서순라길",
+      "link": "https://www.instagram.com/muu_dining/?igsh=eHB4eGNrbDNjMzNu",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 봉익동 1-4",
+      "roadAddress": "서울특별시 종로구 율곡로10길 85-11",
+      "mapx": "1269922507",
+      "mapy": "375737284"
+    }
+  ]
+}

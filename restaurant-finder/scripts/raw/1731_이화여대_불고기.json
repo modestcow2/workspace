@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "탁사발두부공방 이대역점",
+      "link": "",
+      "category": "한식>두부요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 40-30 1층",
+      "roadAddress": "서울특별시 서대문구 신촌로 171 1층",
+      "mapx": "1269449722",
+      "mapy": "375569651"
+    },
+    {
+      "title": "이로운밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-13 2층",
+      "roadAddress": "서울특별시 서대문구 연대동문길 27-6 2층",
+      "mapx": "1269437383",
+      "mapy": "375640555"
+    },
+    {
+      "title": "강식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 27-33 2층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 22-8 2층",
+      "mapx": "1269433721",
+      "mapy": "375588475"
+    },
+    {
+      "title": "살빼고 아현 본점",
+      "link": "https://naver.me/Fjcz021GFrom살빼고",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 1-233 1층 살빼고",
+      "roadAddress": "서울특별시 서대문구 북아현로 68 1층 살빼고",
+      "mapx": "1269550477",
+      "mapy": "375632279"
+    },
+    {
+      "title": "존재의 이유",
+      "link": "https://x.com/jonjaeeux",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 125-19",
+      "roadAddress": "서울특별시 서대문구 성산로 569",
+      "mapx": "1269468587",
+      "mapy": "375669467"
+    }
+  ]
+}

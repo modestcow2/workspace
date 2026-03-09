@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "47번가찻집",
+      "link": "https://www.instagram.com/47th.avenue.teahouse?igsh=MXRpNTIwandydW5iNA%3D%3D&utm_source=qr",
+      "category": "카페,디저트>차",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 72 2층 47번가찻집",
+      "roadAddress": "서울특별시 종로구 인사동길 50 2층 47번가찻집",
+      "mapx": "1269844234",
+      "mapy": "375744917"
+    },
+    {
+      "title": "경성<b>치킨</b> 본점",
+      "link": "https://gyeongseongchiken.co.kr",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 14",
+      "roadAddress": "서울특별시 종로구 율곡로4길 5",
+      "mapx": "1269822908",
+      "mapy": "375752174"
+    },
+    {
+      "title": "니르바나",
+      "link": "http://nirvanaseoul.com",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 120 2층",
+      "roadAddress": "서울특별시 종로구 인사동길 58 2층",
+      "mapx": "1269837847",
+      "mapy": "375751361"
+    },
+    {
+      "title": "몽롱",
+      "link": "http://instagram.com/monglong_jongno",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-14 1~4층 몽롱",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 42-1 1~4층 몽롱",
+      "mapx": "1269850798",
+      "mapy": "375693668"
+    },
+    {
+      "title": "왕초바베큐 종로점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-16 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 46 1층",
+      "mapx": "1269849531",
+      "mapy": "375692916"
+    }
+  ]
+}

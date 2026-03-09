@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "슬로우캘리 <b>경복궁</b>점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 122-1 한국생산성본부 B1층",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 32 한국생산성본부 B1층",
+      "mapx": "1269735672",
+      "mapy": "375749172"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "<b>포케</b>로로 경희궁의아침점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침3단지 1층 120호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침3단지 1층 120호",
+      "mapx": "1269724983",
+      "mapy": "375736137"
+    },
+    {
+      "title": "샐러드로우앤트라타 광화문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 65 1층 104호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 31 1층 104호",
+      "mapx": "1269741944",
+      "mapy": "375731166"
+    },
+    {
+      "title": "언더랩 샐러드&amp;<b>포케</b>",
+      "link": "https://www.instagram.com/under_lab_",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 167 지하1층 109호 언더랩",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30 지하1층 109호 언더랩",
+      "mapx": "1269733705",
+      "mapy": "375727373"
+    }
+  ]
+}

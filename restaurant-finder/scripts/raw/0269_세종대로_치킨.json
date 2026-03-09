@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우주맥주",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-3 2, 3, 4층",
+      "roadAddress": "서울특별시 중구 세종대로 76 2, 3, 4층",
+      "mapx": "1269768412",
+      "mapy": "375629076"
+    },
+    {
+      "title": "깐부<b>치킨</b> 북창동점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-7",
+      "roadAddress": "서울특별시 중구 세종대로 78",
+      "mapx": "1269770681",
+      "mapy": "375630967"
+    },
+    {
+      "title": "강가 무교점",
+      "link": "https://blog.naver.com/ganga1004",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하2층",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하2층",
+      "mapx": "1269778023",
+      "mapy": "375684147"
+    },
+    {
+      "title": "오븐에빠진닭 서울역점",
+      "link": "https://oppadak.co.kr/main/main.php",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 63-20",
+      "roadAddress": "서울특별시 중구 세종대로 7",
+      "mapx": "1269727950",
+      "mapy": "375578300"
+    },
+    {
+      "title": "니욤",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 . 지하1층 B109-6호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 . 지하1층 B109-6호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    }
+  ]
+}

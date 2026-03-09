@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스타벅스 <b>KT광화문</b>웨스트B1F점",
+      "link": "http://www.starbucks.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100",
+      "roadAddress": "서울특별시 종로구 세종대로 178 (세종로)",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "코끼리초밥 <b>광화문</b>점",
+      "link": "https://blog.naver.com/kokirisushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "타마린드 디타워점",
+      "link": "https://catchtable.co.kr/tamarinddt",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "수수커피 디타워점",
+      "link": "http://instagram.com/soosoocoffee",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 디타워 1층 128호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 디타워 1층 128호",
+      "mapx": "1269791066",
+      "mapy": "375714609"
+    },
+    {
+      "title": "엘 샌드위치 종각역점",
+      "link": "http://smartstore.naver.com/elsandwich",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 타워8 B1 엘샌드위치",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8 B1 엘샌드위치",
+      "mapx": "1269805518",
+      "mapy": "375706324"
+    }
+  ]
+}

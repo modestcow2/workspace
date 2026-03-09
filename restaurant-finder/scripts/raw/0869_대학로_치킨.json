@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "맥썸 <b>대학로</b>점",
+      "link": "http://www.맥썸.com",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 8-1 2층",
+      "roadAddress": "서울특별시 종로구 대명길 9 2층",
+      "mapx": "1270009343",
+      "mapy": "375834293"
+    },
+    {
+      "title": "삼덕통닭 혜화점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-59 1층",
+      "roadAddress": "서울특별시 종로구 대학로8가길 26 1층",
+      "mapx": "1270025476",
+      "mapy": "375820885"
+    },
+    {
+      "title": "<b>대학로</b>에 취하다 혜화역 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/daehakro_pub",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-63 1층",
+      "roadAddress": "서울특별시 종로구 대학로10길 15-11 1층",
+      "mapx": "1270028943",
+      "mapy": "375822461"
+    },
+    {
+      "title": "당나발포차 서울<b>대학로</b>점",
+      "link": "https://dangnabal.com/",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 11-2 1층",
+      "roadAddress": "서울특별시 종로구 대명1길 4 1층",
+      "mapx": "1270007689",
+      "mapy": "375832792"
+    },
+    {
+      "title": "머노까머나 <b>대학로</b>점",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 187 이화빌딩 2층",
+      "roadAddress": "서울특별시 종로구 창경궁로 236 이화빌딩 2층",
+      "mapx": "1269988320",
+      "mapy": "375826920"
+    }
+  ]
+}

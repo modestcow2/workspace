@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "비아37 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/via37_",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-31 2층 비아37 신촌본점",
+      "roadAddress": "서울특별시 서대문구 이화여대길 68 2층 비아37 신촌본점",
+      "mapx": "1269446608",
+      "mapy": "375592889"
+    },
+    {
+      "title": "벨라비타",
+      "link": "https://www.instagram.com/bellavita_bukahyeon",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 1-1038 1층",
+      "roadAddress": "서울특별시 서대문구 북아현로 107 1층",
+      "mapx": "1269514019",
+      "mapy": "375647909"
+    },
+    {
+      "title": "LORD SANDWICH",
+      "link": "https://www.instagram.com/gallery_lord_sandwich",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-1 1층 LORD SANDWICH",
+      "roadAddress": "서울특별시 서대문구 연대동문길 45 1층 LORD SANDWICH",
+      "mapx": "1269444463",
+      "mapy": "375644415"
+    },
+    {
+      "title": "역대급<b>피자</b> 대흥점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 대흥동 806 106호 역대급피자",
+      "roadAddress": "서울특별시 마포구 대흥로 183 106호 역대급피자",
+      "mapx": "1269456424",
+      "mapy": "375552427"
+    },
+    {
+      "title": "헐리우드",
+      "link": "http://www.delizioso.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 111-14 1층 헐리우드",
+      "roadAddress": "서울특별시 서대문구 성산로 551 1층 헐리우드",
+      "mapx": "1269456710",
+      "mapy": "375653184"
+    }
+  ]
+}

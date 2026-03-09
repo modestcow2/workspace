@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "댄싱홍콩 <b>신촌</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-77 1층 댄싱홍콩",
+      "roadAddress": "서울특별시 서대문구 연세로12길 37-4 1층 댄싱홍콩",
+      "mapx": "1269391153",
+      "mapy": "375592662"
+    },
+    {
+      "title": "복성각",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 31-8",
+      "roadAddress": "서울특별시 서대문구 명물1길 24",
+      "mapx": "1269373559",
+      "mapy": "375585311"
+    },
+    {
+      "title": "난향",
+      "link": "http://www.nanhyang.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 72-21 거촌빌딩 지하 1층",
+      "roadAddress": "서울특별시 서대문구 신촌로 67 거촌빌딩 지하 1층",
+      "mapx": "1269340976",
+      "mapy": "375564153"
+    },
+    {
+      "title": "가화만사성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-8 2층",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 1 2층",
+      "mapx": "1269361103",
+      "mapy": "375570298"
+    },
+    {
+      "title": "무궁화반점 <b>신촌</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-44",
+      "roadAddress": "서울특별시 서대문구 신촌로 117",
+      "mapx": "1269389936",
+      "mapy": "375559862"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "석교식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 331",
+      "roadAddress": "서울특별시 서대문구 통일로 185",
+      "mapx": "1269622884",
+      "mapy": "375700014"
+    },
+    {
+      "title": "불란집",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-29",
+      "roadAddress": "서울특별시 서대문구 통일로 445",
+      "mapx": "1269442653",
+      "mapy": "375884493"
+    },
+    {
+      "title": "옛날<b>순대</b>",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 82 무악현대프라자 1층 옛날순대",
+      "roadAddress": "서울특별시 종로구 통일로 246-10 무악현대프라자 1층 옛날순대",
+      "mapx": "1269590672",
+      "mapy": "375744861"
+    },
+    {
+      "title": "칠구네신림동백<b>순대</b> 서대문구청점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 274-32 1층 칠구네신림동백순대 서대문구청점",
+      "roadAddress": "서울특별시 서대문구 연희로 265 1층 칠구네신림동백순대 서대문구청점",
+      "mapx": "1269359218",
+      "mapy": "375807246"
+    },
+    {
+      "title": "서촌전통<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
+    }
+  ]
+}

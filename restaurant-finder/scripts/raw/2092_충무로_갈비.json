@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "설문동본<b>갈비</b> 을지로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yeonrak",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 57-24 1층",
+      "roadAddress": "서울특별시 중구 수표로2길 23 1층",
+      "mapx": "1269918574",
+      "mapy": "375622430"
+    },
+    {
+      "title": "진고개",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 30-16",
+      "roadAddress": "서울특별시 중구 충무로 19-1",
+      "mapx": "1269928326",
+      "mapy": "375630108"
+    },
+    {
+      "title": "오장<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 오장동 69-5",
+      "roadAddress": "서울특별시 중구 마른내로 109",
+      "mapx": "1270000250",
+      "mapy": "375645910"
+    },
+    {
+      "title": "황토골 <b>충무로</b>역본점",
+      "link": "https://www.instagram.com/hwang_toe_gol",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 79-1 1F 황토골",
+      "roadAddress": "서울특별시 중구 서애로 6-1 1F 황토골",
+      "mapx": "1269982630",
+      "mapy": "375616900"
+    },
+    {
+      "title": "뚱보식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 3-19",
+      "roadAddress": "서울특별시 중구 퇴계로27길 14",
+      "mapx": "1269917317",
+      "mapy": "375618097"
+    }
+  ]
+}

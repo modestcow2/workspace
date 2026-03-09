@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해우리 명동점",
+      "link": "http://www.haewoori.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 206 리더스뷰남산 지하1층",
+      "roadAddress": "서울특별시 중구 퇴계로 72 리더스뷰남산 지하1층",
+      "mapx": "1269806658",
+      "mapy": "375591956"
+    },
+    {
+      "title": "남대문잔치집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 30-11 2층 남대문 잔치집",
+      "roadAddress": "서울특별시 중구 남대문시장길 31-4 2층 남대문 잔치집",
+      "mapx": "1269778473",
+      "mapy": "375605487"
+    },
+    {
+      "title": "아리연",
+      "link": "https://www.instagram.com/ariyeon_official/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-19 해남2빌딩, 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로12길 12 해남2빌딩, 지하1층",
+      "mapx": "1269768063",
+      "mapy": "375617253"
+    },
+    {
+      "title": "한가람 본점",
+      "link": "http://www.hangaramfood.co.kr/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-35",
+      "roadAddress": "서울특별시 중구 남대문로5길 25",
+      "mapx": "1269789529",
+      "mapy": "375625240"
+    },
+    {
+      "title": "한우리 신세계백화점 본점",
+      "link": "https://www.hwrfood.com",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 신세계백화점 본점13층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 신세계백화점 본점13층",
+      "mapx": "1269806031",
+      "mapy": "375600570"
+    }
+  ]
+}

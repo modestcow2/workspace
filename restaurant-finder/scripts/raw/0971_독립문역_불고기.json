@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "덕송숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 43",
+      "roadAddress": "서울특별시 종로구 통일로14길 5",
+      "mapx": "1269579499",
+      "mapy": "375749329"
+    },
+    {
+      "title": "명원숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-8",
+      "roadAddress": "서울특별시 종로구 통일로12길 8",
+      "mapx": "1269600719",
+      "mapy": "375732322"
+    },
+    {
+      "title": "동영숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-76",
+      "roadAddress": "서울특별시 종로구 통일로12길 6",
+      "mapx": "1269599730",
+      "mapy": "375731338"
+    },
+    {
+      "title": "능라밥상",
+      "link": "https://www.facebook.com/",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 1-64 능라밥상",
+      "roadAddress": "서울특별시 종로구 사직로2길 14 능라밥상",
+      "mapx": "1269640183",
+      "mapy": "375729551"
+    },
+    {
+      "title": "소풍 <b>독립문역</b>점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
+      "mapx": "1269649269",
+      "mapy": "375737152"
+    }
+  ]
+}

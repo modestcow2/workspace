@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연희보리밥",
+      "link": "https://www.instagram.com/boribab_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
+      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
+      "mapx": "1269306323",
+      "mapy": "375679590"
+    },
+    {
+      "title": "가미분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 54-1 무궁화상가아파트",
+      "roadAddress": "서울특별시 서대문구 이화여대8길 2 무궁화상가아파트",
+      "mapx": "1269460024",
+      "mapy": "375586996"
+    },
+    {
+      "title": "단골손님 신촌점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-61 2층",
+      "roadAddress": "서울특별시 서대문구 연세로7길 20 2층",
+      "mapx": "1269357464",
+      "mapy": "375577864"
+    },
+    {
+      "title": "고향전주<b>비빔밥</b> 현대백화점신촌점",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-33 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 10층",
+      "mapx": "1269357533",
+      "mapy": "375558490"
+    },
+    {
+      "title": "영미김밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-7 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 21 1층",
+      "mapx": "1269425818",
+      "mapy": "375586428"
+    }
+  ]
+}

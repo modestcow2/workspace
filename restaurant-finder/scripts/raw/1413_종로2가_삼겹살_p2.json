@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "샤브가든 <b>종로</b>타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "경복궁식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 1층 112호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 112호",
+      "mapx": "1269847135",
+      "mapy": "375704128"
+    },
+    {
+      "title": "육통령 명동본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-36",
+      "roadAddress": "서울특별시 중구 명동8나길 37-2",
+      "mapx": "1269828439",
+      "mapy": "375611991"
+    },
+    {
+      "title": "고기꾼김춘배 <b>종로</b>직영점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
+      "mapx": "1269864928",
+      "mapy": "375690679"
+    },
+    {
+      "title": "익선동목장 <b>종로</b>본점",
+      "link": "http://www.instagram.com/iksun.farm",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 묘동 160-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
+      "mapx": "1269911398",
+      "mapy": "375731869"
+    }
+  ]
+}

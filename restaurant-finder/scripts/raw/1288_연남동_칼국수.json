@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연남 <b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-56 대로변 1층 일부호()",
+      "roadAddress": "서울특별시 마포구 연남로 19 대로변 1층 일부호(연남동)",
+      "mapx": "1269224618",
+      "mapy": "375613724"
+    },
+    {
+      "title": "샤브라운지 연남",
+      "link": "https://www.instagram.com/shabu_rounge?igsh=MTRpY2ZsencxYWZxOA==",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-23 1층, 2층, 3층",
+      "roadAddress": "서울특별시 마포구 동교로36길 18 1층, 2층, 3층",
+      "mapx": "1269253731",
+      "mapy": "375611498"
+    },
+    {
+      "title": "이오 한우구이 스키야키 연남",
+      "link": "https://www.instagram.com/25__sukiyaki/profilecard/?igsh=MW5yZmszMHFqY2JhdQ==",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 361-14 1층 이오",
+      "roadAddress": "서울특별시 마포구 연남로 93 1층 이오",
+      "mapx": "1269176282",
+      "mapy": "375669078"
+    },
+    {
+      "title": "모모<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-250 1층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 98 1층",
+      "mapx": "1269172729",
+      "mapy": "375657887"
+    },
+    {
+      "title": "오늘은내가쏜다",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-378",
+      "roadAddress": "서울특별시 마포구 성미산로 97",
+      "mapx": "1269180980",
+      "mapy": "375615689"
+    }
+  ]
+}

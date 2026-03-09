@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "교촌<b>치킨</b> 안국점",
+      "link": "https://m.kyochon.com/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-7",
+      "roadAddress": "서울특별시 종로구 북촌로5길 43",
+      "mapx": "1269825655",
+      "mapy": "375793487"
+    },
+    {
+      "title": "금성슈퍼 광화문본점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 7-5 금성슈퍼 광화문본점 1F",
+      "roadAddress": "서울특별시 종로구 새문안로9길 9 금성슈퍼 광화문본점 1F",
+      "mapx": "1269759933",
+      "mapy": "375706901"
+    },
+    {
+      "title": "왕초바베큐 종로점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-16 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 46 1층",
+      "mapx": "1269849531",
+      "mapy": "375692916"
+    },
+    {
+      "title": "경성<b>치킨</b> 본점",
+      "link": "https://gyeongseongchiken.co.kr",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 14",
+      "roadAddress": "서울특별시 종로구 율곡로4길 5",
+      "mapx": "1269822908",
+      "mapy": "375752174"
+    },
+    {
+      "title": "몽롱",
+      "link": "http://instagram.com/monglong_jongno",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-14 1~4층 몽롱",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 42-1 1~4층 몽롱",
+      "mapx": "1269850798",
+      "mapy": "375693668"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "꽃누리들밥 <b>경복궁</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 112 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 31 지하1층",
+      "mapx": "1269804337",
+      "mapy": "375772562"
+    },
+    {
+      "title": "모도우 광화문점",
+      "link": "https://openine.com/PARTY",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 14 트윈트리타워 B동 M층",
+      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 B동 M층",
+      "mapx": "1269799056",
+      "mapy": "375755265"
+    },
+    {
+      "title": "뚱낙원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 41-1 뚱낙원",
+      "roadAddress": "서울특별시 종로구 자하문로2길 15 뚱낙원",
+      "mapx": "1269735625",
+      "mapy": "375765667"
+    },
+    {
+      "title": "서래미소 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-43 3~5층",
+      "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
+      "mapx": "1269726487",
+      "mapy": "375770180"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "은호식당",
+      "link": "https://www.instagram.com/eunho1932?igsh=amhxc2JtYnZqazU3",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-42 은호식당",
+      "roadAddress": "서울특별시 중구 남대문시장4길 28-4 은호식당",
+      "mapx": "1269770705",
+      "mapy": "375590023"
+    },
+    {
+      "title": "진주집",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-31",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-2",
+      "mapx": "1269770936",
+      "mapy": "375600090"
+    },
+    {
+      "title": "갈비명가이상 명동점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 206 2층",
+      "roadAddress": "서울특별시 중구 퇴계로 72 2층",
+      "mapx": "1269806038",
+      "mapy": "375591254"
+    },
+    {
+      "title": "양미옥 남대문점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 95-1",
+      "roadAddress": "서울특별시 중구 남대문로 27-2",
+      "mapx": "1269787856",
+      "mapy": "375614278"
+    },
+    {
+      "title": "하수오곰탕 명동점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-8 1층",
+      "roadAddress": "서울특별시 중구 명동8나길 47 1층",
+      "mapx": "1269822706",
+      "mapy": "375611325"
+    }
+  ]
+}

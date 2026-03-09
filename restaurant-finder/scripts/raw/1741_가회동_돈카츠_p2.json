@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일월카츠 계동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ilwolkatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 1층 일월카츠",
+      "roadAddress": "서울특별시 종로구 계동길 17 1층 일월카츠",
+      "mapx": "1269865352",
+      "mapy": "375781458"
+    },
+    {
+      "title": "쿄와우동",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 지하1층",
+      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
+      "mapx": "1269866870",
+      "mapy": "375780953"
+    },
+    {
+      "title": "스미레<b>돈카츠</b> 안국점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-32",
+      "roadAddress": "서울특별시 종로구 북촌로 14-1",
+      "mapx": "1269856575",
+      "mapy": "375781850"
+    },
+    {
+      "title": "삼동소바 북촌점",
+      "link": "https://www.instagram.com/samdong_bukchon",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 13 비03호",
+      "roadAddress": "서울특별시 종로구 계동길 119-1 비03호",
+      "mapx": "1269866762",
+      "mapy": "375825823"
+    },
+    {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    }
+  ]
+}

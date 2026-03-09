@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "동화고옥 <b>서울역</b>점",
+      "link": "https://www.instagram.com/donghwagohok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 지하1층 24-1호",
+      "roadAddress": "서울특별시 중구 한강대로 416 지하1층 24-1호",
+      "mapx": "1269737511",
+      "mapy": "375553949"
+    },
+    {
+      "title": "해봉정육 시청점",
+      "link": "https://www.leejung-group.co.kr/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 216 AIA Tower B1",
+      "roadAddress": "서울특별시 중구 통일로2길 16 AIA Tower B1",
+      "mapx": "1269716559",
+      "mapy": "375609019"
+    },
+    {
+      "title": "부원면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 47-10 부원상가 2층",
+      "roadAddress": "서울특별시 중구 남대문시장4길 41-6 부원상가 2층",
+      "mapx": "1269775990",
+      "mapy": "375584294"
+    },
+    {
+      "title": "제주산방식당 대한상공회의소점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 45 지하1층 제주산방식당 (대한상공회의소)",
+      "roadAddress": "서울특별시 중구 세종대로 39 지하1층 제주산방식당 (대한상공회의소)",
+      "mapx": "1269737772",
+      "mapy": "375607099"
+    }
+  ]
+}

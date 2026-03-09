@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "손가네곰국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 128-16 손가네곰국수",
+      "roadAddress": "서울특별시 성북구 성북로15길 8 손가네곰국수",
+      "mapx": "1270003774",
+      "mapy": "375931501"
+    },
+    {
+      "title": "<b>성북동</b>삼거리전통<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 103",
+      "roadAddress": "서울특별시 성북구 성북로 105",
+      "mapx": "1269972839",
+      "mapy": "375926309"
+    },
+    {
+      "title": "우리밀국시",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 124-11 1층",
+      "roadAddress": "서울특별시 성북구 혜화로 84-2 1층",
+      "mapx": "1269984687",
+      "mapy": "375926738"
+    },
+    {
+      "title": "이강희곰탕",
+      "link": "https://blog.naver.com/likanghi",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 36-3",
+      "roadAddress": "서울특별시 성북구 성북로5길 9-4",
+      "mapx": "1270044792",
+      "mapy": "375889069"
+    },
+    {
+      "title": "성북<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 232-4",
+      "roadAddress": "서울특별시 성북구 성북로 147",
+      "mapx": "1269934068",
+      "mapy": "375945671"
+    }
+  ]
+}

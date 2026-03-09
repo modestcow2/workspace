@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "느린마을양조장 대학로점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 27-5 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로34길 24-5 1층",
+      "mapx": "1270008054",
+      "mapy": "375838516"
+    },
+    {
+      "title": "철판스토리",
+      "link": "https://blog.naver.com/goodi1982",
+      "category": "한식>주꾸미요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 293-6 104호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 20 104호",
+      "mapx": "1269701195",
+      "mapy": "372985151"
+    },
+    {
+      "title": "기울어진뚝배기 수원성대점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-95 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로2105번길 12 1층",
+      "mapx": "1269696153",
+      "mapy": "372968449"
+    },
+    {
+      "title": "곱분이곱창 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 293-3 B동 101호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 20-1 B동 101호",
+      "mapx": "1269705114",
+      "mapy": "372986975"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마라공방 종각2호점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 1층",
+      "mapx": "1269798224",
+      "mapy": "375708585"
+    },
+    {
+      "title": "공샤브",
+      "link": "https://www.instagram.com/gong_shaboo_new/",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 종로타운 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 종로타운 지하1층",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "에이치와이코리아",
+      "link": "https://www.maragongbang.com",
+      "category": "기업>프랜차이즈본사",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1416호",
+      "roadAddress": "서울특별시 종로구 종로 19 1416호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "양궈푸<b>마라탕</b> 명동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 36-3 2층",
+      "roadAddress": "서울특별시 중구 명동9길 15 2층",
+      "mapx": "1269847660",
+      "mapy": "375645620"
+    },
+    {
+      "title": "마라붐 시청점",
+      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
+      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
+      "mapx": "1269771292",
+      "mapy": "375635420"
+    }
+  ]
+}

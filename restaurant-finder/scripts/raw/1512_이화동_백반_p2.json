@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼삼 뚝배기",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-147",
+      "roadAddress": "서울특별시 종로구 동숭길 51",
+      "mapx": "1270042241",
+      "mapy": "375805148"
+    },
+    {
+      "title": "감골집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 273-1",
+      "roadAddress": "서울특별시 종로구 율곡로13길 13",
+      "mapx": "1270006076",
+      "mapy": "375767541"
+    },
+    {
+      "title": "강여사집밥 혜화본점",
+      "link": "https://www.instagram.com/sgon1476",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 80-2 1층",
+      "roadAddress": "서울특별시 종로구 대학로5길 8 1층",
+      "mapx": "1270016378",
+      "mapy": "375783185"
+    },
+    {
+      "title": "세컨드키친",
+      "link": "https://www.instagram.com/2.ndkitchen/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 98",
+      "roadAddress": "서울특별시 종로구 대학로5가길 19",
+      "mapx": "1270013225",
+      "mapy": "375787878"
+    },
+    {
+      "title": "양지식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로6가 205-1",
+      "roadAddress": "서울특별시 종로구 율곡로29길 4",
+      "mapx": "1270069119",
+      "mapy": "375739033"
+    }
+  ]
+}

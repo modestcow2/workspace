@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "훅트<b>포케</b> <b>을지로</b>점",
+      "link": "https://www.hookedpoke.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
+      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
+      "mapx": "1269887654",
+      "mapy": "375666400"
+    },
+    {
+      "title": "살라아띠 두타점",
+      "link": "https://www.instagram.com/salaatti_",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-12 두산타워빌딩 B2층 FB104호",
+      "roadAddress": "서울특별시 중구 장충단로 275 두산타워빌딩 B2층 FB104호",
+      "mapx": "1270087832",
+      "mapy": "375688912"
+    },
+    {
+      "title": "슬로우캘리 을지트윈타워점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 323 1층 120호",
+      "roadAddress": "서울특별시 중구 을지로 170 1층 120호",
+      "mapx": "1269973271",
+      "mapy": "375661387"
+    },
+    {
+      "title": "더타코부스 X 잭 다니엘 <b>을지로</b>점",
+      "link": "https://thetacobooth.com/",
+      "category": "음식점>양식>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 315-9 1층",
+      "roadAddress": "서울특별시 중구 충무로7길 22 1층",
+      "mapx": "1269914829",
+      "mapy": "375658415"
+    },
+    {
+      "title": "늘보카페",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 64 1층",
+      "roadAddress": "서울특별시 중구 을지로18길 34 1층",
+      "mapx": "1269942199",
+      "mapy": "375649687"
+    }
+  ]
+}

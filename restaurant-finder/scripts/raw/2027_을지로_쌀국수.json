@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "을지깐깐",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljicanhcanh?from=share&type=WAITING",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 323 202호 을지깐깐",
+      "roadAddress": "서울특별시 중구 을지로12길 12 202호 을지깐깐",
+      "mapx": "1269910634",
+      "mapy": "375657466"
+    },
+    {
+      "title": "까이9",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_kkai9",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-5",
+      "roadAddress": "서울특별시 중구 충무로5길 6",
+      "mapx": "1269924005",
+      "mapy": "375652206"
+    },
+    {
+      "title": "촙촙",
+      "link": "http://www.instagram.com/chopchop_euljiro",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 2-5 2층",
+      "roadAddress": "서울특별시 중구 수표로 46 2층",
+      "mapx": "1269900315",
+      "mapy": "375652023"
+    },
+    {
+      "title": "벱비엣 <b>을지로</b>본점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 75 2층",
+      "roadAddress": "서울특별시 중구 마른내로 17-1 2층",
+      "mapx": "1269897914",
+      "mapy": "375649783"
+    },
+    {
+      "title": "코애<b>쌀국수</b> <b>을지로</b>점",
+      "link": "https://www.facebook.com/KhoeRestaurant",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 입정동 280 2층 203B호, 204호",
+      "roadAddress": "서울특별시 중구 을지로15길 32 2층 203B호, 204호",
+      "mapx": "1269944136",
+      "mapy": "375681001"
+    }
+  ]
+}

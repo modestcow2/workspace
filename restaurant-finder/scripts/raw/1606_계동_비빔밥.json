@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://smartstore.naver.com/goodbab7",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269847797",
+      "mapy": "375802375"
+    },
+    {
+      "title": "애호락 안국본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    },
+    {
+      "title": "밀과보리",
+      "link": "https://www.instagram.com/milbori_",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-47 1층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 32-1 1층",
+      "mapx": "1269875023",
+      "mapy": "375794104"
+    },
+    {
+      "title": "충주<b>비빔밥</b>",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-4",
+      "roadAddress": "서울특별시 종로구 창덕궁1가길 8",
+      "mapx": "1269881397",
+      "mapy": "375796371"
+    }
+  ]
+}

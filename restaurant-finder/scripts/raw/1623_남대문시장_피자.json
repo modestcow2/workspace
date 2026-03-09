@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "넬보스코 이탈리안 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/nelbosco",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-23 2층",
+      "roadAddress": "서울특별시 중구 퇴계로8길 16 2층",
+      "mapx": "1269797099",
+      "mapy": "375587201"
+    },
+    {
+      "title": "멜로멜로 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/melomelo?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-42 소테츠 더스프라지르명동 1층",
+      "roadAddress": "서울특별시 중구 남대문로5길 15 소테츠 더스프라지르명동 1층",
+      "mapx": "1269787110",
+      "mapy": "375620727"
+    },
+    {
+      "title": "코너스토어",
+      "link": "https://www.instagram.com/cornerstoreseoul?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 76-8 1층",
+      "roadAddress": "서울특별시 중구 퇴계로12길 42 1층",
+      "mapx": "1269812471",
+      "mapy": "375577592"
+    },
+    {
+      "title": "넬보스코 루프탑 라운지&amp;바",
+      "link": "https://www.instagram.com/nelbosco.official/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-23 5층",
+      "roadAddress": "서울특별시 중구 퇴계로8길 16 5층",
+      "mapx": "1269797106",
+      "mapy": "375587201"
+    },
+    {
+      "title": "서울리스타",
+      "link": "http://www.instagram.com/seoulista_beerhall",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-16 호텔마누 1층~2층",
+      "roadAddress": "서울특별시 중구 퇴계로 19 호텔마누 1층~2층",
+      "mapx": "1269749106",
+      "mapy": "375571355"
+    }
+  ]
+}

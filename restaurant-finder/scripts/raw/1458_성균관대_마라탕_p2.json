@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "양궈푸<b>마라탕</b> <b>성균관대</b>점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 216-2 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 15-2 1층",
+      "mapx": "1269974463",
+      "mapy": "375840628"
+    },
+    {
+      "title": "샹츠마라 <b>성균관대</b>수원점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 407-2 2층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 56 2층",
+      "mapx": "1269699988",
+      "mapy": "372973688"
+    },
+    {
+      "title": "홍성마라미방 <b>성균관대</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 298-17",
+      "roadAddress": "경기도 수원시 장안구 율전로108번길 10-8",
+      "mapx": "1269696053",
+      "mapy": "372985957"
+    },
+    {
+      "title": "백사104 <b>성균관대</b>역본점",
+      "link": "https://talk.naver.com/profile/w5uela",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-80 1층 백사104",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 61 1층 백사104",
+      "mapx": "1269701053",
+      "mapy": "372970677"
+    },
+    {
+      "title": "중경<b>마라탕</b> <b>성균관대</b>3호점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-68",
+      "roadAddress": "경기도 수원시 장안구 서부로2106번길 10",
+      "mapx": "1269713284",
+      "mapy": "372967316"
+    }
+  ]
+}

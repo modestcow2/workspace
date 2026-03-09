@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "띤띤 SFC",
+      "link": "https://www.instagram.com/tamarind_official/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFCMALL B2",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
+      "mapx": "1269782820",
+      "mapy": "375684612"
+    },
+    {
+      "title": "크루아타이",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 104호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 104호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "마스터비엣 서울역점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-1 WISE TOWER B1층 106호",
+      "roadAddress": "서울특별시 중구 세종대로 17 WISE TOWER B1층 106호",
+      "mapx": "1269732806",
+      "mapy": "375586371"
+    },
+    {
+      "title": "니욤",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 . 지하1층 B109-6호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 . 지하1층 B109-6호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "호앙비엣 시청역점",
+      "link": "https://hoang-viet.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-15 1층",
+      "roadAddress": "서울특별시 중구 세종대로 70 1층",
+      "mapx": "1269766082",
+      "mapy": "375623087"
+    }
+  ]
+}

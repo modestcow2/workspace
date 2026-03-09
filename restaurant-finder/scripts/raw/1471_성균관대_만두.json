@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서울가야밀면",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 135 1층",
+      "roadAddress": "서울특별시 종로구 성균관로3길 13 1층",
+      "mapx": "1269974136",
+      "mapy": "375833824"
+    },
+    {
+      "title": "느린마을양조장 대학로점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 27-5 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로34길 24-5 1층",
+      "mapx": "1270008054",
+      "mapy": "375838516"
+    },
+    {
+      "title": "철판스토리",
+      "link": "https://blog.naver.com/goodi1982",
+      "category": "한식>주꾸미요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 293-6 104호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 20 104호",
+      "mapx": "1269701195",
+      "mapy": "372985151"
+    },
+    {
+      "title": "짬뽕관 수원<b>성균관대</b>점",
+      "link": "http://짬뽕관.com",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 292-7 105호, 106호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 17 105호, 106호",
+      "mapx": "1269702507",
+      "mapy": "372982228"
+    },
+    {
+      "title": "찜닭에 꽂힌 닭집애 수원본점",
+      "link": "http://dakjibae.com/",
+      "category": "한식>찜닭",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 366-9 1층",
+      "roadAddress": "경기도 수원시 장안구 일월로66번길 15 1층",
+      "mapx": "1269783507",
+      "mapy": "372890135"
+    }
+  ]
+}

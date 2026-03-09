@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한원",
+      "link": "http://01041754007.tshome.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 39 102호",
+      "roadAddress": "서울특별시 성북구 성북로5길 12 102호",
+      "mapx": "1270043562",
+      "mapy": "375890554"
+    },
+    {
+      "title": "옛날 중국집",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 184-2",
+      "roadAddress": "서울특별시 성북구 성북로8길 8",
+      "mapx": "1270044045",
+      "mapy": "375908585"
+    },
+    {
+      "title": "희객 2호점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동4가 230 1층",
+      "roadAddress": "서울특별시 성북구 동소문로13가길 16 1층",
+      "mapx": "1270120734",
+      "mapy": "375918982"
+    },
+    {
+      "title": "송림원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 123",
+      "roadAddress": "서울특별시 성북구 동소문로 25-2",
+      "mapx": "1270087879",
+      "mapy": "375898929"
+    },
+    {
+      "title": "로터스가든",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 107-1 1층",
+      "roadAddress": "서울특별시 성북구 성북로 111 1층",
+      "mapx": "1269967584",
+      "mapy": "375929493"
+    }
+  ]
+}

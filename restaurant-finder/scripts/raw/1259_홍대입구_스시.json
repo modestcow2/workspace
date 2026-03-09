@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연하동 연남본점",
+      "link": "https://www.instagram.com/yeonhadong",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-15",
+      "roadAddress": "서울특별시 마포구 연남로 6",
+      "mapx": "1269235360",
+      "mapy": "375604990"
+    },
+    {
+      "title": "<b>스시</b>로만X연어로만",
+      "link": "http://pf.kakao.com/_DVnPs",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 147-21 2층 연어로만S",
+      "roadAddress": "서울특별시 마포구 양화로23길 20 2층 연어로만S",
+      "mapx": "1269253193",
+      "mapy": "375592667"
+    },
+    {
+      "title": "연어롭다",
+      "link": "http://instagram.com/s_kitae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-19",
+      "roadAddress": "서울특별시 마포구 동교로38길 42",
+      "mapx": "1269256927",
+      "mapy": "375610408"
+    },
+    {
+      "title": "유익상<b>스시</b>",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 342-16 101호 유익상스시",
+      "roadAddress": "서울특별시 마포구 와우산로23길 18-7 101호 유익상스시",
+      "mapx": "1269245952",
+      "mapy": "375540215"
+    },
+    {
+      "title": "바다회사랑 서교점",
+      "link": "https://www.instagram.com/sea.rawfish.love",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 461-25",
+      "roadAddress": "서울특별시 마포구 동교로 143",
+      "mapx": "1269178122",
+      "mapy": "375554156"
+    }
+  ]
+}

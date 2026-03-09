@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대화정 진짜<b>해장국</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 18-85 1층",
+      "roadAddress": "서울특별시 중구 장충단로 249-20 1층",
+      "mapx": "1270077551",
+      "mapy": "375675754"
+    },
+    {
+      "title": "신동궁감자탕 명동직영점",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-18",
+      "roadAddress": "서울특별시 중구 명동9길 43",
+      "mapx": "1269840283",
+      "mapy": "375657027"
+    },
+    {
+      "title": "골수",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-16 1, 2층",
+      "roadAddress": "서울특별시 중구 을지로14길 19-3 1, 2층",
+      "mapx": "1269923160",
+      "mapy": "375654255"
+    },
+    {
+      "title": "팔팔너구리해장 <b>을지로</b>3가역점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 17-4 1층",
+      "roadAddress": "서울특별시 중구 충무로 46-1 1층",
+      "mapx": "1269929866",
+      "mapy": "375651794"
+    },
+    {
+      "title": "용대리황태<b>해장국</b>",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-2",
+      "roadAddress": "서울특별시 중구 을지로 105",
+      "mapx": "1269895586",
+      "mapy": "375664457"
+    }
+  ]
+}

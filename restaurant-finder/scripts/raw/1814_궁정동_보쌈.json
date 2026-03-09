@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "종갓집",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 121",
+      "roadAddress": "서울특별시 종로구 자하문로 110",
+      "mapx": "1269702250",
+      "mapy": "375858321"
+    },
+    {
+      "title": "편안한집",
+      "link": "https://ahome.imweb.me/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-3",
+      "roadAddress": "서울특별시 종로구 북촌로 133",
+      "mapx": "1269833492",
+      "mapy": "375873030"
+    },
+    {
+      "title": "소선재",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 113-3 소선재",
+      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
+      "mapx": "1269818029",
+      "mapy": "375855480"
+    },
+    {
+      "title": "오도집",
+      "link": "https://www.instagram.com/bukchondodam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 15 1층 오도집",
+      "roadAddress": "서울특별시 종로구 율곡로4길 7 1층 오도집",
+      "mapx": "1269821460",
+      "mapy": "375751757"
+    },
+    {
+      "title": "효자왕족발",
+      "link": "https://www.instagram.com/seochonhotpot",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
+    }
+  ]
+}

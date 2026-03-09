@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미미램양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-20 1층, 2층",
+      "roadAddress": "서울특별시 마포구 성미산로 196 1층, 2층",
+      "mapx": "1269266498",
+      "mapy": "375625521"
+    },
+    {
+      "title": "서대문 양꼬치 BAR",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 255-20 2층",
+      "roadAddress": "서울특별시 마포구 동교로 251 2층",
+      "mapx": "1269242273",
+      "mapy": "375624137"
+    },
+    {
+      "title": "샤오마라 컵<b>마라탕</b>&amp;마라꼬치",
+      "link": "https://www.instagram.com/xiaomala_official",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 255-20 1층",
+      "roadAddress": "서울특별시 마포구 동교로 251 1층",
+      "mapx": "1269242392",
+      "mapy": "375624454"
+    },
+    {
+      "title": "진미황먼지 홍대본점",
+      "link": "https://blog.naver.com/huangmenji1",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-6 1층",
+      "roadAddress": "서울특별시 마포구 동교로27길 62 1층",
+      "mapx": "1269209225",
+      "mapy": "375605205"
+    },
+    {
+      "title": "손오공<b>마라탕</b> 동교동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 169-14 2층",
+      "roadAddress": "서울특별시 마포구 양화로18길 15 2층",
+      "mapx": "1269248884",
+      "mapy": "375565852"
+    }
+  ]
+}

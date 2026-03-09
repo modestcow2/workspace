@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해피니스 <b>대학로</b>점",
+      "link": "https://blog.naver.com/happieness_hyehwa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 164-1 세훈빌딩 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 40 세훈빌딩 1층",
+      "mapx": "1269996673",
+      "mapy": "375824470"
+    },
+    {
+      "title": "서래향 <b>대학로</b>점",
+      "link": "https://www.instagram.com/verefood_official",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-94 1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 64 1층",
+      "mapx": "1270036981",
+      "mapy": "375812584"
+    },
+    {
+      "title": "갸우뚱",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyauttung_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 132",
+      "roadAddress": "서울특별시 종로구 대학로9길 25",
+      "mapx": "1270004372",
+      "mapy": "375816140"
+    },
+    {
+      "title": "만리성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-88 계우빌딩",
+      "roadAddress": "서울특별시 종로구 대학로12길 61 계우빌딩",
+      "mapx": "1270039661",
+      "mapy": "375814788"
+    },
+    {
+      "title": "간짜장전문점세아",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 115-2 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 20 1층",
+      "mapx": "1269975946",
+      "mapy": "375845234"
+    }
+  ]
+}

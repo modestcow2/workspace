@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일품진진수라 광화문점",
+      "link": "http://www.jinjinsura.com",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
+      "mapx": "1269805216",
+      "mapy": "375706504"
+    },
+    {
+      "title": "어부몽 인사점",
+      "link": "https://www.instagram.com/abumong.2024",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "밥짓고티우림",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 45-1 2층",
+      "roadAddress": "서울특별시 성북구 성북로2길 15 2층",
+      "mapx": "1270066792",
+      "mapy": "375893178"
+    },
+    {
+      "title": "동화고옥 을지로점",
+      "link": "https://openine.com/동화고옥",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 323 1층 123호",
+      "roadAddress": "서울특별시 중구 을지로 170 1층 123호",
+      "mapx": "1269978993",
+      "mapy": "375659332"
+    },
+    {
+      "title": "소선재",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 113-3 소선재",
+      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
+      "mapx": "1269818029",
+      "mapy": "375855480"
+    }
+  ]
+}

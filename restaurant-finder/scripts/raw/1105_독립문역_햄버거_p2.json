@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "BBQ치킨 경희궁자이점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 45-304",
+      "roadAddress": "서울특별시 종로구 통일로14길 8",
+      "mapx": "1269581063",
+      "mapy": "375749049"
+    },
+    {
+      "title": "마마치킨 독립문점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍파동 199 경희궁자이2단지아파트 상가동 지상1층 2117호",
+      "roadAddress": "서울특별시 종로구 송월길 99 경희궁자이2단지아파트 상가동 지상1층 2117호",
+      "mapx": "1269627130",
+      "mapy": "375701737"
+    },
+    {
+      "title": "저스트샐러드&amp;쥬스",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1",
+      "roadAddress": "서울특별시 종로구 인왕산로 19",
+      "mapx": "1269654664",
+      "mapy": "375755640"
+    },
+    {
+      "title": "회기버거 경희궁자이점",
+      "link": "",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 233 제상가동 1층 3108호 회기버거 경희궁자이",
+      "roadAddress": "서울특별시 종로구 경교장길 35 제상가동 1층 3108호 회기버거 경희궁자이",
+      "mapx": "1269649947",
+      "mapy": "375687069"
+    },
+    {
+      "title": "프랭크버거 냉천점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 34",
+      "roadAddress": "서울특별시 서대문구 독립문로 66",
+      "mapx": "1269639330",
+      "mapy": "375671642"
+    }
+  ]
+}

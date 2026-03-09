@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "북창<b>치킨</b> 서울시청본점",
+      "link": "https://blog.naver.com/j03c",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-2 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로16길 6 1층, 2층",
+      "mapx": "1269772125",
+      "mapy": "375633658"
+    },
+    {
+      "title": "레츠펍 시청점",
+      "link": "https://www.instagram.com/letspub_official",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-4 레츠펍",
+      "roadAddress": "서울특별시 중구 남대문로1길 47 레츠펍",
+      "mapx": "1269773060",
+      "mapy": "375631980"
+    },
+    {
+      "title": "시티호프<b>치킨</b>",
+      "link": "https://www.instagram.com/city_hof_chicken_1992",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 97 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-4 1층",
+      "mapx": "1269776229",
+      "mapy": "375622533"
+    },
+    {
+      "title": "우주맥주",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-3 2, 3, 4층",
+      "roadAddress": "서울특별시 중구 세종대로 76 2, 3, 4층",
+      "mapx": "1269768412",
+      "mapy": "375629076"
+    },
+    {
+      "title": "100조맥주 시청점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-3 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 49 1층",
+      "mapx": "1269773608",
+      "mapy": "375632918"
+    }
+  ]
+}

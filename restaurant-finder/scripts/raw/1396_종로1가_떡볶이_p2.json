@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꿈떡꿈떡 <b>종로</b>본점",
+      "link": "http://www.꿈떡꿈떡.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 꿈떡꿈떡",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 꿈떡꿈떡",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "스프링어텀",
+      "link": "https://www.instagram.com/spring.a_salad",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 110-1-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 110-1-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "더맛있는김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "영차<b>떡볶이</b> 명동점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-10 2~4층",
+      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
+      "mapx": "1269835740",
+      "mapy": "375631401"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
+    }
+  ]
+}

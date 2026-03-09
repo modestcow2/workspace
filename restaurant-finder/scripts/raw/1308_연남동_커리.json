@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠몬스터 연남본점",
+      "link": "https://www.instagram.com/katsumon.ynd",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-18 1층 101호 카츠몬스터 연남본점",
+      "roadAddress": "서울특별시 마포구 동교로38길 42-6 1층 101호 카츠몬스터 연남본점",
+      "mapx": "1269255679",
+      "mapy": "375610304"
+    },
+    {
+      "title": "쿠로코식당 연남점",
+      "link": "https://blog.naver.com/wcd0713",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 562-26 1층",
+      "roadAddress": "서울특별시 마포구 동교로27길 83 1층",
+      "mapx": "1269200428",
+      "mapy": "375612471"
+    },
+    {
+      "title": "헬로인디아",
+      "link": "https://blog.naver.com/helloindia81",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-51 1층",
+      "roadAddress": "서울특별시 마포구 연남로3길 9 1층",
+      "mapx": "1269219680",
+      "mapy": "375612735"
+    },
+    {
+      "title": "발리문",
+      "link": "https://www.instagram.com/balimoon_seoul/",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 228-48 2층",
+      "roadAddress": "서울특별시 마포구 동교로 248-1 2층",
+      "mapx": "1269244900",
+      "mapy": "375620283"
+    },
+    {
+      "title": "선록",
+      "link": "https://www.instagram.com/seonrok_yeonnam",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-77 지1층",
+      "roadAddress": "서울특별시 마포구 성미산로29안길 27-12 지1층",
+      "mapx": "1269229823",
+      "mapy": "375657349"
+    }
+  ]
+}

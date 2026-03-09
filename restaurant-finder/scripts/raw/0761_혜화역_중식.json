@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해피니스 대학로점",
+      "link": "https://blog.naver.com/happieness_hyehwa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 164-1 세훈빌딩 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 40 세훈빌딩 1층",
+      "mapx": "1269996673",
+      "mapy": "375824470"
+    },
+    {
+      "title": "갸우뚱",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyauttung_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 132",
+      "roadAddress": "서울특별시 종로구 대학로9길 25",
+      "mapx": "1270004372",
+      "mapy": "375816140"
+    },
+    {
+      "title": "계향각",
+      "link": "https://app.catchtable.co.kr/ct/shop/heestoryfood?from=share&type=VISIT_RESERVATION",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 31-37 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 86 1층",
+      "mapx": "1270042485",
+      "mapy": "375820757"
+    },
+    {
+      "title": "구룡관 혜화본점",
+      "link": "https://blog.naver.com/guryongmara_",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 21-14",
+      "roadAddress": "서울특별시 종로구 창경궁로 258-5",
+      "mapx": "1270004672",
+      "mapy": "375840543"
+    },
+    {
+      "title": "만리성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-88 계우빌딩",
+      "roadAddress": "서울특별시 종로구 대학로12길 61 계우빌딩",
+      "mapx": "1270039661",
+      "mapy": "375814788"
+    }
+  ]
+}

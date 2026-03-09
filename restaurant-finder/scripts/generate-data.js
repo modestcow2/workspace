@@ -6,7 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const BASE_POINT = { lat: 37.5796, lng: 126.9770, name: '한국생산성본부' };
+const BASE_POINT = { lat: 37.574919, lng: 126.973518, name: '한국생산성본부' };
 
 const FILTER_META = `const FILTER_META = {
   flavor:   { label: '맛',          icon: '👅',
@@ -15,8 +15,8 @@ const FILTER_META = `const FILTER_META = {
     options: ['바삭한', '쫄깃한', '아삭한', '부드러운', '헤비한', '가벼운'] },
   cooking:  { label: '조리 방식',   icon: '🍳',
     options: ['구이·볶음', '국물·찜', '생식·무침', '튀김', '면류·파스타', '오븐·화덕', '발효·숙성'] },
-  cuisine:  { label: '음식 국적',   icon: '🌍',
-    options: ['한식', '중식', '일식', '양식', '아시안', '퓨전'] },
+  cuisine:  { label: '음식 종류',   icon: '🌍',
+    options: ['한식', '중식', '일식', '양식', '아시안', '퓨전', '디저트·카페'] },
   temp:     { label: '온도',        icon: '🌡️',
     options: ['차가운', '뜨끈한'] },
   occasion: { label: '상황·목적',   icon: '🎯',
@@ -25,10 +25,25 @@ const FILTER_META = `const FILTER_META = {
     options: ['디톡스', '벌크업·보양', '저자극'] },
 };`;
 
+// 이름+주소 기반 안정 해시 ID (data.js 재생성 시에도 ID 유지)
+function stableId(name, address) {
+  const str = (name || '') + '|' + (address || '');
+  let hash = 5381;
+  for (let i = 0; i < str.length; i++) {
+    hash = ((hash << 5) + hash + str.charCodeAt(i)) & 0x7fffffff;
+  }
+  return hash;
+}
+
 function generateDataJs(restaurants) {
+  const usedIds = new Set();
   const entries = restaurants.map((r, i) => {
+    let id = stableId(r.name, r.address);
+    // 해시 충돌 방지
+    while (usedIds.has(id)) id++;
+    usedIds.add(id);
     const obj = {
-      id: i + 1,
+      id,
       name: r.name,
       address: r.address,
       lat: r.lat,

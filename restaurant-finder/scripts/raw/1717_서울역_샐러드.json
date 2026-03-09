@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그리너 남대문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
+    {
+      "title": "리트하우스",
+      "link": "https://www.instagram.com/lithaus.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 440 1층",
+      "roadAddress": "서울특별시 용산구 소월로2길 5 1층",
+      "mapx": "1269767756",
+      "mapy": "375547789"
+    },
+    {
+      "title": "아맘픽 서울",
+      "link": "http://www.instagram.com/amam.cafe",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 1층 아맘픽 서울",
+      "roadAddress": "서울특별시 중구 한강대로 416 1층 아맘픽 서울",
+      "mapx": "1269737678",
+      "mapy": "375555057"
+    },
+    {
+      "title": "크리스피프레시 서울스퀘어점",
+      "link": "https://www.instagram.com/crispyfreshsalad",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 1층",
+      "roadAddress": "서울특별시 중구 한강대로 416 1층",
+      "mapx": "1269737678",
+      "mapy": "375555057"
+    },
+    {
+      "title": "카페드누시",
+      "link": "http://instagram.com/cafe.nusi",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 445",
+      "roadAddress": "서울특별시 용산구 소월로2길 17 (후암동)",
+      "mapx": "1269766853",
+      "mapy": "375542506"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "두두",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-91 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 63 2층",
+      "mapx": "1270041381",
+      "mapy": "375810119"
+    },
+    {
+      "title": "뇌산마을 대학로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/noesanvillagedaehakro",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-58 1층 뇌산마을 대학로점",
+      "roadAddress": "서울특별시 종로구 대학로8가길 30 1층 뇌산마을 대학로점",
+      "mapx": "1270024862",
+      "mapy": "375822687"
+    },
+    {
+      "title": "반저",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-49 동숭빌딩",
+      "roadAddress": "서울특별시 종로구 대학로8가길 56 동숭빌딩",
+      "mapx": "1270028685",
+      "mapy": "375830249"
+    },
+    {
+      "title": "수제비와 보리밥세상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 93-15 쉐라톤빌라트 1층",
+      "roadAddress": "서울특별시 종로구 대학로5길 12 쉐라톤빌라트 1층",
+      "mapx": "1270014073",
+      "mapy": "375784019"
+    },
+    {
+      "title": "대학로족발<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 143-2",
+      "roadAddress": "서울특별시 종로구 대학로 149",
+      "mapx": "1270011367",
+      "mapy": "375845726"
+    }
+  ]
+}

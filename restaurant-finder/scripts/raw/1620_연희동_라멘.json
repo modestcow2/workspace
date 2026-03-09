@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "츠케루",
+      "link": "http://instagram.com/tsukeru_tsukemen",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 344-6 1층 102호",
+      "roadAddress": "서울특별시 마포구 와우산로23길 9 1층 102호",
+      "mapx": "1269245307",
+      "mapy": "375533814"
+    },
+    {
+      "title": "카<b>라멘</b>야",
+      "link": "http://www.instagram.com/karamenya_i",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-97 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 34-1 1층",
+      "mapx": "1269348727",
+      "mapy": "375582219"
+    },
+    {
+      "title": "사루카메",
+      "link": "https://www.instagram.com/sarukame_ramen/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 566-67 1층",
+      "roadAddress": "서울특별시 마포구 연남로 15 1층",
+      "mapx": "1269227522",
+      "mapy": "375610493"
+    },
+    {
+      "title": "담택",
+      "link": "http://instagram.com/damtaek",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 481-15 1층",
+      "roadAddress": "서울특별시 마포구 동교로12안길 51 1층",
+      "mapx": "1269152095",
+      "mapy": "375544837"
+    },
+    {
+      "title": "멘츠루 신촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mentsurusc",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층",
+      "mapx": "1269406214",
+      "mapy": "375589663"
+    }
+  ]
+}

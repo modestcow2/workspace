@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일미식당",
+      "link": "http://cafe.naver.com/ilmicafe",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
+      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
+      "mapx": "1269876939",
+      "mapy": "375728300"
+    },
+    {
+      "title": "<b>인사동</b>보리밥 본점",
+      "link": "https://smartstore.naver.com/greatsfb",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-17 지하1층",
+      "roadAddress": "서울특별시 종로구 인사동7길 37 지하1층",
+      "mapx": "1269847327",
+      "mapy": "375725991"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
+      "title": "<b>인사동</b>마늘보쌈",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
+    },
+    {
+      "title": "<b>인사동</b> 옥정",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 84-22",
+      "roadAddress": "서울특별시 종로구 인사동12길 18",
+      "mapx": "1269850602",
+      "mapy": "375748324"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>평창동</b>의봄",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 512-7 1층",
+      "roadAddress": "서울특별시 종로구 평창20길 41 1층",
+      "mapx": "1269707545",
+      "mapy": "376104692"
+    },
+    {
+      "title": "삼각산",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 85-25",
+      "roadAddress": "서울특별시 종로구 진흥로 435",
+      "mapx": "1269573129",
+      "mapy": "376083967"
+    },
+    {
+      "title": "제주면장 평창점",
+      "link": "http://www.jejumyeonjang.co.kr/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 210",
+      "roadAddress": "서울특별시 종로구 평창문화로 72-10",
+      "mapx": "1269698691",
+      "mapy": "376063523"
+    },
+    {
+      "title": "장모님해장국",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 253-1",
+      "roadAddress": "서울특별시 종로구 진흥로 421",
+      "mapx": "1269556760",
+      "mapy": "376089067"
+    },
+    {
+      "title": "토속칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 435-4",
+      "roadAddress": "서울특별시 종로구 평창길 345",
+      "mapx": "1269785985",
+      "mapy": "376119226"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "개성만두 궁",
+      "link": "http://www.koong.co.kr/",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 30-11",
+      "roadAddress": "서울특별시 종로구 인사동10길 11-3",
+      "mapx": "1269853889",
+      "mapy": "375742917"
+    },
+    {
+      "title": "응답한다1988 떡볶이 종로",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 288 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로 428 1층",
+      "mapx": "1269879400",
+      "mapy": "375727435"
+    },
+    {
+      "title": "마루자연식김밥",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 192-15 본관 1층 105호",
+      "roadAddress": "서울특별시 종로구 인사동길 35-4 본관 1층 105호",
+      "mapx": "1269848321",
+      "mapy": "375735872"
+    },
+    {
+      "title": "김가네 종각역점",
+      "link": "https://blog.naver.com/gimkong7127",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4",
+      "roadAddress": "서울특별시 종로구 종로 65",
+      "mapx": "1269845724",
+      "mapy": "375704283"
+    },
+    {
+      "title": "예술김밥 본점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 183-4",
+      "roadAddress": "서울특별시 종로구 인사동5길 4",
+      "mapx": "1269858560",
+      "mapy": "375730834"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한국의집",
+      "link": "http://www.kh.or.kr/kh",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 80-2 한국의집",
+      "roadAddress": "서울특별시 중구 퇴계로36길 10 한국의집",
+      "mapx": "1269945123",
+      "mapy": "375602265"
+    },
+    {
+      "title": "명동정",
+      "link": "http://www.hanjeongsik.co.kr",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 60-3 이화빌딩 1층",
+      "roadAddress": "서울특별시 중구 삼일대로 299 이화빌딩 1층",
+      "mapx": "1269883506",
+      "mapy": "375613152"
+    },
+    {
+      "title": "동화고옥 을지로점",
+      "link": "https://openine.com/동화고옥",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 323 1층 123호",
+      "roadAddress": "서울특별시 중구 을지로 170 1층 123호",
+      "mapx": "1269978993",
+      "mapy": "375659332"
+    },
+    {
+      "title": "온의미반",
+      "link": "https://www.instagram.com/on__miban?igsh=bGQ4Mm92eXdqcGJ2",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 18-12 2층",
+      "roadAddress": "서울특별시 중구 퇴계로 210-27 2층",
+      "mapx": "1269951422",
+      "mapy": "375607944"
+    },
+    {
+      "title": "일식성진",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 59-11 1층",
+      "roadAddress": "서울특별시 중구 수표로2길 5 1층",
+      "mapx": "1269908398",
+      "mapy": "375623168"
+    }
+  ]
+}

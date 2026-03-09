@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "밥짓고티우림",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 45-1 2층",
+      "roadAddress": "서울특별시 성북구 성북로2길 15 2층",
+      "mapx": "1270066792",
+      "mapy": "375893178"
+    },
+    {
+      "title": "국화정원",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 264",
+      "roadAddress": "서울특별시 성북구 성북로 154",
+      "mapx": "1269926942",
+      "mapy": "375945902"
+    },
+    {
+      "title": "서촌누각",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 122-7 1층 일부호 서촌누각",
+      "roadAddress": "서울특별시 성북구 혜화로 88 1층 일부호 서촌누각",
+      "mapx": "1269981841",
+      "mapy": "375927478"
+    },
+    {
+      "title": "곤드레딱주기곤드레집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 5",
+      "roadAddress": "서울특별시 성북구 성북로 12-3",
+      "mapx": "1270055930",
+      "mapy": "375894730"
+    },
+    {
+      "title": "손가네설렁탕",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동",
+      "roadAddress": "",
+      "mapx": "1270032875",
+      "mapy": "375911237"
+    }
+  ]
+}

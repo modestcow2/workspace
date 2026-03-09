@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고트델리 서촌",
+      "link": "https://www.instagram.com/goattdeli",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 100 1층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
+      "mapx": "1269682499",
+      "mapy": "375799314"
+    },
+    {
+      "title": "델리노쉬",
+      "link": "https://www.instagram.com/deli_nosh",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-4 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 35-6 1층",
+      "mapx": "1269709284",
+      "mapy": "375791478"
+    },
+    {
+      "title": "레스피레베이커리 서촌",
+      "link": "https://instagram.com/___respirer",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
+    },
+    {
+      "title": "더크림",
+      "link": "https://www.instagram.com/the_cream_seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 83-3 1층",
+      "roadAddress": "서울특별시 종로구 옥인길 11 1층",
+      "mapx": "1269678344",
+      "mapy": "375804945"
+    },
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
+    }
+  ]
+}

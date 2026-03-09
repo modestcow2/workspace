@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "어메이징농카이",
+      "link": "https://www.instagram.com/amazing.nong.khai/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 351-13 1층",
+      "roadAddress": "서울특별시 마포구 동교로 156-11 1층",
+      "mapx": "1269199269",
+      "mapy": "375553085"
+    },
+    {
+      "title": "베트남이랑 <b>홍대</b>점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 167-2 지하1층 B103호",
+      "roadAddress": "서울특별시 마포구 양화로 186 지하1층 B103호",
+      "mapx": "1269257002",
+      "mapy": "375575674"
+    },
+    {
+      "title": "쑥짜이",
+      "link": "https://smartstore.naver.com/sookjai/products/10208592984",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 155-20 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로2길 82 1층",
+      "mapx": "1269245478",
+      "mapy": "375581589"
+    },
+    {
+      "title": "포가레 연남본점",
+      "link": "https://blog.naver.com/phogale_yeonnam",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-13 2층",
+      "roadAddress": "서울특별시 마포구 동교로 227-7 2층",
+      "mapx": "1269235948",
+      "mapy": "375606960"
+    },
+    {
+      "title": "쌥 이리",
+      "link": "https://www.instagram.com/zaab_e_lee",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 161-14 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로2길 25 1층",
+      "mapx": "1269221930",
+      "mapy": "375565124"
+    }
+  ]
+}

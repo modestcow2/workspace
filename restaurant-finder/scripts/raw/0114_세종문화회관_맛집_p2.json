@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고가빈커리하우스 광화문본점",
+      "link": "http://instagram.com/gogabin_curryhouse",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-48 3층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
+      "mapx": "1269709645",
+      "mapy": "375728814"
+    },
+    {
+      "title": "타마린드 디타워점",
+      "link": "https://catchtable.co.kr/tamarinddt",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "정백어가 광화문 피맛골본점",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "고씨네동해막국수 종로직영점",
+      "link": "https://blog.naver.com/hjwm0116",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 68 1층",
+      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
+      "mapx": "1269846887",
+      "mapy": "375744624"
+    },
+    {
+      "title": "광화문석갈비 D타워점",
+      "link": "https://www.lumi.co.kr/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    }
+  ]
+}

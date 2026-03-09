@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그리너 남대문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
+    {
+      "title": "크리스피프레시 서울스퀘어점",
+      "link": "https://www.instagram.com/crispyfreshsalad",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 1층",
+      "roadAddress": "서울특별시 중구 한강대로 416 1층",
+      "mapx": "1269737678",
+      "mapy": "375555057"
+    },
+    {
+      "title": "슬로우캘리 숭례문점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 1-1 창화빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로 23 창화빌딩 1층",
+      "mapx": "1269739788",
+      "mapy": "375591484"
+    },
+    {
+      "title": "살라아띠",
+      "link": "https://www.instagram.com/salaatti__chungjeongno?igsh=MzRlODBiNWFlZA==",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 355 1층 112호",
+      "roadAddress": "서울특별시 중구 청파로 464 1층 112호",
+      "mapx": "1269682593",
+      "mapy": "375604973"
+    },
+    {
+      "title": "폴인<b>포케</b> 서울시청점",
+      "link": "https://fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
+      "mapx": "1269775175",
+      "mapy": "375623578"
+    }
+  ]
+}

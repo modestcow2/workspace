@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>충무로족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 24-5",
+      "roadAddress": "서울특별시 중구 퇴계로27길 41",
+      "mapx": "1269911897",
+      "mapy": "375630683"
+    },
+    {
+      "title": "필동<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 42-5 필동족발",
+      "roadAddress": "서울특별시 중구 필동로 29 필동족발",
+      "mapx": "1269962791",
+      "mapy": "375589193"
+    },
+    {
+      "title": "을지로 볼",
+      "link": "https://catchtable.co.kr/ball",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 107-5 4층 을지로 볼",
+      "roadAddress": "서울특별시 중구 을지로12길 29 4층 을지로 볼",
+      "mapx": "1269908484",
+      "mapy": "375649403"
+    },
+    {
+      "title": "강릉장칼국수&amp;보쌈 <b>충무로</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 29-2 1층",
+      "roadAddress": "서울특별시 중구 수표로6길 39 1층",
+      "mapx": "1269926182",
+      "mapy": "375628225"
+    },
+    {
+      "title": "을지로칼국수 낙원의소바",
+      "link": "https://www.instagram.com/nakwonsoba",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 78-1 2층",
+      "roadAddress": "서울특별시 중구 서애로 2 2층",
+      "mapx": "1269983275",
+      "mapy": "375618772"
+    }
+  ]
+}

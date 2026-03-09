@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "살라아띠",
+      "link": "https://www.instagram.com/salaatti__chungjeongno?igsh=MzRlODBiNWFlZA==",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 355 1층 112호",
+      "roadAddress": "서울특별시 중구 청파로 464 1층 112호",
+      "mapx": "1269682593",
+      "mapy": "375604973"
+    },
+    {
+      "title": "램스테이블",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 189 1층 가운데(버스정류장뒤)",
+      "roadAddress": "서울특별시 서대문구 충정로 47 1층 가운데(버스정류장뒤)",
+      "mapx": "1269643742",
+      "mapy": "375631325"
+    },
+    {
+      "title": "샐러리아 서대문역점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 78",
+      "roadAddress": "서울특별시 서대문구 충정로 71-5",
+      "mapx": "1269654392",
+      "mapy": "375651933"
+    },
+    {
+      "title": "슬로우캘리 서대문점",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 251 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 139 1층",
+      "mapx": "1269653922",
+      "mapy": "375668014"
+    },
+    {
+      "title": "샐러데이즈 순화동점",
+      "link": "http://www.saladdays.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 215 1층 102호",
+      "roadAddress": "서울특별시 중구 통일로 86 1층 102호",
+      "mapx": "1269697215",
+      "mapy": "375630569"
+    }
+  ]
+}

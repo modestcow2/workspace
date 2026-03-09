@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도마 중림동점",
+      "link": "https://catchtable.co.kr/doma_jrd",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 150-1 이화빌딩",
+      "roadAddress": "서울특별시 중구 중림로 31 이화빌딩",
+      "mapx": "1269671832",
+      "mapy": "375581618"
+    },
+    {
+      "title": "제비한옥",
+      "link": "https://app.catchtable.co.kr/ct/shop/jevi_hanok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 147-5 1층",
+      "roadAddress": "서울특별시 중구 중림로7길 6 1층",
+      "mapx": "1269675900",
+      "mapy": "375582136"
+    },
+    {
+      "title": "오공일 충정로점",
+      "link": "http://oh01korea.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 401-4 1층, 2층, 3층",
+      "roadAddress": "서울특별시 중구 손기정로1길 38 1층, 2층, 3층",
+      "mapx": "1269620842",
+      "mapy": "375588510"
+    },
+    {
+      "title": "어반할미",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 480 어바니엘충정로 B1층",
+      "roadAddress": "서울특별시 서대문구 경기대로 26-26 어바니엘충정로 B1층",
+      "mapx": "1269625814",
+      "mapy": "375612906"
+    },
+    {
+      "title": "양은이네 <b>충정로역</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 상가 2동 105호",
+      "roadAddress": "서울특별시 중구 중림로 10 상가 2동 105호",
+      "mapx": "1269655039",
+      "mapy": "375587427"
+    }
+  ]
+}

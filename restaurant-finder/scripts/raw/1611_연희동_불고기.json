@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연희보리밥",
+      "link": "https://www.instagram.com/boribab_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
+      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
+      "mapx": "1269306323",
+      "mapy": "375679590"
+    },
+    {
+      "title": "고미정 연희본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 79-3",
+      "roadAddress": "서울특별시 서대문구 연희로26길 28",
+      "mapx": "1269370736",
+      "mapy": "375727356"
+    },
+    {
+      "title": "청송함흥냉면전문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-6",
+      "roadAddress": "서울특별시 서대문구 연희맛로 6",
+      "mapx": "1269287944",
+      "mapy": "375659401"
+    },
+    {
+      "title": "수라면옥 연희점",
+      "link": "https://www.instagram.com/soora_1990",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 89-31",
+      "roadAddress": "서울특별시 서대문구 연희로25길 81",
+      "mapx": "1269327204",
+      "mapy": "375700749"
+    },
+    {
+      "title": "연희화로갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 171-10 1층 연희화로",
+      "roadAddress": "서울특별시 서대문구 모래내로 376 1층 연희화로",
+      "mapx": "1269376747",
+      "mapy": "375826324"
+    }
+  ]
+}

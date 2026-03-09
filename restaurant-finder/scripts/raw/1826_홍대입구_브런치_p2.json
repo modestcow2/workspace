@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "베어스덴 <b>브런치</b>",
+      "link": "https://www.instagram.com/bearsden_brunch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 441 1층,2층 베어스덴",
+      "roadAddress": "서울특별시 서대문구 연희로4길 10 1층,2층 베어스덴",
+      "mapx": "1269278323",
+      "mapy": "375616125"
+    },
+    {
+      "title": "아날로그가든",
+      "link": "https://www.instagram.com/analoggarden",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 446-58 1층 아날로그가든",
+      "roadAddress": "서울특별시 마포구 동교로 145 1층 아날로그가든",
+      "mapx": "1269180707",
+      "mapy": "375554536"
+    },
+    {
+      "title": "데일리라운드 연남",
+      "link": "http://www.instagram.com/dailyround__",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-28 2.5",
+      "roadAddress": "서울특별시 마포구 동교로38길 27-19 2.5",
+      "mapx": "1269259933",
+      "mapy": "375619210"
+    },
+    {
+      "title": "띵크프룻",
+      "link": "https://www.instagram.com/thinkfruit_official",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 327-1 1층",
+      "roadAddress": "서울특별시 마포구 와우산로29길 14-12 1층",
+      "mapx": "1269291914",
+      "mapy": "375553578"
+    },
+    {
+      "title": "사르르 연남",
+      "link": "https://www.instagram.com/meltyourdayhere/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 383-100 2,3층",
+      "roadAddress": "서울특별시 마포구 연희로1길 63 2,3층",
+      "mapx": "1269265918",
+      "mapy": "375615468"
+    }
+  ]
+}

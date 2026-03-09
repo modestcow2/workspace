@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "송추가마골 인어반 신문로점",
+      "link": "http://www.gamagoll.com/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "강남면옥 정동점",
+      "link": "http://강남면옥.net",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5",
+      "roadAddress": "서울특별시 종로구 새문안로 38",
+      "mapx": "1269696551",
+      "mapy": "375683064"
+    },
+    {
+      "title": "나주소나주곰탕 신문로1가점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 31",
+      "roadAddress": "서울특별시 종로구 새문안로 87",
+      "mapx": "1269744139",
+      "mapy": "375703667"
+    },
+    {
+      "title": "한우명가마당",
+      "link": "http://cityfood.co.kr/h.php?id=18881",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269748526",
+      "mapy": "375697112"
+    },
+    {
+      "title": "한와담 광화문점",
+      "link": "https://www.instagram.com/lighnm_official/",
+      "category": "음식점>한식>육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 115 콘코디언 B1F 102호",
+      "roadAddress": "서울특별시 종로구 새문안로 76 콘코디언 B1F 102호",
+      "mapx": "1269731965",
+      "mapy": "375697843"
+    }
+  ]
+}

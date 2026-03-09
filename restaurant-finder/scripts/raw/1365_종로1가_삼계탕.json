@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "토속촌 <b>삼계탕</b>",
+      "link": "http://www.tosokchon.co.kr/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 85-1 토속촌",
+      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
+      "mapx": "1269716148",
+      "mapy": "375776587"
+    },
+    {
+      "title": "고려<b>삼계탕</b>",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 55-3",
+      "roadAddress": "서울특별시 중구 서소문로11길 1",
+      "mapx": "1269729232",
+      "mapy": "375629681"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    },
+    {
+      "title": "영양센터 본점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-32",
+      "roadAddress": "서울특별시 중구 명동2길 52",
+      "mapx": "1269831647",
+      "mapy": "375611197"
+    },
+    {
+      "title": "장안<b>삼계탕</b>",
+      "link": "https://blog.naver.com/jangan1971",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 53 장안삼계탕",
+      "roadAddress": "서울특별시 중구 세종대로18길 8 장안삼계탕",
+      "mapx": "1269775163",
+      "mapy": "375637587"
+    }
+  ]
+}

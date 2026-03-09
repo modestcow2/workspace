@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:32 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "샐러디 성신여대점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동4가 99 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 115 1층",
+      "mapx": "1270175733",
+      "mapy": "375934798"
+    },
+    {
+      "title": "주니아 길음역점",
+      "link": "https://www.instagram.com/junia_gireum",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 롯데캐슬트윈골드아파트 상가 지하1층 B39호",
+      "roadAddress": "서울특별시 성북구 길음로 11 롯데캐슬트윈골드아파트 상가 지하1층 B39호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    },
+    {
+      "title": "SLB 샐러드 한성대점",
+      "link": "http://slbslb.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 39 1층",
+      "roadAddress": "서울특별시 성북구 성북로2길 20 1층",
+      "mapx": "1270069547",
+      "mapy": "375892635"
+    },
+    {
+      "title": "<b>포케</b>박스 성신여대점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 121-6 코아루센타시아 1층",
+      "roadAddress": "서울특별시 성북구 동소문로20나길 47 코아루센타시아 1층",
+      "mapx": "1270190733",
+      "mapy": "375928739"
+    },
+    {
+      "title": "렛츠고피크닉",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 26-43 지하층",
+      "roadAddress": "서울특별시 종로구 창경궁로 301 지하층",
+      "mapx": "1270030140",
+      "mapy": "375874666"
+    }
+  ]
+}

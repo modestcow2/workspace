@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "다솜 자연밥상",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 67-2",
+      "roadAddress": "서울특별시 종로구 통일로 262",
+      "mapx": "1269571106",
+      "mapy": "375754325"
+    },
+    {
+      "title": "덕송숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 43",
+      "roadAddress": "서울특별시 종로구 통일로14길 5",
+      "mapx": "1269579499",
+      "mapy": "375749329"
+    },
+    {
+      "title": "정가촌칼국시",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 현저동 201",
+      "roadAddress": "서울특별시 서대문구 독립문공원길 95",
+      "mapx": "1269544518",
+      "mapy": "375729850"
+    },
+    {
+      "title": "능라밥상",
+      "link": "https://www.facebook.com/",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 1-64 능라밥상",
+      "roadAddress": "서울특별시 종로구 사직로2길 14 능라밥상",
+      "mapx": "1269640183",
+      "mapy": "375729551"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고우가 광화문점",
+      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "김수사 신세계백화점 본점",
+      "link": "https://www.instagram.com/kimsushi1986/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 52-5 14층",
+      "roadAddress": "서울특별시 중구 소공로 63 14층",
+      "mapx": "1269806031",
+      "mapy": "375600578"
+    },
+    {
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    },
+    {
+      "title": "민규 을지로",
+      "link": "https://app.catchtable.co.kr/ct/shop/mingyueulhiro",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 수하동 67 미래에셋센터원 B1층 108호",
+      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋센터원 B1층 108호",
+      "mapx": "1269852223",
+      "mapy": "375673385"
+    },
+    {
+      "title": "사카에",
+      "link": "https://app.catchtable.co.kr/ct/shop/sakae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 24F",
+      "roadAddress": "서울특별시 중구 세종대로 135 24F",
+      "mapx": "1269765840",
+      "mapy": "375683348"
+    }
+  ]
+}

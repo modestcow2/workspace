@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "본가원조닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 54",
+      "roadAddress": "서울특별시 중구 마른내로2길 19",
+      "mapx": "1269920102",
+      "mapy": "375635413"
+    },
+    {
+      "title": "서울<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 17-8 2층",
+      "roadAddress": "서울특별시 중구 마른내로 19 2층",
+      "mapx": "1269901969",
+      "mapy": "375649565"
+    },
+    {
+      "title": "대성닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 158-15 1층 대성닭한마리",
+      "roadAddress": "서울특별시 중구 마른내로2길 30 1층 대성닭한마리",
+      "mapx": "1269915348",
+      "mapy": "375633132"
+    },
+    {
+      "title": "마작골",
+      "link": "https://www.facebook.com/profile.php?id-100042973399828",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 10 1층 101호",
+      "roadAddress": "서울특별시 중구 퇴계로 197 1층 101호",
+      "mapx": "1269939069",
+      "mapy": "375614333"
+    },
+    {
+      "title": "장수<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 302-3",
+      "roadAddress": "서울특별시 중구 을지로14길 22",
+      "mapx": "1269920210",
+      "mapy": "375652750"
+    }
+  ]
+}

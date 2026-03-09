@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김밥천국",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-3 1층 김밥천국",
+      "roadAddress": "서울특별시 종로구 자하문로 3 1층 김밥천국",
+      "mapx": "1269723453",
+      "mapy": "375764321"
+    },
+    {
+      "title": "본김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 광화문 풍림스페이스본",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
+      "mapx": "1269699607",
+      "mapy": "375746116"
+    },
+    {
+      "title": "모던키친",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 B126호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 B126호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "소문난매운떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
+    },
+    {
+      "title": "다쯔",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    }
+  ]
+}

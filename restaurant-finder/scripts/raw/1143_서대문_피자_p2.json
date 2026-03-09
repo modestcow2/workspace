@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "치즈웨이브",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-147 1,2층 치즈웨이브",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 34-6 1,2층 치즈웨이브",
+      "mapx": "1269350365",
+      "mapy": "375583559"
+    },
+    {
+      "title": "비아37 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/via37_",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-31 2층 비아37 신촌본점",
+      "roadAddress": "서울특별시 서대문구 이화여대길 68 2층 비아37 신촌본점",
+      "mapx": "1269446608",
+      "mapy": "375592889"
+    },
+    {
+      "title": "이석덕생면파스타 신촌점",
+      "link": "https://www.instagram.com/lsd_pasta/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-28 2층 이석덕생면파스타",
+      "roadAddress": "서울특별시 서대문구 명물길 16 2층 이석덕생면파스타",
+      "mapx": "1269378075",
+      "mapy": "375575919"
+    },
+    {
+      "title": "1987<b>피자</b> 신촌점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-12 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 26 지하1층",
+      "mapx": "1269354328",
+      "mapy": "375589926"
+    },
+    {
+      "title": "주인백 파스타",
+      "link": "http://instagram.com/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 324-11",
+      "roadAddress": "서울특별시 서대문구 증가로10길 57",
+      "mapx": "1269249226",
+      "mapy": "375795267"
+    }
+  ]
+}

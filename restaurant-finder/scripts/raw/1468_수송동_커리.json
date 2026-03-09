@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "비비돈가스",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 B1",
+      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 B1",
+      "mapx": "1269789870",
+      "mapy": "375739005"
+    },
+    {
+      "title": "뜸들이다 광화문점",
+      "link": "",
+      "category": "음식점>도시락,컵밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 130호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 130호",
+      "mapx": "1269818226",
+      "mapy": "375726129"
+    },
+    {
+      "title": "고가빈<b>커리</b>하우스 광화문본점",
+      "link": "http://instagram.com/gogabin_curryhouse",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-48 3층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
+      "mapx": "1269709645",
+      "mapy": "375728814"
+    },
+    {
+      "title": "옐로 드래곤 <b>커리</b> 종묘 서순라길 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yellowdragoncurry",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 봉익동 12-14 옐로 드래곤 커리",
+      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 옐로 드래곤 커리",
+      "mapx": "1269926638",
+      "mapy": "375731094"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "길이식당 국민대점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 373-8",
+      "roadAddress": "서울특별시 성북구 정릉로21길 71",
+      "mapx": "1270078092",
+      "mapy": "376084225"
+    },
+    {
+      "title": "쎼쎼양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 900-2 . 비동 지하1층 03호()",
+      "roadAddress": "서울특별시 성북구 정릉로10길 56 . 비동 지하1층 03호(정릉동)",
+      "mapx": "1269992922",
+      "mapy": "376075039"
+    },
+    {
+      "title": "진비<b>마라탕</b>",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동5가 141-2 지층 102호",
+      "roadAddress": "서울특별시 성북구 아리랑로 38 지층 102호",
+      "mapx": "1270157845",
+      "mapy": "375961494"
+    },
+    {
+      "title": "애정마라샹궈",
+      "link": "https://www.instagram.com/aiqingmala_official?igsh=YXpmdWdwejF6MGo3&utm_source=qr",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 2-6 2층",
+      "roadAddress": "서울특별시 성북구 동소문로20나길 11 2층",
+      "mapx": "1270172450",
+      "mapy": "375921882"
+    },
+    {
+      "title": "라와<b>마라탕</b> 길음점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1276 102동 지상1층 33호",
+      "roadAddress": "서울특별시 성북구 동소문로 248 102동 지상1층 33호",
+      "mapx": "1270232222",
+      "mapy": "376027488"
+    }
+  ]
+}

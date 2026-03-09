@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "비움안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
+      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
+      "mapx": "1269856635",
+      "mapy": "375791098"
+    },
+    {
+      "title": "콩카세 안국",
+      "link": "https://catchtable.co.kr/concasse_anguk",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-31 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
+      "mapx": "1269858330",
+      "mapy": "375781862"
+    },
+    {
+      "title": "콩지POT지",
+      "link": "https://blog.naver.com/konggpotg",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
+    },
+    {
+      "title": "로씨니",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 54-5",
+      "roadAddress": "서울특별시 종로구 북촌로 18",
+      "mapx": "1269855330",
+      "mapy": "375784490"
+    },
+    {
+      "title": "스파다",
+      "link": "https://catchtable.co.kr/spada",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 60 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
+      "mapx": "1269855697",
+      "mapy": "375786371"
+    }
+  ]
+}

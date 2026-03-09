@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고구려전통<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 169-2 삼선빌딩1층",
+      "roadAddress": "서울특별시 중구 퇴계로 36 삼선빌딩1층",
+      "mapx": "1269772107",
+      "mapy": "375573423"
+    },
+    {
+      "title": "고려<b>삼계탕</b>",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 55-3",
+      "roadAddress": "서울특별시 중구 서소문로11길 1",
+      "mapx": "1269729232",
+      "mapy": "375629681"
+    },
+    {
+      "title": "보승회관 시청점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-2",
+      "roadAddress": "서울특별시 중구 세종대로 66",
+      "mapx": "1269765651",
+      "mapy": "375621823"
+    },
+    {
+      "title": "영양센터 본점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-32",
+      "roadAddress": "서울특별시 중구 명동2길 52",
+      "mapx": "1269831647",
+      "mapy": "375611197"
+    },
+    {
+      "title": "VIP참치 서소문점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 2층",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 2층",
+      "mapx": "1269736364",
+      "mapy": "375622825"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "육전<b>국밥</b> 종각역점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-8 1층",
+      "roadAddress": "서울특별시 종로구 종로 68 1층",
+      "mapx": "1269849268",
+      "mapy": "375699939"
+    },
+    {
+      "title": "경복궁식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 1층 112호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 112호",
+      "mapx": "1269847135",
+      "mapy": "375704128"
+    },
+    {
+      "title": "황생가칼국수 <b>종로</b>타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B206,B207호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206,B207호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "<b>종로</b>시래기뼈감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-2 2층",
+      "roadAddress": "서울특별시 종로구 종로 72-1 2층",
+      "mapx": "1269854606",
+      "mapy": "375699485"
+    },
+    {
+      "title": "팔도<b>국밥</b> 육수당 <b>종로</b>타워점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층 육수당 종로타워점",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 육수당 종로타워점",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    }
+  ]
+}

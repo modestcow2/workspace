@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서담헌 <b>홍대</b>본점",
+      "link": "https://www.youtube.com/@%EA%B0%80%EC%A7%80%ED%8A%80%EA%B9%80%EB%A7%A8",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 113-22 1층 서담헌",
+      "roadAddress": "서울특별시 마포구 연희로1길 40-3 1층 서담헌",
+      "mapx": "1269260202",
+      "mapy": "375606598"
+    },
+    {
+      "title": "진진",
+      "link": "http://pf.kakao.com/_xifMGb",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 375-35 1층 진진",
+      "roadAddress": "서울특별시 마포구 월드컵북로1길 60 1층 진진",
+      "mapx": "1269184790",
+      "mapy": "375537804"
+    },
+    {
+      "title": "중화복춘 동교골드",
+      "link": "https://youtube.com/@zhonghuafuchun3080?si=qpkqHqcFbPAIAuBF",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 204-54 101호",
+      "roadAddress": "서울특별시 마포구 월드컵북로6길 42 101호",
+      "mapx": "1269207938",
+      "mapy": "375587753"
+    },
+    {
+      "title": "동보성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 154-19",
+      "roadAddress": "서울특별시 마포구 양화로19길 16",
+      "mapx": "1269241239",
+      "mapy": "375582520"
+    },
+    {
+      "title": "티엔미미 <b>홍대</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tianmimihongdae",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 162-5 머큐어 앰버서더 호텔 4층",
+      "roadAddress": "서울특별시 마포구 양화로 144 머큐어 앰버서더 호텔 4층",
+      "mapx": "1269224091",
+      "mapy": "375553242"
+    }
+  ]
+}

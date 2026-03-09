@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "안암",
+      "link": "http://instagram.com/anam_inanguk",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4 안암",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
+      "mapx": "1269844784",
+      "mapy": "375794197"
+    },
+    {
+      "title": "대림국수 안국점",
+      "link": "http://app.catchtable.co.kr/ct/shop/daerimanguk",
+      "category": "음식점>한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-18 1층 대림국수",
+      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 대림국수",
+      "mapx": "1269862999",
+      "mapy": "375779441"
+    },
+    {
+      "title": "신의주찹쌀순대 안국역점",
+      "link": "http://www.bigsoondae.com/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 111-1",
+      "roadAddress": "서울특별시 종로구 율곡로 59",
+      "mapx": "1269857102",
+      "mapy": "375769015"
+    },
+    {
+      "title": "롤라곱창 안국역점",
+      "link": "https://www.instagram.com/lolla_gobchang?igsh=cWt6NDJwajBjZ3k1",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-15 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 4 1층",
+      "mapx": "1269859341",
+      "mapy": "375778300"
+    },
+    {
+      "title": "광화문<b>국밥</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    }
+  ]
+}

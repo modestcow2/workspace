@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "디디스피자펍 종로본점",
+      "link": "https://www.instagram.com/dds_pizzapub",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 101호, 122호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 101호, 122호",
+      "mapx": "1269815257",
+      "mapy": "375724234"
+    },
+    {
+      "title": "더 키친 일뽀르노 광화문점",
+      "link": "https://thekitchenilforno.co.kr/index.do",
+      "category": "음식점>양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
+      "mapx": "1269812442",
+      "mapy": "375750348"
+    },
+    {
+      "title": "그린앤그레인",
+      "link": "http://pf.kakao.com/_AxgxdZd",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 1층B출입구143,144호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 (1층B출입구)143,144호",
+      "mapx": "1269822381",
+      "mapy": "375725926"
+    },
+    {
+      "title": "독립밀방 익선",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
+      "mapx": "1269902619",
+      "mapy": "375740791"
+    },
+    {
+      "title": "살롱순라 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
+      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
+      "mapx": "1269916936",
+      "mapy": "375741979"
+    }
+  ]
+}

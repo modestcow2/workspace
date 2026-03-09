@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "진청유점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jincheongyujeom",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 385-3 1층",
+      "roadAddress": "서울특별시 마포구 동교로46길 27 1층",
+      "mapx": "1269262932",
+      "mapy": "375622774"
+    },
+    {
+      "title": "수수연남",
+      "link": "https://www.instagram.com/susu_yeonnam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-74 1층",
+      "roadAddress": "서울특별시 마포구 동교로38안길 22 1층",
+      "mapx": "1269252244",
+      "mapy": "375622551"
+    },
+    {
+      "title": "수라간",
+      "link": "http://www.instagram.com/sooragan01",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 228-56 1층",
+      "roadAddress": "서울특별시 마포구 동교로38안길 3 1층",
+      "mapx": "1269246381",
+      "mapy": "375619497"
+    },
+    {
+      "title": "연주방 연남본점",
+      "link": "https://go.catchtable.co.kr/8j097n8",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-19 반지층",
+      "roadAddress": "서울특별시 마포구 동교로46길 7 반지층",
+      "mapx": "1269253268",
+      "mapy": "375626862"
+    },
+    {
+      "title": "우고미",
+      "link": "https://app.catchtable.co.kr/ct/shop/ugomi",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-23 2층",
+      "roadAddress": "서울특별시 마포구 성미산로 192 2층",
+      "mapx": "1269263714",
+      "mapy": "375627954"
+    }
+  ]
+}

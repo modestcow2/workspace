@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "들풀한상",
+      "link": "https://www.instagram.com/dulpuloneplate",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 351-16",
+      "roadAddress": "서울특별시 마포구 동교로 156-5",
+      "mapx": "1269197806",
+      "mapy": "375554863"
+    },
+    {
+      "title": "더담다이닝",
+      "link": "https://app.catchtable.co.kr/ct/shop/hongdaedeodam",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 328-26 201호",
+      "roadAddress": "서울특별시 마포구 와우산로29길 44 201호",
+      "mapx": "1269277717",
+      "mapy": "375557176"
+    },
+    {
+      "title": "오우 연남점",
+      "link": "http://www.instagram.com/ou_official",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 203-56 삼기빌딩 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로6길 26 삼기빌딩 1층",
+      "mapx": "1269200588",
+      "mapy": "375582824"
+    },
+    {
+      "title": "우아하게",
+      "link": "http://instagram.com/ooh_ahh_hg",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 201-53 1층 우아하게",
+      "roadAddress": "서울특별시 마포구 동교로 185 1층 우아하게",
+      "mapx": "1269218227",
+      "mapy": "375570525"
+    },
+    {
+      "title": "오이지 연남",
+      "link": "http://app.catchtable.co.kr/ct/shop/oiji_yeonnam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 147-28 지층 오이지 연남",
+      "roadAddress": "서울특별시 마포구 연희로1길 15 지층 오이지 연남",
+      "mapx": "1269256022",
+      "mapy": "375596930"
+    }
+  ]
+}

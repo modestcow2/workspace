@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "북창<b>치킨</b> 서울시청본점",
+      "link": "https://blog.naver.com/j03c",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-2 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로16길 6 1층, 2층",
+      "mapx": "1269772125",
+      "mapy": "375633658"
+    },
+    {
+      "title": "태성골뱅이신사 본점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 129 1층",
+      "roadAddress": "서울특별시 중구 을지로3길 35 1층",
+      "mapx": "1269813057",
+      "mapy": "375677406"
+    },
+    {
+      "title": "JH텍사스바",
+      "link": "https://www.instagram.com/jhtexasbar_official",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 1 효령빌딩 1층",
+      "roadAddress": "서울특별시 중구 무교로 32 효령빌딩 1층",
+      "mapx": "1269795080",
+      "mapy": "375688120"
+    },
+    {
+      "title": "레츠펍 시청점",
+      "link": "https://www.instagram.com/letspub_official",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-4 레츠펍",
+      "roadAddress": "서울특별시 중구 남대문로1길 47 레츠펍",
+      "mapx": "1269773060",
+      "mapy": "375631980"
+    },
+    {
+      "title": "경성<b>치킨</b> 광화문스퀘어점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 135-2",
+      "roadAddress": "서울특별시 종로구 새문안로 96",
+      "mapx": "1269754434",
+      "mapy": "375699667"
+    }
+  ]
+}

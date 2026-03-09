@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼대<b>설렁탕</b> <b>시청</b>점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 오산시 원동 221-48 1층",
+      "roadAddress": "경기도 오산시 운천로 57 1층",
+      "mapx": "1270743110",
+      "mapy": "371479264"
+    },
+    {
+      "title": "임대감댁 <b>시청</b>점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 25-1 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로20길 23 1층 102호",
+      "mapx": "1269787579",
+      "mapy": "375671121"
+    },
+    {
+      "title": "서울깍두기 신기본점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "전라남도 여수시 학동 105-1 1층",
+      "roadAddress": "전라남도 여수시 도원로 266 1층",
+      "mapx": "1276604888",
+      "mapy": "347609470"
+    },
+    {
+      "title": "송원가마솥<b>설렁탕</b> 세종본점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "세종특별자치시 보람동 703 209, 210호",
+      "roadAddress": "세종특별자치시 시청대로 115 209, 210호",
+      "mapx": "1272848266",
+      "mapy": "364791712"
+    },
+    {
+      "title": "서울깍두기 대전<b>시청</b>점",
+      "link": "http://seoggag.com",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "대전광역시 서구 둔산동 1453 1층 112,113호",
+      "roadAddress": "대전광역시 서구 둔산로 130 1층 112,113호",
+      "mapx": "1273878529",
+      "mapy": "363511107"
+    }
+  ]
+}

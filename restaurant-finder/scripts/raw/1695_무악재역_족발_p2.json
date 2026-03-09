@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "족삼리",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 115-5 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
+      "mapx": "1269483970",
+      "mapy": "375854364"
+    },
+    {
+      "title": "서대문영양<b>족발</b> 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 90-53 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 377 1층",
+      "mapx": "1269491514",
+      "mapy": "375837552"
+    },
+    {
+      "title": "서대문응암<b>족발</b> 삼계탕",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-102 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 2 1층",
+      "mapx": "1269433190",
+      "mapy": "375885820"
+    },
+    {
+      "title": "귀한<b>족발</b> 홍제점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 474 상가동 1층 5호 귀한족발 홍제점",
+      "roadAddress": "서울특별시 서대문구 세무서8길 30 상가동 1층 5호 귀한족발 홍제점",
+      "mapx": "1269466541",
+      "mapy": "375905858"
+    },
+    {
+      "title": "서촌 곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 146-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
+      "mapx": "1269693165",
+      "mapy": "375766924"
+    }
+  ]
+}

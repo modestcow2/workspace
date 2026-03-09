@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "짱구떡볶이",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 1층 22호",
+      "roadAddress": "서울특별시 종로구 통일로 230 1층 22호",
+      "mapx": "1269594558",
+      "mapy": "375734646"
+    },
+    {
+      "title": "연희김밥 독립문점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 경희궁 롯데캐슬 상가 107호",
+      "roadAddress": "서울특별시 종로구 통일로 230 경희궁 롯데캐슬 상가 107호",
+      "mapx": "1269586552",
+      "mapy": "375742112"
+    },
+    {
+      "title": "종로김밥 독립문점",
+      "link": "http://www.jongrokimbap.co.kr/",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 84 현대아파트상가 1-112호",
+      "roadAddress": "서울특별시 종로구 통일로12길 31 현대아파트상가 1-112호",
+      "mapx": "1269591717",
+      "mapy": "375744350"
+    },
+    {
+      "title": "소소떡볶이 경희궁자이점",
+      "link": "https://www.instagram.com/soso_gyeonghuigung?igsh=bGU5MzdpMnc4ZXN6&utm_source=qr",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 교북동 126 경희궁자이 상가 4109호",
+      "roadAddress": "서울특별시 종로구 송월길 155 경희궁자이 상가 4109호",
+      "mapx": "1269613066",
+      "mapy": "375715570"
+    },
+    {
+      "title": "독립문영천시장 만나김밥",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 285 A열9~10호",
+      "roadAddress": "서울특별시 서대문구 영천시장길 19 A열9~10호",
+      "mapx": "1269607872",
+      "mapy": "375711296"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:33 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소신이쏘 <b>신촌</b>본점",
+      "link": "https://www.facebook.com/sosinesso",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-39 1층",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 19 1층",
+      "mapx": "1269355349",
+      "mapy": "375572041"
+    },
+    {
+      "title": "형제<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 31-26",
+      "roadAddress": "서울특별시 서대문구 명물1길 2",
+      "mapx": "1269373430",
+      "mapy": "375578619"
+    },
+    {
+      "title": "설레임삼겹살 <b>신촌</b>점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-40 낙원빌딩",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 31 낙원빌딩",
+      "mapx": "1269349169",
+      "mapy": "375572216"
+    },
+    {
+      "title": "웅네서서<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-25",
+      "roadAddress": "서울특별시 서대문구 신촌역로 13-1",
+      "mapx": "1269426093",
+      "mapy": "375579488"
+    },
+    {
+      "title": "<b>신촌</b>고기창고",
+      "link": "https://app.catchtable.co.kr/ct/shop/sinchongogichanggo?from=share&type=DINING",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-78",
+      "roadAddress": "서울특별시 서대문구 연세로7길 34-4",
+      "mapx": "1269350635",
+      "mapy": "375578649"
+    }
+  ]
+}

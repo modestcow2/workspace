@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한옥달 레스토랑",
+      "link": "https://catchtable.co.kr/ct/shop/hanokdal",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 68",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 9",
+      "mapx": "1269718720",
+      "mapy": "375769814"
+    },
+    {
+      "title": "첫잔",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 201-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 28",
+      "mapx": "1269707822",
+      "mapy": "375765240"
+    },
+    {
+      "title": "오븐에빠진닭 경복궁역점",
+      "link": "http://www.oppadak.co.kr/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 52 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 5 2층",
+      "mapx": "1269722690",
+      "mapy": "375766230"
+    },
+    {
+      "title": "소박한집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 지하1층 124호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 지하1층 124호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "소문난매운<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
+    }
+  ]
+}

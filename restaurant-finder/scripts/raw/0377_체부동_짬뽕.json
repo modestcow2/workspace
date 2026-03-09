@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "차이치",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 26 1층, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 9 1층, 2층",
+      "mapx": "1269710466",
+      "mapy": "375782778"
+    },
+    {
+      "title": "서촌181",
+      "link": "https://www.instagram.com/181kitchen/",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 181 서촌181",
+      "roadAddress": "서울특별시 종로구 자하문로1라길 8 서촌181",
+      "mapx": "1269708275",
+      "mapy": "375768229"
+    },
+    {
+      "title": "이주당",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 189",
+      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
+      "mapx": "1269716059",
+      "mapy": "375765372"
+    },
+    {
+      "title": "도성",
+      "link": "https://blog.naver.com/minimin1108",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 20 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 15 1층",
+      "mapx": "1269708194",
+      "mapy": "375784692"
+    },
+    {
+      "title": "용궁",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269695378",
+      "mapy": "375746229"
+    }
+  ]
+}

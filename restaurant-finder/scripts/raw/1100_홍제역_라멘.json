@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "네츠<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-238 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 1 1층",
+      "mapx": "1269434810",
+      "mapy": "375884950"
+    },
+    {
+      "title": "토나리<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 268-14 1층",
+      "roadAddress": "서울특별시 서대문구 세무서길 78 1층",
+      "mapx": "1269469258",
+      "mapy": "375911592"
+    },
+    {
+      "title": "핵밥 명지대점",
+      "link": "https://www.hecbob.com/",
+      "category": "음식점>일식>덮밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 324-19 2층",
+      "roadAddress": "서울특별시 서대문구 거북골로 25-1 2층",
+      "mapx": "1269246131",
+      "mapy": "375798713"
+    },
+    {
+      "title": "원주율",
+      "link": "https://www.instagram.com/no1_mgr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 339-31 1층",
+      "roadAddress": "서울특별시 서대문구 증가로 112 1층",
+      "mapx": "1269251014",
+      "mapy": "375768745"
+    }
+  ]
+}

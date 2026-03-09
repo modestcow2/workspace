@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대현매운<b>족발</b> 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-25 1층",
+      "roadAddress": "서울특별시 서대문구 연세로2길 95 1층",
+      "mapx": "1269421576",
+      "mapy": "375571933"
+    },
+    {
+      "title": "<b>신촌</b>정직한<b>족발</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/shinchonhonestjokbal",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-33 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 51 1층",
+      "mapx": "1269340235",
+      "mapy": "375583477"
+    },
+    {
+      "title": "황토숯가마로구운<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-7 2층",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 3 2층",
+      "mapx": "1269362079",
+      "mapy": "375572133"
+    },
+    {
+      "title": "원할머니보쌈<b>족발</b> <b>신촌</b>점",
+      "link": "http://bossam.co.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-51",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 14",
+      "mapx": "1269359728",
+      "mapy": "375573967"
+    },
+    {
+      "title": "진미오향왕<b>족발</b>",
+      "link": "http://10113.mbym.co.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-14",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 18",
+      "mapx": "1269351597",
+      "mapy": "375570408"
+    }
+  ]
+}

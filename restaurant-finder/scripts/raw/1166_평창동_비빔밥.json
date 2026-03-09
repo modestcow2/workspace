@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>평창동</b> 칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 595 갑을시티텔 1층",
+      "roadAddress": "서울특별시 종로구 평창문화로 19 갑을시티텔 1층",
+      "mapx": "1269638071",
+      "mapy": "376045867"
+    },
+    {
+      "title": "강경불고기 종로<b>평창동</b>점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 66-32",
+      "roadAddress": "서울특별시 종로구 평창문화로 130",
+      "mapx": "1269742978",
+      "mapy": "376091828"
+    },
+    {
+      "title": "본죽 평창점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF101",
+      "category": "음식점>죽",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 182-11 나라빌딩 1층 103호",
+      "roadAddress": "서울특별시 종로구 평창12길 3 나라빌딩 1층 103호",
+      "mapx": "1269672600",
+      "mapy": "376061220"
+    },
+    {
+      "title": "이천영양돌솥밥",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 182-2",
+      "roadAddress": "서울특별시 종로구 평창11길 12",
+      "mapx": "1269666230",
+      "mapy": "376066209"
+    },
+    {
+      "title": "성북동누룽지백숙",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 281-1",
+      "roadAddress": "서울특별시 성북구 성북로31길 9",
+      "mapx": "1269905008",
+      "mapy": "375945857"
+    }
+  ]
+}

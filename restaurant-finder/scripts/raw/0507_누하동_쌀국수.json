@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "타마린드 디타워점",
+      "link": "https://catchtable.co.kr/tamarinddt",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
+    {
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
+    },
+    {
+      "title": "띤띤 SFC",
+      "link": "https://www.instagram.com/tamarind_official/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFCMALL B2",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
+      "mapx": "1269782820",
+      "mapy": "375684612"
+    },
+    {
+      "title": "알로이막막",
+      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 150-1 1,2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
+      "mapx": "1269705861",
+      "mapy": "375790359"
+    },
+    {
+      "title": "베트남시장<b>쌀국수</b> 본점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 70-2",
+      "roadAddress": "서울특별시 서대문구 영천시장길 30",
+      "mapx": "1269609274",
+      "mapy": "375707459"
+    }
+  ]
+}

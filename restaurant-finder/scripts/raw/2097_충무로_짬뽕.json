@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "호빈",
+      "link": "https://www.ambatel.com/theambassador",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 장충동2가 186-54 앰배서더 서울 풀만 호텔 2층",
+      "roadAddress": "서울특별시 중구 동호로 287 앰배서더 서울 풀만 호텔 2층",
+      "mapx": "1270023153",
+      "mapy": "375602761"
+    },
+    {
+      "title": "태화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 묵정동 25-20",
+      "roadAddress": "서울특별시 중구 퇴계로50길 37",
+      "mapx": "1270011330",
+      "mapy": "375610168"
+    },
+    {
+      "title": "충푸",
+      "link": "https://www.instagram.com/chungfubao",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로4가 24-11 1층",
+      "roadAddress": "서울특별시 중구 충무로2길 31-1 1층",
+      "mapx": "1269949432",
+      "mapy": "375624598"
+    },
+    {
+      "title": "샤오리앤 <b>충무로</b>본점",
+      "link": "https://blog.naver.com/xiaolian8886",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 10 충무빌딩 1층 103호",
+      "roadAddress": "서울특별시 중구 퇴계로 197 충무빌딩 1층 103호",
+      "mapx": "1269939277",
+      "mapy": "375613764"
+    },
+    {
+      "title": "낭만<b>짬뽕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 58-14 1층",
+      "roadAddress": "서울특별시 중구 수표로6길 6 1층",
+      "mapx": "1269907369",
+      "mapy": "375627627"
+    }
+  ]
+}

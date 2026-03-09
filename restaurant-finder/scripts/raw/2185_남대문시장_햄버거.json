@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "위트앤미트 서울역점",
+      "link": "https://litt.ly/wheat.n.meat",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 로비층 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 로비층 106호",
+      "mapx": "1269744164",
+      "mapy": "375575333"
+    },
+    {
+      "title": "보노보스버거",
+      "link": "https://www.instagram.com/bonobosburger/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 1-1 1층",
+      "roadAddress": "서울특별시 중구 남대문로 30 1층",
+      "mapx": "1269789686",
+      "mapy": "375610121"
+    },
+    {
+      "title": "바스버거 서소문시청역점",
+      "link": "https://www.basburger.net/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-28",
+      "roadAddress": "서울특별시 중구 세종대로11길 33",
+      "mapx": "1269741569",
+      "mapy": "375620973"
+    },
+    {
+      "title": "버거운녀석들 <b>남대문</b>점",
+      "link": "http://www.burgerguys.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 21-1 1층 101-1호",
+      "roadAddress": "서울특별시 중구 세종대로 30 1층 101-1호",
+      "mapx": "1269749367",
+      "mapy": "375590098"
+    },
+    {
+      "title": "대보정 서울시청역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    }
+  ]
+}

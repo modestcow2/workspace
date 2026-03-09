@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마그넷 서촌",
+      "link": "https://instagram.com/magnettt_bar?igshid=ZDc4ODBmNjlmNQ==",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 81 1층, 2층",
+      "roadAddress": "서울특별시 종로구 사직로12길 19-12 1층, 2층",
+      "mapx": "1269714227",
+      "mapy": "375752478"
+    },
+    {
+      "title": "오빈스",
+      "link": "https://www.instagram.com/obins1000",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 19 사학재단 1층 오빈스레스토랑",
+      "roadAddress": "서울특별시 종로구 사직로 113 사학재단 1층 오빈스레스토랑",
+      "mapx": "1269713210",
+      "mapy": "375763777"
+    },
+    {
+      "title": "유앤피",
+      "link": "https://www.instagram.com/unp_sajik",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 3층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
+      "mapx": "1269655475",
+      "mapy": "375756345"
+    },
+    {
+      "title": "타펠룬데 서울",
+      "link": "https://catchtable.co.kr/tafelrunde_seoul",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 132 1층 타펠룬데 서울",
+      "roadAddress": "서울특별시 종로구 사직로 108-5 1층 타펠룬데 서울",
+      "mapx": "1269708228",
+      "mapy": "375757053"
+    },
+    {
+      "title": "아트만",
+      "link": "http://instagram.com/atman_seoul",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 101 아트만",
+      "roadAddress": "서울특별시 종로구 사직로12길 11 아트만",
+      "mapx": "1269710581",
+      "mapy": "375755031"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "심퍼티쿠시 서울역점",
+      "link": "https://szimpatikus.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "레스케이프 라망 시크레",
+      "link": "https://catchtable.co.kr/lamantsecret",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 210 레스케이프 호텔 26층",
+      "roadAddress": "서울특별시 중구 퇴계로 67 레스케이프 호텔 26층",
+      "mapx": "1269795418",
+      "mapy": "375596664"
+    },
+    {
+      "title": "어슬 서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/eoseulcheongdam_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-17 에너지플러스 서울로 13층",
+      "roadAddress": "서울특별시 중구 퇴계로 15 에너지플러스 서울로 13층",
+      "mapx": "1269745560",
+      "mapy": "375570296"
+    },
+    {
+      "title": "제이드앤워터 서울역점",
+      "link": "https://blog.naver.com/jadeandwater_mkt",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-17 2층 202호",
+      "roadAddress": "서울특별시 중구 퇴계로 15 2층 202호",
+      "mapx": "1269745560",
+      "mapy": "375570296"
+    },
+    {
+      "title": "멜로멜로 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/melomelo?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-42 소테츠 더스프라지르명동 1층",
+      "roadAddress": "서울특별시 중구 남대문로5길 15 소테츠 더스프라지르명동 1층",
+      "mapx": "1269787110",
+      "mapy": "375620727"
+    }
+  ]
+}

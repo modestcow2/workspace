@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카<b>라멘</b>야",
+      "link": "http://www.instagram.com/karamenya_i",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-97 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 34-1 1층",
+      "mapx": "1269348727",
+      "mapy": "375582219"
+    },
+    {
+      "title": "멘츠루 신촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mentsurusc",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층",
+      "mapx": "1269406214",
+      "mapy": "375589663"
+    },
+    {
+      "title": "가마마루이<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 91-6 창천빌딩 1층 가마마루이",
+      "roadAddress": "서울특별시 서대문구 성산로22길 4 창천빌딩 1층 가마마루이",
+      "mapx": "1269334171",
+      "mapy": "375603703"
+    },
+    {
+      "title": "멘지 신촌점",
+      "link": "https://naver.me/5SyzgszE",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 33-14 2층",
+      "roadAddress": "서울특별시 서대문구 연세로9길 8 2층",
+      "mapx": "1269364737",
+      "mapy": "375585778"
+    },
+    {
+      "title": "네츠<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-238 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 1 1층",
+      "mapx": "1269434810",
+      "mapy": "375884950"
+    }
+  ]
+}

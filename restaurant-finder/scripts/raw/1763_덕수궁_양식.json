@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "퍼스트플로어 센트럴",
+      "link": "http://fpcs.co.kr/dining-bar/first-floor",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 214 프레이저플레이스 호텔 1층",
+      "roadAddress": "서울특별시 중구 통일로 78 프레이저플레이스 호텔 1층",
+      "mapx": "1269697479",
+      "mapy": "375624505"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
+    },
+    {
+      "title": "어슬 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "프랑스백반",
+      "link": "http://france.cityfood.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 51-6",
+      "roadAddress": "서울특별시 중구 새문안로 32",
+      "mapx": "1269692398",
+      "mapy": "375679288"
+    },
+    {
+      "title": "핏제리아 빠드레",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 165-1 지상1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
+      "mapx": "1269741385",
+      "mapy": "375710651"
+    }
+  ]
+}

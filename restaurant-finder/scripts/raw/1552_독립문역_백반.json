@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "다솜 자연밥상",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 67-2",
+      "roadAddress": "서울특별시 종로구 통일로 262",
+      "mapx": "1269571106",
+      "mapy": "375754325"
+    },
+    {
+      "title": "상구네집",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 82 무악현대아파트상가 1층 107호",
+      "roadAddress": "서울특별시 종로구 통일로 246-10 무악현대아파트상가 1층 107호",
+      "mapx": "1269591662",
+      "mapy": "375743737"
+    },
+    {
+      "title": "미소식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 현저동 200 지하1층 117호",
+      "roadAddress": "서울특별시 서대문구 독립문공원길 13 지하1층 117호",
+      "mapx": "1269585393",
+      "mapy": "375719126"
+    },
+    {
+      "title": "골목식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 294",
+      "roadAddress": "서울특별시 서대문구 영천시장길 27",
+      "mapx": "1269610995",
+      "mapy": "375709023"
+    },
+    {
+      "title": "명지식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 39 1층 명지식당",
+      "roadAddress": "서울특별시 서대문구 독립문로14길 6 1층 명지식당",
+      "mapx": "1269637410",
+      "mapy": "375670500"
+    }
+  ]
+}

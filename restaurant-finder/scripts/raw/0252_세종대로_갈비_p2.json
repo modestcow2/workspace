@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이스트빌리지서울 광화문점",
+      "link": "https://www.instagram.com/East_Village.seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하 1층",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하 1층",
+      "mapx": "1269782820",
+      "mapy": "375684612"
+    },
+    {
+      "title": "쪽삼상회",
+      "link": "https://www.instagram.com/jjoksamsanghoe?igsh=aHk3bnVoNm9wYnl1",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-13 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 68 1층 102호",
+      "mapx": "1269767006",
+      "mapy": "375622675"
+    },
+    {
+      "title": "투뿔 코리안 스테이크하우스 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/twobull_gwanghwamun",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 1층",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 1층",
+      "mapx": "1269785521",
+      "mapy": "375684009"
+    },
+    {
+      "title": "서경한우 남대문 장터본가점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-4 1층",
+      "roadAddress": "서울특별시 중구 세종대로 62 1층",
+      "mapx": "1269764527",
+      "mapy": "375617228"
+    },
+    {
+      "title": "관호 광화문점",
+      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
+      "category": "음식점>양갈비",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-9 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
+      "mapx": "1269762626",
+      "mapy": "375684239"
+    }
+  ]
+}

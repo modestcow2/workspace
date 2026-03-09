@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만족오향<b>족발</b> 시청점",
+      "link": "https://blog.naver.com/manchum4755",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 318-1",
+      "roadAddress": "서울특별시 중구 서소문로 134-7",
+      "mapx": "1269760158",
+      "mapy": "375632554"
+    },
+    {
+      "title": "고려보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 25-1 원창빌딩",
+      "roadAddress": "서울특별시 중구 세종대로20길 23 원창빌딩",
+      "mapx": "1269787500",
+      "mapy": "375671549"
+    },
+    {
+      "title": "장군보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 19",
+      "roadAddress": "서울특별시 중구 무교로 16",
+      "mapx": "1269797048",
+      "mapy": "375673236"
+    },
+    {
+      "title": "오양식관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
+      "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
+      "mapx": "1269756446",
+      "mapy": "375687260"
+    },
+    {
+      "title": "비어할레 본점",
+      "link": "https://www.instagram.com/bierhalle_1986",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 97 산다빌딩 1층, 2층",
+      "roadAddress": "서울특별시 중구 을지로3길 34 산다빌딩 1층, 2층",
+      "mapx": "1269814769",
+      "mapy": "375675489"
+    }
+  ]
+}

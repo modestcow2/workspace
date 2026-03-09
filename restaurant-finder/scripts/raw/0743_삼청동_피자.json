@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
+    },
+    {
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
+    },
+    {
+      "title": "PKM가든 레스토랑",
+      "link": "https://catchtable.co.kr/pkm_restaurant",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
+      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
+      "mapx": "1269801406",
+      "mapy": "375841122"
+    },
+    {
+      "title": "미트볼라운지 X 아날로그키친 삼청점",
+      "link": "https://app.catchtable.co.kr/ct/shop/meatball_lounge_sj",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 팔판동 27-5 미트볼라운지x아날로그키친 삼청점",
+      "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
+      "mapx": "1269816796",
+      "mapy": "375833417"
+    },
+    {
+      "title": "콩지POT지",
+      "link": "https://blog.naver.com/konggpotg",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
+    }
+  ]
+}

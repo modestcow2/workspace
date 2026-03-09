@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라밥 시청점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
+    },
+    {
+      "title": "동대문엽기<b>떡볶이</b> 남대문점",
+      "link": "https://blog.naver.com/ddm_yupdduk",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-4 2층 엽기떡볶이",
+      "roadAddress": "서울특별시 중구 세종대로 62 2층 엽기떡볶이",
+      "mapx": "1269764527",
+      "mapy": "375617228"
+    },
+    {
+      "title": "싸다김밥 시청역점",
+      "link": "https://ssadagb.com",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-5 해남빌딩 본관 1층 116호",
+      "roadAddress": "서울특별시 중구 세종대로 64 해남빌딩 본관 1층 116호",
+      "mapx": "1269765121",
+      "mapy": "375620705"
+    },
+    {
+      "title": "김가네 시청역점",
+      "link": "https://blog.naver.com/gimkong7127",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-20 1층",
+      "roadAddress": "서울특별시 중구 세종대로 74-1 1층",
+      "mapx": "1269768169",
+      "mapy": "375628427"
+    },
+    {
+      "title": "김가네 서울역점",
+      "link": "https://blog.naver.com/gimkong7127",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 20-1 청송빌딩 102호",
+      "roadAddress": "서울특별시 중구 세종대로 28 청송빌딩 102호",
+      "mapx": "1269745759",
+      "mapy": "375589157"
+    }
+  ]
+}

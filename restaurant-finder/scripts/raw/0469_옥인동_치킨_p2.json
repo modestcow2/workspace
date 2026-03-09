@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영광통닭",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 94 영광통닭",
+      "roadAddress": "서울특별시 종로구 필운대로 55-1 영광통닭",
+      "mapx": "1269684170",
+      "mapy": "375810589"
+    },
+    {
+      "title": "영광통닭 2호점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 110 1, 2층",
+      "roadAddress": "서울특별시 종로구 필운대로 53-26 1, 2층",
+      "mapx": "1269681573",
+      "mapy": "375807835"
+    },
+    {
+      "title": "BBQ<b>치킨</b> 효자점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 92",
+      "roadAddress": "서울특별시 종로구 필운대로 59",
+      "mapx": "1269683749",
+      "mapy": "375813250"
+    },
+    {
+      "title": "계열사",
+      "link": "https://app.catchtable.co.kr/ct/shop/gaeyeoalsa",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 258-3",
+      "roadAddress": "서울특별시 종로구 백석동길 7",
+      "mapx": "1269656561",
+      "mapy": "375928996"
+    },
+    {
+      "title": "효도<b>치킨</b> 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hyodochicken_gwanghwa",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 197 1, 2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 21-1 1, 2층",
+      "mapx": "1269710660",
+      "mapy": "375746043"
+    }
+  ]
+}

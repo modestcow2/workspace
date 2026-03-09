@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마라붐 <b>시청</b>점",
+      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
+      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
+      "mapx": "1269771292",
+      "mapy": "375635420"
+    },
+    {
+      "title": "마라섬 <b>마라탕</b>&amp;딤섬 인계 직영점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1119-2 2층",
+      "roadAddress": "경기도 수원시 팔달구 권광로196번길 12 2층",
+      "mapx": "1270339044",
+      "mapy": "372646583"
+    },
+    {
+      "title": "신염천하<b>마라탕</b> 부천중동점",
+      "link": "http://shinyeomcheonha.cityfood.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1151-4 105호",
+      "roadAddress": "경기도 부천시 원미구 중동로248번길 31 105호",
+      "mapx": "1267703782",
+      "mapy": "375017323"
+    },
+    {
+      "title": "마유유 <b>마라탕</b> 현대백화점 중동점",
+      "link": "https://www.instagram.com/sinae.u",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1164-1 지하1층",
+      "roadAddress": "경기도 부천시 원미구 길주로 180 지하1층",
+      "mapx": "1267618740",
+      "mapy": "375044455"
+    },
+    {
+      "title": "천향원 명동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
+      "roadAddress": "서울특별시 중구 남대문로7길 33 소공빌딩 2층 천향원",
+      "mapx": "1269800515",
+      "mapy": "375637808"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "풍문고기집 <b>서울역</b>점",
+      "link": "https://blog.naver.com/pungmun_",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-9 1층",
+      "roadAddress": "서울특별시 중구 세종대로2길 6-1 1층",
+      "mapx": "1269736723",
+      "mapy": "375576757"
+    },
+    {
+      "title": "국민회관",
+      "link": "http://www.instagram.com/nationalhall3",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 만리동1가 34 국민회관 1층 1호",
+      "roadAddress": "서울특별시 중구 만리재로 209-2 국민회관 1층 1호",
+      "mapx": "1269681626",
+      "mapy": "375562317"
+    },
+    {
+      "title": "임옥정 <b>서울역</b>점",
+      "link": "https://www.instagram.com/imokjung",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-27 1층",
+      "roadAddress": "서울특별시 용산구 한강대로 359-2 1층",
+      "mapx": "1269716998",
+      "mapy": "375505383"
+    },
+    {
+      "title": "금강산식당",
+      "link": "https://www.instagram.com/woojeamyoung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 청파동2가 114-3 금강산식당",
+      "roadAddress": "서울특별시 용산구 청파로 303 금강산식당",
+      "mapx": "1269700499",
+      "mapy": "375466500"
+    },
+    {
+      "title": "서울 만리옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 서계동 224-21 1층",
+      "roadAddress": "서울특별시 용산구 청파로89길 4-12 1층",
+      "mapx": "1269683149",
+      "mapy": "375539465"
+    }
+  ]
+}

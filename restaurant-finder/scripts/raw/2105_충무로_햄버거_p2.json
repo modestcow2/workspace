@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "니즈버거 을지로점",
+      "link": "https://www.instagram.com/needs_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 84-4 1층 니즈버거",
+      "roadAddress": "서울특별시 중구 마른내로 13 1층 니즈버거",
+      "mapx": "1269893982",
+      "mapy": "375648615"
+    },
+    {
+      "title": "블리스가든",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 77-1",
+      "roadAddress": "서울특별시 중구 필동로 18",
+      "mapx": "1269960482",
+      "mapy": "375598459"
+    },
+    {
+      "title": "스타치",
+      "link": "https://www.instagram.com/starch.seoul?igsh=MXRsYmVmYW5vdGY2aw%3D%3D&utm_source=qr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 132-3 1층",
+      "roadAddress": "서울특별시 중구 마른내로4길 25 1층",
+      "mapx": "1269936304",
+      "mapy": "375631317"
+    },
+    {
+      "title": "1955 그로서리아",
+      "link": "https://www.ambatel.com/theambassador/seoul/ko/diningView.do?dining_contents_seq=155",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 장충동2가 186-54 앰배서더 서울 풀만 호텔 1층",
+      "roadAddress": "서울특별시 중구 동호로 287 앰배서더 서울 풀만 호텔 1층",
+      "mapx": "1270023153",
+      "mapy": "375602761"
+    },
+    {
+      "title": "버거킹 <b>충무로</b>역점",
+      "link": "",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로4가 125-11",
+      "roadAddress": "서울특별시 중구 퇴계로 216",
+      "mapx": "1269957319",
+      "mapy": "375614052"
+    }
+  ]
+}

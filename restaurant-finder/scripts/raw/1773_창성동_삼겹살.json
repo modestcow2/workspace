@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "애월식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 98-19",
+      "roadAddress": "서울특별시 종로구 자하문로 48-1",
+      "mapx": "1269714614",
+      "mapy": "375803453"
+    },
+    {
+      "title": "청하식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 120",
+      "roadAddress": "서울특별시 종로구 자하문로10길 25",
+      "mapx": "1269728999",
+      "mapy": "375794749"
+    },
+    {
+      "title": "창성갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 136",
+      "roadAddress": "서울특별시 종로구 자하문로 40-1",
+      "mapx": "1269715716",
+      "mapy": "375796602"
+    },
+    {
+      "title": "뼈탄집 서촌본점",
+      "link": "http://www.bornpig.co.kr/index2.php",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 9-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13",
+      "mapx": "1269717062",
+      "mapy": "375764468"
+    },
+    {
+      "title": "양탄집 서촌본점",
+      "link": "https://www.instagram.com/yangtanhouse/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 60-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
+      "mapx": "1269720601",
+      "mapy": "375766927"
+    }
+  ]
+}

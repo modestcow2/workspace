@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:46 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꾸아 이대점",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/quaewha",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-9 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 42 2층",
+      "mapx": "1269458643",
+      "mapy": "375588114"
+    },
+    {
+      "title": "포가레 신촌점",
+      "link": "https://blog.naver.com/wp3998",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-9 2층",
+      "roadAddress": "서울특별시 서대문구 명물길 26 2층",
+      "mapx": "1269382733",
+      "mapy": "375578868"
+    },
+    {
+      "title": "방콕익스프레스 신촌본점",
+      "link": "http://www.bangkokexp.com/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-25 백송빌딩 1층 방콕익스프레스",
+      "roadAddress": "서울특별시 서대문구 연세로2길 91 백송빌딩 1층 방콕익스프레스",
+      "mapx": "1269418841",
+      "mapy": "375571725"
+    },
+    {
+      "title": "고렝 연희점",
+      "link": "https://blog.naver.com/spell1004",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 133-30 1층",
+      "roadAddress": "서울특별시 서대문구 증가로 13-9 1층",
+      "mapx": "1269310799",
+      "mapy": "375690653"
+    },
+    {
+      "title": "베트남시장<b>쌀국수</b> 본점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 70-2",
+      "roadAddress": "서울특별시 서대문구 영천시장길 30",
+      "mapx": "1269609274",
+      "mapy": "375707459"
+    }
+  ]
+}

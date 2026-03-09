@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만추 현대백화점 미아점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 20-1 지하1층",
+      "roadAddress": "서울특별시 성북구 동소문로 315 지하1층",
+      "mapx": "1270290846",
+      "mapy": "376084393"
+    },
+    {
+      "title": "더웍",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 롯데캐슬 골드 트윈상가 지하1층",
+      "roadAddress": "서울특별시 성북구 길음로 11 롯데캐슬 골드 트윈상가 지하1층",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    },
+    {
+      "title": "초림정",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 48-4",
+      "roadAddress": "서울특별시 성북구 동소문로 181",
+      "mapx": "1270214606",
+      "mapy": "375984074"
+    },
+    {
+      "title": "국빈",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 3-680 복천빌딩",
+      "roadAddress": "서울특별시 성북구 종암로21길 71 복천빌딩",
+      "mapx": "1270322451",
+      "mapy": "376014099"
+    },
+    {
+      "title": "보배반점 하월곡점",
+      "link": "http://pf.kakao.com/_xgxgXbj",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 90-1695",
+      "roadAddress": "서울특별시 성북구 종암로 184",
+      "mapx": "1270314359",
+      "mapy": "376063360"
+    }
+  ]
+}

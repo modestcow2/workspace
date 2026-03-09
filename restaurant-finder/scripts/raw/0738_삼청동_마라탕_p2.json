@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마라공방 종각점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 109 2층",
+      "roadAddress": "서울특별시 종로구 우정국로 38-1 2층",
+      "mapx": "1269832476",
+      "mapy": "375724974"
+    },
+    {
+      "title": "황산샤브 요리명가 종로점",
+      "link": "https://web.coupangeats.com/share?storeId=172734&dishId&key=e1a60696-87e0-48a8-9485-5de12477014e",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 지하 102~105",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 지하 102~105",
+      "mapx": "1269818149",
+      "mapy": "375724015"
+    },
+    {
+      "title": "탕화쿵푸<b>마라탕</b> 종각점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-5 2층",
+      "roadAddress": "서울특별시 종로구 종로 70-1 2층",
+      "mapx": "1269852964",
+      "mapy": "375700049"
+    },
+    {
+      "title": "청킹마마",
+      "link": "https://www.lumi.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 18-10 2층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 29 2층",
+      "mapx": "1269845378",
+      "mapy": "375696958"
+    },
+    {
+      "title": "마라공방 종각2호점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 1층",
+      "mapx": "1269798224",
+      "mapy": "375708585"
+    }
+  ]
+}

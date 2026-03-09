@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "평안도식당 신촌점",
+      "link": "https://www.instagram.com/leejin3020",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 29-30 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 12 1층",
+      "mapx": "1269377470",
+      "mapy": "375570469"
+    },
+    {
+      "title": "24시 진선소고기<b>국밥</b> 신촌점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-77 지상1층",
+      "roadAddress": "서울특별시 서대문구 명물길 36-4 지상1층",
+      "mapx": "1269386220",
+      "mapy": "375581583"
+    },
+    {
+      "title": "신의주찹쌀순대 신촌점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-33",
+      "roadAddress": "서울특별시 서대문구 연세로4길 19",
+      "mapx": "1269378344",
+      "mapy": "375573574"
+    },
+    {
+      "title": "오천집 신촌점",
+      "link": "https://www.instagram.com/5000zip_official",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 72-6 1층 1호",
+      "roadAddress": "서울특별시 서대문구 신촌로 75 1층 1호",
+      "mapx": "1269348323",
+      "mapy": "375561154"
+    },
+    {
+      "title": "육전<b>국밥</b> 신촌점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-24 1층, 2층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 14 1층, 2층",
+      "mapx": "1269355289",
+      "mapy": "375570125"
+    }
+  ]
+}

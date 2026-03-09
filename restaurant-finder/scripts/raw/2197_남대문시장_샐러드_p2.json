@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "그리너 <b>남대문</b>점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
+    {
+      "title": "넬보스코 남촌빵집",
+      "link": "http://www.nelbosco.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-23 1층",
+      "roadAddress": "서울특별시 중구 퇴계로8길 16 1층",
+      "mapx": "1269797956",
+      "mapy": "375586861"
+    },
+    {
+      "title": "뭉치치카페",
+      "link": "https://www.instagram.com/cafe_mungchichi/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-2",
+      "roadAddress": "서울특별시 중구 남대문시장길 17",
+      "mapx": "1269769894",
+      "mapy": "375602313"
+    },
+    {
+      "title": "폴인포케 서울시청점",
+      "link": "https://fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
+      "mapx": "1269775175",
+      "mapy": "375623578"
+    },
+    {
+      "title": "알라보 <b>남대문</b>그랜드센트럴점",
+      "link": "",
+      "category": "음식점>도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 101호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 101호",
+      "mapx": "1269745359",
+      "mapy": "375577269"
+    }
+  ]
+}

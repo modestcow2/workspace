@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "능라밥상 광화문",
+      "link": "https://www.instagram.com/neungra_gwanghwamun",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 92 지하1층 B102호, B104호",
+      "roadAddress": "서울특별시 종로구 새문안로 58 지하1층 B102호, B104호",
+      "mapx": "1269715861",
+      "mapy": "375693106"
+    },
+    {
+      "title": "학교앞분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 170 동서한의원",
+      "roadAddress": "서울특별시 종로구 새문안로 39-1 동서한의원",
+      "mapx": "1269695106",
+      "mapy": "375688274"
+    }
+  ]
+}

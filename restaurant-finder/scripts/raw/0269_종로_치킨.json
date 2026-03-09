@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:19 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:31:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375693668"
     },
     {
-      "title": "왕초바베큐 <b>종로</b>점",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
+      "title": "달맞이광장바베큐",
+      "link": "https://app.catchtable.co.kr/ct/shop/dalmajiplaza_bbq?from=share&type=WAITING",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 19-16 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로17길 46 1층",
-      "mapx": "1269849531",
-      "mapy": "375692916"
+      "address": "서울특별시 중구 을지로3가 343-11 1층",
+      "roadAddress": "서울특별시 중구 을지로 112-1 1층",
+      "mapx": "1269904910",
+      "mapy": "375658502"
     }
   ]
 }

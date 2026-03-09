@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "목란",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-28",
+      "roadAddress": "서울특별시 서대문구 연희로15길 21",
+      "mapx": "1269304986",
+      "mapy": "375683712"
+    },
+    {
+      "title": "이품",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-19",
+      "roadAddress": "서울특별시 서대문구 연희로11길 20",
+      "mapx": "1269300765",
+      "mapy": "375675500"
+    },
+    {
+      "title": "편의방",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-94",
+      "roadAddress": "서울특별시 서대문구 연희로 36",
+      "mapx": "1269275231",
+      "mapy": "375617816"
+    },
+    {
+      "title": "일화성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 141-34",
+      "roadAddress": "서울특별시 서대문구 연희로36길 26",
+      "mapx": "1269369249",
+      "mapy": "375782499"
+    },
+    {
+      "title": "양밍산",
+      "link": "https://www.instagram.com/yangming_san",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 727",
+      "roadAddress": "서울특별시 서대문구 가좌로 36",
+      "mapx": "1269318946",
+      "mapy": "375776880"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "북창옥 시청 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 60 1~4층",
+      "roadAddress": "서울특별시 중구 남대문로1길 38 1~4층",
+      "mapx": "1269774247",
+      "mapy": "375627917"
+    },
+    {
+      "title": "금성관 나주곰탕",
+      "link": "http://m.smartstore.naver.com/slow_naju",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 96 청남빌딩",
+      "roadAddress": "서울특별시 중구 남대문로 29 청남빌딩",
+      "mapx": "1269789044",
+      "mapy": "375613997"
+    },
+    {
+      "title": "희락갈치",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-34",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-6",
+      "mapx": "1269770942",
+      "mapy": "375599042"
+    },
+    {
+      "title": "보승회관 시청점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-2",
+      "roadAddress": "서울특별시 중구 세종대로 66",
+      "mapx": "1269765651",
+      "mapy": "375621823"
+    }
+  ]
+}

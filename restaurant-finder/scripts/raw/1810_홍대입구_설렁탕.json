@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "한우명가",
+      "link": "http://한우명가.net/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-111",
+      "roadAddress": "서울특별시 서대문구 연희로 46-1",
+      "mapx": "1269281150",
+      "mapy": "375627970"
+    },
+    {
+      "title": "신선설 농탕 <b>홍대</b>역점",
+      "link": "https://www.shinsunseolnongtang.co.kr",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 163-9 준봉빌딩 1층 일부호",
+      "roadAddress": "서울특별시 마포구 홍익로6길 10 준봉빌딩 1층 일부호",
+      "mapx": "1269226309",
+      "mapy": "375550282"
+    },
+    {
+      "title": "백년육일집",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 374-10 1층 백년육일집",
+      "roadAddress": "서울특별시 마포구 양화로 99 1층 백년육일집",
+      "mapx": "1269181577",
+      "mapy": "375529716"
+    },
+    {
+      "title": "도온정 <b>홍대</b>직영점",
+      "link": "https://www.instagram.com/donjung_hd?igsh=dGRuMGd1c2Ixd2c=",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 201-49 1층",
+      "roadAddress": "서울특별시 마포구 동교로 183-12 1층",
+      "mapx": "1269214142",
+      "mapy": "375574457"
+    },
+    {
+      "title": "푸주옥 <b>홍대</b>점",
+      "link": "https://www.instagram.com/puzuok_gogo?igsh=YXFpZm5pbWxtcjA1",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 449-14 1층",
+      "roadAddress": "서울특별시 마포구 월드컵북로 35 1층",
+      "mapx": "1269184726",
+      "mapy": "375575643"
+    }
+  ]
+}

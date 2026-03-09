@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "하늘초밥",
+      "link": "http://instagram.com/sorasky0616",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 45-17 1층 하늘초밥",
+      "roadAddress": "서울특별시 서대문구 이화여대2길 14 1층 하늘초밥",
+      "mapx": "1269467199",
+      "mapy": "375573422"
+    },
+    {
+      "title": "먼동",
+      "link": "https://catchtable.co.kr/meondong",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 19-52 2층",
+      "roadAddress": "서울특별시 마포구 백범로1길 60 2층",
+      "mapx": "1269399018",
+      "mapy": "375554391"
+    },
+    {
+      "title": "스미스미",
+      "link": "https://catchtable.co.kr/smismi__",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 33-14 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 56-3 1층",
+      "mapx": "1269452040",
+      "mapy": "375593698"
+    },
+    {
+      "title": "북아현로69초밥",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 180-9",
+      "roadAddress": "서울특별시 서대문구 북아현로 69",
+      "mapx": "1269547219",
+      "mapy": "375632755"
+    },
+    {
+      "title": "스시온기",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 대흥동 12-41 101호 스시온기",
+      "roadAddress": "서울특별시 마포구 신촌로 160 101호 스시온기",
+      "mapx": "1269433024",
+      "mapy": "375563141"
+    }
+  ]
+}

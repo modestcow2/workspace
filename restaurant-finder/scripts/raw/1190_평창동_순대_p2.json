@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:28 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "순평옥",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 512-7 1층",
+      "roadAddress": "서울특별시 종로구 평창20길 41 1층",
+      "mapx": "1269707545",
+      "mapy": "376104692"
+    },
+    {
+      "title": "사발떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 957-17",
+      "roadAddress": "서울특별시 성북구 정릉로6길 45",
+      "mapx": "1269941028",
+      "mapy": "376103296"
+    },
+    {
+      "title": "대가곱창",
+      "link": "http://instagram.com/daegagobcang",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-1143 1층 대가곱창",
+      "roadAddress": "서울특별시 종로구 명륜길 53 1층 대가곱창",
+      "mapx": "1269943181",
+      "mapy": "375892678"
+    },
+    {
+      "title": "수미감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-189 1층",
+      "roadAddress": "서울특별시 종로구 명륜길 46 1층",
+      "mapx": "1269948637",
+      "mapy": "375890910"
+    },
+    {
+      "title": "도담도담",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신영동 45 도담도담",
+      "roadAddress": "서울특별시 종로구 세검정로9길 11 도담도담",
+      "mapx": "1269612700",
+      "mapy": "376036948"
+    }
+  ]
+}

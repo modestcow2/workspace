@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
+    },
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
+      "mapx": "1269814921",
+      "mapy": "375880187"
+    },
+    {
+      "title": "연남토마 북촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yntm_bc",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39 1층",
+      "mapx": "1269827234",
+      "mapy": "375793518"
+    },
+    {
+      "title": "PKM가든 레스토랑",
+      "link": "https://catchtable.co.kr/pkm_restaurant",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
+      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
+      "mapx": "1269801406",
+      "mapy": "375841122"
+    },
+    {
+      "title": "일사삼",
+      "link": "http://app.catchtable.co.kr/ct/shop/143",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-17",
+      "roadAddress": "서울특별시 종로구 북촌로 143",
+      "mapx": "1269823930",
+      "mapy": "375871094"
+    }
+  ]
+}

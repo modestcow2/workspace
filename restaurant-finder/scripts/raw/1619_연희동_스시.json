@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>연희동</b> 와쇼쿠",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-89 반지하 1층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 12 반지하 1층",
+      "mapx": "1269291365",
+      "mapy": "375662188"
+    },
+    {
+      "title": "강수사",
+      "link": "https://www.instagram.com/gangjeongho6113",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 81-16 여흥빌딩",
+      "roadAddress": "서울특별시 서대문구 연희로 157 여흥빌딩",
+      "mapx": "1269342813",
+      "mapy": "375713773"
+    },
+    {
+      "title": "<b>스시</b>마쯔",
+      "link": "http://m.blog.naver.com/sushimatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 79-31",
+      "roadAddress": "서울특별시 서대문구 연희로 166",
+      "mapx": "1269351965",
+      "mapy": "375719056"
+    },
+    {
+      "title": "하나노세이슌",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 191-4 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 56 1층",
+      "mapx": "1269272030",
+      "mapy": "375663034"
+    },
+    {
+      "title": "아에",
+      "link": "https://www.instagram.com/yhd_ae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-6 1층 203호",
+      "roadAddress": "서울특별시 서대문구 연희맛로 7-17 1층 203호",
+      "mapx": "1269281525",
+      "mapy": "375662851"
+    }
+  ]
+}

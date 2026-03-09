@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남문아바이왕<b>순대</b>탕 남대문시장점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 48-8 2층",
+      "roadAddress": "서울특별시 중구 남대문시장4길 31-2 2층",
+      "mapx": "1269774068",
+      "mapy": "375586258"
+    },
+    {
+      "title": "영도국밥집",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 48-11",
+      "roadAddress": "서울특별시 중구 남대문시장4길 39",
+      "mapx": "1269773255",
+      "mapy": "375584453"
+    },
+    {
+      "title": "애니떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-121",
+      "roadAddress": "서울특별시 중구 남대문시장4길 12",
+      "mapx": "1269771930",
+      "mapy": "375596915"
+    },
+    {
+      "title": "김명숙아지매<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-46",
+      "roadAddress": "서울특별시 중구 퇴계로 62-2",
+      "mapx": "1269791892",
+      "mapy": "375590113"
+    },
+    {
+      "title": "광화문국밥 신세계백화점 본점",
+      "link": "https://www.instagram.com/manseolfood_official",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 신세계백화점 본점 디에스테이트 13층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 신세계백화점 본점 디에스테이트 13층",
+      "mapx": "1269805433",
+      "mapy": "375601749"
+    }
+  ]
+}

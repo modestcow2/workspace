@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "애호락 안국본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
+      "title": "정담은<b>보쌈</b> 북촌점",
+      "link": "http://jungdamun-bukchon.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 104-4",
+      "roadAddress": "서울특별시 종로구 계동길 33-9",
+      "mapx": "1269861281",
+      "mapy": "375788056"
+    },
+    {
+      "title": "진작 카키",
+      "link": "https://naver.me/xWzWzIYt",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-44 진작카키 안국점",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 38 진작카키 안국점",
+      "mapx": "1269871165",
+      "mapy": "375794798"
+    },
+    {
+      "title": "삼해집 종로점",
+      "link": "http://www.samhae1.kr",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 42",
+      "roadAddress": "서울특별시 종로구 수표로20길 16-15",
+      "mapx": "1269909814",
+      "mapy": "375699683"
+    },
+    {
+      "title": "종로 흥부가",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 40 1층",
+      "roadAddress": "서울특별시 종로구 수표로20길 22 1층",
+      "mapx": "1269908525",
+      "mapy": "375699114"
+    }
+  ]
+}

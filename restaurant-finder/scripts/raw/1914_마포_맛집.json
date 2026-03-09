@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미도인 홍대",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 366-24 1층",
+      "roadAddress": "서울특별시 마포구 잔다리로2길 19 1층",
+      "mapx": "1269209717",
+      "mapy": "375516919"
+    },
+    {
+      "title": "피자네버슬립스 합정상수점",
+      "link": "https://www.instagram.com/never_sleeps_pizza_hongdae/",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 400-13",
+      "roadAddress": "서울특별시 마포구 양화로6길 73",
+      "mapx": "1269182982",
+      "mapy": "375486179"
+    },
+    {
+      "title": "레이몬드 홍대점",
+      "link": "https://catchtable.co.kr/raymond",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 168-7 1층",
+      "roadAddress": "서울특별시 마포구 양화로18안길 15 1층",
+      "mapx": "1269254106",
+      "mapy": "375568888"
+    },
+    {
+      "title": "서담헌 홍대본점",
+      "link": "https://www.youtube.com/@%EA%B0%80%EC%A7%80%ED%8A%80%EA%B9%80%EB%A7%A8",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 113-22 1층 서담헌",
+      "roadAddress": "서울특별시 마포구 연희로1길 40-3 1층 서담헌",
+      "mapx": "1269260202",
+      "mapy": "375606598"
+    },
+    {
+      "title": "카츠스위스",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-12 1, 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 6 1, 2층",
+      "mapx": "1269246924",
+      "mapy": "375616511"
+    }
+  ]
+}

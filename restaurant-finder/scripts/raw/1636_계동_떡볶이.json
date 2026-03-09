@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "모퉁이네",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 79-8",
+      "roadAddress": "서울특별시 종로구 계동길 67",
+      "mapx": "1269866828",
+      "mapy": "375803123"
+    },
+    {
+      "title": "삼동소바 북촌점",
+      "link": "https://www.instagram.com/samdong_bukchon",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 13 비03호",
+      "roadAddress": "서울특별시 종로구 계동길 119-1 비03호",
+      "mapx": "1269866762",
+      "mapy": "375825823"
+    },
+    {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    },
+    {
+      "title": "종로수제비 <b>계동</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 145 종로수제비 점",
+      "roadAddress": "서울특별시 종로구 계동길 11 (계동) 종로수제비 계동점",
+      "mapx": "1269866545",
+      "mapy": "375778450"
+    },
+    {
+      "title": "배떡 로제<b>떡볶이</b> 종로점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
+      "roadAddress": "서울특별시 종로구 북촌로 35-4",
+      "mapx": "1269847145",
+      "mapy": "375798137"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "부오상회 을지로점",
+      "link": "https://www.instagram.com/buosanghe_euljiro?igsh=cjdmN21zYW83MTYx",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-11 1층 부오상회 을지로점",
+      "roadAddress": "서울특별시 중구 수표로10길 5-5 1층 부오상회 을지로점",
+      "mapx": "1269906230",
+      "mapy": "375638455"
+    },
+    {
+      "title": "이조식탁",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 72-6 2층",
+      "roadAddress": "서울특별시 중구 마른내로 14 2층",
+      "mapx": "1269893997",
+      "mapy": "375646833"
+    },
+    {
+      "title": "진고개",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 30-16",
+      "roadAddress": "서울특별시 중구 충무로 19-1",
+      "mapx": "1269928326",
+      "mapy": "375630108"
+    },
+    {
+      "title": "영동골방",
+      "link": "https://app.catchtable.co.kr/ct/shop/youngdonggoll_b",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 37-1 1층",
+      "roadAddress": "서울특별시 중구 필동로 25 1층",
+      "mapx": "1269963623",
+      "mapy": "375593600"
+    },
+    {
+      "title": "153구포국수 <b>충무로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 36-2 1층 102호",
+      "roadAddress": "서울특별시 중구 퇴계로 188 1층 102호",
+      "mapx": "1269925060",
+      "mapy": "375609014"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "코야코",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 128-5 1층 코야코",
+      "roadAddress": "서울특별시 종로구 동숭길 68 1층 코야코",
+      "mapx": "1270042899",
+      "mapy": "375812929"
+    },
+    {
+      "title": "나누미떡볶이 성대본점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 225",
+      "roadAddress": "서울특별시 종로구 성균관로 9-1",
+      "mapx": "1269979068",
+      "mapy": "375837668"
+    },
+    {
+      "title": "둘리네<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 144",
+      "roadAddress": "서울특별시 종로구 창경궁로34길 15",
+      "mapx": "1270011471",
+      "mapy": "375843779"
+    },
+    {
+      "title": "혜화돌쇠아저씨",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 23",
+      "roadAddress": "서울특별시 종로구 대학로 129-8",
+      "mapx": "1270013415",
+      "mapy": "375828219"
+    },
+    {
+      "title": "동심떡볶이 대왕수제튀김 <b>대학로</b>본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 140-2 1층",
+      "roadAddress": "서울특별시 종로구 성균관로5길 5 1층",
+      "mapx": "1269971346",
+      "mapy": "375843507"
+    }
+  ]
+}

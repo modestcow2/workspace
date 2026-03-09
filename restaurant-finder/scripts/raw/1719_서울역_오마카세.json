@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:39 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대보정 서울시청역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
+      "title": "스시 다이이치",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushi_daiichi",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 631 서울역LG빌딩 B1층 103호",
+      "roadAddress": "서울특별시 중구 후암로 98 서울역LG빌딩 B1층 103호",
+      "mapx": "1269748643",
+      "mapy": "375539640"
+    },
+    {
+      "title": "서울로인 <b>서울역</b>점",
+      "link": "https://www.openine.com/PARTY",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 541 서울스퀘어 지하1층 18호",
+      "roadAddress": "서울특별시 중구 한강대로 416 서울스퀘어 지하1층 18호",
+      "mapx": "1269737678",
+      "mapy": "375555057"
+    },
+    {
+      "title": "야키토리혼바",
+      "link": "https://app.catchtable.co.kr/ct/shop/honba_kr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 2-5 3층",
+      "roadAddress": "서울특별시 용산구 후암로 79 3층",
+      "mapx": "1269764372",
+      "mapy": "375528666"
+    },
+    {
+      "title": "다이닝아오",
+      "link": "https://app.catchtable.co.kr/ct/shop/dining_ao",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 1층 112호",
+      "roadAddress": "서울특별시 중구 칠패로 27 1층 112호",
+      "mapx": "1269720478",
+      "mapy": "375600687"
+    }
+  ]
+}

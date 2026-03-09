@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "등촌샤브칼국수 신촌점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 4-77 1층 등촌샤브칼국수 신촌점",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층 등촌샤브칼국수 신촌점",
+      "mapx": "1269407741",
+      "mapy": "375589692"
+    },
+    {
+      "title": "청년밥상문간 이화여자대학교점",
+      "link": "http://youthmungan.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-19 지하 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 52-39 지하 1층",
+      "mapx": "1269451736",
+      "mapy": "375594303"
+    },
+    {
+      "title": "슭돈 이대역본점",
+      "link": "https://www.instagram.com/ssgdon_official",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 40-39 1층 슭돈 이대역본점",
+      "roadAddress": "서울특별시 서대문구 신촌로 169 1층 슭돈 이대역본점",
+      "mapx": "1269448787",
+      "mapy": "375569572"
+    },
+    {
+      "title": "영미김밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-7 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 21 1층",
+      "mapx": "1269425818",
+      "mapy": "375586428"
+    },
+    {
+      "title": "모미지식당",
+      "link": "http://www.instagram.com/momiji_cook",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 37-75 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대7길 24 2층",
+      "mapx": "1269443563",
+      "mapy": "375588103"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>평창동</b>의봄",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 512-7 1층",
+      "roadAddress": "서울특별시 종로구 평창20길 41 1층",
+      "mapx": "1269707545",
+      "mapy": "376104692"
+    },
+    {
+      "title": "강촌쌈밥",
+      "link": "",
+      "category": "한식>쌈밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 460-1 강촌쌈밥",
+      "roadAddress": "서울특별시 종로구 평창30길 9 강촌쌈밥",
+      "mapx": "1269747212",
+      "mapy": "376108914"
+    },
+    {
+      "title": "두레유",
+      "link": "http://www.dooreyoo.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 193-1 전진빌딩 2층",
+      "roadAddress": "서울특별시 종로구 평창문화로 84 전진빌딩 2층",
+      "mapx": "1269704985",
+      "mapy": "376065697"
+    },
+    {
+      "title": "톰소야",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 229-4",
+      "roadAddress": "서울특별시 종로구 평창문화로 56",
+      "mapx": "1269675399",
+      "mapy": "376057310"
+    },
+    {
+      "title": "석파랑",
+      "link": "http://www.instagram.com/seokparang",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 125-2",
+      "roadAddress": "서울특별시 종로구 자하문로 309",
+      "mapx": "1269583766",
+      "mapy": "375994314"
+    }
+  ]
+}

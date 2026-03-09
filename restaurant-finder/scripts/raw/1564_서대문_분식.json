@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "가미<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 54-1 무궁화상가아파트",
+      "roadAddress": "서울특별시 서대문구 이화여대8길 2 무궁화상가아파트",
+      "mapx": "1269460024",
+      "mapy": "375586996"
+    },
+    {
+      "title": "철길떡볶기",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 150-1",
+      "roadAddress": "서울특별시 서대문구 충정로5길 11",
+      "mapx": "1269634943",
+      "mapy": "375626500"
+    },
+    {
+      "title": "이정희떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 341-1",
+      "roadAddress": "서울특별시 서대문구 증가로10길 14",
+      "mapx": "1269233090",
+      "mapy": "375780830"
+    },
+    {
+      "title": "유자유김치떡볶이 신촌점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-156",
+      "roadAddress": "서울특별시 서대문구 연세로11길 22",
+      "mapx": "1269356093",
+      "mapy": "375590089"
+    },
+    {
+      "title": "카우떡볶이",
+      "link": "https://smartstore.naver.com/greenbadge/products/7691485943",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-40 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 88-21 1층",
+      "mapx": "1269439510",
+      "mapy": "375595837"
+    }
+  ]
+}

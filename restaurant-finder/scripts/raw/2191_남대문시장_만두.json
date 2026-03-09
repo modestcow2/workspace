@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "가메골손왕<b>만두</b> <b>남대문</b>본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
+    },
+    {
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
+    },
+    {
+      "title": "효자손왕<b>만두</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-128",
+      "roadAddress": "서울특별시 중구 남대문시장4길 14-1",
+      "mapx": "1269771810",
+      "mapy": "375595481"
+    },
+    {
+      "title": "유가",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 117-5",
+      "roadAddress": "서울특별시 중구 퇴계로12길 68",
+      "mapx": "1269814671",
+      "mapy": "375566901"
+    },
+    {
+      "title": "행화촌",
+      "link": "http://henghwachon.cityfood.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 107-1",
+      "roadAddress": "서울특별시 중구 남대문로 52-5",
+      "mapx": "1269817245",
+      "mapy": "375621053"
+    }
+  ]
+}

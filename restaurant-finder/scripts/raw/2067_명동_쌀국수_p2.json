@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "띤띤 SFC",
+      "link": "https://www.instagram.com/tamarind_official/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFCMALL B2",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
+      "mapx": "1269782820",
+      "mapy": "375684612"
+    },
+    {
+      "title": "타이24",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-64 3층",
+      "roadAddress": "서울특별시 중구 명동9길 33 3층",
+      "mapx": "1269841157",
+      "mapy": "375652430"
+    },
+    {
+      "title": "꾸에흐엉",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 15-10 2층",
+      "roadAddress": "서울특별시 중구 퇴계로20길 19 2층",
+      "mapx": "1269859338",
+      "mapy": "375593818"
+    },
+    {
+      "title": "반포식스 서울시청점",
+      "link": "http://www.banhpho6.com",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 24-2 휘닉스빌딩 3층",
+      "roadAddress": "서울특별시 중구 무교로 13 휘닉스빌딩 3층",
+      "mapx": "1269790515",
+      "mapy": "375671662"
+    },
+    {
+      "title": "헤이준<b>쌀국수</b> 스테이트타워 <b>명동</b>점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동2가 88 B102호",
+      "roadAddress": "서울특별시 중구 퇴계로 100 B102호",
+      "mapx": "1269829284",
+      "mapy": "375602055"
+    }
+  ]
+}

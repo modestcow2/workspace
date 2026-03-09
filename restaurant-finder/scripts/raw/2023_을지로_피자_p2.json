@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더 시옷",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesiot",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-15 OK빌딩 2층",
+      "roadAddress": "서울특별시 중구 수표로 30 OK빌딩 2층",
+      "mapx": "1269903062",
+      "mapy": "375638355"
+    },
+    {
+      "title": "레코드<b>피자</b> <b>을지로</b>3가점",
+      "link": "https://www.instagram.com/recordpizza_euljiro3",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 342-2 1층 레코드피자 점",
+      "roadAddress": "서울특별시 중구 을지로 114-2 1층 레코드피자 을지로3가점",
+      "mapx": "1269905889",
+      "mapy": "375660514"
+    },
+    {
+      "title": "경일옥 핏제리아",
+      "link": "http://www.instagram.com/kyungiloak_pizzeria",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 282-7",
+      "roadAddress": "서울특별시 중구 을지로16길 2-1",
+      "mapx": "1269935451",
+      "mapy": "375661358"
+    },
+    {
+      "title": "20 어클락 모먼트",
+      "link": "https://www.instagram.com/twenty_moment/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 77 은희네해장국 건물 2층 20어클락모먼트",
+      "roadAddress": "서울특별시 중구 창경궁로5길 5 은희네해장국 건물 2층 20어클락모먼트",
+      "mapx": "1269977467",
+      "mapy": "375670765"
+    },
+    {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    }
+  ]
+}

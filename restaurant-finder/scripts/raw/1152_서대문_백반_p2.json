@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "리정원 신촌점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-26 1층 리정원",
+      "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
+      "mapx": "1269393882",
+      "mapy": "375591466"
+    },
+    {
+      "title": "선어도 충정로점",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 360-26 1층",
+      "roadAddress": "서울특별시 서대문구 충정로 18 1층",
+      "mapx": "1269634729",
+      "mapy": "375605788"
+    },
+    {
+      "title": "신촌고기창고",
+      "link": "https://app.catchtable.co.kr/ct/shop/sinchongogichanggo?from=share&type=DINING",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-78",
+      "roadAddress": "서울특별시 서대문구 연세로7길 34-4",
+      "mapx": "1269350635",
+      "mapy": "375578649"
+    },
+    {
+      "title": "고삼이 신촌점",
+      "link": "https://youtube.com/@user-hi6kz5xp8j?si=EhJwsFQCJwzP2z_-",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-8 고삼이",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 38 고삼이",
+      "mapx": "1269347130",
+      "mapy": "375583079"
+    },
+    {
+      "title": "나주어반",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-38",
+      "roadAddress": "서울특별시 서대문구 연세로2마길 29",
+      "mapx": "1269420575",
+      "mapy": "375583949"
+    }
+  ]
+}

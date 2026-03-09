@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "로봇김밥 이마빌딩점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 지하1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 지하1층",
+      "mapx": "1269789959",
+      "mapy": "375739044"
+    },
+    {
+      "title": "미고",
+      "link": "http://cityfood.co.kr/h9/migo",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 80 코리안리재보험",
+      "roadAddress": "서울특별시 종로구 종로5길 68 코리안리재보험",
+      "mapx": "1269804292",
+      "mapy": "375734595"
+    },
+    {
+      "title": "명화당 명동1호점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-3 2층",
+      "roadAddress": "서울특별시 중구 명동4길 30 2층",
+      "mapx": "1269837950",
+      "mapy": "375623945"
+    },
+    {
+      "title": "꼬소한부뚜막 광화문광장점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 150-1 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
+      "mapx": "1269756633",
+      "mapy": "375715135"
+    },
+    {
+      "title": "병아리김밥 명동점",
+      "link": "https://chickgimbapmd.com/",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 3-3 지하1층",
+      "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
+      "mapx": "1269855893",
+      "mapy": "375629999"
+    }
+  ]
+}

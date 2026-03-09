@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "안동장",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 315-1",
+      "roadAddress": "서울특별시 중구 을지로 124",
+      "mapx": "1269915576",
+      "mapy": "375661354"
+    },
+    {
+      "title": "오구반점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 5-9",
+      "roadAddress": "서울특별시 중구 수표로 60",
+      "mapx": "1269898496",
+      "mapy": "375665179"
+    },
+    {
+      "title": "아따 중구 <b>을지로</b>",
+      "link": "https://www.instagram.com/adda.sagyopub",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 302-4 1층, 지하 아따 중구 을지로",
+      "roadAddress": "서울특별시 중구 충무로5길 14 1층, 지하 아따 중구 을지로",
+      "mapx": "1269919535",
+      "mapy": "375653061"
+    },
+    {
+      "title": "가야성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-38",
+      "roadAddress": "서울특별시 중구 을지로9길 6",
+      "mapx": "1269884960",
+      "mapy": "375664670"
+    },
+    {
+      "title": "무궁화반점 던던 동대문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 21-31 던던 백화점 8층 1호",
+      "roadAddress": "서울특별시 중구 을지로 264 던던 백화점 8층 1호",
+      "mapx": "1270070531",
+      "mapy": "375657367"
+    }
+  ]
+}

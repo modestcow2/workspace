@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "수인 <b>인사동</b> 닭한마리 본점",
+      "link": "https://catchtable.co.kr/suin_seoul",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 경운동 66-11 1층 인사동 닭한마리",
+      "roadAddress": "서울특별시 종로구 인사동10길 23-8 1층 인사동 닭한마리",
+      "mapx": "1269861953",
+      "mapy": "375747933"
+    },
+    {
+      "title": "가마솥닭한마리 종각역점",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 9 2층",
+      "roadAddress": "서울특별시 종로구 우정국로 36 2층",
+      "mapx": "1269832791",
+      "mapy": "375721784"
+    },
+    {
+      "title": "음식이야기밥",
+      "link": "https://www.instagram.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-26 음식이야기밥",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-8 음식이야기밥",
+      "mapx": "1269839460",
+      "mapy": "375753490"
+    },
+    {
+      "title": "장수<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 236-1 낙원빌딩 2층 장수삼계탕",
+      "roadAddress": "서울특별시 종로구 종로17길 52 낙원빌딩 2층 장수삼계탕",
+      "mapx": "1269885250",
+      "mapy": "375724917"
+    },
+    {
+      "title": "보승회관 종각역점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 16-5",
+      "roadAddress": "서울특별시 종로구 종로 70",
+      "mapx": "1269851564",
+      "mapy": "375698997"
+    }
+  ]
+}

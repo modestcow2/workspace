@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "브라운 에비뉴",
+      "link": "http://www.instagram.com/brown_avenue",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 237 아남 주상복합 301동 112호",
+      "roadAddress": "서울특별시 종로구 혜화로3길 5 아남 주상복합 301동 112호",
+      "mapx": "1270003023",
+      "mapy": "375858347"
+    },
+    {
+      "title": "오베베 베이커리 <b>대학로</b>점",
+      "link": "https://www.instagram.com/bakeryobb/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 118-9 1층",
+      "roadAddress": "서울특별시 종로구 대학로9길 28 1층",
+      "mapx": "1270004362",
+      "mapy": "375817369"
+    },
+    {
+      "title": "라온섬",
+      "link": "https://www.instagram.com/raonsome_cafe",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 123-2 성균관대학교 정문 맞은편, 한옥건물",
+      "roadAddress": "서울특별시 종로구 성균관로 24-2 성균관대학교 정문 맞은편, 한옥건물",
+      "mapx": "1269973281",
+      "mapy": "375849323"
+    },
+    {
+      "title": "이공오도씨",
+      "link": "https://www.이공오도씨.com/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 112 1층",
+      "roadAddress": "서울특별시 종로구 성균관로4길 5 1층",
+      "mapx": "1269977713",
+      "mapy": "375845996"
+    },
+    {
+      "title": "빌런치팬케이크",
+      "link": "https://www.instagram.com/billunch_pancake",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 75 1층 좌측호, 빌런치팬케이크",
+      "roadAddress": "서울특별시 종로구 대학로11길 34-1 1층 좌측호, 빌런치팬케이크",
+      "mapx": "1269998752",
+      "mapy": "375823953"
+    }
+  ]
+}

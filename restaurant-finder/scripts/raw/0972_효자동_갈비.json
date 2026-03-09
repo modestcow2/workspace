@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:03:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "안전가옥",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 47-105 .1층",
+      "roadAddress": "서울특별시 종로구 필운대로9나길 3 .1층",
+      "mapx": "1269670796",
+      "mapy": "375824570"
+    },
+    {
+      "title": "창성<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 136",
+      "roadAddress": "서울특별시 종로구 자하문로 40-1",
+      "mapx": "1269715716",
+      "mapy": "375796602"
+    },
+    {
+      "title": "온지음 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
+      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
+      "mapx": "1269734438",
+      "mapy": "375804848"
+    },
+    {
+      "title": "사계항",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 260 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 29 1층",
+      "mapx": "1269689165",
+      "mapy": "375785725"
+    },
+    {
+      "title": "성원통고깃집",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-14 1층 성원통고깃집",
+      "roadAddress": "서울특별시 종로구 자하문로 33-5 1층 성원통고깃집",
+      "mapx": "1269710452",
+      "mapy": "375788761"
+    }
+  ]
+}

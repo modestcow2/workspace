@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:45 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "비타포",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 24 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 7-3 1층",
+      "mapx": "1270067350",
+      "mapy": "375891870"
+    },
+    {
+      "title": "디디",
+      "link": "https://www.instagram.com/didi_seoul/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 68-1 2층",
+      "roadAddress": "서울특별시 성북구 성북로 19-1 2층",
+      "mapx": "1270043249",
+      "mapy": "375897616"
+    },
+    {
+      "title": "뎁짜이 대학로점",
+      "link": "http://www.instagram.com/dep_trai_korea",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 170-2 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 41-4 1층",
+      "mapx": "1269992354",
+      "mapy": "375823969"
+    },
+    {
+      "title": "포썸",
+      "link": "https://app.catchtable.co.kr/ct/shop/phosome_by_chanu",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동4가 111-1 1층 포썸",
+      "roadAddress": "서울특별시 성북구 동소문로 125 1층 포썸",
+      "mapx": "1270182308",
+      "mapy": "375941649"
+    },
+    {
+      "title": "아로포 <b>쌀국수</b>",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 176-1 2층",
+      "roadAddress": "서울특별시 종로구 대학로11길 46 2층",
+      "mapx": "1269994586",
+      "mapy": "375826021"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:09:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "창성<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 136",
+      "roadAddress": "서울특별시 종로구 자하문로 40-1",
+      "mapx": "1269715716",
+      "mapy": "375796602"
+    },
+    {
+      "title": "온지음 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
+      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
+      "mapx": "1269734438",
+      "mapy": "375804848"
+    },
+    {
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "심경희라라랜드 광화문",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 113~116호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
+      "mapx": "1269824621",
+      "mapy": "375726226"
+    },
+    {
+      "title": "통의동 국빈관 경복궁역점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 38 1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
+      "mapx": "1269738782",
+      "mapy": "375766155"
+    }
+  ]
+}

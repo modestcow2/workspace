@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라 스위스 서촌",
+      "link": "https://blog.naver.com/ysimkim",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 25-2 끄레아주차장 안",
+      "roadAddress": "서울특별시 종로구 자하문로6길 11-36 끄레아주차장 안",
+      "mapx": "1269726212",
+      "mapy": "375786629"
+    },
+    {
+      "title": "오스테리아소띠",
+      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 91-38",
+      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
+      "mapx": "1269722295",
+      "mapy": "375789547"
+    },
+    {
+      "title": "까사 이태리아",
+      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
+      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
+      "mapx": "1269723542",
+      "mapy": "375787841"
+    },
+    {
+      "title": "The 94",
+      "link": "http://www.instagram.com/the94_official",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 94",
+      "roadAddress": "서울특별시 종로구 자하문로10길 10-32",
+      "mapx": "1269719137",
+      "mapy": "375789858"
+    },
+    {
+      "title": "만석꾼",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 43-3",
+      "roadAddress": "서울특별시 종로구 자하문로2길 9",
+      "mapx": "1269732552",
+      "mapy": "375765769"
+    }
+  ]
+}

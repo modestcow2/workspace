@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "농민백암순대 시청직영점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 19-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 33",
+      "mapx": "1269772550",
+      "mapy": "375626099"
+    },
+    {
+      "title": "은호식당",
+      "link": "https://www.instagram.com/eunho1932?igsh=amhxc2JtYnZqazU3",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-42 은호식당",
+      "roadAddress": "서울특별시 중구 남대문시장4길 28-4 은호식당",
+      "mapx": "1269770705",
+      "mapy": "375590023"
+    },
+    {
+      "title": "금성관 나주곰탕",
+      "link": "http://m.smartstore.naver.com/slow_naju",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 96 청남빌딩",
+      "roadAddress": "서울특별시 중구 남대문로 29 청남빌딩",
+      "mapx": "1269789044",
+      "mapy": "375613997"
+    },
+    {
+      "title": "영도<b>국밥</b>집",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 48-11",
+      "roadAddress": "서울특별시 중구 남대문시장4길 39",
+      "mapx": "1269773255",
+      "mapy": "375584453"
+    },
+    {
+      "title": "서울한우 <b>남대문</b>점",
+      "link": "https://blog.naver.com/seoulhanwoo",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 199-6 2층 서울한우 남대문",
+      "roadAddress": "서울특별시 중구 남대문시장길 61 2층 서울한우 남대문",
+      "mapx": "1269794428",
+      "mapy": "375606907"
+    }
+  ]
+}

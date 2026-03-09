@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "화목순대국전문 광화문1호점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 40",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11",
+      "mapx": "1269747764",
+      "mapy": "375712514"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
+      "title": "아이노가든키친",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-9 2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
+      "mapx": "1269712704",
+      "mapy": "375728324"
+    },
+    {
+      "title": "광화문정육",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 21-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
+      "mapx": "1269756171",
+      "mapy": "375712733"
+    },
+    {
+      "title": "광화문더덕순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 38-2",
+      "roadAddress": "서울특별시 종로구 새문안로5길 10",
+      "mapx": "1269750695",
+      "mapy": "375710722"
+    }
+  ]
+}

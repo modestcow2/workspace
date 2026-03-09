@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대평갈비",
+      "link": "http://daepyeonggalbi.com",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 153-1",
+      "roadAddress": "서울특별시 종로구 평창문화로 83",
+      "mapx": "1269701961",
+      "mapy": "376069386"
+    },
+    {
+      "title": "<b>평창동</b>의봄",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 512-7 1층",
+      "roadAddress": "서울특별시 종로구 평창20길 41 1층",
+      "mapx": "1269707545",
+      "mapy": "376104692"
+    },
+    {
+      "title": "강경<b>불고기</b> 종로<b>평창동</b>점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 66-32",
+      "roadAddress": "서울특별시 종로구 평창문화로 130",
+      "mapx": "1269742978",
+      "mapy": "376091828"
+    },
+    {
+      "title": "한우향기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 146-8",
+      "roadAddress": "서울특별시 종로구 비봉길 45",
+      "mapx": "1269560222",
+      "mapy": "376123961"
+    },
+    {
+      "title": "옥수산장",
+      "link": "https://www.instagram.com/oksusanjang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 5-1 옥수산장",
+      "roadAddress": "서울특별시 종로구 평창24길 47 옥수산장",
+      "mapx": "1269785278",
+      "mapy": "376093412"
+    }
+  ]
+}

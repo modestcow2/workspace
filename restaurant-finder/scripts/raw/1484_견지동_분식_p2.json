@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "이가네 종각점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 대성 스카이렉스 1117호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 대성 스카이렉스 1117호",
+      "mapx": "1269827899",
+      "mapy": "375722724"
+    },
+    {
+      "title": "한국비리예방사협회",
+      "link": "http://cafe.naver.com/welovecartooncafe",
+      "category": "전문,기술서비스>공인회계사",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-5 S&S빌딩 8층4호",
+      "roadAddress": "서울특별시 종로구 우정국로 48 S&S빌딩 8층4호",
+      "mapx": "1269833140",
+      "mapy": "375733583"
+    },
+    {
+      "title": "명화당 명동1호점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-3 2층",
+      "roadAddress": "서울특별시 중구 명동4길 30 2층",
+      "mapx": "1269837950",
+      "mapy": "375623945"
+    },
+    {
+      "title": "꼬소한부뚜막 광화문광장점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 150-1 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
+      "mapx": "1269756633",
+      "mapy": "375715135"
+    },
+    {
+      "title": "병아리김밥 명동점",
+      "link": "https://chickgimbapmd.com/",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 3-3 지하1층",
+      "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
+      "mapx": "1269855893",
+      "mapy": "375629999"
+    }
+  ]
+}

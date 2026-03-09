@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "명랑핫도그 연희점",
+      "link": "https://myungranghotdog.com/",
+      "category": "양식>핫도그",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 133-30",
+      "roadAddress": "서울특별시 서대문구 증가로 13-9",
+      "mapx": "1269311110",
+      "mapy": "375691824"
+    },
+    {
+      "title": "로얄싸롱",
+      "link": "http://instagram.com/royal.saloon.2018",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-1 1F",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 43 1F",
+      "mapx": "1269278866",
+      "mapy": "375666091"
+    },
+    {
+      "title": "홍대삭 <b>연희동</b>점",
+      "link": "",
+      "category": "음식점>일식>일식튀김,꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 188-5",
+      "roadAddress": "서울특별시 서대문구 연희로 89",
+      "mapx": "1269302225",
+      "mapy": "375662864"
+    },
+    {
+      "title": "연대북문우리집",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 75-18 럭스하우스",
+      "roadAddress": "서울특별시 서대문구 연희로26길 23 럭스하우스",
+      "mapx": "1269369691",
+      "mapy": "375729916"
+    },
+    {
+      "title": "서문첫집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 28-19 지층 2호",
+      "roadAddress": "서울특별시 서대문구 연희로10길 86 지층 2호",
+      "mapx": "1269336705",
+      "mapy": "375637580"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688756",
+      "mapy": "375768581"
+    },
+    {
+      "title": "도취",
+      "link": "https://app.catchtable.co.kr/ct/shop/DochwiSeochon",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 53-1 서촌마을 제지하층 101호",
+      "roadAddress": "서울특별시 종로구 옥인길 23-6 서촌마을 제지하층 101호",
+      "mapx": "1269670920",
+      "mapy": "375808659"
+    },
+    {
+      "title": "온지음 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
+      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
+      "mapx": "1269734438",
+      "mapy": "375804848"
+    },
+    {
+      "title": "곰솔",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 98 우체국 뒤",
+      "roadAddress": "서울특별시 종로구 자하문로8길 9 통의동 우체국 뒤",
+      "mapx": "1269721001",
+      "mapy": "375787968"
+    },
+    {
+      "title": "<b>서촌</b>시우식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 171",
+      "roadAddress": "서울특별시 종로구 필운대로 18",
+      "mapx": "1269695515",
+      "mapy": "375777250"
+    }
+  ]
+}

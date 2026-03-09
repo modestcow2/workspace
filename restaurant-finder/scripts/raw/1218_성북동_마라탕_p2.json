@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "춘리<b>마라탕</b> 한성대점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-17 1층",
+      "roadAddress": "서울특별시 성북구 창경궁로 317 1층",
+      "mapx": "1270049047",
+      "mapy": "375881956"
+    },
+    {
+      "title": "애정마라샹궈",
+      "link": "https://www.instagram.com/aiqingmala_official?igsh=YXpmdWdwejF6MGo3&utm_source=qr",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 2-6 2층",
+      "roadAddress": "서울특별시 성북구 동소문로20나길 11 2층",
+      "mapx": "1270172450",
+      "mapy": "375921882"
+    },
+    {
+      "title": "샹니<b>마라탕</b>",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동1가 43 2층",
+      "roadAddress": "서울특별시 성북구 동소문로20길 31 2층",
+      "mapx": "1270169311",
+      "mapy": "375911880"
+    },
+    {
+      "title": "샹츠마라 혜화점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 59-3 2층",
+      "roadAddress": "서울특별시 종로구 대명길 37 2층",
+      "mapx": "1269995562",
+      "mapy": "375829302"
+    },
+    {
+      "title": "용가회전훠궈 대학로점",
+      "link": "https://www.instagram.com/loonger_daehakro",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-55 지하1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 13 지하1층",
+      "mapx": "1270025484",
+      "mapy": "375827405"
+    }
+  ]
+}

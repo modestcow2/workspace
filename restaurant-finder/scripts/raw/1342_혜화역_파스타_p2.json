@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>파스타</b>마켓 혜화 본점",
+      "link": "https://www.instagram.com/Pasta_market",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 103-6 1층 파스타마켓",
+      "roadAddress": "서울특별시 종로구 대학로11길 9-5 1층 파스타마켓",
+      "mapx": "1270012480",
+      "mapy": "375820794"
+    },
+    {
+      "title": "서양집 혜화대학로본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/seoyangzip",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 129 2층",
+      "roadAddress": "서울특별시 종로구 대학로9길 23-2 2층",
+      "mapx": "1270004708",
+      "mapy": "375815013"
+    },
+    {
+      "title": "봉심식당 대학로본점",
+      "link": "https://www.instagram.com/bongsim_restaurant/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 70-10 1층 봉심식당",
+      "roadAddress": "서울특별시 종로구 대학로11길 38-10 1층 봉심식당",
+      "mapx": "1270002220",
+      "mapy": "375824060"
+    },
+    {
+      "title": "치티",
+      "link": "https://app.catchtable.co.kr/ct/shop/ziti_pastahaus",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 206-2 제지1층 제비102호",
+      "roadAddress": "서울특별시 종로구 창경궁로26길 17-2 제지1층 제비102호",
+      "mapx": "1269988654",
+      "mapy": "375818907"
+    },
+    {
+      "title": "디마떼오",
+      "link": "http://www.dimatteo.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-141 디마떼오",
+      "roadAddress": "서울특별시 종로구 동숭길 29 디마떼오",
+      "mapx": "1270039695",
+      "mapy": "375799156"
+    }
+  ]
+}

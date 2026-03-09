@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더솔키친",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 21 1층 더솔키친",
+      "roadAddress": "서울특별시 종로구 자하문로2길 16 1층 더솔키친",
+      "mapx": "1269735369",
+      "mapy": "375764552"
+    },
+    {
+      "title": "유앤피",
+      "link": "https://www.instagram.com/unp_sajik",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 3층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
+      "mapx": "1269655475",
+      "mapy": "375756345"
+    },
+    {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    },
+    {
+      "title": "리브포나우",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 지하1층 121호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 지하1층 121호",
+      "mapx": "1269736144",
+      "mapy": "375744582"
+    },
+    {
+      "title": "영국남자 <b>파스타</b>",
+      "link": "",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 301동 지하1층 B113-4호(사직동, 광화문 풍림스페이스본)",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269688550",
+      "mapy": "375743975"
+    }
+  ]
+}

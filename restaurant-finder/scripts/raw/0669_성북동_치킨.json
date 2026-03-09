@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>치킨</b>쌀롱",
+      "link": "https://www.instagram.com/invites/contact/?i=gq18d5hz5tn8&utm_content=k93ltag",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 124-14 2층 치킨쌀롱",
+      "roadAddress": "서울특별시 성북구 혜화로 82-1 2층 치킨쌀롱",
+      "mapx": "1269987868",
+      "mapy": "375926677"
+    },
+    {
+      "title": "BHC<b>치킨</b> 한성대입구점",
+      "link": "https://www.bhc.co.kr/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 40",
+      "roadAddress": "서울특별시 성북구 성북로2길 18",
+      "mapx": "1270068385",
+      "mapy": "375892225"
+    },
+    {
+      "title": "카레",
+      "link": "https://www.instagram.com/___uncurry/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 161-6",
+      "roadAddress": "서울특별시 성북구 성북로 62-1",
+      "mapx": "1270020459",
+      "mapy": "375931769"
+    },
+    {
+      "title": "금왕돈까스 본점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 256-2",
+      "roadAddress": "서울특별시 성북구 성북로 138",
+      "mapx": "1269943685",
+      "mapy": "375948280"
+    },
+    {
+      "title": "새천년",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 161-6",
+      "roadAddress": "서울특별시 성북구 성북로 62-1",
+      "mapx": "1270020774",
+      "mapy": "375931981"
+    }
+  ]
+}

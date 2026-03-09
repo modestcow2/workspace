@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더블플레이<b>치킨</b> <b>홍대</b>점",
+      "link": "https://www.youtube.com/channel/UCLU-S9rfy2RDtuuiLC396kg",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 200-24 2층 더블플레이치킨",
+      "roadAddress": "서울특별시 마포구 동교로 201 2층 더블플레이치킨",
+      "mapx": "1269230542",
+      "mapy": "375582269"
+    },
+    {
+      "title": "로얄호프<b>치킨</b> <b>홍대</b>점",
+      "link": "https://로얄호프치킨.COM",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 198-27 1층,2층",
+      "roadAddress": "서울특별시 마포구 동교로 213 1층,2층",
+      "mapx": "1269234817",
+      "mapy": "375590379"
+    },
+    {
+      "title": "<b>홍대</b> 교도리",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 362-6 1층",
+      "roadAddress": "서울특별시 마포구 와우산로 77 1층",
+      "mapx": "1269231521",
+      "mapy": "375513545"
+    },
+    {
+      "title": "새벽",
+      "link": "https://www.instagram.com/team.saebyeok__",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 164-32 1층 새벽",
+      "roadAddress": "서울특별시 마포구 어울마당로 123 ,1층 새벽",
+      "mapx": "1269236325",
+      "mapy": "375556124"
+    },
+    {
+      "title": "<b>치킨</b>락 연남본점",
+      "link": "https://www.instagram.com/yeonnam_chickenrock/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 198-7 198-7번지 2층 좌측집 치킨락",
+      "roadAddress": "서울특별시 마포구 동교로27길 8-3 동교동 198-7번지 2층 좌측집 치킨락",
+      "mapx": "1269229834",
+      "mapy": "375589857"
+    }
+  ]
+}

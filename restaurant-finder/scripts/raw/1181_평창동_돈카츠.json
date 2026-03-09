@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "온마츠",
+      "link": "https://www.instagram.com/on.mats",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 314 1층 1호, 온마츠",
+      "roadAddress": "서울특별시 종로구 평창문화로 45-1 1층 1호, 온마츠",
+      "mapx": "1269663228",
+      "mapy": "376055896"
+    },
+    {
+      "title": "구기동오면",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 88-49 1층",
+      "roadAddress": "서울특별시 종로구 진흥로 455 1층",
+      "mapx": "1269589441",
+      "mapy": "376071805"
+    },
+    {
+      "title": "북악팔각정 하늘레스토랑",
+      "link": "https://blog.naver.com/skfoodcompany",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 산6-17",
+      "roadAddress": "서울특별시 종로구 북악산로 267",
+      "mapx": "1269806478",
+      "mapy": "376015971"
+    },
+    {
+      "title": "톰소야",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 229-4",
+      "roadAddress": "서울특별시 종로구 평창문화로 56",
+      "mapx": "1269675399",
+      "mapy": "376057310"
+    },
+    {
+      "title": "흥부야식",
+      "link": "",
+      "category": "음식점>야식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 220",
+      "roadAddress": "서울특별시 종로구 평창12길 3",
+      "mapx": "1269673258",
+      "mapy": "376062341"
+    }
+  ]
+}

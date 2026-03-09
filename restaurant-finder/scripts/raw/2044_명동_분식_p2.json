@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "명화당 <b>명동</b>1호점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-3 2층",
+      "roadAddress": "서울특별시 중구 명동4길 30 2층",
+      "mapx": "1269837950",
+      "mapy": "375623945"
+    },
+    {
+      "title": "병아리김밥 <b>명동</b>점",
+      "link": "https://chickgimbapmd.com/",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 3-3 지하1층",
+      "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
+      "mapx": "1269855893",
+      "mapy": "375629999"
+    },
+    {
+      "title": "신세계떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-5",
+      "roadAddress": "서울특별시 중구 명동9길 10",
+      "mapx": "1269850160",
+      "mapy": "375642992"
+    },
+    {
+      "title": "영차떡볶이 <b>명동</b>점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-10 2~4층",
+      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
+      "mapx": "1269835740",
+      "mapy": "375631401"
+    },
+    {
+      "title": "마포만두 시청점",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
+    }
+  ]
+}

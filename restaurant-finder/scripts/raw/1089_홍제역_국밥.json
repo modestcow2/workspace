@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "보승회관 <b>홍제역</b>점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 326-12",
+      "roadAddress": "서울특별시 서대문구 통일로 475",
+      "mapx": "1269420107",
+      "mapy": "375904180"
+    },
+    {
+      "title": "왕봉24시해장국",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 295-25",
+      "roadAddress": "서울특별시 서대문구 인왕시장길 46",
+      "mapx": "1269444222",
+      "mapy": "375915652"
+    },
+    {
+      "title": "콩부자 홍제점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 169-11 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 427-1 1층",
+      "mapx": "1269455404",
+      "mapy": "375873429"
+    },
+    {
+      "title": "홍성녹우촌 2호점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 246-5 1층",
+      "roadAddress": "서울특별시 서대문구 세무서길 45 1층",
+      "mapx": "1269459708",
+      "mapy": "375900380"
+    },
+    {
+      "title": "비사벌 전주 콩나물<b>국밥</b> 서대문점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-76",
+      "roadAddress": "서울특별시 서대문구 세검정로 34",
+      "mapx": "1269450027",
+      "mapy": "375916942"
+    }
+  ]
+}

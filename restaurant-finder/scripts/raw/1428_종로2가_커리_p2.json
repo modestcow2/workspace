@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "코코이찌방야 <b>종로</b>타워점",
+      "link": "http://www.cocoichibanya.com",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층",
+      "mapx": "1269836331",
+      "mapy": "375706119"
+    },
+    {
+      "title": "이춘복참치 종각점",
+      "link": "https://www.instagram.com/lcbtuna_official/",
+      "category": "음식점>한식>해물,생선요리>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 9 1층",
+      "roadAddress": "서울특별시 종로구 종로 69 1층",
+      "mapx": "1269851208",
+      "mapy": "375704273"
+    },
+    {
+      "title": "옐로 드래곤 <b>커리</b> 종묘 서순라길 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yellowdragoncurry",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 봉익동 12-14 옐로 드래곤 커리",
+      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 옐로 드래곤 커리",
+      "mapx": "1269926638",
+      "mapy": "375731094"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
+    },
+    {
+      "title": "오제제 광화문",
+      "link": "https://www.instagram.com/ojeje.seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
+      "mapx": "1269783077",
+      "mapy": "375684118"
+    }
+  ]
+}

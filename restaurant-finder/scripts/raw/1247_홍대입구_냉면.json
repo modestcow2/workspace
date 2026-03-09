@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서관면옥 <b>홍대</b>점",
+      "link": "http://www.instagram.com/seogwanmyeonog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 460-25 106호~107호",
+      "roadAddress": "서울특별시 마포구 월드컵북로5길 41 106호~107호",
+      "mapx": "1269168070",
+      "mapy": "375562685"
+    },
+    {
+      "title": "평안도 상원<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 165-8 지하1층 푸드코트",
+      "roadAddress": "서울특별시 마포구 양화로 156 지하1층 푸드코트",
+      "mapx": "1269234586",
+      "mapy": "375561103"
+    },
+    {
+      "title": "시장<b>냉면</b> <b>홍대</b>점",
+      "link": "https://www.instagram.com/sijang_naengmyeon/",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 334-21 반지층 시장냉면 홍대점",
+      "roadAddress": "서울특별시 마포구 와우산로29라길 11 반지층 시장냉면 홍대점",
+      "mapx": "1269272128",
+      "mapy": "375552252"
+    },
+    {
+      "title": "하연옥 마포점",
+      "link": "",
+      "category": "음식점>한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 464-46 1층",
+      "roadAddress": "서울특별시 마포구 동교로 136 1층",
+      "mapx": "1269172357",
+      "mapy": "375550877"
+    },
+    {
+      "title": "육쌈<b>냉면</b> <b>홍대</b>2호점",
+      "link": "http://www.yookssam.com/",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 345-27 2층",
+      "roadAddress": "서울특별시 마포구 와우산로23길 35 2층",
+      "mapx": "1269235125",
+      "mapy": "375544083"
+    }
+  ]
+}

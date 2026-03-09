@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "서관면옥 신세계백화점 본점",
+      "link": "https://www.instagram.com/seogwanmyenog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 디 에스테이트 14층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 디 에스테이트 14층",
+      "mapx": "1269806346",
+      "mapy": "375603977"
+    },
+    {
+      "title": "<b>명동</b>함흥면옥 본점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 26-1",
+      "roadAddress": "서울특별시 중구 명동10길 35-19",
+      "mapx": "1269856749",
+      "mapy": "375627749"
+    },
+    {
+      "title": "을밀대 무교점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 지하 1층 101호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 지하 1층 101호",
+      "mapx": "1269802867",
+      "mapy": "375670314"
+    },
+    {
+      "title": "강남면옥 <b>명동</b>점",
+      "link": "https://m.facebook.com/gangnamzzim/",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 48-2 미래빌딩 5층",
+      "roadAddress": "서울특별시 중구 명동7길 8 미래빌딩 5층",
+      "mapx": "1269845039",
+      "mapy": "375642182"
+    }
+  ]
+}

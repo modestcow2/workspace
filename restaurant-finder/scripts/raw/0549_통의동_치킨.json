@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌닭강정공장",
+      "link": "https://www.instagram.com/sechon_dakgangjeong",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 49-1 1층 서촌닭강정공장",
+      "roadAddress": "서울특별시 종로구 자하문로 6 1층 서촌닭강정공장",
+      "mapx": "1269726885",
+      "mapy": "375766218"
+    },
+    {
+      "title": "<b>치킨</b>인더키친 경복궁역점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-3",
+      "roadAddress": "서울특별시 종로구 자하문로 20-1",
+      "mapx": "1269722339",
+      "mapy": "375779737"
+    },
+    {
+      "title": "사직동 그 가게",
+      "link": "http://www.rogpa.com",
+      "category": "테마카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 1-7",
+      "roadAddress": "서울특별시 종로구 사직로9길 18",
+      "mapx": "1269677898",
+      "mapy": "375770928"
+    },
+    {
+      "title": "옐로우쿡",
+      "link": "http://www.yellowcook.com",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 104 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 32 1층",
+      "mapx": "1269717441",
+      "mapy": "375789833"
+    },
+    {
+      "title": "하이트클래스",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-2",
+      "roadAddress": "서울특별시 종로구 자하문로2길 1",
+      "mapx": "1269727998",
+      "mapy": "375765893"
+    }
+  ]
+}

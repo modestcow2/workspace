@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오소오소",
+      "link": "https://www.instagram.com/osooso189",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 189 신원빌딩 지하1층",
+      "roadAddress": "서울특별시 서대문구 충정로 47 신원빌딩 지하1층",
+      "mapx": "1269643918",
+      "mapy": "375633135"
+    },
+    {
+      "title": "참맛집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 480 201동 지1층 101호",
+      "roadAddress": "서울특별시 서대문구 경기대로 26-26 201동 지1층 101호",
+      "mapx": "1269625935",
+      "mapy": "375613642"
+    },
+    {
+      "title": "우진<b>갈비</b>",
+      "link": "http://www.instagram.com/woojin_701",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 삼성 사이버 빌리지 아파트상가 3동 101호 우진갈비",
+      "roadAddress": "서울특별시 중구 중림로 10 삼성 사이버 빌리지 아파트상가 3동 101호 우진갈비",
+      "mapx": "1269666956",
+      "mapy": "375581425"
+    },
+    {
+      "title": "도마 중림동점",
+      "link": "https://catchtable.co.kr/doma_jrd",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 150-1 이화빌딩",
+      "roadAddress": "서울특별시 중구 중림로 31 이화빌딩",
+      "mapx": "1269671832",
+      "mapy": "375581618"
+    },
+    {
+      "title": "돌담숯불집",
+      "link": "https://app.catchtable.co.kr/ct/shop/jogaejo",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 1154 B201, 202호",
+      "roadAddress": "서울특별시 중구 중림로 21 B201, 202호",
+      "mapx": "1269661704",
+      "mapy": "375587387"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>신촌</b>칼",
+      "link": "https://instagram.com/shinchon_kal",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-96 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
+      "mapx": "1269390887",
+      "mapy": "375578967"
+    },
+    {
+      "title": "리틀쿠바",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 33-5 2층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 5 2층",
+      "mapx": "1269364347",
+      "mapy": "375589048"
+    },
+    {
+      "title": "뽁식당 <b>신촌</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/bbok_sinchon",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-17 1층~4층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 24 1층~4층",
+      "mapx": "1269348603",
+      "mapy": "375570525"
+    },
+    {
+      "title": "메가포크",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 2-23 2층",
+      "roadAddress": "서울특별시 서대문구 명물길 49 2층",
+      "mapx": "1269389218",
+      "mapy": "375589401"
+    },
+    {
+      "title": "파스타고 홍대점",
+      "link": "https://www.instagram.com/pastago.kr",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 326-14 1층 PASTAGO",
+      "roadAddress": "서울특별시 마포구 와우산로33길 12 1층 PASTAGO",
+      "mapx": "1269297467",
+      "mapy": "375553890"
+    }
+  ]
+}

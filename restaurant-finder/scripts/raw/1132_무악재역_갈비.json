@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "강고집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 137-1 강고집",
+      "roadAddress": "서울특별시 서대문구 통일로36길 14 강고집",
+      "mapx": "1269467358",
+      "mapy": "375874994"
+    },
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "명원숯불<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-8",
+      "roadAddress": "서울특별시 종로구 통일로12길 8",
+      "mapx": "1269600719",
+      "mapy": "375732322"
+    },
+    {
+      "title": "연희화로<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 171-10 1층 연희화로",
+      "roadAddress": "서울특별시 서대문구 모래내로 376 1층 연희화로",
+      "mapx": "1269376747",
+      "mapy": "375826324"
+    },
+    {
+      "title": "참숯대박<b>갈비</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-14 동화빌딩 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 442-9 동화빌딩 1층",
+      "mapx": "1269450043",
+      "mapy": "375888069"
+    }
+  ]
+}

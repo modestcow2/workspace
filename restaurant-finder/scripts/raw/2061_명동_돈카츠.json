@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남산산채집",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 8-38 1층",
+      "roadAddress": "서울특별시 중구 소파로 95 1층",
+      "mapx": "1269853930",
+      "mapy": "375567733"
+    },
+    {
+      "title": "을지돈가스 <b>명동</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-5 1층",
+      "roadAddress": "서울특별시 중구 명동9길 10 1층",
+      "mapx": "1269849975",
+      "mapy": "375643266"
+    },
+    {
+      "title": "<b>명동</b>돈가스",
+      "link": "http://mddongas.co.kr/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-13",
+      "roadAddress": "서울특별시 중구 명동3길 8",
+      "mapx": "1269835560",
+      "mapy": "375640263"
+    },
+    {
+      "title": "오제제 광화문",
+      "link": "https://www.instagram.com/ojeje.seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
+      "mapx": "1269783077",
+      "mapy": "375684118"
+    },
+    {
+      "title": "알돈 본점",
+      "link": "https://www.instagram.com/r_don22",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 70 지하1층, 11호",
+      "roadAddress": "서울특별시 중구 다동길 43 지하1층, 11호",
+      "mapx": "1269818391",
+      "mapy": "375682023"
+    }
+  ]
+}

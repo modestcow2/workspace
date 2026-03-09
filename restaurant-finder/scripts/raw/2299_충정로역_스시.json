@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신 <b>스시</b>앤사시미",
+      "link": "https://blog.naver.com/shin-shin-shin",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 215 1층 A-17호",
+      "roadAddress": "서울특별시 서대문구 충정로6길 59 1층 A-17호",
+      "mapx": "1269679786",
+      "mapy": "375623704"
+    },
+    {
+      "title": "현대수산",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 합동 116 Sk리쳄블1층",
+      "roadAddress": "서울특별시 서대문구 서소문로 45 Sk리쳄블1층",
+      "mapx": "1269663358",
+      "mapy": "375612702"
+    },
+    {
+      "title": "사조참치 본점",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 157 사조빌딩 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 107-39 사조빌딩 1층",
+      "mapx": "1269660936",
+      "mapy": "375644111"
+    },
+    {
+      "title": "어도횟집",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 90-14",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 4",
+      "mapx": "1269676424",
+      "mapy": "375624917"
+    },
+    {
+      "title": "다이닝아오",
+      "link": "https://app.catchtable.co.kr/ct/shop/dining_ao",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 1층 112호",
+      "roadAddress": "서울특별시 중구 칠패로 27 1층 112호",
+      "mapx": "1269720478",
+      "mapy": "375600687"
+    }
+  ]
+}

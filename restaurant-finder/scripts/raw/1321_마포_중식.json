@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서담헌 홍대본점",
+      "link": "https://www.youtube.com/@%EA%B0%80%EC%A7%80%ED%8A%80%EA%B9%80%EB%A7%A8",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 113-22 1층 서담헌",
+      "roadAddress": "서울특별시 마포구 연희로1길 40-3 1층 서담헌",
+      "mapx": "1269260202",
+      "mapy": "375606598"
+    },
+    {
+      "title": "부영각",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 용강동 494-61",
+      "roadAddress": "서울특별시 마포구 토정로 268",
+      "mapx": "1269394840",
+      "mapy": "375425356"
+    },
+    {
+      "title": "강동원",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 453-43 1층",
+      "roadAddress": "서울특별시 마포구 망원로 3 1층",
+      "mapx": "1268973056",
+      "mapy": "375558947"
+    },
+    {
+      "title": "진진",
+      "link": "http://pf.kakao.com/_xifMGb",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 375-35 1층 진진",
+      "roadAddress": "서울특별시 마포구 월드컵북로1길 60 1층 진진",
+      "mapx": "1269184790",
+      "mapy": "375537804"
+    },
+    {
+      "title": "현래장",
+      "link": "https://app.catchtable.co.kr/ct/shop/hyunlaejang",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 마포동 140 다보빌딩 지하1층 현래장",
+      "roadAddress": "서울특별시 마포구 마포대로 20 다보빌딩 지하1층 현래장",
+      "mapx": "1269449196",
+      "mapy": "375383750"
+    }
+  ]
+}

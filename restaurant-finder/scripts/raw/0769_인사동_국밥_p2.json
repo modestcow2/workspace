@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "엄용백 돼지<b>국밥</b>",
+      "link": "https://www.instagram.com/umyongbaek_kr/",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 194-28",
+      "roadAddress": "서울특별시 종로구 인사동3길 20",
+      "mapx": "1269858222",
+      "mapy": "375718777"
+    },
+    {
+      "title": "신사동인동 안녕<b>인사동</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "이문설렁탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 88",
+      "roadAddress": "서울특별시 종로구 우정국로 38-13",
+      "mapx": "1269839047",
+      "mapy": "375727663"
+    },
+    {
+      "title": "월하동",
+      "link": "https://www.instagram.com/wolhadong",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29 1층",
+      "roadAddress": "서울특별시 종로구 인사동8길 16-1 1층",
+      "mapx": "1269860099",
+      "mapy": "375742337"
+    },
+    {
+      "title": "합천돼지<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 290-1",
+      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
+      "mapx": "1269879701",
+      "mapy": "375720097"
+    }
+  ]
+}

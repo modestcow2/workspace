@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    },
+    {
+      "title": "모퉁이네",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 79-8",
+      "roadAddress": "서울특별시 종로구 계동길 67",
+      "mapx": "1269866828",
+      "mapy": "375803123"
+    },
+    {
+      "title": "병천<b>순대</b>전문점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 106",
+      "roadAddress": "서울특별시 종로구 계동길 39",
+      "mapx": "1269866451",
+      "mapy": "375790981"
+    },
+    {
+      "title": "애호락 안국본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
+      "title": "이경문<b>순대</b>곱창",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 11-1",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
+      "mapx": "1269908574",
+      "mapy": "375730931"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "갈비명가이상 길음신관",
+      "link": "https://smartstore.naver.com/esang1982",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 221",
+      "roadAddress": "서울특별시 성북구 정릉로 395",
+      "mapx": "1270256874",
+      "mapy": "376039071"
+    },
+    {
+      "title": "갈비명가이상 돈암본관",
+      "link": "https://www.instagram.com/esang1982",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 12-8",
+      "roadAddress": "서울특별시 성북구 정릉로 364",
+      "mapx": "1270236114",
+      "mapy": "376015310"
+    },
+    {
+      "title": "청진동해장국 길음동점",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 624",
+      "roadAddress": "서울특별시 성북구 정릉로44길 7",
+      "mapx": "1270247279",
+      "mapy": "376018169"
+    },
+    {
+      "title": "신의주찹쌀순대 길음뉴타운점",
+      "link": "http://www.bigsoondae.com/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1284 삼성래미안 상가 지하 A 206호",
+      "roadAddress": "서울특별시 성북구 길음로 33 삼성래미안 상가 지하 A 206호",
+      "mapx": "1270221583",
+      "mapy": "376051215"
+    },
+    {
+      "title": "경성한우국밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 79-260 1층",
+      "roadAddress": "서울특별시 성북구 종암로21가길 10 1층",
+      "mapx": "1270336302",
+      "mapy": "375989427"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "란저우우육면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 260-1 1층",
+      "roadAddress": "서울특별시 종로구 창의문로 138 1층",
+      "mapx": "1269652616",
+      "mapy": "375928064"
+    },
+    {
+      "title": "넘버원 양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 213 1층,2층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
+      "mapx": "1269705572",
+      "mapy": "375765751"
+    },
+    {
+      "title": "양꼬치 피었습니다 환차이",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 287-50",
+      "roadAddress": "서울특별시 서대문구 간호대로 33",
+      "mapx": "1269474337",
+      "mapy": "375969479"
+    },
+    {
+      "title": "하얼빈양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 279-63 1층",
+      "roadAddress": "서울특별시 서대문구 간호대로1길 4 1층",
+      "mapx": "1269486801",
+      "mapy": "375963600"
+    },
+    {
+      "title": "화산",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwasan",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 45-1 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 13-1 2층",
+      "mapx": "1269720404",
+      "mapy": "375773299"
+    }
+  ]
+}

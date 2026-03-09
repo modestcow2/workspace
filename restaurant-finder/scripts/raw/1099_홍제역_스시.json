@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "문화촌초밥집",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-21 1층 문화촌초밥집",
+      "roadAddress": "서울특별시 서대문구 세무서7길 12-6 1층 문화촌초밥집",
+      "mapx": "1269465766",
+      "mapy": "375917076"
+    },
+    {
+      "title": "부타<b>스시</b>",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 247-13 1층 부타스시",
+      "roadAddress": "서울특별시 서대문구 세무서길 49 1층 부타스시",
+      "mapx": "1269460474",
+      "mapy": "375902213"
+    },
+    {
+      "title": "정담초밥 홍제 직영점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 474 상가동 1층 2호",
+      "roadAddress": "서울특별시 서대문구 세무서8길 30 상가동 1층 2호",
+      "mapx": "1269467054",
+      "mapy": "375907332"
+    },
+    {
+      "title": "달동네곰상 홍제본점",
+      "link": "https://blog.naver.com/byjmanse",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-16 달동네곰상 홍제본점",
+      "roadAddress": "서울특별시 서대문구 통일로 442-11 달동네곰상 홍제본점",
+      "mapx": "1269452255",
+      "mapy": "375889039"
+    },
+    {
+      "title": "다시밥",
+      "link": "http://instagram.com/dasibab_",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 307-12 1층 다시 밥",
+      "roadAddress": "서울특별시 서대문구 통일로39길 43 1층 다시 밥",
+      "mapx": "1269425671",
+      "mapy": "375873532"
+    }
+  ]
+}

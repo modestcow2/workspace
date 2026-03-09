@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시 소우카이",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushi_soukai",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로5가 274-1 지하1층",
+      "roadAddress": "서울특별시 중구 동호로35길 5 지하1층",
+      "mapx": "1270019924",
+      "mapy": "375662037"
+    },
+    {
+      "title": "지지타운",
+      "link": "https://catchtable.co.kr/ggtown",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 349-1 3층",
+      "roadAddress": "서울특별시 중구 수표로 52 3층",
+      "mapx": "1269899946",
+      "mapy": "375657753"
+    },
+    {
+      "title": "<b>을지로</b>화랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_hwarang?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 320-12 2층",
+      "roadAddress": "서울특별시 중구 을지로12길 17 2층",
+      "mapx": "1269910811",
+      "mapy": "375654607"
+    },
+    {
+      "title": "스시소라 <b>을지로</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 323 1층 105호",
+      "roadAddress": "서울특별시 중구 을지로 170 1층 105호",
+      "mapx": "1269973271",
+      "mapy": "375661387"
+    },
+    {
+      "title": "이대헌 스시",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 320-27 1층 이대헌스시",
+      "roadAddress": "서울특별시 중구 충무로5길 28 1층 이대헌스시",
+      "mapx": "1269912196",
+      "mapy": "375655239"
+    }
+  ]
+}

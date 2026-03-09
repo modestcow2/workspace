@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "버거킹 종로구청점",
+      "link": "http://www.burgerking.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 68-1 호수빌딩",
+      "roadAddress": "서울특별시 종로구 삼봉로 57 호수빌딩",
+      "mapx": "1269805288",
+      "mapy": "375725008"
+    },
+    {
+      "title": "패티바이번 광화문점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 119호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 119호",
+      "mapx": "1269819793",
+      "mapy": "375725214"
+    },
+    {
+      "title": "데일리픽스 을지로",
+      "link": "https://www.instagram.com/daily.fix.seoul?igsh=ZXRxeHUwbDE2N2E3&utm_source=qr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 140 1층 103호, 104호",
+      "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
+      "mapx": "1269813054",
+      "mapy": "375670949"
+    },
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
+    },
+    {
+      "title": "침스버거 안국",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-39 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
+      "mapx": "1269856859",
+      "mapy": "375780911"
+    }
+  ]
+}

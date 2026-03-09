@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "르한스",
+      "link": "https://app.catchtable.co.kr/ct/shop/lehans",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 918",
+      "roadAddress": "서울특별시 성북구 정릉로10길 127",
+      "mapx": "1269983456",
+      "mapy": "376041052"
+    },
+    {
+      "title": "포도집",
+      "link": "http://www.instagram.com/podojib_",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 132-2 1층",
+      "roadAddress": "서울특별시 성북구 정릉로32길 4 1층",
+      "mapx": "1270165782",
+      "mapy": "376027961"
+    },
+    {
+      "title": "읍천리382 <b>정릉</b>점",
+      "link": "https://www.instagram.com/eupcheonri382_jeongneung",
+      "category": "음식점>카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 161-17 1층 101호",
+      "roadAddress": "서울특별시 성북구 정릉로 251 1층 101호",
+      "mapx": "1270119834",
+      "mapy": "376046061"
+    },
+    {
+      "title": "카페브릭스 <b>정릉</b>",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 464-9 1층",
+      "roadAddress": "서울특별시 성북구 정릉로26길 6-5 1층",
+      "mapx": "1270106252",
+      "mapy": "376044563"
+    },
+    {
+      "title": "파리바게뜨 <b>정릉</b>국민대점",
+      "link": "https://www.paris.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 894-3 894-13",
+      "roadAddress": "서울특별시 성북구 정릉로10길 39 894-13",
+      "mapx": "1269995387",
+      "mapy": "376078199"
+    }
+  ]
+}

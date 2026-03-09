@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "조선<b>설렁탕</b>",
+      "link": "https://blog.naver.com/joseon0486",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 294-36 원일APT 상가1층 조선설렁탕",
+      "roadAddress": "서울특별시 서대문구 통일로 476 원일APT 상가1층 조선설렁탕",
+      "mapx": "1269423430",
+      "mapy": "375907192"
+    },
+    {
+      "title": "대성집",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-35",
+      "roadAddress": "서울특별시 종로구 사직로 5",
+      "mapx": "1269608828",
+      "mapy": "375727012"
+    },
+    {
+      "title": "천농탕 홍제점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 96-5 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 391 1층",
+      "mapx": "1269482758",
+      "mapy": "375846868"
+    },
+    {
+      "title": "대성도가니탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 70 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 54 1층",
+      "mapx": "1269619676",
+      "mapy": "375699326"
+    },
+    {
+      "title": "영란곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 282-35",
+      "roadAddress": "서울특별시 서대문구 세검정로4길 6",
+      "mapx": "1269487158",
+      "mapy": "375943285"
+    }
+  ]
+}

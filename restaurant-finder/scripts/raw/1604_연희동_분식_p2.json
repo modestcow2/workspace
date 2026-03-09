@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "연희김밥 본점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 129-3",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 2",
+      "mapx": "1269294260",
+      "mapy": "375680852"
+    },
+    {
+      "title": "연희김밥 연희점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-16",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 47",
+      "mapx": "1269277435",
+      "mapy": "375665004"
+    },
+    {
+      "title": "명랑핫도그 연희점",
+      "link": "https://myungranghotdog.com/",
+      "category": "양식>핫도그",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 133-30",
+      "roadAddress": "서울특별시 서대문구 증가로 13-9",
+      "mapx": "1269311110",
+      "mapy": "375691824"
+    },
+    {
+      "title": "연희궁뜰 도마소리 김밥",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-27 2층",
+      "roadAddress": "서울특별시 서대문구 연희로15길 27 2층",
+      "mapx": "1269304988",
+      "mapy": "375685741"
+    },
+    {
+      "title": "연대북문우리집",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 75-18 럭스하우스",
+      "roadAddress": "서울특별시 서대문구 연희로26길 23 럭스하우스",
+      "mapx": "1269369691",
+      "mapy": "375729916"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "벳남미식 <b>시청</b>직영점",
+      "link": "https://www.instagram.com/vietnammisik_cityhall",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 지하1층 103-2호, 104호",
+      "roadAddress": "서울특별시 중구 서소문로 115 지하1층 103-2호, 104호",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
+      "title": "포언 <b>시청</b>점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 센터플레이스 212호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 센터플레이스 212호",
+      "mapx": "1269803692",
+      "mapy": "375670959"
+    },
+    {
+      "title": "반포식스 서울<b>시청</b>점",
+      "link": "http://www.banhpho6.com",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 24-2 휘닉스빌딩 3층",
+      "roadAddress": "서울특별시 중구 무교로 13 휘닉스빌딩 3층",
+      "mapx": "1269790515",
+      "mapy": "375671662"
+    },
+    {
+      "title": "미가<b>쌀국수</b> 수원인계본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/migaricenoodle",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1120 111호",
+      "roadAddress": "경기도 수원시 팔달구 권광로 184 111호",
+      "mapx": "1270334938",
+      "mapy": "372636186"
+    },
+    {
+      "title": "호아빈 서울<b>시청</b>점",
+      "link": "http://www.hoabinh.co.kr/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 14-2",
+      "roadAddress": "서울특별시 중구 서소문로 139",
+      "mapx": "1269762235",
+      "mapy": "375641009"
+    }
+  ]
+}

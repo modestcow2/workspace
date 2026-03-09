@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:55 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "단골손님 <b>신촌</b>점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-61 2층",
+      "roadAddress": "서울특별시 서대문구 연세로7길 20 2층",
+      "mapx": "1269357464",
+      "mapy": "375577864"
+    },
+    {
+      "title": "고향전주<b>비빔밥</b> 현대백화점<b>신촌</b>점",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-33 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 10층",
+      "mapx": "1269357533",
+      "mapy": "375558490"
+    },
+    {
+      "title": "영미김밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-7 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 21 1층",
+      "mapx": "1269425818",
+      "mapy": "375586428"
+    },
+    {
+      "title": "맛있는순두부&amp;김치찜",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-56",
+      "roadAddress": "서울특별시 서대문구 명물길 36",
+      "mapx": "1269386253",
+      "mapy": "375582869"
+    },
+    {
+      "title": "돈불1971",
+      "link": "https://blog.naver.com/yunicrom",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-37 돈불1971",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 36 돈불1971",
+      "mapx": "1269336212",
+      "mapy": "375569543"
+    }
+  ]
+}

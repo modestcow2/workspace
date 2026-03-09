@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "가메골손왕만두 <b>남대문</b>본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
+    },
+    {
+      "title": "남해식당",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-15",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42-1",
+      "mapx": "1269770283",
+      "mapy": "375583269"
+    },
+    {
+      "title": "명동<b>칼국수</b> 남문교자",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 30-10",
+      "roadAddress": "서울특별시 중구 남대문시장길 37",
+      "mapx": "1269780093",
+      "mapy": "375604893"
+    },
+    {
+      "title": "조조<b>칼국수</b> 시청점",
+      "link": "https://youtube.com/jojostory",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-11 조조칼국수",
+      "roadAddress": "서울특별시 중구 세종대로11길 27 조조칼국수",
+      "mapx": "1269742849",
+      "mapy": "375621433"
+    },
+    {
+      "title": "달인명동<b>칼국수</b>보쌈",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 163 이프라자 지하",
+      "roadAddress": "서울특별시 중구 세종대로4길 25 이프라자 지하",
+      "mapx": "1269752692",
+      "mapy": "375578602"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "부영도가니탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-14",
+      "roadAddress": "서울특별시 종로구 북촌로 141",
+      "mapx": "1269826884",
+      "mapy": "375872076"
+    },
+    {
+      "title": "진성옛날소머리<b>국밥</b>집",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-12 옛날소머리국밥집",
+      "roadAddress": "서울특별시 종로구 북촌로 137-2 옛날소머리국밥집",
+      "mapx": "1269828560",
+      "mapy": "375872039"
+    },
+    {
+      "title": "권사부순대국 삼청점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-26 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 137-13 1층",
+      "mapx": "1269826631",
+      "mapy": "375869747"
+    },
+    {
+      "title": "광화문<b>국밥</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    },
+    {
+      "title": "안암",
+      "link": "http://instagram.com/anam_inanguk",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4 안암",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
+      "mapx": "1269844784",
+      "mapy": "375794197"
+    }
+  ]
+}

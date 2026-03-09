@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "모래내설농탕본점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 415-42",
+      "roadAddress": "서울특별시 서대문구 모래내로 271",
+      "mapx": "1269280632",
+      "mapy": "375771319"
+    },
+    {
+      "title": "땡땡거리 형제옥",
+      "link": "https://blog.naver.com/hyeongje_ok",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 82-2 형제옥 식당",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 3 형제옥 식당",
+      "mapx": "1269674729",
+      "mapy": "375625471"
+    },
+    {
+      "title": "한우명가",
+      "link": "http://한우명가.net/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-111",
+      "roadAddress": "서울특별시 서대문구 연희로 46-1",
+      "mapx": "1269281150",
+      "mapy": "375627970"
+    },
+    {
+      "title": "한촌<b>설렁탕</b> 북가좌점",
+      "link": "http://blog.naver.com/woddlrk",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북가좌동 307-1",
+      "roadAddress": "서울특별시 서대문구 응암로 67",
+      "mapx": "1269105950",
+      "mapy": "375792090"
+    },
+    {
+      "title": "조선<b>설렁탕</b>",
+      "link": "https://blog.naver.com/joseon0486",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 294-36 원일APT 상가1층 조선설렁탕",
+      "roadAddress": "서울특별시 서대문구 통일로 476 원일APT 상가1층 조선설렁탕",
+      "mapx": "1269423430",
+      "mapy": "375907192"
+    }
+  ]
+}

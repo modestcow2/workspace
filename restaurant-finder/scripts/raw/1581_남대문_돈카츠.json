@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카츠쇼신 서울역그랜드센트럴점",
+      "link": "https://www.instagram.com/katsu_shoshin",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "라밥 시청점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
+    },
+    {
+      "title": "카츠왕 시청역점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 1층 102호",
+      "mapx": "1269742731",
+      "mapy": "375622864"
+    },
+    {
+      "title": "마마돈가스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-70 1층 마마돈가스",
+      "roadAddress": "서울특별시 중구 남대문시장길 12-5 1층 마마돈가스",
+      "mapx": "1269767843",
+      "mapy": "375598769"
+    },
+    {
+      "title": "카츠하이드",
+      "link": "https://www.instagram.com/katsuhide27",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 지하1층 127호 카츠하이드",
+      "roadAddress": "서울특별시 중구 칠패로 27 지하1층 127호 카츠하이드",
+      "mapx": "1269717982",
+      "mapy": "375605329"
+    }
+  ]
+}

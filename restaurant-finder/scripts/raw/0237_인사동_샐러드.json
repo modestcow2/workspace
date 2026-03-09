@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:11 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:31:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375715557"
     },
     {
-      "title": "도트블랭킷 안국점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
-      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
-      "mapx": "1269840927",
-      "mapy": "375770264"
-    },
-    {
       "title": "슬로우캘리 종각역",
       "link": "http://www.slowcali.co.kr",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 1층 Retail 1R-7호",
       "mapx": "1269836590",
       "mapy": "375714967"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
     },
     {
       "title": "레스토랑 담",

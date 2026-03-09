@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "순대실록 대학로본점",
+      "link": "https://www.instagram.com/sundaesilrok/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-44 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 113 1층",
+      "mapx": "1270036997",
+      "mapy": "375829946"
+    },
+    {
+      "title": "육전<b>국밥</b> 대학로점",
+      "link": "https://yukjeonuniv.jalib.site/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-43 3층",
+      "roadAddress": "서울특별시 종로구 동숭길 117 3층",
+      "mapx": "1270035713",
+      "mapy": "375831723"
+    },
+    {
+      "title": "제로밥상 혜화점",
+      "link": "https://www.instagram.com/zeroperfectmeal_hyehwa/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 50-44 1층 제로밥상 혜화점",
+      "roadAddress": "서울특별시 종로구 동숭길 74 1층 제로밥상 혜화점",
+      "mapx": "1270042652",
+      "mapy": "375815580"
+    },
+    {
+      "title": "콩나물장수",
+      "link": "http://www.instagram.com/kongjangsu2018",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 25-11 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 94 1층",
+      "mapx": "1270043191",
+      "mapy": "375824771"
+    },
+    {
+      "title": "보승회관 이화사거리점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 187-8",
+      "roadAddress": "서울특별시 종로구 율곡로 212-1",
+      "mapx": "1270024612",
+      "mapy": "375759570"
+    }
+  ]
+}

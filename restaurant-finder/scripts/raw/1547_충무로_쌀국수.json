@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "로스트 템플",
+      "link": "http://instagram.com/losttemple__",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로4가 149-17 1층",
+      "roadAddress": "서울특별시 중구 퇴계로39길 15 1층",
+      "mapx": "1269942318",
+      "mapy": "375620910"
+    },
+    {
+      "title": "을지타이",
+      "link": "https://blog.naver.com/eulzi_thai",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 58-20 2층",
+      "roadAddress": "서울특별시 중구 퇴계로27길 33 2층",
+      "mapx": "1269912594",
+      "mapy": "375626338"
+    },
+    {
+      "title": "까이9",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_kkai9",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-5",
+      "roadAddress": "서울특별시 중구 충무로5길 6",
+      "mapx": "1269924005",
+      "mapy": "375652206"
+    },
+    {
+      "title": "포언",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 24-12 1층",
+      "roadAddress": "서울특별시 중구 수표로 20 1층",
+      "mapx": "1269904282",
+      "mapy": "375629909"
+    },
+    {
+      "title": "벱비엣 을지로본점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 75 2층",
+      "roadAddress": "서울특별시 중구 마른내로 17-1 2층",
+      "mapx": "1269897914",
+      "mapy": "375649783"
+    }
+  ]
+}

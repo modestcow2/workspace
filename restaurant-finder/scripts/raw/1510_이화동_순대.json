@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>순대</b>실록 대학로본점",
+      "link": "https://www.instagram.com/sundaesilrok/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-44 1층",
+      "roadAddress": "서울특별시 종로구 동숭길 113 1층",
+      "mapx": "1270036997",
+      "mapy": "375829946"
+    },
+    {
+      "title": "코야코",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 128-5 1층 코야코",
+      "roadAddress": "서울특별시 종로구 동숭길 68 1층 코야코",
+      "mapx": "1270042899",
+      "mapy": "375812929"
+    },
+    {
+      "title": "왕십리<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 207-2",
+      "roadAddress": "서울특별시 종로구 율곡로 220-1",
+      "mapx": "1270032944",
+      "mapy": "375759380"
+    },
+    {
+      "title": "두끼 대학로점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-60 3층 두끼",
+      "roadAddress": "서울특별시 종로구 대학로10길 5 3층 두끼",
+      "mapx": "1270025975",
+      "mapy": "375818620"
+    },
+    {
+      "title": "보승회관 이화사거리점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 187-8",
+      "roadAddress": "서울특별시 종로구 율곡로 212-1",
+      "mapx": "1270024612",
+      "mapy": "375759570"
+    }
+  ]
+}

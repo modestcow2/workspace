@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "정돈 대학로본점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 107 지층",
+      "roadAddress": "서울특별시 종로구 대학로9길 12 지층",
+      "mapx": "1270011237",
+      "mapy": "375818016"
+    },
+    {
+      "title": "메종 아카이 혜화본점",
+      "link": "https://www.instagram.com/maison.akai/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 181 2층",
+      "roadAddress": "서울특별시 종로구 대명길 34 2층",
+      "mapx": "1269996390",
+      "mapy": "375832180"
+    },
+    {
+      "title": "대학로고래",
+      "link": "https://www.instagram.com/gorae_katsu?igsh=azNxNDE5YmkxMXZi&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 176-1 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 46 1층",
+      "mapx": "1269995278",
+      "mapy": "375826321"
+    },
+    {
+      "title": "카츠헤세드 혜화 대학로점",
+      "link": "https://katsuhesed.com",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 90-18 1층 102호 카츠헤세드 혜화 대학로점",
+      "roadAddress": "서울특별시 종로구 대학로 146 1층 102호 카츠헤세드 혜화 대학로점",
+      "mapx": "1270020351",
+      "mapy": "375842573"
+    },
+    {
+      "title": "혼가츠 대학로점",
+      "link": "https://www.instagram.com/honkaz81",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 36-1 지하 1층 혼가츠",
+      "roadAddress": "서울특별시 종로구 대명길 24 지하 1층 혼가츠",
+      "mapx": "1270003031",
+      "mapy": "375834201"
+    }
+  ]
+}

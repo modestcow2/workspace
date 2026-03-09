@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:50 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "광화문면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
+      "mapx": "1269747363",
+      "mapy": "375698520"
+    },
+    {
+      "title": "누리옥 <b>시청역</b>점",
+      "link": "https://www.instagram.com/nuriok83",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 96 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-6 2층",
+      "mapx": "1269777393",
+      "mapy": "375621889"
+    },
+    {
+      "title": "을밀대 무교점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 지하 1층 101호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 지하 1층 101호",
+      "mapx": "1269802867",
+      "mapy": "375670314"
+    },
+    {
+      "title": "박군자진주<b>냉면</b> 본점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 98-1 1층",
+      "roadAddress": "서울특별시 중구 을지로3길 30-5 1층",
+      "mapx": "1269817763",
+      "mapy": "375676800"
+    }
+  ]
+}

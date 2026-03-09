@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서래향 대학로점",
+      "link": "https://www.instagram.com/verefood_official",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-94 1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 64 1층",
+      "mapx": "1270036981",
+      "mapy": "375812584"
+    },
+    {
+      "title": "만리성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-88 계우빌딩",
+      "roadAddress": "서울특별시 종로구 대학로12길 61 계우빌딩",
+      "mapx": "1270039661",
+      "mapy": "375814788"
+    },
+    {
+      "title": "중화요리 지엔",
+      "link": "http://instagram.com/znchina218",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 205-2 중화요리지엔",
+      "roadAddress": "서울특별시 종로구 율곡로 218 중화요리지엔",
+      "mapx": "1270030140",
+      "mapy": "375759769"
+    },
+    {
+      "title": "국빈",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 197-5",
+      "roadAddress": "서울특별시 종로구 대학로 53",
+      "mapx": "1270019843",
+      "mapy": "375758816"
+    },
+    {
+      "title": "중차이",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 66 1층",
+      "roadAddress": "서울특별시 종로구 대학로7길 7 1층",
+      "mapx": "1270015211",
+      "mapy": "375789400"
+    }
+  ]
+}

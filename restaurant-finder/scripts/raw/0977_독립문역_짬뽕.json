@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고쿤스시",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 제지1층 121호",
+      "roadAddress": "서울특별시 종로구 통일로 230 제지1층 121호",
+      "mapx": "1269592729",
+      "mapy": "375736317"
+    },
+    {
+      "title": "태성골뱅이신사 독립문점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89",
+      "roadAddress": "서울특별시 종로구 통일로 230",
+      "mapx": "1269596728",
+      "mapy": "375733672"
+    },
+    {
+      "title": "능라밥상",
+      "link": "https://www.facebook.com/",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 1-64 능라밥상",
+      "roadAddress": "서울특별시 종로구 사직로2길 14 능라밥상",
+      "mapx": "1269640183",
+      "mapy": "375729551"
+    },
+    {
+      "title": "홍콩반점0410 독립문점",
+      "link": "https://start.theborn.co.kr/prebrand_detail.php?bc=26",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동",
+      "roadAddress": "",
+      "mapx": "1269602122",
+      "mapy": "375703734"
+    },
+    {
+      "title": "라이빈",
+      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 15 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
+      "mapx": "1269624726",
+      "mapy": "375696654"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "구기동오면",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 88-49 1층",
+      "roadAddress": "서울특별시 종로구 진흥로 455 1층",
+      "mapx": "1269589441",
+      "mapy": "376071805"
+    },
+    {
+      "title": "예찬김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 125-5",
+      "roadAddress": "서울특별시 종로구 비봉길 7",
+      "mapx": "1269564553",
+      "mapy": "376091065"
+    },
+    {
+      "title": "<b>평창동</b>김밥",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 300-1",
+      "roadAddress": "서울특별시 종로구 평창문화로 35",
+      "mapx": "1269652881",
+      "mapy": "376050388"
+    },
+    {
+      "title": "구기촌",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 62-2 B103",
+      "roadAddress": "서울특별시 종로구 진흥로 466 B103",
+      "mapx": "1269596961",
+      "mapy": "376064883"
+    },
+    {
+      "title": "웰빙김밥<b>분식</b>반찬",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 85-9",
+      "roadAddress": "서울특별시 종로구 진흥로 439",
+      "mapx": "1269575360",
+      "mapy": "376081370"
+    }
+  ]
+}

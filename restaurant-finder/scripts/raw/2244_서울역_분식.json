@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>서울역</b>철도떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 서계동 223-42 1층",
+      "roadAddress": "서울특별시 용산구 청파로93길 18-1 1층",
+      "mapx": "1269678344",
+      "mapy": "375543253"
+    },
+    {
+      "title": "남대문달님즉석떡볶이 <b>서울역</b>본점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 지하 1층 111호",
+      "roadAddress": "서울특별시 중구 칠패로 27 지하 1층 111호",
+      "mapx": "1269721500",
+      "mapy": "375600347"
+    },
+    {
+      "title": "누리<b>분식</b> <b>서울역</b>점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 43-205",
+      "roadAddress": "서울특별시 용산구 청파로 378",
+      "mapx": "1269704827",
+      "mapy": "375491188"
+    },
+    {
+      "title": "숭례<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-106",
+      "roadAddress": "서울특별시 중구 남대문시장2길 5",
+      "mapx": "1269766273",
+      "mapy": "375597848"
+    },
+    {
+      "title": "동동만두",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 11-12 1층, 동동만두",
+      "roadAddress": "서울특별시 용산구 후암로 101 1층, 동동만두",
+      "mapx": "1269743146",
+      "mapy": "375533968"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "무무돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 오피시아빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 92 오피시아빌딩 지하1층",
+      "mapx": "1269749175",
+      "mapy": "375697377"
+    },
+    {
+      "title": "쟈란",
+      "link": "https://app.catchtable.co.kr/ct/shop/zaran",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 제비층 116-1호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 제비층 116-1호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "카츠큐브",
+      "link": "https://www.instagram.com/katsucube_official",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "가츠라 LG광화문점",
+      "link": "http://japanya.co.kr/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 92 지하 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 58 지하 1층",
+      "mapx": "1269715861",
+      "mapy": "375693106"
+    },
+    {
+      "title": "도노베아토",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 오피시아빌딩 B1F 114호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 (오피시아빌딩 B1F 114호)",
+      "mapx": "1269748722",
+      "mapy": "375697037"
+    }
+  ]
+}

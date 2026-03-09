@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:42 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "승룡",
+      "link": "https://blog.naver.com/seungryong_dragon",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 44 1층",
+      "roadAddress": "서울특별시 종로구 율곡로10길 44 1층",
+      "mapx": "1269910578",
+      "mapy": "375754703"
+    },
+    {
+      "title": "<b>와룡동</b>닭매운탕",
+      "link": "https://smartstore.naver.com/wadak2014",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 38-1 동주빌딩 1층",
+      "roadAddress": "서울특별시 종로구 율곡로10길 30 동주빌딩 1층",
+      "mapx": "1269909994",
+      "mapy": "375761086"
+    },
+    {
+      "title": "달맞이광장바베큐",
+      "link": "https://app.catchtable.co.kr/ct/shop/dalmajiplaza_bbq?from=share&type=WAITING",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 343-11 1층",
+      "roadAddress": "서울특별시 중구 을지로 112-1 1층",
+      "mapx": "1269904910",
+      "mapy": "375658502"
+    },
+    {
+      "title": "원조만선호프",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 95-6",
+      "roadAddress": "서울특별시 중구 충무로9길 14",
+      "mapx": "1269915199",
+      "mapy": "375671923"
+    },
+    {
+      "title": "청계천 휴",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 32-4 청계천 휴",
+      "roadAddress": "서울특별시 종로구 청계천로 71 청계천 휴",
+      "mapx": "1269856226",
+      "mapy": "375686938"
+    }
+  ]
+}

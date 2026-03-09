@@ -1,18 +1,20 @@
 // ─── 상수 ────────────────────────────────────────────────────────────────────
-const STORAGE_CUSTOMS   = 'restaurant_finder_custom';
-const STORAGE_OVERRIDES = 'restaurant_finder_overrides';
-const DATA_VERSION      = 'v2';
-const STORAGE_VERSION   = 'restaurant_finder_version';
+const DATA_VERSION    = 'v3';
+const STORAGE_VERSION = 'restaurant_finder_version';
 
 // ─── 상태 ────────────────────────────────────────────────────────────────────
 const activeFilters = {
   flavor: new Set(), texture: new Set(), cooking: new Set(),
-  cuisine: new Set(), temp: new Set(), occasion: new Set(), health: new Set()
+  cuisine: new Set(), temp: new Set(), occasion: new Set(), health: new Set(),
+  distance: new Set()
 };
 let allRestaurants = [];
+let searchQuery  = '';
 let editingId    = null;        // null=신규등록, number=편집 중인 id
 let currentPage     = 1;
 const ITEMS_PER_PAGE = 18;
+let isAdmin = false;            // Firebase Auth 관리자 여부
+let deletingRestaurant = null;  // 삭제 제안 중인 식당
 
 // ─── 유틸 ────────────────────────────────────────────────────────────────────
 const getCuisineEmoji = () => '🍽️';
@@ -25,103 +27,83 @@ function haversineKm(lat, lng) {
   return parseFloat((R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a))).toFixed(1));
 }
 
-// ─── localStorage 저장/불러오기 ──────────────────────────────────────────────
+// ─── 토스트 ──────────────────────────────────────────────────────────────────
+function showToast(msg, type = 'success') {
+  const toast = document.getElementById('toast');
+  if (!toast) return;
+  toast.textContent = msg;
+  toast.className = 'toast toast-' + type;
+  toast.style.display = '';
+  setTimeout(() => { toast.style.display = 'none'; }, 3500);
+}
+
+// ─── 데이터 로드 (Firestore 오버라이드 병합) ─────────────────────────────────
 function loadState() {
+  // v3 마이그레이션: 기존 localStorage 데이터 정리
+  const savedVersion = localStorage.getItem(STORAGE_VERSION);
+  if (savedVersion !== DATA_VERSION) {
+    localStorage.removeItem('restaurant_finder_custom');
+    localStorage.removeItem('restaurant_finder_overrides');
+    localStorage.setItem(STORAGE_VERSION, DATA_VERSION);
+  }
+
+  // 즉시 기본 데이터로 렌더
+  allRestaurants = [...RESTAURANTS];
+}
+
+async function loadFirestoreOverrides() {
   try {
-    // 데이터 버전 체크 — 버전 불일치 시 사용자 변경사항 초기화
-    const savedVersion = localStorage.getItem(STORAGE_VERSION);
-    if (savedVersion !== DATA_VERSION) {
-      localStorage.removeItem(STORAGE_CUSTOMS);
-      localStorage.removeItem(STORAGE_OVERRIDES);
-      localStorage.setItem(STORAGE_VERSION, DATA_VERSION);
+    const overrides = await fetchOverrides();
+    if (Object.keys(overrides).length > 0) {
+      allRestaurants = applyOverrides(RESTAURANTS, overrides);
+      render();
     }
-
-    const customs   = JSON.parse(localStorage.getItem(STORAGE_CUSTOMS)   || '[]');
-    const overrides = JSON.parse(localStorage.getItem(STORAGE_OVERRIDES) || '{}');
-    const deleted   = new Set(overrides.deleted || []);
-    const edits     = overrides.edits || {};          // { [id]: restaurant }
-
-    // 기본 데이터에 편집 내용 적용 후 삭제 항목 제외
-    allRestaurants = RESTAURANTS
-      .map(r => edits[r.id] ? { ...edits[r.id] } : r)
-      .filter(r => !deleted.has(r.id));
-
-    // 직접 등록된 식당 추가 (중복 방지)
-    customs.forEach(r => {
-      if (!allRestaurants.find(x => x.id === r.id)) allRestaurants.push(r);
-    });
-  } catch {
-    allRestaurants = [...RESTAURANTS];
+  } catch (err) {
+    console.warn('Firestore 오버라이드 로드 실패 (오프라인 모드):', err);
   }
 }
 
-function saveState() {
-  try {
-    const customs = allRestaurants.filter(r => r._custom);
-    localStorage.setItem(STORAGE_CUSTOMS, JSON.stringify(customs));
-
-    // 기본 데이터와 비교해 삭제/수정 내역 추출
-    const originalIds = new Set(RESTAURANTS.map(r => r.id));
-    const currentIds  = new Set(allRestaurants.map(r => r.id));
-    const deleted     = [...originalIds].filter(id => !currentIds.has(id));
-
-    const edits = {};
-    allRestaurants.forEach(r => {
-      if (!r._custom && originalIds.has(r.id)) {
-        const orig = RESTAURANTS.find(x => x.id === r.id);
-        if (JSON.stringify(orig) !== JSON.stringify(r)) edits[r.id] = r;
-      }
-    });
-
-    localStorage.setItem(STORAGE_OVERRIDES, JSON.stringify({ deleted, edits }));
-  } catch { }
-}
-
-function hasLocalChanges() {
-  try {
-    const ov = JSON.parse(localStorage.getItem(STORAGE_OVERRIDES) || '{}');
-    const cu = JSON.parse(localStorage.getItem(STORAGE_CUSTOMS)   || '[]');
-    return (ov.deleted?.length || 0) + Object.keys(ov.edits || {}).length + cu.length > 0;
-  } catch { return false; }
-}
-
-// ─── 기본 데이터로 복구 ───────────────────────────────────────────────────────
-function resetAllData() {
-  if (!confirm('모든 변경사항(추가·수정·삭제)을 초기화하고 기본 데이터로 복구하시겠습니까?')) return;
-  localStorage.removeItem(STORAGE_CUSTOMS);
-  localStorage.removeItem(STORAGE_OVERRIDES);
-
-  allRestaurants = [...RESTAURANTS];
-  currentPage = 1;
-
-  updateResetDataBtn();
-  render();
-}
-
-function updateResetDataBtn() {
-  const btn = document.getElementById('reset-data-btn');
-  if (btn) btn.style.display = hasLocalChanges() ? '' : 'none';
-}
-
 // ─── 필터 로직 ───────────────────────────────────────────────────────────────
+const DISTANCE_THRESHOLDS = { '500m이내': 0.5, '1km이내': 1.0, '1.5km이내': 1.5 };
+
 function filterRestaurants() {
-  return allRestaurants.filter(r =>
-    Object.keys(activeFilters).every(cat => {
+  const query = searchQuery.toLowerCase();
+  return allRestaurants.filter(r => {
+    if (query && !r.name.toLowerCase().includes(query)) return false;
+    return Object.keys(activeFilters).every(cat => {
       const sel = activeFilters[cat];
       if (sel.size === 0) return true;
+      if (cat === 'distance') {
+        const maxDist = Math.min(...[...sel].map(t => DISTANCE_THRESHOLDS[t]));
+        return r.distanceKm <= maxDist;
+      }
       return [...sel].some(tag => r.tags[cat].includes(tag));
-    })
-  );
+    });
+  });
 }
 
 function toggleFilter(cat, tag) {
-  activeFilters[cat].has(tag) ? activeFilters[cat].delete(tag) : activeFilters[cat].add(tag);
+  if (cat === 'distance') {
+    if (activeFilters[cat].has(tag)) {
+      activeFilters[cat].clear();
+    } else {
+      activeFilters[cat].clear();
+      activeFilters[cat].add(tag);
+    }
+  } else {
+    activeFilters[cat].has(tag) ? activeFilters[cat].delete(tag) : activeFilters[cat].add(tag);
+  }
   currentPage = 1;
   render();
 }
 
 function resetFilters() {
   Object.keys(activeFilters).forEach(k => activeFilters[k].clear());
+  searchQuery = '';
+  const searchInput = document.getElementById('search-input');
+  if (searchInput) searchInput.value = '';
+  const searchClear = document.getElementById('search-clear');
+  if (searchClear) searchClear.style.display = 'none';
   currentPage = 1;
   render();
 }
@@ -129,14 +111,13 @@ function resetFilters() {
 const hasActiveFilters = () => Object.values(activeFilters).some(s => s.size > 0);
 
 // ─── 렌더: 필터 패널 ──────────────────────────────────────────────────────────
-let activeTab = null;   // 현재 열린 탭 카테고리
+let activeTab = null;
 
 function renderFilterPanel() {
   const panel = document.getElementById('filter-panel');
   panel.querySelectorAll('.filter-tabs-wrap, .filter-options').forEach(el => el.remove());
   document.getElementById('reset-btn').style.display = hasActiveFilters() ? '' : 'none';
 
-  // ── 탭 행 ──
   const tabsWrap = document.createElement('div');
   tabsWrap.className = 'filter-tabs-wrap';
   const tabs = document.createElement('div');
@@ -161,7 +142,6 @@ function renderFilterPanel() {
   tabsWrap.appendChild(tabs);
   panel.appendChild(tabsWrap);
 
-  // ── 옵션 영역 (선택된 탭만) ──
   if (activeTab && FILTER_META[activeTab]) {
     const meta = FILTER_META[activeTab];
     const optionsDiv = document.createElement('div');
@@ -203,8 +183,9 @@ function renderActiveChips() {
 function renderCards(filtered) {
   const grid  = document.getElementById('restaurant-grid');
   const empty = document.getElementById('empty-state');
-  document.getElementById('result-summary').textContent =
-    `${filtered.length}개 식당 표시 중 (전체 ${allRestaurants.length}개)`;
+  document.getElementById('result-summary').textContent = searchQuery
+    ? `"${searchQuery}" 검색 결과 ${filtered.length}곳 (전체 ${allRestaurants.length}개)`
+    : `${filtered.length}개 식당 표시 중 (전체 ${allRestaurants.length}개)`;
 
   if (filtered.length === 0) {
     grid.innerHTML = '';
@@ -214,20 +195,20 @@ function renderCards(filtered) {
   }
   empty.style.display = 'none';
 
-  // 페이지네이션 적용
   const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE);
   if (currentPage > totalPages) currentPage = totalPages;
   const start = (currentPage - 1) * ITEMS_PER_PAGE;
   const paged = filtered.slice(start, start + ITEMS_PER_PAGE);
 
+  // 버튼 텍스트: 관리자 vs 일반 사용자
+  const editLabel   = isAdmin ? '✏️ 편집' : '✏️ 수정 제안';
+  const deleteLabel = isAdmin ? '🗑️ 삭제' : '🗑️ 삭제 제안';
+
   grid.innerHTML = paged.map(r => {
-    const isCustom   = !!r._custom;
-    const isModified = !isCustom && JSON.stringify(RESTAURANTS.find(x => x.id === r.id)) !== JSON.stringify(r);
+    const isCustom   = !!r._custom || !!r._added;
     const badgeHtml  = isCustom
       ? `<span class="badge-custom">직접등록</span>`
-      : isModified
-        ? `<span class="badge-modified">수정됨</span>`
-        : '';
+      : '';
 
     return `
       <article class="restaurant-card${isCustom ? ' custom-card' : ''}" data-id="${r.id}">
@@ -240,7 +221,7 @@ function renderCards(filtered) {
             </div>
             <p class="text-xs text-gray-400 truncate">${r.address}</p>
             <div class="flex gap-1 mt-0.5">
-              <a href="https://map.naver.com/p/search/${encodeURIComponent(r.name + ' ' + r.address)}"
+              <a href="https://map.naver.com/p/search/${encodeURIComponent(r.name)}?c=${r.lng},${r.lat},15,0,0,0,dh"
                  target="_blank" rel="noopener" class="map-link map-link-naver"
                  onclick="event.stopPropagation()">🗺️ 네이버</a>
               <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.name + ' ' + r.address)}"
@@ -262,15 +243,15 @@ function renderCards(filtered) {
 
         ${r.tip ? `<p class="tip-text">${r.tip}</p>` : ''}
 
-        <div class="flex flex-wrap gap-1 mt-auto pt-1">
+        <div class="flex flex-wrap gap-1 pt-1">
           ${Object.keys(FILTER_META).map(cat =>
             (r.tags[cat] || []).map(t => `<span class="tag tag-${cat}">${t}</span>`).join('')
           ).join('')}
         </div>
 
         <div class="card-actions">
-          <button class="edit-btn"   data-id="${r.id}">✏️ 편집</button>
-          <button class="delete-btn" data-id="${r.id}">🗑️ 삭제</button>
+          <button class="edit-btn"   data-id="${r.id}">${editLabel}</button>
+          <button class="delete-btn" data-id="${r.id}">${deleteLabel}</button>
         </div>
       </article>
     `;
@@ -313,11 +294,8 @@ function renderPagination(totalItems) {
   }
 
   let html = '';
-
-  // 이전 버튼
   html += `<button class="page-btn" data-page="prev" ${currentPage === 1 ? 'disabled' : ''}>‹ 이전</button>`;
 
-  // 페이지 번호 (최대 7개 표시, 양 끝 + 현재 주변)
   const pages = [];
   if (totalPages <= 7) {
     for (let i = 1; i <= totalPages; i++) pages.push(i);
@@ -341,12 +319,9 @@ function renderPagination(totalItems) {
     }
   });
 
-  // 다음 버튼
   html += `<button class="page-btn" data-page="next" ${currentPage === totalPages ? 'disabled' : ''}>다음 ›</button>`;
-
   container.innerHTML = html;
 
-  // 이벤트 바인딩
   container.querySelectorAll('.page-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const val = btn.dataset.page;
@@ -359,17 +334,32 @@ function renderPagination(totalItems) {
   });
 }
 
-// ─── 식당 삭제 (모든 식당 공통) ──────────────────────────────────────────────
+// ─── 식당 삭제 (관리자: 직접 삭제 / 일반: 삭제 제안) ─────────────────────────
 function deleteRestaurant(id) {
   const r = allRestaurants.find(x => x.id === id);
   if (!r) return;
-  if (!confirm(`"${r.name}"을(를) 삭제하시겠습니까?`)) return;
 
-  allRestaurants = allRestaurants.filter(x => x.id !== id);
-
-  saveState();
-  updateResetDataBtn();
-  render();
+  if (isAdmin) {
+    // 관리자: 직접 삭제 → approved_overrides에 저장
+    if (!confirm(`"${r.name}"을(를) 삭제하시겠습니까?`)) return;
+    saveDirectOverride(id, 'delete', null, auth.currentUser.email)
+      .then(() => {
+        allRestaurants = allRestaurants.filter(x => x.id !== id);
+        render();
+        showToast(`"${r.name}" 삭제 완료`);
+      })
+      .catch(err => {
+        console.error('삭제 실패:', err);
+        showToast('삭제에 실패했습니다.', 'error');
+      });
+  } else {
+    // 일반 사용자: 삭제 제안 모달 열기
+    deletingRestaurant = r;
+    document.getElementById('delete-suggest-name').textContent = `"${r.name}"의 삭제를 제안합니다.`;
+    document.getElementById('delete-nickname').value = '';
+    document.getElementById('delete-reason').value = '';
+    document.getElementById('delete-suggest-modal').style.display = 'flex';
+  }
 }
 
 // ─── 모달: 태그 선택 UI ──────────────────────────────────────────────────────
@@ -377,6 +367,7 @@ function buildTagSelector(selectedTags = {}) {
   const container = document.getElementById('tag-selector');
   container.innerHTML = '';
   Object.entries(FILTER_META).forEach(([cat, meta]) => {
+    if (cat === 'distance') return;
     const div = document.createElement('div');
     const p   = document.createElement('p');
     p.className = 'text-xs font-semibold text-gray-500 mb-1.5';
@@ -400,16 +391,31 @@ function buildTagSelector(selectedTags = {}) {
   });
 }
 
-// ─── 모달 열기 (신규: openModal() / 편집: openModal(restaurant)) ─────────────
+// ─── 모달 열기 ───────────────────────────────────────────────────────────────
 function openModal(restaurant = null) {
   const form = document.getElementById('add-form');
   form.reset();
   editingId = restaurant ? restaurant.id : null;
 
-  // 모달 제목 전환
-  document.getElementById('modal-title').textContent = restaurant ? '✏️ 식당 편집' : '🍴 식당 직접 등록';
+  // 모달 제목 & 버튼 텍스트 전환
+  const suggestionFields = document.getElementById('suggestion-fields');
+  const submitBtn = document.getElementById('modal-submit-btn');
 
-  // 편집 시 기존 값 채우기
+  if (isAdmin) {
+    document.getElementById('modal-title').textContent = restaurant ? '✏️ 식당 편집' : '🍴 식당 직접 등록';
+    suggestionFields.style.display = 'none';
+    document.getElementById('coord-section').style.display = '';
+    submitBtn.textContent = restaurant ? '저장하기' : '등록하기';
+  } else {
+    document.getElementById('modal-title').textContent = restaurant ? '✏️ 수정 제안' : '🍴 식당 추가 제안';
+    document.getElementById('suggestion-notice').textContent = restaurant
+      ? '📝 수정 제안은 관리자 승인 후 반영됩니다.'
+      : '📝 식당 추가제안은 관리자 승인 후 반영됩니다.';
+    suggestionFields.style.display = '';
+    document.getElementById('coord-section').style.display = 'none';
+    submitBtn.textContent = '제안하기';
+  }
+
   if (restaurant) {
     form.elements['restaurantName'].value = restaurant.name;
     form.elements['address'].value        = restaurant.address;
@@ -432,22 +438,33 @@ function closeModal() {
   editingId = null;
 }
 
-// ─── 폼 제출 처리 (신규 등록 / 편집 공통) ────────────────────────────────────
-function handleSubmit(e) {
-  e.preventDefault();
-  const data = new FormData(e.target);
-
-  const name        = (data.get('restaurantName') || '').trim();
-  const address     = (data.get('address')        || '').trim();
-  const mainMenuRaw = (data.get('mainMenu')       || '').trim();
-
-  if (!name || !address || !mainMenuRaw) {
-    alert('이름, 주소, 대표 메뉴는 필수 입력 항목입니다.');
-    return;
+// ─── 주소 → 좌표 변환 (Nominatim) ────────────────────────────────────────────
+async function geocodeAddress(address) {
+  try {
+    const res = await fetch(
+      `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(address)}&limit=1`,
+      { headers: { 'Accept-Language': 'ko' } }
+    );
+    const data = await res.json();
+    if (data.length > 0) {
+      return { lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lon) };
+    }
+  } catch (err) {
+    console.warn('Geocoding 실패:', err);
   }
+  return null;
+}
 
-  const lat      = parseFloat(data.get('lat')) || BASE_POINT.lat;
-  const lng      = parseFloat(data.get('lng')) || BASE_POINT.lng;
+// ─── 폼 데이터 수집 헬퍼 ─────────────────────────────────────────────────────
+function collectFormData(formData) {
+  const name        = (formData.get('restaurantName') || '').trim();
+  const address     = (formData.get('address')        || '').trim();
+  const mainMenuRaw = (formData.get('mainMenu')       || '').trim();
+
+  if (!name || !address || !mainMenuRaw) return null;
+
+  const lat      = parseFloat(formData.get('lat')) || null;
+  const lng      = parseFloat(formData.get('lng')) || null;
   const mainMenu = mainMenuRaw.split(',').map(s => s.trim()).filter(Boolean);
 
   const tags = { flavor: [], texture: [], cooking: [], cuisine: [], temp: [], occasion: [], health: [] };
@@ -455,58 +472,230 @@ function handleSubmit(e) {
     if (tags[btn.dataset.cat]) tags[btn.dataset.cat].push(btn.dataset.tag);
   });
 
-  if (editingId !== null) {
-    // ── 편집 모드: 기존 항목 업데이트 ──
-    const idx = allRestaurants.findIndex(r => r.id === editingId);
-    if (idx === -1) return;
-    const original = allRestaurants[idx];
-    allRestaurants[idx] = {
-      ...original,
-      name, address, lat, lng,
-      distanceKm: haversineKm(lat, lng),
-      mainMenu,
-      priceRange: data.get('priceRange'),
-      openHours: (data.get('openHours') || '').trim() || '-',
-      tags,
-      tip: (data.get('tip') || '').trim(),
-    };
-    saveState();
-    updateResetDataBtn();
-    closeModal();
-    render();
-  } else {
-    // ── 신규 등록 모드 ──
-    const restaurant = {
-      id: Date.now(),
-      name, address, lat, lng,
-      distanceKm: haversineKm(lat, lng),
-      mainMenu,
-      priceRange: data.get('priceRange'),
-      openHours: (data.get('openHours') || '').trim() || '-',
-      tags,
-      tip: (data.get('tip') || '').trim(),
-      _custom: true,
-    };
-    allRestaurants.push(restaurant);
-    saveState();
-    updateResetDataBtn();
-    closeModal();
-    render();
-    setTimeout(() => {
-      document.querySelector(`[data-id="${restaurant.id}"]`)
-        ?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-    }, 150);
+  return {
+    name, address, lat, lng,
+    distanceKm: lat && lng ? haversineKm(lat, lng) : null,
+    mainMenu,
+    priceRange: formData.get('priceRange'),
+    openHours: (formData.get('openHours') || '').trim() || '-',
+    tags,
+    tip: (formData.get('tip') || '').trim(),
+  };
+}
+
+// ─── 폼 제출 처리 ────────────────────────────────────────────────────────────
+async function handleSubmit(e) {
+  e.preventDefault();
+  const formData = new FormData(e.target);
+  const collected = collectFormData(formData);
+
+  if (!collected) {
+    alert('이름, 주소, 대표 메뉴는 필수 입력 항목입니다.');
+    return;
   }
+
+  // 좌표가 없으면 주소로 자동 변환
+  if (!collected.lat || !collected.lng) {
+    const coords = await geocodeAddress(collected.address);
+    if (coords) {
+      collected.lat = coords.lat;
+      collected.lng = coords.lng;
+      collected.distanceKm = haversineKm(coords.lat, coords.lng);
+    } else {
+      collected.lat = BASE_POINT.lat;
+      collected.lng = BASE_POINT.lng;
+      collected.distanceKm = 0;
+    }
+  }
+
+  if (isAdmin) {
+    // ── 관리자: 직접 반영 ──
+    if (editingId !== null) {
+      const restaurantData = { ...collected };
+      try {
+        await saveDirectOverride(editingId, 'edit', restaurantData, auth.currentUser.email);
+        const idx = allRestaurants.findIndex(r => r.id === editingId);
+        if (idx !== -1) {
+          allRestaurants[idx] = { ...allRestaurants[idx], ...restaurantData };
+        }
+        closeModal();
+        render();
+        showToast('수정 완료!');
+      } catch (err) {
+        console.error('저장 실패:', err);
+        showToast('저장에 실패했습니다.', 'error');
+      }
+    } else {
+      const newId = Date.now();
+      const restaurantData = { ...collected, id: newId };
+      try {
+        await saveDirectOverride(newId, 'add', restaurantData, auth.currentUser.email);
+        allRestaurants.push({ ...restaurantData, _added: true });
+        closeModal();
+        render();
+        showToast('등록 완료!');
+      } catch (err) {
+        console.error('등록 실패:', err);
+        showToast('등록에 실패했습니다.', 'error');
+      }
+    }
+  } else {
+    // ── 일반 사용자: 제안 제출 ──
+    const nickname = (formData.get('nickname') || '').trim();
+    const reason   = (formData.get('reason')   || '').trim();
+
+    if (!nickname || !reason) {
+      alert('닉네임과 수정 이유를 입력해주세요.');
+      return;
+    }
+
+    if (!checkThrottle()) {
+      showToast('잠시 후 다시 시도해주세요. (30초 쿨다운)', 'error');
+      return;
+    }
+
+    const type = editingId !== null ? 'edit' : 'add';
+    const restaurantName = editingId !== null
+      ? (allRestaurants.find(r => r.id === editingId)?.name || '')
+      : collected.name;
+
+    try {
+      await submitSuggestion({
+        restaurantId: editingId !== null ? editingId : Date.now(),
+        restaurantName,
+        type,
+        proposedData: collected,
+        nickname,
+        reason
+      });
+      markThrottle();
+      closeModal();
+      showToast('제안이 접수되었습니다! 관리자 승인 후 반영됩니다.');
+    } catch (err) {
+      console.error('제안 제출 실패:', err);
+      showToast('제안 제출에 실패했습니다.', 'error');
+    }
+  }
+}
+
+// ─── Firebase Auth 상태 리스너 ───────────────────────────────────────────────
+function setupAuth() {
+  const loginBtn   = document.getElementById('auth-login-btn');
+  const logoutBtn  = document.getElementById('auth-logout-btn');
+  const userInfo   = document.getElementById('auth-user-info');
+  const adminLink  = document.getElementById('admin-link');
+
+  loginBtn.addEventListener('click', () => {
+    const provider = new firebase.auth.GoogleAuthProvider();
+    auth.signInWithPopup(provider).catch(err => {
+      console.error('로그인 실패:', err);
+      showToast('로그인에 실패했습니다.', 'error');
+    });
+  });
+
+  logoutBtn.addEventListener('click', () => {
+    auth.signOut();
+  });
+
+  auth.onAuthStateChanged(user => {
+    if (user) {
+      loginBtn.style.display = 'none';
+      logoutBtn.style.display = '';
+      userInfo.style.display = '';
+      userInfo.textContent = user.email;
+      isAdmin = (user.email === ADMIN_EMAIL);
+      adminLink.style.display = isAdmin ? '' : 'none';
+      if (isAdmin) {
+        fetchPendingSuggestions().then(list => {
+          const badge = document.getElementById('pending-badge');
+          if (list.length > 0) {
+            badge.textContent = list.length;
+            badge.style.display = '';
+          } else {
+            badge.style.display = 'none';
+          }
+        }).catch(err => console.error('배지 조회 실패:', err));
+      }
+    } else {
+      loginBtn.style.display = '';
+      logoutBtn.style.display = 'none';
+      userInfo.style.display = 'none';
+      userInfo.textContent = '';
+      isAdmin = false;
+      adminLink.style.display = 'none';
+    }
+    // 권한 변경 시 버튼 텍스트 갱신
+    render();
+  });
+}
+
+// ─── 삭제 제안 모달 이벤트 ───────────────────────────────────────────────────
+function setupDeleteSuggestModal() {
+  const modal = document.getElementById('delete-suggest-modal');
+
+  document.getElementById('delete-suggest-cancel').addEventListener('click', () => {
+    modal.style.display = 'none';
+    deletingRestaurant = null;
+  });
+
+  modal.addEventListener('click', e => {
+    if (e.target === e.currentTarget) {
+      modal.style.display = 'none';
+      deletingRestaurant = null;
+    }
+  });
+
+  document.getElementById('delete-suggest-submit').addEventListener('click', async () => {
+    if (!deletingRestaurant) return;
+
+    const nickname = document.getElementById('delete-nickname').value.trim();
+    const reason   = document.getElementById('delete-reason').value.trim();
+
+    if (!nickname || !reason) {
+      alert('닉네임과 삭제 이유를 입력해주세요.');
+      return;
+    }
+
+    if (!checkThrottle()) {
+      showToast('잠시 후 다시 시도해주세요. (30초 쿨다운)', 'error');
+      return;
+    }
+
+    try {
+      await submitSuggestion({
+        restaurantId: deletingRestaurant.id,
+        restaurantName: deletingRestaurant.name,
+        type: 'delete',
+        proposedData: null,
+        nickname,
+        reason
+      });
+      markThrottle();
+      modal.style.display = 'none';
+      deletingRestaurant = null;
+      showToast('삭제 제안이 접수되었습니다! 관리자 승인 후 반영됩니다.');
+    } catch (err) {
+      console.error('삭제 제안 실패:', err);
+      showToast('삭제 제안 제출에 실패했습니다.', 'error');
+    }
+  });
 }
 
 // ─── 초기화 ──────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
   loadState();
   render();
-  updateResetDataBtn();
+
+  // Firestore 오버라이드 비동기 로드
+  loadFirestoreOverrides();
+
+  // Firebase Auth 세팅
+  setupAuth();
+
+  // 삭제 제안 모달
+  setupDeleteSuggestModal();
 
   document.getElementById('reset-btn').addEventListener('click', resetFilters);
-  document.getElementById('reset-data-btn').addEventListener('click', resetAllData);
   document.getElementById('add-restaurant-btn').addEventListener('click', () => openModal());
   document.getElementById('modal-close').addEventListener('click', closeModal);
   document.getElementById('modal-cancel').addEventListener('click', closeModal);
@@ -515,4 +704,20 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   document.getElementById('add-form').addEventListener('submit', handleSubmit);
 
+  // 검색창 이벤트
+  const searchInput = document.getElementById('search-input');
+  const searchClear = document.getElementById('search-clear');
+  searchInput.addEventListener('input', () => {
+    searchQuery = searchInput.value.trim();
+    searchClear.style.display = searchQuery ? '' : 'none';
+    currentPage = 1;
+    render();
+  });
+  searchClear.addEventListener('click', () => {
+    searchQuery = '';
+    searchInput.value = '';
+    searchClear.style.display = 'none';
+    currentPage = 1;
+    render();
+  });
 });

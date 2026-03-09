@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>통의동</b> 국빈관 경복궁역점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 38 1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
+      "mapx": "1269738782",
+      "mapy": "375766155"
+    },
+    {
+      "title": "명작신의주찹쌀순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
+      "title": "무교동북어국집",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 173",
+      "roadAddress": "서울특별시 중구 을지로1길 38",
+      "mapx": "1269798583",
+      "mapy": "375677548"
+    },
+    {
+      "title": "광화문뚝감",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-14",
+      "roadAddress": "서울특별시 종로구 새문안로3길 21",
+      "mapx": "1269725919",
+      "mapy": "375720689"
+    }
+  ]
+}

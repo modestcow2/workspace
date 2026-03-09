@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "모퉁이네",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 79-8",
+      "roadAddress": "서울특별시 종로구 계동길 67",
+      "mapx": "1269866828",
+      "mapy": "375803123"
+    },
+    {
+      "title": "밀양손만두",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 41 1층",
+      "mapx": "1269866713",
+      "mapy": "375791625"
+    },
+    {
+      "title": "배떡 로제떡볶이 종로점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
+      "roadAddress": "서울특별시 종로구 북촌로 35-4",
+      "mapx": "1269847145",
+      "mapy": "375798137"
+    },
+    {
+      "title": "명품삼청동떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 165-2",
+      "roadAddress": "서울특별시 종로구 북촌로 33-2",
+      "mapx": "1269848818",
+      "mapy": "375798891"
+    },
+    {
+      "title": "리김밥 현대건설점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-2",
+      "roadAddress": "서울특별시 종로구 율곡로 75",
+      "mapx": "1269875170",
+      "mapy": "375780140"
+    }
+  ]
+}

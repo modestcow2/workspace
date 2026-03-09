@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:21 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고구려전통<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 169-2 삼선빌딩1층",
+      "roadAddress": "서울특별시 중구 퇴계로 36 삼선빌딩1층",
+      "mapx": "1269772107",
+      "mapy": "375573423"
+    },
+    {
+      "title": "기보감<b>삼계탕</b>앤호호미역",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동2가 87 106,107",
+      "roadAddress": "서울특별시 중구 소공로 46 106,107",
+      "mapx": "1269832410",
+      "mapy": "375594044"
+    },
+    {
+      "title": "영양센터 본점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-32",
+      "roadAddress": "서울특별시 중구 명동2길 52",
+      "mapx": "1269831647",
+      "mapy": "375611197"
+    },
+    {
+      "title": "VIP참치 북창점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 134-1 은성빌딩 2층",
+      "roadAddress": "서울특별시 중구 남대문로1길 6 은성빌딩 2층",
+      "mapx": "1269776716",
+      "mapy": "375613585"
+    },
+    {
+      "title": "육대장 명동점",
+      "link": "https://www.yukdaejang.com",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-6 1층",
+      "roadAddress": "서울특별시 중구 명동8나길 45 1층",
+      "mapx": "1269823866",
+      "mapy": "375611468"
+    }
+  ]
+}

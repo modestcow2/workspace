@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "피쉬버켓 합정",
+      "link": "http://www.instagram.com/fishbuck3t",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 373-3 1층",
+      "roadAddress": "서울특별시 마포구 독막로2길 10 1층",
+      "mapx": "1269145588",
+      "mapy": "375481802"
+    },
+    {
+      "title": "커스텀샐러드 연남본점",
+      "link": "http://www.customsalad.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-59 1층",
+      "roadAddress": "서울특별시 마포구 동교로38길 19 1층",
+      "mapx": "1269254424",
+      "mapy": "375620354"
+    },
+    {
+      "title": "그리너 연남본점",
+      "link": "http://greener.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 240-22 1층 그리너",
+      "roadAddress": "서울특별시 마포구 성미산로 157 1층 그리너",
+      "mapx": "1269236753",
+      "mapy": "375646163"
+    },
+    {
+      "title": "크리스피프레시 합정점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 합정동 473 딜라이트스퀘어 2차 지하1층",
+      "roadAddress": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차 지하1층",
+      "mapx": "1269119694",
+      "mapy": "375509348"
+    },
+    {
+      "title": "그린포유 합정점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 481-6 1층",
+      "roadAddress": "서울특별시 마포구 동교로12안길 29 1층",
+      "mapx": "1269139434",
+      "mapy": "375541855"
+    }
+  ]
+}

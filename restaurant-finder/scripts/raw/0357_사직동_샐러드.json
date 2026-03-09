@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:40 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:32:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375785701"
     },
     {
-      "title": "필린 Fillin",
-      "link": "https://www.instagram.com/fillin_focaccia",
-      "category": "양식>샌드위치",
+      "title": "웰믹스 광화문점",
+      "link": "https://www.instagram.com/wellmixx.life",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 84 . 1층",
-      "roadAddress": "서울특별시 종로구 필운대로1길 12 . 1층",
-      "mapx": "1269688428",
-      "mapy": "375775444"
+      "address": "서울특별시 종로구 당주동 100 1층 웰믹스 광화문점",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 1층 웰믹스 광화문점",
+      "mapx": "1269734280",
+      "mapy": "375717585"
     }
   ]
 }

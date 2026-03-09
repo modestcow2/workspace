@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일식성진",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 59-11 1층",
+      "roadAddress": "서울특별시 중구 수표로2길 5 1층",
+      "mapx": "1269908398",
+      "mapy": "375623168"
+    },
+    {
+      "title": "회성댁",
+      "link": "https://app.catchtable.co.kr/ct/shop/izakaya_hoesungdec?from=share&type=WAITING",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 58-2 1층",
+      "roadAddress": "서울특별시 중구 퇴계로27길 35 1층",
+      "mapx": "1269912439",
+      "mapy": "375627789"
+    },
+    {
+      "title": "박지후<b>스시</b>",
+      "link": "http://instagram.com/pjhsushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 26-2 1층박지후스시",
+      "roadAddress": "서울특별시 중구 수표로6길 33 1층박지후스시",
+      "mapx": "1269922610",
+      "mapy": "375630024"
+    },
+    {
+      "title": "청해 <b>충무로</b>",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 81-10",
+      "roadAddress": "서울특별시 중구 퇴계로36길 36-1",
+      "mapx": "1269952335",
+      "mapy": "375602777"
+    },
+    {
+      "title": "설규일식",
+      "link": "https://app.catchtable.co.kr/ct/shop/seolkyu2020",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로5가 19-7 남경빌딩 2층",
+      "roadAddress": "서울특별시 중구 창경궁로 2 남경빌딩 2층",
+      "mapx": "1269986773",
+      "mapy": "375625236"
+    }
+  ]
+}

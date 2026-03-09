@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "빌라 더 다이닝 홍대본점",
+      "link": "http://app.catchtable.co.kr/ct/shop/villathedining",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 150-9 JnS.Bldg",
+      "roadAddress": "서울특별시 마포구 동교로30길 16 JnS.Bldg",
+      "mapx": "1269249144",
+      "mapy": "375601583"
+    },
+    {
+      "title": "테이커테이블 연남점",
+      "link": "https://app.catchtable.co.kr/ct/shop/takea.table",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 150-2 1층",
+      "roadAddress": "서울특별시 마포구 동교로30길 6 1층",
+      "mapx": "1269246201",
+      "mapy": "375605408"
+    },
+    {
+      "title": "페리도트 망원",
+      "link": "http://instagram.com/peridot_mangwon",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 414-17 1층",
+      "roadAddress": "서울특별시 마포구 포은로 106-1 1층",
+      "mapx": "1269047782",
+      "mapy": "375565167"
+    },
+    {
+      "title": "블루쇼파스타 연남",
+      "link": "https://blog.naver.com/bleuchaud",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 246-4 1층",
+      "roadAddress": "서울특별시 마포구 성미산로23길 46 1층",
+      "mapx": "1269205056",
+      "mapy": "375653576"
+    },
+    {
+      "title": "홍대IN파스타",
+      "link": "https://www.instagram.com/hongdae_in_pasta",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 355-5 준빌라",
+      "roadAddress": "서울특별시 마포구 홍익로5안길 32 준빌라",
+      "mapx": "1269211407",
+      "mapy": "375534442"
+    }
+  ]
+}

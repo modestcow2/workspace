@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "철판스토리",
+      "link": "https://blog.naver.com/goodi1982",
+      "category": "한식>주꾸미요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 293-6 104호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 20 104호",
+      "mapx": "1269701195",
+      "mapy": "372985151"
+    },
+    {
+      "title": "본죽 <b>성균관대</b>점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF101",
+      "category": "음식점>죽",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 168-1 1층 본죽성균관대점",
+      "roadAddress": "서울특별시 종로구 창경궁로 247 1층 본죽성균관대점",
+      "mapx": "1269992327",
+      "mapy": "375836740"
+    },
+    {
+      "title": "만복국수집 수원<b>성균관대</b>점",
+      "link": "http://www.manboknoodle.com/",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 296-29 1층 103호",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 10 1층 103호",
+      "mapx": "1269704842",
+      "mapy": "372993826"
+    },
+    {
+      "title": "김밥천국 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 218 1층 김밥천국",
+      "roadAddress": "서울특별시 종로구 성균관로 13-1 1층 김밥천국",
+      "mapx": "1269976738",
+      "mapy": "375839836"
+    },
+    {
+      "title": "찜닭에 꽂힌 닭집애 수원본점",
+      "link": "http://dakjibae.com/",
+      "category": "한식>찜닭",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 366-9 1층",
+      "roadAddress": "경기도 수원시 장안구 일월로66번길 15 1층",
+      "mapx": "1269783507",
+      "mapy": "372890135"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:15 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>성북동</b>집",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 91 집",
+      "roadAddress": "서울특별시 성북구 성북로24길 4 성북동집",
+      "mapx": "1269956790",
+      "mapy": "375944625"
+    },
+    {
+      "title": "<b>성북동칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-29 우성빌딩 1층",
+      "roadAddress": "서울특별시 성북구 성북로 5-7 우성빌딩 1층",
+      "mapx": "1270051726",
+      "mapy": "375887498"
+    },
+    {
+      "title": "우리밀국시",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 124-11 1층",
+      "roadAddress": "서울특별시 성북구 혜화로 84-2 1층",
+      "mapx": "1269984687",
+      "mapy": "375926738"
+    },
+    {
+      "title": "고석환손만두전골",
+      "link": "https://blog.naver.com/gsh6082",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 138 우리빌딩 1층",
+      "roadAddress": "서울특별시 성북구 성북로2길 55 우리빌딩 1층",
+      "mapx": "1270085954",
+      "mapy": "375901111"
+    },
+    {
+      "title": "<b>성북동</b> 명문막국수",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-17",
+      "roadAddress": "서울특별시 성북구 창경궁로 319",
+      "mapx": "1270048117",
+      "mapy": "375883363"
+    }
+  ]
+}

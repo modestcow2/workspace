@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:56 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더 시옷",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesiot",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-15 OK빌딩 2층",
+      "roadAddress": "서울특별시 중구 수표로 30 OK빌딩 2층",
+      "mapx": "1269903062",
+      "mapy": "375638355"
+    },
+    {
+      "title": "도우큐먼트",
+      "link": "https://www.instagram.com/doughcument",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 3-5 103호",
+      "roadAddress": "서울특별시 중구 퇴계로27길 16 103호",
+      "mapx": "1269917077",
+      "mapy": "375620619"
+    },
+    {
+      "title": "스탬파",
+      "link": "https://app.catchtable.co.kr/ct/shop/stampa_euljiro",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 53-5 1층",
+      "roadAddress": "서울특별시 중구 충무로 21-12 1층",
+      "mapx": "1269923582",
+      "mapy": "375633414"
+    },
+    {
+      "title": "뉴잭<b>피자</b> 을지로본점",
+      "link": "https://www.instagram.com/newjackpizza.seoul?igsh=c3hqOXc1bGFvZm90",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 33-1 1층 뉴잭피자",
+      "roadAddress": "서울특별시 중구 충무로 20-1 1층 뉴잭피자",
+      "mapx": "1269931816",
+      "mapy": "375630115"
+    },
+    {
+      "title": "치아바타 몽스",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 16-7 1층",
+      "roadAddress": "서울특별시 중구 퇴계로36길 21 1층",
+      "mapx": "1269945288",
+      "mapy": "375606663"
+    }
+  ]
+}

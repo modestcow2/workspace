@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "문화식당",
+      "link": "https://m.booking.naver.com/booking/6/bizes/398158/items/3555119?area=plt",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 122-7 2층, 3층",
+      "roadAddress": "서울특별시 성북구 혜화로 88 2층, 3층",
+      "mapx": "1269982112",
+      "mapy": "375927768"
+    },
+    {
+      "title": "모짜",
+      "link": "https://instagram.com/102mozza?utm_source=ig_profile_share&igshid=by0nbplhnvep",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 68-4",
+      "roadAddress": "서울특별시 성북구 성북로 102",
+      "mapx": "1269975679",
+      "mapy": "375930524"
+    },
+    {
+      "title": "부부셰프",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 48 1층",
+      "roadAddress": "서울특별시 성북구 성북로2길 21 1층",
+      "mapx": "1270070733",
+      "mapy": "375894828"
+    },
+    {
+      "title": "첸타니",
+      "link": "https://app.catchtable.co.kr/ct/shop/centanni",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 254-11 지하1층",
+      "roadAddress": "서울특별시 성북구 성북로28길 6-5 지하1층",
+      "mapx": "1269940717",
+      "mapy": "375951639"
+    },
+    {
+      "title": "서울<b>파스타</b> 일만치노",
+      "link": "https://www.instagram.com/ilmancino_seoul",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 39 1층 101호",
+      "roadAddress": "서울특별시 성북구 성북로5길 12 1층 101호",
+      "mapx": "1270043168",
+      "mapy": "375889954"
+    }
+  ]
+}

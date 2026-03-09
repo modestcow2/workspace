@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "신안촌 본점",
+      "link": "https://catchtable.co.kr/sinanchon_og",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 152 1층",
+      "roadAddress": "서울특별시 종로구 사직로12길 8 1층",
+      "mapx": "1269708935",
+      "mapy": "375756401"
+    },
+    {
+      "title": "중원<b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 178-1",
+      "roadAddress": "서울특별시 종로구 사직로12길 28",
+      "mapx": "1269708032",
+      "mapy": "375748513"
+    },
+    {
+      "title": "지혜",
+      "link": "http://www.instagram.com/wisdom_jihye_koreanfood",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 149",
+      "roadAddress": "서울특별시 종로구 사직로10길 9-1",
+      "mapx": "1269705357",
+      "mapy": "375755229"
+    },
+    {
+      "title": "포도나무",
+      "link": "http://facebook.com/podonamu1995",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 130-1 131",
+      "roadAddress": "서울특별시 종로구 사직로 108-1 131",
+      "mapx": "1269708132",
+      "mapy": "375758311"
+    },
+    {
+      "title": "향연",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 160 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 9-6 1층",
+      "mapx": "1269706412",
+      "mapy": "375754119"
+    }
+  ]
+}

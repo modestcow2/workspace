@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>와룡동</b>닭매운탕",
+      "link": "https://smartstore.naver.com/wadak2014",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 38-1 동주빌딩 1층",
+      "roadAddress": "서울특별시 종로구 율곡로10길 30 동주빌딩 1층",
+      "mapx": "1269909994",
+      "mapy": "375761086"
+    },
+    {
+      "title": "태양이네",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 171-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11가길 46 1층",
+      "mapx": "1269907120",
+      "mapy": "375745951"
+    },
+    {
+      "title": "또와생고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 166 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11가길 48 1층",
+      "mapx": "1269906518",
+      "mapy": "375747270"
+    },
+    {
+      "title": "장모식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 111",
+      "roadAddress": "서울특별시 종로구 율곡로8길 18",
+      "mapx": "1269906137",
+      "mapy": "375764792"
+    },
+    {
+      "title": "와룡집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 171-1",
+      "roadAddress": "서울특별시 종로구 돈화문로11가길 46",
+      "mapx": "1269907000",
+      "mapy": "375745999"
+    }
+  ]
+}

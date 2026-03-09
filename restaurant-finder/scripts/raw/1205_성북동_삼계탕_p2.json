@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>성북동</b>누룽지백숙",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 281-1",
+      "roadAddress": "서울특별시 성북구 성북로31길 9",
+      "mapx": "1269905008",
+      "mapy": "375945857"
+    },
+    {
+      "title": "토속집",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-41",
+      "roadAddress": "서울특별시 성북구 창경궁로43길 10",
+      "mapx": "1270045239",
+      "mapy": "375884675"
+    },
+    {
+      "title": "백년토종<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-3",
+      "roadAddress": "서울특별시 종로구 북촌로 41",
+      "mapx": "1269848048",
+      "mapy": "375806132"
+    },
+    {
+      "title": "포도원<b>삼계탕</b>대학로점",
+      "link": "https://blog.naver.com/podowon81",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 154-1 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로26길 41-5 1층",
+      "mapx": "1269996845",
+      "mapy": "375821698"
+    },
+    {
+      "title": "정릉골오리집",
+      "link": "",
+      "category": "한식>오리요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 697-3",
+      "roadAddress": "서울특별시 성북구 솔샘로 16-7",
+      "mapx": "1270052553",
+      "mapy": "376093892"
+    }
+  ]
+}

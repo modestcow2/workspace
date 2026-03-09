@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영빈루블랙 그랜드센트럴점",
+      "link": "https://blog.naver.com/aking01795",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "친니",
+      "link": "http://www.chinee.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
+      "mapx": "1269762577",
+      "mapy": "375724523"
+    },
+    {
+      "title": "란 이자카야",
+      "link": "https://blog.naver.com/yosuk5791",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 19-1",
+      "roadAddress": "서울특별시 중구 세종대로 26-1",
+      "mapx": "1269744865",
+      "mapy": "375588024"
+    },
+    {
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "프레스센터 연회 &amp; 기자클럽 레스토랑",
+      "link": "https://roovook.com/ko/sales-engine/142",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 25 19층 기자클럽",
+      "roadAddress": "서울특별시 중구 세종대로 124 19층 기자클럽",
+      "mapx": "1269778908",
+      "mapy": "375674232"
+    }
+  ]
+}

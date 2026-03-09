@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:34 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "포보 <b>성균관대</b>점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 199-8 포보",
+      "roadAddress": "서울특별시 종로구 성균관로 4 포보",
+      "mapx": "1269985965",
+      "mapy": "375833382"
+    },
+    {
+      "title": "철판스토리",
+      "link": "https://blog.naver.com/goodi1982",
+      "category": "한식>주꾸미요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 293-6 104호",
+      "roadAddress": "경기도 수원시 장안구 서부로2123번길 20 104호",
+      "mapx": "1269701195",
+      "mapy": "372985151"
+    },
+    {
+      "title": "만복국수집 수원<b>성균관대</b>점",
+      "link": "http://www.manboknoodle.com/",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 296-29 1층 103호",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 10 1층 103호",
+      "mapx": "1269704842",
+      "mapy": "372993826"
+    },
+    {
+      "title": "금별맥주 <b>성균관대</b>역점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-81 1층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 59 1층",
+      "mapx": "1269701609",
+      "mapy": "372972173"
+    }
+  ]
+}

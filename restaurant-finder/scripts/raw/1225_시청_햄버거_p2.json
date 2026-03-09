@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:17 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "버거더심플 부천<b>시청</b>점",
+      "link": "https://www.instagram.com/burgerthesimple",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1163-8 106호",
+      "roadAddress": "경기도 부천시 원미구 석천로 179 106호",
+      "mapx": "1267626360",
+      "mapy": "375034465"
+    },
+    {
+      "title": "맥도날드 서울<b>시청</b>점",
+      "link": "https://www.mcdonalds.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269793605",
+      "mapy": "375668620"
+    },
+    {
+      "title": "맘스터치 서울<b>시청</b>점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 21-3 2층",
+      "roadAddress": "서울특별시 중구 무교로 12 2층",
+      "mapx": "1269793750",
+      "mapy": "375670285"
+    },
+    {
+      "title": "바스버거 광화문점",
+      "link": "http://www.basburger.net",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 11 광일빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 지하1층",
+      "mapx": "1269797080",
+      "mapy": "375681229"
+    },
+    {
+      "title": "바스버거 서소문<b>시청</b>역점",
+      "link": "https://www.basburger.net/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-28",
+      "roadAddress": "서울특별시 중구 세종대로11길 33",
+      "mapx": "1269741569",
+      "mapy": "375620973"
+    }
+  ]
+}

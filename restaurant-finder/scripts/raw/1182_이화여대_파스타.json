@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:26 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "비아37 신촌본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/via37_",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-31 2층 비아37 신촌본점",
+      "roadAddress": "서울특별시 서대문구 이화여대길 68 2층 비아37 신촌본점",
+      "mapx": "1269446608",
+      "mapy": "375592889"
+    },
+    {
+      "title": "신촌칼",
+      "link": "https://instagram.com/shinchon_kal",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-96 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
+      "mapx": "1269390887",
+      "mapy": "375578967"
+    },
+    {
+      "title": "식탁 하늬솔점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sictac_",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 85 하늬솔빌딩",
+      "roadAddress": "서울특별시 서대문구 성산로 527 하늬솔빌딩",
+      "mapx": "1269441142",
+      "mapy": "375637260"
+    },
+    {
+      "title": "LORD SANDWICH",
+      "link": "https://www.instagram.com/gallery_lord_sandwich",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-1 1층 LORD SANDWICH",
+      "roadAddress": "서울특별시 서대문구 연대동문길 45 1층 LORD SANDWICH",
+      "mapx": "1269444463",
+      "mapy": "375644415"
+    },
+    {
+      "title": "심플리스트",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 54-11 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 24 2층",
+      "mapx": "1269459445",
+      "mapy": "375578893"
+    }
+  ]
+}

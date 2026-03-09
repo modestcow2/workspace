@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:25 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "찜닭에 꽂힌 닭집애 수원본점",
+      "link": "http://dakjibae.com/",
+      "category": "한식>찜닭",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 366-9 1층",
+      "roadAddress": "경기도 수원시 장안구 일월로66번길 15 1층",
+      "mapx": "1269783507",
+      "mapy": "372890135"
+    },
+    {
+      "title": "포차천국 수원천천점",
+      "link": "https://www.instagram.com/pochaheaven_cheoncheon",
+      "category": "술집>포장마차",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 385-19 1층",
+      "roadAddress": "경기도 수원시 장안구 일월로76번길 23 1층",
+      "mapx": "1269780065",
+      "mapy": "372901002"
+    }
+  ]
+}

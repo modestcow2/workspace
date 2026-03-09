@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "랄랄라클럽",
+      "link": "http://instagram.com/lallalla_350",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하1층 106호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하1층 106호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
+      "title": "알라보 종각센트로폴리스점",
+      "link": "",
+      "category": "음식점>도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
+      "mapx": "1269836537",
+      "mapy": "375715557"
+    },
+    {
+      "title": "슬로우캘리 종각역",
+      "link": "http://www.slowcali.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 1층 Retail 1R-7호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 1층 Retail 1R-7호",
+      "mapx": "1269836590",
+      "mapy": "375714967"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
+    },
+    {
+      "title": "레스토랑 담",
+      "link": "https://www.instagram.com/restaurant_dam",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 12-2 1층",
+      "roadAddress": "서울특별시 종로구 인사동길 30-7 1층",
+      "mapx": "1269860243",
+      "mapy": "375736433"
+    }
+  ]
+}

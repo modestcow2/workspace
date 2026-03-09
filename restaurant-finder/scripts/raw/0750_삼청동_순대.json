@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "롤라곱창 안국역점",
+      "link": "https://www.instagram.com/lolla_gobchang?igsh=cWt6NDJwajBjZ3k1",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-15 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 4 1층",
+      "mapx": "1269859341",
+      "mapy": "375778300"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
+      "title": "떡산 안국",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
+      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
+      "mapx": "1269857282",
+      "mapy": "375780061"
+    },
+    {
+      "title": "신의주찹쌀<b>순대</b> 안국역점",
+      "link": "http://www.bigsoondae.com/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 111-1",
+      "roadAddress": "서울특별시 종로구 율곡로 59",
+      "mapx": "1269857102",
+      "mapy": "375769015"
+    },
+    {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    }
+  ]
+}

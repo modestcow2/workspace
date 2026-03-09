@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "웰빙유황오리 본점",
+      "link": "",
+      "category": "한식>오리요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 132-125 형제빌딩",
+      "roadAddress": "서울특별시 성북구 정릉로36길 68 형제빌딩",
+      "mapx": "1270148256",
+      "mapy": "376024194"
+    },
+    {
+      "title": "빅쭌부대찌개 <b>정릉</b>점",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 409-95 2층",
+      "roadAddress": "서울특별시 성북구 보국문로 38 2층",
+      "mapx": "1270103679",
+      "mapy": "376078649"
+    },
+    {
+      "title": "신천순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 161-15",
+      "roadAddress": "서울특별시 성북구 정릉로 253",
+      "mapx": "1270121236",
+      "mapy": "376045554"
+    },
+    {
+      "title": "<b>정릉</b>설렁탕",
+      "link": "http://02-919-5911.kti114.net",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 413-14 초원빌딩 1층",
+      "roadAddress": "서울특별시 성북구 보국문로 16 초원빌딩 1층",
+      "mapx": "1270113190",
+      "mapy": "376060232"
+    },
+    {
+      "title": "김밥싸고 커피내리고",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동선동5가 166 1층",
+      "roadAddress": "서울특별시 성북구 아리랑로 58 1층",
+      "mapx": "1270148078",
+      "mapy": "375977925"
+    }
+  ]
+}

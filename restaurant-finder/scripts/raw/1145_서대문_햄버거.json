@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "링키지버거 연희본점",
+      "link": "https://www.instagram.com/linkageburger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 192-29 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 53 1층",
+      "mapx": "1269274597",
+      "mapy": "375663092"
+    },
+    {
+      "title": "버거옥 신촌직영점",
+      "link": "https://burger-ok.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-14",
+      "roadAddress": "서울특별시 서대문구 신촌로 87",
+      "mapx": "1269361324",
+      "mapy": "375556192"
+    },
+    {
+      "title": "신촌버거",
+      "link": "https://www.instagram.com/sinchon_burger?igsh=eXR4bjA2d2o3Z3B6&utm_source=qr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-21 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 39 1층",
+      "mapx": "1269345639",
+      "mapy": "375581394"
+    },
+    {
+      "title": "삼촌버거",
+      "link": "https://www.instagram.com/samchon_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 104-36 1층 삼촌버거",
+      "roadAddress": "서울특별시 서대문구 신촌로 149 1층 삼촌버거",
+      "mapx": "1269424048",
+      "mapy": "375568564"
+    },
+    {
+      "title": "LORD SANDWICH",
+      "link": "https://www.instagram.com/gallery_lord_sandwich",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 84-1 1층 LORD SANDWICH",
+      "roadAddress": "서울특별시 서대문구 연대동문길 45 1층 LORD SANDWICH",
+      "mapx": "1269444463",
+      "mapy": "375644415"
+    }
+  ]
+}

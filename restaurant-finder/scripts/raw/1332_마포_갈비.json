@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>마포</b>진짜원조최대포 본점",
+      "link": "https://www.instagram.com/choidaepo_official",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 255-6 1층",
+      "roadAddress": "서울특별시 마포구 만리재로1길 1-2 1층",
+      "mapx": "1269518260",
+      "mapy": "375446329"
+    },
+    {
+      "title": "<b>마포</b>숯불<b>갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강남구 논현동 62-3 마포숯불갈비",
+      "roadAddress": "서울특별시 강남구 도산대로 232 마포숯불갈비",
+      "mapx": "1270328433",
+      "mapy": "375208181"
+    },
+    {
+      "title": "<b>마포갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 동작구 대방동 406-6 마포갈비",
+      "roadAddress": "서울특별시 동작구 보라매로 112 마포갈비",
+      "mapx": "1269284420",
+      "mapy": "374993109"
+    },
+    {
+      "title": "<b>마포갈비</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 성남시 분당구 서현동 83-3 1층 마포갈비",
+      "roadAddress": "경기도 성남시 분당구 서현로257번길 14 1층 마포갈비",
+      "mapx": "1271306399",
+      "mapy": "373853925"
+    },
+    {
+      "title": "송원 <b>마포</b> 돼지<b>갈비</b>",
+      "link": "https://www.instagram.com/songwonporkribs",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 영등포구 문래동4가 9-8",
+      "roadAddress": "서울특별시 영등포구 도림로147길 2-1",
+      "mapx": "1268891844",
+      "mapy": "375166993"
+    }
+  ]
+}

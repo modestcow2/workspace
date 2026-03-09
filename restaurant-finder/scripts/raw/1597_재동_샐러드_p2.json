@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:03 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "땡스오트 안국",
+      "link": "https://www.thanksoat.co.kr/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 36-2 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-10 1층",
+      "mapx": "1269846561",
+      "mapy": "375787585"
+    },
+    {
+      "title": "애쉬빌 베이커리 카페",
+      "link": "https://www.instagram.com/ashville_bakery/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 28 유니온빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 5-5 유니온빌딩 지하1층",
+      "mapx": "1269846562",
+      "mapy": "375790291"
+    },
+    {
+      "title": "콩지POT지",
+      "link": "https://blog.naver.com/konggpotg",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
+    },
+    {
+      "title": "대장장이화덕피자",
+      "link": "http://pf.kakao.com/_Zscxmb",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 202-1",
+      "roadAddress": "서울특별시 종로구 북촌로 42-4",
+      "mapx": "1269853702",
+      "mapy": "375805827"
+    },
+    {
+      "title": "스파다",
+      "link": "https://catchtable.co.kr/spada",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 60 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
+      "mapx": "1269855697",
+      "mapy": "375786371"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:24 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "뽀뽀<b>치킨</b>",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 188",
+      "roadAddress": "서울특별시 중구 퇴계로 68-1",
+      "mapx": "1269797280",
+      "mapy": "375591470"
+    },
+    {
+      "title": "신한국통닭 남창동점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 47-9",
+      "roadAddress": "서울특별시 중구 퇴계로 47-2",
+      "mapx": "1269777954",
+      "mapy": "375583881"
+    },
+    {
+      "title": "신한국통닭",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 25-2",
+      "roadAddress": "서울특별시 중구 남대문로 26-1",
+      "mapx": "1269785851",
+      "mapy": "375609776"
+    },
+    {
+      "title": "BBQ<b>치킨</b> 남대문점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 62-7 2층",
+      "roadAddress": "서울특별시 중구 퇴계로 39-1 2층",
+      "mapx": "1269769621",
+      "mapy": "375581656"
+    },
+    {
+      "title": "알라보 남대문그랜드센트럴점",
+      "link": "",
+      "category": "음식점>도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 101호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 101호",
+      "mapx": "1269745359",
+      "mapy": "375577269"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:06 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "핫떡 <b>정릉</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 110-40 1층 핫떡",
+      "roadAddress": "서울특별시 성북구 아리랑로 120 1층 핫떡",
+      "mapx": "1270137180",
+      "mapy": "376026094"
+    },
+    {
+      "title": "기차<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 347-2",
+      "roadAddress": "서울특별시 성북구 솔샘로18길 91",
+      "mapx": "1270087058",
+      "mapy": "376089346"
+    },
+    {
+      "title": "한아름곱창",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 393-1",
+      "roadAddress": "서울특별시 성북구 솔샘로6길 59",
+      "mapx": "1270080133",
+      "mapy": "376089878"
+    },
+    {
+      "title": "동대문엽기떡볶이 <b>정릉</b>점",
+      "link": "https://blog.naver.com/ddm_yupdduk",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 164-15",
+      "roadAddress": "서울특별시 성북구 보국문로 4",
+      "mapx": "1270117450",
+      "mapy": "376050023"
+    },
+    {
+      "title": "성북주가",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 388-7 1층",
+      "roadAddress": "서울특별시 성북구 보국문로11길 21-12 1층",
+      "mapx": "1270089205",
+      "mapy": "376080893"
+    }
+  ]
+}

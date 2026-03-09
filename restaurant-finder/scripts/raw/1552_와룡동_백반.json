@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>와룡동</b>닭매운탕",
+      "link": "https://smartstore.naver.com/wadak2014",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 38-1 동주빌딩 1층",
+      "roadAddress": "서울특별시 종로구 율곡로10길 30 동주빌딩 1층",
+      "mapx": "1269909994",
+      "mapy": "375761086"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
+    },
+    {
+      "title": "양지식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로6가 205-1",
+      "roadAddress": "서울특별시 종로구 율곡로29길 4",
+      "mapx": "1270069119",
+      "mapy": "375739033"
+    },
+    {
+      "title": "전주집",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 281-9",
+      "roadAddress": "서울특별시 종로구 종로40가길 5",
+      "mapx": "1270063610",
+      "mapy": "375702900"
+    },
+    {
+      "title": "일미식당",
+      "link": "http://cafe.naver.com/ilmicafe",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
+      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
+      "mapx": "1269876939",
+      "mapy": "375728300"
+    }
+  ]
+}

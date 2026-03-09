@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:02 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "마라장룡",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 250-1 . 제1호",
+      "roadAddress": "서울특별시 서대문구 세무서길 25 . 제1호",
+      "mapx": "1269454942",
+      "mapy": "375891764"
+    },
+    {
+      "title": "미메이라 홍제점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 41-1 1층",
+      "roadAddress": "서울특별시 서대문구 세검정로1길 55 1층",
+      "mapx": "1269444571",
+      "mapy": "375934025"
+    },
+    {
+      "title": "양꼬치 피었습니다 환차이",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 287-50",
+      "roadAddress": "서울특별시 서대문구 간호대로 33",
+      "mapx": "1269474337",
+      "mapy": "375969479"
+    },
+    {
+      "title": "하얼빈양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 279-63 1층",
+      "roadAddress": "서울특별시 서대문구 간호대로1길 4 1층",
+      "mapx": "1269486801",
+      "mapy": "375963600"
+    },
+    {
+      "title": "욜로 <b>마라탕</b>",
+      "link": "",
+      "category": "음식점>중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 277-27 1층",
+      "roadAddress": "서울특별시 서대문구 모래내로 353 1층",
+      "mapx": "1269354160",
+      "mapy": "375815404"
+    }
+  ]
+}

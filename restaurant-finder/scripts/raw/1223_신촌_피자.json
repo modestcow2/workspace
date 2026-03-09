@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "치즈웨이브",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-147 1,2층 치즈웨이브",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 34-6 1,2층 치즈웨이브",
+      "mapx": "1269350365",
+      "mapy": "375583559"
+    },
+    {
+      "title": "이석덕생면파스타 <b>신촌</b>점",
+      "link": "https://www.instagram.com/lsd_pasta/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-28 2층 이석덕생면파스타",
+      "roadAddress": "서울특별시 서대문구 명물길 16 2층 이석덕생면파스타",
+      "mapx": "1269378075",
+      "mapy": "375575919"
+    },
+    {
+      "title": "1987<b>피자</b> <b>신촌</b>점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-12 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 26 지하1층",
+      "mapx": "1269354328",
+      "mapy": "375589926"
+    },
+    {
+      "title": "소뇨 레스토랑",
+      "link": "https://www.instagram.com/sogno_5f?igsh=dTRuNTZmdHl2aXEx",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-2 준성빌딩 5층",
+      "roadAddress": "서울특별시 서대문구 명물길 32 준성빌딩 5층",
+      "mapx": "1269384531",
+      "mapy": "375581417"
+    },
+    {
+      "title": "셔우드",
+      "link": "https://instagram.com/sherwood.seoul?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 189-5 2층",
+      "roadAddress": "서울특별시 마포구 와우산로37길 11 2층",
+      "mapx": "1269301940",
+      "mapy": "375560664"
+    }
+  ]
+}

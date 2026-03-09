@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "홈보이서울",
+      "link": "http://www.instagram.com/homeboy_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 94 1층 홈보이서울",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
+      "mapx": "1269730709",
+      "mapy": "375762354"
+    },
+    {
+      "title": "양궈푸<b>마라탕</b> 명동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 36-3 2층",
+      "roadAddress": "서울특별시 중구 명동9길 15 2층",
+      "mapx": "1269847660",
+      "mapy": "375645620"
+    },
+    {
+      "title": "용가회전훠궈 명동점",
+      "link": "https://www.instagram.com/loonger_md_myeongdong",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25 2, 3층",
+      "roadAddress": "서울특별시 중구 명동3길 12 2, 3층",
+      "mapx": "1269836250",
+      "mapy": "375642295"
+    },
+    {
+      "title": "라향각 <b>마라탕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
+      "roadAddress": "서울특별시 중구 세종대로21길 67 2층 라향각마라탕",
+      "mapx": "1269757332",
+      "mapy": "375692879"
+    },
+    {
+      "title": "마라공방 종각2호점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 1층",
+      "mapx": "1269798224",
+      "mapy": "375708585"
+    }
+  ]
+}

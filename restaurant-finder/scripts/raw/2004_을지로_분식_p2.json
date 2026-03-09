@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:44 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자매<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로5가 274-12",
+      "roadAddress": "서울특별시 중구 을지로36길 23",
+      "mapx": "1270017035",
+      "mapy": "375655379"
+    },
+    {
+      "title": "마포만두 시청점",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
+    },
+    {
+      "title": "뽁 현대아울렛 동대문점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
+      "mapx": "1270075065",
+      "mapy": "375688780"
+    },
+    {
+      "title": "싸다김밥 <b>을지로</b>입구역점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-22 지하1층",
+      "roadAddress": "서울특별시 중구 명동3길 44 지하1층",
+      "mapx": "1269836405",
+      "mapy": "375656326"
+    },
+    {
+      "title": "김가네 동대문디자인플라자점",
+      "link": "https://www.youtube.com/channel/UCSoX0xvdMGNBHTM1Ra_lxrg",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로7가 143 지하2층 DDP마켓 D6호",
+      "roadAddress": "서울특별시 중구 을지로 281 지하2층 DDP마켓 D6호",
+      "mapx": "1270097353",
+      "mapy": "375668269"
+    }
+  ]
+}

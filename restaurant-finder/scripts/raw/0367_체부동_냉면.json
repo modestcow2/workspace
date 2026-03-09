@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김진목삼 2호점",
+      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam_second",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 68 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 9 1층",
+      "mapx": "1269719891",
+      "mapy": "375769255"
+    },
+    {
+      "title": "<b>체부동</b>잔치집돼지갈비",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 194-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 24",
+      "mapx": "1269710530",
+      "mapy": "375765468"
+    },
+    {
+      "title": "황금정",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 211-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 38 1층",
+      "mapx": "1269702700",
+      "mapy": "375767768"
+    },
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "류경회관 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
+      "mapx": "1269818280",
+      "mapy": "375724939"
+    }
+  ]
+}

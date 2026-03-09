@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "소보로식당",
+      "link": "https://www.instagram.com/soboro_sikdang",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 경희궁 롯데캐슬 상가 1층 118호",
+      "roadAddress": "서울특별시 종로구 통일로 230 경희궁 롯데캐슬 상가 1층 118호",
+      "mapx": "1269591683",
+      "mapy": "375737601"
+    },
+    {
+      "title": "짱구떡볶이",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 1층 22호",
+      "roadAddress": "서울특별시 종로구 통일로 230 1층 22호",
+      "mapx": "1269594558",
+      "mapy": "375734646"
+    },
+    {
+      "title": "커피가게동경 독립문",
+      "link": "https://smartstore.naver.com/coffeeshopdongkyung",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 46-1746 1층",
+      "roadAddress": "서울특별시 종로구 통일로12길 16-1 1층",
+      "mapx": "1269604067",
+      "mapy": "375735229"
+    },
+    {
+      "title": "할리스 <b>독립문역</b>점",
+      "link": "http://www.hollys.co.kr/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89",
+      "roadAddress": "서울특별시 종로구 통일로 230",
+      "mapx": "1269591351",
+      "mapy": "375737939"
+    },
+    {
+      "title": "프릳츠 독립문점",
+      "link": "https://www.instagram.com/fritzandbread/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 46-1732 1층",
+      "roadAddress": "서울특별시 종로구 통일로12길 24-1 1층",
+      "mapx": "1269606819",
+      "mapy": "375738067"
+    }
+  ]
+}

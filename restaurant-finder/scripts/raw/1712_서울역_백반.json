@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일미장어",
+      "link": "http://blog.daum.net/ilmijangeo",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 동자동 35-44",
+      "roadAddress": "서울특별시 용산구 후암로57길 35-15",
+      "mapx": "1269743381",
+      "mapy": "375521681"
+    },
+    {
+      "title": "여기래",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 용산구 후암동 105-194",
+      "roadAddress": "서울특별시 용산구 후암로23길 3-7",
+      "mapx": "1269773157",
+      "mapy": "375492926"
+    },
+    {
+      "title": "밥드림",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151",
+      "roadAddress": "서울특별시 중구 칠패로 27",
+      "mapx": "1269723311",
+      "mapy": "375599446"
+    },
+    {
+      "title": "우정식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-82",
+      "roadAddress": "서울특별시 중구 남대문시장길 12-9",
+      "mapx": "1269767687",
+      "mapy": "375598118"
+    },
+    {
+      "title": "영도국밥집",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 48-11",
+      "roadAddress": "서울특별시 중구 남대문시장4길 39",
+      "mapx": "1269773255",
+      "mapy": "375584453"
+    }
+  ]
+}

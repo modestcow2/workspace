@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고쿤<b>스시</b>",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 제지1층 121호",
+      "roadAddress": "서울특별시 종로구 통일로 230 제지1층 121호",
+      "mapx": "1269592729",
+      "mapy": "375736317"
+    },
+    {
+      "title": "<b>스시</b>마루",
+      "link": "https://www.instagram.com/sushimaru_sdm",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 3-1 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 161-5 1층",
+      "mapx": "1269637368",
+      "mapy": "375682647"
+    },
+    {
+      "title": "<b>스시</b>쿠니",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 233 팰리스에비뉴 1층 3133호",
+      "roadAddress": "서울특별시 종로구 경교장길 35 팰리스에비뉴 1층 3133호",
+      "mapx": "1269657994",
+      "mapy": "375678288"
+    },
+    {
+      "title": "<b>스시</b>누하",
+      "link": "https://catchtable.co.kr/sushi_nuha",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 146-3 스시누하",
+      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
+      "mapx": "1269686694",
+      "mapy": "375791432"
+    },
+    {
+      "title": "<b>스시</b>호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
+    }
+  ]
+}

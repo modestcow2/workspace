@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아이자와",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
+      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "늘솜",
+      "link": "https://www.instagram.com/_neulsom_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80",
+      "roadAddress": "서울특별시 종로구 사직로 130",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "사직동 그 가게",
+      "link": "http://www.rogpa.com",
+      "category": "테마카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 1-7",
+      "roadAddress": "서울특별시 종로구 사직로9길 18",
+      "mapx": "1269677898",
+      "mapy": "375770928"
+    },
+    {
+      "title": "미카야",
+      "link": "https://www.instagram.com/mikayatable_",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 적선현대빌딩",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대빌딩",
+      "mapx": "1269733152",
+      "mapy": "375753857"
+    },
+    {
+      "title": "베나레스 광화문점",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28",
+      "mapx": "1269736144",
+      "mapy": "375744582"
+    }
+  ]
+}

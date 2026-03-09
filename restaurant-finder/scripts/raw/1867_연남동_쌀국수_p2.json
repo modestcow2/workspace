@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:40 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옥자",
+      "link": "https://www.instagram.com/okza_yeonnam",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-42 1층",
+      "roadAddress": "서울특별시 마포구 성미산로29길 40-15 1층",
+      "mapx": "1269224834",
+      "mapy": "375654838"
+    },
+    {
+      "title": "소이연남",
+      "link": "https://www.instagram.com/soi_yeonnam/",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 229-67 1층",
+      "roadAddress": "서울특별시 마포구 동교로 267 1층",
+      "mapx": "1269253617",
+      "mapy": "375634777"
+    },
+    {
+      "title": "포가레 연남본점",
+      "link": "https://blog.naver.com/phogale_yeonnam",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 373-13 2층",
+      "roadAddress": "서울특별시 마포구 동교로 227-7 2층",
+      "mapx": "1269235948",
+      "mapy": "375606960"
+    },
+    {
+      "title": "우라프라우드",
+      "link": "https://www.instagram.com/uraproudrestaurant",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-12 4층",
+      "roadAddress": "서울특별시 마포구 동교로38길 6 4층",
+      "mapx": "1269246924",
+      "mapy": "375616511"
+    },
+    {
+      "title": "쿤댕",
+      "link": "https://app.catchtable.co.kr/ct/shop/kun.daeng",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 382-18 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 42-6 2층",
+      "mapx": "1269255137",
+      "mapy": "375610570"
+    }
+  ]
+}

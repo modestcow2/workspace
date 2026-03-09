@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>성북동</b>면옥집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 330-105",
+      "roadAddress": "서울특별시 성북구 대사관로 40",
+      "mapx": "1269886323",
+      "mapy": "375959190"
+    },
+    {
+      "title": "<b>성북동</b>돼지갈비 본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 114-2",
+      "roadAddress": "서울특별시 성북구 성북로 115",
+      "mapx": "1269961462",
+      "mapy": "375933105"
+    },
+    {
+      "title": "쌍다리돼지불백 본점",
+      "link": "https://www.instagram.com/ssangdari/",
+      "category": "육류,고기요리>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 109-2",
+      "roadAddress": "서울특별시 성북구 성북로23길 4",
+      "mapx": "1269958088",
+      "mapy": "375935292"
+    },
+    {
+      "title": "<b>성북동</b>삼거리전통설렁탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 103",
+      "roadAddress": "서울특별시 성북구 성북로 105",
+      "mapx": "1269972839",
+      "mapy": "375926309"
+    },
+    {
+      "title": "<b>성북동</b>김밥",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 161-12 1층",
+      "roadAddress": "서울특별시 성북구 성북로 62 1층",
+      "mapx": "1270021877",
+      "mapy": "375930978"
+    }
+  ]
+}

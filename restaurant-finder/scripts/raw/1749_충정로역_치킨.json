@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "계모임",
+      "link": "https://www.instagram.com/gyemoim_official",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 142 1층 2호",
+      "roadAddress": "서울특별시 중구 중림로 39 1층 2호",
+      "mapx": "1269676320",
+      "mapy": "375578795"
+    },
+    {
+      "title": "깐부<b>치킨</b> <b>충정로역</b>점",
+      "link": "http://www.kkanbu.co.kr/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 500 디오센터 101호",
+      "roadAddress": "서울특별시 중구 서소문로 38 디오센터 101호",
+      "mapx": "1269663135",
+      "mapy": "375605059"
+    },
+    {
+      "title": "BHC<b>치킨</b> 서대문역점",
+      "link": "https://www.bhc.co.kr/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 99-21",
+      "roadAddress": "서울특별시 서대문구 충정로9길 8",
+      "mapx": "1269649398",
+      "mapy": "375644727"
+    },
+    {
+      "title": "1킬로<b>치킨</b>",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 112 2층",
+      "roadAddress": "서울특별시 서대문구 경기대로 26-22 2층",
+      "mapx": "1269626897",
+      "mapy": "375615351"
+    },
+    {
+      "title": "금별맥주 <b>충정로역</b>점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 200 2동 104호",
+      "roadAddress": "서울특별시 중구 중림로 10 2동 104호",
+      "mapx": "1269654776",
+      "mapy": "375587552"
+    }
+  ]
+}

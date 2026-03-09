@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:07 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "고려<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 25-1 원창빌딩",
+      "roadAddress": "서울특별시 중구 세종대로20길 23 원창빌딩",
+      "mapx": "1269787500",
+      "mapy": "375671549"
+    },
+    {
+      "title": "목멱산방",
+      "link": "https://mmmroom.co.kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
+      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
+      "mapx": "1269869447",
+      "mapy": "375581107"
+    },
+    {
+      "title": "인천집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 60 2층",
+      "roadAddress": "서울특별시 중구 다동길 36 2층",
+      "mapx": "1269812250",
+      "mapy": "375678250"
+    },
+    {
+      "title": "장군<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 19",
+      "roadAddress": "서울특별시 중구 무교로 16",
+      "mapx": "1269797048",
+      "mapy": "375673236"
+    },
+    {
+      "title": "해밀가 종각점",
+      "link": "https://app.catchtable.co.kr/ct/shop/HAEMILGA",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 85 2층 201호",
+      "roadAddress": "서울특별시 중구 남대문로 125 2층 201호",
+      "mapx": "1269823089",
+      "mapy": "375683770"
+    }
+  ]
+}

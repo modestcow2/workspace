@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    },
+    {
+      "title": "롯데호텔서울 모모야마",
+      "link": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-momoyama",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1",
+      "roadAddress": "서울특별시 중구 을지로 30",
+      "mapx": "1269810045",
+      "mapy": "375653498"
+    },
+    {
+      "title": "신성<b>일식</b>",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 128-1 1,2층 신성일식",
+      "roadAddress": "서울특별시 종로구 무교로 42 1,2층 신성일식",
+      "mapx": "1269795017",
+      "mapy": "375696782"
+    },
+    {
+      "title": "배 수사",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 117 나전빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 12 나전빌딩",
+      "mapx": "1269817000",
+      "mapy": "375668280"
+    },
+    {
+      "title": "타와",
+      "link": "https://www.instagram.com/muwa__official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
+      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    }
+  ]
+}

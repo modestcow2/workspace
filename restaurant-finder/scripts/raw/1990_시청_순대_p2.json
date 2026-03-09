@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "농민백암<b>순대</b> <b>시청</b>직영점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 19-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 33",
+      "mapx": "1269772550",
+      "mapy": "375626099"
+    },
+    {
+      "title": "담원<b>순대</b> <b>시청</b>본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
+    },
+    {
+      "title": "태진옥",
+      "link": "https://www.instagram.com/taejinoak_official/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 31-19 2층",
+      "roadAddress": "서울특별시 중구 무교로 17-25 2층",
+      "mapx": "1269785584",
+      "mapy": "375674370"
+    },
+    {
+      "title": "명동<b>순대</b>국 <b>시청</b>직영점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-19 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 45 1층",
+      "mapx": "1269734075",
+      "mapy": "375619640"
+    },
+    {
+      "title": "산더미 미성돼지국밥 수원<b>시청</b>점",
+      "link": "https://sandeomimiseong.com",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 권선구 권선동 1038-10 1층",
+      "roadAddress": "경기도 수원시 권선구 권광로 107 1층",
+      "mapx": "1270299979",
+      "mapy": "372575026"
+    }
+  ]
+}

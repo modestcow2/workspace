@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오이지 <b>대학로</b>",
+      "link": "http://app.catchtable.co.kr/ct/shop/oiji_hyewa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 142",
+      "roadAddress": "서울특별시 종로구 대학로9길 33",
+      "mapx": "1270001999",
+      "mapy": "375818701"
+    },
+    {
+      "title": "부부식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-152 2층 부부식당",
+      "roadAddress": "서울특별시 종로구 동숭길 43 2층 부부식당",
+      "mapx": "1270042971",
+      "mapy": "375802451"
+    },
+    {
+      "title": "조선식당",
+      "link": "https://blog.naver.com/dopal06",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-33",
+      "roadAddress": "서울특별시 종로구 대학로 128",
+      "mapx": "1270021227",
+      "mapy": "375827306"
+    },
+    {
+      "title": "순댕이네",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동",
+      "roadAddress": "",
+      "mapx": "1269995000",
+      "mapy": "375786000"
+    },
+    {
+      "title": "밥짓고티우림",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 45-1 2층",
+      "roadAddress": "서울특별시 성북구 성북로2길 15 2층",
+      "mapx": "1270066792",
+      "mapy": "375893178"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "블랙스미스",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-115 2층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 47 2층",
+      "mapx": "1269704022",
+      "mapy": "372977178"
+    },
+    {
+      "title": "도스타코스 <b>성균관대</b>점",
+      "link": "http://dostacos.co.kr/",
+      "category": "양식>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 151-2 1층",
+      "roadAddress": "서울특별시 종로구 창경궁로29길 5 1층",
+      "mapx": "1269982544",
+      "mapy": "375832276"
+    },
+    {
+      "title": "파파이스 <b>성균관대</b>점",
+      "link": "https://www.instagram.com/popeyes.kr/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 188-4 1층 (명륜4가, 동화빌딩)",
+      "roadAddress": "서울특별시 종로구 창경궁로 234 1층 (명륜4가, 동화빌딩)",
+      "mapx": "1269985547",
+      "mapy": "375824974"
+    },
+    {
+      "title": "뉴욕버거 <b>성균관대</b> 서울캠퍼스점",
+      "link": "",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 53-21",
+      "roadAddress": "서울특별시 종로구 성균관로 25-2",
+      "mapx": "1269946705",
+      "mapy": "375874144"
+    },
+    {
+      "title": "써브웨이 서울<b>성균관대</b>점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 53-22",
+      "roadAddress": "서울특별시 종로구 성균관로 25-2",
+      "mapx": "1269947695",
+      "mapy": "375872401"
+    }
+  ]
+}

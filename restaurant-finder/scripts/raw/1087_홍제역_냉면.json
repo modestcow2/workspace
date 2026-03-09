@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:01 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "우리<b>냉면</b> 홍제점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-241",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 1",
+      "mapx": "1269436999",
+      "mapy": "375883236"
+    },
+    {
+      "title": "인왕골",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 295-22",
+      "roadAddress": "서울특별시 서대문구 인왕시장길 42",
+      "mapx": "1269442597",
+      "mapy": "375914180"
+    },
+    {
+      "title": "옛날왕솥뚜껑생삼겹살",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-117 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39길 22-58 1층",
+      "mapx": "1269417411",
+      "mapy": "375899886"
+    },
+    {
+      "title": "홍제정육식당",
+      "link": "",
+      "category": "육류,고기요리>정육식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 294-50",
+      "roadAddress": "서울특별시 서대문구 통일로 479",
+      "mapx": "1269416992",
+      "mapy": "375907902"
+    },
+    {
+      "title": "유진감자탕",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-12",
+      "roadAddress": "서울특별시 서대문구 통일로 442-5",
+      "mapx": "1269448356",
+      "mapy": "375887902"
+    }
+  ]
+}

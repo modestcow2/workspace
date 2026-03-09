@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "타오<b>마라탕</b> <b>신촌</b>점",
+      "link": "https://www.instagram.com/tao_mara_official",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-9 1층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 6 1층",
+      "mapx": "1269359473",
+      "mapy": "375570246"
+    },
+    {
+      "title": "피슈마라홍탕 <b>신촌</b>점",
+      "link": "https://www.instagram.com/pixiu_mala/",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 72-12 테라운드빌딩 2층 피슈마라홍탕 신촌점",
+      "roadAddress": "서울특별시 서대문구 신촌로 73 테라운드빌딩 2층 피슈마라홍탕 신촌점",
+      "mapx": "1269345387",
+      "mapy": "375563093"
+    },
+    {
+      "title": "삼미<b>마라탕</b>",
+      "link": "https://www.instagram.com/sammi.mrt?igsh=MmpwaDFscjNsbDNy",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 53-19 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 35 1층",
+      "mapx": "1269347792",
+      "mapy": "375581381"
+    },
+    {
+      "title": "중경<b>마라탕</b> <b>신촌</b>점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-26 1층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 15 1층",
+      "mapx": "1269359105",
+      "mapy": "375588695"
+    },
+    {
+      "title": "호탕<b>마라탕</b>",
+      "link": "https://www.instagram.com/ho_tang_malatang?igsh=NjVkZHk0Y2kxMjNz",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-123 2층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 14 2층",
+      "mapx": "1269360308",
+      "mapy": "375581545"
+    }
+  ]
+}

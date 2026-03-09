@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "초원<b>파스타</b>운",
+      "link": "https://catchtable.co.kr/prairie",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-156 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39나길 25 1층",
+      "mapx": "1269423970",
+      "mapy": "375890575"
+    },
+    {
+      "title": "홍제<b>파스타</b>",
+      "link": "http://www.instagram.com/hongjepasta",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-92 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 24 1층",
+      "mapx": "1269429508",
+      "mapy": "375891560"
+    },
+    {
+      "title": "피쉬앤칩스",
+      "link": "https://instagram.com/___fish_and_chips___?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 91-2",
+      "roadAddress": "서울특별시 서대문구 통일로 495-1",
+      "mapx": "1269408648",
+      "mapy": "375922078"
+    },
+    {
+      "title": "<b>파스타</b> 골목",
+      "link": "https://www.instagram.com/pastagolmok",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 174-15 지층",
+      "roadAddress": "서울특별시 서대문구 통일로 432-1 지층",
+      "mapx": "1269457161",
+      "mapy": "375878079"
+    },
+    {
+      "title": "테리맘스키친",
+      "link": "",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 48-162 1층",
+      "roadAddress": "서울특별시 서대문구 세검정로1길 11 1층",
+      "mapx": "1269424586",
+      "mapy": "375922586"
+    }
+  ]
+}

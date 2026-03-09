@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "자몽밀크티",
+      "link": "",
+      "category": "카페,디저트>차",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 1-27 지하1층",
+      "roadAddress": "서울특별시 종로구 명륜길 45-5 지하1층",
+      "mapx": "1269944687",
+      "mapy": "375889906"
+    },
+    {
+      "title": "육전면사무소 수원<b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-6 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2115 1층",
+      "mapx": "1269706020",
+      "mapy": "372974939"
+    },
+    {
+      "title": "고기극찬 <b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 325-40 1층 101호",
+      "roadAddress": "경기도 수원시 장안구 정자천로13번길 45 1층 101호",
+      "mapx": "1269783409",
+      "mapy": "372907899"
+    },
+    {
+      "title": "동문시장맨끝집 <b>성균관대</b>점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 295-5 1층",
+      "roadAddress": "경기도 수원시 장안구 화산로233번길 18 1층",
+      "mapx": "1269706277",
+      "mapy": "372990459"
+    },
+    {
+      "title": "마장동고기집 수원율전점",
+      "link": "https://www.instagram.com/majangdong_office/",
+      "category": "육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 천천동 558-4 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2172 1층",
+      "mapx": "1269733707",
+      "mapy": "373021067"
+    }
+  ]
+}

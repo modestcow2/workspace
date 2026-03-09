@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "해목 서촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 72",
+      "roadAddress": "서울특별시 종로구 자하문로 26-1",
+      "mapx": "1269720065",
+      "mapy": "375784252"
+    },
+    {
+      "title": "<b>통의동</b> 국빈관 경복궁역점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 38 1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
+      "mapx": "1269738782",
+      "mapy": "375766155"
+    },
+    {
+      "title": "라 스위스 서촌",
+      "link": "https://blog.naver.com/ysimkim",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 25-2 끄레아주차장 안",
+      "roadAddress": "서울특별시 종로구 자하문로6길 11-36 끄레아주차장 안",
+      "mapx": "1269726212",
+      "mapy": "375786629"
+    },
+    {
+      "title": "오스테리아소띠",
+      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 91-38",
+      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
+      "mapx": "1269722295",
+      "mapy": "375789547"
+    },
+    {
+      "title": "미드메 서촌",
+      "link": "https://www.instagram.com/midme_official?igsh=MTYzMXpjMWJiZm9uZw%3D%3D&utm_source=qr",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 108 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 36 1층",
+      "mapx": "1269717711",
+      "mapy": "375793367"
+    }
+  ]
+}

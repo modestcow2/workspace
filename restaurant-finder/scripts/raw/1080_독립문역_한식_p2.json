@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옛날순대",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 82 무악현대프라자 1층 옛날순대",
+      "roadAddress": "서울특별시 종로구 통일로 246-10 무악현대프라자 1층 옛날순대",
+      "mapx": "1269590672",
+      "mapy": "375744861"
+    },
+    {
+      "title": "다솜 자연밥상",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 67-2",
+      "roadAddress": "서울특별시 종로구 통일로 262",
+      "mapx": "1269571106",
+      "mapy": "375754325"
+    },
+    {
+      "title": "명원숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-8",
+      "roadAddress": "서울특별시 종로구 통일로12길 8",
+      "mapx": "1269600719",
+      "mapy": "375732322"
+    },
+    {
+      "title": "덕송숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 43",
+      "roadAddress": "서울특별시 종로구 통일로14길 5",
+      "mapx": "1269579499",
+      "mapy": "375749329"
+    },
+    {
+      "title": "동영숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-76",
+      "roadAddress": "서울특별시 종로구 통일로12길 6",
+      "mapx": "1269599730",
+      "mapy": "375731338"
+    }
+  ]
+}

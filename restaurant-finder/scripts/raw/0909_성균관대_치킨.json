@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "노꼬<b>치킨</b> 수원<b>성균관대</b>점",
+      "link": "https://linktr.ee/noblesse_coq1004",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 407-5 1층 노꼬치킨",
+      "roadAddress": "경기도 수원시 장안구 서부로2105번길 16-4 1층 노꼬치킨",
+      "mapx": "1269694802",
+      "mapy": "372968660"
+    },
+    {
+      "title": "푸라닭 수원<b>성균관대</b>점",
+      "link": "https://blog.naver.com/puradakchicken",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 305-6 1층",
+      "roadAddress": "경기도 수원시 장안구 율전로 107 1층",
+      "mapx": "1269690013",
+      "mapy": "372988211"
+    },
+    {
+      "title": "맥주호텔 <b>성균관대</b>역본점",
+      "link": "https://www.instagram.com/maegjuhotel",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-95 2층 맥주호텔",
+      "roadAddress": "경기도 수원시 장안구 서부로2105번길 12 2층 맥주호텔",
+      "mapx": "1269697831",
+      "mapy": "372968916"
+    },
+    {
+      "title": "파파이스 <b>성균관대</b>점",
+      "link": "https://www.instagram.com/popeyes.kr/",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 188-4 1층 (명륜4가, 동화빌딩)",
+      "roadAddress": "서울특별시 종로구 창경궁로 234 1층 (명륜4가, 동화빌딩)",
+      "mapx": "1269985547",
+      "mapy": "375824974"
+    },
+    {
+      "title": "뉴욕버거 <b>성균관대</b> 서울캠퍼스점",
+      "link": "",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 53-21",
+      "roadAddress": "서울특별시 종로구 성균관로 25-2",
+      "mapx": "1269946705",
+      "mapy": "375874144"
+    }
+  ]
+}

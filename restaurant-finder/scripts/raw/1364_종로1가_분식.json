@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "총각김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24",
+      "roadAddress": "서울특별시 종로구 종로 19",
+      "mapx": "1269800286",
+      "mapy": "375711271"
+    },
+    {
+      "title": "푸드까페김밥천국 <b>종로</b>점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 106호 푸드까페김밥천국",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 106호 푸드까페김밥천국",
+      "mapx": "1269795303",
+      "mapy": "375707330"
+    },
+    {
+      "title": "더맛있는김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "꿈떡꿈떡 <b>종로</b>본점",
+      "link": "http://www.꿈떡꿈떡.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 꿈떡꿈떡",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 꿈떡꿈떡",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "국수<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 종로타운 지하2층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 종로타운 지하2층",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    }
+  ]
+}

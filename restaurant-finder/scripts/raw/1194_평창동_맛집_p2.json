@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>평창동</b>의봄",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 512-7 1층",
+      "roadAddress": "서울특별시 종로구 평창20길 41 1층",
+      "mapx": "1269707545",
+      "mapy": "376104692"
+    },
+    {
+      "title": "삼각산",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 85-25",
+      "roadAddress": "서울특별시 종로구 진흥로 435",
+      "mapx": "1269573129",
+      "mapy": "376083967"
+    },
+    {
+      "title": "대평갈비",
+      "link": "http://daepyeonggalbi.com",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 153-1",
+      "roadAddress": "서울특별시 종로구 평창문화로 83",
+      "mapx": "1269701961",
+      "mapy": "376069386"
+    },
+    {
+      "title": "장모님해장국",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 253-1",
+      "roadAddress": "서울특별시 종로구 진흥로 421",
+      "mapx": "1269556760",
+      "mapy": "376089067"
+    },
+    {
+      "title": "<b>평창동</b>북악정 신관",
+      "link": "https://www.youtube.com/channel/UCo3ibNjQOaYfLvzwrAgPD0A",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 109-1",
+      "roadAddress": "서울특별시 종로구 평창문화로 169",
+      "mapx": "1269778689",
+      "mapy": "376111046"
+    }
+  ]
+}

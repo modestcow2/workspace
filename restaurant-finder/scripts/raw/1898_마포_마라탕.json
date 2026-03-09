@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "손오공<b>마라탕</b> 동교동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 동교동 169-14 2층",
+      "roadAddress": "서울특별시 마포구 양화로18길 15 2층",
+      "mapx": "1269248884",
+      "mapy": "375565852"
+    },
+    {
+      "title": "타오<b>마라탕</b>",
+      "link": "https://www.instagram.com/tao_mara_official",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 394-93 광명빌딩 2층",
+      "roadAddress": "서울특별시 마포구 양화로6길 19 광명빌딩 2층",
+      "mapx": "1269153346",
+      "mapy": "375492446"
+    },
+    {
+      "title": "손오공<b>마라탕</b> 서교점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 369-26 2층",
+      "roadAddress": "서울특별시 마포구 잔다리로6길 23 2층",
+      "mapx": "1269203572",
+      "mapy": "375523061"
+    },
+    {
+      "title": "미미램양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 227-20 1층, 2층",
+      "roadAddress": "서울특별시 마포구 성미산로 196 1층, 2층",
+      "mapx": "1269266498",
+      "mapy": "375625521"
+    },
+    {
+      "title": "운남양꼬치 홍대본점",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 성산동 639-10 1층",
+      "roadAddress": "서울특별시 마포구 잔다리로 130 1층",
+      "mapx": "1269132063",
+      "mapy": "375583360"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:40:04 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "미동식당",
+      "link": "",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 215 서소문아파트 1층 6호",
+      "roadAddress": "서울특별시 서대문구 충정로6길 59 서소문아파트 1층 6호",
+      "mapx": "1269682141",
+      "mapy": "375629827"
+    },
+    {
+      "title": "다이닝아오",
+      "link": "https://app.catchtable.co.kr/ct/shop/dining_ao",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 1층 112호",
+      "roadAddress": "서울특별시 중구 칠패로 27 1층 112호",
+      "mapx": "1269720478",
+      "mapy": "375600687"
+    },
+    {
+      "title": "중림동 물고기",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 335-2",
+      "roadAddress": "서울특별시 중구 만리재로35길 50-1",
+      "mapx": "1269680034",
+      "mapy": "375573462"
+    },
+    {
+      "title": "설우 서대문점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 222 NH농협 타워 지하 1층 104호 설우 서대문점",
+      "roadAddress": "서울특별시 종로구 통일로 134 NH농협 타워 지하 1층 104호 설우 서대문점",
+      "mapx": "1269662598",
+      "mapy": "375667937"
+    },
+    {
+      "title": "대보정 서울시청역점",
+      "link": "https://www.instagram.com/daebojung/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>부암동</b> 7번지 제빵소",
+      "link": "https://www.instagram.com/buam_7st_bakery/?utm_source=ig_web_button_share_sheet",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 7 7번지 제빵소",
+      "roadAddress": "서울특별시 종로구 북악산로 147 부암동 7번지 제빵소",
+      "mapx": "1269735209",
+      "mapy": "375980256"
+    },
+    {
+      "title": "아델라베일리",
+      "link": "https://blog.naver.com/kiyna",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 23-3",
+      "roadAddress": "서울특별시 종로구 북악산로 48",
+      "mapx": "1269702503",
+      "mapy": "375952438"
+    },
+    {
+      "title": "카페 클래식",
+      "link": "https://www.instagram.com/cafeclassic_official?igsh=MXIxajU5cTljZWtndQ==",
+      "category": "브런치카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 홍지동 63-9 1층",
+      "roadAddress": "서울특별시 종로구 홍지문길 27 1층",
+      "mapx": "1269568983",
+      "mapy": "376018944"
+    },
+    {
+      "title": "꼰떼",
+      "link": "http://trattoria _conte",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 269-8 1층",
+      "roadAddress": "서울특별시 종로구 창의문로5길 6-1 1층",
+      "mapx": "1269638304",
+      "mapy": "375922725"
+    },
+    {
+      "title": "소소한풍경",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosohanscenery",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 239-13",
+      "roadAddress": "서울특별시 종로구 자하문로40길 75",
+      "mapx": "1269659770",
+      "mapy": "375937240"
+    }
+  ]
+}

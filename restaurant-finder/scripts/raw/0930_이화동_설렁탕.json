@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "어고집밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-40 낙산1길1",
+      "roadAddress": "서울특별시 종로구 낙산1길 1 낙산1길1",
+      "mapx": "1270050404",
+      "mapy": "375806096"
+    },
+    {
+      "title": "이화생고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 90-16 이화생고기",
+      "roadAddress": "서울특별시 종로구 이화장길 36-1 이화생고기",
+      "mapx": "1270044882",
+      "mapy": "375767758"
+    },
+    {
+      "title": "명인<b>설렁탕</b> 광장시장점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 138-4 2층 208~213호",
+      "roadAddress": "서울특별시 종로구 종로 210 2층 208~213호",
+      "mapx": "1270014322",
+      "mapy": "375707088"
+    },
+    {
+      "title": "문화옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 118-3",
+      "roadAddress": "서울특별시 중구 창경궁로 62-5",
+      "mapx": "1269985456",
+      "mapy": "375680851"
+    },
+    {
+      "title": "느티나무<b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 신당동 251-131",
+      "roadAddress": "서울특별시 중구 퇴계로71길 38",
+      "mapx": "1270128862",
+      "mapy": "375664814"
+    }
+  ]
+}

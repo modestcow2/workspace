@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "명동집",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 20-1 3층",
+      "roadAddress": "서울특별시 중구 세종대로 28 3층",
+      "mapx": "1269745997",
+      "mapy": "375588942"
+    },
+    {
+      "title": "북창동냉삼집",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-1 1층 북창동냉삼집",
+      "roadAddress": "서울특별시 중구 세종대로 82 1층 북창동냉삼집",
+      "mapx": "1269770537",
+      "mapy": "375634062"
+    },
+    {
+      "title": "쪽삼상회",
+      "link": "https://www.instagram.com/jjoksamsanghoe?igsh=aHk3bnVoNm9wYnl1",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-13 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 68 1층 102호",
+      "mapx": "1269767006",
+      "mapy": "375622675"
+    },
+    {
+      "title": "숭례회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-7 화남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 15 화남빌딩",
+      "mapx": "1269732674",
+      "mapy": "375583627"
+    },
+    {
+      "title": "서울고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 21-1",
+      "roadAddress": "서울특별시 중구 세종대로 30",
+      "mapx": "1269750266",
+      "mapy": "375589599"
+    }
+  ]
+}

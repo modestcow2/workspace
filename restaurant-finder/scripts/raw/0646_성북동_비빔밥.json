@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>성북동</b>누룽지백숙",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 281-1",
+      "roadAddress": "서울특별시 성북구 성북로31길 9",
+      "mapx": "1269905008",
+      "mapy": "375945857"
+    },
+    {
+      "title": "밥짓고티우림",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 45-1 2층",
+      "roadAddress": "서울특별시 성북구 성북로2길 15 2층",
+      "mapx": "1270066792",
+      "mapy": "375893178"
+    },
+    {
+      "title": "<b>성북동</b>칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동1가 35-29 우성빌딩 1층",
+      "roadAddress": "서울특별시 성북구 성북로 5-7 우성빌딩 1층",
+      "mapx": "1270051726",
+      "mapy": "375887498"
+    },
+    {
+      "title": "김밥어나더다방",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 동소문동1가 45-1 1층",
+      "roadAddress": "서울특별시 성북구 성북로2길 15 1층",
+      "mapx": "1270066244",
+      "mapy": "375893559"
+    },
+    {
+      "title": "자연에서왔소 본점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 177-36",
+      "roadAddress": "서울특별시 성북구 성북로 36",
+      "mapx": "1270038405",
+      "mapy": "375911829"
+    }
+  ]
+}

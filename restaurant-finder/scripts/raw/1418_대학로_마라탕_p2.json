@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:12 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "샹츠마라 혜화점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 59-3 2층",
+      "roadAddress": "서울특별시 종로구 대명길 37 2층",
+      "mapx": "1269995562",
+      "mapy": "375829302"
+    },
+    {
+      "title": "용가회전훠궈 <b>대학로</b>점",
+      "link": "https://www.instagram.com/loonger_daehakro",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-55 지하1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 13 지하1층",
+      "mapx": "1270025484",
+      "mapy": "375827405"
+    },
+    {
+      "title": "구룡관 혜화본점",
+      "link": "https://blog.naver.com/guryongmara_",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 21-14",
+      "roadAddress": "서울특별시 종로구 창경궁로 258-5",
+      "mapx": "1270004672",
+      "mapy": "375840543"
+    },
+    {
+      "title": "이런이궈 <b>마라탕</b> 혜화점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 141 2층",
+      "roadAddress": "서울특별시 종로구 대학로 151 2층",
+      "mapx": "1270011073",
+      "mapy": "375846737"
+    },
+    {
+      "title": "천향록",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 211 유니지오 빌딩 2층",
+      "roadAddress": "서울특별시 종로구 성균관로 12 유니지오 빌딩 2층",
+      "mapx": "1269980269",
+      "mapy": "375839789"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "피아이씨비",
+      "link": "https://www.instagram.com/pickerb_official/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 제지1층 제124호",
+      "roadAddress": "서울특별시 종로구 통일로 230 제지1층 제124호",
+      "mapx": "1269595884",
+      "mapy": "375733800"
+    },
+    {
+      "title": "도미니칸조 <b>피자</b> 독립문본점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-44 1층()",
+      "roadAddress": "서울특별시 종로구 통일로12길 10-13 1층(행촌동)",
+      "mapx": "1269606769",
+      "mapy": "375728983"
+    },
+    {
+      "title": "옥바 독립문점",
+      "link": "https://www.instagram.com/seoul_okba/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 교북동 1-27 1층 옥바 독립문점",
+      "roadAddress": "서울특별시 종로구 통일로12길 6-6 1층 옥바 독립문점",
+      "mapx": "1269599831",
+      "mapy": "375729444"
+    },
+    {
+      "title": "파파존스 독립문점",
+      "link": "https://blog.naver.com/papa_mania",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 63-2",
+      "roadAddress": "서울특별시 종로구 통일로 276",
+      "mapx": "1269560290",
+      "mapy": "375764720"
+    },
+    {
+      "title": "<b>피자</b>헛 <b>독립문역</b>점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 교북동 126 상가동 4102호",
+      "roadAddress": "서울특별시 종로구 송월길 155 상가동 4102호",
+      "mapx": "1269609670",
+      "mapy": "375718556"
+    }
+  ]
+}

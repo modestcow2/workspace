@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>평창동</b>부대찌개",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 151-2 부대찌개",
+      "roadAddress": "서울특별시 종로구 평창문화로 96 평창동부대찌개",
+      "mapx": "1269716465",
+      "mapy": "376070031"
+    },
+    {
+      "title": "쉼터산울림",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 구기동 10-5",
+      "roadAddress": "서울특별시 종로구 비봉2길 76",
+      "mapx": "1269610449",
+      "mapy": "376151817"
+    },
+    {
+      "title": "늘푸른식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 289-1",
+      "roadAddress": "서울특별시 종로구 평창길 3",
+      "mapx": "1269649374",
+      "mapy": "376050736"
+    },
+    {
+      "title": "산길",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평창동 182-6 산길식당",
+      "roadAddress": "서울특별시 종로구 평창11길 8-3 산길식당",
+      "mapx": "1269668663",
+      "mapy": "376066918"
+    },
+    {
+      "title": "성북동돼지갈비 본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 성북동 114-2",
+      "roadAddress": "서울특별시 성북구 성북로 115",
+      "mapx": "1269961462",
+      "mapy": "375933105"
+    }
+  ]
+}

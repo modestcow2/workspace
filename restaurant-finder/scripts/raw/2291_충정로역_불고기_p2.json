@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:52 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "오소오소",
+      "link": "https://www.instagram.com/osooso189",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 189 신원빌딩 지하1층",
+      "roadAddress": "서울특별시 서대문구 충정로 47 신원빌딩 지하1층",
+      "mapx": "1269643918",
+      "mapy": "375633135"
+    },
+    {
+      "title": "관식당",
+      "link": "https://www.instagram.com/kwan.restaurant",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 360-6 1층, 2층",
+      "roadAddress": "서울특별시 서대문구 충정로2길 10 1층, 2층",
+      "mapx": "1269639270",
+      "mapy": "375605973"
+    },
+    {
+      "title": "도마 중림동점",
+      "link": "https://catchtable.co.kr/doma_jrd",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 150-1 이화빌딩",
+      "roadAddress": "서울특별시 중구 중림로 31 이화빌딩",
+      "mapx": "1269671832",
+      "mapy": "375581618"
+    },
+    {
+      "title": "나주곰탕앤<b>불고기</b>",
+      "link": "http://www.02-364-8266.kti114.net/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 150-1",
+      "roadAddress": "서울특별시 중구 중림로 31",
+      "mapx": "1269671074",
+      "mapy": "375582044"
+    },
+    {
+      "title": "소반",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 368 B1층",
+      "roadAddress": "서울특별시 서대문구 충정로 8 B1층",
+      "mapx": "1269633595",
+      "mapy": "375596100"
+    }
+  ]
+}

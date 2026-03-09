@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "배꼽시계",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 567-56",
+      "roadAddress": "서울특별시 마포구 연남로 11",
+      "mapx": "1269229571",
+      "mapy": "375607890"
+    },
+    {
+      "title": "육면달",
+      "link": "https://www.instagram.com/yukmyeondal_yeonnam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 387-4 지1층 102호",
+      "roadAddress": "서울특별시 마포구 동교로 266-8 지1층 102호",
+      "mapx": "1269256877",
+      "mapy": "375630061"
+    },
+    {
+      "title": "수라간",
+      "link": "http://www.instagram.com/sooragan01",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 228-56 1층",
+      "roadAddress": "서울특별시 마포구 동교로38안길 3 1층",
+      "mapx": "1269246381",
+      "mapy": "375619497"
+    },
+    {
+      "title": "꼬요식당",
+      "link": "http://www.instagram.com/kkoyo_kitchen",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 225-13 꼬요식당",
+      "roadAddress": "서울특별시 마포구 동교로 275-1 꼬요식당",
+      "mapx": "1269261630",
+      "mapy": "375641387"
+    },
+    {
+      "title": "수을관",
+      "link": "https://catchtable.co.kr/sooeulgwan",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-59 2.5층",
+      "roadAddress": "서울특별시 마포구 동교로38길 19 2.5층",
+      "mapx": "1269254641",
+      "mapy": "375620305"
+    }
+  ]
+}

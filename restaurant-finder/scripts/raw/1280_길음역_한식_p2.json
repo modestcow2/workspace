@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:32:10 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "길음 모소리",
+      "link": "https://www.instagram.com/mosori_gireum/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1258 1층",
+      "roadAddress": "서울특별시 성북구 삼양로 13 1층",
+      "mapx": "1270248524",
+      "mapy": "376044392"
+    },
+    {
+      "title": "맛찬들왕소금구이 길음점",
+      "link": "https://matwang-gileum.jalib.site/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 107, 108, 112, 113, 114, 115호",
+      "roadAddress": "서울특별시 성북구 길음로 11 107, 108, 112, 113, 114, 115호",
+      "mapx": "1270229927",
+      "mapy": "376035370"
+    },
+    {
+      "title": "갈비명가이상 길음신관",
+      "link": "https://smartstore.naver.com/esang1982",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 221",
+      "roadAddress": "서울특별시 성북구 정릉로 395",
+      "mapx": "1270256874",
+      "mapy": "376039071"
+    },
+    {
+      "title": "갈비명가이상 돈암본관",
+      "link": "https://www.instagram.com/esang1982",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 12-8",
+      "roadAddress": "서울특별시 성북구 정릉로 364",
+      "mapx": "1270236114",
+      "mapy": "376015310"
+    },
+    {
+      "title": "장수감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 489-58 장수감자탕",
+      "roadAddress": "서울특별시 성북구 도봉로3길 9-10 장수감자탕",
+      "mapx": "1270294765",
+      "mapy": "376100176"
+    }
+  ]
+}

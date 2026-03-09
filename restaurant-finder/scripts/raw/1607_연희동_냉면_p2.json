@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:34:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "청송함흥<b>냉면</b>전문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-6",
+      "roadAddress": "서울특별시 서대문구 연희맛로 6",
+      "mapx": "1269287944",
+      "mapy": "375659401"
+    },
+    {
+      "title": "평택고여사집<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-13",
+      "roadAddress": "서울특별시 서대문구 연희로 81-9",
+      "mapx": "1269292870",
+      "mapy": "375657029"
+    },
+    {
+      "title": "수라면옥 연희점",
+      "link": "https://www.instagram.com/soora_1990",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 89-31",
+      "roadAddress": "서울특별시 서대문구 연희로25길 81",
+      "mapx": "1269327204",
+      "mapy": "375700749"
+    },
+    {
+      "title": "한우명가",
+      "link": "http://한우명가.net/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-111",
+      "roadAddress": "서울특별시 서대문구 연희로 46-1",
+      "mapx": "1269281150",
+      "mapy": "375627970"
+    },
+    {
+      "title": "김밥전통만두",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 287-5",
+      "roadAddress": "서울특별시 서대문구 연희로8길 5-3",
+      "mapx": "1269301854",
+      "mapy": "375656522"
+    }
+  ]
+}

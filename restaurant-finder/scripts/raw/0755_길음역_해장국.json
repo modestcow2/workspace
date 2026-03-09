@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "장수감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 489-58 장수감자탕",
+      "roadAddress": "서울특별시 성북구 도봉로3길 9-10 장수감자탕",
+      "mapx": "1270294765",
+      "mapy": "376100176"
+    },
+    {
+      "title": "풍찬뼈다귀감자탕 종암본점",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 84-27 1층",
+      "roadAddress": "서울특별시 성북구 종암로21길 37-2 1층",
+      "mapx": "1270333528",
+      "mapy": "376003190"
+    },
+    {
+      "title": "제주은희네<b>해장국</b> 성북길음점",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 정릉동 1034 라온유 아파트 B101호, B102호",
+      "roadAddress": "서울특별시 성북구 정릉로 307 라온유 아파트 B101호, B102호",
+      "mapx": "1270185988",
+      "mapy": "376029044"
+    },
+    {
+      "title": "보승회관 <b>길음역</b>점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 롯데캐슬상가 지하1층 B56,B57호",
+      "roadAddress": "서울특별시 성북구 길음로 11 롯데캐슬상가 지하1층 B56,B57호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    },
+    {
+      "title": "경성한우국밥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 종암동 79-260 1층",
+      "roadAddress": "서울특별시 성북구 종암로21가길 10 1층",
+      "mapx": "1270336302",
+      "mapy": "375989427"
+    }
+  ]
+}

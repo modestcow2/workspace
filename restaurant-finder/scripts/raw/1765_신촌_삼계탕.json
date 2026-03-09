@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "장수보감 <b>신촌</b>본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 31-50 1층 장수보감",
+      "roadAddress": "서울특별시 마포구 백범로1길 8-7 1층 장수보감",
+      "mapx": "1269377731",
+      "mapy": "375541197"
+    },
+    {
+      "title": "보승회관 서울<b>신촌</b>점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-1",
+      "roadAddress": "서울특별시 서대문구 연세로5길 26",
+      "mapx": "1269355410",
+      "mapy": "375565804"
+    },
+    {
+      "title": "신의주찹쌀순대 <b>신촌</b>점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-33",
+      "roadAddress": "서울특별시 서대문구 연세로4길 19",
+      "mapx": "1269378344",
+      "mapy": "375573574"
+    },
+    {
+      "title": "<b>신촌</b>순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-99 2층",
+      "roadAddress": "서울특별시 서대문구 신촌로 125 2층",
+      "mapx": "1269397638",
+      "mapy": "375562966"
+    },
+    {
+      "title": "<b>신촌</b>영양센터",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-37",
+      "roadAddress": "서울특별시 서대문구 연세로4길 34",
+      "mapx": "1269385557",
+      "mapy": "375576464"
+    }
+  ]
+}

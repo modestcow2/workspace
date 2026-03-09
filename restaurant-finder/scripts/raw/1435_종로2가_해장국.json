@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "일품양평<b>해장국</b> 종각역점",
+      "link": "https://www.instagram.com/_ilpumfood_official/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-2 1층",
+      "roadAddress": "서울특별시 종로구 종로 72-1 1층",
+      "mapx": "1269854607",
+      "mapy": "375699980"
+    },
+    {
+      "title": "<b>종로</b>시래기뼈감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 84-2 2층",
+      "roadAddress": "서울특별시 종로구 종로 72-1 2층",
+      "mapx": "1269854606",
+      "mapy": "375699485"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
+      "title": "이복희해장 <b>종로</b>직영점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 7-14 1층, 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 385 1층, 2층",
+      "mapx": "1269873599",
+      "mapy": "375689415"
+    },
+    {
+      "title": "무교동북어국집",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 173",
+      "roadAddress": "서울특별시 중구 을지로1길 38",
+      "mapx": "1269798583",
+      "mapy": "375677548"
+    }
+  ]
+}

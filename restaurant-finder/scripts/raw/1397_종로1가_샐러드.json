@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:35 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "점점점 <b>샐러드</b>",
+      "link": "https://youtube.com/@_jum_2023",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "와이스타브 다이어트 광화문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "그리너리 광화문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B119-5호, 6호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B119-5호, 6호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "초식곳간 광화문점",
+      "link": "http://www.instagram.com/vege_save",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24",
+      "roadAddress": "서울특별시 종로구 종로 19",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "리나스 광화문점",
+      "link": "https://www.instagram.com/linas_korea/",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 1 1층",
+      "roadAddress": "서울특별시 종로구 종로 1 1층",
+      "mapx": "1269778786",
+      "mapy": "375709477"
+    }
+  ]
+}

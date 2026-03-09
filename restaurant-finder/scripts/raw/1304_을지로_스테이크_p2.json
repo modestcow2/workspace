@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:05:53 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "더 시옷",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesiot",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-15 OK빌딩 2층",
+      "roadAddress": "서울특별시 중구 수표로 30 OK빌딩 2층",
+      "mapx": "1269903062",
+      "mapy": "375638355"
+    },
+    {
+      "title": "<b>을지로</b> 언오디너리",
+      "link": "https://go.catchtable.co.kr/gi36wz",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 321-2 2층 언오디너리",
+      "roadAddress": "서울특별시 중구 수표로 48-17 2층 언오디너리",
+      "mapx": "1269908395",
+      "mapy": "375655060"
+    },
+    {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    },
+    {
+      "title": "<b>을지로</b> 헤이지니",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_heygenie",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 315-10 2층 을지로 헤이지니",
+      "roadAddress": "서울특별시 중구 을지로12길 7 2층 을지로 헤이지니",
+      "mapx": "1269913050",
+      "mapy": "375658766"
+    },
+    {
+      "title": "82올리언즈",
+      "link": "https://app.catchtable.co.kr/ct/shop/82orleans_euljiro",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 156-6 1층, 82올리언즈",
+      "roadAddress": "서울특별시 중구 퇴계로27길 64 1층, 82올리언즈",
+      "mapx": "1269912561",
+      "mapy": "375640014"
+    }
+  ]
+}

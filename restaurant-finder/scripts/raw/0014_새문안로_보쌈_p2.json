@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "찌개애감동 광화문점",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269750644",
+      "mapy": "375697535"
+    },
+    {
+      "title": "이화수전통육개장 서대문정동점",
+      "link": "http://ihwasoo.com",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 2층",
+      "mapx": "1269697603",
+      "mapy": "375683795"
+    },
+    {
+      "title": "한우명가마당",
+      "link": "http://cityfood.co.kr/h.php?id=18881",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269748526",
+      "mapy": "375697112"
+    }
+  ]
+}

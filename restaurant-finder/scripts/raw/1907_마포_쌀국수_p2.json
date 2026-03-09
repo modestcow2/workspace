@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "퐁타이 신촌본점",
+      "link": "https://www.instagram.com/pongthaii",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 노고산동 107-17 2층",
+      "roadAddress": "서울특별시 마포구 백범로 8 2층",
+      "mapx": "1269367693",
+      "mapy": "375538783"
+    },
+    {
+      "title": "옥자",
+      "link": "https://www.instagram.com/okza_yeonnam",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-42 1층",
+      "roadAddress": "서울특별시 마포구 성미산로29길 40-15 1층",
+      "mapx": "1269224834",
+      "mapy": "375654838"
+    },
+    {
+      "title": "온타이키친",
+      "link": "https://www.instagram.com/onthai_kitchen",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 상암동 1597 사보이시티 B동 지하1층 B126호",
+      "roadAddress": "서울특별시 마포구 월드컵북로54길 17 사보이시티 B동 지하1층 B126호",
+      "mapx": "1268885484",
+      "mapy": "375813243"
+    },
+    {
+      "title": "드렁킨타이 공덕점",
+      "link": "https://store.nowwaiting.co/spots/12474",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 도화동 200-16 1층",
+      "roadAddress": "서울특별시 마포구 도화4길 27 1층",
+      "mapx": "1269513123",
+      "mapy": "375407477"
+    },
+    {
+      "title": "코랏",
+      "link": "http://instagram.com/koratmangwon",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 57-38 1층 코랏 KORAT",
+      "roadAddress": "서울특별시 마포구 월드컵로19길 14 1층 코랏 KORAT",
+      "mapx": "1269082605",
+      "mapy": "375568105"
+    }
+  ]
+}

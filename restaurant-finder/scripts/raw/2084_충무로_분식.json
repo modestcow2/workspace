@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:19 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "필동<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 3-19",
+      "roadAddress": "서울특별시 중구 퇴계로27길 14",
+      "mapx": "1269917289",
+      "mapy": "375617724"
+    },
+    {
+      "title": "자매<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로5가 274-12",
+      "roadAddress": "서울특별시 중구 을지로36길 23",
+      "mapx": "1270017035",
+      "mapy": "375655379"
+    },
+    {
+      "title": "불꽃김밥 <b>충무로</b>점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 49 엘크루메트로시티 108호",
+      "roadAddress": "서울특별시 중구 충무로 13 엘크루메트로시티 108호",
+      "mapx": "1269925674",
+      "mapy": "375621786"
+    },
+    {
+      "title": "김가네 동국대점",
+      "link": "https://blog.naver.com/gimkong7127",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 73",
+      "roadAddress": "서울특별시 중구 필동로 15-8",
+      "mapx": "1269965704",
+      "mapy": "375600572"
+    },
+    {
+      "title": "후토루 을지로점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 88-13 1층, 후토루 을지로점",
+      "roadAddress": "서울특별시 중구 마른내로 8 1층, 후토루 을지로점(저동2가)",
+      "mapx": "1269887594",
+      "mapy": "375644917"
+    }
+  ]
+}

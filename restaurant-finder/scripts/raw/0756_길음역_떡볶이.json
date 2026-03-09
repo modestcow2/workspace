@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:33:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "불난집",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 877-184 길음 동 비동1층",
+      "roadAddress": "서울특별시 성북구 동소문로 225-9 (길음 동) 비동1층",
+      "mapx": "1270215848",
+      "mapy": "376023044"
+    },
+    {
+      "title": "오공김밥 길음뉴타운점",
+      "link": "https://50gimbab.co.kr",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 1284 길음 뉴타운상가 A동 제5호",
+      "roadAddress": "서울특별시 성북구 길음로 33 길음 뉴타운상가 A동 제5호",
+      "mapx": "1270221945",
+      "mapy": "376050208"
+    },
+    {
+      "title": "월곡동할매<b>떡볶이</b>",
+      "link": "https://www.instagram.com/wg.halmae.tteokbokki",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 하월곡동 81-292 1층 월곡동할매떡볶이",
+      "roadAddress": "서울특별시 성북구 오패산로19길 46 1층 월곡동할매떡볶이",
+      "mapx": "1270332855",
+      "mapy": "376092378"
+    },
+    {
+      "title": "오르막길 <b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 돈암동 48-15 송암빌딩 1층",
+      "roadAddress": "서울특별시 성북구 동소문로 179-48 송암빌딩 1층",
+      "mapx": "1270208810",
+      "mapy": "375983548"
+    },
+    {
+      "title": "채선당 자연한가득 <b>길음역</b>점",
+      "link": "",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 길음동 542-1 상가동 지하1층 B24, B25, B26, B27호",
+      "roadAddress": "서울특별시 성북구 길음로 11 상가동 지하1층 B24, B25, B26, B27호",
+      "mapx": "1270234729",
+      "mapy": "376038013"
+    }
+  ]
+}

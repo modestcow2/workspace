@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:36:38 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "양식구옥",
+      "link": "https://www.instagram.com/yangsikguok",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-25 2층",
+      "roadAddress": "서울특별시 마포구 동교로38길 27 2층",
+      "mapx": "1269255517",
+      "mapy": "375616911"
+    },
+    {
+      "title": "<b>연남동</b>와이탑",
+      "link": "https://www.instagram.com/yeonnamdong_ytop",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 223-21 2층, 3층",
+      "roadAddress": "서울특별시 마포구 성미산로 163 2층, 3층",
+      "mapx": "1269242773",
+      "mapy": "375649025"
+    },
+    {
+      "title": "뉴오더클럽 연남",
+      "link": "https://app.catchtable.co.kr/ct/shop/neworderclub",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-31 1F 뉴오더클럽",
+      "roadAddress": "서울특별시 마포구 동교로34길 3 1F 뉴오더클럽",
+      "mapx": "1269245375",
+      "mapy": "375610437"
+    },
+    {
+      "title": "비스트로 오라",
+      "link": "https://www.instagram.com/bistro_ora/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 260-15 거구빌딩 2층 비스트로오라",
+      "roadAddress": "서울특별시 마포구 동교로 244 거구빌딩 2층 비스트로오라",
+      "mapx": "1269245101",
+      "mapy": "375615419"
+    },
+    {
+      "title": "플롭 연남",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-23 1층",
+      "roadAddress": "서울특별시 마포구 동교로38길 27-9 1층",
+      "mapx": "1269255919",
+      "mapy": "375619251"
+    }
+  ]
+}

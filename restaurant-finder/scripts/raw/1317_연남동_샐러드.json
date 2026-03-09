@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아민 연남",
+      "link": "https://app.catchtable.co.kr/ct/shop/we.salad.you",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 224-5",
+      "roadAddress": "서울특별시 마포구 동교로52길 10-7",
+      "mapx": "1269268894",
+      "mapy": "375637057"
+    },
+    {
+      "title": "히포 브런치하우스",
+      "link": "https://www.instagram.com/brunchhaus_hippo/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 487-34 1층",
+      "roadAddress": "서울특별시 마포구 성미산로17길 85 1층",
+      "mapx": "1269172618",
+      "mapy": "375652288"
+    },
+    {
+      "title": "커스텀<b>샐러드</b> 연남본점",
+      "link": "http://www.customsalad.co.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 390-59 1층",
+      "roadAddress": "서울특별시 마포구 동교로38길 19 1층",
+      "mapx": "1269254424",
+      "mapy": "375620354"
+    },
+    {
+      "title": "잼잼",
+      "link": "https://www.instagram.com/jamjam.cafe/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 241-31 지하1층",
+      "roadAddress": "서울특별시 마포구 성미산로29길 24 지하1층",
+      "mapx": "1269223616",
+      "mapy": "375650550"
+    },
+    {
+      "title": "그리너 연남본점",
+      "link": "http://greener.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 연남동 240-22 1층 그리너",
+      "roadAddress": "서울특별시 마포구 성미산로 157 1층 그리너",
+      "mapx": "1269236753",
+      "mapy": "375646163"
+    }
+  ]
+}

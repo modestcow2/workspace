@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:47 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "온점 <b>을지로</b>점",
+      "link": "https://www.instagram.com/onjeom.seoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 87 지1층",
+      "roadAddress": "서울특별시 중구 을지로 29 지1층",
+      "mapx": "1269810422",
+      "mapy": "375664910"
+    },
+    {
+      "title": "우래옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 118-1",
+      "roadAddress": "서울특별시 중구 창경궁로 62-29",
+      "mapx": "1269987029",
+      "mapy": "375682697"
+    },
+    {
+      "title": "금돈옥 <b>을지로</b>점",
+      "link": "https://blog.naver.com/goldporkog",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 342-7 1~2층",
+      "roadAddress": "서울특별시 중구 을지로 112 1~2층",
+      "mapx": "1269903382",
+      "mapy": "375660403"
+    },
+    {
+      "title": "난로은회 <b>을지로</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/nanroeunhoi_euljiro",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 203 파인에비뉴 B동 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 100 파인에비뉴 B동 지하1층",
+      "mapx": "1269889089",
+      "mapy": "375658847"
+    },
+    {
+      "title": "조선옥",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 229-1",
+      "roadAddress": "서울특별시 중구 을지로15길 6-5",
+      "mapx": "1269934389",
+      "mapy": "375667917"
+    }
+  ]
+}

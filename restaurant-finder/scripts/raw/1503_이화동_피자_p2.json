@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:51 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "디마떼오",
+      "link": "http://www.dimatteo.co.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-141 디마떼오",
+      "roadAddress": "서울특별시 종로구 동숭길 29 디마떼오",
+      "mapx": "1270039695",
+      "mapy": "375799156"
+    },
+    {
+      "title": "핏제리아파르코 대학로",
+      "link": "https://www.instagram.com/parco_heyhwa",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-43 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 117 2층",
+      "mapx": "1270034988",
+      "mapy": "375831432"
+    },
+    {
+      "title": "아란치아 대학로",
+      "link": "https://www.instagram.com/pizzeria.arancia?igsh=MTdoZTZrM3hzemR5OA%3D%3D&utm_source=qr",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 77-2 1, 2층",
+      "roadAddress": "서울특별시 종로구 대학로 81-1 1, 2층",
+      "mapx": "1270019641",
+      "mapy": "375784955"
+    },
+    {
+      "title": "핏제리아오 대학로 본점",
+      "link": "http://pizzeriao.com/",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 31-37 2, 3층",
+      "roadAddress": "서울특별시 종로구 동숭길 86 2, 3층",
+      "mapx": "1270043262",
+      "mapy": "375820958"
+    },
+    {
+      "title": "스케치테이블 혜화",
+      "link": "https://www.instagram.com/sketch_table_",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 연건동 195-38 지하1층, 1층, 2층",
+      "roadAddress": "서울특별시 종로구 율곡로 206 지하1층, 1층, 2층",
+      "mapx": "1270017260",
+      "mapy": "375759733"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서린 바지락<b>칼국수</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 2층 211-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 2층 211-3호",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "<b>종로</b>수제비",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1",
+      "mapx": "1269797994",
+      "mapy": "375706931"
+    },
+    {
+      "title": "장춘<b>칼국수</b>",
+      "link": "https://www.instagram.com/jang.chun_kalguksu",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 113-4호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 113-4호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "등촌샤브<b>칼국수</b> <b>종로1가</b>점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 종로타운 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 종로타운 지하1층",
+      "mapx": "1269798355",
+      "mapy": "375705596"
+    },
+    {
+      "title": "명동교자 본점",
+      "link": "http://www.mdkj.co.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 25-2",
+      "roadAddress": "서울특별시 중구 명동10길 29",
+      "mapx": "1269856025",
+      "mapy": "375625491"
+    }
+  ]
+}

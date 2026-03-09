@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:33:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서울가야밀면",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜3가 135 1층",
+      "roadAddress": "서울특별시 종로구 성균관로3길 13 1층",
+      "mapx": "1269974136",
+      "mapy": "375833824"
+    },
+    {
+      "title": "육전면사무소 수원<b>성균관대</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 433-6 1층",
+      "roadAddress": "경기도 수원시 장안구 서부로 2115 1층",
+      "mapx": "1269706020",
+      "mapy": "372974939"
+    },
+    {
+      "title": "맘스터치 수원<b>성균관대</b>점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 장안구 율전동 285-8",
+      "roadAddress": "경기도 수원시 장안구 서부로 2128",
+      "mapx": "1269718402",
+      "mapy": "372982299"
+    }
+  ]
+}

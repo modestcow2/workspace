@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "만나<b>분식</b>",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "라면점빵",
+      "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 202",
+      "roadAddress": "서울특별시 종로구 자하문로1길 39",
+      "mapx": "1269701211",
+      "mapy": "375766355"
+    },
+    {
+      "title": "동혁이네",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 106",
+      "roadAddress": "서울특별시 종로구 필운대로1길 5",
+      "mapx": "1269689493",
+      "mapy": "375773312"
+    },
+    {
+      "title": "봉구스밥버거 배화여대점",
+      "link": "http://www.bongousse.com",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 154",
+      "roadAddress": "서울특별시 종로구 자하문로1길 51",
+      "mapx": "1269696320",
+      "mapy": "375768854"
+    },
+    {
+      "title": "본김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 광화문 풍림스페이스본",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
+      "mapx": "1269699607",
+      "mapy": "375746116"
+    }
+  ]
+}

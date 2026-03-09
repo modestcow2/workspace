@@ -1,0 +1,19 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:14 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "엘 샌드위치 종각역점",
+      "link": "http://smartstore.naver.com/elsandwich",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 타워8 B1 엘샌드위치",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8 B1 엘샌드위치",
+      "mapx": "1269805518",
+      "mapy": "375706324"
+    }
+  ]
+}

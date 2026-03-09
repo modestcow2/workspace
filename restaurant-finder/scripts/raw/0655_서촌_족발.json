@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:57 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "할매집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 108",
+      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
+      "mapx": "1269714754",
+      "mapy": "375756601"
+    },
+    {
+      "title": "효자왕<b>족발</b>",
+      "link": "https://www.instagram.com/seochonhotpot",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
+    },
+    {
+      "title": "<b>서촌</b> 곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 146-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
+      "mapx": "1269693165",
+      "mapy": "375766924"
+    },
+    {
+      "title": "가장맛있는<b>족발</b> 경복궁역점",
+      "link": "http://www.가장맛있는족발.com/",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 30 2층",
+      "roadAddress": "서울특별시 종로구 사직로 103-4 2층",
+      "mapx": "1269706204",
+      "mapy": "375764124"
+    },
+    {
+      "title": "귀한<b>족발</b> 경복궁역점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 45 1층 귀한족발 경복궁역점",
+      "roadAddress": "서울특별시 종로구 자하문로2길 7 1층 귀한족발 경복궁역점",
+      "mapx": "1269731657",
+      "mapy": "375765721"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:01:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "재동맥주",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 45-2",
+      "roadAddress": "서울특별시 종로구 북촌로4길 4",
+      "mapx": "1269854916",
+      "mapy": "375790413"
+    },
+    {
+      "title": "경성<b>치킨</b> 본점",
+      "link": "https://gyeongseongchiken.co.kr",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 14",
+      "roadAddress": "서울특별시 종로구 율곡로4길 5",
+      "mapx": "1269822908",
+      "mapy": "375752174"
+    },
+    {
+      "title": "무화서울 안국점",
+      "link": "https://www.instagram.com/bouquet_seoul_anguk",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 47 1층 무화서울 안국점",
+      "roadAddress": "서울특별시 종로구 북촌로 24 1층 무화서울 안국점",
+      "mapx": "1269854413",
+      "mapy": "375788712"
+    },
+    {
+      "title": "교촌<b>치킨</b> 안국점",
+      "link": "https://m.kyochon.com/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-7",
+      "roadAddress": "서울특별시 종로구 북촌로5길 43",
+      "mapx": "1269825655",
+      "mapy": "375793487"
+    },
+    {
+      "title": "갓잇 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/godeat_anguk",
+      "category": "음식점>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-30 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-5 1층",
+      "mapx": "1269859643",
+      "mapy": "375781671"
+    }
+  ]
+}

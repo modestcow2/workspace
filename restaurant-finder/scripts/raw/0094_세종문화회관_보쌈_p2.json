@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "삼해집 종로점",
+      "link": "http://www.samhae1.kr",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 42",
+      "roadAddress": "서울특별시 종로구 수표로20길 16-15",
+      "mapx": "1269909814",
+      "mapy": "375699683"
+    },
+    {
+      "title": "인사동마늘<b>보쌈</b>",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
+    },
+    {
+      "title": "종로도담",
+      "link": "https://jongnododam.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 46",
+      "roadAddress": "서울특별시 종로구 삼봉로 78",
+      "mapx": "1269813844",
+      "mapy": "375720658"
+    },
+    {
+      "title": "종로 흥부가",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 40 1층",
+      "roadAddress": "서울특별시 종로구 수표로20길 22 1층",
+      "mapx": "1269908525",
+      "mapy": "375699114"
+    },
+    {
+      "title": "고려<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 25-1 원창빌딩",
+      "roadAddress": "서울특별시 중구 세종대로20길 23 원창빌딩",
+      "mapx": "1269787500",
+      "mapy": "375671549"
+    }
+  ]
+}

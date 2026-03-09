@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:02:30 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "양궈푸<b>마라탕</b> 명동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 36-3 2층",
+      "roadAddress": "서울특별시 중구 명동9길 15 2층",
+      "mapx": "1269847660",
+      "mapy": "375645620"
+    },
+    {
+      "title": "마라붐 시청점",
+      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
+      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
+      "mapx": "1269771292",
+      "mapy": "375635420"
+    },
+    {
+      "title": "마라중독",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 7-1 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
+      "mapx": "1269874452",
+      "mapy": "375695065"
+    },
+    {
+      "title": "꽁시면관 본점",
+      "link": "http://instagram.com/ggongci_ggongci",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 22-13 꽁시면관",
+      "roadAddress": "서울특별시 중구 명동2길 45 꽁시면관",
+      "mapx": "1269832230",
+      "mapy": "375613839"
+    },
+    {
+      "title": "용가회전훠궈 명동점",
+      "link": "https://www.instagram.com/loonger_md_myeongdong",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25 2, 3층",
+      "roadAddress": "서울특별시 중구 명동3길 12 2, 3층",
+      "mapx": "1269836250",
+      "mapy": "375642295"
+    }
+  ]
+}

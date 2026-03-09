@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:43 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "20 어클락 모먼트",
+      "link": "https://www.instagram.com/twenty_moment/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 77 은희네해장국 건물 2층 20어클락모먼트",
+      "roadAddress": "서울특별시 중구 창경궁로5길 5 은희네해장국 건물 2층 20어클락모먼트",
+      "mapx": "1269977467",
+      "mapy": "375670765"
+    },
+    {
+      "title": "82올리언즈",
+      "link": "https://app.catchtable.co.kr/ct/shop/82orleans_euljiro",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 156-6 1층, 82올리언즈",
+      "roadAddress": "서울특별시 중구 퇴계로27길 64 1층, 82올리언즈",
+      "mapx": "1269912561",
+      "mapy": "375640014"
+    },
+    {
+      "title": "더 시옷",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesiot",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-15 OK빌딩 2층",
+      "roadAddress": "서울특별시 중구 수표로 30 OK빌딩 2층",
+      "mapx": "1269903062",
+      "mapy": "375638355"
+    },
+    {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    },
+    {
+      "title": "지금 여기가 맨 앞",
+      "link": "https://catchtable.co.kr/veryfront_seoul",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 15-15 3층",
+      "roadAddress": "서울특별시 중구 을지로20길 16 3층",
+      "mapx": "1269952612",
+      "mapy": "375656852"
+    }
+  ]
+}

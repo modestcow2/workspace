@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:22 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "족삼리",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 115-5 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
+      "mapx": "1269483970",
+      "mapy": "375854364"
+    },
+    {
+      "title": "녹원쌈밥 연희점",
+      "link": "http://pf.kakao.com/_gGnqn",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 82-3",
+      "roadAddress": "서울특별시 서대문구 연희로25길 22",
+      "mapx": "1269341598",
+      "mapy": "375725288"
+    },
+    {
+      "title": "서대문영양족발 본점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 90-53 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 377 1층",
+      "mapx": "1269491514",
+      "mapy": "375837552"
+    },
+    {
+      "title": "유진감자탕",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-12",
+      "roadAddress": "서울특별시 서대문구 통일로 442-5",
+      "mapx": "1269448356",
+      "mapy": "375887902"
+    },
+    {
+      "title": "효자왕족발",
+      "link": "https://www.instagram.com/seochonhotpot",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
+    }
+  ]
+}

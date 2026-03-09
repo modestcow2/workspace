@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "맛있는<b>삼겹살</b>",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 30-10",
+      "roadAddress": "서울특별시 중구 남대문시장길 37",
+      "mapx": "1269780281",
+      "mapy": "375605147"
+    },
+    {
+      "title": "풍문고기집 서울역점",
+      "link": "https://blog.naver.com/pungmun_",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 84-9 1층",
+      "roadAddress": "서울특별시 중구 세종대로2길 6-1 1층",
+      "mapx": "1269736723",
+      "mapy": "375576757"
+    },
+    {
+      "title": "굽돌집 서울시청본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 63 1, 2층 굽돌집",
+      "roadAddress": "서울특별시 중구 세종대로14길 18 1, 2층 굽돌집",
+      "mapx": "1269777438",
+      "mapy": "375627824"
+    },
+    {
+      "title": "금성회관 서울시청직영점",
+      "link": "https://www.instagram.com/gumseong5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
+      "mapx": "1269774892",
+      "mapy": "375623316"
+    },
+    {
+      "title": "명동집",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 20-1 3층",
+      "roadAddress": "서울특별시 중구 세종대로 28 3층",
+      "mapx": "1269745997",
+      "mapy": "375588942"
+    }
+  ]
+}

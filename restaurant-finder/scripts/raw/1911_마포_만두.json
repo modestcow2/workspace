@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:00 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옥동식",
+      "link": "http://instagram.com/okdongsik",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 385-6",
+      "roadAddress": "서울특별시 마포구 양화로7길 44-10",
+      "mapx": "1269144811",
+      "mapy": "375526833"
+    },
+    {
+      "title": "봉평옹심이메밀칼국수",
+      "link": "https://catchtable.co.kr/bongpyeongongsimimemilkalgugsu",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 공덕동 242-90 1층 봉평옹심이메밀칼국수",
+      "roadAddress": "서울특별시 마포구 만리재옛길 19 1층 봉평옹심이메밀칼국수",
+      "mapx": "1269552378",
+      "mapy": "375459556"
+    },
+    {
+      "title": "해정집",
+      "link": "https://litt.ly/haejeongjip_",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 396-32 1층 101호",
+      "roadAddress": "서울특별시 마포구 양화로6길 45 1층 101호",
+      "mapx": "1269167238",
+      "mapy": "375489290"
+    },
+    {
+      "title": "진성만두 망원시장점",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 378-1 1층 2호",
+      "roadAddress": "서울특별시 마포구 월드컵로13길 9 1층 2호",
+      "mapx": "1269097431",
+      "mapy": "375555424"
+    },
+    {
+      "title": "만두란",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 386-5 1층 동측",
+      "roadAddress": "서울특별시 마포구 동교로 81 1층 동측",
+      "mapx": "1269110664",
+      "mapy": "375541928"
+    }
+  ]
+}

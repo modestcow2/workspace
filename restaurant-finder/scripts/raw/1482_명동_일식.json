@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    },
+    {
+      "title": "배 수사",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 117 나전빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 12 나전빌딩",
+      "mapx": "1269817000",
+      "mapy": "375668280"
+    },
+    {
+      "title": "우와 <b>명동</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/wuwa_md",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 4-2 1층",
+      "roadAddress": "서울특별시 중구 명동10길 35-20 1층",
+      "mapx": "1269858175",
+      "mapy": "375629437"
+    },
+    {
+      "title": "쯔루하시 후게츠 <b>명동</b>점",
+      "link": "https://www.instagram.com/fugetsu__?igsh=MTY2Z3Jlc3V4NXBqNA==",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 32-27 해암빌딩 2층",
+      "roadAddress": "서울특별시 중구 명동8길 21-5 해암빌딩 2층",
+      "mapx": "1269850447",
+      "mapy": "375628500"
+    },
+    {
+      "title": "<b>명동</b>돈가스",
+      "link": "http://mddongas.co.kr/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-13",
+      "roadAddress": "서울특별시 중구 명동3길 8",
+      "mapx": "1269835560",
+      "mapy": "375640263"
+    }
+  ]
+}

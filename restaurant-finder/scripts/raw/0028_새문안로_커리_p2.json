@@ -1,0 +1,41 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:56:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "옴레스토랑 광화문점",
+      "link": "https://www.instagram.com/om.restaurant",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 2 지하",
+      "roadAddress": "서울특별시 종로구 새문안로 103 지하",
+      "mapx": "1269760717",
+      "mapy": "375704856"
+    },
+    {
+      "title": "카츠큐브",
+      "link": "https://www.instagram.com/katsucube_official",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "무무돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 오피시아빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 92 오피시아빌딩 지하1층",
+      "mapx": "1269749175",
+      "mapy": "375697377"
+    }
+  ]
+}

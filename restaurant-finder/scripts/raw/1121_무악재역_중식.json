@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:09 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "영화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 25-1",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65",
+      "mapx": "1269690130",
+      "mapy": "375801579"
+    },
+    {
+      "title": "3호선차이나",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 188 1층 3호선차이나",
+      "roadAddress": "서울특별시 서대문구 통일로36길 17 1층 3호선차이나",
+      "mapx": "1269468725",
+      "mapy": "375878330"
+    },
+    {
+      "title": "화린",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-44 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 421 1층",
+      "mapx": "1269460531",
+      "mapy": "375868551"
+    },
+    {
+      "title": "중화요리연 홍제역점",
+      "link": "https://blog.naver.com/yeon_hongje",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 474 지상2층 25호, 26호",
+      "roadAddress": "서울특별시 서대문구 세무서8길 30 지상2층 25호, 26호",
+      "mapx": "1269469561",
+      "mapy": "375907481"
+    },
+    {
+      "title": "일화성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 141-34",
+      "roadAddress": "서울특별시 서대문구 연희로36길 26",
+      "mapx": "1269369249",
+      "mapy": "375782499"
+    }
+  ]
+}

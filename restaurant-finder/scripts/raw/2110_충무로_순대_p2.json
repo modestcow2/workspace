@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:38:31 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "산수갑산",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 15-4",
+      "roadAddress": "서울특별시 중구 을지로20길 24",
+      "mapx": "1269953138",
+      "mapy": "375653833"
+    },
+    {
+      "title": "명품을지<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 19-10 1층",
+      "roadAddress": "서울특별시 중구 충무로5길 3 1층",
+      "mapx": "1269923868",
+      "mapy": "375650989"
+    },
+    {
+      "title": "제주상회 을지로점",
+      "link": "https://www.instagram.com/jeju.euljiro",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 25-5 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 31 1층",
+      "mapx": "1269915082",
+      "mapy": "375631209"
+    },
+    {
+      "title": "<b>충무로</b>한양집",
+      "link": "https://www.instagram.com/hanyangjip?igsh=MW93bjltaHpzbTB5eg==",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 51-8 1층",
+      "roadAddress": "서울특별시 중구 퇴계로31길 14 1층",
+      "mapx": "1269923288",
+      "mapy": "375617940"
+    },
+    {
+      "title": "경성<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 102-5 1층",
+      "roadAddress": "서울특별시 중구 마른내로 50-1 (인현동1가) 1층",
+      "mapx": "1269933919",
+      "mapy": "375642608"
+    }
+  ]
+}

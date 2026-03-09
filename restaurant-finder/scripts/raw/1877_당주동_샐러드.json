@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:10:08 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "웰믹스 광화문점",
+      "link": "https://www.instagram.com/wellmixx.life",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 1층 웰믹스 광화문점",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 1층 웰믹스 광화문점",
+      "mapx": "1269734280",
+      "mapy": "375717585"
+    },
+    {
+      "title": "포시즌스 호텔 서울 마루",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 로비층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 로비층",
+      "mapx": "1269753817",
+      "mapy": "375707185"
+    },
+    {
+      "title": "마이타입<b>샐러드</b>",
+      "link": "https://www.instagram.com/mytype.salad",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 지하1층 14호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지하1층 14호",
+      "mapx": "1269733018",
+      "mapy": "375718397"
+    },
+    {
+      "title": "포시즌스 호텔 서울 보칼리노",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 2층",
+      "mapx": "1269754535",
+      "mapy": "375706990"
+    },
+    {
+      "title": "올라포케 광화문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 제41호, 43호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 제41호, 43호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    }
+  ]
+}

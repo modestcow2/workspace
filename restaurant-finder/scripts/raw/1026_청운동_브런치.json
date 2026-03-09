@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:30:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "시노라 서촌점",
+      "link": "https://smartstore.naver.com/cafesinola",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 72 카페 시노라 서촌점",
+      "roadAddress": "서울특별시 종로구 자하문로 116 카페 시노라 서촌점",
+      "mapx": "1269701685",
+      "mapy": "375861550"
+    },
+    {
+      "title": "토스티드 클럽",
+      "link": "https://www.instagram.com/toasted.club/",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 72 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 116 1층",
+      "mapx": "1269701217",
+      "mapy": "375862557"
+    },
+    {
+      "title": "레스피레베이커리 서촌",
+      "link": "https://instagram.com/___respirer",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
+    },
+    {
+      "title": "애즈라이크 서촌",
+      "link": "http://www.instagram.com/aslike_",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 7-33 1층 애즈라이크",
+      "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
+      "mapx": "1269733577",
+      "mapy": "375783143"
+    }
+  ]
+}

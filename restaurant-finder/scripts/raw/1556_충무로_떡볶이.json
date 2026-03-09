@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:59 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "불꽃김밥 <b>충무로</b>점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 49 엘크루메트로시티 108호",
+      "roadAddress": "서울특별시 중구 충무로 13 엘크루메트로시티 108호",
+      "mapx": "1269925674",
+      "mapy": "375621786"
+    },
+    {
+      "title": "후토루 을지로점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 88-13 1층, 후토루 을지로점",
+      "roadAddress": "서울특별시 중구 마른내로 8 1층, 후토루 을지로점(저동2가)",
+      "mapx": "1269887594",
+      "mapy": "375644917"
+    },
+    {
+      "title": "돈독",
+      "link": "https://www.instagram.com/don._.dok",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 156-9 . 2층 201호()",
+      "roadAddress": "서울특별시 중구 수표로10길 19 . 2층 201호(초동)",
+      "mapx": "1269914329",
+      "mapy": "375637463"
+    },
+    {
+      "title": "부오상회 을지로점",
+      "link": "https://www.instagram.com/buosanghe_euljiro?igsh=cjdmN21zYW83MTYx",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-11 1층 부오상회 을지로점",
+      "roadAddress": "서울특별시 중구 수표로10길 5-5 1층 부오상회 을지로점",
+      "mapx": "1269906230",
+      "mapy": "375638455"
+    },
+    {
+      "title": "153구포국수 <b>충무로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동1가 36-2 1층 102호",
+      "roadAddress": "서울특별시 중구 퇴계로 188 1층 102호",
+      "mapx": "1269925060",
+      "mapy": "375609014"
+    }
+  ]
+}

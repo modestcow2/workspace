@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:08:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "<b>계동치킨</b> 충정로점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 19-1 1층 계동치킨",
+      "roadAddress": "서울특별시 서대문구 통일로9안길 37 1층 계동치킨",
+      "mapx": "1269657334",
+      "mapy": "375658717"
+    },
+    {
+      "title": "<b>계동치킨</b> 종로5가점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 122-1",
+      "roadAddress": "서울특별시 종로구 종로31길 4",
+      "mapx": "1270002622",
+      "mapy": "375712407"
+    },
+    {
+      "title": "<b>계동치킨</b> 행신2호점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 고양시 덕양구 행신동 1081",
+      "roadAddress": "경기도 고양시 덕양구 서정마을1로 2",
+      "mapx": "1268449498",
+      "mapy": "376191464"
+    },
+    {
+      "title": "<b>계동치킨</b> 명동점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-56 1층",
+      "roadAddress": "서울특별시 중구 명동9길 37-5 1층",
+      "mapx": "1269839460",
+      "mapy": "375653903"
+    },
+    {
+      "title": "<b>계동치킨</b> 낙원점",
+      "link": "http://kyedong.com",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 198 금강빌딩",
+      "roadAddress": "서울특별시 종로구 수표로 108 금강빌딩",
+      "mapx": "1269894900",
+      "mapy": "375708759"
+    }
+  ]
+}

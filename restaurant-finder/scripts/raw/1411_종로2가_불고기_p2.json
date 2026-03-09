@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:41 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "경복궁식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 1층 112호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 112호",
+      "mapx": "1269847135",
+      "mapy": "375704128"
+    },
+    {
+      "title": "KUT Seoul",
+      "link": "https://app.catchtable.co.kr/ct/shop/KUT?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-6 한올타워 3F KUT",
+      "roadAddress": "서울특별시 종로구 종로 96 한올타워 3F KUT",
+      "mapx": "1269882058",
+      "mapy": "375698597"
+    },
+    {
+      "title": "<b>종로</b>면선생",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-6 102호",
+      "roadAddress": "서울특별시 종로구 종로 96 102호",
+      "mapx": "1269882343",
+      "mapy": "375699901"
+    },
+    {
+      "title": "보돌미역 <b>종로</b>타워점",
+      "link": "http://bodolfood.com",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6",
+      "roadAddress": "서울특별시 종로구 종로 51",
+      "mapx": "1269836223",
+      "mapy": "375707628"
+    },
+    {
+      "title": "하얀고래 종각본점",
+      "link": "https://sites.google.com/view/hayangoraejonggakbonjeom",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4 1층 109,110,111호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 109,110,111호",
+      "mapx": "1269847263",
+      "mapy": "375704878"
+    }
+  ]
+}

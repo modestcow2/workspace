@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:00:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "서촌 금상고로케",
+      "link": "https://www.instagram.com/seochonkumsang",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 74",
+      "roadAddress": "서울특별시 종로구 자하문로9길 24",
+      "mapx": "1269697116",
+      "mapy": "375795180"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "공기식당",
+      "link": "",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 46-5 1층",
+      "roadAddress": "서울특별시 종로구 필운대로6길 20-1 1층",
+      "mapx": "1269695266",
+      "mapy": "375803365"
+    },
+    {
+      "title": "알로이막막",
+      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 150-1 1,2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
+      "mapx": "1269705861",
+      "mapy": "375790359"
+    },
+    {
+      "title": "밥+",
+      "link": "https://www.instagram.com/seochon_bob_plus",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 77-15",
+      "roadAddress": "서울특별시 종로구 옥인길 9",
+      "mapx": "1269680075",
+      "mapy": "375804706"
+    }
+  ]
+}

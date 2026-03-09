@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:07:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "스시미치루",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
+      "mapx": "1269789959",
+      "mapy": "375739044"
+    },
+    {
+      "title": "스시키마에",
+      "link": "https://catchtable.co.kr/sushikimae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 141호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 141호",
+      "mapx": "1269818155",
+      "mapy": "375723952"
+    },
+    {
+      "title": "스시우미 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushiumi_ghm",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B113",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B113",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "스시와",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushiwa",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 서머셋팰리스서울 2층 201호",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스서울 2층 201호",
+      "mapx": "1269812442",
+      "mapy": "375750348"
+    },
+    {
+      "title": "<b>오마카세</b> 오사이초밥 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    }
+  ]
+}

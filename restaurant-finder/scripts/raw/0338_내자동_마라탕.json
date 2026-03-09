@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:36 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "라향각 <b>마라탕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
+      "roadAddress": "서울특별시 중구 세종대로21길 67 2층 라향각마라탕",
+      "mapx": "1269757332",
+      "mapy": "375692879"
+    },
+    {
+      "title": "마라공방 종각2호점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 1층",
+      "mapx": "1269798224",
+      "mapy": "375708585"
+    },
+    {
+      "title": "신룽푸<b>마라탕</b>",
+      "link": "http://shinrungpumara.cityfood.co.kr/",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-58 2층 신룽푸마라탕",
+      "roadAddress": "서울특별시 중구 명동7가길 20 2층 신룽푸마라탕",
+      "mapx": "1269833300",
+      "mapy": "375644942"
+    },
+    {
+      "title": "동베이 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dong_bey",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 37-6 2층 동베이 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 2층 동베이 광화문점",
+      "mapx": "1269750484",
+      "mapy": "375709890"
+    },
+    {
+      "title": "성민양꼬치 서대문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 161-2 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 143-7 1층",
+      "mapx": "1269648040",
+      "mapy": "375671795"
+    }
+  ]
+}

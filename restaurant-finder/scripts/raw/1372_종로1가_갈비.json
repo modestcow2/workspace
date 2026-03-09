@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:06:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "김삼보 <b>종로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24",
+      "roadAddress": "서울특별시 종로구 종로 19",
+      "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "더미 광화문본점",
+      "link": "http://www.hanutheme.com/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 3층 더미 본점",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 3층 더미 본점",
+      "mapx": "1269798488",
+      "mapy": "375706671"
+    },
+    {
+      "title": "라브리",
+      "link": "",
+      "category": "음식점>프랑스음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 1 교보생명빌딩 2층",
+      "roadAddress": "서울특별시 종로구 종로 1 교보생명빌딩 2층",
+      "mapx": "1269780031",
+      "mapy": "375709863"
+    },
+    {
+      "title": "간장게장에 진심인 정선할매",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 2층 216호",
+      "roadAddress": "서울특별시 종로구 종로 19 2층 216호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "미도<b>갈비</b>",
+      "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-13 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
+      "mapx": "1269861462",
+      "mapy": "375687918"
+    }
+  ]
+}

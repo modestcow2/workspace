@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:16 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "레이지버거클럽 부암점",
+      "link": "http://instagram.com/lazyburgerclub",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 254-7 2층",
+      "roadAddress": "서울특별시 종로구 창의문로 137 2층",
+      "mapx": "1269652698",
+      "mapy": "375925610"
+    },
+    {
+      "title": "버거드조선",
+      "link": "http://www.instagram.com/burger_de_joseon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 147 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
+      "mapx": "1269704616",
+      "mapy": "375755982"
+    },
+    {
+      "title": "맥도날드 홍제역점",
+      "link": "https://www.mcdonalds.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 253-11",
+      "roadAddress": "서울특별시 서대문구 통일로 442-1",
+      "mapx": "1269446547",
+      "mapy": "375886520"
+    },
+    {
+      "title": "버거킹 홍제역점",
+      "link": "http://www.burgerking.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 301-2 홍제빌딩",
+      "roadAddress": "서울특별시 서대문구 통일로 464 홍제빌딩",
+      "mapx": "1269430725",
+      "mapy": "375900334"
+    },
+    {
+      "title": "맘스터치 홍제역점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 330-52",
+      "roadAddress": "서울특별시 서대문구 통일로 465",
+      "mapx": "1269425966",
+      "mapy": "375897985"
+    }
+  ]
+}

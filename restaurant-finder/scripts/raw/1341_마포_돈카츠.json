@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:05 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "카와카츠 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/kawakatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 465-1 1층 102호",
+      "roadAddress": "서울특별시 마포구 동교로 126 1층 102호",
+      "mapx": "1269161059",
+      "mapy": "375547362"
+    },
+    {
+      "title": "카츠업 홍대점",
+      "link": "https://blog.naver.com/katsup",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 486 서교푸르지오 101동 142호",
+      "roadAddress": "서울특별시 마포구 홍익로 10 서교푸르지오 101동 142호",
+      "mapx": "1269234358",
+      "mapy": "375541052"
+    },
+    {
+      "title": "카와카츠 합정점",
+      "link": "http://app.catchtable.co.kr/ct/shop/kawakatsu_hapjeong",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 395-154 1층 카와카츠",
+      "roadAddress": "서울특별시 마포구 양화로 78-7 1층 카와카츠",
+      "mapx": "1269173802",
+      "mapy": "375514679"
+    },
+    {
+      "title": "정돈 홍대점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 서교동 408-26",
+      "roadAddress": "서울특별시 마포구 어울마당로 46",
+      "mapx": "1269209635",
+      "mapy": "375490684"
+    },
+    {
+      "title": "망원동즉석우동 본점",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 망원동 386-4",
+      "roadAddress": "서울특별시 마포구 동교로 83",
+      "mapx": "1269111604",
+      "mapy": "375542061"
+    }
+  ]
+}

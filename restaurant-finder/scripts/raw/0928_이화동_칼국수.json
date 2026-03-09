@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:23 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "국수가 대학로본점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 130-33",
+      "roadAddress": "서울특별시 종로구 동숭2길 1",
+      "mapx": "1270043646",
+      "mapy": "375808635"
+    },
+    {
+      "title": "<b>이화동</b> 개성만두",
+      "link": "",
+      "category": "한식>이북음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 이화동 122-1 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 223 1층",
+      "mapx": "1270036777",
+      "mapy": "375762646"
+    },
+    {
+      "title": "뇌산마을 대학로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/noesanvillagedaehakro",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-58 1층 뇌산마을 대학로점",
+      "roadAddress": "서울특별시 종로구 대학로8가길 30 1층 뇌산마을 대학로점",
+      "mapx": "1270024862",
+      "mapy": "375822687"
+    },
+    {
+      "title": "등촌샤브<b>칼국수</b> 동숭점",
+      "link": "",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-104 2층",
+      "roadAddress": "서울특별시 종로구 대학로10길 20 2층",
+      "mapx": "1270032669",
+      "mapy": "375816139"
+    },
+    {
+      "title": "샤브정원",
+      "link": "https://샤브정원.site",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-54 2층",
+      "roadAddress": "서울특별시 종로구 대학로12길 15 2층",
+      "mapx": "1270028633",
+      "mapy": "375827358"
+    }
+  ]
+}

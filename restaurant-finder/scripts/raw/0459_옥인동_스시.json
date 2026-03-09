@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:59:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "모아늑",
+      "link": "https://www.instagram.com/mo_aneuk?igsh=c3F4YXR1NHZpcGJ5&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층1호(계단 옆 울타리문)",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층1호(계단 옆 울타리문)",
+      "mapx": "1269711126",
+      "mapy": "375816125"
+    },
+    {
+      "title": "오마카세 오사이초밥 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "코끼리초밥 광화문점",
+      "link": "https://blog.naver.com/kokirisushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "일품 광화문점",
+      "link": "https://www.instagram.com/ilpum0200",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "사토루 더 서촌",
+      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 24",
+      "roadAddress": "서울특별시 종로구 자하문로7길 11",
+      "mapx": "1269709856",
+      "mapy": "375783639"
+    }
+  ]
+}

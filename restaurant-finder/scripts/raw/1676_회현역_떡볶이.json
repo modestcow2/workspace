@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:37:29 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "애니<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-121",
+      "roadAddress": "서울특별시 중구 남대문시장4길 12",
+      "mapx": "1269771930",
+      "mapy": "375596915"
+    },
+    {
+      "title": "라밥 회현점",
+      "link": "https://www.instagram.com/lababkimbab",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 94-4 1층",
+      "roadAddress": "서울특별시 중구 퇴계로10길 6 1층",
+      "mapx": "1269800781",
+      "mapy": "375590460"
+    },
+    {
+      "title": "통통김밥 남대문시장점",
+      "link": "https://instagram.com/tongtong_gimbab?igshid=k8bq43u3taii",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-28",
+      "roadAddress": "서울특별시 중구 남대문시장2가길 6-13",
+      "mapx": "1269769690",
+      "mapy": "375591665"
+    },
+    {
+      "title": "장우손 부산어묵",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 50-33",
+      "roadAddress": "서울특별시 중구 남대문시장2가길 6",
+      "mapx": "1269768900",
+      "mapy": "375594148"
+    },
+    {
+      "title": "이가네<b>떡볶이</b>신세계백화점본점신관점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 신세계백화점",
+      "roadAddress": "서울특별시 중구 퇴계로 77 신세계백화점",
+      "mapx": "1269807658",
+      "mapy": "375601987"
+    }
+  ]
+}

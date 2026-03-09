@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 17:04:18 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "돼지마을한방왕족발",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 283 A열17호",
+      "roadAddress": "서울특별시 서대문구 영천시장길 25 A열17호",
+      "mapx": "1269608877",
+      "mapy": "375710304"
+    },
+    {
+      "title": "장충가마솥한방족발",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 301 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 31 1층",
+      "mapx": "1269612443",
+      "mapy": "375708161"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "독립문영천시장 장충동왕한방족발",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 323 영천시장 C열",
+      "roadAddress": "서울특별시 서대문구 통일로 189-1 영천시장 C열",
+      "mapx": "1269618708",
+      "mapy": "375703324"
+    },
+    {
+      "title": "만냥족발",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 323",
+      "roadAddress": "서울특별시 서대문구 통일로 189-1",
+      "mapx": "1269618596",
+      "mapy": "375703388"
+    }
+  ]
+}

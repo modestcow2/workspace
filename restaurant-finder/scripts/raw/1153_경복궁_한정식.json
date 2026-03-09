@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:31:11 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "꽃누리들밥 <b>경복궁</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 112 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 31 지하1층",
+      "mapx": "1269804337",
+      "mapy": "375772562"
+    },
+    {
+      "title": "산채향 청계광장점",
+      "link": "https://www.instagram.com/sanchae_hyang_/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 96 프리미어플레이스",
+      "roadAddress": "서울특별시 중구 청계천로 8 프리미어플레이스",
+      "mapx": "1269780888",
+      "mapy": "375688580"
+    },
+    {
+      "title": "<b>경복궁 한정식</b> 부산해운대점",
+      "link": "http://entas.co.kr",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 해운대구 중동 1759 정우빌딩 3층",
+      "roadAddress": "부산광역시 해운대구 해운대로 743 정우빌딩 3층",
+      "mapx": "1291712991",
+      "mapy": "351671027"
+    },
+    {
+      "title": "<b>경복궁</b> 갓포제주 대전점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "대전광역시 유성구 도룡동 657 2층 1호",
+      "roadAddress": "대전광역시 유성구 엑스포로 87 2층 1호",
+      "mapx": "1273892891",
+      "mapy": "363751372"
+    },
+    {
+      "title": "<b>경복궁</b> 관훈점",
+      "link": "",
+      "category": "음식점>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-42 아미드호텔 지하1층",
+      "roadAddress": "서울특별시 종로구 인사동5길 38 아미드호텔 지하1층",
+      "mapx": "1269841684",
+      "mapy": "375725229"
+    }
+  ]
+}

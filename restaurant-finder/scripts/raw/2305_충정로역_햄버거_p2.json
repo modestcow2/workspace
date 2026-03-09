@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "버거운녀석들 중림점",
+      "link": "http://www.burgerguys.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 355 브라운스톤서울 112-1호",
+      "roadAddress": "서울특별시 중구 청파로 464 브라운스톤서울 112-1호",
+      "mapx": "1269683074",
+      "mapy": "375604371"
+    },
+    {
+      "title": "비에이글",
+      "link": "https://www.instagram.com/be_agle24",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 254-2 1층",
+      "roadAddress": "서울특별시 서대문구 충정로 24 1층",
+      "mapx": "1269637270",
+      "mapy": "375610825"
+    },
+    {
+      "title": "벤티버거 서울역점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 중림동 339-2 1, 2층",
+      "roadAddress": "서울특별시 중구 중림로 48-1 1, 2층",
+      "mapx": "1269682450",
+      "mapy": "375572668"
+    },
+    {
+      "title": "버거리 서대문역점",
+      "link": "http://burgerry.co.kr/",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 5-14 1층",
+      "roadAddress": "서울특별시 서대문구 통일로9안길 28 1층",
+      "mapx": "1269653678",
+      "mapy": "375661090"
+    },
+    {
+      "title": "롯데리아 서대문역점",
+      "link": "https://www.lotteria.com/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 8-2",
+      "roadAddress": "서울특별시 서대문구 통일로 127",
+      "mapx": "1269660669",
+      "mapy": "375658034"
+    }
+  ]
+}

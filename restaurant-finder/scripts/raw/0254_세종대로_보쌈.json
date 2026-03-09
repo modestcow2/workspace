@@ -1,0 +1,30 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:57:58 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "숭례회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-7 화남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 15 화남빌딩",
+      "mapx": "1269732674",
+      "mapy": "375583627"
+    },
+    {
+      "title": "북창동순두부 본점",
+      "link": "https://www.instagram.com/delicious.korean.restaurant/",
+      "category": "한식>두부요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-7",
+      "roadAddress": "서울특별시 중구 세종대로 78",
+      "mapx": "1269769761",
+      "mapy": "375631376"
+    }
+  ]
+}

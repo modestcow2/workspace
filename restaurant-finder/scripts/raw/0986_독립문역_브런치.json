@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:34:37 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "독립밀방 본점",
+      "link": "http://www.instagram.com/dongnip_millbang",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-11",
+      "roadAddress": "서울특별시 종로구 통일로12길 10-18",
+      "mapx": "1269606514",
+      "mapy": "375727375"
+    },
+    {
+      "title": "르꽁두",
+      "link": "",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 95 1층",
+      "roadAddress": "서울특별시 서대문구 독립문로 21-12 1층",
+      "mapx": "1269612698",
+      "mapy": "375699922"
+    },
+    {
+      "title": "야트막",
+      "link": "https://www.instagram.com/yatmak_cafe",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 45-7 1층 야트막",
+      "roadAddress": "서울특별시 서대문구 독립문로 29 1층 야트막",
+      "mapx": "1269614066",
+      "mapy": "375694621"
+    },
+    {
+      "title": "로파이 샌드위치 디저트 카페",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 4층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 4층",
+      "mapx": "1269655222",
+      "mapy": "375755898"
+    },
+    {
+      "title": "아리",
+      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 137-5 아리",
+      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
+      "mapx": "1269686902",
+      "mapy": "375765067"
+    }
+  ]
+}

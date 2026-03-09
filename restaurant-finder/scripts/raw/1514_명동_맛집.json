@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:49 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "남산산채집",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 8-38 1층",
+      "roadAddress": "서울특별시 중구 소파로 95 1층",
+      "mapx": "1269853930",
+      "mapy": "375567733"
+    },
+    {
+      "title": "목멱산방 남산타워점",
+      "link": "http://instagram.com/m_horaeng",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 산5-6",
+      "roadAddress": "서울특별시 중구 남산공원길 627",
+      "mapx": "1269853285",
+      "mapy": "375553582"
+    },
+    {
+      "title": "을지돈가스 <b>명동</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-5 1층",
+      "roadAddress": "서울특별시 중구 명동9길 10 1층",
+      "mapx": "1269849975",
+      "mapy": "375643266"
+    },
+    {
+      "title": "청기와타운 을지로점",
+      "link": "https://catchtable.co.kr/bluerooftown5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-21 1층 청기와타운 을지로점",
+      "roadAddress": "서울특별시 중구 을지로 54 1층 청기와타운 을지로점",
+      "mapx": "1269836749",
+      "mapy": "375659020"
+    },
+    {
+      "title": "강남 돼지상회 무한리필 <b>명동</b>직영점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-22 3층",
+      "roadAddress": "서울특별시 중구 명동3길 44 3층",
+      "mapx": "1269836364",
+      "mapy": "375656305"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:36:54 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "부오상회 을지로점",
+      "link": "https://www.instagram.com/buosanghe_euljiro?igsh=cjdmN21zYW83MTYx",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-11 1층 부오상회 을지로점",
+      "roadAddress": "서울특별시 중구 수표로10길 5-5 1층 부오상회 을지로점",
+      "mapx": "1269906230",
+      "mapy": "375638455"
+    },
+    {
+      "title": "충무칼국수<b>보쌈</b> 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동3가 2-3",
+      "roadAddress": "서울특별시 중구 퇴계로44길 29",
+      "mapx": "1269968649",
+      "mapy": "375607242"
+    },
+    {
+      "title": "<b>충무로</b>청국장",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로4가 127-18",
+      "roadAddress": "서울특별시 중구 퇴계로41길 7",
+      "mapx": "1269956823",
+      "mapy": "375621093"
+    },
+    {
+      "title": "강릉장칼국수&amp;<b>보쌈</b> <b>충무로</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 29-2 1층",
+      "roadAddress": "서울특별시 중구 수표로6길 39 1층",
+      "mapx": "1269926182",
+      "mapy": "375628225"
+    },
+    {
+      "title": "홍탁집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 35-2",
+      "roadAddress": "서울특별시 중구 퇴계로42길 8",
+      "mapx": "1269966588",
+      "mapy": "375614018"
+    }
+  ]
+}

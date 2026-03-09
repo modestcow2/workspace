@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 11:35:27 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "아민 이화",
+      "link": "https://app.catchtable.co.kr/ct/shop/we.salad.you_0",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-23",
+      "roadAddress": "서울특별시 서대문구 이화여대길 52-31",
+      "mapx": "1269447562",
+      "mapy": "375594661"
+    },
+    {
+      "title": "포크엔핑거스",
+      "link": "https://www.instagram.com/forkandfingers_seoul",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 37-73 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대7길 20-5 1층",
+      "mapx": "1269445126",
+      "mapy": "375590168"
+    },
+    {
+      "title": "머스타드",
+      "link": "https://www.instagram.com/mussttard",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 마포구 염리동 9-54 머스타드",
+      "roadAddress": "서울특별시 마포구 숭문16길 4 머스타드",
+      "mapx": "1269467698",
+      "mapy": "375557860"
+    },
+    {
+      "title": "헐리우드",
+      "link": "http://www.delizioso.kr/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대신동 111-14 1층 헐리우드",
+      "roadAddress": "서울특별시 서대문구 성산로 551 1층 헐리우드",
+      "mapx": "1269456710",
+      "mapy": "375653184"
+    },
+    {
+      "title": "올데이수프 북아현점",
+      "link": "https://www.instagram.com/alldaysoup_official",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북아현동 238-24 제나호 1층",
+      "roadAddress": "서울특별시 서대문구 신촌로 221 제나호 1층",
+      "mapx": "1269505244",
+      "mapy": "375572489"
+    }
+  ]
+}

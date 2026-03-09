@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:37:48 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "대엽 <b>을지로</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/daeyeop_euljiro",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 342-5 1층",
+      "roadAddress": "서울특별시 중구 을지로 114 1층",
+      "mapx": "1269904676",
+      "mapy": "375661005"
+    },
+    {
+      "title": "부오상회 <b>을지로</b>점",
+      "link": "https://www.instagram.com/buosanghe_euljiro?igsh=cjdmN21zYW83MTYx",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-11 1층 부오상회 을지로점",
+      "roadAddress": "서울특별시 중구 수표로10길 5-5 1층 부오상회 을지로점",
+      "mapx": "1269906230",
+      "mapy": "375638455"
+    },
+    {
+      "title": "장수<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 방산동 74-3",
+      "roadAddress": "서울특별시 중구 동호로 378",
+      "mapx": "1270024317",
+      "mapy": "375680789"
+    },
+    {
+      "title": "금돈옥 <b>을지로</b>점",
+      "link": "https://blog.naver.com/goldporkog",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 342-7 1~2층",
+      "roadAddress": "서울특별시 중구 을지로 112 1~2층",
+      "mapx": "1269903382",
+      "mapy": "375660403"
+    },
+    {
+      "title": "성수라 <b>을지로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 17-1 2층",
+      "roadAddress": "서울특별시 중구 마른내로 21 2층",
+      "mapx": "1269902750",
+      "mapy": "375649581"
+    }
+  ]
+}

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Sun, 08 Mar 2026 21:50:45 +0900",
+  "lastBuildDate": "Mon, 09 Mar 2026 11:32:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "만나<b>분식</b>",
-      "link": "https://smartstore.naver.com/mannabunsik",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
-      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
-      "mapx": "1269691188",
-      "mapy": "375773610"
-    },
     {
       "title": "꼬소한부뚜막 광화문광장점",
       "link": "",
@@ -27,15 +16,15 @@
       "mapy": "375715135"
     },
     {
-      "title": "교남김밥",
-      "link": "http://instagram.com/gyonamgimbap012",
-      "category": "분식>김밥",
+      "title": "만나<b>분식</b>",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 평동 233 경희궁자이 3단지 상가 1층 3116호 교남김밥",
-      "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
-      "mapx": "1269652933",
-      "mapy": "375683803"
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
     },
     {
       "title": "라면점빵",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 39",
       "mapx": "1269701211",
       "mapy": "375766355"
+    },
+    {
+      "title": "교남김밥",
+      "link": "http://instagram.com/gyonamgimbap012",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 233 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "mapx": "1269652933",
+      "mapy": "375683803"
     },
     {
       "title": "청담동 마녀김밥 광화문점",

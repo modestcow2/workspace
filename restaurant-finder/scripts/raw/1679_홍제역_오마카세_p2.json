@@ -1,0 +1,52 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:35:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "문화촌초밥집",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 266-21 1층 문화촌초밥집",
+      "roadAddress": "서울특별시 서대문구 세무서7길 12-6 1층 문화촌초밥집",
+      "mapx": "1269465766",
+      "mapy": "375917076"
+    },
+    {
+      "title": "서정식탁",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 43-5",
+      "roadAddress": "서울특별시 서대문구 세검정로1길 67",
+      "mapx": "1269451802",
+      "mapy": "375936661"
+    },
+    {
+      "title": "스시쇼부",
+      "link": "https://www.instagram.com/sushi_shobu",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 은평구 응암동 85-4 1층",
+      "roadAddress": "서울특별시 은평구 은평로13길 11-9 1층",
+      "mapx": "1269250623",
+      "mapy": "376020549"
+    },
+    {
+      "title": "스시마쯔",
+      "link": "http://m.blog.naver.com/sushimatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 79-31",
+      "roadAddress": "서울특별시 서대문구 연희로 166",
+      "mapx": "1269351965",
+      "mapy": "375719056"
+    }
+  ]
+}

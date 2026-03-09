@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 15:39:13 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "애니떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-121",
+      "roadAddress": "서울특별시 중구 남대문시장4길 12",
+      "mapx": "1269771930",
+      "mapy": "375596915"
+    },
+    {
+      "title": "숭례<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-106",
+      "roadAddress": "서울특별시 중구 남대문시장2길 5",
+      "mapx": "1269766273",
+      "mapy": "375597848"
+    },
+    {
+      "title": "가메골손왕만두 남대문본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
+    },
+    {
+      "title": "라밥 회현점",
+      "link": "https://www.instagram.com/lababkimbab",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 94-4 1층",
+      "roadAddress": "서울특별시 중구 퇴계로10길 6 1층",
+      "mapx": "1269800781",
+      "mapy": "375590460"
+    },
+    {
+      "title": "남대문 통통김밥 회현점",
+      "link": "https://ttfood.notion.site/tongtonggimbab",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 168-21",
+      "roadAddress": "서울특별시 중구 퇴계로2길 1",
+      "mapx": "1269773752",
+      "mapy": "375575998"
+    }
+  ]
+}

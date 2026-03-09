@@ -1,0 +1,63 @@
+{
+  "lastBuildDate": "Mon, 09 Mar 2026 16:58:20 +0900",
+  "total": 5,
+  "start": 1,
+  "display": 5,
+  "items": [
+    {
+      "title": "준카츠",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 70호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 70호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "아이자와",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
+      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
+      "title": "미카야",
+      "link": "https://www.instagram.com/mikayatable_",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 적선현대빌딩",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대빌딩",
+      "mapx": "1269733152",
+      "mapy": "375753857"
+    },
+    {
+      "title": "몽키스돈가스 광화문본점",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 지하105호 몽키스돈가스",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 지하105호 몽키스돈가스",
+      "mapx": "1269736144",
+      "mapy": "375744582"
+    },
+    {
+      "title": "경성왕<b>돈카츠</b>",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 301동 B113-14호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 301동 B113-14호",
+      "mapx": "1269686007",
+      "mapy": "375744035"
+    }
+  ]
+}

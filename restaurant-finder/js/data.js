@@ -12,9 +12,7 @@ const FILTER_META = {
   cooking:  { label: '조리 방식',   icon: '🍳',
     options: ['구이·볶음', '국물·찜', '생식·무침', '튀김', '면류·파스타', '오븐·화덕', '발효·숙성'] },
   cuisine:  { label: '음식 종류',   icon: '🌍',
-    options: ['한식', '중식', '일식', '양식', '아시안', '퓨전', '디저트·카페'] },
-  temp:     { label: '온도',        icon: '🌡️',
-    options: ['차가운', '뜨끈한'] },
+    options: ['한식', '중식', '일식', '이탈리안', '양식', '에스닉', '퓨전', '디저트·카페'] },
   occasion: { label: '상황·목적',   icon: '🎯',
     options: ['혼밥', '사교·회식', '안주'] },
   health:   { label: '건강·소화',   icon: '💪',
@@ -218,7 +216,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -429,7 +427,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -706,7 +704,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -776,7 +774,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -880,7 +878,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -954,7 +952,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -1533,7 +1531,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -1607,7 +1605,7 @@ const RESTAURANTS = [
         "국물·찜"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -1823,7 +1821,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -2414,7 +2412,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -2618,7 +2616,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -3014,7 +3012,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -3336,7 +3334,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -3622,7 +3620,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -4586,7 +4584,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -4731,7 +4729,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -4768,7 +4766,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -4806,7 +4804,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -5089,7 +5087,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -5201,7 +5199,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -5237,7 +5235,7 @@ const RESTAURANTS = [
         "국물·찜"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -5309,7 +5307,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -5693,7 +5691,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -5765,7 +5763,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -5800,7 +5798,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -6006,7 +6004,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -6145,7 +6143,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -6288,7 +6286,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -6497,7 +6495,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -6882,7 +6880,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -6919,7 +6917,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -7478,7 +7476,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -7587,7 +7585,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -7624,7 +7622,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -7904,7 +7902,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -8040,7 +8038,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -8737,7 +8735,7 @@ const RESTAURANTS = [
         "국물·찜"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -8843,7 +8841,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -9260,7 +9258,7 @@ const RESTAURANTS = [
         "국물·찜"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -9361,7 +9359,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -10127,7 +10125,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -10164,7 +10162,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -10202,7 +10200,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -10308,7 +10306,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -10451,7 +10449,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -10662,7 +10660,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -11245,7 +11243,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -11280,7 +11278,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -11351,7 +11349,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -11386,7 +11384,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -11454,7 +11452,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -11981,7 +11979,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -12128,7 +12126,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -12272,7 +12270,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -12376,7 +12374,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -13117,7 +13115,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -13397,7 +13395,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -13736,7 +13734,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -13772,7 +13770,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -13841,7 +13839,7 @@ const RESTAURANTS = [
         "국물·찜"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -14187,7 +14185,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -14439,7 +14437,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -14749,7 +14747,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -14824,7 +14822,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -15110,7 +15108,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -15147,7 +15145,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -15184,7 +15182,7 @@ const RESTAURANTS = [
         "국물·찜"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -15468,7 +15466,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -15573,7 +15571,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -16446,7 +16444,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -16550,7 +16548,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "양식"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -16618,7 +16616,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -16721,7 +16719,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -16959,7 +16957,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -16994,7 +16992,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -17103,7 +17101,7 @@ const RESTAURANTS = [
         "국물·찜"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -17139,7 +17137,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -17535,7 +17533,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -17636,7 +17634,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -17743,7 +17741,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -18126,7 +18124,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -18406,7 +18404,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -18549,7 +18547,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -18859,7 +18857,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -18896,7 +18894,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -19037,7 +19035,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "양식"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -19210,7 +19208,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -19356,7 +19354,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -19393,7 +19391,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -19856,7 +19854,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -19926,7 +19924,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -20498,7 +20496,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -20709,7 +20707,7 @@ const RESTAURANTS = [
         "오븐·화덕"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -20745,7 +20743,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -20816,7 +20814,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -21338,7 +21336,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -21482,7 +21480,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -21687,7 +21685,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -21725,7 +21723,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -21761,7 +21759,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -21873,7 +21871,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -22642,7 +22640,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -22854,7 +22852,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -23212,7 +23210,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"
@@ -23785,7 +23783,7 @@ const RESTAURANTS = [
         "구이·볶음"
       ],
       "cuisine": [
-        "아시안"
+        "에스닉"
       ],
       "temp": [
         "뜨끈한"
@@ -24341,7 +24339,7 @@ const RESTAURANTS = [
         "면류·파스타"
       ],
       "cuisine": [
-        "양식"
+        "이탈리안"
       ],
       "temp": [
         "뜨끈한"

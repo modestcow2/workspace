@@ -5,7 +5,7 @@ const STORAGE_VERSION = 'restaurant_finder_version';
 // ─── 상태 ────────────────────────────────────────────────────────────────────
 const activeFilters = {
   flavor: new Set(), texture: new Set(), cooking: new Set(),
-  cuisine: new Set(), temp: new Set(), occasion: new Set(), health: new Set(),
+  cuisine: new Set(), occasion: new Set(), health: new Set(),
   distance: new Set()
 };
 let allRestaurants = [];
@@ -47,8 +47,13 @@ function loadState() {
     localStorage.setItem(STORAGE_VERSION, DATA_VERSION);
   }
 
-  // 즉시 기본 데이터로 렌더
+  // 즉시 기본 데이터로 렌더 (무작위 정렬)
   allRestaurants = [...RESTAURANTS];
+  // Fisher-Yates shuffle
+  for (let i = allRestaurants.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [allRestaurants[i], allRestaurants[j]] = [allRestaurants[j], allRestaurants[i]];
+  }
 }
 
 async function loadFirestoreOverrides() {
@@ -69,7 +74,11 @@ const DISTANCE_THRESHOLDS = { '500m이내': 0.5, '1km이내': 1.0, '1.5km이내'
 function filterRestaurants() {
   const query = searchQuery.toLowerCase();
   return allRestaurants.filter(r => {
-    if (query && !r.name.toLowerCase().includes(query)) return false;
+    if (query) {
+      const nameMatch = r.name.toLowerCase().includes(query);
+      const menuMatch = r.mainMenu.some(m => m.toLowerCase().includes(query));
+      if (!nameMatch && !menuMatch) return false;
+    }
     return Object.keys(activeFilters).every(cat => {
       const sel = activeFilters[cat];
       if (sel.size === 0) return true;
@@ -278,6 +287,9 @@ function renderCards(filtered) {
 // ─── 메인 렌더 ───────────────────────────────────────────────────────────────
 function render() {
   const filtered = filterRestaurants();
+  if (hasActiveFilters() || searchQuery) {
+    filtered.sort((a, b) => a.distanceKm - b.distanceKm);
+  }
   renderFilterPanel();
   renderActiveChips();
   renderCards(filtered);
@@ -467,7 +479,7 @@ function collectFormData(formData) {
   const lng      = parseFloat(formData.get('lng')) || null;
   const mainMenu = mainMenuRaw.split(',').map(s => s.trim()).filter(Boolean);
 
-  const tags = { flavor: [], texture: [], cooking: [], cuisine: [], temp: [], occasion: [], health: [] };
+  const tags = { flavor: [], texture: [], cooking: [], cuisine: [], occasion: [], health: [] };
   document.querySelectorAll('.modal-tag-btn.selected').forEach(btn => {
     if (tags[btn.dataset.cat]) tags[btn.dataset.cat].push(btn.dataset.tag);
   });

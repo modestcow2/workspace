@@ -15,6 +15,7 @@ let currentPage     = 1;
 const ITEMS_PER_PAGE = 18;
 let isAdmin = false;            // Firebase Auth 관리자 여부
 let deletingRestaurant = null;  // 삭제 제안 중인 식당
+let isMapView = false;          // 지도 뷰 활성화 여부
 
 // ─── 유틸 ────────────────────────────────────────────────────────────────────
 const getCuisineEmoji = () => '🍽️';
@@ -292,7 +293,18 @@ function render() {
   }
   renderFilterPanel();
   renderActiveChips();
-  renderCards(filtered);
+
+  if (isMapView) {
+    MapView.show();
+    MapView.updateMarkers(filtered);
+    // 요약 텍스트 업데이트
+    document.getElementById('result-summary').textContent = searchQuery
+      ? `"${searchQuery}" 검색 결과 ${filtered.length}곳 (전체 ${allRestaurants.length}개)`
+      : `${filtered.length}개 식당 표시 중 (전체 ${allRestaurants.length}개)`;
+  } else {
+    MapView.hide();
+    renderCards(filtered);
+  }
 }
 
 // ─── 렌더: 페이지네이션 ─────────────────────────────────────────────────────
@@ -706,6 +718,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // 삭제 제안 모달
   setupDeleteSuggestModal();
+
+  // 뷰 토글 버튼
+  const listBtn = document.getElementById('view-list-btn');
+  const mapBtn = document.getElementById('view-map-btn');
+  listBtn.addEventListener('click', () => {
+    if (!isMapView) return;
+    isMapView = false;
+    listBtn.classList.add('active');
+    mapBtn.classList.remove('active');
+    render();
+  });
+  mapBtn.addEventListener('click', () => {
+    if (isMapView) return;
+    isMapView = true;
+    mapBtn.classList.add('active');
+    listBtn.classList.remove('active');
+    render();
+  });
 
   document.getElementById('reset-btn').addEventListener('click', resetFilters);
   document.getElementById('add-restaurant-btn').addEventListener('click', () => openModal());

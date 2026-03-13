@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:53 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375800240"
     },
     {
-      "title": "서촌주점",
+      "title": "토방",
       "link": "",
-      "category": "술집>요리주점",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 31 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 59 1층",
-      "mapx": "1269692323",
-      "mapy": "375799084"
+      "address": "서울특별시 종로구 효자동 30",
+      "roadAddress": "서울특별시 종로구 자하문로 66-1",
+      "mapx": "1269709589",
+      "mapy": "375819609"
     }
   ]
 }

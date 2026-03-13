@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:37 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375855480"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
-    {
       "title": "편안한집",
       "link": "https://ahome.imweb.me/",
       "category": "한식>한정식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 133",
       "mapx": "1269833492",
       "mapy": "375873030"
+    },
+    {
+      "title": "꿀밥상",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 98-1 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
+      "mapx": "1269818749",
+      "mapy": "375844611"
     },
     {
       "title": "두레 국립현대미술관서울점",

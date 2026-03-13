@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:30 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375804848"
     },
     {
-      "title": "신안촌 본점",
-      "link": "https://catchtable.co.kr/sinanchon_og",
-      "category": "한식>한정식",
+      "title": "서촌시우식당",
+      "link": "",
+      "category": "한식>백반,가정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 152 1층",
-      "roadAddress": "서울특별시 종로구 사직로12길 8 1층",
-      "mapx": "1269708935",
-      "mapy": "375756401"
+      "address": "서울특별시 종로구 필운동 171",
+      "roadAddress": "서울특별시 종로구 필운대로 18",
+      "mapx": "1269695515",
+      "mapy": "375777250"
     },
     {
       "title": "곰솔",
@@ -49,15 +49,15 @@
       "mapy": "375787968"
     },
     {
-      "title": "서촌시우식당",
-      "link": "",
-      "category": "한식>백반,가정식",
+      "title": "신안촌 본점",
+      "link": "https://catchtable.co.kr/sinanchon_og",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 171",
-      "roadAddress": "서울특별시 종로구 필운대로 18",
-      "mapx": "1269695515",
-      "mapy": "375777250"
+      "address": "서울특별시 종로구 내자동 152 1층",
+      "roadAddress": "서울특별시 종로구 사직로12길 8 1층",
+      "mapx": "1269708935",
+      "mapy": "375756401"
     }
   ]
 }

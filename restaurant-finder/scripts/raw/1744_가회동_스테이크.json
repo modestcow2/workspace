@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:08 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375781862"
     },
     {
-      "title": "콩지POT지",
-      "link": "https://blog.naver.com/konggpotg",
-      "category": "음식점>이탈리아음식",
+      "title": "헤비<b>스테이크</b> 안국역점",
+      "link": "http://www.heavysteak.co.kr",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 34-1 1,2층",
-      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
-      "mapx": "1269843199",
-      "mapy": "375788262"
+      "address": "서울특별시 종로구 계동 146-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 67 1층",
+      "mapx": "1269866512",
+      "mapy": "375772781"
     },
     {
       "title": "르꼬숑",
@@ -49,15 +49,15 @@
       "mapy": "375778205"
     },
     {
-      "title": "헤비<b>스테이크</b> 안국역점",
-      "link": "http://www.heavysteak.co.kr",
-      "category": "음식점>양식",
+      "title": "콩지POT지",
+      "link": "https://blog.naver.com/konggpotg",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 146-2 1층",
-      "roadAddress": "서울특별시 종로구 율곡로 67 1층",
-      "mapx": "1269866512",
-      "mapy": "375772781"
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
     }
   ]
 }

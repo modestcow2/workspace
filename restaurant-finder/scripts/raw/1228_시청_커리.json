@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:18 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "352376849"
     },
     {
+      "title": "난",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1118 2층",
+      "roadAddress": "경기도 수원시 팔달구 인계로166번길 45 2층",
+      "mapx": "1270350293",
+      "mapy": "372642808"
+    },
+    {
       "title": "로얄인디아 제주<b>시청</b>점",
       "link": "",
       "category": "음식점>인도음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 을지로 12 시청광장 지하 쇼핑센터 526호",
       "mapx": "1269783313",
       "mapy": "375655659"
-    },
-    {
-      "title": "흥도식당 부천점",
-      "link": "https://www.instagram.com/heungdo_bucheon?igsh=MXVhN3Zrazg3bTV6eQ==",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1300 센트럴파크푸르지오 상가 1층 128호",
-      "roadAddress": "경기도 부천시 원미구 소향로 181 센트럴파크푸르지오 상가 1층 128호",
-      "mapx": "1267683596",
-      "mapy": "375022290"
     }
   ]
 }

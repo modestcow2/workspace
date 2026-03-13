@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:21 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "해담채 <b>시청</b>점",
-      "link": "http://haedamche.com/",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 봉래동1가 25 HSBC빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 칠패로 37 HSBC빌딩 지하1층",
-      "mapx": "1269730458",
-      "mapy": "375600967"
-    },
     {
       "title": "더테이블",
       "link": "",
@@ -27,15 +16,15 @@
       "mapy": "375675523"
     },
     {
-      "title": "세림<b>한정식</b> 여수<b>시청</b>본점",
-      "link": "https://blog.naver.com/serimfood",
+      "title": "해담채 <b>시청</b>점",
+      "link": "http://haedamche.com/",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "전라남도 여수시 학동 175-6 3층",
-      "roadAddress": "전라남도 여수시 시청동2길 38 3층",
-      "mapx": "1276628511",
-      "mapy": "347576933"
+      "address": "서울특별시 중구 봉래동1가 25 HSBC빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 칠패로 37 HSBC빌딩 지하1층",
+      "mapx": "1269730458",
+      "mapy": "375600967"
     },
     {
       "title": "해우리 서울<b>시청</b>점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 서소문로 95 정안빌딩 지하1층",
       "mapx": "1269720586",
       "mapy": "375628649"
+    },
+    {
+      "title": "세림<b>한정식</b> 여수<b>시청</b>본점",
+      "link": "https://blog.naver.com/serimfood",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "전라남도 여수시 학동 175-6 3층",
+      "roadAddress": "전라남도 여수시 시청동2길 38 3층",
+      "mapx": "1276628511",
+      "mapy": "347576933"
     },
     {
       "title": "낙원회관",

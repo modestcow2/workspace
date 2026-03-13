@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:56 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375773610"
     },
     {
-      "title": "모던김밥",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 97",
-      "roadAddress": "서울특별시 종로구 자하문로2길 10",
-      "mapx": "1269731772",
-      "mapy": "375764902"
-    },
-    {
       "title": "샤브샵",
       "link": "https://www.instagram.com/karacinikora77",
       "category": "음식점>일식>샤브샤브",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
       "mapx": "1269709557",
       "mapy": "375763909"
+    },
+    {
+      "title": "학교앞분식",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 170 동서한의원",
+      "roadAddress": "서울특별시 종로구 새문안로 39-1 동서한의원",
+      "mapx": "1269695106",
+      "mapy": "375688274"
     }
   ]
 }

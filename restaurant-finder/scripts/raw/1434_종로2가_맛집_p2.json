@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:51 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
       "mapx": "1269836385",
       "mapy": "375707534"
-    },
-    {
-      "title": "한양중식 <b>종로</b>점",
-      "link": "http://www.instagram.com/haanyang/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
-      "mapx": "1269836975",
-      "mapy": "375706386"
     },
     {
       "title": "솔솥 <b>종로</b>타워점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
       "mapx": "1269836843",
       "mapy": "375705758"
+    },
+    {
+      "title": "한양중식 <b>종로</b>점",
+      "link": "http://www.instagram.com/haanyang/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
+      "mapx": "1269836975",
+      "mapy": "375706386"
     },
     {
       "title": "스타벅스 <b>종로</b>R점",

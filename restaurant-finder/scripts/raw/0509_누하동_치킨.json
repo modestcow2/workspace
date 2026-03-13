@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375706901"
     },
     {
-      "title": "JH텍사스바",
-      "link": "https://www.instagram.com/jhtexasbar_official",
+      "title": "거성호프",
+      "link": "",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 1 효령빌딩 1층",
-      "roadAddress": "서울특별시 중구 무교로 32 효령빌딩 1층",
-      "mapx": "1269795080",
-      "mapy": "375688120"
+      "address": "서울특별시 종로구 당주동 117 거성호프",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-7 거성호프",
+      "mapx": "1269739671",
+      "mapy": "375722869"
     }
   ]
 }

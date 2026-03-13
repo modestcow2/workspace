@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:31 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375827651"
     },
     {
-      "title": "아키비스트 서촌점",
-      "link": "http://www.instagram.com/archivistcoffee",
-      "category": "음식점>카페,디저트",
+      "title": "푸페또클럽",
+      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 164-7 1층 아키비스트 서촌점",
-      "roadAddress": "서울특별시 종로구 효자로13길 52 1층 아키비스트 서촌점",
-      "mapx": "1269726786",
-      "mapy": "375822184"
+      "address": "서울특별시 종로구 창성동 98-6",
+      "roadAddress": "서울특별시 종로구 자하문로 50-1",
+      "mapx": "1269714513",
+      "mapy": "375805566"
     },
     {
       "title": "메종드소시송",
@@ -49,15 +49,15 @@
       "mapy": "375833006"
     },
     {
-      "title": "푸페또클럽",
-      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
-      "category": "음식점>이탈리아음식",
+      "title": "아키비스트",
+      "link": "http://www.instagram.com/archivistcoffee",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 창성동 98-6",
-      "roadAddress": "서울특별시 종로구 자하문로 50-1",
-      "mapx": "1269714513",
-      "mapy": "375805566"
+      "address": "서울특별시 종로구 효자동 164-7 1층 아키비스트 서촌점",
+      "roadAddress": "서울특별시 종로구 효자로13길 52 1층 아키비스트 서촌점",
+      "mapx": "1269726786",
+      "mapy": "375822184"
     }
   ]
 }

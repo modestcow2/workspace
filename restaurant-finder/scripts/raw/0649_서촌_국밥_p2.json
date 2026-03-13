@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:55 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "백암박가네순대국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
-      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
-      "mapx": "1269710531",
-      "mapy": "375791821"
-    },
     {
       "title": "전주콩나물해장국",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 3",
       "mapx": "1269722639",
       "mapy": "375765039"
+    },
+    {
+      "title": "백암박가네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
+      "mapx": "1269710531",
+      "mapy": "375791821"
     },
     {
       "title": "<b>서촌</b>전통순대국",

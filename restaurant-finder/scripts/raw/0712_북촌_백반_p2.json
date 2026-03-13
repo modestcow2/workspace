@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:23 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375844611"
     },
     {
-      "title": "동백식당",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
-      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
-      "mapx": "1269842899",
-      "mapy": "375765173"
-    },
-    {
       "title": "밀과보리",
       "link": "https://www.instagram.com/milbori_",
       "category": "한식>백반,가정식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 창덕궁1길 32-1 1층",
       "mapx": "1269875023",
       "mapy": "375794104"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
     },
     {
       "title": "정독도서관 구내식당",

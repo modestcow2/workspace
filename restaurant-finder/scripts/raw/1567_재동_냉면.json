@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:50 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375780371"
     },
     {
-      "title": "북촌손만두 북촌점",
-      "link": "http://mandoo.so",
-      "category": "한식>칼국수,만두",
+      "title": "안국약방",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 45-8 1층 북촌손만두",
-      "roadAddress": "서울특별시 종로구 북촌로4길 10 1층 북촌손만두",
-      "mapx": "1269857660",
-      "mapy": "375791420"
+      "address": "서울특별시 종로구 재동 91 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
+      "mapx": "1269861688",
+      "mapy": "375773871"
     },
     {
       "title": "대림국수 안국점",
@@ -38,6 +38,17 @@
       "mapy": "375779441"
     },
     {
+      "title": "북촌손만두 북촌점",
+      "link": "http://mandoo.so",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 45-8 1층 북촌손만두",
+      "roadAddress": "서울특별시 종로구 북촌로4길 10 1층 북촌손만두",
+      "mapx": "1269857660",
+      "mapy": "375791420"
+    },
+    {
       "title": "남포면옥",
       "link": "",
       "category": "한식>냉면",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 을지로3길 24",
       "mapx": "1269815998",
       "mapy": "375671396"
-    },
-    {
-      "title": "을지면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 55-1",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 12",
-      "mapx": "1269886066",
-      "mapy": "375736812"
     }
   ]
 }

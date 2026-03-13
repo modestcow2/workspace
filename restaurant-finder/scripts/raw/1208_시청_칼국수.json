@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375659578"
     },
     {
-      "title": "인계동 언니만두 &amp; <b>칼국수</b> 수원<b>시청</b>역본점",
-      "link": "https://www.instagram.com/sister.mandu",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 수원시 팔달구 인계동 1034-3 101호",
-      "roadAddress": "경기도 수원시 팔달구 경수대로466번길 52 101호",
-      "mapx": "1270297003",
-      "mapy": "372664923"
-    },
-    {
       "title": "달인대보<b>칼국수</b> 부천<b>시청</b>점",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -58,6 +47,17 @@
       "roadAddress": "경기도 부천시 원미구 길주로 234 106동 1층 1010호",
       "mapx": "1267688439",
       "mapy": "375033455"
+    },
+    {
+      "title": "인계동 언니만두 &amp; <b>칼국수</b> 수원<b>시청</b>역본점",
+      "link": "https://www.instagram.com/sister.mandu",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1034-3 101호",
+      "roadAddress": "경기도 수원시 팔달구 경수대로466번길 52 101호",
+      "mapx": "1270297003",
+      "mapy": "372664923"
     }
   ]
 }

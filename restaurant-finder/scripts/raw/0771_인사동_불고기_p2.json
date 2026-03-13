@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:50 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
     {
       "title": "솥내음 종로<b>인사동</b>점",
       "link": "https://map.naver.com/p/entry/place/2017586094",
@@ -38,26 +49,15 @@
       "mapy": "375743233"
     },
     {
-      "title": "평양고깃집",
+      "title": "인사 안집 본점",
       "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
-      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
-      "mapx": "1269854482",
-      "mapy": "375727819"
-    },
-    {
-      "title": "하나로회관",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 194-4 지하1층 하나로회관",
-      "roadAddress": "서울특별시 종로구 인사동5길 25 지하1층 하나로회관",
-      "mapx": "1269853140",
-      "mapy": "375721264"
+      "address": "서울특별시 종로구 관훈동 84-5 인사안집",
+      "roadAddress": "서울특별시 종로구 인사동14길 24-1 인사안집",
+      "mapx": "1269855693",
+      "mapy": "375749687"
     }
   ]
 }

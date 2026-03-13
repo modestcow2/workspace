@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:10 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375801579"
     },
     {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
+      "title": "도원",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
+      "address": "서울특별시 종로구 평동 164 서울적십자병원 별관 3층 도원",
+      "roadAddress": "서울특별시 종로구 새문안로 9 서울적십자병원 별관 3층 도원",
+      "mapx": "1269673413",
+      "mapy": "375669224"
     }
   ]
 }

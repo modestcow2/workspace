@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:19 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375796788"
     },
     {
-      "title": "두오모",
-      "link": "https://catchtable.co.kr/duomo",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 40-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로16길 5 1층",
-      "mapx": "1269715675",
-      "mapy": "375816121"
-    },
-    {
       "title": "이스토",
       "link": "https://app.catchtable.co.kr/ct/shop/easto",
       "category": "음식점>양식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 자하문로7길 69-3 1, 2층",
       "mapx": "1269687786",
       "mapy": "375802445"
+    },
+    {
+      "title": "두오모",
+      "link": "https://catchtable.co.kr/duomo",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 40-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5 1층",
+      "mapx": "1269715675",
+      "mapy": "375816121"
     },
     {
       "title": "고치비",
@@ -49,15 +49,15 @@
       "mapy": "375793391"
     },
     {
-      "title": "고트델리 서촌",
-      "link": "https://www.instagram.com/goattdeli",
-      "category": "양식>샌드위치",
+      "title": "데케드",
+      "link": "https://www.instagram.com/dekad.kafeteria/",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 100 1층",
-      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
-      "mapx": "1269682499",
-      "mapy": "375799314"
+      "address": "서울특별시 종로구 누하동 218 1층 101호,102호",
+      "roadAddress": "서울특별시 종로구 자하문로7길 43 1층 101호,102호(누하동)",
+      "mapx": "1269696650",
+      "mapy": "375793249"
     }
   ]
 }

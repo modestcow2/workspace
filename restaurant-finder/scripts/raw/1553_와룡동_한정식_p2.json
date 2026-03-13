@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:44 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375659332"
     },
     {
-      "title": "소선재",
-      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
-      "category": "음식점>한식",
+      "title": "은성 <b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 113-3 소선재",
-      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
-      "mapx": "1269818029",
-      "mapy": "375855480"
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
     }
   ]
 }

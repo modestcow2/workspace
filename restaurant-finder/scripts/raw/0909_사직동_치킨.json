@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375706901"
     },
     {
-      "title": "미락<b>치킨</b> 경복궁본점",
-      "link": "https://www.instagram.com/explore/tags/미락치킨/",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 39-2",
-      "roadAddress": "서울특별시 종로구 자하문로 17-1",
-      "mapx": "1269719338",
-      "mapy": "375776453"
-    },
-    {
       "title": "거성호프",
       "link": "",
       "category": "술집>맥주,호프",
@@ -49,15 +38,26 @@
       "mapy": "375722869"
     },
     {
-      "title": "경성<b>치킨</b> 광화문스퀘어점",
-      "link": "",
+      "title": "미락<b>치킨</b> 경복궁본점",
+      "link": "https://www.instagram.com/explore/tags/미락치킨/",
       "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 135-2",
-      "roadAddress": "서울특별시 종로구 새문안로 96",
-      "mapx": "1269754434",
-      "mapy": "375699667"
+      "address": "서울특별시 종로구 체부동 39-2",
+      "roadAddress": "서울특별시 종로구 자하문로 17-1",
+      "mapx": "1269719338",
+      "mapy": "375776453"
+    },
+    {
+      "title": "이주당",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 189",
+      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
+      "mapx": "1269716059",
+      "mapy": "375765372"
     }
   ]
 }

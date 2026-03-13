@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:24 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375800959"
     },
     {
-      "title": "더 레스토랑",
-      "link": "http://www.therestaurant.co.kr/",
+      "title": "만가타",
+      "link": "https://m.booking.naver.com/booking/6/bizes/289593",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 48",
-      "roadAddress": "서울특별시 종로구 삼청로 54",
-      "mapx": "1269804025",
-      "mapy": "375808245"
+      "address": "서울특별시 종로구 소격동 88-17",
+      "roadAddress": "서울특별시 종로구 삼청로2길 40-5",
+      "mapx": "1269809666",
+      "mapy": "375801885"
     },
     {
-      "title": "PKM가든 레스토랑",
-      "link": "https://catchtable.co.kr/pkm_restaurant",
-      "category": "음식점>양식",
+      "title": "이태리재",
+      "link": "https://www.instagram.com/italyjae",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
-      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
-      "mapx": "1269801406",
-      "mapy": "375841122"
+      "address": "서울특별시 종로구 소격동 158-1",
+      "roadAddress": "서울특별시 종로구 율곡로1길 74-9",
+      "mapx": "1269817287",
+      "mapy": "375787922"
     }
   ]
 }

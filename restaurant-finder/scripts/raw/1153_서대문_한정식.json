@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:44 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375644100"
     },
     {
-      "title": "조은집",
+      "title": "연희동그집",
       "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 133-24",
-      "roadAddress": "서울특별시 서대문구 연희맛로 43",
-      "mapx": "1269311224",
-      "mapy": "375685870"
+      "address": "서울특별시 서대문구 연희동 130-11 2층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 17-16 2층",
+      "mapx": "1269290071",
+      "mapy": "375673151"
     }
   ]
 }

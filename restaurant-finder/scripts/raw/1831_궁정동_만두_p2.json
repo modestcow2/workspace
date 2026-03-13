@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:47 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375801317"
     },
     {
-      "title": "잘빠진메밀 서촌 본점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "title": "자하손<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/jahasonmandoo",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 120",
-      "roadAddress": "서울특별시 종로구 자하문로11길 4",
-      "mapx": "1269709994",
-      "mapy": "375796715"
+      "address": "서울특별시 종로구 부암동 245-2",
+      "roadAddress": "서울특별시 종로구 백석동길 12",
+      "mapx": "1269660928",
+      "mapy": "375932163"
     }
   ]
 }

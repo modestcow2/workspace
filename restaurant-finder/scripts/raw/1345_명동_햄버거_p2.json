@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:11 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375639182"
     },
     {
-      "title": "맥도날드 <b>명동</b>점",
-      "link": "https://www.mcdonalds.co.kr/",
-      "category": "양식>햄버거",
+      "title": "다운타우너 광화문",
+      "link": "http://downtowner.co.kr/info",
+      "category": "음식점>양식>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 48-2",
-      "roadAddress": "서울특별시 중구 명동7길 8",
-      "mapx": "1269845147",
-      "mapy": "375641571"
+      "address": "서울특별시 중구 태평로1가 84 SFC몰 B1층 다운타우너 광화문",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFC몰 B1층 다운타우너 광화문",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     }
   ]
 }

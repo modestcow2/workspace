@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:50 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375768090"
     },
     {
-      "title": "잭잭 안국점",
-      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
-      "category": "음식점>햄버거",
+      "title": "더타코부스 NYC 안국점",
+      "link": "",
+      "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 159 101호, 201호",
-      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
-      "mapx": "1269845845",
-      "mapy": "375765164"
+      "address": "서울특별시 종로구 재동 86 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
+      "mapx": "1269860399",
+      "mapy": "375774613"
     },
     {
-      "title": "엄용백 돼지구이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
-      "category": "한식>돼지고기구이",
+      "title": "루시드 서울",
+      "link": "http://instagram.com/lucyd_seoul",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-13",
-      "roadAddress": "서울특별시 종로구 율곡로4길 51",
-      "mapx": "1269812652",
-      "mapy": "375733835"
+      "address": "서울특별시 종로구 운니동 62-1 1층 101호",
+      "roadAddress": "서울특별시 종로구 삼일대로32길 45 1층 101호",
+      "mapx": "1269895257",
+      "mapy": "375756045"
     }
   ]
 }

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:48 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
+    },
     {
       "title": "오드하우스",
       "link": "https://www.instagram.com/odd_haus",
@@ -38,26 +49,15 @@
       "mapy": "375670330"
     },
     {
-      "title": "익선잡방",
-      "link": "http://www.instagram.com/ikseon_jabbang",
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
       "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
-      "mapx": "1269894722",
-      "mapy": "375733980"
-    },
-    {
-      "title": "노우즈종로 풍경점",
-      "link": "https://www.instagram.com/knowsproject",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 260 3층",
-      "roadAddress": "서울특별시 종로구 우정국로2길 8 3층",
-      "mapx": "1269834746",
-      "mapy": "375694491"
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
     }
   ]
 }

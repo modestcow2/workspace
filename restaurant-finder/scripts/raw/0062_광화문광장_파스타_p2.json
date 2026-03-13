@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375704933"
     },
     {
-      "title": "준수방키친",
-      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 122 준수방키친",
-      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
-      "mapx": "1269708097",
-      "mapy": "375796788"
-    },
-    {
       "title": "디라이프스타일키친 <b>광화문</b>점",
       "link": "https://dlifestyle.co.kr/",
       "category": "음식점>양식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
       "mapx": "1269782701",
       "mapy": "375684246"
+    },
+    {
+      "title": "루뽀",
+      "link": "https://app.catchtable.co.kr/ct/shop/luposeoul?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 65 센터포인트 빌딩 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
+      "mapx": "1269743036",
+      "mapy": "375730456"
     },
     {
       "title": "독립밀방 익선",
@@ -49,15 +49,15 @@
       "mapy": "375740791"
     },
     {
-      "title": "정원레스토랑 어반가든",
-      "link": "http://urbangarden.co.kr",
-      "category": "음식점>양식",
+      "title": "까사 이태리아",
+      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 28-2",
-      "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
+      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
+      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
+      "mapx": "1269723542",
+      "mapy": "375787841"
     }
   ]
 }

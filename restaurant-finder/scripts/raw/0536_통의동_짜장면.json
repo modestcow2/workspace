@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:04 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375696647"
     },
     {
-      "title": "영화루",
-      "link": "",
+      "title": "한양중식 종로점",
+      "link": "http://www.instagram.com/haanyang/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 25-1",
-      "roadAddress": "서울특별시 종로구 자하문로7길 65",
-      "mapx": "1269690130",
-      "mapy": "375801579"
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
+      "mapx": "1269836975",
+      "mapy": "375706386"
     }
   ]
 }

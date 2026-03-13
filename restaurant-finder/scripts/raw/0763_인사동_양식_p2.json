@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:47 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375736433"
     },
     {
-      "title": "애슐리퀸즈 종각역점",
-      "link": "https://www.instagram.com/your_ashley",
-      "category": "음식점>패밀리레스토랑",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
-      "mapx": "1269836843",
-      "mapy": "375705758"
-    },
-    {
       "title": "녁",
       "link": "https://app.catchtable.co.kr/ct/shop/nyug1",
       "category": "음식점>양식",
@@ -38,15 +27,15 @@
       "mapy": "375694491"
     },
     {
-      "title": "니즈버거 안국점",
-      "link": "https://www.instagram.com/needs_burger",
-      "category": "음식점>햄버거",
+      "title": "한옥파스타",
+      "link": "https://www.facebook.com/jenny.sung.3958?mibextid=ZbWKwL",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 1층 니즈버거",
-      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 1층 니즈버거",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 종로구 관훈동 84-10 1층",
+      "roadAddress": "서울특별시 종로구 인사동14길 24-4 1층",
+      "mapx": "1269854686",
+      "mapy": "375747420"
     },
     {
       "title": "관훈맨션",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동8길 6-3",
       "mapx": "1269859565",
       "mapy": "375737266"
+    },
+    {
+      "title": "써브웨이 종로점",
+      "link": "http://www.subwaykorea.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 12 통일빌딩",
+      "roadAddress": "서울특별시 종로구 종로 77 통일빌딩",
+      "mapx": "1269859535",
+      "mapy": "375704080"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:36 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375791098"
     },
     {
+      "title": "익선취향",
+      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-70 1층",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
+      "mapx": "1269895934",
+      "mapy": "375735970"
+    },
+    {
       "title": "스미스가좋아하는한옥",
       "link": "https://www.instagram.com/smith_hanok",
       "category": "음식점>이탈리아음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
       "mapx": "1269855733",
       "mapy": "375786322"
-    },
-    {
-      "title": "독립밀방 익선",
-      "link": "http://www.instagram.com/dongnip_millbang",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
-      "mapx": "1269902619",
-      "mapy": "375740791"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:43 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375739033"
     },
     {
-      "title": "전주집",
-      "link": "",
-      "category": "한식>생선구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로5가 281-9",
-      "roadAddress": "서울특별시 종로구 종로40가길 5",
-      "mapx": "1270063610",
-      "mapy": "375702900"
-    },
-    {
       "title": "일미식당",
       "link": "http://cafe.naver.com/ilmicafe",
       "category": "한식>백반,가정식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
       "mapx": "1269876939",
       "mapy": "375728300"
+    },
+    {
+      "title": "전주집",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 281-9",
+      "roadAddress": "서울특별시 종로구 종로40가길 5",
+      "mapx": "1270063610",
+      "mapy": "375702900"
     }
   ]
 }

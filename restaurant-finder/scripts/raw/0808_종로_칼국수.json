@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:07 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375683895"
     },
     {
-      "title": "진옥화할매원조닭한마리",
-      "link": "http://www.darkhanmari.co.kr/",
-      "category": "한식>닭요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로5가 265-22",
-      "roadAddress": "서울특별시 종로구 종로40가길 18",
-      "mapx": "1270057389",
-      "mapy": "375703500"
-    },
-    {
       "title": "삼봉도담",
       "link": "https://sambongdodam.com",
       "category": "한식>칼국수,만두",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
       "mapx": "1269825289",
       "mapy": "375729806"
+    },
+    {
+      "title": "진옥화할매원조닭한마리",
+      "link": "http://www.darkhanmari.co.kr/",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 265-22",
+      "roadAddress": "서울특별시 종로구 종로40가길 18",
+      "mapx": "1270057389",
+      "mapy": "375703500"
     },
     {
       "title": "꾸왁<b>칼국수</b>",
@@ -49,15 +49,15 @@
       "mapy": "375682937"
     },
     {
-      "title": "찬양집",
+      "title": "손정보쌈 <b>종로</b>점",
       "link": "",
-      "category": "한식>칼국수,만두",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 돈의동 27",
-      "roadAddress": "서울특별시 종로구 돈화문로11다길 5",
-      "mapx": "1269903224",
-      "mapy": "375727548"
+      "address": "서울특별시 종로구 관철동 12-11 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 24 1층",
+      "mapx": "1269861610",
+      "mapy": "375688950"
     }
   ]
 }

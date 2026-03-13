@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:33 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375696647"
     },
     {
-      "title": "<b>라멘</b> 시미즈",
-      "link": "https://www.instagram.com/ramen_simiz",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 238 신문로빌딩 지하1층 37호",
-      "roadAddress": "서울특별시 종로구 새문안로3길 12 신문로빌딩 지하1층 37호",
-      "mapx": "1269729932",
-      "mapy": "375713640"
-    },
-    {
       "title": "가츠라 LG광화문점",
       "link": "http://japanya.co.kr/",
       "category": "음식점>일식>일식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 58 지하 1층",
       "mapx": "1269715861",
       "mapy": "375693106"
+    },
+    {
+      "title": "<b>라멘</b> 시미즈",
+      "link": "https://www.instagram.com/ramen_simiz",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 238 신문로빌딩 지하1층 37호",
+      "roadAddress": "서울특별시 종로구 새문안로3길 12 신문로빌딩 지하1층 37호",
+      "mapx": "1269729932",
+      "mapy": "375713640"
     },
     {
       "title": "쇼부<b>라멘</b> 서소문점",

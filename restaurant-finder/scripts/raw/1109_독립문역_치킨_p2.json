@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:24 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375749049"
     },
     {
-      "title": "진미통닭",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 42-2",
-      "roadAddress": "서울특별시 종로구 통일로 250",
-      "mapx": "1269578894",
-      "mapy": "375747658"
-    },
-    {
       "title": "태성골뱅이신사 독립문점",
       "link": "",
       "category": "술집>맥주,호프",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 통일로 230",
       "mapx": "1269596728",
       "mapy": "375733672"
+    },
+    {
+      "title": "진미통닭",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 42-2",
+      "roadAddress": "서울특별시 종로구 통일로 250",
+      "mapx": "1269578894",
+      "mapy": "375747658"
     }
   ]
 }

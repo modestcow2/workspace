@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:35 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375766355"
     },
     {
+      "title": "스낵서울",
+      "link": "https://www.instagram.com/snackseoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6 2층",
+      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
+      "mapx": "1269816137",
+      "mapy": "375837662"
+    },
+    {
       "title": "조선김밥",
       "link": "",
       "category": "분식>김밥",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
       "mapx": "1269822132",
       "mapy": "375786507"
-    },
-    {
-      "title": "모던김밥",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 97",
-      "roadAddress": "서울특별시 종로구 자하문로2길 10",
-      "mapx": "1269731772",
-      "mapy": "375764902"
     }
   ]
 }

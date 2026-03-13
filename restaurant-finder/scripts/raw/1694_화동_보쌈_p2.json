@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:46 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "편안한집",
-      "link": "https://ahome.imweb.me/",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 27-3",
-      "roadAddress": "서울특별시 종로구 북촌로 133",
-      "mapx": "1269833492",
-      "mapy": "375873030"
-    },
     {
       "title": "소선재",
       "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
       "mapx": "1269818029",
       "mapy": "375855480"
+    },
+    {
+      "title": "편안한집",
+      "link": "https://ahome.imweb.me/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-3",
+      "roadAddress": "서울특별시 종로구 북촌로 133",
+      "mapx": "1269833492",
+      "mapy": "375873030"
     },
     {
       "title": "삼청로조개칼국수",

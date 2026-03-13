@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:25 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375728324"
     },
     {
-      "title": "광화문정육",
+      "title": "대성집",
       "link": "",
-      "category": "한식>육류,고기요리",
+      "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
+      "address": "서울특별시 종로구 행촌동 209-35",
+      "roadAddress": "서울특별시 종로구 사직로 5",
+      "mapx": "1269608828",
+      "mapy": "375727012"
     },
     {
-      "title": "광화문더덕순대",
+      "title": "광화문뚝감",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>감자탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 38-2",
-      "roadAddress": "서울특별시 종로구 새문안로5길 10",
-      "mapx": "1269750695",
-      "mapy": "375710722"
+      "address": "서울특별시 종로구 당주동 128-14",
+      "roadAddress": "서울특별시 종로구 새문안로3길 21",
+      "mapx": "1269725919",
+      "mapy": "375720689"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:07 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375668511"
     },
     {
-      "title": "남대문달님즉석떡볶이 서울역본점",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 순화동 151 지하 1층 111호",
-      "roadAddress": "서울특별시 중구 칠패로 27 지하 1층 111호",
-      "mapx": "1269721500",
-      "mapy": "375600347"
-    },
-    {
       "title": "<b>분식</b>을품다 수원<b>시청</b>점",
       "link": "https://www.pumda0202.com/",
       "category": "분식>종합분식",
@@ -38,15 +27,26 @@
       "mapy": "372641724"
     },
     {
-      "title": "밥과함께라면 용인<b>시청</b>점",
+      "title": "남대문달님즉석떡볶이 서울역본점",
       "link": "",
-      "category": "분식>종합분식",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "경기도 용인시 처인구 삼가동 210 101호",
-      "roadAddress": "경기도 용인시 처인구 금학로 17 101호",
-      "mapx": "1271674854",
-      "mapy": "372438679"
+      "address": "서울특별시 중구 순화동 151 지하 1층 111호",
+      "roadAddress": "서울특별시 중구 칠패로 27 지하 1층 111호",
+      "mapx": "1269721500",
+      "mapy": "375600347"
+    },
+    {
+      "title": "오로라 즉석떡볶이 부천<b>시청</b>점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1161-3 1층 106호",
+      "roadAddress": "경기도 부천시 원미구 소향로 131 1층 106호",
+      "mapx": "1267624786",
+      "mapy": "375023503"
     },
     {
       "title": "싸다김밥 <b>시청</b>역점",

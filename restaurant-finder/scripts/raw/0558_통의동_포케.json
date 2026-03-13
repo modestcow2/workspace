@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:13 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375697325"
     },
     {
-      "title": "샐러링 광화문점",
-      "link": "https://salaring.com/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 85 1층 101호",
-      "roadAddress": "서울특별시 중구 남대문로 125 다동 1층 101호",
-      "mapx": "1269822027",
-      "mapy": "375682184"
-    },
-    {
       "title": "올라<b>포케</b> 광화문점",
       "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 제41호, 43호",
       "mapx": "1269743109",
       "mapy": "375720320"
+    },
+    {
+      "title": "샐러링 광화문점",
+      "link": "https://salaring.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 85 1층 101호",
+      "roadAddress": "서울특별시 중구 남대문로 125 다동 1층 101호",
+      "mapx": "1269822027",
+      "mapy": "375682184"
     }
   ]
 }

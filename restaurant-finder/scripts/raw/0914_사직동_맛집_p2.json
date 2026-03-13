@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:55 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375761905"
     },
     {
+      "title": "우슴 광화문 직영점",
+      "link": "https://www.instagram.com/wusm.official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
+    },
+    {
       "title": "칸다소바 경복궁점",
       "link": "https://litt.ly/kandasoba",
       "category": "음식점>일식>일본식라면",
@@ -38,26 +49,15 @@
       "mapy": "375782119"
     },
     {
-      "title": "도토리브라더스 광화문본점",
-      "link": "http://www.instagram.com/dotori_brothers",
-      "category": "음식점>일식>일식당",
+      "title": "원기옥 광화문점",
+      "link": "https://catchtable.co.kr/wongiok",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 1-248 1층 도토리브라더스",
-      "roadAddress": "서울특별시 종로구 경희궁길 41 1층 도토리브라더스",
-      "mapx": "1269692709",
-      "mapy": "375729254"
-    },
-    {
-      "title": "서촌뜰애우곱창타운",
-      "link": "https://www.instagram.com/sechongopchang?igsh=Mm02YmRhcWNzcnhi",
-      "category": "한식>곱창,막창,양",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 189",
-      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
-      "mapx": "1269716341",
-      "mapy": "375765406"
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "mapx": "1269720468",
+      "mapy": "375687024"
     }
   ]
 }

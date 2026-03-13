@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:57:40 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:07:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375696647"
     },
     {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
+    },
+    {
+      "title": "란주칼면",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-9 1층 란주칼면",
+      "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
+      "mapx": "1269821083",
+      "mapy": "375609724"
     },
     {
       "title": "신승관",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 217호",
       "mapx": "1269798606",
       "mapy": "375708344"
-    },
-    {
-      "title": "도량",
-      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
-      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
-      "mapx": "1269724921",
-      "mapy": "375780066"
     }
   ]
 }

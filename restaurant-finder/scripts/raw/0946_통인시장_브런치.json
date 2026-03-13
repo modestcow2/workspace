@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:10 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375827651"
     },
     {
+      "title": "도토리가든 안국점",
+      "link": "https://www.instagram.com/dotori__seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-45 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
+      "mapx": "1269862903",
+      "mapy": "375780996"
+    },
+    {
       "title": "애즈라이크 서촌",
       "link": "http://www.instagram.com/aslike_",
       "category": "음식점>브런치",
@@ -27,20 +38,9 @@
       "mapy": "375783143"
     },
     {
-      "title": "세이지핀치",
-      "link": "http://instagram.com/_sagefinch",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 82-1 1층 sagefinch",
-      "roadAddress": "서울특별시 종로구 필운대로1길 8 1층 sagefinch",
-      "mapx": "1269689774",
-      "mapy": "375774485"
-    },
-    {
       "title": "H라운지",
       "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>브런치",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 통의동 35-21",
@@ -49,15 +49,15 @@
       "mapy": "375779155"
     },
     {
-      "title": "도토리가든 안국점",
-      "link": "https://www.instagram.com/dotori__seoul",
-      "category": "음식점>카페,디저트",
+      "title": "데케드",
+      "link": "https://www.instagram.com/dekad.kafeteria/",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-45 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
-      "mapx": "1269862903",
-      "mapy": "375780996"
+      "address": "서울특별시 종로구 누하동 218 1층 101호,102호",
+      "roadAddress": "서울특별시 종로구 자하문로7길 43 1층 101호,102호(누하동)",
+      "mapx": "1269696650",
+      "mapy": "375793249"
     }
   ]
 }

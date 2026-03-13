@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:01 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
       "mapx": "1269821083",
       "mapy": "375609724"
+    },
+    {
+      "title": "일품향",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 105",
+      "roadAddress": "서울특별시 중구 남대문로 52-13",
+      "mapx": "1269821940",
+      "mapy": "375621200"
     },
     {
       "title": "유가",
@@ -38,26 +49,15 @@
       "mapy": "375613839"
     },
     {
-      "title": "개화 <b>명동</b>점",
+      "title": "향미 <b>명동</b>점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 107-1 대한문화예술공사",
-      "roadAddress": "서울특별시 중구 남대문로 52-5 대한문화예술공사",
-      "mapx": "1269818497",
-      "mapy": "375621168"
-    },
-    {
-      "title": "일품향",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 105",
-      "roadAddress": "서울특별시 중구 남대문로 52-13",
-      "mapx": "1269821940",
-      "mapy": "375621200"
+      "address": "서울특별시 중구 명동2가 107-1 1층",
+      "roadAddress": "서울특별시 중구 남대문로 52-5 1층",
+      "mapx": "1269817781",
+      "mapy": "375620830"
     }
   ]
 }

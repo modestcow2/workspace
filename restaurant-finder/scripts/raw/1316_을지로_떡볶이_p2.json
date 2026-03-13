@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:58 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375668511"
     },
     {
-      "title": "두끼 현대시티아울렛동대문점",
-      "link": "",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로6가 17-2 9층",
-      "roadAddress": "서울특별시 중구 장충단로13길 20 9층",
-      "mapx": "1270077421",
-      "mapy": "375690558"
-    },
-    {
       "title": "뽁 현대아울렛 동대문점",
       "link": "",
       "category": "분식>김밥",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
       "mapx": "1270075065",
       "mapy": "375688780"
+    },
+    {
+      "title": "두끼 현대시티아울렛동대문점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 9층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 9층",
+      "mapx": "1270077421",
+      "mapy": "375690558"
     },
     {
       "title": "독일분식 <b>을지로</b>입구지하쇼핑센터점",
@@ -49,15 +49,15 @@
       "mapy": "375660292"
     },
     {
-      "title": "아따 중구 <b>을지로</b>",
-      "link": "https://www.instagram.com/adda.sagyopub",
-      "category": "음식점>한식",
+      "title": "지금 여기가 맨 앞",
+      "link": "https://catchtable.co.kr/veryfront_seoul",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 302-4 1층, 지하 아따 중구 을지로",
-      "roadAddress": "서울특별시 중구 충무로5길 14 1층, 지하 아따 중구 을지로",
-      "mapx": "1269919535",
-      "mapy": "375653061"
+      "address": "서울특별시 중구 인현동1가 15-15 3층",
+      "roadAddress": "서울특별시 중구 을지로20길 16 3층",
+      "mapx": "1269952612",
+      "mapy": "375656852"
     }
   ]
 }

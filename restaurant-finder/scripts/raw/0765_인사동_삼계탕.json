@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:48 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375753490"
     },
     {
+      "title": "보승회관 종각역점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 16-5 1층 보승회관",
+      "roadAddress": "서울특별시 종로구 종로 70 1층 보승회관",
+      "mapx": "1269851564",
+      "mapy": "375698997"
+    },
+    {
       "title": "장수<b>삼계탕</b>",
       "link": "",
       "category": "한식>백숙,삼계탕",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로17길 52 낙원빌딩 2층 장수삼계탕",
       "mapx": "1269885250",
       "mapy": "375724917"
-    },
-    {
-      "title": "보승회관 종각역점",
-      "link": "https://www.boseunghall.com/",
-      "category": "음식점>한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 16-5",
-      "roadAddress": "서울특별시 종로구 종로 70",
-      "mapx": "1269851564",
-      "mapy": "375698997"
     }
   ]
 }

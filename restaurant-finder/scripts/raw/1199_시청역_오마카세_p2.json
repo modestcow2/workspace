@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:05 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "고우가 광화문점",
-      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "link": "https://go.catchtable.co.kr/jrrhv4v",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375646249"
     },
     {
-      "title": "스시카세 롯데백화점본점",
-      "link": "",
-      "category": "음식점>일식>초밥,롤",
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
-      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
-      "mapx": "1269811847",
-      "mapy": "375649963"
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
     }
   ]
 }

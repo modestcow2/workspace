@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:49 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>종로</b>시래기뼈감자탕",
-      "link": "",
-      "category": "한식>감자탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 84-2 2층",
-      "roadAddress": "서울특별시 종로구 종로 72-1 2층",
-      "mapx": "1269854606",
-      "mapy": "375699485"
-    },
     {
       "title": "농민백암<b>순대</b> 시청직영점",
       "link": "",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
       "mapx": "1269908574",
       "mapy": "375730931"
+    },
+    {
+      "title": "호반",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 85-7",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 20",
+      "mapx": "1269891446",
+      "mapy": "375733361"
     }
   ]
 }

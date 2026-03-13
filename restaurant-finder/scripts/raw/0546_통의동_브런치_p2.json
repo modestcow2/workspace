@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:08 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735061",
+      "mapy": "375779155"
+    },
     {
       "title": "애즈라이크 서촌",
       "link": "http://www.instagram.com/aslike_",
@@ -16,15 +27,15 @@
       "mapy": "375783143"
     },
     {
-      "title": "H라운지",
-      "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>브런치",
+      "title": "카페보안",
+      "link": "https://www.instagram.com/cafe_boan",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-21",
-      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
+      "address": "서울특별시 종로구 통의동 2-1 1층",
+      "roadAddress": "서울특별시 종로구 효자로 33 1층",
+      "mapx": "1269736794",
+      "mapy": "375789855"
     },
     {
       "title": "쁘띠통",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 자하문로6길 11-9 쁘띠통",
       "mapx": "1269726116",
       "mapy": "375785701"
-    },
-    {
-      "title": "카페보안",
-      "link": "https://www.instagram.com/cafe_boan",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 2-1 1층",
-      "roadAddress": "서울특별시 종로구 효자로 33 1층",
-      "mapx": "1269736794",
-      "mapy": "375789855"
     },
     {
       "title": "코피티암 경복궁점",

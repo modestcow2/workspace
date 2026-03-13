@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:42 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "석교식당",
+      "title": "삭 수제튀김 전문점 이화본점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 영천동 331",
-      "roadAddress": "서울특별시 서대문구 통일로 185",
-      "mapx": "1269622884",
-      "mapy": "375700014"
+      "address": "서울특별시 서대문구 대현동 56-33",
+      "roadAddress": "서울특별시 서대문구 이화여대3길 12",
+      "mapx": "1269451103",
+      "mapy": "375580656"
     },
     {
       "title": "평안도식당 신촌점",
@@ -38,6 +38,17 @@
       "mapy": "375626500"
     },
     {
+      "title": "석교식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 331",
+      "roadAddress": "서울특별시 서대문구 통일로 185",
+      "mapx": "1269622884",
+      "mapy": "375700014"
+    },
+    {
       "title": "백<b>순대</b>본가새맛 신촌연대점",
       "link": "https://blogdexreview.space/b/c607505c44",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 서대문구 연세로11길 12 1층",
       "mapx": "1269361703",
       "mapy": "375590135"
-    },
-    {
-      "title": "삭 수제튀김 전문점 이화본점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 56-33",
-      "roadAddress": "서울특별시 서대문구 이화여대3길 12",
-      "mapx": "1269451103",
-      "mapy": "375580656"
     }
   ]
 }

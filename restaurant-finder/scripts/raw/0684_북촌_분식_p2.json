@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:11 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375780061"
     },
     {
-      "title": "조선김밥",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 22-1 1층",
-      "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
-      "mapx": "1269822132",
-      "mapy": "375786507"
-    },
-    {
       "title": "스낵서울",
       "link": "https://www.instagram.com/snackseoul",
       "category": "음식점>한식",
@@ -38,15 +27,15 @@
       "mapy": "375837662"
     },
     {
-      "title": "모퉁이네",
+      "title": "조선김밥",
       "link": "",
-      "category": "분식>종합분식",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 79-8",
-      "roadAddress": "서울특별시 종로구 계동길 67",
-      "mapx": "1269866828",
-      "mapy": "375803123"
+      "address": "서울특별시 종로구 안국동 22-1 1층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
+      "mapx": "1269822132",
+      "mapy": "375786507"
     },
     {
       "title": "먹쉬돈나 삼청동점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
       "mapx": "1269819874",
       "mapy": "375834586"
+    },
+    {
+      "title": "모퉁이네",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 79-8",
+      "roadAddress": "서울특별시 종로구 계동길 67",
+      "mapx": "1269866828",
+      "mapy": "375803123"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:47 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
       "mapx": "1269792023",
       "mapy": "375653757"
+    },
+    {
+      "title": "온점 을지로점",
+      "link": "https://www.instagram.com/onjeom.seoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 87 지1층",
+      "roadAddress": "서울특별시 중구 을지로 29 지1층",
+      "mapx": "1269810422",
+      "mapy": "375664910"
     },
     {
       "title": "북창옥 시청 본점",
@@ -38,26 +49,15 @@
       "mapy": "375613997"
     },
     {
-      "title": "월가갈비 서울시청본점",
-      "link": "https://www.instagram.com/wallga_galbi",
-      "category": "한식>육류,고기요리",
+      "title": "원기옥 광화문점",
+      "link": "https://catchtable.co.kr/wongiok",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 북창동 11-7 1, 2, 3층",
-      "roadAddress": "서울특별시 중구 세종대로18길 22 1, 2, 3층",
-      "mapx": "1269783927",
-      "mapy": "375637074"
-    },
-    {
-      "title": "온점 을지로점",
-      "link": "https://www.instagram.com/onjeom.seoul",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 87 지1층",
-      "roadAddress": "서울특별시 중구 을지로 29 지1층",
-      "mapx": "1269810422",
-      "mapy": "375664910"
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "mapx": "1269720468",
+      "mapy": "375687024"
     }
   ]
 }

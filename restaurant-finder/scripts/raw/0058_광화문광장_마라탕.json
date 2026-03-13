@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:25 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375695065"
     },
     {
-      "title": "양궈푸<b>마라탕</b> 명동점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 36-3 2층",
-      "roadAddress": "서울특별시 중구 명동9길 15 2층",
-      "mapx": "1269847660",
-      "mapy": "375645620"
-    },
-    {
       "title": "마라붐 시청점",
       "link": "https://blog.naver.com/pheby8888/223943998865",
       "category": "중식>마라탕",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
       "mapx": "1269771292",
       "mapy": "375635420"
+    },
+    {
+      "title": "양궈푸<b>마라탕</b> 명동점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 36-3 2층",
+      "roadAddress": "서울특별시 중구 명동9길 15 2층",
+      "mapx": "1269847660",
+      "mapy": "375645620"
     },
     {
       "title": "용가회전훠궈 명동점",

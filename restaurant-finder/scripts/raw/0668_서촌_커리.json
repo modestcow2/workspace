@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>서촌</b> 금상고로케",
-      "link": "https://www.instagram.com/seochonkumsang",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 74",
-      "roadAddress": "서울특별시 종로구 자하문로9길 24",
-      "mapx": "1269697116",
-      "mapy": "375795180"
-    },
     {
       "title": "오봉카츠",
       "link": "https://www.instagram.com/aubonkatsu",
@@ -38,6 +27,17 @@
       "mapy": "375803365"
     },
     {
+      "title": "밥+",
+      "link": "https://www.instagram.com/seochon_bob_plus",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 77-15",
+      "roadAddress": "서울특별시 종로구 옥인길 9",
+      "mapx": "1269680075",
+      "mapy": "375804706"
+    },
+    {
       "title": "알로이막막",
       "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
       "category": "음식점>태국음식",
@@ -49,15 +49,15 @@
       "mapy": "375790359"
     },
     {
-      "title": "밥+",
-      "link": "https://www.instagram.com/seochon_bob_plus",
-      "category": "음식점>한식",
+      "title": "호라파",
+      "link": "https://app.catchtable.co.kr/ct/shop/horapaseoul",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 77-15",
-      "roadAddress": "서울특별시 종로구 옥인길 9",
-      "mapx": "1269680075",
-      "mapy": "375804706"
+      "address": "서울특별시 종로구 통인동 137-15 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 37-1 2층",
+      "mapx": "1269711008",
+      "mapy": "375793929"
     }
   ]
 }

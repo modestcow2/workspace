@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375684118"
     },
     {
-      "title": "알돈 본점",
-      "link": "https://www.instagram.com/r_don22",
-      "category": "음식점>일식>일식당",
+      "title": "원조남산왕돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 70 지하1층, 11호",
-      "roadAddress": "서울특별시 중구 다동길 43 지하1층, 11호",
-      "mapx": "1269818391",
-      "mapy": "375682023"
+      "address": "서울특별시 중구 예장동 8-53",
+      "roadAddress": "서울특별시 중구 소파로 107",
+      "mapx": "1269861165",
+      "mapy": "375573938"
     }
   ]
 }

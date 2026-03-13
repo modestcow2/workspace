@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:46 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375861990"
     },
     {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
+      "title": "라이빈",
+      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
+      "address": "서울특별시 서대문구 옥천동 15 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
+      "mapx": "1269624726",
+      "mapy": "375696654"
     }
   ]
 }

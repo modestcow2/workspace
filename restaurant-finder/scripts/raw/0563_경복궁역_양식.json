@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:16 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "준수방키친",
-      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 122 준수방키친",
-      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
-      "mapx": "1269708097",
-      "mapy": "375796788"
-    },
     {
       "title": "틴 서울",
       "link": "https://www.instagram.com/tiiin.seoul",
@@ -49,15 +38,26 @@
       "mapy": "375787841"
     },
     {
-      "title": "라 스위스 서촌",
-      "link": "https://blog.naver.com/ysimkim",
+      "title": "아리",
+      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 25-2 끄레아주차장 안",
-      "roadAddress": "서울특별시 종로구 자하문로6길 11-36 끄레아주차장 안",
-      "mapx": "1269726212",
-      "mapy": "375786629"
+      "address": "서울특별시 종로구 필운동 137-5 아리",
+      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
+      "mapx": "1269686902",
+      "mapy": "375765067"
+    },
+    {
+      "title": "준수방키친",
+      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 122 준수방키친",
+      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
+      "mapx": "1269708097",
+      "mapy": "375796788"
     }
   ]
 }

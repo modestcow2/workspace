@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:21 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375709432"
     },
     {
-      "title": "최가상회",
-      "link": "https://smartstore.naver.com/choiga_market",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 영천동 330 1층 107호",
-      "roadAddress": "서울특별시 서대문구 통일로 185-1 1층 107호",
-      "mapx": "1269621814",
-      "mapy": "375700659"
-    },
-    {
       "title": "가츠몽 경희궁자이점",
       "link": "",
       "category": "음식점>일식>돈가스",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 송월길 99",
       "mapx": "1269625988",
       "mapy": "375703273"
+    },
+    {
+      "title": "최가상회",
+      "link": "https://smartstore.naver.com/choiga_market",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 330 1층 107호",
+      "roadAddress": "서울특별시 서대문구 통일로 185-1 1층 107호",
+      "mapx": "1269621814",
+      "mapy": "375700659"
     }
   ]
 }

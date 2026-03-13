@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:17 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375766355"
     },
     {
-      "title": "조선김밥",
-      "link": "",
-      "category": "분식>김밥",
+      "title": "허니떡볶이",
+      "link": "https://blog.naver.com/honeybokki",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 22-1 1층",
-      "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
-      "mapx": "1269822132",
-      "mapy": "375786507"
+      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
+      "mapx": "1269762132",
+      "mapy": "375705250"
     }
   ]
 }

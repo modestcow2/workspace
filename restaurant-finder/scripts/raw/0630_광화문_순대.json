@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:46 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375733361"
     },
     {
-      "title": "명품을지<b>순대</b>국",
+      "title": "석교식당",
       "link": "",
-      "category": "한식>순대,순댓국",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 19-10 1층",
-      "roadAddress": "서울특별시 중구 충무로5길 3 1층",
-      "mapx": "1269923868",
-      "mapy": "375650989"
+      "address": "서울특별시 서대문구 영천동 331",
+      "roadAddress": "서울특별시 서대문구 통일로 185",
+      "mapx": "1269622884",
+      "mapy": "375700014"
     }
   ]
 }

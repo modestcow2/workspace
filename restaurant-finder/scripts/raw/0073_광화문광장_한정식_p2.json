@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:33 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "도취 하녹식당",
-      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "title": "설가온",
+      "link": "https://blog.naver.com/mdinc6",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
-      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
-      "mapx": "1269688756",
-      "mapy": "375768581"
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하1층 설가온",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하1층 설가온",
+      "mapx": "1269759463",
+      "mapy": "375726222"
     }
   ]
 }

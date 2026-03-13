@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:17 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375797830"
     },
     {
-      "title": "온재",
-      "link": "https://app.catchtable.co.kr/ct/shop/Onjae",
+      "title": "진가와 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinkawagwm",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54 2층",
-      "mapx": "1269820563",
-      "mapy": "375797533"
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 진가와",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 진가와",
+      "mapx": "1269790252",
+      "mapy": "375747276"
     }
   ]
 }

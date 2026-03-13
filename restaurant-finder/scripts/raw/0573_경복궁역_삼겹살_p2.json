@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:20 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375771457"
     },
     {
-      "title": "고기연",
-      "link": "https://www.instagram.com/gogiyeon.kr",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 80 1층 고기연",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 17 1층 고기연",
-      "mapx": "1269718518",
-      "mapy": "375773126"
-    },
-    {
       "title": "도틔대가",
       "link": "https://catchtable.co.kr/dottydaega",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
       "mapx": "1269720264",
       "mapy": "375765472"
+    },
+    {
+      "title": "고기연",
+      "link": "https://www.instagram.com/gogiyeon.kr",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 80 1층 고기연",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 17 1층 고기연",
+      "mapx": "1269718518",
+      "mapy": "375773126"
     }
   ]
 }

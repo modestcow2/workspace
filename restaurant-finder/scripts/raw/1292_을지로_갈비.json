@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:47 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 을지로 29 지1층",
       "mapx": "1269810422",
       "mapy": "375664910"
-    },
-    {
-      "title": "우래옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 주교동 118-1",
-      "roadAddress": "서울특별시 중구 창경궁로 62-29",
-      "mapx": "1269987029",
-      "mapy": "375682697"
     },
     {
       "title": "금돈옥 <b>을지로</b>점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 을지로 100 파인에비뉴 B동 지하1층",
       "mapx": "1269889089",
       "mapy": "375658847"
+    },
+    {
+      "title": "<b>을지로</b> 전주옥",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-11 1층",
+      "roadAddress": "서울특별시 중구 을지로 101 1층",
+      "mapx": "1269891709",
+      "mapy": "375663605"
     },
     {
       "title": "조선옥",

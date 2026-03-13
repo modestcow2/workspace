@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:05 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>서촌</b>식당",
-      "link": "http://www.instagram.com/seochondining",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-50",
-      "roadAddress": "서울특별시 종로구 자하문로17길 12",
-      "mapx": "1269699906",
-      "mapy": "375814609"
-    },
     {
       "title": "이서방네순대국",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 45",
       "mapx": "1269698490",
       "mapy": "375767519"
+    },
+    {
+      "title": "<b>서촌</b>식당",
+      "link": "http://www.instagram.com/seochondining",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-50",
+      "roadAddress": "서울특별시 종로구 자하문로17길 12",
+      "mapx": "1269699906",
+      "mapy": "375814609"
     },
     {
       "title": "청하식당",
@@ -38,15 +38,15 @@
       "mapy": "375794749"
     },
     {
-      "title": "세종식당",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "정통코다리",
+      "link": "http://cdrgood.cafe24.com",
+      "category": "한식>해물,생선요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 154-5",
-      "roadAddress": "서울특별시 종로구 자하문로 31-10",
-      "mapx": "1269710095",
-      "mapy": "375786597"
+      "address": "서울특별시 종로구 통의동 91-26 1층",
+      "roadAddress": "서울특별시 종로구 자하문로10길 14 1층",
+      "mapx": "1269721224",
+      "mapy": "375793735"
     },
     {
       "title": "별미곱창",

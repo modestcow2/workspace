@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:39 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375742337"
     },
     {
-      "title": "온6.5",
-      "link": "https://app.catchtable.co.kr/ct/shop/on65",
-      "category": "음식점>한식",
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 75-5 지상1층 온6.5",
-      "roadAddress": "서울특별시 종로구 북촌로1길 28 지상1층 온6.5",
-      "mapx": "1269842814",
-      "mapy": "375773758"
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
     },
     {
       "title": "이문설렁탕",

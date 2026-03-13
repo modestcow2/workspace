@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:59 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "동성각",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 18 당주빌딩",
-      "roadAddress": "서울특별시 종로구 새문안로9길 29-2 당주빌딩",
-      "mapx": "1269752304",
-      "mapy": "375714159"
-    },
     {
       "title": "가봉루",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 5-27 당주빌딩 3층",
       "mapx": "1269745821",
       "mapy": "375710389"
+    },
+    {
+      "title": "동성각",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 18 당주빌딩",
+      "roadAddress": "서울특별시 종로구 새문안로9길 29-2 당주빌딩",
+      "mapx": "1269752304",
+      "mapy": "375714159"
     },
     {
       "title": "상인정신",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:50 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375646815"
     },
     {
-      "title": "명동<b>칼국수</b>",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
-      "mapx": "1269759250",
-      "mapy": "375686250"
-    },
-    {
       "title": "인천집",
       "link": "",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375678250"
     },
     {
-      "title": "조조<b>칼국수</b> 시청점",
-      "link": "https://youtube.com/jojostory",
-      "category": "음식점>한식>칼국수,만두",
+      "title": "명동<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-11 조조칼국수",
-      "roadAddress": "서울특별시 중구 세종대로11길 27 조조칼국수",
-      "mapx": "1269742849",
-      "mapy": "375621433"
+      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
+      "mapx": "1269759250",
+      "mapy": "375686250"
+    },
+    {
+      "title": "현대<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-3 청남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 76 청남빌딩",
+      "mapx": "1269770000",
+      "mapy": "375628000"
     }
   ]
 }

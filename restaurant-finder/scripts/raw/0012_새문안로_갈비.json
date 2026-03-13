@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:04 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375696647"
     },
     {
-      "title": "강남면옥 정동점",
-      "link": "http://강남면옥.net",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 12-5",
-      "roadAddress": "서울특별시 종로구 새문안로 38",
-      "mapx": "1269696551",
-      "mapy": "375683064"
-    },
-    {
       "title": "나주소나주곰탕 신문로1가점",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 87",
       "mapx": "1269744139",
       "mapy": "375703667"
+    },
+    {
+      "title": "강남면옥 정동점",
+      "link": "http://강남면옥.net",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5",
+      "roadAddress": "서울특별시 종로구 새문안로 38",
+      "mapx": "1269696551",
+      "mapy": "375683064"
     },
     {
       "title": "한우명가마당",

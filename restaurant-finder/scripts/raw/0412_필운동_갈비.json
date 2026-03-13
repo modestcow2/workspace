@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375766924"
     },
     {
-      "title": "도취 하녹식당",
-      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
-      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
-      "mapx": "1269688756",
-      "mapy": "375768581"
-    },
-    {
       "title": "우직 경복궁점",
       "link": "https://app.catchtable.co.kr/ct/shop/xuzikx_kbg",
       "category": "한식>소고기구이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 49-4 1층 우직",
       "mapx": "1269695885",
       "mapy": "375767578"
+    },
+    {
+      "title": "삼정하누 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
+      "mapx": "1269701780",
+      "mapy": "375750298"
     }
   ]
 }

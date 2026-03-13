@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:17 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375731869"
     },
     {
-      "title": "참돼짓간 종로본점",
-      "link": "",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 돈의동 137 피카디리 cgv극장 1층 1-89호",
-      "roadAddress": "서울특별시 종로구 돈화문로5가길 1 피카디리 cgv극장 1층 1-89호",
-      "mapx": "1269912405",
-      "mapy": "375710346"
-    },
-    {
       "title": "평양고깃집",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -49,15 +38,26 @@
       "mapy": "375727819"
     },
     {
-      "title": "양탄집 서촌본점",
-      "link": "https://www.instagram.com/yangtanhouse/",
+      "title": "참돼짓간 종로본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 137 피카디리 cgv극장 1층 1-89호",
+      "roadAddress": "서울특별시 종로구 돈화문로5가길 1 피카디리 cgv극장 1층 1-89호",
+      "mapx": "1269912405",
+      "mapy": "375710346"
+    },
+    {
+      "title": "무쇠옥 종각본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/moo_iron_ok",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 60-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
-      "mapx": "1269720601",
-      "mapy": "375766927"
+      "address": "서울특별시 종로구 관철동 45-1 1층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 21 1층",
+      "mapx": "1269843652",
+      "mapy": "375696685"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:10 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "347609470"
     },
     {
-      "title": "송원가마솥<b>설렁탕</b> 세종본점",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "세종특별자치시 보람동 703 209, 210호",
-      "roadAddress": "세종특별자치시 시청대로 115 209, 210호",
-      "mapx": "1272848266",
-      "mapy": "364791712"
-    },
-    {
       "title": "서울깍두기 대전<b>시청</b>점",
       "link": "http://seoggag.com",
       "category": "한식>곰탕,설렁탕",
@@ -58,6 +47,17 @@
       "roadAddress": "대전광역시 서구 둔산로 130 1층 112,113호",
       "mapx": "1273878529",
       "mapy": "363511107"
+    },
+    {
+      "title": "서울깍두기 양정점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 부산진구 양정동 257-2 1층",
+      "roadAddress": "부산광역시 부산진구 거제천로40번길 12 1층",
+      "mapx": "1290723968",
+      "mapy": "351783069"
     }
   ]
 }

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:38 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
     {
       "title": "솥내음 종로인사동점",
       "link": "https://map.naver.com/p/entry/place/2017586094",
@@ -38,19 +49,8 @@
       "mapy": "375780371"
     },
     {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
-    {
       "title": "고우가 <b>광화문</b>점",
-      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "link": "https://go.catchtable.co.kr/jrrhv4v",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375782908"
     },
     {
-      "title": "솥내음 종로인사동점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
-      "category": "음식점>한식",
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:25 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375753767"
     },
     {
-      "title": "스타벅스 정부서울청사R점",
+      "title": "스타벅스 적선점",
       "link": "http://www.starbucks.co.kr/",
       "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 156",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 28 (적선동)",
-      "mapx": "1269736776",
-      "mapy": "375746212"
+      "address": "서울특별시 종로구 적선동 66 노스게이트빌딩 1층 ()",
+      "roadAddress": "서울특별시 종로구 새문안로5길 55 노스게이트빌딩 1층 (적선동)",
+      "mapx": "1269741245",
+      "mapy": "375752994"
     },
     {
-      "title": "room5 roastworks",
-      "link": "",
-      "category": "음식점>카페,디저트",
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 228",
-      "roadAddress": "서울특별시 종로구 사직로 73",
-      "mapx": "1269674573",
-      "mapy": "375747831"
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
     }
   ]
 }

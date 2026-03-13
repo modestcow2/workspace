@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:40 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375780371"
     },
     {
-      "title": "엄용백 돼지구이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-13",
-      "roadAddress": "서울특별시 종로구 율곡로4길 51",
-      "mapx": "1269812652",
-      "mapy": "375733835"
-    },
-    {
       "title": "인사동 촌",
       "link": "",
       "category": "한식>한정식",
@@ -38,6 +27,28 @@
       "mapy": "375750012"
     },
     {
+      "title": "엄용백 돼지구이 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-13",
+      "roadAddress": "서울특별시 종로구 율곡로4길 51",
+      "mapx": "1269812652",
+      "mapy": "375733835"
+    },
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
       "title": "사리원<b>불고기</b>[본사] 안녕인사동점",
       "link": "http://www.sariwon.co.kr",
       "category": "한식>육류,고기요리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 4층",
       "mapx": "1269834384",
       "mapy": "375743233"
-    },
-    {
-      "title": "은성 한정식",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
-      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
-      "mapx": "1269814980",
-      "mapy": "375729994"
     }
   ]
 }

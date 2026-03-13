@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,28 @@
       "roadAddress": "서울특별시 중구 남대문로1길 33",
       "mapx": "1269772550",
       "mapy": "375626099"
+    },
+    {
+      "title": "담원순대 <b>시청</b>본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
+    },
+    {
+      "title": "남파랑<b>국밥</b> 북창점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 11-6 1층",
+      "roadAddress": "서울특별시 중구 세종대로16길 23 1층",
+      "mapx": "1269782549",
+      "mapy": "375633639"
     },
     {
       "title": "태진옥",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 남대문로1길 26-6 2층",
       "mapx": "1269777393",
       "mapy": "375621889"
-    },
-    {
-      "title": "남파랑<b>국밥</b> 북창점",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 11-6 1층",
-      "roadAddress": "서울특별시 중구 세종대로16길 23 1층",
-      "mapx": "1269782549",
-      "mapy": "375633639"
-    },
-    {
-      "title": "담원순대 <b>시청</b>본점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-21 1층",
-      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
-      "mapx": "1269731836",
-      "mapy": "375619522"
     }
   ]
 }

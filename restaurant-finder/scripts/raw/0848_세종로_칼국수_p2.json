@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:25 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375642444"
     },
     {
-      "title": "더식당 명동본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/thesikdang",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 31-4 2층",
-      "roadAddress": "서울특별시 중구 명동10길 36 2층",
-      "mapx": "1269855667",
-      "mapy": "375622625"
-    },
-    {
       "title": "대련집",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로16길 37",
       "mapx": "1269889029",
       "mapy": "375683895"
+    },
+    {
+      "title": "더식당 명동본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesikdang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 31-4 2층",
+      "roadAddress": "서울특별시 중구 명동10길 36 2층",
+      "mapx": "1269855667",
+      "mapy": "375622625"
     }
   ]
 }

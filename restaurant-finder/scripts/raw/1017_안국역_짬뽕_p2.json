@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:43 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "인사동 화원",
-      "link": "http://instagram.com/choihun81",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-16 인사동 화원",
-      "roadAddress": "서울특별시 종로구 인사동8길 12 인사동 화원",
-      "mapx": "1269859642",
-      "mapy": "375738998"
-    },
     {
       "title": "차이들 안녕인사동점",
       "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 율곡로2길 25 연합뉴스 빌딩 지하 1층",
       "mapx": "1269802390",
       "mapy": "375745591"
+    },
+    {
+      "title": "인사동 화원",
+      "link": "http://instagram.com/choihun81",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-16 인사동 화원",
+      "roadAddress": "서울특별시 종로구 인사동8길 12 인사동 화원",
+      "mapx": "1269859642",
+      "mapy": "375738998"
     },
     {
       "title": "어부몽 인사점",

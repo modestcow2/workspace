@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:04 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375765372"
     },
     {
+      "title": "<b>서촌</b> 서른즈음에",
+      "link": "https://blog.naver.com/at_about_30",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 2-2 1층 서른즈음에",
+      "roadAddress": "서울특별시 종로구 자하문로1길 5-1 1층 서른즈음에",
+      "mapx": "1269720659",
+      "mapy": "375764695"
+    },
+    {
       "title": "세종마을<b>치킨</b>",
       "link": "",
       "category": "음식점>치킨,닭강정",
@@ -46,17 +57,6 @@
       "address": "서울특별시 종로구 내자동 4 1F",
       "roadAddress": "서울특별시 종로구 자하문로1길 9 1F",
       "mapx": "1269718557",
-      "mapy": "375764695"
-    },
-    {
-      "title": "<b>서촌</b> 서른즈음에",
-      "link": "https://blog.naver.com/at_about_30",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 2-2 1층 서른즈음에",
-      "roadAddress": "서울특별시 종로구 자하문로1길 5-1 1층 서른즈음에",
-      "mapx": "1269720659",
       "mapy": "375764695"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:17 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375033980"
     },
     {
-      "title": "머디",
-      "link": "https://blog.naver.com/fromcafemaudie/",
+      "title": "랑꽁팩토리",
+      "link": "https://www.instagram.com/ranggongfactory/",
       "category": "브런치카페",
       "description": "",
       "telephone": "",
-      "address": "경기도 부천시 원미구 약대동 217-1 후문상가 2층 카페 maudie",
-      "roadAddress": "경기도 부천시 원미구 평천로 680 후문상가 2층 카페 maudie",
-      "mapx": "1267662080",
-      "mapy": "375126948"
+      "address": "인천광역시 남동구 구월동 1140-14 동방빌딩 2층",
+      "roadAddress": "인천광역시 남동구 남동대로 795 동방빌딩 2층",
+      "mapx": "1267078829",
+      "mapy": "374533961"
     }
   ]
 }

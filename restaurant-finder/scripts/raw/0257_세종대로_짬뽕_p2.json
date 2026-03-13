@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:00 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375588024"
     },
     {
-      "title": "보보식당 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
       "title": "프레스센터 연회 &amp; 기자클럽 레스토랑",
       "link": "https://roovook.com/ko/sales-engine/142",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로 124 19층 기자클럽",
       "mapx": "1269778908",
       "mapy": "375674232"
+    },
+    {
+      "title": "송쉐프 숭례문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 45 대한서울상공회의소 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 39 대한서울상공회의소 지하1층",
+      "mapx": "1269737753",
+      "mapy": "375607137"
     }
   ]
 }

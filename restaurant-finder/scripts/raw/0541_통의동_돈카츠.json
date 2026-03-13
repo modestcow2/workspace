@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:06 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765893"
     },
     {
-      "title": "경성왕<b>돈카츠</b>",
-      "link": "",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 301동 B113-14호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 301동 B113-14호",
-      "mapx": "1269686007",
-      "mapy": "375744035"
-    },
-    {
       "title": "다이닝펍",
       "link": "",
       "category": "음식점>양식",
@@ -49,15 +38,26 @@
       "mapy": "375793324"
     },
     {
-      "title": "오얏카츠 인사동",
-      "link": "https://www.instagram.com/oyatt_katsu",
+      "title": "경성왕<b>돈카츠</b>",
+      "link": "",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
-      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
-      "mapx": "1269833422",
-      "mapy": "375735368"
+      "address": "서울특별시 종로구 사직동 9 301동 B113-14호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 301동 B113-14호",
+      "mapx": "1269686007",
+      "mapy": "375744035"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
     }
   ]
 }

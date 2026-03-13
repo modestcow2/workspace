@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:15 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375752529"
     },
     {
+      "title": "와인슈타인",
+      "link": "",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 108 301(3층)",
+      "roadAddress": "서울특별시 종로구 필운대로 9-2 301(3층)",
+      "mapx": "1269691223",
+      "mapy": "375771482"
+    },
+    {
       "title": "필린 Fillin",
       "link": "https://www.instagram.com/fillin_focaccia",
       "category": "양식>샌드위치",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 필운대로1길 12 . 1층",
       "mapx": "1269688428",
       "mapy": "375775444"
-    },
-    {
-      "title": "더샌드위치",
-      "link": "",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
-      "mapx": "1269693501",
-      "mapy": "375748927"
     }
   ]
 }

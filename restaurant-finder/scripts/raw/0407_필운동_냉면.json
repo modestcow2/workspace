@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:06 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375765099"
     },
     {
-      "title": "삼정하누 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
-      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
-      "mapx": "1269701780",
-      "mapy": "375750298"
-    },
-    {
       "title": "만가",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로 103-19",
       "mapx": "1269703769",
       "mapy": "375763740"
+    },
+    {
+      "title": "삼정하누 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
+      "mapx": "1269701780",
+      "mapy": "375750298"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:00 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375677406"
     },
     {
-      "title": "JH텍사스바",
-      "link": "https://www.instagram.com/jhtexasbar_official",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 1 효령빌딩 1층",
-      "roadAddress": "서울특별시 중구 무교로 32 효령빌딩 1층",
-      "mapx": "1269795080",
-      "mapy": "375688120"
-    },
-    {
       "title": "레츠펍 시청점",
       "link": "https://www.instagram.com/letspub_official",
       "category": "술집>요리주점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 남대문로1길 47 레츠펍",
       "mapx": "1269773060",
       "mapy": "375631980"
+    },
+    {
+      "title": "JH텍사스바",
+      "link": "https://www.instagram.com/jhtexasbar_official",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 1 효령빌딩 1층",
+      "roadAddress": "서울특별시 중구 무교로 32 효령빌딩 1층",
+      "mapx": "1269795080",
+      "mapy": "375688120"
     },
     {
       "title": "경성<b>치킨</b> 광화문스퀘어점",

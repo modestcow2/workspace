@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:20 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375816001"
     },
     {
-      "title": "풍년옥",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 17-1",
-      "roadAddress": "서울특별시 종로구 새문안로7길 26",
-      "mapx": "1269750867",
-      "mapy": "375714199"
-    },
-    {
       "title": "흥진옥",
       "link": "",
       "category": "한식>해장국",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 종로5길 19-12",
       "mapx": "1269802523",
       "mapy": "375713900"
+    },
+    {
+      "title": "풍년옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 17-1",
+      "roadAddress": "서울특별시 종로구 새문안로7길 26",
+      "mapx": "1269750867",
+      "mapy": "375714199"
     },
     {
       "title": "대장금",

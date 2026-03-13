@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:27 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375766927"
     },
     {
-      "title": "광화문정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
-    },
-    {
       "title": "육즙당 광화문점",
       "link": "https://www.instagram.com/yukzupdang_official",
       "category": "한식>육류,고기요리",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 10-1 2층",
       "mapx": "1269750174",
       "mapy": "375712635"
+    },
+    {
+      "title": "광화문정육",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 21-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
+      "mapx": "1269756171",
+      "mapy": "375712733"
     },
     {
       "title": "김진목삼",

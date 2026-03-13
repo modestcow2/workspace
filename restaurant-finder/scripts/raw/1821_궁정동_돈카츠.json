@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:43 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "오얏카츠 인사동",
-      "link": "https://www.instagram.com/oyatt_katsu",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
-      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
-      "mapx": "1269833422",
-      "mapy": "375735368"
-    },
     {
       "title": "오봉카츠",
       "link": "https://www.instagram.com/aubonkatsu",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
       "mapx": "1269704883",
       "mapy": "375777902"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
     },
     {
       "title": "세검정돈까스",
@@ -38,17 +38,6 @@
       "mapy": "375956114"
     },
     {
-      "title": "부암동돈가스집1979",
-      "link": "https://app.catchtable.co.kr/ct/shop/buamkatsu_1979",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 부암동 258-4 1층",
-      "roadAddress": "서울특별시 종로구 백석동길 5 1층",
-      "mapx": "1269656560",
-      "mapy": "375928521"
-    },
-    {
       "title": "인사동제면소 안녕인사동점",
       "link": "",
       "category": "음식점>일식>덮밥",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 3층 303호",
       "mapx": "1269835556",
       "mapy": "375744663"
+    },
+    {
+      "title": "덮장",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 60 지하1층 35호,36호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 37 지하1층 35호,36호",
+      "mapx": "1269742286",
+      "mapy": "375736565"
     }
   ]
 }

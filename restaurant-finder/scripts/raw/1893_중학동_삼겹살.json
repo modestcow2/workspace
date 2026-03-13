@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:10:15 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375764468"
     },
     {
-      "title": "참돼짓간 종로본점",
-      "link": "",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 돈의동 137 피카디리 cgv극장 1층 1-89호",
-      "roadAddress": "서울특별시 종로구 돈화문로5가길 1 피카디리 cgv극장 1층 1-89호",
-      "mapx": "1269912405",
-      "mapy": "375710346"
-    },
-    {
       "title": "평양고깃집",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
       "mapx": "1269854482",
       "mapy": "375727819"
+    },
+    {
+      "title": "참돼짓간 종로본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 137 피카디리 cgv극장 1층 1-89호",
+      "roadAddress": "서울특별시 종로구 돈화문로5가길 1 피카디리 cgv극장 1층 1-89호",
+      "mapx": "1269912405",
+      "mapy": "375710346"
     }
   ]
 }

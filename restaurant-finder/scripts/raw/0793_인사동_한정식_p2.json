@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:00 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375751535"
     },
     {
-      "title": "꽃밥에피다",
-      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
-      "category": "음식점>한식",
+      "title": "뉘조",
+      "link": "http://www.newijo.com/",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 118-27",
-      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
-      "mapx": "1269840246",
-      "mapy": "375753027"
+      "address": "서울특별시 종로구 관훈동 84-13",
+      "roadAddress": "서울특별시 종로구 인사동14길 27",
+      "mapx": "1269851935",
+      "mapy": "375751626"
     }
   ]
 }

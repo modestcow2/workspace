@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:37 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375661354"
     },
     {
-      "title": "옛날 중국집",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 성북구 성북동 184-2",
-      "roadAddress": "서울특별시 성북구 성북로8길 8",
-      "mapx": "1270044045",
-      "mapy": "375908585"
-    },
-    {
       "title": "서래향 대학로점",
       "link": "https://www.instagram.com/verefood_official",
       "category": "음식점>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 대학로12길 64 1층",
       "mapx": "1270036981",
       "mapy": "375812584"
+    },
+    {
+      "title": "갸우뚱",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyauttung_seoul",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 132",
+      "roadAddress": "서울특별시 종로구 대학로9길 25",
+      "mapx": "1270004372",
+      "mapy": "375816140"
     }
   ]
 }

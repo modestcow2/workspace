@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:34 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "연희보리밥",
-      "link": "https://www.instagram.com/boribab_official",
-      "category": "음식점>한식",
+      "title": "이설면옥 남가좌점",
+      "link": "https://youtube.com/channel/UC5LgQzt5KdmGqJTE9ilDDmg?si=WazBs53wl2QSElTK",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
-      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
-      "mapx": "1269306323",
-      "mapy": "375679590"
+      "address": "서울특별시 서대문구 남가좌동 396 1층 110-3호",
+      "roadAddress": "서울특별시 서대문구 수색로2길 39 1층 110-3호",
+      "mapx": "1269162688",
+      "mapy": "375708805"
     },
     {
       "title": "오소오소",
@@ -27,17 +27,6 @@
       "mapy": "375633135"
     },
     {
-      "title": "이설면옥 남가좌점",
-      "link": "https://youtube.com/channel/UC5LgQzt5KdmGqJTE9ilDDmg?si=WazBs53wl2QSElTK",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 396 1층 110-3호",
-      "roadAddress": "서울특별시 서대문구 수색로2길 39 1층 110-3호",
-      "mapx": "1269162688",
-      "mapy": "375708805"
-    },
-    {
       "title": "형제갈비",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -49,15 +38,26 @@
       "mapy": "375578619"
     },
     {
-      "title": "고삼이 신촌점",
-      "link": "https://youtube.com/@user-hi6kz5xp8j?si=EhJwsFQCJwzP2z_-",
+      "title": "관식당",
+      "link": "https://www.instagram.com/kwan.restaurant",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 53-8 고삼이",
-      "roadAddress": "서울특별시 서대문구 연세로7안길 38 고삼이",
-      "mapx": "1269347130",
-      "mapy": "375583079"
+      "address": "서울특별시 서대문구 충정로3가 360-6 1층, 2층",
+      "roadAddress": "서울특별시 서대문구 충정로2길 10 1층, 2층",
+      "mapx": "1269639270",
+      "mapy": "375605973"
+    },
+    {
+      "title": "연희보리밥",
+      "link": "https://www.instagram.com/boribab_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
+      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
+      "mapx": "1269306323",
+      "mapy": "375679590"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:06 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375703217"
     },
     {
+      "title": "한민국 닭한마리",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 253-3 1층",
+      "roadAddress": "서울특별시 종로구 종로 252-10 1층",
+      "mapx": "1270055485",
+      "mapy": "375706512"
+    },
+    {
       "title": "명동닭한마리 시조점",
       "link": "",
       "category": "한식>닭요리",
@@ -27,15 +38,15 @@
       "mapy": "375703883"
     },
     {
-      "title": "수인 인사동 닭한마리 본점",
-      "link": "https://catchtable.co.kr/suin_seoul",
+      "title": "천일<b>삼계탕</b>",
+      "link": "",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 경운동 66-11 1층 인사동 닭한마리",
-      "roadAddress": "서울특별시 종로구 인사동10길 23-8 1층 인사동 닭한마리",
-      "mapx": "1269861953",
-      "mapy": "375747933"
+      "address": "서울특별시 중구 을지로6가 18-187 2층 천일삼계탕",
+      "roadAddress": "서울특별시 중구 장충단로13길 43 2층 천일삼계탕",
+      "mapx": "1270064646",
+      "mapy": "375680983"
     },
     {
       "title": "돈화문닭한마리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 돈화문로9길 17 1층",
       "mapx": "1269908133",
       "mapy": "375716439"
-    },
-    {
-      "title": "천일<b>삼계탕</b>",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로6가 18-187 2층 천일삼계탕",
-      "roadAddress": "서울특별시 중구 장충단로13길 43 2층 천일삼계탕",
-      "mapx": "1270064646",
-      "mapy": "375680983"
     }
   ]
 }

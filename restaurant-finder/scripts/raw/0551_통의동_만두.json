@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:10 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375771878"
     },
     {
-      "title": "돌밭 메밀꽃",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 7-23",
-      "roadAddress": "서울특별시 종로구 효자로 31-1",
-      "mapx": "1269737000",
-      "mapy": "375788863"
-    },
-    {
       "title": "활짝핀메밀 경복궁역점",
       "link": "http://hjpmemil.com/",
       "category": "한식>국수",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 20",
       "mapx": "1269722429",
       "mapy": "375779140"
+    },
+    {
+      "title": "돌밭 메밀꽃",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 7-23",
+      "roadAddress": "서울특별시 종로구 효자로 31-1",
+      "mapx": "1269737000",
+      "mapy": "375788863"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:37 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375763691"
     },
     {
-      "title": "김진목삼 2호점",
-      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam_second",
-      "category": "한식>돼지고기구이",
+      "title": "사찰음식 전문점 발우공양",
+      "link": "http://balwoo.or.kr/",
+      "category": "한식>사찰음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 68 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 9 1층",
-      "mapx": "1269719891",
-      "mapy": "375769255"
+      "address": "서울특별시 종로구 견지동 71 템플스테이 통합정보센터 5층",
+      "roadAddress": "서울특별시 종로구 우정국로 56 템플스테이 통합정보센터 5층",
+      "mapx": "1269832147",
+      "mapy": "375738365"
     }
   ]
 }

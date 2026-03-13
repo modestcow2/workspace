@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:27 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
       "mapx": "1269835556",
       "mapy": "375744663"
-    },
-    {
-      "title": "서브큐 셰프플라자",
-      "link": "http://www.serveq.co.kr/",
-      "category": "서비스,산업>제조업",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 54-5 삼양사 사옥 지하1층 셰프플라자",
-      "roadAddress": "서울특별시 종로구 북촌로 18 삼양사 재동사옥 지하1층 셰프플라자",
-      "mapx": "1269856305",
-      "mapy": "375784666"
     },
     {
       "title": "인사동 화원",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로 438 2층",
       "mapx": "1269879147",
       "mapy": "375737258"
+    },
+    {
+      "title": "더차이 안국점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 98-5 3층",
+      "roadAddress": "서울특별시 종로구 율곡로 88 3층",
+      "mapx": "1269889420",
+      "mapy": "375768090"
     }
   ]
 }

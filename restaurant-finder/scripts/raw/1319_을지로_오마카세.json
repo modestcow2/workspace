@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:00 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375661387"
     },
     {
-      "title": "이대헌 스시",
-      "link": "",
-      "category": "한식>생선회",
+      "title": "니카이",
+      "link": "https://www.instagram.com/nikai_eulji",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 320-27 1층 이대헌스시",
-      "roadAddress": "서울특별시 중구 충무로5길 28 1층 이대헌스시",
-      "mapx": "1269912196",
-      "mapy": "375655239"
+      "address": "서울특별시 중구 을지로5가 35-1 2층 201호",
+      "roadAddress": "서울특별시 중구 을지로 219 2층 201호",
+      "mapx": "1270025647",
+      "mapy": "375670875"
     }
   ]
 }

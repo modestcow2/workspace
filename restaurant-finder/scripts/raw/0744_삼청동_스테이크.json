@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:38 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "마음을담아내면 점심",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
+      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
+      "mapx": "1269821145",
+      "mapy": "375791937"
+    },
     {
       "title": "베테카텐",
       "link": "http://m.cafe.naver.com/vetekatten",
@@ -27,17 +38,6 @@
       "mapy": "375788262"
     },
     {
-      "title": "마음을담아내면 점심",
-      "link": "",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
-      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
-      "mapx": "1269821145",
-      "mapy": "375791937"
-    },
-    {
       "title": "미트볼라운지 X 아날로그키친 삼청점",
       "link": "https://app.catchtable.co.kr/ct/shop/meatball_lounge_sj",
       "category": "음식점>양식",
@@ -49,15 +49,15 @@
       "mapy": "375833417"
     },
     {
-      "title": "콩카세 안국",
-      "link": "https://catchtable.co.kr/concasse_anguk",
+      "title": "만가타",
+      "link": "https://m.booking.naver.com/booking/6/bizes/289593",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-31 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
-      "mapx": "1269858330",
-      "mapy": "375781862"
+      "address": "서울특별시 종로구 소격동 88-17",
+      "roadAddress": "서울특별시 종로구 삼청로2길 40-5",
+      "mapx": "1269809666",
+      "mapy": "375801885"
     }
   ]
 }

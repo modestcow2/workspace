@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:00 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
-    },
     {
       "title": "타와",
       "link": "https://www.instagram.com/muwa__official",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
       "mapx": "1269736520",
       "mapy": "375634157"
+    },
+    {
+      "title": "오제제 광화문",
+      "link": "https://www.instagram.com/ojeje.seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
+      "mapx": "1269783077",
+      "mapy": "375684118"
     },
     {
       "title": "두르가 광화문점",
@@ -38,26 +38,26 @@
       "mapy": "375705681"
     },
     {
-      "title": "고담",
-      "link": "https://blog.naver.com/gothamcityhall",
-      "category": "술집>이자카야",
+      "title": "식사",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 341-2 2층(룸),4층(홀), 루프탑(야외 옥상)",
-      "roadAddress": "서울특별시 중구 세종대로 81 2층(룸),4층(홀), 루프탑(야외 옥상)",
-      "mapx": "1269764150",
-      "mapy": "375635587"
+      "address": "서울특별시 중구 무교동 33-1 지하",
+      "roadAddress": "서울특별시 중구 무교로 17 지하",
+      "mapx": "1269790721",
+      "mapy": "375673841"
     },
     {
-      "title": "띤띤 SFC",
-      "link": "https://www.instagram.com/tamarind_official/",
-      "category": "음식점>베트남음식",
+      "title": "스파이스 서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/sambalchoisatayclub?from=share&type=DINING",
+      "category": "음식점>아시아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 SFCMALL B2",
-      "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
-      "mapx": "1269782820",
-      "mapy": "375684612"
+      "address": "서울특별시 중구 북창동 111-1 브릴란테덕수궁 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 14-1 브릴란테덕수궁 1층",
+      "mapx": "1269778725",
+      "mapy": "375617271"
     }
   ]
 }

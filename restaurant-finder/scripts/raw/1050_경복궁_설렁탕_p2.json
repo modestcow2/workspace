@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:58 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375779140"
     },
     {
-      "title": "은설<b>설렁탕</b>",
-      "link": "https://youtube.com/@eunsul_foodie",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 화동 55-1 은설설렁탕",
-      "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
-      "mapx": "1269816320",
-      "mapy": "375816001"
-    },
-    {
       "title": "청담원",
       "link": "",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
       "mapx": "1269733437",
       "mapy": "375753767"
+    },
+    {
+      "title": "은설<b>설렁탕</b>",
+      "link": "https://youtube.com/@eunsul_foodie",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 55-1 은설설렁탕",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
+      "mapx": "1269816320",
+      "mapy": "375816001"
     },
     {
       "title": "나주소나주곰탕 <b>경복궁</b>점",

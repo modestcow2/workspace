@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:02 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375779441"
     },
     {
-      "title": "이도곰탕 계동 직영점",
-      "link": "",
-      "category": "음식점>한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 104-2",
-      "roadAddress": "서울특별시 종로구 계동길 33-8",
-      "mapx": "1269863075",
-      "mapy": "375789169"
-    },
-    {
       "title": "신의주찹쌀순대 안국역점",
       "link": "http://www.bigsoondae.com/",
       "category": "한식>순대,순댓국",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 59",
       "mapx": "1269857102",
       "mapy": "375769015"
+    },
+    {
+      "title": "이도곰탕 계동 직영점",
+      "link": "",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 104-2",
+      "roadAddress": "서울특별시 종로구 계동길 33-8",
+      "mapx": "1269863075",
+      "mapy": "375789169"
     },
     {
       "title": "롤라곱창 안국역점",

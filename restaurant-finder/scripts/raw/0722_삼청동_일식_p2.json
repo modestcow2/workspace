@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375794370"
     },
     {
+      "title": "푸노야 안국점",
+      "link": "https://smartstore.naver.com/purring_seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 49-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
+      "mapx": "1269854103",
+      "mapy": "375787578"
+    },
+    {
       "title": "삼방매",
       "link": "https://instagram.com/sambangmae?igshid=1urjfbecqrdbo",
       "category": "음식점>일식>일본식라면",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 율곡로5길 3-11 삼방매 본점",
       "mapx": "1269846726",
       "mapy": "375765832"
-    },
-    {
-      "title": "쿄와우동",
-      "link": "",
-      "category": "음식점>일식>우동,소바",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 144-1 지하1층",
-      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
-      "mapx": "1269866870",
-      "mapy": "375780953"
     },
     {
       "title": "오레노라멘 인사점",

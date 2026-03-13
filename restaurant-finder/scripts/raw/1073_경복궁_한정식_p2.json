@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:08 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "351671027"
     },
     {
-      "title": "<b>경복궁</b> 갓포제주 대전점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "대전광역시 유성구 도룡동 657 2층 1호",
-      "roadAddress": "대전광역시 유성구 엑스포로 87 2층 1호",
-      "mapx": "1273892891",
-      "mapy": "363751372"
-    },
-    {
       "title": "<b>경복궁</b> 관훈점",
       "link": "",
       "category": "음식점>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동5길 38 아미드호텔 지하1층",
       "mapx": "1269841684",
       "mapy": "375725229"
+    },
+    {
+      "title": "<b>경복궁</b> 갓포제주 대전점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "대전광역시 유성구 도룡동 657 2층 1호",
+      "roadAddress": "대전광역시 유성구 엑스포로 87 2층 1호",
+      "mapx": "1273892891",
+      "mapy": "363751372"
     }
   ]
 }

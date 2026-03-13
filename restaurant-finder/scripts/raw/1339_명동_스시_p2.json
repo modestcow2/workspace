@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375679064"
     },
     {
-      "title": "미진일식",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 170-1 B1층 을지로 맛집 미진일식",
-      "roadAddress": "서울특별시 중구 다동길 16 B1층 을지로 맛집 미진일식",
-      "mapx": "1269802168",
-      "mapy": "375677739"
-    },
-    {
       "title": "김수사 신세계백화점 본점",
       "link": "https://www.instagram.com/kimsushi1986/",
       "category": "음식점>일식>일식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 소공로 63 14층",
       "mapx": "1269806031",
       "mapy": "375600578"
+    },
+    {
+      "title": "미진일식",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 170-1 B1층 을지로 맛집 미진일식",
+      "roadAddress": "서울특별시 중구 다동길 16 B1층 을지로 맛집 미진일식",
+      "mapx": "1269802168",
+      "mapy": "375677739"
     },
     {
       "title": "배 수사",

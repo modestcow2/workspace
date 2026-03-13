@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:21 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375718777"
     },
     {
-      "title": "농민백암순대 시청직영점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 19-4",
-      "roadAddress": "서울특별시 중구 남대문로1길 33",
-      "mapx": "1269772550",
-      "mapy": "375626099"
-    },
-    {
       "title": "북촌무궁화",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 수표로 126",
       "mapx": "1269889329",
       "mapy": "375723618"
+    },
+    {
+      "title": "화목순대국전문 <b>광화문</b>1호점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 40",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11",
+      "mapx": "1269747764",
+      "mapy": "375712514"
     }
   ]
 }

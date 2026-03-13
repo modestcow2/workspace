@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:51 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375801317"
     },
     {
-      "title": "깡통<b>만두</b>",
-      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "title": "가메골손왕<b>만두</b> 남대문본점",
+      "link": "http://smartstore.naver.com/gamegol",
       "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-22 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
-      "mapx": "1269860918",
-      "mapy": "375781763"
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
     },
     {
       "title": "잘빠진메밀 서촌 본점",
@@ -49,15 +49,15 @@
       "mapy": "375796715"
     },
     {
-      "title": "가메골손왕<b>만두</b> 남대문본점",
-      "link": "http://smartstore.naver.com/gamegol",
+      "title": "깡통<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
       "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남창동 60-2",
-      "roadAddress": "서울특별시 중구 남대문시장4길 42",
-      "mapx": "1269771357",
-      "mapy": "375584236"
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
     }
   ]
 }

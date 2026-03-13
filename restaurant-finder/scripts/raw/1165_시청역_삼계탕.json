@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:49 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375646270"
     },
     {
-      "title": "현풍닭칼국수 광화문점",
-      "link": "https://www.instagram.com/hyunpungdk_official",
-      "category": "한식>칼국수,만두",
+      "title": "보승회관 시청점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-3 1층",
-      "roadAddress": "서울특별시 중구 세종대로 135-9 1층",
-      "mapx": "1269763007",
-      "mapy": "375688748"
+      "address": "서울특별시 중구 태평로2가 70-2",
+      "roadAddress": "서울특별시 중구 세종대로 66",
+      "mapx": "1269765651",
+      "mapy": "375621823"
     }
   ]
 }

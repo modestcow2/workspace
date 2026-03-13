@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:21 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "애월식당",
-      "link": "",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 98-19",
-      "roadAddress": "서울특별시 종로구 자하문로 48-1",
-      "mapx": "1269714614",
-      "mapy": "375803453"
-    },
     {
       "title": "청하식당",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로10길 25",
       "mapx": "1269728999",
       "mapy": "375794749"
+    },
+    {
+      "title": "애월식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 98-19",
+      "roadAddress": "서울특별시 종로구 자하문로 48-1",
+      "mapx": "1269714614",
+      "mapy": "375803453"
     },
     {
       "title": "창성갈비",

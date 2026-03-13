@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:50 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
       "mapx": "1269887654",
       "mapy": "375666400"
+    },
+    {
+      "title": "그리너 남대문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
     },
     {
       "title": "폴인<b>포케</b> 서울시청점",
@@ -38,26 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "그리너 남대문점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "어쩌다농부 팬트리 소공점",
+      "link": "https://www.instagram.com/oopspantry",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로4가 20-15 1층",
-      "roadAddress": "서울특별시 중구 남대문로 6 1층",
-      "mapx": "1269764084",
-      "mapy": "375603412"
-    },
-    {
-      "title": "르베지왕 을지공간",
-      "link": "http://www.levegiwang.com/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 116 2층",
-      "roadAddress": "서울특별시 중구 남대문로9길 10 2층",
-      "mapx": "1269818830",
-      "mapy": "375668000"
+      "address": "서울특별시 중구 소공동 79-2 1층 어쩌다농부 팬트리 소공점",
+      "roadAddress": "서울특별시 중구 소공로 96 1층 어쩌다농부 팬트리 소공점",
+      "mapx": "1269801180",
+      "mapy": "375635658"
     }
   ]
 }

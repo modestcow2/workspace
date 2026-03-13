@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:45 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375707534"
     },
     {
-      "title": "멘츠루 을지로점",
-      "link": "https://www.instagram.com/menchuru_euljiro/",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 초동 158-6 1층",
-      "roadAddress": "서울특별시 중구 마른내로2길 26 1층",
-      "mapx": "1269916547",
-      "mapy": "375634193"
-    },
-    {
       "title": "도마 유즈<b>라멘</b>",
       "link": "https://www.instagram.com/yuzu_ramen2",
       "category": "음식점>일식>일본식라면",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 14 유즈라멘",
       "mapx": "1269865232",
       "mapy": "375778648"
+    },
+    {
+      "title": "멘츠루 을지로점",
+      "link": "https://www.instagram.com/menchuru_euljiro/",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 158-6 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 26 1층",
+      "mapx": "1269916547",
+      "mapy": "375634193"
     }
   ]
 }

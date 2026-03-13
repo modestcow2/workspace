@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:20 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375764071"
     },
     {
-      "title": "영양센터 본점",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-32",
-      "roadAddress": "서울특별시 중구 명동2길 52",
-      "mapx": "1269831647",
-      "mapy": "375611197"
-    },
-    {
       "title": "장안<b>삼계탕</b>",
       "link": "https://blog.naver.com/jangan1971",
       "category": "한식>백숙,삼계탕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로18길 8 장안삼계탕",
       "mapx": "1269775163",
       "mapy": "375637587"
+    },
+    {
+      "title": "영양센터 본점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-32",
+      "roadAddress": "서울특별시 중구 명동2길 52",
+      "mapx": "1269831647",
+      "mapy": "375611197"
     }
   ]
 }

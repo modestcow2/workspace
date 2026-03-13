@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:07 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375787841"
     },
     {
-      "title": "The 94",
-      "link": "http://www.instagram.com/the94_official",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 94",
-      "roadAddress": "서울특별시 종로구 자하문로10길 10-32",
-      "mapx": "1269719137",
-      "mapy": "375789858"
-    },
-    {
       "title": "만석꾼",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 9",
       "mapx": "1269732552",
       "mapy": "375765769"
+    },
+    {
+      "title": "The 94",
+      "link": "http://www.instagram.com/the94_official",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 94",
+      "roadAddress": "서울특별시 종로구 자하문로10길 10-32",
+      "mapx": "1269719137",
+      "mapy": "375789858"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:04 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375786629"
     },
     {
-      "title": "스미스가좋아하는한옥",
-      "link": "https://www.instagram.com/smith_hanok",
-      "category": "음식점>이탈리아음식",
+      "title": "심퍼티쿠시 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사간동 62-1",
-      "roadAddress": "서울특별시 종로구 삼청로 22-7",
-      "mapx": "1269801792",
-      "mapy": "375779378"
+      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
+      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
+      "mapx": "1269805312",
+      "mapy": "375755019"
     },
     {
       "title": "오스테리아소띠",
@@ -38,6 +38,17 @@
       "mapy": "375789547"
     },
     {
+      "title": "스미스가좋아하는한옥",
+      "link": "https://www.instagram.com/smith_hanok",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 62-1",
+      "roadAddress": "서울특별시 종로구 삼청로 22-7",
+      "mapx": "1269801792",
+      "mapy": "375779378"
+    },
+    {
       "title": "테라스 꾸까",
       "link": "https://instagram.com/terrace_kukka?igshid=MDM4ZDc5MmU=",
       "category": "음식점>양식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 1 2층 테라스꾸까",
       "mapx": "1269797919",
       "mapy": "375761769"
-    },
-    {
-      "title": "까사 이태리아",
-      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
-      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
-      "mapx": "1269723542",
-      "mapy": "375787841"
     }
   ]
 }

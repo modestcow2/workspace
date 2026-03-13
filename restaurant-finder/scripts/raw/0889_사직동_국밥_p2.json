@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:44 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375728324"
     },
     {
-      "title": "광화문정육",
+      "title": "광화문뚝감",
       "link": "",
-      "category": "한식>육류,고기요리",
+      "category": "한식>감자탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
-    },
-    {
-      "title": "광화문더덕순대",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 38-2",
-      "roadAddress": "서울특별시 종로구 새문안로5길 10",
-      "mapx": "1269750695",
-      "mapy": "375710722"
+      "address": "서울특별시 종로구 당주동 128-14",
+      "roadAddress": "서울특별시 종로구 새문안로3길 21",
+      "mapx": "1269725919",
+      "mapy": "375720689"
     },
     {
       "title": "사발",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
       "mapx": "1269724791",
       "mapy": "375735857"
+    },
+    {
+      "title": "탐라순대국감자탕 광화문점",
+      "link": "https://www.instagram.com/tamla_gwanghwamun",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 170-2 1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-1 1층",
+      "mapx": "1269747400",
+      "mapy": "375708007"
     }
   ]
 }

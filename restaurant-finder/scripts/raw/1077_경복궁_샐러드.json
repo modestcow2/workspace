@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:10 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -7,7 +7,7 @@
     {
       "title": "H라운지",
       "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>브런치",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 통의동 35-21",
@@ -38,6 +38,17 @@
       "mapy": "375785701"
     },
     {
+      "title": "까사 이태리아",
+      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
+      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
+      "mapx": "1269723542",
+      "mapy": "375787841"
+    },
+    {
       "title": "라티에 <b>경복궁</b> 본점",
       "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로 130 적선현대 빌딩 지하1층 66호",
       "mapx": "1269733438",
       "mapy": "375753767"
-    },
-    {
-      "title": "스미스가좋아하는한옥",
-      "link": "https://www.instagram.com/smith_hanok",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 62-1",
-      "roadAddress": "서울특별시 종로구 삼청로 22-7",
-      "mapx": "1269801792",
-      "mapy": "375779378"
     }
   ]
 }

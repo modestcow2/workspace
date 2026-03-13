@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375770264"
     },
     {
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
+    },
+    {
       "title": "소금집델리 안국",
       "link": "https://www.salthousekorea.com",
       "category": "양식>샌드위치",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
       "mapx": "1269863175",
       "mapy": "375794136"
-    },
-    {
-      "title": "신선식탁 광화문G타워점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 156 1층",
-      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
-      "mapx": "1269810076",
-      "mapy": "375727137"
     }
   ]
 }

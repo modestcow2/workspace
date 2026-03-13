@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:32 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375577864"
     },
     {
-      "title": "고향전주<b>비빔밥</b> 현대백화점신촌점",
-      "link": "",
-      "category": "한식>비빔밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 30-33 10층",
-      "roadAddress": "서울특별시 서대문구 신촌로 83 10층",
-      "mapx": "1269357533",
-      "mapy": "375558490"
-    },
-    {
-      "title": "영미김밥",
-      "link": "",
+      "title": "엄마식탁",
+      "link": "https://www.instagram.com/mothers.table",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 110-7 1층",
-      "roadAddress": "서울특별시 서대문구 신촌역로 21 1층",
-      "mapx": "1269425818",
-      "mapy": "375586428"
+      "address": "서울특별시 서대문구 연희동 189-4 엄마식탁",
+      "roadAddress": "서울특별시 서대문구 연희맛로 17-21 엄마식탁",
+      "mapx": "1269288278",
+      "mapy": "375666512"
+    },
+    {
+      "title": "무학바지락칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-29",
+      "roadAddress": "서울특별시 서대문구 통일로35길 6",
+      "mapx": "1269462280",
+      "mapy": "375863988"
     }
   ]
 }

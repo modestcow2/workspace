@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:44 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375768090"
     },
     {
-      "title": "쿄와우동",
+      "title": "인사동제면소 안녕인사동점",
       "link": "",
-      "category": "음식점>일식>우동,소바",
+      "category": "음식점>일식>덮밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 144-1 지하1층",
-      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
-      "mapx": "1269866870",
-      "mapy": "375780953"
+      "address": "서울특별시 종로구 관훈동 155-2 3층 303호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 303호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
     }
   ]
 }

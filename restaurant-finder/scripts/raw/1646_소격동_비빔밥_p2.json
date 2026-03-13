@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:25 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375804973"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
-    {
       "title": "만수의정원",
       "link": "",
       "category": "음식점>한식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 북촌로5가길 35-2",
       "mapx": "1269814047",
       "mapy": "375810569"
+    },
+    {
+      "title": "꿀밥상",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 98-1 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
+      "mapx": "1269818749",
+      "mapy": "375844611"
     },
     {
       "title": "봉이밥 삼청동점",

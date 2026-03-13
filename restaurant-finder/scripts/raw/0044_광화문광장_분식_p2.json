@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:19 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375623945"
     },
     {
+      "title": "신세계떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-5",
+      "roadAddress": "서울특별시 중구 명동9길 10",
+      "mapx": "1269850160",
+      "mapy": "375642992"
+    },
+    {
       "title": "청담동 마녀김밥 <b>광화문</b>점",
       "link": "",
       "category": "분식>김밥",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
       "mapx": "1269691188",
       "mapy": "375773610"
-    },
-    {
-      "title": "철길떡볶기",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 충정로3가 150-1",
-      "roadAddress": "서울특별시 서대문구 충정로5길 11",
-      "mapx": "1269634943",
-      "mapy": "375626500"
     }
   ]
 }

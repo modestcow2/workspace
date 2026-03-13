@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:58 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375815060"
     },
     {
-      "title": "서촌뜰애우곱창타운",
-      "link": "https://www.instagram.com/sechongopchang?igsh=Mm02YmRhcWNzcnhi",
-      "category": "한식>곱창,막창,양",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 189",
-      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
-      "mapx": "1269716341",
-      "mapy": "375765406"
-    },
-    {
       "title": "자하문로118 들풀",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 118 1층",
       "mapx": "1269700999",
       "mapy": "375864487"
+    },
+    {
+      "title": "옹시미 경복궁점",
+      "link": "https://blog.naver.com/omgseemegbg",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 사직로 105 1층",
+      "mapx": "1269705376",
+      "mapy": "375762516"
     }
   ]
 }

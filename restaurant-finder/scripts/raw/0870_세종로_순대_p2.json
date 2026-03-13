@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:35 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375712514"
     },
     {
-      "title": "호반",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 85-7",
-      "roadAddress": "서울특별시 종로구 삼일대로26길 20",
-      "mapx": "1269891446",
-      "mapy": "375733361"
-    },
-    {
       "title": "철길떡볶기",
       "link": "",
       "category": "분식>떡볶이",
@@ -49,15 +38,26 @@
       "mapy": "375626500"
     },
     {
-      "title": "광화문국밥",
+      "title": "호반",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 1-48",
-      "roadAddress": "서울특별시 중구 세종대로21길 53",
-      "mapx": "1269754124",
-      "mapy": "375689749"
+      "address": "서울특별시 종로구 낙원동 85-7",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 20",
+      "mapx": "1269891446",
+      "mapy": "375733361"
+    },
+    {
+      "title": "북촌무궁화",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 137",
+      "roadAddress": "서울특별시 종로구 수표로 126",
+      "mapx": "1269889329",
+      "mapy": "375723618"
     }
   ]
 }

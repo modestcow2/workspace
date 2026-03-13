@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:16 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375611991"
     },
     {
+      "title": "강가뼈<b>해장국</b>",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 49-5 1층 강가",
+      "roadAddress": "서울특별시 중구 수표로 15 1층 강가",
+      "mapx": "1269902451",
+      "mapy": "375626004"
+    },
+    {
       "title": "신가원 설렁탕",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
       "mapx": "1269815002",
       "mapy": "375670246"
-    },
-    {
-      "title": "남산등심 <b>명동</b>본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/namsan_grilledsirloin",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남산동1가 10-4 남산등심 명동본점 1층, 2층, 3층",
-      "roadAddress": "서울특별시 중구 퇴계로18길 26 남산등심 명동본점 1층, 2층, 3층",
-      "mapx": "1269850726",
-      "mapy": "375597707"
     }
   ]
 }

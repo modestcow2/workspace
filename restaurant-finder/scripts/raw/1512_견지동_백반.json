@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:26 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375844611"
     },
     {
-      "title": "뚝배기집",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "돈맛꿀",
+      "link": "https://youtube.com/@pig_honey",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1",
-      "roadAddress": "서울특별시 종로구 종로16길 12",
-      "mapx": "1269885481",
-      "mapy": "375695483"
+      "address": "서울특별시 종로구 낙원동 179 지상 1층",
+      "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
+      "mapx": "1269895649",
+      "mapy": "375710740"
     }
   ]
 }

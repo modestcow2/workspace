@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:29 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375761086"
     },
     {
-      "title": "태양이네",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 와룡동 171-1 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로11가길 46 1층",
-      "mapx": "1269907120",
-      "mapy": "375745951"
-    },
-    {
       "title": "또와생고기",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로11가길 48 1층",
       "mapx": "1269906518",
       "mapy": "375747270"
+    },
+    {
+      "title": "태양이네",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 171-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11가길 46 1층",
+      "mapx": "1269907120",
+      "mapy": "375745951"
     },
     {
       "title": "장모식당",

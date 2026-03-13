@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375794433"
     },
     {
-      "title": "황칠가 안국점",
-      "link": "https://smartstore.naver.com/goodhealingshop",
-      "category": "한식>육류,고기요리",
+      "title": "안국약방",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 109 지하 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
-      "mapx": "1269857055",
-      "mapy": "375774305"
+      "address": "서울특별시 종로구 재동 91 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
+      "mapx": "1269861688",
+      "mapy": "375773871"
     },
     {
       "title": "큰기와집",
@@ -38,6 +38,17 @@
       "mapy": "375787275"
     },
     {
+      "title": "황칠가 안국점",
+      "link": "https://smartstore.naver.com/goodhealingshop",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 109 지하 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
+      "mapx": "1269857055",
+      "mapy": "375774305"
+    },
+    {
       "title": "삼지",
       "link": "https://blog.naver.com/samgimoon1000",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
       "mapx": "1269860086",
       "mapy": "375782908"
-    },
-    {
-      "title": "북촌김치재",
-      "link": "",
-      "category": "한식>찌개,전골",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-10",
-      "roadAddress": "서울특별시 종로구 북촌로2길 8",
-      "mapx": "1269861859",
-      "mapy": "375778300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:25 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375715570"
     },
     {
-      "title": "영천떡볶이야",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 영천동 294 B열 8호",
-      "roadAddress": "서울특별시 서대문구 영천시장길 27 B열 8호",
-      "mapx": "1269610995",
-      "mapy": "375709023"
-    },
-    {
       "title": "능라밥상",
       "link": "https://www.facebook.com/",
       "category": "한식>이북음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로2길 14 능라밥상",
       "mapx": "1269640183",
       "mapy": "375729551"
+    },
+    {
+      "title": "갈현동 할머니 떡볶이 둘째네",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 70-4",
+      "roadAddress": "서울특별시 서대문구 영천시장길 32",
+      "mapx": "1269610833",
+      "mapy": "375706542"
     }
   ]
 }

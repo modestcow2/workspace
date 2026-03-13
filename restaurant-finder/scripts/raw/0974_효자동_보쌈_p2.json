@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:24 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375720658"
     },
     {
-      "title": "편안한집",
-      "link": "https://ahome.imweb.me/",
-      "category": "한식>한정식",
+      "title": "소선재",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 27-3",
-      "roadAddress": "서울특별시 종로구 북촌로 133",
-      "mapx": "1269833492",
-      "mapy": "375873030"
+      "address": "서울특별시 종로구 삼청동 113-3 소선재",
+      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
+      "mapx": "1269818029",
+      "mapy": "375855480"
     }
   ]
 }

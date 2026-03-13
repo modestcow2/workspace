@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:57:53 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375684246"
     },
     {
-      "title": "스패뉴",
-      "link": "http://www.instagram.com/seoulcityhall_spannew",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 68-1 2층 스패뉴",
-      "roadAddress": "서울특별시 중구 세종대로 82 2층 스패뉴",
-      "mapx": "1269770819",
-      "mapy": "375634520"
-    },
-    {
       "title": "붓처스컷 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/butcherscut_ghm?from=share&type=VISIT_RESERVATION",
       "category": "음식점>스테이크,립",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하2층",
       "mapx": "1269780574",
       "mapy": "375684428"
+    },
+    {
+      "title": "다운타우너 광화문",
+      "link": "http://downtowner.co.kr/info",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFC몰 B1층 다운타우너 광화문",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFC몰 B1층 다운타우너 광화문",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     },
     {
       "title": "오리지널팬케이크하우스 세종문화회관점 (광화문 1호점)",

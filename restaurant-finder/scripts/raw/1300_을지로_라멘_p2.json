@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:51 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375650440"
     },
     {
-      "title": "지지타운",
-      "link": "https://catchtable.co.kr/ggtown",
-      "category": "술집>이자카야",
+      "title": "모모야 동대문 DDP점",
+      "link": "http://themomoya.co.kr/",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 349-1 3층",
-      "roadAddress": "서울특별시 중구 수표로 52 3층",
-      "mapx": "1269899946",
-      "mapy": "375657753"
+      "address": "서울특별시 중구 을지로7가 143 동대문디자인플라자 지하2층 디자인장터 모모야",
+      "roadAddress": "서울특별시 중구 을지로 281 동대문디자인플라자 지하2층 디자인장터 모모야",
+      "mapx": "1270098129",
+      "mapy": "375675604"
     }
   ]
 }

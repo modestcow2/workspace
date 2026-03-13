@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:43 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375652629"
     },
     {
-      "title": "가야성",
-      "link": "",
+      "title": "여의주훠궈관 <b>을지로</b>본점",
+      "link": "https://www.instagram.com/yeouijuhuoguo",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 101-38",
-      "roadAddress": "서울특별시 중구 을지로9길 6",
-      "mapx": "1269884960",
-      "mapy": "375664670"
+      "address": "서울특별시 중구 을지로3가 323 4층 403호",
+      "roadAddress": "서울특별시 중구 을지로12길 12 4층 403호",
+      "mapx": "1269910635",
+      "mapy": "375657466"
     }
   ]
 }

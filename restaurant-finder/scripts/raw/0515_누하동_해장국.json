@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:54 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375727012"
     },
     {
-      "title": "탐라순대국감자탕 광화문점",
-      "link": "https://www.instagram.com/tamla_gwanghwamun",
-      "category": "한식>감자탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 170-2 1층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 5-1 1층",
-      "mapx": "1269747400",
-      "mapy": "375708007"
-    },
-    {
       "title": "대성도가니탕",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 영천시장길 54 1층",
       "mapx": "1269619676",
       "mapy": "375699326"
+    },
+    {
+      "title": "탐라순대국감자탕 광화문점",
+      "link": "https://www.instagram.com/tamla_gwanghwamun",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 170-2 1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-1 1층",
+      "mapx": "1269747400",
+      "mapy": "375708007"
     }
   ]
 }

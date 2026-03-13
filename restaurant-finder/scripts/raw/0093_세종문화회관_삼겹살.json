@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:42 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375690679"
     },
     {
-      "title": "광화문정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
-    },
-    {
       "title": "육즙당 광화문점",
       "link": "https://www.instagram.com/yukzupdang_official",
       "category": "한식>육류,고기요리",
@@ -49,15 +38,26 @@
       "mapy": "375712635"
     },
     {
-      "title": "양탄집 서촌본점",
-      "link": "https://www.instagram.com/yangtanhouse/",
+      "title": "광화문정육",
+      "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 60-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
-      "mapx": "1269720601",
-      "mapy": "375766927"
+      "address": "서울특별시 종로구 당주동 21-1 1층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
+      "mapx": "1269756171",
+      "mapy": "375712733"
+    },
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:56 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375712733"
     },
     {
+      "title": "서촌 백년화로",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 24-2",
+      "roadAddress": "서울특별시 종로구 새문안로7길 20",
+      "mapx": "1269753006",
+      "mapy": "375711433"
+    },
+    {
       "title": "화로담",
       "link": "",
       "category": "한식>소고기구이",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 9 2층",
       "mapx": "1269747932",
       "mapy": "375710653"
-    },
-    {
-      "title": "시절 광화문점",
-      "link": "https://www.youtube.com/@sijeol.official",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 24-3 1층",
-      "roadAddress": "서울특별시 종로구 새문안로7길 18 1층",
-      "mapx": "1269753518",
-      "mapy": "375710636"
     }
   ]
 }

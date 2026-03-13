@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:59 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375786322"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
-    {
       "title": "더타코부스 NYC 안국점",
       "link": "",
       "category": "음식점>양식>멕시코,남미음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
       "mapx": "1269860399",
       "mapy": "375774613"
+    },
+    {
+      "title": "소금집델리 안국",
+      "link": "https://www.salthousekorea.com",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 101-12 1층",
+      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
+      "mapx": "1269863175",
+      "mapy": "375794136"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375751535"
     },
     {
-      "title": "죽마고돈",
-      "link": "https://catchtable.co.kr/jukmagodon",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 산19-9 1~4층",
-      "roadAddress": "서울특별시 종로구 삼일대로17길 42-4 1~4층",
-      "mapx": "1269852372",
-      "mapy": "375693574"
-    },
-    {
       "title": "KUT Seoul",
       "link": "https://app.catchtable.co.kr/ct/shop/KUT?from=share&type=DINING",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 종로 96 한올타워 3F KUT",
       "mapx": "1269882058",
       "mapy": "375698597"
+    },
+    {
+      "title": "죽마고돈",
+      "link": "https://catchtable.co.kr/jukmagodon",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 산19-9 1~4층",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 42-4 1~4층",
+      "mapx": "1269852372",
+      "mapy": "375693574"
     },
     {
       "title": "스시소라 종로점",
@@ -49,15 +49,15 @@
       "mapy": "375711867"
     },
     {
-      "title": "오온 종로 익선동 본점",
-      "link": "https://www.instagram.com/oon.jongro",
-      "category": "한식>소고기구이",
+      "title": "스시키마에",
+      "link": "https://catchtable.co.kr/sushikimae",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 59-5 7층",
-      "roadAddress": "서울특별시 종로구 삼일대로28길 8 7층",
-      "mapx": "1269884979",
-      "mapy": "375734176"
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 141호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 141호",
+      "mapx": "1269818155",
+      "mapy": "375723952"
     }
   ]
 }

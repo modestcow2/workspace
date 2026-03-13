@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:17 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 95 종로1가 대성 스카이렉스",
       "mapx": "1269825249",
       "mapy": "375722311"
+    },
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
     },
     {
       "title": "솥내음 종로인사동점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
       "mapx": "1269861071",
       "mapy": "375780371"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
     }
   ]
 }

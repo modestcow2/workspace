@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:53 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "봉구가래떡볶이 광화문점",
-      "link": "",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 지하1층 133호",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 지하1층 133호",
-      "mapx": "1269733018",
-      "mapy": "375718397"
-    },
     {
       "title": "매일<b>분식</b>",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5가길 5",
       "mapx": "1269741578",
       "mapy": "375725741"
+    },
+    {
+      "title": "봉구가래떡볶이 광화문점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 지하1층 133호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지하1층 133호",
+      "mapx": "1269733018",
+      "mapy": "375718397"
     },
     {
       "title": "서울김밥 광화문1호점",
@@ -38,17 +38,6 @@
       "mapy": "375719765"
     },
     {
-      "title": "본김밥",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 광화문 풍림스페이스본",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
-      "mapx": "1269699607",
-      "mapy": "375746116"
-    },
-    {
       "title": "로라방앗간 광화문점",
       "link": "http://www.rora1983.co.kr",
       "category": "분식>떡볶이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 지하1층 로라방앗간",
       "mapx": "1269733018",
       "mapy": "375718397"
+    },
+    {
+      "title": "본김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 광화문 풍림스페이스본",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
+      "mapx": "1269699607",
+      "mapy": "375746116"
     }
   ]
 }

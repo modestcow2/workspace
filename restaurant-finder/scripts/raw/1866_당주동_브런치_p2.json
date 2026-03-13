@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:10:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 97 2층",
       "mapx": "1269754535",
       "mapy": "375706990"
-    },
-    {
-      "title": "더샌드위치",
-      "link": "",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
-      "mapx": "1269693501",
-      "mapy": "375748927"
     },
     {
       "title": "로파이 샌드위치 디저트 카페",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
       "mapx": "1269721868",
       "mapy": "375662530"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
     },
     {
       "title": "커피루소 정동",

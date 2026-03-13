@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:29 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375780061"
     },
     {
-      "title": "조선김밥",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 22-1 1층",
-      "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
-      "mapx": "1269822132",
-      "mapy": "375786507"
-    },
-    {
       "title": "스낵서울",
       "link": "https://www.instagram.com/snackseoul",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 팔판길 46 2층",
       "mapx": "1269816137",
       "mapy": "375837662"
+    },
+    {
+      "title": "조선김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 22-1 1층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
+      "mapx": "1269822132",
+      "mapy": "375786507"
     },
     {
       "title": "먹쉬돈나 <b>삼청동</b>점",

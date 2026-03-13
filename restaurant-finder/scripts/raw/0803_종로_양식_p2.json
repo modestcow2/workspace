@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:05 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
       "mapx": "1269895934",
       "mapy": "375735970"
-    },
-    {
-      "title": "독립밀방 익선",
-      "link": "http://www.instagram.com/dongnip_millbang",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
-      "mapx": "1269902619",
-      "mapy": "375740791"
     },
     {
       "title": "퍼블릭도원 서순라길점",
@@ -49,15 +38,26 @@
       "mapy": "375741979"
     },
     {
-      "title": "스케줄 오스테리아",
-      "link": "https://blog.naver.com/sch_co001",
+      "title": "오늘그대와 익선",
+      "link": "https://app.catchtable.co.kr/ct/shop/todaywithyou",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-48 1층 오늘그대와익선",
+      "roadAddress": "서울특별시 종로구 수표로28길 21-11 1층 오늘그대와익선",
+      "mapx": "1269897142",
+      "mapy": "375733855"
+    },
+    {
+      "title": "이층양옥",
+      "link": "http://catchtable.co.kr/2storey_house",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 85 iM금융센터 2층 202호",
-      "roadAddress": "서울특별시 중구 남대문로 125 iM금융센터 2층 202호",
-      "mapx": "1269823089",
-      "mapy": "375683770"
+      "address": "서울특별시 종로구 익선동 110-4 이층양옥",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 28 이층양옥",
+      "mapx": "1269904165",
+      "mapy": "375739601"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "족삼리",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 115-5 1층",
-      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
-      "mapx": "1269483970",
-      "mapy": "375854364"
-    },
     {
       "title": "할매집",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 사직로12길 1-5",
       "mapx": "1269714754",
       "mapy": "375756601"
+    },
+    {
+      "title": "족삼리",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 115-5 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
+      "mapx": "1269483970",
+      "mapy": "375854364"
     },
     {
       "title": "효자왕<b>족발</b>",

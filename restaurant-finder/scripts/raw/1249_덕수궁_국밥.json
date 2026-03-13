@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375634668"
     },
     {
-      "title": "전주풍남회관",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
-    },
-    {
       "title": "태평순대 광화문본점",
       "link": "",
       "category": "한식>순대,순댓국",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
       "mapx": "1269760122",
       "mapy": "375690306"
+    },
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
     },
     {
       "title": "정든다락",

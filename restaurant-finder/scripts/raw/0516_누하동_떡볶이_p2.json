@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:55 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,28 @@
       "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
       "mapx": "1269652933",
       "mapy": "375683803"
+    },
+    {
+      "title": "청담동 마녀김밥 광화문점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1",
+      "roadAddress": "서울특별시 종로구 새문안로 105",
+      "mapx": "1269762542",
+      "mapy": "375704544"
+    },
+    {
+      "title": "꿈떡꿈떡 종로본점",
+      "link": "http://www.꿈떡꿈떡.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 꿈떡꿈떡",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 꿈떡꿈떡",
+      "mapx": "1269798605",
+      "mapy": "375708344"
     },
     {
       "title": "허니<b>떡볶이</b>",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로15길 18",
       "mapx": "1269700183",
       "mapy": "375806564"
-    },
-    {
-      "title": "청담동 마녀김밥 광화문점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 204-1",
-      "roadAddress": "서울특별시 종로구 새문안로 105",
-      "mapx": "1269762542",
-      "mapy": "375704544"
-    },
-    {
-      "title": "꼬소한부뚜막 광화문광장점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 도렴동 150-1 1층",
-      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
-      "mapx": "1269756633",
-      "mapy": "375715135"
     }
   ]
 }

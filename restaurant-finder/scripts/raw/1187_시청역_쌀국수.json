@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:59 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375634157"
     },
     {
+      "title": "포언 시청점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 센터플레이스 212호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 센터플레이스 212호",
+      "mapx": "1269803692",
+      "mapy": "375670959"
+    },
+    {
       "title": "땀땀 롯데백화점 본점",
       "link": "",
       "category": "음식점>베트남음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
       "mapx": "1269811881",
       "mapy": "375647599"
-    },
-    {
-      "title": "반포식스 서울시청점",
-      "link": "http://www.banhpho6.com",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 24-2 휘닉스빌딩 3층",
-      "roadAddress": "서울특별시 중구 무교로 13 휘닉스빌딩 3층",
-      "mapx": "1269790515",
-      "mapy": "375671662"
     }
   ]
 }

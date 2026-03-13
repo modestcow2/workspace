@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:05 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "목멱산방 남산타워점",
-      "link": "http://instagram.com/m_horaeng",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 예장동 산5-6",
-      "roadAddress": "서울특별시 중구 남산공원길 627",
-      "mapx": "1269853285",
-      "mapy": "375553582"
-    },
     {
       "title": "목멱산방",
       "link": "https://mmmroom.co.kr/",
@@ -28,7 +17,7 @@
     },
     {
       "title": "고우가 광화문점",
-      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "link": "https://go.catchtable.co.kr/jrrhv4v",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
@@ -49,15 +38,26 @@
       "mapy": "375671396"
     },
     {
-      "title": "<b>명동</b>정",
-      "link": "http://www.hanjeongsik.co.kr",
-      "category": "한식>한정식",
+      "title": "목멱산방 남산타워점",
+      "link": "http://instagram.com/m_horaeng",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로2가 60-3 이화빌딩 1층",
-      "roadAddress": "서울특별시 중구 삼일대로 299 이화빌딩 1층",
-      "mapx": "1269883506",
-      "mapy": "375613152"
+      "address": "서울특별시 중구 예장동 산5-6",
+      "roadAddress": "서울특별시 중구 남산공원길 627",
+      "mapx": "1269853285",
+      "mapy": "375553582"
+    },
+    {
+      "title": "오징어풍경 무교동점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 11 광일빌딩 1층",
+      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 1층",
+      "mapx": "1269797337",
+      "mapy": "375680954"
     }
   ]
 }

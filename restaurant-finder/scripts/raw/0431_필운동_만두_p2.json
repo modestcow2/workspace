@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:17 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "경복궁식당",
-      "link": "https://www.minarikorea.com/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 211 지하1층",
-      "roadAddress": "서울특별시 종로구 사직로 101 지하1층",
-      "mapx": "1269701158",
-      "mapy": "375762596"
-    },
     {
       "title": "이가면옥",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 33 이가면옥",
       "mapx": "1269703779",
       "mapy": "375765099"
+    },
+    {
+      "title": "경복궁식당",
+      "link": "https://www.minarikorea.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 211 지하1층",
+      "roadAddress": "서울특별시 종로구 사직로 101 지하1층",
+      "mapx": "1269701158",
+      "mapy": "375762596"
     },
     {
       "title": "서촌칼제비",

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:29 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "유닭스토리 닭한마리 신촌점",
+      "link": "https://blog.naver.com/hotjazz22",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 18-72 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 7 1층",
+      "mapx": "1269374476",
+      "mapy": "375570470"
+    },
     {
       "title": "쟁반집8292 신촌점",
       "link": "http://www.jbj8292.com",
@@ -27,37 +38,26 @@
       "mapy": "375589692"
     },
     {
-      "title": "유닭스토리 닭한마리 신촌점",
-      "link": "https://blog.naver.com/hotjazz22",
-      "category": "한식>닭요리",
+      "title": "돈뼈공방",
+      "link": "",
+      "category": "한식>감자탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 18-72 1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 7 1층",
-      "mapx": "1269374476",
-      "mapy": "375570470"
+      "address": "서울특별시 서대문구 창천동 52-14 1층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 30 1층",
+      "mapx": "1269351913",
+      "mapy": "375590167"
     },
     {
-      "title": "박만배아리랑보쌈 연희점",
-      "link": "",
-      "category": "한식>족발,보쌈",
+      "title": "연희보리밥",
+      "link": "https://www.instagram.com/boribab_official",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 193-10 1층좌측호",
-      "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
-      "mapx": "1269285120",
-      "mapy": "375657431"
-    },
-    {
-      "title": "산천마루",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 홍은동 48-149",
-      "roadAddress": "서울특별시 서대문구 세검정로1길 21",
-      "mapx": "1269428649",
-      "mapy": "375925590"
+      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
+      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
+      "mapx": "1269306323",
+      "mapy": "375679590"
     }
   ]
 }

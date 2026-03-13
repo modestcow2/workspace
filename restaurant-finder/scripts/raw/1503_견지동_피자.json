@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:22 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375789547"
     },
     {
-      "title": "비텔로소띠",
-      "link": "http://catchtable.co.kr/vitellosotti",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
-      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
-      "mapx": "1269727845",
-      "mapy": "375769969"
-    },
-    {
       "title": "까사 이태리아",
       "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
       "category": "음식점>이탈리아음식",
@@ -49,15 +38,26 @@
       "mapy": "375787841"
     },
     {
-      "title": "스파게티가있는풍경 광화문점",
-      "link": "https://www.instagram.com/pomodori_park",
-      "category": "이탈리아음식>스파게티,파스타전문",
+      "title": "비텔로소띠",
+      "link": "http://catchtable.co.kr/vitellosotti",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 1-1 2층",
-      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
-      "mapx": "1269761832",
-      "mapy": "375704933"
+      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
+      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
+      "mapx": "1269727845",
+      "mapy": "375769969"
+    },
+    {
+      "title": "계동<b>피자</b>",
+      "link": "https://youtube.com/@kindk7985",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 82-1 1층 피자",
+      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
+      "mapx": "1269866587",
+      "mapy": "375801802"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:08 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375672094"
     },
     {
-      "title": "육미곳간",
-      "link": "",
+      "title": "전주다대기",
+      "link": "https://app.catchtable.co.kr/ct/shop/jeon_ju_dadeagi",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 170-1 2층 313",
-      "roadAddress": "서울특별시 중구 다동길 16 2층(다동) 313",
-      "mapx": "1269801686",
-      "mapy": "375677489"
+      "address": "서울특별시 중구 서소문동 120-14 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 1층 102호",
+      "mapx": "1269736157",
+      "mapy": "375621806"
     }
   ]
 }

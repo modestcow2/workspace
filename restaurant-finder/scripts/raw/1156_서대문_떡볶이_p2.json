@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:45 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "카우<b>떡볶이</b>",
-      "link": "https://smartstore.naver.com/greenbadge/products/7691485943",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 34-40 1층",
-      "roadAddress": "서울특별시 서대문구 이화여대길 88-21 1층",
-      "mapx": "1269439510",
-      "mapy": "375595837"
-    },
     {
       "title": "유자유김치<b>떡볶이</b> 신촌점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 서대문구 연세로11길 22",
       "mapx": "1269356093",
       "mapy": "375590089"
+    },
+    {
+      "title": "카우<b>떡볶이</b>",
+      "link": "https://smartstore.naver.com/greenbadge/products/7691485943",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-40 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 88-21 1층",
+      "mapx": "1269439510",
+      "mapy": "375595837"
     },
     {
       "title": "이정희<b>떡볶이</b>",

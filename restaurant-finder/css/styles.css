@@ -153,6 +153,16 @@
   color: #fff;
 }
 
+.filter-desc {
+  font-weight: 400;
+  color: #9ca3af;
+  font-size: 0.68rem;
+  margin-left: 2px;
+}
+.filter-badge.active .filter-desc {
+  color: rgba(255,255,255,0.75);
+}
+
 /* ── 활성 필터 칩 ───────────────────────────────────────────── */
 .active-chip {
   display: inline-flex;
@@ -232,7 +242,6 @@
 .tag-cuisine  { background: #ffedd5; color: #9a3412; }  /* 주황 */
 .tag-temp     { background: #e0f2fe; color: #075985; }  /* 하늘 */
 .tag-occasion { background: #f3e8ff; color: #6b21a8; }  /* 보라 */
-.tag-health   { background: #d1fae5; color: #065f46; }  /* 민트 */
 
 /* ── 카드 액션 버튼 영역 ────────────────────────────────────── */
 .card-actions {
@@ -501,6 +510,54 @@
   font-size: 13px;
   color: #1e1b4b;
 }
+
+/* ── 정렬 드롭다운 ───────────────────────────────────────────── */
+.sort-select {
+  padding: 5px 12px;
+  border-radius: 8px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border: 1.5px solid #e5e7eb;
+  background: #fff;
+  color: #374151;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+.sort-select:hover {
+  border-color: #6366f1;
+  color: #6366f1;
+}
+.sort-select:focus {
+  border-color: #6366f1;
+  box-shadow: 0 0 0 3px rgba(99,102,241,0.12);
+}
+
+/* ── 랜덤 추천 버튼 ─────────────────────────────────────────── */
+.random-pick-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 16px;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  border: 2px solid #f59e0b;
+  background: linear-gradient(135deg, #fef3c7, #fde68a);
+  color: #92400e;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+.random-pick-btn:hover {
+  background: linear-gradient(135deg, #fde68a, #fbbf24);
+  transform: scale(1.03);
+  box-shadow: 0 2px 12px rgba(245,158,11,0.3);
+}
+
+/* ── 가격 태그 색상 ──────────────────────────────────────────── */
+.tag-price { background: #fef9c3; color: #854d0e; }
 
 /* ── 스크롤바 ────────────────────────────────────────────────── */
 ::-webkit-scrollbar { width: 6px; height: 6px; }

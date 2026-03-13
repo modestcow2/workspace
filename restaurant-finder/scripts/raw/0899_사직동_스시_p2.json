@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:48 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375683937"
     },
     {
-      "title": "경희궁참치집",
-      "link": "",
-      "category": "한식>생선회",
+      "title": "<b>스시</b>이찌 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushiichi_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 128-27 동원빌딩 별관 1층",
-      "roadAddress": "서울특별시 종로구 새문안로3길 15 동원빌딩 별관 1층",
-      "mapx": "1269724447",
-      "mapy": "375718204"
+      "address": "서울특별시 종로구 내수동 75 용비어천가 지하1층 120호",
+      "roadAddress": "서울특별시 종로구 새문안로3길 36 용비어천가 지하1층 120호",
+      "mapx": "1269732813",
+      "mapy": "375734105"
     },
     {
-      "title": "동원참치 광화문본점",
-      "link": "http://tuna.dongwon.com/",
-      "category": "한식>생선회",
+      "title": "포시즌스 호텔 서울 아키라 백",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 현대적선빌딩 지하1층 22호",
-      "roadAddress": "서울특별시 종로구 사직로 130 현대적선빌딩 지하1층 22호",
-      "mapx": "1269732248",
-      "mapy": "375754136"
+      "address": "서울특별시 종로구 당주동 30 12층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 12층",
+      "mapx": "1269753951",
+      "mapy": "375706979"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:13 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375744412"
     },
     {
-      "title": "현선이네 청계즉석점",
-      "link": "https://smartstore.naver.com/hyunsunine",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
-      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
-      "mapx": "1269830312",
-      "mapy": "375671291"
-    },
-    {
       "title": "교남김밥",
       "link": "http://instagram.com/gyonamgimbap012",
       "category": "분식>김밥",
@@ -49,15 +38,26 @@
       "mapy": "375683803"
     },
     {
-      "title": "허니<b>떡볶이</b>",
-      "link": "https://blog.naver.com/honeybokki",
+      "title": "청담동 마녀김밥 광화문점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1",
+      "roadAddress": "서울특별시 종로구 새문안로 105",
+      "mapx": "1269762542",
+      "mapy": "375704544"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
       "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
-      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
-      "mapx": "1269762132",
-      "mapy": "375705250"
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     }
   ]
 }

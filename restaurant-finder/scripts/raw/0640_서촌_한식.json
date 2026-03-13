@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:51 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375796715"
     },
     {
-      "title": "<b>서촌</b>뜰애우곱창타운",
-      "link": "https://www.instagram.com/sechongopchang?igsh=Mm02YmRhcWNzcnhi",
-      "category": "한식>곱창,막창,양",
+      "title": "옹시미 경복궁점",
+      "link": "https://blog.naver.com/omgseemegbg",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 189",
-      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
-      "mapx": "1269716341",
-      "mapy": "375765406"
-    },
-    {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
+      "address": "서울특별시 종로구 내자동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 사직로 105 1층",
+      "mapx": "1269705376",
+      "mapy": "375762516"
     },
     {
       "title": "통의동 국빈관 경복궁역점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
       "mapx": "1269738782",
       "mapy": "375766155"
+    },
+    {
+      "title": "안덕",
+      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-53 1층",
+      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
+      "mapx": "1269696346",
+      "mapy": "375815060"
     }
   ]
 }

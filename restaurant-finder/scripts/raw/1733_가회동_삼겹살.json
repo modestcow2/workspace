@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375782908"
     },
     {
-      "title": "담솥 안국역점",
-      "link": "http://damsot.com/store/view.html?skey=%BE%C8%B1%B9&cate1=&cate2=&no=50",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 140-23 1층",
-      "roadAddress": "서울특별시 종로구 계동2길 4 1층",
-      "mapx": "1269868085",
-      "mapy": "375798245"
-    },
-    {
       "title": "황칠가 안국점",
       "link": "https://smartstore.naver.com/goodhealingshop",
       "category": "한식>육류,고기요리",
@@ -49,15 +38,26 @@
       "mapy": "375774305"
     },
     {
-      "title": "뭉치바위",
-      "link": "",
-      "category": "한식>쌈밥",
+      "title": "담솥 안국역점",
+      "link": "http://damsot.com/store/view.html?skey=%BE%C8%B1%B9&cate1=&cate2=&no=50",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 원서동 141",
-      "roadAddress": "서울특별시 종로구 창덕궁1길 10",
-      "mapx": "1269887329",
-      "mapy": "375794450"
+      "address": "서울특별시 종로구 계동 140-23 1층",
+      "roadAddress": "서울특별시 종로구 계동2길 4 1층",
+      "mapx": "1269868085",
+      "mapy": "375798245"
+    },
+    {
+      "title": "북촌김치재",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-10",
+      "roadAddress": "서울특별시 종로구 북촌로2길 8",
+      "mapx": "1269861859",
+      "mapy": "375778300"
     }
   ]
 }

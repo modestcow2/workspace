@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:51 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375626099"
     },
     {
-      "title": "청송옥",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 52-1",
-      "roadAddress": "서울특별시 중구 서소문로11길 14",
-      "mapx": "1269730425",
-      "mapy": "375634668"
-    },
-    {
       "title": "금성관 나주곰탕",
       "link": "http://m.smartstore.naver.com/slow_naju",
       "category": "한식>곰탕,설렁탕",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 남대문로 29 청남빌딩",
       "mapx": "1269789044",
       "mapy": "375613997"
+    },
+    {
+      "title": "남파랑<b>국밥</b> 북창점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 11-6 1층",
+      "roadAddress": "서울특별시 중구 세종대로16길 23 1층",
+      "mapx": "1269782549",
+      "mapy": "375633639"
     },
     {
       "title": "온점 을지로점",

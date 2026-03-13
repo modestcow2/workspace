@@ -1,24 +1,13 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:31 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "고트델리 서촌",
-      "link": "https://www.instagram.com/goattdeli",
-      "category": "양식>샌드위치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 100 1층",
-      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
-      "mapx": "1269682499",
-      "mapy": "375799314"
-    },
-    {
       "title": "H라운지",
       "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>브런치",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 통의동 35-21",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
       "mapx": "1269733577",
       "mapy": "375783143"
+    },
+    {
+      "title": "고트델리 서촌",
+      "link": "https://www.instagram.com/goattdeli",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 100 1층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
+      "mapx": "1269682499",
+      "mapy": "375799314"
     },
     {
       "title": "델리노쉬",

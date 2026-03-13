@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:37 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -28,7 +28,7 @@
     },
     {
       "title": "댄싱홍콩 신촌점",
-      "link": "",
+      "link": "https://www.instagram.com/dancing_hongkong.official?igsh=MWVocHRtMmI4bTBlcQ%3D%3D",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375675500"
     },
     {
-      "title": "당가원 홍제점",
-      "link": "",
+      "title": "라이빈",
+      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 266-116 1층",
-      "roadAddress": "서울특별시 서대문구 세무서7길 20 1층",
-      "mapx": "1269459286",
-      "mapy": "375917978"
+      "address": "서울특별시 서대문구 옥천동 15 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
+      "mapx": "1269624726",
+      "mapy": "375696654"
     }
   ]
 }

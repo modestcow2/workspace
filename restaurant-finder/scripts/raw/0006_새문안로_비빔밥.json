@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:01 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375696647"
     },
     {
-      "title": "봉평 옹심이 막국수",
-      "link": "",
-      "category": "한식>국수",
+      "title": "포시즌스 호텔 서울 마루",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 평동 164 2층 ( 164, 적십자 별관)",
-      "roadAddress": "서울특별시 종로구 새문안로 9 2층 (평동 164, 적십자 별관)",
-      "mapx": "1269673144",
-      "mapy": "375669020"
+      "address": "서울특별시 종로구 당주동 30 로비층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 로비층",
+      "mapx": "1269753817",
+      "mapy": "375707185"
     }
   ]
 }

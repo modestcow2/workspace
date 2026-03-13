@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:13 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375713727"
     },
     {
-      "title": "청진동장터순대국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 3-3",
-      "roadAddress": "서울특별시 종로구 종로5길 40",
-      "mapx": "1269804455",
-      "mapy": "375720966"
-    },
-    {
       "title": "소문난집",
       "link": "",
       "category": "한식>국밥",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 수표로 131",
       "mapx": "1269882933",
       "mapy": "375725190"
+    },
+    {
+      "title": "청진동장터순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 3-3",
+      "roadAddress": "서울특별시 종로구 종로5길 40",
+      "mapx": "1269804455",
+      "mapy": "375720966"
     }
   ]
 }

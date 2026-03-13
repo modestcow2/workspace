@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:30 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375559008"
     },
     {
-      "title": "여우골초밥 신촌점",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 62-11",
-      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
-      "mapx": "1269349900",
-      "mapy": "375564975"
-    },
-    {
       "title": "가마마루이라멘",
       "link": "",
       "category": "음식점>일식>일본식라면",
@@ -49,15 +38,26 @@
       "mapy": "375603703"
     },
     {
-      "title": "치히로 신촌점",
-      "link": "https://chihiro.co.kr/",
+      "title": "나베야 남가좌명지대점",
+      "link": "https://www.instagram.com/nabeya_myongji",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 52-157 B동 1~2층",
-      "roadAddress": "서울특별시 서대문구 연세로11길 25 B동 1~2층",
-      "mapx": "1269354685",
-      "mapy": "375588898"
+      "address": "서울특별시 서대문구 남가좌동 388 상가동 B307호",
+      "roadAddress": "서울특별시 서대문구 증가로 150 상가동 B307호",
+      "mapx": "1269218119",
+      "mapy": "375782188"
+    },
+    {
+      "title": "여우골초밥 신촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-11",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
+      "mapx": "1269349900",
+      "mapy": "375564975"
     }
   ]
 }

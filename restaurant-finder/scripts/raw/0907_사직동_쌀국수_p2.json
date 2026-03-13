@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375786417"
     },
     {
+      "title": "벳남미식 경희궁직영점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-48 2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 7 2층",
+      "mapx": "1269709645",
+      "mapy": "375728814"
+    },
+    {
       "title": "정미소 <b>쌀국수</b>",
       "link": "",
       "category": "음식점>베트남음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로3길 12 1층 까몬 광화문점",
       "mapx": "1269729932",
       "mapy": "375713640"
-    },
-    {
-      "title": "미소<b>쌀국수</b> 광화문점",
-      "link": "https://youtube.com/misopho23",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 160 지하1층 26, 27, 30, 31호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 13 지하1층 26, 27, 30, 31호",
-      "mapx": "1269744029",
-      "mapy": "375714009"
     }
   ]
 }

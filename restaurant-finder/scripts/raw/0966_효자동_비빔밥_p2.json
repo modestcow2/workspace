@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:20 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375814609"
     },
     {
-      "title": "독도16도",
-      "link": "https://app.catchtable.co.kr/ct/shop/dokdo.16.celsius",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 56-1 3층",
-      "roadAddress": "서울특별시 종로구 필운대로5가길 2 3층",
-      "mapx": "1269685771",
-      "mapy": "375794702"
-    },
-    {
       "title": "밥+",
       "link": "https://www.instagram.com/seochon_bob_plus",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 옥인길 9",
       "mapx": "1269680075",
       "mapy": "375804706"
+    },
+    {
+      "title": "독도16도",
+      "link": "https://app.catchtable.co.kr/ct/shop/dokdo.16.celsius",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 56-1 3층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 2 3층",
+      "mapx": "1269685771",
+      "mapy": "375794702"
     }
   ]
 }

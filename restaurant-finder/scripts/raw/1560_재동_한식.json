@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:47 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375794197"
     },
     {
+      "title": "율동칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 9 2층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
+      "mapx": "1269846160",
+      "mapy": "375794433"
+    },
+    {
       "title": "안국약방",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 4 1층",
       "mapx": "1269861688",
       "mapy": "375773871"
-    },
-    {
-      "title": "온미관 안국",
-      "link": "https://www.instagram.com/onmigwananguk/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
-      "mapx": "1269861071",
-      "mapy": "375780371"
     }
   ]
 }

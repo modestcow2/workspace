@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:06 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375579182"
     },
     {
-      "title": "동대문엽기떡볶이 남대문점",
-      "link": "https://blog.naver.com/ddm_yupdduk",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로4가 17-4 2층 엽기떡볶이",
-      "roadAddress": "서울특별시 중구 세종대로 62 2층 엽기떡볶이",
-      "mapx": "1269764527",
-      "mapy": "375617228"
-    },
-    {
       "title": "보승회관 시청점",
       "link": "https://www.boseunghall.com/",
       "category": "음식점>한식>국밥",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로 66",
       "mapx": "1269765651",
       "mapy": "375621823"
+    },
+    {
+      "title": "동대문엽기떡볶이 남대문점",
+      "link": "https://blog.naver.com/ddm_yupdduk",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-4 2층 엽기떡볶이",
+      "roadAddress": "서울특별시 중구 세종대로 62 2층 엽기떡볶이",
+      "mapx": "1269764527",
+      "mapy": "375617228"
     },
     {
       "title": "왕십리<b>순대</b>국",

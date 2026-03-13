@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:16 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375806957"
     },
     {
-      "title": "허니<b>떡볶이</b>",
-      "link": "https://blog.naver.com/honeybokki",
-      "category": "분식>떡볶이",
+      "title": "청담동 마녀김밥 광화문점",
+      "link": "",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
-      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
-      "mapx": "1269762132",
-      "mapy": "375705250"
+      "address": "서울특별시 종로구 세종로 204-1",
+      "roadAddress": "서울특별시 종로구 새문안로 105",
+      "mapx": "1269762542",
+      "mapy": "375704544"
     },
     {
       "title": "교남김밥",
@@ -49,15 +49,15 @@
       "mapy": "375683803"
     },
     {
-      "title": "만나분식",
-      "link": "https://smartstore.naver.com/mannabunsik",
-      "category": "분식>종합분식",
+      "title": "허니<b>떡볶이</b>",
+      "link": "https://blog.naver.com/honeybokki",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
-      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
-      "mapx": "1269691188",
-      "mapy": "375773610"
+      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
+      "mapx": "1269762132",
+      "mapy": "375705250"
     }
   ]
 }

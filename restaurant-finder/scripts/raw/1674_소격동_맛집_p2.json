@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:38 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375845273"
     },
     {
-      "title": "스낵서울",
-      "link": "https://www.instagram.com/snackseoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 80-6 2층",
-      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
-      "mapx": "1269816137",
-      "mapy": "375837662"
-    },
-    {
       "title": "황생가칼국수",
       "link": "http://황생가칼국수.com",
       "category": "한식>칼국수,만두",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 78",
       "mapx": "1269806900",
       "mapy": "375801317"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
     }
   ]
 }

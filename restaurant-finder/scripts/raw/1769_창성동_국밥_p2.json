@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:19 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375744663"
     },
     {
-      "title": "아이노가든키친",
-      "link": "",
+      "title": "곰작소 스타필드애비뉴 그랑서울점",
+      "link": "https://blog.naver.com/gomjakso-",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-9 2층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
-      "mapx": "1269712704",
-      "mapy": "375728324"
+      "address": "서울특별시 종로구 청진동 70 스타필드 그랑서울 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 33 스타필드 그랑서울 지하1층",
+      "mapx": "1269814392",
+      "mapy": "375709600"
     },
     {
-      "title": "광화문정육",
+      "title": "관북",
       "link": "",
-      "category": "한식>육류,고기요리",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
+      "address": "서울특별시 종로구 청진동 11-6 1,2층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
+      "mapx": "1269808546",
+      "mapy": "375719170"
     }
   ]
 }

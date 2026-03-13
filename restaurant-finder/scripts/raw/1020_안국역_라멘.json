@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:44 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375724459"
     },
     {
-      "title": "카나르",
-      "link": "https://www.instagram.com/canard_ramen",
-      "category": "음식점>일식>일본식라면",
+      "title": "산들바람 : 소요카제",
+      "link": "https://www.instagram.com/soyokaze_seoul",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 58-1 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로11가길 65 1층",
-      "mapx": "1269902963",
-      "mapy": "375755367"
+      "address": "서울특별시 종로구 관훈동 144 2층 소요카제",
+      "roadAddress": "서울특별시 종로구 인사동길 59 2층 소요카제",
+      "mapx": "1269834025",
+      "mapy": "375751516"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:32 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375880187"
     },
     {
-      "title": "베테카텐",
-      "link": "http://m.cafe.naver.com/vetekatten",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
-      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
-      "mapx": "1269812932",
-      "mapy": "375837523"
-    },
-    {
       "title": "도트블랭킷 삼청한옥점",
       "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
       "category": "음식점>브런치",
@@ -38,15 +27,15 @@
       "mapy": "375800959"
     },
     {
-      "title": "PKM가든 레스토랑",
-      "link": "https://catchtable.co.kr/pkm_restaurant",
-      "category": "음식점>양식",
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
-      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
-      "mapx": "1269801406",
-      "mapy": "375841122"
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
     },
     {
       "title": "이태리재",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로1길 74-9",
       "mapx": "1269817287",
       "mapy": "375787922"
+    },
+    {
+      "title": "만가타",
+      "link": "https://m.booking.naver.com/booking/6/bizes/289593",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 88-17",
+      "roadAddress": "서울특별시 종로구 삼청로2길 40-5",
+      "mapx": "1269809666",
+      "mapy": "375801885"
     }
   ]
 }

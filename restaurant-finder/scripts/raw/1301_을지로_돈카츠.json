@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:51 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "진작",
-      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 46-27 1층",
-      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
-      "mapx": "1269908216",
-      "mapy": "375640300"
-    },
     {
       "title": "원조남산왕돈까스 명동본점",
       "link": "",
@@ -27,15 +16,15 @@
       "mapy": "375647491"
     },
     {
-      "title": "도우또 <b>을지로</b>",
-      "link": "https://www.instagram.com/dowuddo_euljiro/",
+      "title": "진작",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 인현동1가 60 1층, 2층",
-      "roadAddress": "서울특별시 중구 을지로18길 42 1층, 2층",
-      "mapx": "1269940415",
-      "mapy": "375647071"
+      "address": "서울특별시 중구 저동2가 46-27 1층",
+      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
+      "mapx": "1269908216",
+      "mapy": "375640300"
     },
     {
       "title": "돈독",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 수표로10길 19 . 2층 201호(초동)",
       "mapx": "1269914329",
       "mapy": "375637463"
+    },
+    {
+      "title": "부자돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-15",
+      "roadAddress": "서울특별시 중구 수표로 30",
+      "mapx": "1269903115",
+      "mapy": "375638108"
     },
     {
       "title": "우메돈",

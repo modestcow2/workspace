@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375800959"
     },
     {
-      "title": "신선식탁 광화문G타워점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "땡스오트 안국",
+      "link": "https://www.thanksoat.co.kr/",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 156 1층",
-      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
-      "mapx": "1269810076",
-      "mapy": "375727137"
+      "address": "서울특별시 종로구 재동 36-2 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-10 1층",
+      "mapx": "1269846561",
+      "mapy": "375787585"
     }
   ]
 }

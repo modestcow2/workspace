@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:15 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375682023"
     },
     {
-      "title": "카츠왕 <b>시청</b>역점",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-12 1층 102호",
-      "roadAddress": "서울특별시 중구 세종대로11길 30 1층 102호",
-      "mapx": "1269742731",
-      "mapy": "375622864"
-    },
-    {
       "title": "<b>시청</b>광장돈까스",
       "link": "",
       "category": "음식점>일식>돈가스",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 을지로 12 시청광장 지하 쇼핑센터 526호",
       "mapx": "1269783313",
       "mapy": "375655659"
+    },
+    {
+      "title": "카츠왕 <b>시청</b>역점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-12 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 1층 102호",
+      "mapx": "1269742731",
+      "mapy": "375622864"
     },
     {
       "title": "라밥 <b>시청</b>점",
@@ -49,15 +49,15 @@
       "mapy": "375629403"
     },
     {
-      "title": "진심왕돈까스 부천<b>시청</b>점",
-      "link": "https://www.instagram.com/jinsimcutlet_official/",
-      "category": "음식점>일식>돈가스",
+      "title": "카페나하 서울<b>시청</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1158-2 104호~107호",
-      "roadAddress": "경기도 부천시 원미구 석천로184번길 16 104호~107호",
-      "mapx": "1267636357",
-      "mapy": "375035508"
+      "address": "서울특별시 중구 북창동 92 2층",
+      "roadAddress": "서울특별시 중구 세종대로14길 34 2층",
+      "mapx": "1269786631",
+      "mapy": "375627312"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:17 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "동영숯불갈비",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 행촌동 209-76",
-      "roadAddress": "서울특별시 종로구 통일로12길 6",
-      "mapx": "1269599730",
-      "mapy": "375731338"
-    },
     {
       "title": "덕송숯불갈비",
       "link": "",
@@ -27,15 +16,15 @@
       "mapy": "375749329"
     },
     {
-      "title": "영천생고기",
+      "title": "동영숯불갈비",
       "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 무악동 45-75",
-      "roadAddress": "서울특별시 종로구 통일로14길 10",
-      "mapx": "1269580712",
-      "mapy": "375750576"
+      "address": "서울특별시 종로구 행촌동 209-76",
+      "roadAddress": "서울특별시 종로구 통일로12길 6",
+      "mapx": "1269599730",
+      "mapy": "375731338"
     },
     {
       "title": "농장축산",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 통일로 153-1",
       "mapx": "1269645220",
       "mapy": "375677311"
+    },
+    {
+      "title": "명지식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 냉천동 39 1층 명지식당",
+      "roadAddress": "서울특별시 서대문구 독립문로14길 6 1층 명지식당",
+      "mapx": "1269637410",
+      "mapy": "375670500"
     }
   ]
 }

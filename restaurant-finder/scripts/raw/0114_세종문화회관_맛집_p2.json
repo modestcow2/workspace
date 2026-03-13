@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:53 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375728814"
     },
     {
-      "title": "타마린드 디타워점",
-      "link": "https://catchtable.co.kr/tamarinddt",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
-    },
-    {
       "title": "정백어가 광화문 피맛골본점",
       "link": "",
       "category": "한식>생선구이",
@@ -38,26 +27,37 @@
       "mapy": "375708344"
     },
     {
-      "title": "고씨네동해막국수 종로직영점",
-      "link": "https://blog.naver.com/hjwm0116",
-      "category": "한식>막국수",
+      "title": "타마린드 디타워점",
+      "link": "https://catchtable.co.kr/tamarinddt",
+      "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 68 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
-      "mapx": "1269846887",
-      "mapy": "375744624"
-    },
-    {
-      "title": "광화문석갈비 D타워점",
-      "link": "https://www.lumi.co.kr/",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
       "mapx": "1269789694",
       "mapy": "375710184"
+    },
+    {
+      "title": "일품 광화문점",
+      "link": "https://www.instagram.com/ilpum0200",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     }
   ]
 }

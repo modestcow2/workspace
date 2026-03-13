@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:21 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "아이노가든키친",
+      "title": "관북",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-9 2층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
-      "mapx": "1269712704",
-      "mapy": "375728324"
+      "address": "서울특별시 종로구 청진동 11-6 1,2층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
+      "mapx": "1269808546",
+      "mapy": "375719170"
     }
   ]
 }

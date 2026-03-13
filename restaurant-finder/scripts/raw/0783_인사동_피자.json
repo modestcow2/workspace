@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:56 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375747420"
     },
     {
-      "title": "애슐리퀸즈 종각역점",
-      "link": "https://www.instagram.com/your_ashley",
-      "category": "음식점>패밀리레스토랑",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
-      "mapx": "1269836843",
-      "mapy": "375705758"
-    },
-    {
       "title": "옥수동화덕<b>피자</b> 종각",
       "link": "https://www.instagram.com/oxoosourdoughpizza",
       "category": "음식점>피자",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 종로12길 14 7층 옥수동화덕피자 종각",
       "mapx": "1269855994",
       "mapy": "375694449"
+    },
+    {
+      "title": "애슐리퀸즈 종각역점",
+      "link": "https://www.instagram.com/your_ashley",
+      "category": "음식점>패밀리레스토랑",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
+      "mapx": "1269836843",
+      "mapy": "375705758"
     },
     {
       "title": "브로스",

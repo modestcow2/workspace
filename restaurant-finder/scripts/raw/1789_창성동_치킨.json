@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375746043"
     },
     {
-      "title": "금성슈퍼 광화문본점",
-      "link": "",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 7-5 금성슈퍼 광화문본점 1F",
-      "roadAddress": "서울특별시 종로구 새문안로9길 9 금성슈퍼 광화문본점 1F",
-      "mapx": "1269759933",
-      "mapy": "375706901"
-    },
-    {
       "title": "경성<b>치킨</b> 본점",
       "link": "https://gyeongseongchiken.co.kr",
       "category": "음식점>치킨,닭강정",
@@ -38,15 +27,15 @@
       "mapy": "375752174"
     },
     {
-      "title": "미락<b>치킨</b> 경복궁본점",
-      "link": "https://www.instagram.com/explore/tags/미락치킨/",
-      "category": "음식점>치킨,닭강정",
+      "title": "금성슈퍼 광화문본점",
+      "link": "",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 39-2",
-      "roadAddress": "서울특별시 종로구 자하문로 17-1",
-      "mapx": "1269719338",
-      "mapy": "375776453"
+      "address": "서울특별시 종로구 신문로1가 7-5 금성슈퍼 광화문본점 1F",
+      "roadAddress": "서울특별시 종로구 새문안로9길 9 금성슈퍼 광화문본점 1F",
+      "mapx": "1269759933",
+      "mapy": "375706901"
     },
     {
       "title": "거성호프",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5가길 3-7 거성호프",
       "mapx": "1269739671",
       "mapy": "375722869"
+    },
+    {
+      "title": "미락<b>치킨</b> 경복궁본점",
+      "link": "https://www.instagram.com/explore/tags/미락치킨/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 39-2",
+      "roadAddress": "서울특별시 종로구 자하문로 17-1",
+      "mapx": "1269719338",
+      "mapy": "375776453"
     }
   ]
 }

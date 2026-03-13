@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:53 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375687024"
     },
     {
-      "title": "만나분식",
-      "link": "https://smartstore.naver.com/mannabunsik",
-      "category": "분식>종합분식",
+      "title": "신의주찹쌀<b>순대</b>광화문점",
+      "link": "",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
-      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
-      "mapx": "1269691188",
-      "mapy": "375773610"
+      "address": "서울특별시 종로구 내수동 73",
+      "roadAddress": "서울특별시 종로구 새문안로3길 23",
+      "mapx": "1269725355",
+      "mapy": "375726765"
     }
   ]
 }

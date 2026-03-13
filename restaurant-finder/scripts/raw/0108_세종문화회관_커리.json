@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:49 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375797533"
     },
     {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
-    },
-    {
       "title": "시카노이에",
       "link": "",
       "category": "음식점>일식>일식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
       "mapx": "1269692608",
       "mapy": "375725079"
+    },
+    {
+      "title": "옐로 드래곤 <b>커리</b> 종묘 서순라길 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yellowdragoncurry",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 봉익동 12-14 옐로 드래곤 커리",
+      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 옐로 드래곤 커리",
+      "mapx": "1269926638",
+      "mapy": "375731094"
     },
     {
       "title": "두르가 광화문점",

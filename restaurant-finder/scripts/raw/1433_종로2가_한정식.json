@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:50 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375707034"
     },
     {
-      "title": "일품진진수라 광화문점",
-      "link": "http://www.jinjinsura.com",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
-      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
-      "mapx": "1269805216",
-      "mapy": "375706504"
-    },
-    {
       "title": "명동정",
       "link": "http://www.hanjeongsik.co.kr",
       "category": "한식>한정식",
@@ -49,15 +38,26 @@
       "mapy": "375613152"
     },
     {
-      "title": "아리연",
-      "link": "https://www.instagram.com/ariyeon_official/",
+      "title": "일품진진수라 광화문점",
+      "link": "http://www.jinjinsura.com",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로4가 17-19 해남2빌딩, 지하1층",
-      "roadAddress": "서울특별시 중구 세종대로12길 12 해남2빌딩, 지하1층",
-      "mapx": "1269768063",
-      "mapy": "375617253"
+      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
+      "mapx": "1269805216",
+      "mapy": "375706504"
+    },
+    {
+      "title": "어부몽 인사점",
+      "link": "https://www.instagram.com/abumong.2024",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
     }
   ]
 }

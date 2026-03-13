@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:10:11 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375747887"
     },
     {
-      "title": "꼬소한부뚜막 광화문광장점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 도렴동 150-1 1층",
-      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
-      "mapx": "1269756633",
-      "mapy": "375715135"
-    },
-    {
       "title": "신세계떡볶이",
       "link": "",
       "category": "분식>떡볶이",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 명동9길 10",
       "mapx": "1269850160",
       "mapy": "375642992"
+    },
+    {
+      "title": "꼬소한부뚜막 광화문광장점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 150-1 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
+      "mapx": "1269756633",
+      "mapy": "375715135"
     },
     {
       "title": "만나<b>분식</b>",

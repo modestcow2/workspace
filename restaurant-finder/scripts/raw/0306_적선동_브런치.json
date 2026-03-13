@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:22 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,28 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 20 1층",
       "mapx": "1269738491",
       "mapy": "375764121"
-    },
-    {
-      "title": "더샌드위치",
-      "link": "",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
-      "mapx": "1269693501",
-      "mapy": "375748927"
-    },
-    {
-      "title": "슬로우캘리 경복궁점",
-      "link": "http://www.slowcali.co.kr",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 122-1 한국생산성본부 B1층",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 32 한국생산성본부 B1층",
-      "mapx": "1269735672",
-      "mapy": "375749172"
     },
     {
       "title": "로파이 샌드위치 디저트 카페",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
       "mapx": "1269721868",
       "mapy": "375662530"
+    },
+    {
+      "title": "레스피레베이커리 서촌",
+      "link": "https://instagram.com/___respirer",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
+    },
+    {
+      "title": "도트블랭킷 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
+      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
+      "mapx": "1269840927",
+      "mapy": "375770264"
     }
   ]
 }

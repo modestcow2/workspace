@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:59 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375668620"
     },
     {
-      "title": "바스버거 서소문<b>시청역</b>점",
-      "link": "https://www.basburger.net/",
-      "category": "양식>햄버거",
+      "title": "다운타우너 광화문",
+      "link": "http://downtowner.co.kr/info",
+      "category": "음식점>양식>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-28",
-      "roadAddress": "서울특별시 중구 세종대로11길 33",
-      "mapx": "1269741569",
-      "mapy": "375620973"
+      "address": "서울특별시 중구 태평로1가 84 SFC몰 B1층 다운타우너 광화문",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFC몰 B1층 다운타우너 광화문",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:00 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375787996"
     },
     {
-      "title": "정류장",
-      "link": "",
-      "category": "음식점>일식>우동,소바",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 11-1 1층",
-      "roadAddress": "서울특별시 종로구 사직로 115 1층",
-      "mapx": "1269715540",
-      "mapy": "375762389"
-    },
-    {
       "title": "옐로우쿡",
       "link": "http://www.yellowcook.com",
       "category": "음식점>일식>돈가스",
@@ -49,15 +38,26 @@
       "mapy": "375789833"
     },
     {
-      "title": "김밥천국",
+      "title": "우리집",
       "link": "",
-      "category": "분식>종합분식",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 1-3 1층 김밥천국",
-      "roadAddress": "서울특별시 종로구 자하문로 3 1층 김밥천국",
-      "mapx": "1269723453",
-      "mapy": "375764321"
+      "address": "서울특별시 종로구 옥인동 102-7",
+      "roadAddress": "서울특별시 종로구 옥인길 4",
+      "mapx": "1269682800",
+      "mapy": "375806128"
+    },
+    {
+      "title": "정류장",
+      "link": "",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 11-1 1층",
+      "roadAddress": "서울특별시 종로구 사직로 115 1층",
+      "mapx": "1269715540",
+      "mapy": "375762389"
     }
   ]
 }

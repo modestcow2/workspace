@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:45 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "부오상회 <b>을지로</b>점",
+      "link": "https://www.instagram.com/buosanghe_euljiro?igsh=cjdmN21zYW83MTYx",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-11 1층 부오상회 을지로점",
+      "roadAddress": "서울특별시 중구 수표로10길 5-5 1층 부오상회 을지로점",
+      "mapx": "1269906230",
+      "mapy": "375638455"
+    },
     {
       "title": "한식왕비집 <b>을지로</b>점",
       "link": "https://app.catchtable.co.kr/ct/shop/hansikwangbijibeuljirobranch",
@@ -27,37 +38,26 @@
       "mapy": "375659680"
     },
     {
-      "title": "부오상회 <b>을지로</b>점",
-      "link": "https://www.instagram.com/buosanghe_euljiro?igsh=cjdmN21zYW83MTYx",
+      "title": "너비집",
+      "link": "https://app.catchtable.co.kr/ct/shop/nbj",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 47-11 1층 부오상회 을지로점",
-      "roadAddress": "서울특별시 중구 수표로10길 5-5 1층 부오상회 을지로점",
-      "mapx": "1269906230",
-      "mapy": "375638455"
+      "address": "서울특별시 중구 을지로2가 199-73 너비집",
+      "roadAddress": "서울특별시 중구 명동9길 37-8 너비집",
+      "mapx": "1269837593",
+      "mapy": "375655421"
     },
     {
-      "title": "이조식탁",
-      "link": "",
+      "title": "너애하누",
+      "link": "https://app.catchtable.co.kr/ct/shop/neoaehanu_ULJIRO",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 72-6 2층",
-      "roadAddress": "서울특별시 중구 마른내로 14 2층",
-      "mapx": "1269893997",
-      "mapy": "375646833"
-    },
-    {
-      "title": "화온정숯불닭갈비",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-40 119호 화온정숯불닭갈비",
-      "roadAddress": "서울특별시 중구 명동7길 21 119호 화온정숯불닭갈비",
-      "mapx": "1269839233",
-      "mapy": "375649151"
+      "address": "서울특별시 중구 을지로2가 101-28 2층",
+      "roadAddress": "서울특별시 중구 을지로9길 8 2층",
+      "mapx": "1269885018",
+      "mapy": "375666227"
     }
   ]
 }

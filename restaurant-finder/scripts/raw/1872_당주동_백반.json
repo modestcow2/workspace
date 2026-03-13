@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:10:05 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375764071"
     },
     {
-      "title": "인사동보리밥 본점",
-      "link": "https://smartstore.naver.com/greatsfb",
-      "category": "음식점>한식",
+      "title": "선어도 충정로점",
+      "link": "",
+      "category": "한식>생선회",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-17 지하1층",
-      "roadAddress": "서울특별시 종로구 인사동7길 37 지하1층",
-      "mapx": "1269847327",
-      "mapy": "375725991"
+      "address": "서울특별시 서대문구 충정로3가 360-26 1층",
+      "roadAddress": "서울특별시 서대문구 충정로 18 1층",
+      "mapx": "1269634729",
+      "mapy": "375605788"
     }
   ]
 }

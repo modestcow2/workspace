@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:53 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:07:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375689415"
     },
     {
-      "title": "신동궁감자탕 명동직영점",
+      "title": "청진동장터순대국",
       "link": "",
-      "category": "한식>감자탕",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-18",
-      "roadAddress": "서울특별시 중구 명동9길 43",
-      "mapx": "1269840283",
-      "mapy": "375657027"
+      "address": "서울특별시 종로구 청진동 3-3",
+      "roadAddress": "서울특별시 종로구 종로5길 40",
+      "mapx": "1269804455",
+      "mapy": "375720966"
     }
   ]
 }

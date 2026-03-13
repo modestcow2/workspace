@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:27 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375737601"
     },
     {
-      "title": "옛날순대",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 82 무악현대프라자 1층 옛날순대",
-      "roadAddress": "서울특별시 종로구 통일로 246-10 무악현대프라자 1층 옛날순대",
-      "mapx": "1269590672",
-      "mapy": "375744861"
-    },
-    {
-      "title": "커피가게동경 독립문",
-      "link": "https://smartstore.naver.com/coffeeshopdongkyung",
-      "category": "카페,디저트>카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 46-1746 1층",
-      "roadAddress": "서울특별시 종로구 통일로12길 16-1 1층",
-      "mapx": "1269604067",
-      "mapy": "375735229"
-    },
-    {
       "title": "할리스 <b>독립문역</b>점",
       "link": "http://www.hollys.co.kr/",
       "category": "카페,디저트>카페",
@@ -49,15 +27,37 @@
       "mapy": "375737939"
     },
     {
-      "title": "짱구떡볶이",
+      "title": "옛날순대",
       "link": "",
-      "category": "분식>종합분식",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 무악동 89 1층 22호",
-      "roadAddress": "서울특별시 종로구 통일로 230 1층 22호",
-      "mapx": "1269594558",
-      "mapy": "375734646"
+      "address": "서울특별시 종로구 무악동 82 무악현대프라자 1층 옛날순대",
+      "roadAddress": "서울특별시 종로구 통일로 246-10 무악현대프라자 1층 옛날순대",
+      "mapx": "1269590672",
+      "mapy": "375744861"
+    },
+    {
+      "title": "고쿤스시",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 제지1층 121호",
+      "roadAddress": "서울특별시 종로구 통일로 230 제지1층 121호",
+      "mapx": "1269592729",
+      "mapy": "375736317"
+    },
+    {
+      "title": "커피가게동경 독립문",
+      "link": "https://smartstore.naver.com/coffeeshopdongkyung",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 46-1746 1층",
+      "roadAddress": "서울특별시 종로구 통일로12길 16-1 1층",
+      "mapx": "1269604067",
+      "mapy": "375735229"
     }
   ]
 }

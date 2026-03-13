@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:59 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375666400"
     },
     {
-      "title": "그라츠과자점",
-      "link": "http://www.graz.co.kr/",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 149-10 을지로지하쇼핑센터2구역 374",
-      "roadAddress": "서울특별시 중구 을지로 88 을지로지하쇼핑센터2구역 374",
-      "mapx": "1269868693",
-      "mapy": "375661527"
-    },
-    {
       "title": "살라아띠 두타점",
       "link": "https://www.instagram.com/salaatti_",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로5길 16 삼화타워",
       "mapx": "1269846906",
       "mapy": "375670014"
+    },
+    {
+      "title": "그라츠과자점",
+      "link": "http://www.graz.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 149-10 을지로지하쇼핑센터2구역 374",
+      "roadAddress": "서울특별시 중구 을지로 88 을지로지하쇼핑센터2구역 374",
+      "mapx": "1269868693",
+      "mapy": "375661527"
     }
   ]
 }

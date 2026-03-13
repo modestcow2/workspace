@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:06 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375746798"
     },
     {
-      "title": "홈코리안퀴진",
-      "link": "https://www.instagram.com/home.korean.cuisine/",
+      "title": "늘솜",
+      "link": "https://www.instagram.com/_neulsom_official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사간동 60 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 22-9 1층",
-      "mapx": "1269802214",
-      "mapy": "375778524"
+      "address": "서울특별시 종로구 적선동 80",
+      "roadAddress": "서울특별시 종로구 사직로 130",
+      "mapx": "1269733437",
+      "mapy": "375753767"
     }
   ]
 }

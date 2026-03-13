@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:44 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375786629"
     },
     {
+      "title": "푸페또클럽",
+      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 98-6",
+      "roadAddress": "서울특별시 종로구 자하문로 50-1",
+      "mapx": "1269714513",
+      "mapy": "375805566"
+    },
+    {
+      "title": "마음을담아내면 점심",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
+      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
+      "mapx": "1269821145",
+      "mapy": "375791937"
+    },
+    {
       "title": "아델라베일리",
       "link": "https://blog.naver.com/kiyna",
       "category": "음식점>이탈리아음식",
@@ -27,37 +49,15 @@
       "mapy": "375952438"
     },
     {
-      "title": "슬로우파크",
-      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
-      "category": "음식점>이탈리아음식",
+      "title": "심퍼티쿠시 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
-    },
-    {
-      "title": "까델루뽀",
-      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 39-1",
-      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
-      "mapx": "1269714259",
-      "mapy": "375818165"
-    },
-    {
-      "title": "베테카텐",
-      "link": "http://m.cafe.naver.com/vetekatten",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
-      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
-      "mapx": "1269812932",
-      "mapy": "375837523"
+      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
+      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
+      "mapx": "1269805312",
+      "mapy": "375755019"
     }
   ]
 }

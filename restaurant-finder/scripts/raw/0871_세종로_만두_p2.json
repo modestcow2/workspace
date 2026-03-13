@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:35 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375625491"
     },
     {
-      "title": "깡통<b>만두</b>",
-      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-22 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
-      "mapx": "1269860918",
-      "mapy": "375781763"
-    },
-    {
       "title": "황생가칼국수",
       "link": "http://황생가칼국수.com",
       "category": "한식>칼국수,만두",
@@ -38,15 +27,15 @@
       "mapy": "375801317"
     },
     {
-      "title": "잘빠진메밀 서촌 본점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "title": "깡통<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 120",
-      "roadAddress": "서울특별시 종로구 자하문로11길 4",
-      "mapx": "1269709994",
-      "mapy": "375796715"
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
     },
     {
       "title": "자하손<b>만두</b>",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 백석동길 12",
       "mapx": "1269660928",
       "mapy": "375932163"
+    },
+    {
+      "title": "잘빠진메밀 서촌 본점",
+      "link": "https://smartstore.naver.com/jalppajin-mill",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 120",
+      "roadAddress": "서울특별시 종로구 자하문로11길 4",
+      "mapx": "1269709994",
+      "mapy": "375796715"
     }
   ]
 }

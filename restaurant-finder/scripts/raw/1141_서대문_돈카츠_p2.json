@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:39 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375586888"
     },
     {
-      "title": "시오 연희동본점",
+      "title": "곰소바 돈까스",
       "link": "",
-      "category": "음식점>일식>일식당",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 190-4 1층",
-      "roadAddress": "서울특별시 서대문구 연희로11가길 23 1층",
-      "mapx": "1269286886",
-      "mapy": "375672105"
+      "address": "서울특별시 서대문구 충정로2가 102-2 인창빌딩 1층 곰소바",
+      "roadAddress": "서울특별시 서대문구 경기대로 64 인창빌딩 1층 곰소바",
+      "mapx": "1269640900",
+      "mapy": "375645340"
     },
     {
       "title": "소오",
@@ -49,15 +49,15 @@
       "mapy": "375590868"
     },
     {
-      "title": "나베야 남가좌명지대점",
-      "link": "https://www.instagram.com/nabeya_myongji",
+      "title": "시오 연희동본점",
+      "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 388 상가동 B307호",
-      "roadAddress": "서울특별시 서대문구 증가로 150 상가동 B307호",
-      "mapx": "1269218119",
-      "mapy": "375782188"
+      "address": "서울특별시 서대문구 연희동 190-4 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 23 1층",
+      "mapx": "1269286886",
+      "mapy": "375672105"
     }
   ]
 }

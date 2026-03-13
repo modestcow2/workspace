@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:33 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 지하1층 B106-2, B106-3호",
       "mapx": "1269798606",
       "mapy": "375708344"
+    },
+    {
+      "title": "명동정",
+      "link": "http://www.hanjeongsik.co.kr",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 60-3 이화빌딩 1층",
+      "roadAddress": "서울특별시 중구 삼일대로 299 이화빌딩 1층",
+      "mapx": "1269883506",
+      "mapy": "375613152"
     },
     {
       "title": "한암동 정동점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
       "mapx": "1269720468",
       "mapy": "375687024"
-    },
-    {
-      "title": "명동정",
-      "link": "http://www.hanjeongsik.co.kr",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로2가 60-3 이화빌딩 1층",
-      "roadAddress": "서울특별시 중구 삼일대로 299 이화빌딩 1층",
-      "mapx": "1269883506",
-      "mapy": "375613152"
     }
   ]
 }

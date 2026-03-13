@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375725079"
     },
     {
-      "title": "서촌 금상고로케",
-      "link": "https://www.instagram.com/seochonkumsang",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 74",
-      "roadAddress": "서울특별시 종로구 자하문로9길 24",
-      "mapx": "1269697116",
-      "mapy": "375795180"
-    },
-    {
       "title": "두르가 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/durga",
       "category": "음식점>인도음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
       "mapx": "1269797390",
       "mapy": "375705681"
+    },
+    {
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

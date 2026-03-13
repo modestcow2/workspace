@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:11 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375788712"
     },
     {
-      "title": "갓잇 안국점",
-      "link": "https://app.catchtable.co.kr/ct/shop/godeat_anguk",
-      "category": "음식점>멕시코,남미음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-30 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-5 1층",
-      "mapx": "1269859643",
-      "mapy": "375781671"
-    },
-    {
       "title": "다운타우너 안국",
       "link": "http://downtowner.co.kr/",
       "category": "음식점>양식>햄버거",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 6-4 1층",
       "mapx": "1269862902",
       "mapy": "375774450"
+    },
+    {
+      "title": "갓잇 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/godeat_anguk",
+      "category": "음식점>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-30 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-5 1층",
+      "mapx": "1269859643",
+      "mapy": "375781671"
     },
     {
       "title": "플롭 안국",

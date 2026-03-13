@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:39 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375741979"
     },
     {
-      "title": "플롭 안국",
-      "link": "https://www.instagram.com/plop_pizza",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-20",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5",
-      "mapx": "1269860684",
-      "mapy": "375779283"
-    },
-    {
       "title": "계동<b>피자</b>",
       "link": "https://youtube.com/@kindk7985",
       "category": "음식점>피자",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
       "mapx": "1269866587",
       "mapy": "375801802"
+    },
+    {
+      "title": "옥수동화덕<b>피자</b> 종각",
+      "link": "https://www.instagram.com/oxoosourdoughpizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-1 7층 옥수동화덕피자 종각",
+      "roadAddress": "서울특별시 종로구 종로12길 14 7층 옥수동화덕피자 종각",
+      "mapx": "1269855994",
+      "mapy": "375694449"
     }
   ]
 }

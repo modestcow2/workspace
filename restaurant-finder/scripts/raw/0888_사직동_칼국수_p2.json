@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:43 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375771878"
     },
     {
-      "title": "광화문고기집",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 4 1층 광화문고기집",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 11 1층 광화문고기집",
-      "mapx": "1269737952",
-      "mapy": "375730330"
-    },
-    {
       "title": "바다한가득 광화문점",
       "link": "",
       "category": "한식>조개요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로9길 29 2층,3층",
       "mapx": "1269754598",
       "mapy": "375714726"
+    },
+    {
+      "title": "경복궁식당",
+      "link": "https://www.minarikorea.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 211 지하1층",
+      "roadAddress": "서울특별시 종로구 사직로 101 지하1층",
+      "mapx": "1269701158",
+      "mapy": "375762596"
     }
   ]
 }

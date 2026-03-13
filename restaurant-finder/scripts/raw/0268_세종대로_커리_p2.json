@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:05 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375578385"
     },
     {
-      "title": "띤띤 SFC",
-      "link": "https://www.instagram.com/tamarind_official/",
-      "category": "음식점>베트남음식",
+      "title": "강가 무교점",
+      "link": "https://blog.naver.com/ganga1004",
+      "category": "음식점>인도음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 SFCMALL B2",
-      "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
-      "mapx": "1269782820",
-      "mapy": "375684612"
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하2층",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하2층",
+      "mapx": "1269778023",
+      "mapy": "375684147"
     }
   ]
 }

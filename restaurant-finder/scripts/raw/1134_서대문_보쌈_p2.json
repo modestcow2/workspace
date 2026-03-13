@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:36 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375653260"
     },
     {
-      "title": "해탄 신촌점",
-      "link": "https://youtube.com/shorts/sArmvG7HyAU",
-      "category": "음식점>한식",
+      "title": "사조미가",
+      "link": "http://www.sajomiga.co.kr/",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-42 지상1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 30 지상1층",
-      "mapx": "1269384894",
-      "mapy": "375575558"
+      "address": "서울특별시 서대문구 충정로2가 157 사조빌딩 2층",
+      "roadAddress": "서울특별시 서대문구 통일로 107-39 사조빌딩 2층",
+      "mapx": "1269665726",
+      "mapy": "375644100"
     }
   ]
 }

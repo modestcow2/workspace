@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:53 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375727720"
     },
     {
-      "title": "VIP참치 종로구청점",
-      "link": "https://smartstore.naver.com/viptuna_ko",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 156 신라스테이 광화문점 B1층",
-      "roadAddress": "서울특별시 종로구 삼봉로 71 신라스테이 광화문점 B1층",
-      "mapx": "1269808442",
-      "mapy": "375725008"
-    },
-    {
       "title": "만도리 신라스테이 광화문",
       "link": "https://www.mandori.co.kr/",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 74 1층, 2층",
       "mapx": "1269805779",
       "mapy": "375726960"
+    },
+    {
+      "title": "VIP참치 종로구청점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 156 신라스테이 광화문점 B1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 신라스테이 광화문점 B1층",
+      "mapx": "1269808442",
+      "mapy": "375725008"
     }
   ]
 }

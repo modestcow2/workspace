@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:57 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375873030"
     },
     {
-      "title": "바운드리스바이비어드",
-      "link": "",
-      "category": "음식점>이탈리아음식",
+      "title": "스미스가 좋아하는 테라스",
+      "link": "https://www.instagram.com/smith_terrace_official",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 화동 137-1 바운드리스",
-      "roadAddress": "서울특별시 종로구 율곡로3길 74-9 바운드리스",
-      "mapx": "1269826588",
-      "mapy": "375790352"
+      "address": "서울특별시 종로구 삼청동 11 1st Floor",
+      "roadAddress": "서울특별시 종로구 삼청로 135-3 1st Floor",
+      "mapx": "1269814009",
+      "mapy": "375876362"
     }
   ]
 }

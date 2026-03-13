@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:06 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375658847"
     },
     {
-      "title": "오공일 <b>명동</b>점",
+      "title": "오는정쪽<b>갈비</b> 본점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 2층",
-      "roadAddress": "서울특별시 중구 남대문로 55 2층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
+      "address": "서울특별시 중구 다동 138 오는정본점",
+      "roadAddress": "서울특별시 중구 을지로3길 29 오는정본점",
+      "mapx": "1269813695",
+      "mapy": "375673512"
     }
   ]
 }

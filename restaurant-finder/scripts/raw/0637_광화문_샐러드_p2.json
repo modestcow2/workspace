@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:50 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375770264"
     },
     {
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
+    },
+    {
       "title": "소금집델리 안국",
       "link": "https://www.salthousekorea.com",
       "category": "양식>샌드위치",
@@ -27,31 +38,20 @@
       "mapy": "375794136"
     },
     {
-      "title": "고트델리 서촌",
-      "link": "https://www.instagram.com/goattdeli",
-      "category": "양식>샌드위치",
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 100 1층",
-      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
-      "mapx": "1269682499",
-      "mapy": "375799314"
-    },
-    {
-      "title": "신선식탁 <b>광화문</b>G타워점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 156 1층",
-      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
-      "mapx": "1269810076",
-      "mapy": "375727137"
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
     },
     {
       "title": "H라운지",
       "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>브런치",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 통의동 35-21",

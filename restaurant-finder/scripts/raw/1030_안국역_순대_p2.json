@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:49 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "다반 안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/daban_anguk",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 운니동 98-5 이노88타워 1층 104호 다반",
-      "roadAddress": "서울특별시 종로구 율곡로 88 이노88타워 1층 104호 다반",
-      "mapx": "1269889420",
-      "mapy": "375768090"
-    },
     {
       "title": "롤라곱창 <b>안국역</b>점",
       "link": "https://www.instagram.com/lolla_gobchang?igsh=cWt6NDJwajBjZ3k1",
@@ -49,15 +38,26 @@
       "mapy": "375780061"
     },
     {
-      "title": "순이네가게",
-      "link": "",
+      "title": "다반 안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/daban_anguk",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 146-2",
-      "roadAddress": "서울특별시 종로구 율곡로 67",
-      "mapx": "1269867152",
-      "mapy": "375773052"
+      "address": "서울특별시 종로구 운니동 98-5 이노88타워 1층 104호 다반",
+      "roadAddress": "서울특별시 종로구 율곡로 88 이노88타워 1층 104호 다반",
+      "mapx": "1269889420",
+      "mapy": "375768090"
+    },
+    {
+      "title": "성가백암<b>순대</b>",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브 1층 성가백암순대",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브 1층 성가백암순대",
+      "mapx": "1269815061",
+      "mapy": "375725618"
     }
   ]
 }

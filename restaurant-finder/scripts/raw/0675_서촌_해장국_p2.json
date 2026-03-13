@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:07 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 사직로9가길 8",
       "mapx": "1269690851",
       "mapy": "375766782"
-    },
-    {
-      "title": "체부동잔치집 별관",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 12",
-      "roadAddress": "서울특별시 종로구 사직로 115-3",
-      "mapx": "1269716673",
-      "mapy": "375762475"
     },
     {
       "title": "청하식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
       "mapx": "1269710531",
       "mapy": "375791821"
+    },
+    {
+      "title": "체부동잔치집 별관",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 12",
+      "roadAddress": "서울특별시 종로구 사직로 115-3",
+      "mapx": "1269716673",
+      "mapy": "375762475"
     },
     {
       "title": "이서방네순대국",

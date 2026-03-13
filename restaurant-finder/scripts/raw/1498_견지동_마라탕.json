@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:19 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 우정국로 38-1 2층",
       "mapx": "1269832476",
       "mapy": "375724974"
-    },
-    {
-      "title": "양궈푸<b>마라탕</b> 명동점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 36-3 2층",
-      "roadAddress": "서울특별시 중구 명동9길 15 2층",
-      "mapx": "1269847660",
-      "mapy": "375645620"
     },
     {
       "title": "마라붐 시청점",
@@ -49,15 +38,26 @@
       "mapy": "375695065"
     },
     {
-      "title": "하우<b>마라탕</b> 을지로점",
-      "link": "https://www.instagram.com/hawoo_euljiro",
-      "category": "중식>마라탕",
+      "title": "양궈푸<b>마라탕</b> 명동점",
+      "link": "",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로3가 23-3 2층",
-      "roadAddress": "서울특별시 중구 퇴계로27길 42 2층",
-      "mapx": "1269913749",
-      "mapy": "375631812"
+      "address": "서울특별시 중구 명동1가 36-3 2층",
+      "roadAddress": "서울특별시 중구 명동9길 15 2층",
+      "mapx": "1269847660",
+      "mapy": "375645620"
+    },
+    {
+      "title": "용가회전훠궈 명동점",
+      "link": "https://www.instagram.com/loonger_md_myeongdong",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25 2, 3층",
+      "roadAddress": "서울특별시 중구 명동3길 12 2, 3층",
+      "mapx": "1269836250",
+      "mapy": "375642295"
     }
   ]
 }

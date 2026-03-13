@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:01 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375782119"
     },
     {
-      "title": "서촌뜰애우곱창타운",
-      "link": "https://www.instagram.com/sechongopchang?igsh=Mm02YmRhcWNzcnhi",
-      "category": "한식>곱창,막창,양",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 189",
-      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
-      "mapx": "1269716341",
-      "mapy": "375765406"
-    },
-    {
       "title": "애소아소금빵",
       "link": "https://www.instagram.com/esoa.saltbread",
       "category": "카페,디저트>베이커리",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 7 1층",
       "mapx": "1269722400",
       "mapy": "375767339"
+    },
+    {
+      "title": "솔솥 서촌점",
+      "link": "https://youtu.be/WZ2RG7h3GdA?si=fGPFSvl4b6BIswWY",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 30 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 23 1층",
+      "mapx": "1269715199",
+      "mapy": "375780894"
     },
     {
       "title": "코피티암 서촌점",

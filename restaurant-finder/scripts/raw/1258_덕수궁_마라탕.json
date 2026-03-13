@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:32 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375692879"
     },
     {
-      "title": "마라붐 시청점",
-      "link": "https://blog.naver.com/pheby8888/223943998865",
-      "category": "중식>마라탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
-      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
-      "mapx": "1269771292",
-      "mapy": "375635420"
-    },
-    {
       "title": "마라공방 광화문점",
       "link": "http://www.maragongbang.com",
       "category": "중식>마라탕",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로21길 55 2층",
       "mapx": "1269759345",
       "mapy": "375690541"
+    },
+    {
+      "title": "마라붐 시청점",
+      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
+      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
+      "mapx": "1269771292",
+      "mapy": "375635420"
     },
     {
       "title": "마라공방 서대문점",

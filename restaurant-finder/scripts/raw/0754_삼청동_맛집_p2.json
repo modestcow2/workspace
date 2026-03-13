@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:43 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375772153"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
-    {
       "title": "포스톤즈 삼청점",
       "link": "https://smartstore.naver.com/fourstones/",
       "category": "음식점>카페,디저트",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 103-4 삼청동 수제비 옆 골목",
       "mapx": "1269816589",
       "mapy": "375847732"
+    },
+    {
+      "title": "일월카츠 안국점",
+      "link": "https://www.instagram.com/ill_wall_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 132 1층",
+      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
+      "mapx": "1269851501",
+      "mapy": "375773083"
     }
   ]
 }

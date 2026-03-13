@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:35 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375578649"
     },
     {
+      "title": "구이마을",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-6",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 32",
+      "mapx": "1269349009",
+      "mapy": "375573855"
+    },
+    {
       "title": "리정원 연희점",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
       "mapx": "1269393882",
       "mapy": "375591466"
-    },
-    {
-      "title": "돈불1971",
-      "link": "https://blog.naver.com/yunicrom",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 62-37 돈불1971",
-      "roadAddress": "서울특별시 서대문구 연세로5다길 36 돈불1971",
-      "mapx": "1269336212",
-      "mapy": "375569543"
     }
   ]
 }

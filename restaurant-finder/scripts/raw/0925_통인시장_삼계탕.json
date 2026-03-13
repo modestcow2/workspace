@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:00 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375764071"
     },
     {
+      "title": "백년토종<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-3",
+      "roadAddress": "서울특별시 종로구 북촌로 41",
+      "mapx": "1269848048",
+      "mapy": "375806132"
+    },
+    {
       "title": "고려<b>삼계탕</b> 광화문점",
       "link": "http://www.krsamgyetang.com/",
       "category": "한식>백숙,삼계탕",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층 103호, 104호",
       "mapx": "1269731380",
       "mapy": "375737740"
-    },
-    {
-      "title": "장수한방<b>삼계탕</b>",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 160 변호사회관지하상가 11호, 24호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 13 변호사회관지하상가 11호, 24호",
-      "mapx": "1269744568",
-      "mapy": "375714054"
     }
   ]
 }

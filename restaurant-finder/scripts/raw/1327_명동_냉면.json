@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375671396"
     },
     {
-      "title": "서관면옥 신세계백화점 본점",
-      "link": "https://www.instagram.com/seogwanmyenog",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 54 디 에스테이트 14층",
-      "roadAddress": "서울특별시 중구 퇴계로 77 디 에스테이트 14층",
-      "mapx": "1269806346",
-      "mapy": "375603977"
-    },
-    {
       "title": "<b>명동</b>함흥면옥 본점",
       "link": "",
       "category": "한식>냉면",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 명동10길 35-19",
       "mapx": "1269856749",
       "mapy": "375627749"
+    },
+    {
+      "title": "서관면옥 신세계백화점 본점",
+      "link": "https://www.instagram.com/seogwanmyenog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 디 에스테이트 14층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 디 에스테이트 14층",
+      "mapx": "1269806346",
+      "mapy": "375603977"
     },
     {
       "title": "을밀대 무교점",

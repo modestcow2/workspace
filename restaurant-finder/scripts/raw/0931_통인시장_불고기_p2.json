@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375864487"
     },
     {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
-    {
       "title": "우슴 광화문 직영점",
       "link": "https://www.instagram.com/wusm.official",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
       "mapx": "1269730094",
       "mapy": "375717610"
+    },
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
     },
     {
       "title": "일품진진수라 광화문점",
@@ -49,15 +49,15 @@
       "mapy": "375706504"
     },
     {
-      "title": "온미관 안국",
-      "link": "https://www.instagram.com/onmigwananguk/",
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
-      "mapx": "1269861071",
-      "mapy": "375780371"
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:22 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 101-1",
       "mapx": "1269819599",
       "mapy": "375845273"
-    },
-    {
-      "title": "스낵서울",
-      "link": "https://www.instagram.com/snackseoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 80-6 2층",
-      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
-      "mapx": "1269816137",
-      "mapy": "375837662"
     },
     {
       "title": "황생가칼국수",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 54",
       "mapx": "1269820563",
       "mapy": "375797533"
+    },
+    {
+      "title": "스낵서울",
+      "link": "https://www.instagram.com/snackseoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6 2층",
+      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
+      "mapx": "1269816137",
+      "mapy": "375837662"
     },
     {
       "title": "봉탁항아리바비큐 불쭈꾸미 삼청동 본점",

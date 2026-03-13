@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:47 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375698705"
     },
     {
-      "title": "버거킹 <b>종로</b>점",
-      "link": "http://www.burgerking.co.kr/",
-      "category": "양식>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 56-23",
-      "roadAddress": "서울특별시 종로구 종로 94",
-      "mapx": "1269881077",
-      "mapy": "375699586"
-    },
-    {
       "title": "맘스터치 종각역점",
       "link": "https://momstouch.co.kr",
       "category": "양식>햄버거",
@@ -38,8 +27,19 @@
       "mapy": "375699467"
     },
     {
+      "title": "버거킹 <b>종로</b>점",
+      "link": "http://www.burgerking.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-23",
+      "roadAddress": "서울특별시 종로구 종로 94",
+      "mapx": "1269881077",
+      "mapy": "375699586"
+    },
+    {
       "title": "버거리 종각역점",
-      "link": "",
+      "link": "http://burgerry.co.kr/",
       "category": "음식점>양식>햄버거",
       "description": "",
       "telephone": "",

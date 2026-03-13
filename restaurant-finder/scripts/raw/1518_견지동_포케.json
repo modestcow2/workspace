@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "샐러디 종로구청점",
-      "link": "http://www.salady.com/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 종로1가 대성스카이렉스 1층 110호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 종로1가 대성스카이렉스 1층 110호",
-      "mapx": "1269827978",
-      "mapy": "375724095"
-    },
     {
       "title": "훅트<b>포케</b> 을지로점",
       "link": "https://www.hookedpoke.co.kr/",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
       "mapx": "1269778819",
       "mapy": "375721535"
+    },
+    {
+      "title": "어쩌다농부 팬트리 소공점",
+      "link": "https://www.instagram.com/oopspantry",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 79-2 1층 어쩌다농부 팬트리 소공점",
+      "roadAddress": "서울특별시 중구 소공로 96 1층 어쩌다농부 팬트리 소공점",
+      "mapx": "1269801180",
+      "mapy": "375635658"
     },
     {
       "title": "르베지왕 을지공간",

@@ -164,9 +164,12 @@ const MapView = (() => {
     document.getElementById('empty-state').style.display = 'none';
     document.getElementById('pagination').style.display = 'none';
 
-    // 지도 크기 재계산
+    // 지도 크기 재계산 후 KPC 중심으로
     setTimeout(() => {
-      if (map) map.relayout();
+      if (map) {
+        map.relayout();
+        map.setCenter(new kakao.maps.LatLng(KPC_LAT, KPC_LNG));
+      }
     }, 100);
   }
 

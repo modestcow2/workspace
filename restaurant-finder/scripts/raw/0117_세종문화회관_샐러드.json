@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:54 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:07:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "신선식탁 광화문G타워점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 156 1층",
-      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
-      "mapx": "1269810076",
-      "mapy": "375727137"
-    },
     {
       "title": "도트블랭킷 안국점",
       "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
@@ -27,9 +16,20 @@
       "mapy": "375770264"
     },
     {
+      "title": "신선식탁 광화문G타워점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 156 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
+      "mapx": "1269810076",
+      "mapy": "375727137"
+    },
+    {
       "title": "H라운지",
       "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>브런치",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 통의동 35-21",
@@ -38,26 +38,26 @@
       "mapy": "375779155"
     },
     {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
     },
     {
-      "title": "파작",
-      "link": "https://store.tossplace.com/order/136462",
+      "title": "엘 샌드위치 종로점",
+      "link": "http://elsandwich.co.kr",
       "category": "양식>샌드위치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 43-11 1층 파작",
-      "roadAddress": "서울특별시 종로구 청계천로 57 1층 파작",
-      "mapx": "1269840599",
-      "mapy": "375689410"
+      "address": "서울특별시 종로구 수송동 36-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 14 1층",
+      "mapx": "1269817979",
+      "mapy": "375750480"
     }
   ]
 }

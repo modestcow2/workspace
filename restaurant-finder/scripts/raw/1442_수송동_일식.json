@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:54 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375725008"
     },
     {
-      "title": "스시키마에",
-      "link": "https://catchtable.co.kr/sushikimae",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 141호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 141호",
-      "mapx": "1269818155",
-      "mapy": "375723952"
-    },
-    {
       "title": "VIP참치 석탄회관점",
       "link": "https://smartstore.naver.com/viptuna_ko",
       "category": "한식>생선회",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로5길 58 석탄회관 지하1층",
       "mapx": "1269805012",
       "mapy": "375728786"
+    },
+    {
+      "title": "스시우미 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushiumi_ghm",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B113",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B113",
+      "mapx": "1269815061",
+      "mapy": "375725618"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375756601"
     },
     {
-      "title": "종로족빨 종로본점",
-      "link": "http://027341222.bdp.kr/",
+      "title": "고려보쌈",
+      "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 257 1층",
-      "roadAddress": "서울특별시 종로구 우정국로2길 14 1층",
-      "mapx": "1269837098",
-      "mapy": "375693280"
+      "address": "서울특별시 중구 무교동 25-1 원창빌딩",
+      "roadAddress": "서울특별시 중구 세종대로20길 23 원창빌딩",
+      "mapx": "1269787500",
+      "mapy": "375671549"
     }
   ]
 }

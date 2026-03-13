@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:31 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375703217"
     },
     {
+      "title": "한민국 닭한마리",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로5가 253-3 1층",
+      "roadAddress": "서울특별시 종로구 종로 252-10 1층",
+      "mapx": "1270055485",
+      "mapy": "375706512"
+    },
+    {
       "title": "명동닭한마리 시조점",
       "link": "",
       "category": "한식>닭요리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 41",
       "mapx": "1269848048",
       "mapy": "375806132"
-    },
-    {
-      "title": "포도원<b>삼계탕</b>대학로점",
-      "link": "https://blog.naver.com/podowon81",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 154-1 1층",
-      "roadAddress": "서울특별시 종로구 창경궁로26길 41-5 1층",
-      "mapx": "1269996845",
-      "mapy": "375821698"
     }
   ]
 }

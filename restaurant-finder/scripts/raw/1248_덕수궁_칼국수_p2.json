@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375669020"
     },
     {
-      "title": "현풍닭<b>칼국수</b> 광화문점",
-      "link": "https://www.instagram.com/hyunpungdk_official",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-3 1층",
-      "roadAddress": "서울특별시 중구 세종대로 135-9 1층",
-      "mapx": "1269763007",
-      "mapy": "375688748"
-    },
-    {
       "title": "승환네닭한마리",
       "link": "https://instagram.com/seunghwan_dakhanmari?igshid=6omq6gljx2oa",
       "category": "한식>닭요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 서소문로 109-7",
       "mapx": "1269731209",
       "mapy": "375633462"
+    },
+    {
+      "title": "졍동국시",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 22-2 지층",
+      "roadAddress": "서울특별시 중구 정동길 5 지층",
+      "mapx": "1269699299",
+      "mapy": "375678727"
     }
   ]
 }

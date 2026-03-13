@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:48 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375797533"
     },
     {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
-      "category": "음식점>일식>일식당",
+      "title": "두르가 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/durga",
+      "category": "음식점>인도음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
+      "mapx": "1269797390",
+      "mapy": "375705681"
     }
   ]
 }

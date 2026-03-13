@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
     {
       "title": "슬로우캘리 숭례문점",
       "link": "http://www.slowcali.co.kr",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 세종대로 23 창화빌딩 1층",
       "mapx": "1269739788",
       "mapy": "375591484"
+    },
+    {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     },
     {
       "title": "프레퍼스 다이어트 푸드 광화문점",

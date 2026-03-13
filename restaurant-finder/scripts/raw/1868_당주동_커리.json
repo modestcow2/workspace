@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:10:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375720853"
     },
     {
-      "title": "뒷골목 이층집 도화 솥밥",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 3-2 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 3-10 2층",
-      "mapx": "1269742014",
-      "mapy": "375723516"
-    },
-    {
       "title": "광화문스시",
       "link": "",
       "category": "음식점>일식>일식당",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 44, 46호",
       "mapx": "1269743109",
       "mapy": "375720320"
+    },
+    {
+      "title": "뒷골목 이층집 도화 솥밥",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 3-2 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-10 2층",
+      "mapx": "1269742014",
+      "mapy": "375723516"
     },
     {
       "title": "사직동 그 가게",

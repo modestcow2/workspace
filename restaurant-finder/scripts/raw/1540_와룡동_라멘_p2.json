@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:38 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 14 유즈라멘",
       "mapx": "1269865232",
       "mapy": "375778648"
-    },
-    {
-      "title": "콘부",
-      "link": "https://app.catchtable.co.kr/ct/shop/konbu_uljiro",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 7-6 1층 콘부",
-      "roadAddress": "서울특별시 중구 수표로 42-19 1층 콘부",
-      "mapx": "1269903413",
-      "mapy": "375650851"
     },
     {
       "title": "<b>라멘</b> 보루도 종묘 서순라길 본점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 대학로11길 38-23 1층",
       "mapx": "1270004455",
       "mapy": "375825887"
+    },
+    {
+      "title": "콘부",
+      "link": "https://app.catchtable.co.kr/ct/shop/konbu_uljiro",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 7-6 1층 콘부",
+      "roadAddress": "서울특별시 중구 수표로 42-19 1층 콘부",
+      "mapx": "1269903413",
+      "mapy": "375650851"
     },
     {
       "title": "츠키<b>라멘</b>",

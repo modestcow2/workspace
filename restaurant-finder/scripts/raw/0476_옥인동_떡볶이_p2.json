@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:37 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 필운대로 53-26 1, 2층",
       "mapx": "1269681573",
       "mapy": "375807835"
+    },
+    {
+      "title": "꿈떡꿈떡 종로본점",
+      "link": "http://www.꿈떡꿈떡.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 꿈떡꿈떡",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 꿈떡꿈떡",
+      "mapx": "1269798605",
+      "mapy": "375708344"
     },
     {
       "title": "허니<b>떡볶이</b>",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 자하문로15길 18",
       "mapx": "1269700183",
       "mapy": "375806564"
-    },
-    {
-      "title": "꼬소한부뚜막 광화문광장점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 도렴동 150-1 1층",
-      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
-      "mapx": "1269756633",
-      "mapy": "375715135"
     },
     {
       "title": "원조할머니 기름<b>떡볶이</b>",

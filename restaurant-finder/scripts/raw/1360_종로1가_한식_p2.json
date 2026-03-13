@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:18 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375706671"
     },
     {
-      "title": "김삼보 <b>종로</b>점",
+      "title": "완백부대찌개 고사리꽃삼겹 <b>종로</b>르메이에르점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>찌개,전골",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24",
-      "roadAddress": "서울특별시 종로구 종로 19",
-      "mapx": "1269798605",
+      "address": "서울특별시 종로구 종로1가 24 2층 201-1호, 201-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 ,2층 201-1호, 201-2호",
+      "mapx": "1269798606",
       "mapy": "375708344"
     },
     {
-      "title": "막내낙지",
-      "link": "https://smartstore.naver.com/mnofood",
-      "category": "한식>낙지요리",
+      "title": "남도미가",
+      "link": "http://blog.kbmyshop.com/%EB%82%A8%EB%8F%84%EB%AF%B8%EA%B0%80",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 125호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 125호",
-      "mapx": "1269798143",
-      "mapy": "375711281"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 지하1층",
+      "mapx": "1269799205",
+      "mapy": "375705931"
     }
   ]
 }

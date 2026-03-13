@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375689749"
     },
     {
-      "title": "서촌전통<b>순대</b>국",
+      "title": "태평<b>순대</b> 광화문본점",
       "link": "",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 148-1",
-      "roadAddress": "서울특별시 종로구 사직로9가길 8",
-      "mapx": "1269690851",
-      "mapy": "375766782"
+      "address": "서울특별시 중구 태평로1가 76-1 1층 태평순대 광화문본점",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
+      "mapx": "1269760122",
+      "mapy": "375690306"
     },
     {
-      "title": "옛날<b>순대</b>",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "교남김밥",
+      "link": "http://instagram.com/gyonamgimbap012",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 무악동 82 무악현대프라자 1층 옛날순대",
-      "roadAddress": "서울특별시 종로구 통일로 246-10 무악현대프라자 1층 옛날순대",
-      "mapx": "1269590672",
-      "mapy": "375744861"
+      "address": "서울특별시 종로구 평동 233 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "mapx": "1269652933",
+      "mapy": "375683803"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:17 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "통영굴밥 경복궁점",
-      "link": "",
-      "category": "한식>굴요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
-      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
-      "mapx": "1269733152",
-      "mapy": "375753857"
-    },
     {
       "title": "인왕산호랭이주막",
       "link": "https://www.instagram.com/horangejoomak",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
       "mapx": "1269655596",
       "mapy": "375756107"
+    },
+    {
+      "title": "통영굴밥 경복궁점",
+      "link": "",
+      "category": "한식>굴요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
+      "mapx": "1269733152",
+      "mapy": "375753857"
     },
     {
       "title": "키친온유",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:57 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375762754"
     },
     {
-      "title": "명동<b>칼국수</b>",
+      "title": "국수명가",
       "link": "",
-      "category": "한식>칼국수,만두",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 110-2",
-      "roadAddress": "서울특별시 종로구 종로1길 57",
-      "mapx": "1269789571",
-      "mapy": "375754362"
+      "address": "서울특별시 종로구 통의동 49-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 6 1층",
+      "mapx": "1269726940",
+      "mapy": "375766793"
     }
   ]
 }

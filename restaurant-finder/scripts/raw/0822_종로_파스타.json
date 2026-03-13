@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:13 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "익선취향",
-      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
-      "category": "음식점>양식",
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-70 1층",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
-      "mapx": "1269895934",
-      "mapy": "375735970"
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
     }
   ]
 }

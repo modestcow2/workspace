@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:54 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375613479"
     },
     {
-      "title": "행화촌",
-      "link": "http://henghwachon.cityfood.co.kr/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 107-1",
-      "roadAddress": "서울특별시 중구 남대문로 52-5",
-      "mapx": "1269817245",
-      "mapy": "375621053"
-    },
-    {
       "title": "원흥",
       "link": "",
       "category": "중식>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 다동길 46",
       "mapx": "1269819007",
       "mapy": "375678937"
+    },
+    {
+      "title": "진아춘 광화문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
+      "mapy": "375697325"
     }
   ]
 }

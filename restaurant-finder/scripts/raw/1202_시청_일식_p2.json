@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:06 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375634157"
     },
     {
-      "title": "다이닝아오",
-      "link": "https://app.catchtable.co.kr/ct/shop/dining_ao",
+      "title": "스시화정",
+      "link": "https://app.catchtable.co.kr/ct/shop/hwajeong",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 순화동 151 1층 112호",
-      "roadAddress": "서울특별시 중구 칠패로 27 1층 112호",
-      "mapx": "1269720478",
-      "mapy": "375600687"
+      "address": "서울특별시 중구 북창동 12-4",
+      "roadAddress": "서울특별시 중구 세종대로14길 29",
+      "mapx": "1269783335",
+      "mapy": "375629054"
     },
     {
       "title": "히바리",
@@ -49,15 +49,15 @@
       "mapy": "375623838"
     },
     {
-      "title": "스시화정",
-      "link": "https://app.catchtable.co.kr/ct/shop/hwajeong",
+      "title": "다이닝아오",
+      "link": "https://app.catchtable.co.kr/ct/shop/dining_ao",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 북창동 12-4",
-      "roadAddress": "서울특별시 중구 세종대로14길 29",
-      "mapx": "1269783335",
-      "mapy": "375629054"
+      "address": "서울특별시 중구 순화동 151 1층 112호",
+      "roadAddress": "서울특별시 중구 칠패로 27 1층 112호",
+      "mapx": "1269720478",
+      "mapy": "375600687"
     }
   ]
 }

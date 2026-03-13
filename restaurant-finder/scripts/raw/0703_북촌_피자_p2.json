@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:19 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "플롭 안국",
-      "link": "https://www.instagram.com/plop_pizza",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-20",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5",
-      "mapx": "1269860684",
-      "mapy": "375779283"
-    },
     {
       "title": "계동<b>피자</b>",
       "link": "https://youtube.com/@kindk7985",
@@ -38,6 +27,17 @@
       "mapy": "375805827"
     },
     {
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
+    },
+    {
       "title": "스미스가좋아하는한옥",
       "link": "https://www.instagram.com/smith_hanok",
       "category": "음식점>이탈리아음식",
@@ -49,15 +49,15 @@
       "mapy": "375779378"
     },
     {
-      "title": "슬로우파크",
-      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
     }
   ]
 }

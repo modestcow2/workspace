@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:49 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375745744"
     },
     {
-      "title": "밀포유 <b>인사동</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/mfu_insa?from=share&type=WAITING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-13",
-      "roadAddress": "서울특별시 종로구 인사동8길 13",
-      "mapx": "1269859037",
-      "mapy": "375740549"
-    },
-    {
       "title": "황생가<b>칼국수</b> 종로타워점",
       "link": "",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375707534"
     },
     {
-      "title": "최대감네",
+      "title": "광희<b>칼국수</b>",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 경운동 64-47",
-      "roadAddress": "서울특별시 종로구 인사동8길 12-3",
-      "mapx": "1269861240",
-      "mapy": "375740750"
+      "address": "서울특별시 종로구 견지동 88-8",
+      "roadAddress": "서울특별시 종로구 우정국로 38-18",
+      "mapx": "1269840306",
+      "mapy": "375728091"
+    },
+    {
+      "title": "메밀란",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 176",
+      "roadAddress": "서울특별시 종로구 인사동11길 16-4",
+      "mapx": "1269838219",
+      "mapy": "375740182"
     }
   ]
 }

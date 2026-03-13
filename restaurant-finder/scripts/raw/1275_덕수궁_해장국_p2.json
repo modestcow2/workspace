@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:40 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375693429"
     },
     {
-      "title": "담원순대 시청본점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-21 1층",
-      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
-      "mapx": "1269731836",
-      "mapy": "375619522"
-    },
-    {
       "title": "잼배옥",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로9길 68-9",
       "mapx": "1269737271",
       "mapy": "375625022"
+    },
+    {
+      "title": "담원순대 시청본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
     }
   ]
 }

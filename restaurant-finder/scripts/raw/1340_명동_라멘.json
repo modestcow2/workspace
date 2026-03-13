@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375606139"
     },
     {
-      "title": "유부남",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동1가 114 지하1층 유부남",
-      "roadAddress": "서울특별시 중구 삼일대로 343 지하1층 유부남",
-      "mapx": "1269871265",
-      "mapy": "375651936"
-    },
-    {
       "title": "멘텐",
       "link": "",
       "category": "음식점>일식>일본식라면",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 삼일대로 305 동북빌딩1층",
       "mapx": "1269886351",
       "mapy": "375619803"
+    },
+    {
+      "title": "유부남",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동1가 114 지하1층 유부남",
+      "roadAddress": "서울특별시 중구 삼일대로 343 지하1층 유부남",
+      "mapx": "1269871265",
+      "mapy": "375651936"
     },
     {
       "title": "모모야 광화문점",

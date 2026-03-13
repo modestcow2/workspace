@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:05 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375787993"
     },
     {
-      "title": "서촌 곳간",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 146-1 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
-      "mapx": "1269693165",
-      "mapy": "375766924"
-    },
-    {
       "title": "잭아저씨<b>족발</b>보쌈 종로본점",
       "link": "https://blog.naver.com/mr_jack-jogbalbossam",
       "category": "한식>족발,보쌈",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 우정국로2길 34 1층 잭아저씨족발보쌈",
       "mapx": "1269850023",
       "mapy": "375695127"
+    },
+    {
+      "title": "서촌 곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 146-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
+      "mapx": "1269693165",
+      "mapy": "375766924"
     },
     {
       "title": "본가서대문<b>족발</b> 본점",

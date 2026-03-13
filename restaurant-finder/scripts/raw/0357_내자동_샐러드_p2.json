@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:45 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "하이호",
-      "link": "https://www.instagram.com/hiho_seochon",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 128-1",
-      "roadAddress": "서울특별시 종로구 사직로 110",
-      "mapx": "1269709664",
-      "mapy": "375758334"
-    },
     {
       "title": "써브웨이 경복궁점",
       "link": "http://www.subway.co.kr/",
@@ -27,20 +16,31 @@
       "mapy": "375762373"
     },
     {
+      "title": "하이호",
+      "link": "https://www.instagram.com/hiho_seochon",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 128-1",
+      "roadAddress": "서울특별시 종로구 사직로 110",
+      "mapx": "1269709664",
+      "mapy": "375758334"
+    },
+    {
       "title": "오빈스",
       "link": "https://www.instagram.com/obins1000",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 19 사학재단 1층 오빈스레스토랑",
-      "roadAddress": "서울특별시 종로구 사직로 113 사학재단 1층 오빈스레스토랑",
+      "address": "서울특별시 종로구 내자동 19 세종마을음식문화거리 내 위치(후문은 사학재단 주차장안)",
+      "roadAddress": "서울특별시 종로구 사직로 113 세종마을음식문화거리 내 위치(후문은 사학재단 주차장안)",
       "mapx": "1269713210",
       "mapy": "375763777"
     },
     {
       "title": "더샌드위치",
       "link": "",
-      "category": "음식점>브런치",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",

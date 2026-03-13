@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:27 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
-    },
     {
       "title": "설품 <b>덕수궁</b>점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 덕수궁길 7 지1층",
       "mapx": "1269763125",
       "mapy": "375648395"
+    },
+    {
+      "title": "원기옥 광화문점",
+      "link": "https://catchtable.co.kr/wongiok",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "mapx": "1269720468",
+      "mapy": "375687024"
     },
     {
       "title": "한암동 정동점",
@@ -38,17 +38,6 @@
       "mapy": "375678521"
     },
     {
-      "title": "전주풍남회관",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
-    },
-    {
       "title": "어슬 광화문",
       "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
       "mapx": "1269720468",
       "mapy": "375687024"
+    },
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
     }
   ]
 }

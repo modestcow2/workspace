@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:36 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375696647"
     },
     {
-      "title": "고담",
-      "link": "https://blog.naver.com/gothamcityhall",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 341-2 2층(룸),4층(홀), 루프탑(야외 옥상)",
-      "roadAddress": "서울특별시 중구 세종대로 81 2층(룸),4층(홀), 루프탑(야외 옥상)",
-      "mapx": "1269764150",
-      "mapy": "375635587"
-    },
-    {
       "title": "옴레스토랑 광화문점",
       "link": "https://www.instagram.com/om.restaurant",
       "category": "음식점>인도음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 103 지하",
       "mapx": "1269760717",
       "mapy": "375704856"
+    },
+    {
+      "title": "백소정 시청점",
+      "link": "https://baeksojeong.com/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 37 삼정아트테라스 1층 105호",
+      "roadAddress": "서울특별시 중구 서소문로 89-20 삼정아트테라스 1층 105호",
+      "mapx": "1269719301",
+      "mapy": "375631904"
     }
   ]
 }

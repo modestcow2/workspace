@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:57 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375766102"
     },
     {
-      "title": "기승전우",
-      "link": "https://go.catchtable.co.kr/m5k81a",
-      "category": "한식>소고기구이",
+      "title": "오가와",
+      "link": "",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 172-1",
-      "roadAddress": "서울특별시 종로구 사직로8길 15-3",
-      "mapx": "1269705176",
-      "mapy": "375749377"
+      "address": "서울특별시 종로구 당주동 5",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19",
+      "mapx": "1269744800",
+      "mapy": "375721808"
     }
   ]
 }

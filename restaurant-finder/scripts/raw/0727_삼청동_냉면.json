@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:30 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375791400"
     },
     {
+      "title": "안국약방",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 91 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
+      "mapx": "1269861688",
+      "mapy": "375773871"
+    },
+    {
       "title": "북촌손만두 <b>삼청동</b>점",
       "link": "http://mandoo.so",
       "category": "한식>칼국수,만두",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 39",
       "mapx": "1269827007",
       "mapy": "375793042"
-    },
-    {
-      "title": "북촌손만두 북촌점",
-      "link": "http://mandoo.so",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 45-8 1층 북촌손만두",
-      "roadAddress": "서울특별시 종로구 북촌로4길 10 1층 북촌손만두",
-      "mapx": "1269857660",
-      "mapy": "375791420"
     }
   ]
 }

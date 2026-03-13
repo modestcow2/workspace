@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:39 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375575919"
     },
     {
-      "title": "1987<b>피자</b> 신촌점",
-      "link": "",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 52-12 지하1층",
-      "roadAddress": "서울특별시 서대문구 연세로11길 26 지하1층",
-      "mapx": "1269354328",
-      "mapy": "375589926"
-    },
-    {
       "title": "주인백 파스타",
       "link": "http://instagram.com/",
       "category": "음식점>양식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 증가로10길 57",
       "mapx": "1269249226",
       "mapy": "375795267"
+    },
+    {
+      "title": "역대급<b>피자</b> 남가좌점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 351-2 1층",
+      "roadAddress": "서울특별시 서대문구 거북골로 71 1층",
+      "mapx": "1269208748",
+      "mapy": "375772671"
     }
   ]
 }

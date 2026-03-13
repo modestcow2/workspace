@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:57:37 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:07:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
     {
       "title": "일품진진수라 광화문점",
       "link": "http://www.jinjinsura.com",
@@ -17,7 +28,7 @@
     },
     {
       "title": "고우가 광화문점",
-      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "link": "https://go.catchtable.co.kr/jrrhv4v",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
@@ -38,26 +49,15 @@
       "mapy": "375721281"
     },
     {
-      "title": "광화문정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
+      "title": "우슴 광화문 직영점",
+      "link": "https://www.instagram.com/wusm.official",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
-    },
-    {
-      "title": "엄용백 돼지구이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-13",
-      "roadAddress": "서울특별시 종로구 율곡로4길 51",
-      "mapx": "1269812652",
-      "mapy": "375733835"
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
     }
   ]
 }

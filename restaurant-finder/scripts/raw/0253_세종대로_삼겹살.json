@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:57:57 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375622675"
     },
     {
-      "title": "숭례회관",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 6-7 화남빌딩",
-      "roadAddress": "서울특별시 중구 세종대로 15 화남빌딩",
-      "mapx": "1269732674",
-      "mapy": "375583627"
-    },
-    {
       "title": "서울고깃집",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로 30",
       "mapx": "1269750266",
       "mapy": "375589599"
+    },
+    {
+      "title": "숭례회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-7 화남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 15 화남빌딩",
+      "mapx": "1269732674",
+      "mapy": "375583627"
     }
   ]
 }

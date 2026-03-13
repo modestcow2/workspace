@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:29 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375756345"
     },
     {
-      "title": "더샌드위치",
-      "link": "",
-      "category": "음식점>브런치",
+      "title": "오빈스",
+      "link": "https://www.instagram.com/obins1000",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
-      "mapx": "1269693501",
-      "mapy": "375748927"
+      "address": "서울특별시 종로구 내자동 19 세종마을음식문화거리 내 위치(후문은 사학재단 주차장안)",
+      "roadAddress": "서울특별시 종로구 사직로 113 세종마을음식문화거리 내 위치(후문은 사학재단 주차장안)",
+      "mapx": "1269713210",
+      "mapy": "375763777"
     }
   ]
 }

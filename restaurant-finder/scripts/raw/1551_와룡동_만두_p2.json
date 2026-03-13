@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:43 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "깡통<b>만두</b>",
-      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-22 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
-      "mapx": "1269860918",
-      "mapy": "375781763"
-    },
     {
       "title": "잘빠진메밀 서순라길점",
       "link": "https://smartstore.naver.com/jalppajin-mill",
@@ -38,6 +27,17 @@
       "mapy": "375801317"
     },
     {
+      "title": "깡통<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
+    },
+    {
       "title": "개성<b>만두</b> 궁",
       "link": "http://www.koong.co.kr/",
       "category": "분식>만두",
@@ -49,15 +49,15 @@
       "mapy": "375742917"
     },
     {
-      "title": "효담칼국수 닭한마리 명동본점",
-      "link": "https://www.instagram.com/hyodam_dakkal",
-      "category": "음식점>한식",
+      "title": "청화 우육도삭면",
+      "link": "",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-25 B1층",
-      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
-      "mapx": "1269836320",
-      "mapy": "375642444"
+      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
+      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

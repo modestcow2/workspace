@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:39 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375643266"
     },
     {
-      "title": "메종 아카이 혜화본점",
-      "link": "https://www.instagram.com/maison.akai/",
+      "title": "카산도 혜화대학로점",
+      "link": "https://www.instagram.com/kasando._.hyehwa/",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 명륜2가 181 2층",
-      "roadAddress": "서울특별시 종로구 대명길 34 2층",
-      "mapx": "1269996390",
-      "mapy": "375832180"
+      "address": "서울특별시 종로구 동숭동 1-145 1층 카산도 대학로점",
+      "roadAddress": "서울특별시 종로구 동숭길 55 1층 카산도 대학로점",
+      "mapx": "1270042262",
+      "mapy": "375808772"
     }
   ]
 }

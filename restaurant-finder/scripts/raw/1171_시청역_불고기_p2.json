@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "고우가 광화문점",
-      "link": "https://www.instagram.com/gowooga_sfcmall/",
+      "link": "https://go.catchtable.co.kr/jrrhv4v",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
@@ -38,6 +38,17 @@
       "mapy": "375613584"
     },
     {
+      "title": "모담다이닝 광화문점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
       "title": "오징어풍경 무교동점",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 1층",
       "mapx": "1269797337",
       "mapy": "375680954"
-    },
-    {
-      "title": "애성회관한우곰탕",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 93-36 세창빌딩 1층",
-      "roadAddress": "서울특별시 중구 남대문로5길 23 세창빌딩 1층",
-      "mapx": "1269789891",
-      "mapy": "375624396"
     }
   ]
 }

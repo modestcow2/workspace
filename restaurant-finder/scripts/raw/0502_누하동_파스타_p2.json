@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:49 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "까델루뽀",
-      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 39-1",
-      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
-      "mapx": "1269714259",
-      "mapy": "375818165"
-    },
     {
       "title": "두오모",
       "link": "https://catchtable.co.kr/duomo",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 필운대로 38 1층 고치비",
       "mapx": "1269689316",
       "mapy": "375793391"
+    },
+    {
+      "title": "까델루뽀",
+      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 39-1",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
+      "mapx": "1269714259",
+      "mapy": "375818165"
     },
     {
       "title": "데케드",

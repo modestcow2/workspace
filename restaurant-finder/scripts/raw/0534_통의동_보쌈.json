@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375765721"
     },
     {
+      "title": "수라재",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 66 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 2층",
+      "mapx": "1269723288",
+      "mapy": "375778157"
+    },
+    {
       "title": "오서방왕족발",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4",
       "mapx": "1269689428",
       "mapy": "375744412"
-    },
-    {
-      "title": "종로도담",
-      "link": "https://jongnododam.com",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 46",
-      "roadAddress": "서울특별시 종로구 삼봉로 78",
-      "mapx": "1269813844",
-      "mapy": "375720658"
     }
   ]
 }

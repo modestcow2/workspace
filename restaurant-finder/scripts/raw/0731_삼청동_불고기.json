@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:32 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청수정",
-      "link": "http://www.instagram.com/cheongsoojung",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 80-6",
-      "roadAddress": "서울특별시 종로구 삼청로 91",
-      "mapx": "1269816875",
-      "mapy": "375835571"
-    },
     {
       "title": "율동칼국수",
       "link": "",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
       "mapx": "1269861071",
       "mapy": "375780371"
+    },
+    {
+      "title": "청수정",
+      "link": "http://www.instagram.com/cheongsoojung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6",
+      "roadAddress": "서울특별시 종로구 삼청로 91",
+      "mapx": "1269816875",
+      "mapy": "375835571"
     },
     {
       "title": "꿀밥상",

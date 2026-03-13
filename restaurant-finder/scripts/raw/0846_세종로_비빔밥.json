@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:24 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
       "mapx": "1269736340",
       "mapy": "375622716"
-    },
-    {
-      "title": "더식당 명동본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/thesikdang",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 31-4 2층",
-      "roadAddress": "서울특별시 중구 명동10길 36 2층",
-      "mapx": "1269855667",
-      "mapy": "375622625"
     },
     {
       "title": "익선애뜻",
@@ -49,15 +38,26 @@
       "mapy": "375864487"
     },
     {
-      "title": "육결 종로본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/yuggyeol_jonglo",
+      "title": "익선동연리지",
+      "link": "https://www.instagram.com/yeonliji",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-9 지상1층~지상2층",
-      "roadAddress": "서울특별시 종로구 삼일대로15길 22 지상1층~지상2층",
-      "mapx": "1269862797",
-      "mapy": "375688942"
+      "address": "서울특별시 종로구 익선동 120 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 28-1 1층",
+      "mapx": "1269903405",
+      "mapy": "375739990"
+    },
+    {
+      "title": "뚝배기집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 5-1",
+      "roadAddress": "서울특별시 종로구 종로16길 12",
+      "mapx": "1269885481",
+      "mapy": "375695483"
     }
   ]
 }

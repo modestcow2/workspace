@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:07 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375635420"
     },
     {
-      "title": "마라공방 종각2호점",
-      "link": "http://www.maragongbang.com",
-      "category": "중식>마라탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층",
-      "roadAddress": "서울특별시 종로구 종로 19 1층",
-      "mapx": "1269798224",
-      "mapy": "375708585"
-    },
-    {
       "title": "넘버원 양꼬치",
       "link": "",
       "category": "중식>양꼬치",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
       "mapx": "1269705572",
       "mapy": "375765751"
+    },
+    {
+      "title": "마라공방 종각2호점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 1층",
+      "mapx": "1269798224",
+      "mapy": "375708585"
     }
   ]
 }

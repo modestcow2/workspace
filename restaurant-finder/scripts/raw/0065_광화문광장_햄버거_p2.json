@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:29 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "잭잭 안국점",
-      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 159 101호, 201호",
-      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
-      "mapx": "1269845845",
-      "mapy": "375765164"
-    },
     {
       "title": "데일리픽스 을지로",
       "link": "https://www.instagram.com/daily.fix.seoul?igsh=ZXRxeHUwbDE2N2E3&utm_source=qr",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
       "mapx": "1269813054",
       "mapy": "375670949"
+    },
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
     },
     {
       "title": "침스버거 안국",

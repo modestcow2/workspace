@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:08 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375736812"
     },
     {
-      "title": "유진식당",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 221",
-      "roadAddress": "서울특별시 종로구 종로17길 40",
-      "mapx": "1269882793",
-      "mapy": "375720328"
-    },
-    {
       "title": "류경회관 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
       "category": "한식>냉면",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
       "mapx": "1269818280",
       "mapy": "375724939"
+    },
+    {
+      "title": "유진식당",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 221",
+      "roadAddress": "서울특별시 종로구 종로17길 40",
+      "mapx": "1269882793",
+      "mapy": "375720328"
     }
   ]
 }

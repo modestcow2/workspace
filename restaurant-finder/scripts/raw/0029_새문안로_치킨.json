@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:12 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375699667"
     },
     {
-      "title": "옴레스토랑 광화문점",
-      "link": "https://www.instagram.com/om.restaurant",
-      "category": "음식점>인도음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 2 지하",
-      "roadAddress": "서울특별시 종로구 새문안로 103 지하",
-      "mapx": "1269760717",
-      "mapy": "375704856"
-    },
-    {
       "title": "또래오래 정동점",
       "link": "https://blog.naver.com/britney420",
       "category": "음식점>치킨,닭강정",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 38 지하1층",
       "mapx": "1269696735",
       "mapy": "375682905"
+    },
+    {
+      "title": "옴레스토랑 광화문점",
+      "link": "https://www.instagram.com/om.restaurant",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 2 지하",
+      "roadAddress": "서울특별시 종로구 새문안로 103 지하",
+      "mapx": "1269760717",
+      "mapy": "375704856"
     },
     {
       "title": "파파이스 광화문점",

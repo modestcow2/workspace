@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:24 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "372065534"
     },
     {
-      "title": "다이닝아오",
-      "link": "https://app.catchtable.co.kr/ct/shop/dining_ao",
-      "category": "음식점>일식>일식당",
+      "title": "우와인",
+      "link": "https://www.instagram.com/woowine_suwon/",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 순화동 151 1층 112호",
-      "roadAddress": "서울특별시 중구 칠패로 27 1층 112호",
-      "mapx": "1269720478",
-      "mapy": "375600687"
+      "address": "경기도 수원시 팔달구 인계동 1115-6 정건빌딩 1층 102-2호",
+      "roadAddress": "경기도 수원시 팔달구 인계로166번길 37 정건빌딩 1층 102-2호",
+      "mapx": "1270352302",
+      "mapy": "372645875"
     }
   ]
 }

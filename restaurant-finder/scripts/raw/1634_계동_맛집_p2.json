@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:20 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "애호락 안국본점",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "아모르나폴리 안국점",
+      "link": "https://booking.kakao.com/short/yw7YSaYnai",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
-      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
-      "mapx": "1269866350",
-      "mapy": "375791838"
+      "address": "서울특별시 종로구 계동 144-2 1, 2층",
+      "roadAddress": "서울특별시 종로구 계동길 15 1, 2층",
+      "mapx": "1269866582",
+      "mapy": "375779731"
     },
     {
       "title": "오설록 티하우스 북촌점",
@@ -27,37 +27,37 @@
       "mapy": "375810207"
     },
     {
-      "title": "아모르나폴리 안국점",
-      "link": "https://booking.kakao.com/short/yw7YSaYnai",
+      "title": "애호락 안국본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
+      "title": "소금집델리 안국",
+      "link": "https://www.salthousekorea.com",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 101-12 1층",
+      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
+      "mapx": "1269863175",
+      "mapy": "375794136"
+    },
+    {
+      "title": "어니언 안국",
+      "link": "http://onionkr.com",
       "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 144-2 1, 2층",
-      "roadAddress": "서울특별시 종로구 계동길 15 1, 2층",
-      "mapx": "1269866582",
-      "mapy": "375779731"
-    },
-    {
-      "title": "런던베이글뮤지엄 안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/london_bagel_museum_anguk",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 102-1",
-      "roadAddress": "서울특별시 종로구 북촌로4길 20",
-      "mapx": "1269862130",
-      "mapy": "375792099"
-    },
-    {
-      "title": "쿄와우동",
-      "link": "",
-      "category": "음식점>일식>우동,소바",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 144-1 지하1층",
-      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
-      "mapx": "1269866870",
-      "mapy": "375780953"
+      "address": "서울특별시 종로구 계동 146-1 카페 어니언",
+      "roadAddress": "서울특별시 종로구 계동길 5 카페 어니언",
+      "mapx": "1269865244",
+      "mapy": "375774607"
     }
   ]
 }

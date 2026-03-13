@@ -5,8 +5,8 @@ const STORAGE_VERSION = 'restaurant_finder_version';
 // ─── 상태 ────────────────────────────────────────────────────────────────────
 const activeFilters = {
   flavor: new Set(), texture: new Set(), cooking: new Set(),
-  cuisine: new Set(), occasion: new Set(), health: new Set(),
-  distance: new Set()
+  cuisine: new Set(), temp: new Set(), occasion: new Set(),
+  distance: new Set(), price: new Set()
 };
 let allRestaurants = [];
 let searchQuery  = '';
@@ -15,7 +15,8 @@ let currentPage     = 1;
 const ITEMS_PER_PAGE = 18;
 let isAdmin = false;            // Firebase Auth 관리자 여부
 let deletingRestaurant = null;  // 삭제 제안 중인 식당
-let isMapView = false;          // 지도 뷰 활성화 여부
+let isMapView = true;           // 지도 뷰 활성화 여부 (기본: 지도)
+let currentSort = 'default';    // 정렬: default, distance, name, price-asc, price-desc
 
 // ─── 유틸 ────────────────────────────────────────────────────────────────────
 const getCuisineEmoji = () => '🍽️';
@@ -87,7 +88,14 @@ function filterRestaurants() {
         const maxDist = Math.min(...[...sel].map(t => DISTANCE_THRESHOLDS[t]));
         return r.distanceKm <= maxDist;
       }
-      return [...sel].some(tag => r.tags[cat].includes(tag));
+      if (cat === 'price') {
+        return [...sel].some(p => r.priceRange === p);
+      }
+      if (cat === 'flavor') {
+        const combined = [...(r.tags.flavor || []), ...(r.tags.texture || [])];
+        return [...sel].some(tag => combined.includes(tag));
+      }
+      return [...sel].some(tag => (r.tags[cat] || []).includes(tag));
     });
   });
 }
@@ -110,10 +118,13 @@ function toggleFilter(cat, tag) {
 function resetFilters() {
   Object.keys(activeFilters).forEach(k => activeFilters[k].clear());
   searchQuery = '';
+  currentSort = 'default';
   const searchInput = document.getElementById('search-input');
   if (searchInput) searchInput.value = '';
   const searchClear = document.getElementById('search-clear');
   if (searchClear) searchClear.style.display = 'none';
+  const sortSelect = document.getElementById('sort-select');
+  if (sortSelect) sortSelect.value = 'default';
   currentPage = 1;
   render();
 }
@@ -163,7 +174,8 @@ function renderFilterPanel() {
       const btn = document.createElement('button');
       btn.type = 'button';
       btn.className = 'filter-badge' + (activeFilters[activeTab].has(tag) ? ' active' : '');
-      btn.textContent = tag;
+      const desc = meta.descriptions && meta.descriptions[tag];
+      btn.innerHTML = desc ? `${tag} <span class="filter-desc">${desc}</span>` : tag;
       btn.addEventListener('click', () => toggleFilter(activeTab, tag));
       row.appendChild(btn);
     });
@@ -254,9 +266,12 @@ function renderCards(filtered) {
         ${r.tip ? `<p class="tip-text">${r.tip}</p>` : ''}
 
         <div class="flex flex-wrap gap-1 pt-1">
-          ${Object.keys(FILTER_META).map(cat =>
-            (r.tags[cat] || []).map(t => `<span class="tag tag-${cat}">${t}</span>`).join('')
-          ).join('')}
+          ${Object.keys(FILTER_META).filter(cat => cat !== 'distance' && cat !== 'price').map(cat => {
+            const tags = cat === 'flavor'
+              ? [...(r.tags.flavor || []), ...(r.tags.texture || [])]
+              : (r.tags[cat] || []);
+            return tags.map(t => `<span class="tag tag-${cat}">${t}</span>`).join('');
+          }).join('')}
         </div>
 
         <div class="card-actions">
@@ -286,11 +301,29 @@ function renderCards(filtered) {
 }
 
 // ─── 메인 렌더 ───────────────────────────────────────────────────────────────
+const PRICE_ORDER = { '₩': 1, '₩₩': 2, '₩₩₩': 3, '₩₩₩₩': 4 };
+
+function sortRestaurants(list) {
+  switch (currentSort) {
+    case 'distance':
+      return list.sort((a, b) => a.distanceKm - b.distanceKm);
+    case 'name':
+      return list.sort((a, b) => a.name.localeCompare(b.name, 'ko'));
+    case 'price-asc':
+      return list.sort((a, b) => (PRICE_ORDER[a.priceRange] || 0) - (PRICE_ORDER[b.priceRange] || 0));
+    case 'price-desc':
+      return list.sort((a, b) => (PRICE_ORDER[b.priceRange] || 0) - (PRICE_ORDER[a.priceRange] || 0));
+    default:
+      if (hasActiveFilters() || searchQuery) {
+        return list.sort((a, b) => a.distanceKm - b.distanceKm);
+      }
+      return list;
+  }
+}
+
 function render() {
   const filtered = filterRestaurants();
-  if (hasActiveFilters() || searchQuery) {
-    filtered.sort((a, b) => a.distanceKm - b.distanceKm);
-  }
+  sortRestaurants(filtered);
   renderFilterPanel();
   renderActiveChips();
 
@@ -391,7 +424,7 @@ function buildTagSelector(selectedTags = {}) {
   const container = document.getElementById('tag-selector');
   container.innerHTML = '';
   Object.entries(FILTER_META).forEach(([cat, meta]) => {
-    if (cat === 'distance') return;
+    if (['distance', 'temp', 'price'].includes(cat)) return;
     const div = document.createElement('div');
     const p   = document.createElement('p');
     p.className = 'text-xs font-semibold text-gray-500 mb-1.5';
@@ -491,7 +524,7 @@ function collectFormData(formData) {
   const lng      = parseFloat(formData.get('lng')) || null;
   const mainMenu = mainMenuRaw.split(',').map(s => s.trim()).filter(Boolean);
 
-  const tags = { flavor: [], texture: [], cooking: [], cuisine: [], occasion: [], health: [] };
+  const tags = { flavor: [], cooking: [], cuisine: [], occasion: [] };
   document.querySelectorAll('.modal-tag-btn.selected').forEach(btn => {
     if (tags[btn.dataset.cat]) tags[btn.dataset.cat].push(btn.dataset.tag);
   });
@@ -705,6 +738,26 @@ function setupDeleteSuggestModal() {
   });
 }
 
+// ─── 랜덤 추천 ──────────────────────────────────────────────────────────────
+function showRandomPick(filtered) {
+  const r = filtered[Math.floor(Math.random() * filtered.length)];
+  document.getElementById('random-name').textContent = r.name;
+  document.getElementById('random-address').textContent = r.address;
+  document.getElementById('random-distance').textContent = r.distanceKm + 'km';
+  document.getElementById('random-price').textContent = r.priceRange;
+  document.getElementById('random-hours').textContent = '🕐 ' + (r.openHours || '-');
+  document.getElementById('random-menu').textContent = '📋 ' + r.mainMenu.join(' · ');
+  const tipEl = document.getElementById('random-tip');
+  if (r.tip) {
+    tipEl.textContent = r.tip;
+    tipEl.style.display = '';
+  } else {
+    tipEl.style.display = 'none';
+  }
+  document.getElementById('random-modal').style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
 // ─── 초기화 ──────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
   loadState();
@@ -735,6 +788,38 @@ document.addEventListener('DOMContentLoaded', () => {
     mapBtn.classList.add('active');
     listBtn.classList.remove('active');
     render();
+  });
+
+  // 정렬 드롭다운
+  document.getElementById('sort-select').addEventListener('change', e => {
+    currentSort = e.target.value;
+    currentPage = 1;
+    render();
+  });
+
+  // 랜덤 추천
+  document.getElementById('random-pick-btn').addEventListener('click', () => {
+    const filtered = filterRestaurants();
+    if (filtered.length === 0) {
+      showToast('필터 결과가 없습니다!', 'error');
+      return;
+    }
+    showRandomPick(filtered);
+  });
+  document.getElementById('random-retry').addEventListener('click', () => {
+    const filtered = filterRestaurants();
+    showRandomPick(filtered);
+  });
+  document.getElementById('random-accept').addEventListener('click', () => {
+    document.getElementById('random-modal').style.display = 'none';
+    document.body.style.overflow = '';
+    showToast('맛있게 드세요! 🍽️');
+  });
+  document.getElementById('random-modal').addEventListener('click', e => {
+    if (e.target === e.currentTarget) {
+      e.currentTarget.style.display = 'none';
+      document.body.style.overflow = '';
+    }
   });
 
   document.getElementById('reset-btn').addEventListener('click', resetFilters);

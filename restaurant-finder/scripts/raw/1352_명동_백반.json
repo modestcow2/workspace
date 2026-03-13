@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:15 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375585424"
     },
     {
-      "title": "김명숙아지매순대국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 회현동1가 194-46",
-      "roadAddress": "서울특별시 중구 퇴계로 62-2",
-      "mapx": "1269791892",
-      "mapy": "375590113"
-    },
-    {
       "title": "대지식당",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 퇴계로16길 8 1층",
       "mapx": "1269844768",
       "mapy": "375604079"
+    },
+    {
+      "title": "김명숙아지매순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-46",
+      "roadAddress": "서울특별시 중구 퇴계로 62-2",
+      "mapx": "1269791892",
+      "mapy": "375590113"
     }
   ]
 }

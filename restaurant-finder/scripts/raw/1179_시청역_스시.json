@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:55 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375677739"
     },
     {
+      "title": "<b>스시</b>카세 롯데백화점본점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
+      "mapx": "1269811847",
+      "mapy": "375649963"
+    },
+    {
       "title": "신성일식",
       "link": "",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 무교로 42 1,2층 신성일식",
       "mapx": "1269795017",
       "mapy": "375696782"
-    },
-    {
-      "title": "배 수사",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 117 나전빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 12 나전빌딩",
-      "mapx": "1269817000",
-      "mapy": "375668280"
     }
   ]
 }

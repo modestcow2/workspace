@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:10 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -47,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
       "mapx": "1269721401",
       "mapy": "375696647"
-    },
-    {
-      "title": "슬로우캘리 정동점",
-      "link": "http://www.slowcali.co.kr",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 92 지하1층 B105-1호, 3호",
-      "roadAddress": "서울특별시 종로구 새문안로 58 지하1층 B105-1호, 3호",
-      "mapx": "1269714366",
-      "mapy": "375694542"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:30 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375709477"
     },
     {
-      "title": "슬로우캘리 광화문",
-      "link": "http://www.slowcali.co.kr",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 제1층 121-1호",
-      "roadAddress": "서울특별시 종로구 종로 19 제1층 121-1호",
-      "mapx": "1269801711",
-      "mapy": "375708095"
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
     },
     {
       "title": "도토리가든 안국점",
@@ -38,17 +38,6 @@
       "mapy": "375780996"
     },
     {
-      "title": "익선잡방",
-      "link": "http://www.instagram.com/ikseon_jabbang",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
-      "mapx": "1269894722",
-      "mapy": "375733980"
-    },
-    {
       "title": "오드하우스",
       "link": "https://www.instagram.com/odd_haus",
       "category": "음식점>양식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
       "mapx": "1269721868",
       "mapy": "375662530"
+    },
+    {
+      "title": "루시드 서울",
+      "link": "http://instagram.com/lucyd_seoul",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 62-1 1층 101호",
+      "roadAddress": "서울특별시 종로구 삼일대로32길 45 1층 101호",
+      "mapx": "1269895257",
+      "mapy": "375756045"
     }
   ]
 }

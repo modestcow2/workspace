@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:31 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375720966"
     },
     {
-      "title": "<b>광화문</b>국밥",
+      "title": "관북",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 1-48",
-      "roadAddress": "서울특별시 중구 세종대로21길 53",
-      "mapx": "1269754124",
-      "mapy": "375689749"
+      "address": "서울특별시 종로구 청진동 11-6 1,2층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
+      "mapx": "1269808546",
+      "mapy": "375719170"
     },
     {
       "title": "이경문<b>순대</b>곱창",

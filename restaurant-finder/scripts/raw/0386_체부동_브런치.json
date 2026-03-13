@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:57 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "더샌드위치",
-      "link": "",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
-      "mapx": "1269693501",
-      "mapy": "375748927"
-    },
     {
       "title": "로파이 샌드위치 디저트 카페",
       "link": "",
@@ -49,15 +38,26 @@
       "mapy": "375670330"
     },
     {
-      "title": "애즈라이크 서촌",
-      "link": "http://www.instagram.com/aslike_",
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
       "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 7-33 1층 애즈라이크",
-      "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
-      "mapx": "1269733577",
-      "mapy": "375783143"
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
+    },
+    {
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735061",
+      "mapy": "375779155"
     }
   ]
 }

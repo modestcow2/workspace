@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:40 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "정선할매곤드레 본점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-7 1층",
+      "roadAddress": "서울특별시 종로구 인사동8길 16 1층",
+      "mapx": "1269859897",
+      "mapy": "375741541"
+    },
+    {
+      "title": "율동칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 9 2층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
+      "mapx": "1269846160",
+      "mapy": "375794433"
+    },
     {
       "title": "심경희라라랜드 광화문",
       "link": "",
@@ -27,17 +49,6 @@
       "mapy": "375744663"
     },
     {
-      "title": "정선할매곤드레 본점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-7 1층",
-      "roadAddress": "서울특별시 종로구 인사동8길 16 1층",
-      "mapx": "1269859897",
-      "mapy": "375741541"
-    },
-    {
       "title": "도마 인사동점",
       "link": "https://www.instagram.com/doma_insa/",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동8길 6-1 1층 도마",
       "mapx": "1269858347",
       "mapy": "375738125"
-    },
-    {
-      "title": "다반 안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/daban_anguk",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 운니동 98-5 이노88타워 1층 104호 다반",
-      "roadAddress": "서울특별시 종로구 율곡로 88 이노88타워 1층 104호 다반",
-      "mapx": "1269889420",
-      "mapy": "375768090"
     }
   ]
 }

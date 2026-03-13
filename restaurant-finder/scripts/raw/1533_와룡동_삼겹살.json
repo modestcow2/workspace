@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:35 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375731869"
     },
     {
-      "title": "삼안갈비촌",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 16-1 1층",
-      "roadAddress": "서울특별시 종로구 대명1길 7 1층",
-      "mapx": "1270010118",
-      "mapy": "375831396"
-    },
-    {
       "title": "육즙당 종로본점",
       "link": "https://www.instagram.com/yukzupdang_official",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로 225 1층 육즙당",
       "mapx": "1270027342",
       "mapy": "375712260"
+    },
+    {
+      "title": "촌놈",
+      "link": "https://blog.naver.com/chssha1029",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-47",
+      "roadAddress": "서울특별시 종로구 대학로8가길 48",
+      "mapx": "1270023479",
+      "mapy": "375829574"
     }
   ]
 }

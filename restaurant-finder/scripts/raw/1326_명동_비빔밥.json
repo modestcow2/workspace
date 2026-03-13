@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375581107"
     },
     {
-      "title": "더식당 <b>명동</b>본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/thesikdang",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 31-4 2층",
-      "roadAddress": "서울특별시 중구 명동10길 36 2층",
-      "mapx": "1269855667",
-      "mapy": "375622625"
-    },
-    {
       "title": "오공일 <b>명동</b>점",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 남대문로 125 2층 201호",
       "mapx": "1269823089",
       "mapy": "375683770"
+    },
+    {
+      "title": "한식왕비집 을지로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hansikwangbijibeuljirobranch",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-40 지하1층 B101호",
+      "roadAddress": "서울특별시 중구 명동7길 21 지하1층 B101호",
+      "mapx": "1269836829",
+      "mapy": "375645725"
     }
   ]
 }

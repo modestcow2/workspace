@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:54 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375669757"
     },
     {
+      "title": "지지타운",
+      "link": "https://catchtable.co.kr/ggtown",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 349-1 3층",
+      "roadAddress": "서울특별시 중구 수표로 52 3층",
+      "mapx": "1269899946",
+      "mapy": "375657753"
+    },
+    {
       "title": "나베식당",
       "link": "",
       "category": "음식점>일식>일식당",
@@ -38,26 +49,15 @@
       "mapy": "375650632"
     },
     {
-      "title": "아소토베이<b>커리</b>",
-      "link": "https://www.instagram.com/asotobakery",
-      "category": "카페,디저트>베이커리",
+      "title": "<b>을지로</b> 이멜다분식",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/imeldafnb",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 156-9 1층",
-      "roadAddress": "서울특별시 중구 수표로10길 19 1층",
-      "mapx": "1269914336",
-      "mapy": "375637160"
-    },
-    {
-      "title": "지지타운",
-      "link": "https://catchtable.co.kr/ggtown",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 349-1 3층",
-      "roadAddress": "서울특별시 중구 수표로 52 3층",
-      "mapx": "1269899946",
-      "mapy": "375657753"
+      "address": "서울특별시 중구 산림동 207-1 청계세운상가 3층 바열 315호",
+      "roadAddress": "서울특별시 중구 청계천로 160 청계세운상가 3층 바열 315호",
+      "mapx": "1269955021",
+      "mapy": "375677499"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:14 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375611312"
     },
     {
-      "title": "효담칼국수 닭한마리 <b>명동</b>본점",
-      "link": "https://www.instagram.com/hyodam_dakkal",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-25 B1층",
-      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
-      "mapx": "1269836320",
-      "mapy": "375642444"
-    },
-    {
       "title": "남포면옥",
       "link": "",
       "category": "한식>냉면",
@@ -49,15 +38,26 @@
       "mapy": "375671396"
     },
     {
-      "title": "이북<b>만두</b>",
-      "link": "",
+      "title": "효담칼국수 닭한마리 <b>명동</b>본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 27",
-      "roadAddress": "서울특별시 중구 무교로 17-13",
-      "mapx": "1269785551",
-      "mapy": "375673053"
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
+    },
+    {
+      "title": "<b>명동</b>교자 1호점",
+      "link": "http://www.mdkj.co.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 33-4 명동교자",
+      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
+      "mapx": "1269851666",
+      "mapy": "375634828"
     }
   ]
 }

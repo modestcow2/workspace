@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:30 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375674593"
     },
     {
-      "title": "잇웰 연희",
-      "link": "https://www.instagram.com/eatwell.kr",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 194-24 1층",
-      "roadAddress": "서울특별시 서대문구 연희로8길 24 1층",
-      "mapx": "1269313208",
-      "mapy": "375651344"
-    },
-    {
-      "title": "신촌칼",
-      "link": "https://instagram.com/shinchon_kal",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 5-96 1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
-      "mapx": "1269390887",
-      "mapy": "375578967"
-    },
-    {
       "title": "리틀쿠바",
       "link": "",
       "category": "음식점>양식",
@@ -49,15 +27,37 @@
       "mapy": "375589048"
     },
     {
-      "title": "와인률연희 연희동본점",
-      "link": "https://blog.naver.com/renguini",
+      "title": "뽁식당 신촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/bbok_sinchon",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 194-27 1층",
-      "roadAddress": "서울특별시 서대문구 연희로10가길 50 1층",
-      "mapx": "1269306890",
-      "mapy": "375648264"
+      "address": "서울특별시 서대문구 창천동 57-17 1층~4층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 24 1층~4층",
+      "mapx": "1269348603",
+      "mapy": "375570525"
+    },
+    {
+      "title": "요쇼쿠야 리나",
+      "link": "https://app.catchtable.co.kr/ct/shop/yoshokuyalina?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 190-14 1층 102호",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 39 1층 102호",
+      "mapx": "1269281096",
+      "mapy": "375667448"
+    },
+    {
+      "title": "신촌칼",
+      "link": "https://instagram.com/shinchon_kal",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-96 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
+      "mapx": "1269390887",
+      "mapy": "375578967"
     }
   ]
 }

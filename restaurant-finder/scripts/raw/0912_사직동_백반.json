@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:54 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375767519"
     },
     {
-      "title": "별미곱창",
-      "link": "",
-      "category": "한식>곱창,막창,양",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 187 별미곱창",
-      "roadAddress": "서울특별시 종로구 자하문로1길 50 별미곱창",
-      "mapx": "1269696746",
-      "mapy": "375769499"
-    },
-    {
       "title": "정통코다리",
       "link": "http://cdrgood.cafe24.com",
       "category": "한식>해물,생선요리",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로10길 14 1층",
       "mapx": "1269721224",
       "mapy": "375793735"
+    },
+    {
+      "title": "별미곱창",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 187 별미곱창",
+      "roadAddress": "서울특별시 종로구 자하문로1길 50 별미곱창",
+      "mapx": "1269696746",
+      "mapy": "375769499"
     },
     {
       "title": "키친온유",

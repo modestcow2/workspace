@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "374541093"
     },
     {
-      "title": "팔당<b>냉면</b> 용인<b>시청</b>점",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 용인시 처인구 삼가동 254-4",
-      "roadAddress": "경기도 용인시 처인구 중부대로 1175",
-      "mapx": "1271763589",
-      "mapy": "372389931"
-    },
-    {
       "title": "여러분면옥",
       "link": "",
       "category": "한식>냉면",
@@ -47,6 +36,17 @@
       "roadAddress": "경기도 고양시 덕양구 원당로33번길 66",
       "mapx": "1268291225",
       "mapy": "376579138"
+    },
+    {
+      "title": "팔당<b>냉면</b> 용인<b>시청</b>점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 용인시 처인구 삼가동 254-4",
+      "roadAddress": "경기도 용인시 처인구 중부대로 1175",
+      "mapx": "1271763589",
+      "mapy": "372389931"
     },
     {
       "title": "진주<b>냉면</b>산홍 진주<b>시청</b>점",

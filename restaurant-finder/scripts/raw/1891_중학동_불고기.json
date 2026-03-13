@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:10:14 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375745601"
     },
     {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
       "title": "솥내음 종로인사동점",
       "link": "https://map.naver.com/p/entry/place/2017586094",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
       "mapx": "1269805216",
       "mapy": "375706504"
-    },
-    {
-      "title": "온미관 안국",
-      "link": "https://www.instagram.com/onmigwananguk/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
-      "mapx": "1269861071",
-      "mapy": "375780371"
     }
   ]
 }

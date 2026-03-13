@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:41 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 21-1 1, 2층",
       "mapx": "1269710660",
       "mapy": "375746043"
+    },
+    {
+      "title": "서촌 서른즈음에",
+      "link": "https://blog.naver.com/at_about_30",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 2-2 1층 서른즈음에",
+      "roadAddress": "서울특별시 종로구 자하문로1길 5-1 1층 서른즈음에",
+      "mapx": "1269720659",
+      "mapy": "375764695"
     },
     {
       "title": "내자살롱",
@@ -35,17 +46,6 @@
       "address": "서울특별시 종로구 내자동 4 1F",
       "roadAddress": "서울특별시 종로구 자하문로1길 9 1F",
       "mapx": "1269718557",
-      "mapy": "375764695"
-    },
-    {
-      "title": "서촌 서른즈음에",
-      "link": "https://blog.naver.com/at_about_30",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 2-2 1층 서른즈음에",
-      "roadAddress": "서울특별시 종로구 자하문로1길 5-1 1층 서른즈음에",
-      "mapx": "1269720659",
       "mapy": "375764695"
     },
     {

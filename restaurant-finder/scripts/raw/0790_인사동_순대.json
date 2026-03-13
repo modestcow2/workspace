@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:59 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 인사동3길 20",
       "mapx": "1269858222",
       "mapy": "375718777"
+    },
+    {
+      "title": "금촌국밥",
+      "link": "https://www.instagram.com/_geumchon/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-36 1층",
+      "roadAddress": "서울특별시 종로구 인사동5길 20 1층",
+      "mapx": "1269851476",
+      "mapy": "375726006"
     },
     {
       "title": "합천돼지국밥",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 삼일대로 422",
       "mapx": "1269880132",
       "mapy": "375723557"
-    },
-    {
-      "title": "동백식당",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
-      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
-      "mapx": "1269842899",
-      "mapy": "375765173"
     },
     {
       "title": "응답한다1988 떡볶이 종로",

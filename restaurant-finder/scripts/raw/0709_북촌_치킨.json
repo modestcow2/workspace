@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:22 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375793487"
     },
     {
-      "title": "갓잇 안국점",
-      "link": "https://app.catchtable.co.kr/ct/shop/godeat_anguk",
-      "category": "음식점>멕시코,남미음식",
+      "title": "다운타우너 안국",
+      "link": "http://downtowner.co.kr/",
+      "category": "음식점>양식>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-30 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-5 1층",
-      "mapx": "1269859643",
-      "mapy": "375781671"
+      "address": "서울특별시 종로구 재동 85-3 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 6-4 1층",
+      "mapx": "1269862902",
+      "mapy": "375774450"
     }
   ]
 }

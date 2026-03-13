@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:23 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375623578"
     },
     {
-      "title": "샐러디 서울<b>시청</b>점",
-      "link": "http://www.salady.com/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 14-5 1층",
-      "roadAddress": "서울특별시 중구 세종대로18길 20-1 1층",
-      "mapx": "1269782375",
-      "mapy": "375636921"
-    },
-    {
       "title": "커스텀<b>샐러드</b> 부천<b>시청</b>점",
       "link": "https://www.instagram.com/customsalad_b/",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -49,15 +38,26 @@
       "mapy": "375031573"
     },
     {
-      "title": "조선보울 서울<b>시청</b>역점",
-      "link": "",
+      "title": "샐러디 서울<b>시청</b>점",
+      "link": "http://www.salady.com/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 14-2 2층 201호",
-      "roadAddress": "서울특별시 중구 서소문로 139 2층 201호",
-      "mapx": "1269762443",
-      "mapy": "375641181"
+      "address": "서울특별시 중구 북창동 14-5 1층",
+      "roadAddress": "서울특별시 중구 세종대로18길 20-1 1층",
+      "mapx": "1269782375",
+      "mapy": "375636921"
+    },
+    {
+      "title": "풀앤빵",
+      "link": "https://www.instagram.com/poolandbbang",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50-1 시티스타몰 101호",
+      "roadAddress": "서울특별시 중구 을지로 12 시티스타몰 101호",
+      "mapx": "1269783313",
+      "mapy": "375655659"
     }
   ]
 }

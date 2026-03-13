@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:58 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375624933"
     },
     {
+      "title": "웨스틴 조선 서울 루브리카",
+      "link": "https://www.josunhotel.com/resve/dining/resveForm.do",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 87-1 지하1층 웨스틴조선서울 저층 로비층",
+      "roadAddress": "서울특별시 중구 소공로 106 지하1층 웨스틴조선서울 저층 로비층",
+      "mapx": "1269800267",
+      "mapy": "375644228"
+    },
+    {
       "title": "오드하우스",
       "link": "https://www.instagram.com/odd_haus",
       "category": "음식점>양식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
       "mapx": "1269800349",
       "mapy": "375662396"
-    },
-    {
-      "title": "놉스 광화문점",
-      "link": "https://www.instagram.com/nops_steakhouse",
-      "category": "양식>스테이크,립",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 39 지하1층 B103, B104호",
-      "roadAddress": "서울특별시 중구 청계천로 24 지하1층 B103, B104호",
-      "mapx": "1269801781",
-      "mapy": "375685545"
     }
   ]
 }

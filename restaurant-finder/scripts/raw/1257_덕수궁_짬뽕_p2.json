@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:32 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375669224"
     },
     {
-      "title": "열빈 광화문점",
-      "link": "https://blog.naver.com/yb_food",
+      "title": "진아춘 광화문점",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 60-17",
-      "roadAddress": "서울특별시 중구 세종대로21길 22",
-      "mapx": "1269760497",
-      "mapy": "375675869"
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
+      "mapy": "375697325"
     }
   ]
 }

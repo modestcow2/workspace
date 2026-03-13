@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:22 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375785770"
     },
     {
-      "title": "가정식당",
-      "link": "",
-      "category": "한식>백반,가정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 20",
-      "roadAddress": "서울특별시 종로구 자하문로7길 69",
-      "mapx": "1269689620",
-      "mapy": "375802560"
-    },
-    {
       "title": "송림정육점",
       "link": "https://www.instagram.com/songlim_meat?igsh=d3I0N2NyMnUzaXFs",
       "category": "쇼핑,유통>정육점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 필운대로6길 3 송림빌딩 1층 (통인동) 송림정육점",
       "mapx": "1269688159",
       "mapy": "375808338"
+    },
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
     }
   ]
 }

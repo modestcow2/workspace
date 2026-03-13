@@ -12,7 +12,11 @@
       "Bash(curl:*)",
       "Bash(NAVER_CLIENT_ID=A_UO9kse0psI9uZytaFK NAVER_CLIENT_SECRET=zk372zalo8 node:*)",
       "Bash(git:*)",
-      "Bash(gh api:*)"
+      "Bash(gh api:*)",
+      "Bash(wc:*)",
+      "Bash(sed:*)",
+      "Bash(cd /c/Users/wilie/workspace/restaurant-finder/scripts && KAKAO_REST_API_KEY=7af2d35033e5432dcd36069900692691 node collect-hybrid.js --kakao-only)",
+      "Bash(KAKAO_REST_API_KEY=7af2d35033e5432dcd36069900692691 node collect-hybrid.js)"
     ]
   }
 }

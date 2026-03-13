@@ -1,30 +1,30 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:45 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "비움안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
+      "title": "심퍼티쿠시 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
-      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
-      "mapx": "1269856635",
-      "mapy": "375791098"
+      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
+      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
+      "mapx": "1269805312",
+      "mapy": "375755019"
     },
     {
-      "title": "플롭 안국",
-      "link": "https://www.instagram.com/plop_pizza",
-      "category": "음식점>피자",
+      "title": "루시드 서울",
+      "link": "http://instagram.com/lucyd_seoul",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-20",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5",
-      "mapx": "1269860684",
-      "mapy": "375779283"
+      "address": "서울특별시 종로구 운니동 62-1 1층 101호",
+      "roadAddress": "서울특별시 종로구 삼일대로32길 45 1층 101호",
+      "mapx": "1269895257",
+      "mapy": "375756045"
     },
     {
       "title": "스미스가좋아하는한옥",
@@ -49,15 +49,15 @@
       "mapy": "375786322"
     },
     {
-      "title": "테라스 꾸까",
-      "link": "https://instagram.com/terrace_kukka?igshid=MDM4ZDc5MmU=",
+      "title": "비움안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사간동 126-3 2층 테라스꾸까",
-      "roadAddress": "서울특별시 종로구 율곡로 1 2층 테라스꾸까",
-      "mapx": "1269797919",
-      "mapy": "375761769"
+      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
+      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
+      "mapx": "1269856635",
+      "mapy": "375791098"
     }
   ]
 }

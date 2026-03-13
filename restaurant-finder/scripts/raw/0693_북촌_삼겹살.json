@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:14 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375782908"
     },
     {
-      "title": "담솥 안국역점",
-      "link": "http://damsot.com/store/view.html?skey=%BE%C8%B1%B9&cate1=&cate2=&no=50",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 140-23 1층",
-      "roadAddress": "서울특별시 종로구 계동2길 4 1층",
-      "mapx": "1269868085",
-      "mapy": "375798245"
-    },
-    {
       "title": "황칠가 안국점",
       "link": "https://smartstore.naver.com/goodhealingshop",
       "category": "한식>육류,고기요리",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
       "mapx": "1269857055",
       "mapy": "375774305"
+    },
+    {
+      "title": "담솥 안국역점",
+      "link": "http://damsot.com/store/view.html?skey=%BE%C8%B1%B9&cate1=&cate2=&no=50",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-23 1층",
+      "roadAddress": "서울특별시 종로구 계동2길 4 1층",
+      "mapx": "1269868085",
+      "mapy": "375798245"
     },
     {
       "title": "삼청동김치찌개",

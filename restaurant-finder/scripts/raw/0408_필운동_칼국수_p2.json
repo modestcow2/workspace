@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:07 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375762596"
     },
     {
-      "title": "서촌칼제비",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 194 1층서촌칼제비",
-      "roadAddress": "서울특별시 종로구 자하문로1길 45-4 1층서촌칼제비",
-      "mapx": "1269697798",
-      "mapy": "375766683"
-    },
-    {
       "title": "봉평막국수",
       "link": "",
       "category": "한식>막국수",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 49",
       "mapx": "1269696998",
       "mapy": "375768414"
+    },
+    {
+      "title": "서촌칼제비",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 194 1층서촌칼제비",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45-4 1층서촌칼제비",
+      "mapx": "1269697798",
+      "mapy": "375766683"
     },
     {
       "title": "이가면옥",

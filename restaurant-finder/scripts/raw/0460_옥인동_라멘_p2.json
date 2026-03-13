@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:30 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:09:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375708089"
     },
     {
-      "title": "<b>라멘</b> 시미즈",
-      "link": "https://www.instagram.com/ramen_simiz",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 238 신문로빌딩 지하1층 37호",
-      "roadAddress": "서울특별시 종로구 새문안로3길 12 신문로빌딩 지하1층 37호",
-      "mapx": "1269729932",
-      "mapy": "375713640"
-    },
-    {
       "title": "오봉카츠",
       "link": "https://www.instagram.com/aubonkatsu",
       "category": "음식점>일식>일식당",
@@ -49,15 +38,26 @@
       "mapy": "375777902"
     },
     {
-      "title": "거북이의꿈 서촌점",
-      "link": "",
+      "title": "<b>라멘</b> 시미즈",
+      "link": "https://www.instagram.com/ramen_simiz",
       "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-15 1층 거북이의꿈 서촌점",
-      "roadAddress": "서울특별시 종로구 자하문로 31-6 1층 거북이의꿈 서촌점",
-      "mapx": "1269710606",
-      "mapy": "375787714"
+      "address": "서울특별시 종로구 신문로1가 238 신문로빌딩 지하1층 37호",
+      "roadAddress": "서울특별시 종로구 새문안로3길 12 신문로빌딩 지하1층 37호",
+      "mapx": "1269729932",
+      "mapy": "375713640"
+    },
+    {
+      "title": "칸다소바 경복궁점",
+      "link": "https://litt.ly/kandasoba",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 28-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
+      "mapx": "1269712623",
+      "mapy": "375782119"
     }
   ]
 }

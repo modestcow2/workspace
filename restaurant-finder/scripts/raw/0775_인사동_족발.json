@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375734758"
     },
     {
-      "title": "종로족빨 종로본점",
-      "link": "http://027341222.bdp.kr/",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 257 1층",
-      "roadAddress": "서울특별시 종로구 우정국로2길 14 1층",
-      "mapx": "1269837098",
-      "mapy": "375693280"
-    },
-    {
       "title": "<b>인사동</b>마늘보쌈",
       "link": "https://insadonggarlicbossam.com",
       "category": "한식>족발,보쌈",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로17길 23 2층",
       "mapx": "1269861953",
       "mapy": "375690666"
+    },
+    {
+      "title": "장군<b>족발</b>보쌈 신관",
+      "link": "https://blog.naver.com/momojanggun",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 59-10 세종빌딩",
+      "roadAddress": "서울특별시 종로구 삼일대로28길 6 세종빌딩",
+      "mapx": "1269883071",
+      "mapy": "375734297"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:02:40 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375784252"
     },
     {
+      "title": "쇼쿠도 합",
+      "link": "https://app.catchtable.co.kr/ct/shop/shokudo_hab",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 137-17 1층",
+      "mapx": "1269735847",
+      "mapy": "375763322"
+    },
+    {
       "title": "오봉카츠",
       "link": "https://www.instagram.com/aubonkatsu",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
       "mapx": "1269704883",
       "mapy": "375777902"
-    },
-    {
-      "title": "포시즌스 호텔 서울 아키라 백",
-      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 30 12층",
-      "roadAddress": "서울특별시 종로구 새문안로 97 12층",
-      "mapx": "1269753951",
-      "mapy": "375706979"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:12 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375791838"
     },
     {
-      "title": "안집",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 85-2 안집",
-      "roadAddress": "서울특별시 종로구 북촌로 6-6 안집",
-      "mapx": "1269863020",
-      "mapy": "375775859"
-    },
-    {
       "title": "큰기와집",
       "link": "https://blog.naver.com/keunkiwajip_0501",
       "category": "한식>한정식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 22 1층",
       "mapx": "1269854307",
       "mapy": "375787275"
+    },
+    {
+      "title": "안집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 85-2 안집",
+      "roadAddress": "서울특별시 종로구 북촌로 6-6 안집",
+      "mapx": "1269863020",
+      "mapy": "375775859"
     },
     {
       "title": "단상",

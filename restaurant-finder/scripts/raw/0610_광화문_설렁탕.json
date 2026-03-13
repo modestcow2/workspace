@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:37 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375641835"
     },
     {
-      "title": "은설<b>설렁탕</b>",
-      "link": "https://youtube.com/@eunsul_foodie",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 화동 55-1 은설설렁탕",
-      "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
-      "mapx": "1269816320",
-      "mapy": "375816001"
-    },
-    {
       "title": "종로<b>설렁탕</b>",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
       "mapx": "1269815002",
       "mapy": "375670246"
+    },
+    {
+      "title": "은설<b>설렁탕</b>",
+      "link": "https://youtube.com/@eunsul_foodie",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 55-1 은설설렁탕",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
+      "mapx": "1269816320",
+      "mapy": "375816001"
     }
   ]
 }

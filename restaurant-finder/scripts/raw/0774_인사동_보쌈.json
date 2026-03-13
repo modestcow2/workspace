@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:52 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375727819"
     },
     {
-      "title": "하얀고래 종각본점",
-      "link": "https://sites.google.com/view/hayangoraejonggakbonjeom",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 8-4 1층 109,110,111호",
-      "roadAddress": "서울특별시 종로구 종로 65 1층 109,110,111호",
-      "mapx": "1269847263",
-      "mapy": "375704878"
-    },
-    {
       "title": "양반댁",
       "link": "http://instagram.com/yangbandeck",
       "category": "한식>한정식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 19-18 양반댁",
       "mapx": "1269859113",
       "mapy": "375723316"
+    },
+    {
+      "title": "<b>인사동</b>토방",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 4-2 1층",
+      "roadAddress": "서울특별시 종로구 인사동6길 7 1층",
+      "mapx": "1269862937",
+      "mapy": "375734763"
     }
   ]
 }

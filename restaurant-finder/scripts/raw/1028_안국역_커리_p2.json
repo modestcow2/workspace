@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:48 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375781458"
     },
     {
-      "title": "인디아쉐프",
-      "link": "https://www.instagram.com/indiachef_insadong",
-      "category": "음식점>인도음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-36 2층",
-      "roadAddress": "서울특별시 종로구 인사동5길 20 2층",
-      "mapx": "1269852435",
-      "mapy": "375727026"
-    },
-    {
       "title": "니르바나",
       "link": "http://nirvanaseoul.com",
       "category": "음식점>인도음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 58 2층",
       "mapx": "1269837847",
       "mapy": "375751361"
+    },
+    {
+      "title": "인디아쉐프",
+      "link": "https://www.instagram.com/indiachef_insadong",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-36 2층",
+      "roadAddress": "서울특별시 종로구 인사동5길 20 2층",
+      "mapx": "1269852435",
+      "mapy": "375727026"
     }
   ]
 }

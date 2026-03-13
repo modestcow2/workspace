@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:43 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "뼈탄집 서촌본점",
-      "link": "http://www.bornpig.co.kr/index2.php",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 9-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 13",
-      "mapx": "1269717062",
-      "mapy": "375764468"
-    },
     {
       "title": "옹시미 경복궁점",
       "link": "https://blog.naver.com/omgseemegbg",
@@ -27,6 +16,39 @@
       "mapy": "375762516"
     },
     {
+      "title": "안주마을",
+      "link": "",
+      "category": "술집>포장마차",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 3",
+      "mapx": "1269721722",
+      "mapy": "375764582"
+    },
+    {
+      "title": "서촌계단집",
+      "link": "",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 11-1",
+      "roadAddress": "서울특별시 종로구 자하문로1길 15",
+      "mapx": "1269714587",
+      "mapy": "375764305"
+    },
+    {
+      "title": "뼈탄집 서촌본점",
+      "link": "http://www.bornpig.co.kr/index2.php",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 9-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13",
+      "mapx": "1269717062",
+      "mapy": "375764468"
+    },
+    {
       "title": "나무사이로 내자",
       "link": "https://www.instagram.com/namusairocoffee",
       "category": "음식점>카페,디저트",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로8길 21 카페 나무사이로",
       "mapx": "1269710030",
       "mapy": "375747164"
-    },
-    {
-      "title": "내자상회",
-      "link": "http://www.instagram.com/naeja_and_co",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 142 1층",
-      "roadAddress": "서울특별시 종로구 사직로10길 3 1층",
-      "mapx": "1269704803",
-      "mapy": "375757932"
-    },
-    {
-      "title": "버거드조선",
-      "link": "http://www.instagram.com/burger_de_joseon",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 147 1층",
-      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
-      "mapx": "1269704616",
-      "mapy": "375755982"
     }
   ]
 }

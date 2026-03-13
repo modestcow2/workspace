@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:50 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375706901"
     },
     {
-      "title": "JH텍사스바",
-      "link": "https://www.instagram.com/jhtexasbar_official",
+      "title": "거성호프",
+      "link": "",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 1 효령빌딩 1층",
-      "roadAddress": "서울특별시 중구 무교로 32 효령빌딩 1층",
-      "mapx": "1269795080",
-      "mapy": "375688120"
+      "address": "서울특별시 종로구 당주동 117 거성호프",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-7 거성호프",
+      "mapx": "1269739671",
+      "mapy": "375722869"
     },
     {
-      "title": "태성골뱅이신사 본점",
+      "title": "청계천 휴",
       "link": "",
-      "category": "술집>요리주점",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 129 1층",
-      "roadAddress": "서울특별시 중구 을지로3길 35 1층",
-      "mapx": "1269813057",
-      "mapy": "375677406"
+      "address": "서울특별시 종로구 관철동 32-4 청계천 휴",
+      "roadAddress": "서울특별시 종로구 청계천로 71 청계천 휴",
+      "mapx": "1269856226",
+      "mapy": "375686938"
     }
   ]
 }

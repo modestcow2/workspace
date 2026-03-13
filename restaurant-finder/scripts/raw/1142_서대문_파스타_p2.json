@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:39 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "신촌칼",
-      "link": "https://instagram.com/shinchon_kal",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 5-96 1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
-      "mapx": "1269390887",
-      "mapy": "375578967"
-    },
     {
       "title": "이석덕생면<b>파스타</b> 신촌점",
       "link": "https://www.instagram.com/lsd_pasta/",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 서대문구 증가로10길 57",
       "mapx": "1269249226",
       "mapy": "375795267"
+    },
+    {
+      "title": "신촌칼",
+      "link": "https://instagram.com/shinchon_kal",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-96 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
+      "mapx": "1269390887",
+      "mapy": "375578967"
     },
     {
       "title": "비아37 신촌본점",

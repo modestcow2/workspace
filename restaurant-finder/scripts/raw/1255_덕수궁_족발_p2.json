@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:31 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375644552"
     },
     {
-      "title": "종로보쌈",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 충정로2가 124",
-      "roadAddress": "서울특별시 서대문구 충정로 73",
-      "mapx": "1269659572",
-      "mapy": "375653260"
-    },
-    {
       "title": "만족오향<b>족발</b> 시청점 별관",
       "link": "",
       "category": "육류,고기요리>족발,보쌈",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 서소문로 136 유풍빌딩 1-2층",
       "mapx": "1269760425",
       "mapy": "375635600"
+    },
+    {
+      "title": "종로보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 124",
+      "roadAddress": "서울특별시 서대문구 충정로 73",
+      "mapx": "1269659572",
+      "mapy": "375653260"
     }
   ]
 }

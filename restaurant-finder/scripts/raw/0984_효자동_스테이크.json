@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:28 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "푸페또클럽",
+      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 98-6",
+      "roadAddress": "서울특별시 종로구 자하문로 50-1",
+      "mapx": "1269714513",
+      "mapy": "375805566"
+    },
     {
       "title": "까델루뽀",
       "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
@@ -27,17 +38,6 @@
       "mapy": "375821688"
     },
     {
-      "title": "고치비",
-      "link": "http://www.instagram.com/osteria_kochibi",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 195-2 1층 고치비",
-      "roadAddress": "서울특별시 종로구 필운대로 38 1층 고치비",
-      "mapx": "1269689316",
-      "mapy": "375793391"
-    },
-    {
       "title": "두오모",
       "link": "https://catchtable.co.kr/duomo",
       "category": "음식점>이탈리아음식",
@@ -49,15 +49,15 @@
       "mapy": "375816121"
     },
     {
-      "title": "데케드",
-      "link": "https://www.instagram.com/dekad.kafeteria/",
+      "title": "동남",
+      "link": "",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 218 1층 101호,102호",
-      "roadAddress": "서울특별시 종로구 자하문로7길 43 1층 101호,102호(누하동)",
-      "mapx": "1269696650",
-      "mapy": "375793249"
+      "address": "서울특별시 종로구 창성동 138-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 42-1 1층",
+      "mapx": "1269715802",
+      "mapy": "375798736"
     }
   ]
 }

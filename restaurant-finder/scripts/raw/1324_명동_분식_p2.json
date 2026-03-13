@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:02 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375623945"
     },
     {
-      "title": "병아리김밥 <b>명동</b>점",
-      "link": "https://chickgimbapmd.com/",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 3-3 지하1층",
-      "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
-      "mapx": "1269855893",
-      "mapy": "375629999"
-    },
-    {
       "title": "신세계떡볶이",
       "link": "",
       "category": "분식>떡볶이",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 명동9길 10",
       "mapx": "1269850160",
       "mapy": "375642992"
+    },
+    {
+      "title": "병아리김밥 <b>명동</b>점",
+      "link": "https://chickgimbapmd.com/",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 3-3 지하1층",
+      "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
+      "mapx": "1269855893",
+      "mapy": "375629999"
     },
     {
       "title": "영차떡볶이 <b>명동</b>점",

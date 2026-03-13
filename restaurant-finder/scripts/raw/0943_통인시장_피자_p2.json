@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375789547"
     },
     {
-      "title": "비텔로소띠",
-      "link": "http://catchtable.co.kr/vitellosotti",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
-      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
-      "mapx": "1269727845",
-      "mapy": "375769969"
-    },
-    {
       "title": "까사 이태리아",
       "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
       "category": "음식점>이탈리아음식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
       "mapx": "1269723542",
       "mapy": "375787841"
+    },
+    {
+      "title": "비텔로소띠",
+      "link": "http://catchtable.co.kr/vitellosotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
+      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
+      "mapx": "1269727845",
+      "mapy": "375769969"
     },
     {
       "title": "이태리총각 서촌점",

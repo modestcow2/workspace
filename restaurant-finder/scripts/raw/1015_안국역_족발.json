@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:42 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:14:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375739819"
     },
     {
-      "title": "빠삭<b>족발</b>",
-      "link": "",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 83 1층 빠삭족발",
-      "roadAddress": "서울특별시 종로구 삼일대로26길 22 1층 빠삭족발",
-      "mapx": "1269892794",
-      "mapy": "375733545"
-    },
-    {
       "title": "정담은보쌈 북촌점",
       "link": "http://jungdamun-bukchon.com",
       "category": "한식>족발,보쌈",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 계동길 33-9",
       "mapx": "1269861281",
       "mapy": "375788056"
+    },
+    {
+      "title": "콘타이 안국점",
+      "link": "https://www.instagram.com/konthai.official",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 98-5 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로 88 지하1층",
+      "mapx": "1269889236",
+      "mapy": "375768074"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:03 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375714199"
     },
     {
-      "title": "신가원 <b>설렁탕</b>",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 141 신가원설렁탕",
-      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
-      "mapx": "1269815002",
-      "mapy": "375670246"
-    },
-    {
       "title": "흥진옥",
       "link": "",
       "category": "한식>해장국",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로5길 19-12",
       "mapx": "1269802523",
       "mapy": "375713900"
+    },
+    {
+      "title": "신가원 <b>설렁탕</b>",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 141 신가원설렁탕",
+      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
+      "mapx": "1269815002",
+      "mapy": "375670246"
     }
   ]
 }

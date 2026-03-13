@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:09 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:17:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375733835"
     },
     {
-      "title": "신선식탁 광화문G타워점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 156 1층",
-      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
-      "mapx": "1269810076",
-      "mapy": "375727137"
-    },
-    {
       "title": "은성 한정식",
       "link": "",
       "category": "한식>한정식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
       "mapx": "1269814980",
       "mapy": "375729994"
+    },
+    {
+      "title": "더 키친 일뽀르노 광화문점",
+      "link": "https://thekitchenilforno.co.kr/index.do",
+      "category": "음식점>양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
+      "mapx": "1269812442",
+      "mapy": "375750348"
     },
     {
       "title": "오레노 야끼 종로점",
@@ -49,15 +49,15 @@
       "mapy": "375730606"
     },
     {
-      "title": "더 키친 일뽀르노 광화문점",
-      "link": "https://thekitchenilforno.co.kr/index.do",
-      "category": "음식점>양식>이탈리아음식",
+      "title": "이여곰탕 종로점",
+      "link": "https://clip.naver.com/@jongno_gomtang",
+      "category": "음식점>한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
-      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
-      "mapx": "1269812442",
-      "mapy": "375750348"
+      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "mapx": "1269807361",
+      "mapy": "375727720"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:36 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,19 +16,8 @@
       "mapy": "375708344"
     },
     {
-      "title": "고씨네동해막국수 종로직영점",
-      "link": "https://blog.naver.com/hjwm0116",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 68 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
-      "mapx": "1269846887",
-      "mapy": "375744624"
-    },
-    {
       "title": "광화문석갈비 D타워점",
-      "link": "https://www.lumi.co.kr/",
+      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
@@ -36,6 +25,28 @@
       "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
       "mapx": "1269789694",
       "mapy": "375710184"
+    },
+    {
+      "title": "신사동인동 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "우슴 광화문 직영점",
+      "link": "https://www.instagram.com/wusm.official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
     },
     {
       "title": "사직로 서울",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
       "mapx": "1269730650",
       "mapy": "375761905"
-    },
-    {
-      "title": "광화문정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
     }
   ]
 }

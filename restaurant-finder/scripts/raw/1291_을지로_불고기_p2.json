@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:47 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375677182"
     },
     {
-      "title": "평래옥",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 18-1",
-      "roadAddress": "서울특별시 중구 마른내로 21-1",
-      "mapx": "1269903879",
-      "mapy": "375649010"
-    },
-    {
       "title": "초불집",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 창경궁로8길 12",
       "mapx": "1269987685",
       "mapy": "375685173"
+    },
+    {
+      "title": "본고향맛집 <b>을지로</b>4가점",
+      "link": "https://blog.naver.com/bongohyang",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 123-1 세진빌딩",
+      "roadAddress": "서울특별시 중구 창경궁로 67 세진빌딩",
+      "mapx": "1269978304",
+      "mapy": "375683626"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:04:40 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375581394"
     },
     {
-      "title": "삼촌버거",
-      "link": "https://www.instagram.com/samchon_burger",
-      "category": "음식점>햄버거",
+      "title": "센트그릴 BBQ",
+      "link": "http://www.instagram.com/centgrill",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 104-36 1층 삼촌버거",
-      "roadAddress": "서울특별시 서대문구 신촌로 149 1층 삼촌버거",
-      "mapx": "1269424048",
-      "mapy": "375568564"
+      "address": "서울특별시 서대문구 연희동 188-87 지하 1층 센트그릴",
+      "roadAddress": "서울특별시 서대문구 연희로 89-3 지하 1층 센트그릴",
+      "mapx": "1269299673",
+      "mapy": "375661978"
     },
     {
       "title": "LORD SANDWICH",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:42 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375667937"
     },
     {
+      "title": "고우가 광화문점",
+      "link": "https://go.catchtable.co.kr/jrrhv4v",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
       "title": "미동식당",
       "link": "",
       "category": "술집>이자카야",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 서대문구 충정로6길 59 서소문아파트 1층 6호",
       "mapx": "1269682141",
       "mapy": "375629827"
-    },
-    {
-      "title": "고우가 광화문점",
-      "link": "https://www.instagram.com/gowooga_sfcmall/",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "mapx": "1269782701",
-      "mapy": "375684246"
     }
   ]
 }

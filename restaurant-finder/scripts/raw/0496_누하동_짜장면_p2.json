@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:59:46 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375696647"
     },
     {
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
+    },
+    {
       "title": "친니",
       "link": "http://www.chinee.co.kr/",
       "category": "중식>중식당",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
       "mapx": "1269762577",
       "mapy": "375724523"
-    },
-    {
-      "title": "중국",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
     },
     {
       "title": "라이빈",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:04 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375794396"
     },
     {
-      "title": "온미관 안국",
-      "link": "https://www.instagram.com/onmigwananguk/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
-      "mapx": "1269861071",
-      "mapy": "375780371"
-    },
-    {
       "title": "정담은<b>보쌈</b> 북촌점",
       "link": "http://jungdamun-bukchon.com",
       "category": "한식>족발,보쌈",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 계동길 33-9",
       "mapx": "1269861281",
       "mapy": "375788056"
+    },
+    {
+      "title": "온미관 안국",
+      "link": "https://www.instagram.com/onmigwananguk/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
+      "mapx": "1269861071",
+      "mapy": "375780371"
     },
     {
       "title": "진작 카키",

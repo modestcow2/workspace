@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:06:02 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    },
     {
       "title": "바리에가타 <b>명동</b>",
       "link": "https://www.variegata.company/",
@@ -38,26 +49,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "pasta ta ta",
-      "link": "https://app.catchtable.co.kr/ct/shop/pastatata",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 115 스몰하우스 빅도어 1층",
-      "roadAddress": "서울특별시 중구 남대문로9길 6 스몰하우스 빅도어 1층",
-      "mapx": "1269819673",
-      "mapy": "375669492"
-    },
-    {
-      "title": "라칸티나",
-      "link": "",
+      "title": "마노디셰프 <b>명동</b>점",
+      "link": "http://www.manodichef.co.kr/",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
-      "mapx": "1269800349",
-      "mapy": "375662396"
+      "address": "서울특별시 중구 명동2가 50-14 유네스코회관 11층",
+      "roadAddress": "서울특별시 중구 명동길 26 유네스코회관 11층",
+      "mapx": "1269837519",
+      "mapy": "375634602"
     }
   ]
 }

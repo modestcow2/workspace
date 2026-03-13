@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:00:29 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:10:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375762516"
     },
     {
-      "title": "영화루",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 25-1",
-      "roadAddress": "서울특별시 종로구 자하문로7길 65",
-      "mapx": "1269690130",
-      "mapy": "375801579"
-    },
-    {
       "title": "체부동잔치집",
       "link": "",
       "category": "한식>국수",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 16",
       "mapx": "1269715263",
       "mapy": "375765394"
+    },
+    {
+      "title": "영화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 25-1",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65",
+      "mapx": "1269690130",
+      "mapy": "375801579"
     }
   ]
 }

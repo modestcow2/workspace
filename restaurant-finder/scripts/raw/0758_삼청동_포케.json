@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:44 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:12:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
       "mapx": "1269860399",
       "mapy": "375774613"
-    },
-    {
-      "title": "샐러디 종로구청점",
-      "link": "http://www.salady.com/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 종로1가 대성스카이렉스 1층 110호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 종로1가 대성스카이렉스 1층 110호",
-      "mapx": "1269827978",
-      "mapy": "375724095"
     },
     {
       "title": "알라보 종각센트로폴리스점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 94 94빌딩, 1층 103호",
       "mapx": "1269822393",
       "mapy": "375717780"
+    },
+    {
+      "title": "뱃살도둑 종로구청점",
+      "link": "https://www.designrut.co.kr/batdo",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 117호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 117호",
+      "mapx": "1269815061",
+      "mapy": "375725618"
     }
   ]
 }

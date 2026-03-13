@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:46 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:16:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청와옥 <b>을지로</b>3가직영점",
-      "link": "https://www.instagram.com/cheongwaok/",
-      "category": "음식점>한식>육류,고기요리>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 346-1 1층 1호",
-      "roadAddress": "서울특별시 중구 을지로 110 1층 1호",
-      "mapx": "1269900656",
-      "mapy": "375660827"
-    },
     {
       "title": "산수갑산",
       "link": "",
@@ -38,6 +27,17 @@
       "mapy": "375664910"
     },
     {
+      "title": "청와옥 <b>을지로</b>3가직영점",
+      "link": "https://www.instagram.com/cheongwaok/",
+      "category": "음식점>한식>육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 346-1 1층 1호",
+      "roadAddress": "서울특별시 중구 을지로 110 1층 1호",
+      "mapx": "1269900656",
+      "mapy": "375660827"
+    },
+    {
       "title": "우래옥",
       "link": "",
       "category": "한식>냉면",
@@ -49,15 +49,15 @@
       "mapy": "375682697"
     },
     {
-      "title": "대엽 <b>을지로</b>",
-      "link": "https://app.catchtable.co.kr/ct/shop/daeyeop_euljiro",
-      "category": "음식점>한식",
+      "title": "순우블랙",
+      "link": "https://Instagram.com/soonwoo_black",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 342-5 1층",
-      "roadAddress": "서울특별시 중구 을지로 114 1층",
-      "mapx": "1269904676",
-      "mapy": "375661005"
+      "address": "서울특별시 중구 을지로2가 199-62",
+      "roadAddress": "서울특별시 중구 명동9길 37-3",
+      "mapx": "1269840365",
+      "mapy": "375654157"
     }
   ]
 }

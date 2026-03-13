@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:03:00 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:13:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375735857"
     },
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
-    },
-    {
       "title": "아이노가든키친",
       "link": "",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375728324"
     },
     {
-      "title": "인사도담",
-      "link": "https://insadodam.com/",
+      "title": "신사동인동 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 118-23 1층",
-      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
-      "mapx": "1269841610",
-      "mapy": "375751014"
+      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "서촌북촌",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 158 1층(북촌)",
+      "roadAddress": "서울특별시 종로구 자하문로7길 10 1층(북촌)",
+      "mapx": "1269711537",
+      "mapy": "375783804"
     }
   ]
 }

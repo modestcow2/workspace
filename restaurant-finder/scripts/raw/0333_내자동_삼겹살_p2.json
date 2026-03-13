@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:58:34 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:08:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 13",
       "mapx": "1269717062",
       "mapy": "375764468"
-    },
-    {
-      "title": "영삼이네 우정소갈비 서촌점",
-      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 20 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
-      "mapx": "1269712072",
-      "mapy": "375763691"
     },
     {
       "title": "사랑방",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
       "mapx": "1269720601",
       "mapy": "375766927"
+    },
+    {
+      "title": "육즙당 광화문점",
+      "link": "https://www.instagram.com/yukzupdang_official",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 42-2 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 10-1 2층",
+      "mapx": "1269750174",
+      "mapy": "375712635"
     }
   ]
 }

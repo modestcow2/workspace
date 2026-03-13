@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:10:11 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:20:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375806132"
     },
     {
-      "title": "고려<b>삼계탕</b> 광화문점",
-      "link": "http://www.krsamgyetang.com/",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 164",
-      "roadAddress": "서울특별시 종로구 세종대로23길 5-1",
-      "mapx": "1269761163",
-      "mapy": "375714982"
-    },
-    {
       "title": "서울<b>삼계탕</b>",
       "link": "",
       "category": "한식>백숙,삼계탕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 마른내로 19 2층",
       "mapx": "1269901969",
       "mapy": "375649565"
+    },
+    {
+      "title": "고려<b>삼계탕</b> 광화문점",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 164",
+      "roadAddress": "서울특별시 종로구 세종대로23길 5-1",
+      "mapx": "1269761163",
+      "mapy": "375714982"
     }
   ]
 }

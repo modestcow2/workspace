@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:07:48 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:18:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "서브큐 셰프플라자",
-      "link": "http://www.serveq.co.kr/",
-      "category": "서비스,산업>제조업",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 54-5 삼양사 사옥 지하1층 셰프플라자",
-      "roadAddress": "서울특별시 종로구 북촌로 18 삼양사 재동사옥 지하1층 셰프플라자",
-      "mapx": "1269856305",
-      "mapy": "375784666"
-    },
     {
       "title": "한양<b>중식</b> 종로점",
       "link": "http://www.instagram.com/haanyang/",
@@ -27,26 +16,15 @@
       "mapy": "375706386"
     },
     {
-      "title": "초류향",
-      "link": "https://www.instagram.com/choliu1989",
+      "title": "원흥",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 164-2",
-      "roadAddress": "서울특별시 중구 다동길 24-10",
-      "mapx": "1269804186",
-      "mapy": "375674951"
-    },
-    {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
+      "address": "서울특별시 중구 다동 92",
+      "roadAddress": "서울특별시 중구 다동길 46",
+      "mapx": "1269819007",
+      "mapy": "375678937"
     },
     {
       "title": "안래홍",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 종로7길 43",
       "mapx": "1269826639",
       "mapy": "375717166"
+    },
+    {
+      "title": "서호장",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 13-1",
+      "roadAddress": "서울특별시 종로구 수표로 91-1",
+      "mapx": "1269893831",
+      "mapy": "375694568"
+    },
+    {
+      "title": "차이들 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층 307, 308호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
     }
   ]
 }

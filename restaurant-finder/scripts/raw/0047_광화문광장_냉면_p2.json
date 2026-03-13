@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 16:56:20 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:06:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375671396"
     },
     {
-      "title": "류경회관 <b>광화문</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
-      "mapx": "1269818280",
-      "mapy": "375724939"
-    },
-    {
       "title": "을지면옥",
       "link": "",
       "category": "한식>냉면",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로30길 12",
       "mapx": "1269886066",
       "mapy": "375736812"
+    },
+    {
+      "title": "류경회관 <b>광화문</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
+      "mapx": "1269818280",
+      "mapy": "375724939"
     },
     {
       "title": "<b>광화문</b>면옥",

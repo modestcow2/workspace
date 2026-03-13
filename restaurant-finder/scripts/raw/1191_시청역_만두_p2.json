@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:05:01 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:15:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375671396"
     },
     {
-      "title": "천향원 명동점",
+      "title": "광화문면옥",
       "link": "",
-      "category": "중식>중식당",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
-      "roadAddress": "서울특별시 중구 남대문로7길 33 소공빌딩 2층 천향원",
-      "mapx": "1269800515",
-      "mapy": "375637808"
-    },
-    {
-      "title": "이북<b>만두</b>",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 27",
-      "roadAddress": "서울특별시 중구 무교로 17-13",
-      "mapx": "1269785551",
-      "mapy": "375673053"
+      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
+      "mapx": "1269747363",
+      "mapy": "375698520"
     },
     {
       "title": "탄백",
@@ -49,15 +38,26 @@
       "mapy": "375659578"
     },
     {
-      "title": "명동칼국수",
+      "title": "이북<b>만두</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 27",
+      "roadAddress": "서울특별시 중구 무교로 17-13",
+      "mapx": "1269785551",
+      "mapy": "375673053"
+    },
+    {
+      "title": "베테랑칼국수 롯데본점",
       "link": "",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
-      "mapx": "1269759250",
-      "mapy": "375686250"
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 B1F",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 B1F",
+      "mapx": "1269809861",
+      "mapy": "375646815"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:01:30 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:11:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 78",
       "mapx": "1269806900",
       "mapy": "375801317"
-    },
-    {
-      "title": "<b>삼청동</b>수제비",
-      "link": "http://www.삼청동수제비.kr",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 99",
-      "roadAddress": "서울특별시 종로구 삼청로 101-1",
-      "mapx": "1269819599",
-      "mapy": "375845273"
     },
     {
       "title": "율동<b>칼국수</b>",
@@ -49,15 +38,26 @@
       "mapy": "375845995"
     },
     {
-      "title": "깡통만두",
-      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
-      "category": "분식>만두",
+      "title": "삼청로조개<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-22 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
-      "mapx": "1269860918",
-      "mapy": "375781763"
+      "address": "서울특별시 종로구 삼청동 28-19",
+      "roadAddress": "서울특별시 종로구 삼청로 124-2",
+      "mapx": "1269819297",
+      "mapy": "375863317"
+    },
+    {
+      "title": "신라제면 안국점",
+      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
+      "mapx": "1269862338",
+      "mapy": "375782217"
     }
   ]
 }

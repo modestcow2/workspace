@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:09:13 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375803123"
     },
     {
-      "title": "삼동소바 북촌점",
-      "link": "https://www.instagram.com/samdong_bukchon",
-      "category": "음식점>일식>우동,소바",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 13 비03호",
-      "roadAddress": "서울특별시 종로구 계동길 119-1 비03호",
-      "mapx": "1269866762",
-      "mapy": "375825823"
-    },
-    {
       "title": "인사동쭈꾸미",
       "link": "http://instagram.com/insadong_chungsik",
       "category": "음식점>한식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
       "mapx": "1269858898",
       "mapy": "375791440"
+    },
+    {
+      "title": "삼동소바 북촌점",
+      "link": "https://www.instagram.com/samdong_bukchon",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 13 비03호",
+      "roadAddress": "서울특별시 종로구 계동길 119-1 비03호",
+      "mapx": "1269866762",
+      "mapy": "375825823"
     },
     {
       "title": "순이네가게",

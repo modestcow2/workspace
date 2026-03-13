@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Mon, 09 Mar 2026 17:08:38 +0900",
+  "lastBuildDate": "Fri, 13 Mar 2026 22:19:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "먹쉬돈나 삼청동점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 63-28 2층",
+      "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
+      "mapx": "1269819874",
+      "mapy": "375834586"
+    },
     {
       "title": "슬로우파크",
       "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 팔판길 46 2층",
       "mapx": "1269816137",
       "mapy": "375837662"
-    },
-    {
-      "title": "먹쉬돈나 삼청동점",
-      "link": "",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 63-28 2층",
-      "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
-      "mapx": "1269819874",
-      "mapy": "375834586"
     },
     {
       "title": "감동칩스 북촌본점",

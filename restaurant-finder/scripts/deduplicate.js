@@ -68,4 +68,57 @@ function deduplicate(items) {
   return result;
 }
 
-module.exports = { deduplicate, distanceMeters };
+/**
+ * 교차 소스 중복제거 (Stage 4)
+ * 카카오(primary)와 네이버(secondary) 결과를 합치되,
+ * 정규화된 이름 + 50m 이내 거리로 매칭.
+ * - 좌표: 카카오 우선 (WGS84 네이티브)
+ * - 카테고리: 더 상세한 쪽 채택
+ * - 주소: 카카오 우선
+ */
+function deduplicateCrossSource(primaryItems, secondaryItems) {
+  const merged = [...primaryItems];
+
+  for (const sec of secondaryItems) {
+    const secNorm = normalizeName(sec.title);
+    let isDuplicate = false;
+
+    for (const pri of merged) {
+      const priNorm = normalizeName(pri.title);
+
+      // 이름이 같고 50m 이내면 중복
+      if (priNorm === secNorm) {
+        const dist = distanceMeters(pri.lat, pri.lng, sec.lat, sec.lng);
+        if (dist < 50) {
+          // 카테고리가 더 상세한 쪽으로 보강
+          if (sec.category && pri.category) {
+            const secDepth = sec.category.split('>').length;
+            const priDepth = pri.category.split('>').length;
+            if (secDepth > priDepth) {
+              pri.categoryNaver = sec.category;
+            }
+          }
+          isDuplicate = true;
+          break;
+        }
+      }
+
+      // 이름이 다르더라도 같은 주소(roadAddress) + 50m 이내면 중복
+      if (pri.roadAddress && sec.roadAddress && pri.roadAddress === sec.roadAddress) {
+        const dist = distanceMeters(pri.lat, pri.lng, sec.lat, sec.lng);
+        if (dist < 100) {
+          isDuplicate = true;
+          break;
+        }
+      }
+    }
+
+    if (!isDuplicate) {
+      merged.push(sec);
+    }
+  }
+
+  return merged;
+}
+
+module.exports = { deduplicate, deduplicateCrossSource, distanceMeters };

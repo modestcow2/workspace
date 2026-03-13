@@ -1,0 +1,11 @@
+# API response raw data (regenerated on each run)
+restaurant-finder/scripts/raw/
+restaurant-finder/scripts/raw-kakao/
+
+# Backups
+restaurant-finder/scripts/backups/
+
+# CI/temporary files
+restaurant-finder/scripts/tracking.json
+restaurant-finder/scripts/change-report.md
+restaurant-finder/scripts/has-changes.txt

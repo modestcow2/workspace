@@ -219,8 +219,19 @@ function detectCuisineFromCategory(category) {
   return '한식';
 }
 
+/**
+ * 카카오 카테고리 포맷("음식점 > 한식 > 국밥")을
+ * 네이버 포맷("음식점>한식>국밥")으로 정규화
+ */
+function normalizeCategory(category) {
+  if (!category) return '';
+  // 카카오: "음식점 > 한식 > 국밥" → "음식점>한식>국밥"
+  return category.replace(/\s*>\s*/g, '>');
+}
+
 function inferTags(item) {
-  const category = (item.category || '').toLowerCase();
+  const rawCategory = normalizeCategory(item.categoryNaver || item.category || '');
+  const category = rawCategory.toLowerCase();
   const title = stripHtml(item.title).toLowerCase();
   const combined = `${category} ${title}`;
 
@@ -256,7 +267,7 @@ function inferTags(item) {
 
   // 메뉴 추출: 규칙 기본 메뉴 + 카테고리 최하위
   const mainMenu = [...matched.menu];
-  const catParts = (item.category || '').split('>').map(s => s.trim());
+  const catParts = rawCategory.split('>').map(s => s.trim());
   if (catParts.length >= 3) {
     const leaf = catParts[catParts.length - 1];
     if (!mainMenu.includes(leaf) && leaf !== '음식점') {

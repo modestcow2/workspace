@@ -20,9 +20,7 @@ const FILTER_META = `const FILTER_META = {
   temp:     { label: '온도',        icon: '🌡️',
     options: ['차가운', '뜨끈한'] },
   occasion: { label: '상황·목적',   icon: '🎯',
-    options: ['혼밥', '사교·회식', '안주'] },
-  health:   { label: '건강·소화',   icon: '💪',
-    options: ['디톡스', '벌크업·보양', '저자극'] },
+    options: ['혼밥', '사교', '단체', '비즈니스'] },
 };`;
 
 // 이름+주소 기반 안정 해시 ID (data.js 재생성 시에도 ID 유지)

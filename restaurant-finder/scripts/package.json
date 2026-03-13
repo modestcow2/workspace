@@ -4,7 +4,11 @@
   "private": true,
   "description": "네이버 지역 검색 API를 활용한 경복궁역 근처 식당 데이터 수집",
   "scripts": {
-    "collect": "node collect-restaurants.js"
+    "collect": "node collect-restaurants.js",
+    "collect:kakao": "node collect-kakao.js",
+    "collect:hybrid": "node collect-hybrid.js",
+    "detect-changes": "node detect-changes.js",
+    "update": "node collect-hybrid.js && node detect-changes.js"
   },
   "dependencies": {
     "axios": "^1.6.0",

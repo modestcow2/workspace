@@ -8,10 +8,16 @@
     "collect:kakao": "node collect-kakao.js",
     "collect:hybrid": "node collect-hybrid.js",
     "detect-changes": "node detect-changes.js",
-    "update": "node collect-hybrid.js && node detect-changes.js"
+    "update": "node collect-hybrid.js && node detect-changes.js",
+    "fetch:detail": "node fetch-place-detail.js",
+    "fetch:kakao-detail": "node fetch-kakao-detail.js",
+    "rebuild": "node rebuild-data.js",
+    "validate": "node validate-data.js",
+    "full-rebuild": "node fetch-place-detail.js && node fetch-kakao-detail.js && node rebuild-data.js && node validate-data.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
+    "cheerio": "^1.2.0",
     "proj4": "^2.9.0"
   }
 }

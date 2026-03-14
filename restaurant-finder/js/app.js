@@ -5,7 +5,7 @@ const STORAGE_VERSION = 'restaurant_finder_version';
 // ─── 상태 ────────────────────────────────────────────────────────────────────
 const activeFilters = {
   flavor: new Set(), cooking: new Set(),
-  cuisine: new Set(), occasion: new Set(),
+  cuisine: new Set(), foodType: new Set(), occasion: new Set(),
   distance: new Set(), price: new Set()
 };
 let allRestaurants = [];
@@ -243,7 +243,7 @@ function renderCards(filtered) {
       : '';
 
     return `
-      <article class="restaurant-card${isCustom ? ' custom-card' : ''}" data-id="${r.id}">
+      <article class="restaurant-card${isCustom ? ' custom-card' : ''}" data-id="${r.id}" style="cursor:pointer">
         <div class="flex items-start gap-2 mb-2">
           <span class="text-2xl flex-shrink-0 mt-0.5">${getCuisineEmoji(r.tags)}</span>
           <div class="min-w-0 flex-1">
@@ -252,14 +252,6 @@ function renderCards(filtered) {
               ${badgeHtml}
             </div>
             <p class="text-xs text-gray-400 truncate">${r.address}</p>
-            <div class="flex gap-1 mt-0.5">
-              <a href="https://map.naver.com/p/search/${encodeURIComponent(r.name)}?c=${r.lng},${r.lat},15,0,0,0,dh"
-                 target="_blank" rel="noopener" class="map-link map-link-naver"
-                 onclick="event.stopPropagation()">🗺️ 네이버</a>
-              <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(r.name + ' ' + r.address)}"
-                 target="_blank" rel="noopener" class="map-link map-link-google"
-                 onclick="event.stopPropagation()">🌍 구글</a>
-            </div>
           </div>
           <span class="text-xs text-gray-400 flex-shrink-0 ml-1">${r.distanceKm}km</span>
         </div>
@@ -291,6 +283,16 @@ function renderCards(filtered) {
       </article>
     `;
   }).join('');
+
+  // 카드 클릭 → 네이버 지도 열기
+  grid.querySelectorAll('.restaurant-card').forEach(card => {
+    card.addEventListener('click', () => {
+      const r = allRestaurants.find(x => x.id === +card.dataset.id);
+      if (r) {
+        window.open(`https://map.naver.com/p/search/${encodeURIComponent(r.name)}?c=${r.lng},${r.lat},15,0,0,0,dh`, '_blank');
+      }
+    });
+  });
 
   // 버튼 이벤트
   grid.querySelectorAll('.edit-btn').forEach(btn => {
@@ -336,6 +338,10 @@ function render() {
   sortRestaurants(filtered);
   renderFilterPanel();
   renderActiveChips();
+
+  // 지도 뷰일 때 정렬 드롭다운 숨기기
+  const sortSelect = document.getElementById('sort-select');
+  if (sortSelect) sortSelect.style.display = isMapView ? 'none' : '';
 
   if (isMapView) {
     MapView.show();
@@ -537,7 +543,7 @@ function collectFormData(formData) {
   const lng      = parseFloat(formData.get('lng')) || null;
   const mainMenu = mainMenuRaw.split(',').map(s => s.trim()).filter(Boolean);
 
-  const tags = { flavor: [], cooking: [], cuisine: [], occasion: [] };
+  const tags = { flavor: [], cooking: [], cuisine: [], foodType: [], occasion: [] };
   document.querySelectorAll('.modal-tag-btn.selected').forEach(btn => {
     if (tags[btn.dataset.cat]) tags[btn.dataset.cat].push(btn.dataset.tag);
   });
@@ -650,10 +656,11 @@ async function handleSubmit(e) {
 
 // ─── Firebase Auth 상태 리스너 ───────────────────────────────────────────────
 function setupAuth() {
-  const loginBtn   = document.getElementById('auth-login-btn');
-  const logoutBtn  = document.getElementById('auth-logout-btn');
-  const userInfo   = document.getElementById('auth-user-info');
-  const adminLink  = document.getElementById('admin-link');
+  const loginBtn      = document.getElementById('auth-login-btn');
+  const logoutBtn     = document.getElementById('auth-logout-btn');
+  const userInfo      = document.getElementById('auth-user-info');
+  const adminLink     = document.getElementById('admin-link');
+  const userRoleBadge = document.getElementById('user-role-badge');
 
   loginBtn.addEventListener('click', () => {
     const provider = new firebase.auth.GoogleAuthProvider();
@@ -675,6 +682,7 @@ function setupAuth() {
       userInfo.textContent = user.email;
       isAdmin = (user.email === ADMIN_EMAIL);
       adminLink.style.display = isAdmin ? '' : 'none';
+      userRoleBadge.style.display = isAdmin ? 'none' : '';
       if (isAdmin) {
         fetchPendingSuggestions().then(list => {
           const badge = document.getElementById('pending-badge');
@@ -693,6 +701,7 @@ function setupAuth() {
       userInfo.textContent = '';
       isAdmin = false;
       adminLink.style.display = 'none';
+      userRoleBadge.style.display = 'none';
     }
     // 권한 변경 시 버튼 텍스트 갱신
     render();

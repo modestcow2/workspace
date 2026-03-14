@@ -240,6 +240,7 @@
 .tag-cooking  { background: #fef3c7; color: #92400e; }  /* 황금 */
 .tag-cuisine  { background: #ffedd5; color: #9a3412; }  /* 주황 */
 .tag-occasion { background: #f3e8ff; color: #6b21a8; }  /* 보라 */
+.tag-foodType { background: #dcfce7; color: #166534; }  /* 초록 */
 
 /* ── 카드 액션 버튼 영역 ────────────────────────────────────── */
 .card-actions {
@@ -396,6 +397,20 @@
 }
 
 /* ── 관리자 버튼 + 배지 ──────────────────────────────────────── */
+.user-role-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  border-radius: 8px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #059669;
+  background: #ecfdf5;
+  border: 1px solid #a7f3d0;
+  white-space: nowrap;
+}
+
 .admin-link-btn {
   position: relative;
   display: inline-flex;

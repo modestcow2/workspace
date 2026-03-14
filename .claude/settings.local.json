@@ -16,7 +16,9 @@
       "Bash(wc:*)",
       "Bash(sed:*)",
       "Bash(cd /c/Users/wilie/workspace/restaurant-finder/scripts && KAKAO_REST_API_KEY=7af2d35033e5432dcd36069900692691 node collect-hybrid.js --kakao-only)",
-      "Bash(KAKAO_REST_API_KEY=7af2d35033e5432dcd36069900692691 node collect-hybrid.js)"
+      "Bash(KAKAO_REST_API_KEY=7af2d35033e5432dcd36069900692691 node collect-hybrid.js)",
+      "Bash(PYTHONIOENCODING=utf-8 python3 -c \"\nimport re\nwith open\\('C:/Users/wilie/workspace/restaurant-finder/js/data.js', 'r', encoding='utf-8'\\) as f:\n    content = f.read\\(\\)\ncuisines = re.findall\\(r'\\\\\"cuisine\\\\\":\\\\s*\\\\[\\\\s*\\\\\"\\([^\\\\\"]+\\)\\\\\"', content\\)\nfrom collections import Counter\nfor val, cnt in Counter\\(cuisines\\).most_common\\(\\):\n    print\\(f'{cnt}  {val}'\\)\n\" 2>&1)",
+      "Bash(xxd \"C:\\\\Users\\\\wilie\\\\workspace\\\\restaurant-finder\\\\scripts\\\\generate-data.js\" | head -n 5; cat -A \"C:\\\\Users\\\\wilie\\\\workspace\\\\restaurant-finder\\\\scripts\\\\generate-data.js\" | sed -n '22,23p')"
     ]
   }
 }

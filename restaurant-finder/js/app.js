@@ -4,8 +4,8 @@ const STORAGE_VERSION = 'restaurant_finder_version';
 
 // ─── 상태 ────────────────────────────────────────────────────────────────────
 const activeFilters = {
-  flavor: new Set(), texture: new Set(), cooking: new Set(),
-  cuisine: new Set(), temp: new Set(), occasion: new Set(),
+  flavor: new Set(), cooking: new Set(),
+  cuisine: new Set(), occasion: new Set(),
   distance: new Set(), price: new Set()
 };
 let allRestaurants = [];
@@ -89,11 +89,21 @@ function filterRestaurants() {
         return r.distanceKm <= maxDist;
       }
       if (cat === 'price') {
-        return [...sel].some(p => r.priceRange === p);
+        const PRICE_LABEL_MAP = { '1만원이하(₩)': '₩', '1~2만원(₩₩)': '₩₩', '2~3만원(₩₩₩)': '₩₩₩', '3만원 이상(₩₩₩₩)': '₩₩₩₩' };
+        return [...sel].some(p => r.priceRange === (PRICE_LABEL_MAP[p] || p));
       }
       if (cat === 'flavor') {
         const combined = [...(r.tags.flavor || []), ...(r.tags.texture || [])];
         return [...sel].some(tag => combined.includes(tag));
+      }
+      if (cat === 'cuisine') {
+        const cuisineTags = r.tags.cuisine || [];
+        return [...sel].some(tag => {
+          if (tag === '동남아') return cuisineTags.some(t => ['동남아', '에스닉', '아시안'].includes(t));
+          if (tag === '기타지역') return cuisineTags.some(t => ['기타지역', '디저트·카페'].includes(t) || !['한식','중식','일식','양식','이탈리안','동남아','에스닉','아시안','퓨전'].includes(t));
+          if (tag === '이탈리안') return cuisineTags.includes('이탈리안');
+          return cuisineTags.includes(tag);
+        });
       }
       return [...sel].some(tag => (r.tags[cat] || []).includes(tag));
     });
@@ -424,7 +434,7 @@ function buildTagSelector(selectedTags = {}) {
   const container = document.getElementById('tag-selector');
   container.innerHTML = '';
   Object.entries(FILTER_META).forEach(([cat, meta]) => {
-    if (['distance', 'temp', 'price'].includes(cat)) return;
+    if (['distance', 'price'].includes(cat)) return;
     const div = document.createElement('div');
     const p   = document.createElement('p');
     p.className = 'text-xs font-semibold text-gray-500 mb-1.5';
@@ -436,7 +446,10 @@ function buildTagSelector(selectedTags = {}) {
     meta.options.forEach(tag => {
       const btn = document.createElement('button');
       btn.type = 'button';
-      btn.className = 'modal-tag-btn' + ((selectedTags[cat] || []).includes(tag) ? ' selected' : '');
+      const selectedList = cat === 'flavor'
+        ? [...(selectedTags.flavor || []), ...(selectedTags.texture || [])]
+        : (selectedTags[cat] || []);
+      btn.className = 'modal-tag-btn' + (selectedList.includes(tag) ? ' selected' : '');
       btn.dataset.cat = cat;
       btn.dataset.tag = tag;
       btn.textContent = tag;

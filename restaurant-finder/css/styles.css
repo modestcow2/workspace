@@ -237,10 +237,8 @@
   font-weight: 600;
 }
 .tag-flavor   { background: #fce7f3; color: #9d174d; }  /* 분홍 */
-.tag-texture  { background: #dcfce7; color: #14532d; }  /* 초록 */
 .tag-cooking  { background: #fef3c7; color: #92400e; }  /* 황금 */
 .tag-cuisine  { background: #ffedd5; color: #9a3412; }  /* 주황 */
-.tag-temp     { background: #e0f2fe; color: #075985; }  /* 하늘 */
 .tag-occasion { background: #f3e8ff; color: #6b21a8; }  /* 보라 */
 
 /* ── 카드 액션 버튼 영역 ────────────────────────────────────── */

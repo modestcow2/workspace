@@ -44,10 +44,10 @@ const KEYWORD_TAG_MAP = {
   // occasion 보정
   '혼밥': { category: 'occasion', tag: '혼밥' },
   '혼술': { category: 'occasion', tag: '혼밥' },
-  '회식': { category: 'occasion', tag: '사교·회식' },
-  '모임': { category: 'occasion', tag: '사교·회식' },
-  '데이트': { category: 'occasion', tag: '사교·회식' },
-  '안주': { category: 'occasion', tag: '안주' },
+  '회식': { category: 'occasion', tag: '사교' },
+  '모임': { category: 'occasion', tag: '사교' },
+  '데이트': { category: 'occasion', tag: '사교' },
+  '안주': { category: 'occasion', tag: '사교' },
   // health 보정
   '건강': { category: 'health', tag: '저자극' },
   '보양': { category: 'health', tag: '벌크업·보양' },
@@ -227,7 +227,7 @@ function inferFoodTypeFromExisting(tags, mainMenu) {
       else if (cuisine.includes('동남아')) foodTypes.push('베트남·동남아');
     }
     if (cooking.includes('튀김')) foodTypes.push('돈카츠');
-    if (cooking.includes('디저트·베이킹')) foodTypes.push('카페·디저트');
+    if (cooking.includes('베이킹')) foodTypes.push('카페·디저트');
     if (cooking.includes('생식·무침')) {
       if (cuisine.includes('일식')) foodTypes.push('일식·초밥');
       else if (cuisine.includes('양식')) foodTypes.push('브런치·샐러드');

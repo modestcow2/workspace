@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375670246"
     },
     {
+      "title": "풍년옥",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 17-1",
+      "roadAddress": "서울특별시 종로구 새문안로7길 26",
+      "mapx": "1269750867",
+      "mapy": "375714199"
+    },
+    {
       "title": "은설<b>설렁탕</b>",
       "link": "https://youtube.com/@eunsul_foodie",
       "category": "음식점>한식",
@@ -38,26 +49,15 @@
       "mapy": "375816001"
     },
     {
-      "title": "흥진옥",
+      "title": "대장금",
       "link": "",
-      "category": "한식>해장국",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 142-1",
-      "roadAddress": "서울특별시 종로구 종로5길 19-12",
-      "mapx": "1269802523",
-      "mapy": "375713900"
-    },
-    {
-      "title": "풍년옥",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 17-1",
-      "roadAddress": "서울특별시 종로구 새문안로7길 26",
-      "mapx": "1269750867",
-      "mapy": "375714199"
+      "address": "서울특별시 종로구 내수동 74 지하1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층",
+      "mapx": "1269731379",
+      "mapy": "375737740"
     }
   ]
 }

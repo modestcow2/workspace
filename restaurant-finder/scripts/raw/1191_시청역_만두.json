@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:28 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 을지로3길 24",
       "mapx": "1269815998",
       "mapy": "375671396"
-    },
-    {
-      "title": "광화문면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
     },
     {
       "title": "탄백",
@@ -49,15 +38,26 @@
       "mapy": "375673053"
     },
     {
-      "title": "베테랑칼국수 롯데본점",
+      "title": "명동칼국수",
       "link": "",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 B1F",
-      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 B1F",
-      "mapx": "1269809861",
-      "mapy": "375646815"
+      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
+      "mapx": "1269759250",
+      "mapy": "375686250"
+    },
+    {
+      "title": "현대칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-3 청남빌딩",
+      "roadAddress": "서울특별시 중구 세종대로 76 청남빌딩",
+      "mapx": "1269770000",
+      "mapy": "375628000"
     }
   ]
 }

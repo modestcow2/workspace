@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:01 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375777908"
     },
     {
-      "title": "장수<b>삼계탕</b>",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
+      "title": "황칠가 안국점",
+      "link": "https://smartstore.naver.com/goodhealingshop",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 80-6 석탄회관빌딩",
-      "roadAddress": "서울특별시 종로구 종로5길 58 석탄회관빌딩",
-      "mapx": "1269804260",
-      "mapy": "375729490"
+      "address": "서울특별시 종로구 재동 109 지하 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
+      "mapx": "1269857055",
+      "mapy": "375774305"
     },
     {
       "title": "음식이야기밥",

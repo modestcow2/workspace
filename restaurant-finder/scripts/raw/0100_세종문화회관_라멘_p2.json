@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375708344"
     },
     {
+      "title": "멘노아지 종로점",
+      "link": "https://www.instagram.com/mennoage_jongno?igsh=MTNzcHFzOHhkNXdhZw%3D%3D&utm_source=qr",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 1층 101호",
+      "roadAddress": "서울특별시 종로구 종로5길 7 1층 101호",
+      "mapx": "1269803681",
+      "mapy": "375708089"
+    },
+    {
       "title": "도마 유즈<b>라멘</b>",
       "link": "https://www.instagram.com/yuzu_ramen2",
       "category": "음식점>일식>일본식라면",
@@ -27,26 +38,15 @@
       "mapy": "375778648"
     },
     {
-      "title": "멘츠루 시청점",
-      "link": "",
+      "title": "<b>라멘</b> 시미즈",
+      "link": "https://www.instagram.com/ramen_simiz",
       "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
-      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
-      "mapx": "1269731249",
-      "mapy": "375629944"
-    },
-    {
-      "title": "멘노아지 종로점",
-      "link": "https://www.instagram.com/mennoage_jongno?igsh=MTNzcHFzOHhkNXdhZw%3D%3D&utm_source=qr",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 128 1층 101호",
-      "roadAddress": "서울특별시 종로구 종로5길 7 1층 101호",
-      "mapx": "1269803681",
-      "mapy": "375708089"
+      "address": "서울특별시 종로구 신문로1가 238 신문로빌딩 지하1층 37호",
+      "roadAddress": "서울특별시 종로구 새문안로3길 12 신문로빌딩 지하1층 37호",
+      "mapx": "1269729932",
+      "mapy": "375713640"
     },
     {
       "title": "멘츠루 종로점",

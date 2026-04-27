@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:10 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375774163"
     },
     {
-      "title": "바닷가작은부엌 경희궁점",
-      "link": "http://www.seasidekitchen.co.kr/",
+      "title": "동원참치 광화문본점",
+      "link": "http://tuna.dongwon.com/",
       "category": "한식>생선회",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 12-5 5층",
-      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
-      "mapx": "1269698101",
-      "mapy": "375683937"
+      "address": "서울특별시 종로구 적선동 80 현대적선빌딩 지하1층 22호",
+      "roadAddress": "서울특별시 종로구 사직로 130 현대적선빌딩 지하1층 22호",
+      "mapx": "1269732248",
+      "mapy": "375754136"
     },
     {
       "title": "<b>스시</b>이찌 광화문점",
@@ -49,15 +49,15 @@
       "mapy": "375734105"
     },
     {
-      "title": "포시즌스 호텔 서울 아키라 백",
-      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
-      "category": "음식점>일식>일식당",
+      "title": "바닷가작은부엌 경희궁점",
+      "link": "http://www.seasidekitchen.co.kr/",
+      "category": "한식>생선회",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 30 12층",
-      "roadAddress": "서울특별시 종로구 새문안로 97 12층",
-      "mapx": "1269753951",
-      "mapy": "375706979"
+      "address": "서울특별시 종로구 신문로2가 12-5 5층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
+      "mapx": "1269698101",
+      "mapy": "375683937"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:07:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375761905"
     },
     {
+      "title": "전설의우대<b>갈비</b> 서울시청직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    },
+    {
       "title": "통의동 국빈관 경복궁역점",
       "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
       "category": "한식>소고기구이",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
       "mapx": "1269824621",
       "mapy": "375726226"
-    },
-    {
-      "title": "<b>광화문</b>석<b>갈비</b> D타워점",
-      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
     }
   ]
 }

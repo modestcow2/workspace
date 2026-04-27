@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로 78",
       "mapx": "1269769761",
       "mapy": "375631376"
+    },
+    {
+      "title": "장수돌삼겹살<b>보쌈</b>김치찌개",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 6-8",
+      "roadAddress": "서울특별시 중구 세종대로 13",
+      "mapx": "1269732258",
+      "mapy": "375582518"
     }
   ]
 }

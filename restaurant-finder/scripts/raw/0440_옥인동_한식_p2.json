@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:35 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,28 +27,6 @@
       "mapy": "375814609"
     },
     {
-      "title": "안전가옥",
-      "link": "",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 47-105 .1층",
-      "roadAddress": "서울특별시 종로구 필운대로9나길 3 .1층",
-      "mapx": "1269670796",
-      "mapy": "375824570"
-    },
-    {
-      "title": "목련나무집",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 58",
-      "roadAddress": "서울특별시 종로구 자하문로 74",
-      "mapx": "1269708726",
-      "mapy": "375824927"
-    },
-    {
       "title": "사랑방손칼국수",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
       "mapx": "1269725749",
       "mapy": "375825416"
+    },
+    {
+      "title": "서촌 국시한그릇",
+      "link": "http://instagram.com/soechongooksi",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 41 2층",
+      "roadAddress": "서울특별시 종로구 필운대로 61 2층",
+      "mapx": "1269683514",
+      "mapy": "375814504"
+    },
+    {
+      "title": "토방",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 30",
+      "roadAddress": "서울특별시 종로구 자하문로 66-1",
+      "mapx": "1269709589",
+      "mapy": "375819609"
     }
   ]
 }

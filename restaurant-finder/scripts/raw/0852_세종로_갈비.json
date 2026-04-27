@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:48 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375687918"
     },
     {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
-    {
       "title": "금성회관 서울시청직영점",
       "link": "https://www.instagram.com/gumseong5",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
       "mapx": "1269774892",
       "mapy": "375623316"
+    },
+    {
+      "title": "전설의우대<b>갈비</b> 서울시청직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
     }
   ]
 }

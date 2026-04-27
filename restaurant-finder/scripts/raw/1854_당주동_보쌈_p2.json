@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375756107"
     },
     {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
-    {
       "title": "족발야시장&amp;무청감자탕 광화문점",
       "link": "https://go.catchtable.co.kr/zyn34t",
       "category": "육류,고기요리>족발,보쌈",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 지상1층 101호",
       "mapx": "1269728682",
       "mapy": "375719236"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
     },
     {
       "title": "다온",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,7 +27,7 @@
       "mapy": "375791478"
     },
     {
-      "title": "레스피레베이커리 서촌",
+      "title": "레스피레베이커리카페 서촌",
       "link": "https://instagram.com/___respirer",
       "category": "음식점>카페,디저트",
       "description": "",
@@ -36,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
       "mapx": "1269721449",
       "mapy": "375827651"
+    },
+    {
+      "title": "팔",
+      "link": "https://www.instagram.com/phal.cafe",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 138-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로9길 6 1층",
+      "mapx": "1269708232",
+      "mapy": "375795540"
     },
     {
       "title": "더크림",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 옥인길 11 1층",
       "mapx": "1269678344",
       "mapy": "375804945"
-    },
-    {
-      "title": "두오모",
-      "link": "https://catchtable.co.kr/duomo",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 40-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로16길 5 1층",
-      "mapx": "1269715675",
-      "mapy": "375816121"
     }
   ]
 }

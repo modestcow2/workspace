@@ -1,12 +1,23 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:46 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
+      "title": "스미스가 좋아하는 테라스",
+      "link": "https://www.instagram.com/smith_terrace_official",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 11 1st Floor",
+      "roadAddress": "서울특별시 종로구 삼청로 135-3 1st Floor",
+      "mapx": "1269814009",
+      "mapy": "375876362"
+    },
+    {
       "title": "더타코부스 NYC 안국점",
-      "link": "",
+      "link": "https://thetacobooth.com/",
       "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
@@ -14,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
       "mapx": "1269860399",
       "mapy": "375774613"
+    },
+    {
+      "title": "<b>북촌</b>의뜰",
+      "link": "https://www.instagram.com/bookchontteul/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 149-1 1층-4층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 75-4 1층-4층",
+      "mapx": "1269818633",
+      "mapy": "375790615"
     },
     {
       "title": "TWG Tea 광화문점",
@@ -27,37 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "알라보 종각센트로폴리스점",
-      "link": "",
-      "category": "음식점>도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "mapx": "1269836537",
-      "mapy": "375715557"
-    },
-    {
-      "title": "샐러드로우 앤 트라타 익선점",
-      "link": "https://www.instagram.com/saladlowtratar_iksun",
+      "title": "슬로우캘리 종각역",
+      "link": "http://www.slowcali.co.kr",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 와룡동 173 1층 샐러드로우앤트라타",
-      "roadAddress": "서울특별시 종로구 돈화문로 65 1층 샐러드로우앤트라타",
-      "mapx": "1269907696",
-      "mapy": "375742407"
-    },
-    {
-      "title": "사랑해베이글 종로 94빌딩점",
-      "link": "https://100원커피이벤트-선착순주문하기.com",
-      "category": "카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 144 94빌딩, 1층 103호",
-      "roadAddress": "서울특별시 종로구 삼봉로 94 94빌딩, 1층 103호",
-      "mapx": "1269822393",
-      "mapy": "375717780"
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 1층 Retail 1R-7호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 1층 Retail 1R-7호",
+      "mapx": "1269836590",
+      "mapy": "375714967"
     }
   ]
 }

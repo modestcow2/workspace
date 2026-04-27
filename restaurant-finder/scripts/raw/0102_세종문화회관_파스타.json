@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:53 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
       "mapx": "1269761832",
       "mapy": "375704933"
+    },
+    {
+      "title": "정원레스토랑 어반가든",
+      "link": "http://urbangarden.co.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 28-2",
+      "roadAddress": "서울특별시 중구 정동길 12-15",
+      "mapx": "1269692254",
+      "mapy": "375674386"
     },
     {
       "title": "디라이프스타일키친 광화문점",
@@ -38,26 +49,15 @@
       "mapy": "375730456"
     },
     {
-      "title": "정원레스토랑 어반가든",
-      "link": "http://urbangarden.co.kr",
+      "title": "광화문나폴리",
+      "link": "https://www.instagram.com/gwanghwamun_napoli?igsh=MWcycXBpbXZnaDF3dg%3D%3D&utm_source=qr",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 28-2",
-      "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
-    },
-    {
-      "title": "까사 이태리아",
-      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
-      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
-      "mapx": "1269723542",
-      "mapy": "375787841"
+      "address": "서울특별시 종로구 세종로 173-1 1층, 2층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 24-4 1층, 2층",
+      "mapx": "1269759158",
+      "mapy": "375714544"
     }
   ]
 }

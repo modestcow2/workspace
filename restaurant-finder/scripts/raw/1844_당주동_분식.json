@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:31 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375718397"
     },
     {
-      "title": "서울김밥 광화문1호점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 128-18 서울김밥",
-      "roadAddress": "서울특별시 종로구 새문안로3길 17 서울김밥",
-      "mapx": "1269725721",
-      "mapy": "375719765"
-    },
-    {
       "title": "로라방앗간 광화문점",
       "link": "http://www.rora1983.co.kr",
       "category": "분식>떡볶이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
       "mapx": "1269699607",
       "mapy": "375746116"
+    },
+    {
+      "title": "서울김밥 광화문1호점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-18 서울김밥",
+      "roadAddress": "서울특별시 종로구 새문안로3길 17 서울김밥",
+      "mapx": "1269725721",
+      "mapy": "375719765"
     }
   ]
 }

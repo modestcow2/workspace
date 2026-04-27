@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:48 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 95 종로1가 대성 스카이렉스",
       "mapx": "1269825249",
       "mapy": "375722311"
+    },
+    {
+      "title": "온미관 안국",
+      "link": "https://www.instagram.com/onmigwananguk/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
+      "mapx": "1269861071",
+      "mapy": "375780371"
     },
     {
       "title": "평양고깃집",
@@ -38,26 +49,15 @@
       "mapy": "375721281"
     },
     {
-      "title": "일품진진수라 광화문점",
-      "link": "http://www.jinjinsura.com",
-      "category": "한식>한정식",
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
-      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
-      "mapx": "1269805216",
-      "mapy": "375706504"
-    },
-    {
-      "title": "온미관 안국",
-      "link": "https://www.instagram.com/onmigwananguk/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
-      "mapx": "1269861071",
-      "mapy": "375780371"
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
     }
   ]
 }

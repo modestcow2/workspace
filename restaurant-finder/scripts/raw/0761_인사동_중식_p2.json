@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:06 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375738998"
     },
     {
-      "title": "안래홍",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 132",
-      "roadAddress": "서울특별시 종로구 종로7길 43",
-      "mapx": "1269826639",
-      "mapy": "375717166"
-    },
-    {
       "title": "리향",
       "link": "",
       "category": "중식>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동7길 37 2층",
       "mapx": "1269847195",
       "mapy": "375726429"
+    },
+    {
+      "title": "낭만원",
+      "link": "https://app.catchtable.co.kr/ct/shop/nangmanwon",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 153-5 낭만원",
+      "roadAddress": "서울특별시 종로구 인사동3길 16 낭만원",
+      "mapx": "1269858517",
+      "mapy": "375718016"
     }
   ]
 }

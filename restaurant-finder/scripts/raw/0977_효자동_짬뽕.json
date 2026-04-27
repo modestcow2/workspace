@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:48 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375780066"
     },
     {
-      "title": "중국",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
-    },
-    {
       "title": "차이들 안녕인사동점",
       "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
       "category": "중식>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
       "mapx": "1269762577",
       "mapy": "375724523"
+    },
+    {
+      "title": "뉴문",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-39 지상2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 6 지상2층",
+      "mapx": "1269709962",
+      "mapy": "375726484"
     }
   ]
 }

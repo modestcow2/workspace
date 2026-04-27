@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:42 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:09:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375735970"
     },
     {
-      "title": "퍼블릭도원 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/publicdowon",
+      "title": "틴 서울",
+      "link": "https://www.instagram.com/tiiin.seoul",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 189-2 2층",
-      "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
-      "mapx": "1269921258",
-      "mapy": "375742436"
+      "address": "서울특별시 종로구 체부동 133 1~2층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 17 1~2층",
+      "mapx": "1269709368",
+      "mapy": "375775737"
     },
     {
       "title": "살롱순라 서순라길점",
@@ -38,26 +38,26 @@
       "mapy": "375741979"
     },
     {
-      "title": "콩카세 안국",
-      "link": "https://catchtable.co.kr/concasse_anguk",
+      "title": "퍼블릭도원 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/publicdowon",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-31 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
-      "mapx": "1269858330",
-      "mapy": "375781862"
+      "address": "서울특별시 종로구 권농동 189-2 2층",
+      "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
+      "mapx": "1269921439",
+      "mapy": "375742047"
     },
     {
-      "title": "틴 서울",
-      "link": "https://www.instagram.com/tiiin.seoul",
-      "category": "음식점>양식",
+      "title": "한옥달 레스토랑",
+      "link": "https://catchtable.co.kr/ct/shop/hanokdal",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 133 1~2층",
-      "roadAddress": "서울특별시 종로구 자하문로5길 17 1~2층",
-      "mapx": "1269709368",
-      "mapy": "375775737"
+      "address": "서울특별시 종로구 체부동 68",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 9",
+      "mapx": "1269718720",
+      "mapy": "375769814"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:05 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
       "mapx": "1269789694",
       "mapy": "375710184"
-    },
-    {
-      "title": "알로이막막",
-      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
-      "category": "음식점>태국음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 150-1 1,2층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
-      "mapx": "1269705861",
-      "mapy": "375790359"
     },
     {
       "title": "서촌 깜온 본점",
@@ -49,15 +38,26 @@
       "mapy": "375707459"
     },
     {
-      "title": "언껀",
-      "link": "https://www.instagram.com/ancan___",
+      "title": "알로이막막",
+      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 150-1 1,2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
+      "mapx": "1269705861",
+      "mapy": "375790359"
+    },
+    {
+      "title": "깐깐 스타필드애비뉴 그랑서울점",
+      "link": "",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누상동 49 1층 언껀",
-      "roadAddress": "서울특별시 종로구 옥인2길 6 1층 언껀",
-      "mapx": "1269668977",
-      "mapy": "375808260"
+      "address": "서울특별시 종로구 청진동 70 지하1층,지하116호",
+      "roadAddress": "서울특별시 종로구 종로 33 지하1층,지하116호",
+      "mapx": "1269814392",
+      "mapy": "375709600"
     }
   ]
 }

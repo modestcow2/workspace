@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375770928"
     },
     {
-      "title": "샐러디 경복궁역점",
-      "link": "http://www.salady.com/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 45-1",
-      "roadAddress": "서울특별시 종로구 자하문로 13-1",
-      "mapx": "1269720474",
-      "mapy": "375773082"
-    },
-    {
       "title": "고가빈<b>커리</b>하우스 광화문본점",
       "link": "http://instagram.com/gogabin_curryhouse",
       "category": "음식점>일식>카레",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
       "mapx": "1269709645",
       "mapy": "375728814"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
     }
   ]
 }

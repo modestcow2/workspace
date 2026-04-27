@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:59 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:31:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "헤비<b>스테이크</b> 종로구청점",
-      "link": "http://www.heavysteak.co.kr",
+      "title": "익선취향",
+      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 216-1 2층 헤비스테이크",
-      "roadAddress": "서울특별시 종로구 삼봉로 42 2층 헤비스테이크",
-      "mapx": "1269795751",
-      "mapy": "375723837"
+      "address": "서울특별시 종로구 익선동 166-70 1층",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
+      "mapx": "1269895934",
+      "mapy": "375735970"
     }
   ]
 }

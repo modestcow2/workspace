@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375696647"
     },
     {
-      "title": "도량",
-      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
-      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
-      "mapx": "1269724921",
-      "mapy": "375780066"
-    },
-    {
       "title": "뉴문",
       "link": "",
       "category": "중식>중식당",
@@ -38,15 +27,26 @@
       "mapy": "375726484"
     },
     {
-      "title": "동성각",
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
+    },
+    {
+      "title": "진아춘 광화문점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 18 당주빌딩",
-      "roadAddress": "서울특별시 종로구 새문안로9길 29-2 당주빌딩",
-      "mapx": "1269752304",
-      "mapy": "375714159"
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
+      "mapy": "375697325"
     },
     {
       "title": "가봉루",

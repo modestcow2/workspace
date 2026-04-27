@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 서대문구 세검정로1길 21",
       "mapx": "1269428649",
       "mapy": "375925590"
-    },
-    {
-      "title": "가마솥 닭한마리 북가좌점",
-      "link": "",
-      "category": "한식>닭요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 북가좌동 300-2 103호",
-      "roadAddress": "서울특별시 서대문구 응암로 76 103호",
-      "mapx": "1269113101",
-      "mapy": "375795640"
     },
     {
       "title": "연희녹두<b>삼계탕</b>",
@@ -49,15 +38,26 @@
       "mapy": "375908003"
     },
     {
-      "title": "오계절 남원추어탕",
+      "title": "가마솥 닭한마리 북가좌점",
       "link": "",
-      "category": "한식>추어탕",
+      "category": "한식>닭요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍은동 274-20 2층",
-      "roadAddress": "서울특별시 서대문구 연희로 267 2층",
-      "mapx": "1269359380",
-      "mapy": "375810918"
+      "address": "서울특별시 서대문구 북가좌동 300-2 103호",
+      "roadAddress": "서울특별시 서대문구 응암로 76 103호",
+      "mapx": "1269113101",
+      "mapy": "375795640"
+    },
+    {
+      "title": "지호한방<b>삼계탕</b> 연희점",
+      "link": "https://jihofood.co.kr",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 78-20",
+      "roadAddress": "서울특별시 서대문구 연희로25길 10",
+      "mapx": "1269348000",
+      "mapy": "375729000"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:16 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "산청숯불가든 <b>을지로</b>",
-      "link": "https://www.instagram.com/sancheongin/",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 343-1 1층",
-      "roadAddress": "서울특별시 중구 을지로 114-6 1층",
-      "mapx": "1269906186",
-      "mapy": "375658389"
-    },
     {
       "title": "도야집 <b>을지로</b>점",
       "link": "https://www.instagram.com/doyajib_",
@@ -27,37 +16,48 @@
       "mapy": "375640360"
     },
     {
-      "title": "용삼식당 <b>을지로</b>",
-      "link": "https://yongsamsikdang.com/",
+      "title": "수월가 <b>을지로</b>본점",
+      "link": "https://www.instagram.com/suwolga1972/",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 296-28 1층",
-      "roadAddress": "서울특별시 중구 충무로7길 3 1층",
-      "mapx": "1269923435",
-      "mapy": "375658028"
+      "address": "서울특별시 중구 초동 157-15 1층,2층 수월가",
+      "roadAddress": "서울특별시 중구 마른내로2길 22 1층,2층 수월가",
+      "mapx": "1269918503",
+      "mapy": "375635746"
     },
     {
-      "title": "초불집",
+      "title": "을지삼교비",
       "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 110 1층",
-      "roadAddress": "서울특별시 중구 을지로12길 21-1 1층",
-      "mapx": "1269910060",
-      "mapy": "375652446"
+      "address": "서울특별시 중구 을지로3가 334-7 1층(), 한일빌딩)",
+      "roadAddress": "서울특별시 중구 을지로12길 6 1층(을지로3가), 한일빌딩)",
+      "mapx": "1269912019",
+      "mapy": "375659514"
     },
     {
-      "title": "대화정 진짜해장국",
+      "title": "삼미정",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로6가 18-85 1층",
-      "roadAddress": "서울특별시 중구 장충단로 249-20 1층",
-      "mapx": "1270077551",
-      "mapy": "375675754"
+      "address": "서울특별시 중구 산림동 207-2 대림상가 가열 355호",
+      "roadAddress": "서울특별시 중구 을지로 157 대림상가 가열 355호",
+      "mapx": "1269955094",
+      "mapy": "375670040"
+    },
+    {
+      "title": "<b>을지로</b> 돌판집 본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 51-5 1층",
+      "roadAddress": "서울특별시 중구 마른내로2길 15-16 1층",
+      "mapx": "1269924600",
+      "mapy": "375634212"
     }
   ]
 }

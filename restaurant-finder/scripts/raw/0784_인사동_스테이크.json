@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:16 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "비스트로 가마",
+      "link": "https://app.catchtable.co.kr/ct/shop/bistrogama",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-2 2층",
+      "roadAddress": "서울특별시 종로구 인사동길 62-5 2층",
+      "mapx": "1269838699",
+      "mapy": "375754819"
+    },
     {
       "title": "관훈맨션",
       "link": "https://www.instagram.com/gwanhunmansion/",
@@ -27,15 +38,15 @@
       "mapy": "375736433"
     },
     {
-      "title": "비스트로 가마",
-      "link": "https://app.catchtable.co.kr/ct/shop/bistrogama",
-      "category": "음식점>이탈리아음식",
+      "title": "우즈 웨일",
+      "link": "https://app.catchtable.co.kr/ct/shop/ooze.whale_bar?from=share&type=VISIT_RESERVATION",
+      "category": "술집>와인",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 118-2 2층",
-      "roadAddress": "서울특별시 종로구 인사동길 62-5 2층",
-      "mapx": "1269838699",
-      "mapy": "375754819"
+      "address": "서울특별시 종로구 종로2가 71-4 bar 우즈 웨일",
+      "roadAddress": "서울특별시 종로구 종로 88 bar 우즈 웨일",
+      "mapx": "1269871529",
+      "mapy": "375699999"
     },
     {
       "title": "한옥파스타",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동14길 24-4 1층",
       "mapx": "1269854686",
       "mapy": "375747420"
-    },
-    {
-      "title": "우즈 웨일",
-      "link": "https://app.catchtable.co.kr/ct/shop/ooze.whale_bar?from=share&type=VISIT_RESERVATION",
-      "category": "술집>와인",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 71-4 bar 우즈 웨일",
-      "roadAddress": "서울특별시 종로구 종로 88 bar 우즈 웨일",
-      "mapx": "1269871529",
-      "mapy": "375699999"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375803453"
     },
     {
-      "title": "창성갈비",
+      "title": "사랑방손칼국수",
       "link": "",
-      "category": "한식>육류,고기요리",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 창성동 136",
-      "roadAddress": "서울특별시 종로구 자하문로 40-1",
-      "mapx": "1269715716",
-      "mapy": "375796602"
+      "address": "서울특별시 종로구 효자동 163-1 B1, 1층",
+      "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
+      "mapx": "1269725749",
+      "mapy": "375825416"
+    },
+    {
+      "title": "토방",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 30",
+      "roadAddress": "서울특별시 종로구 자하문로 66-1",
+      "mapx": "1269709589",
+      "mapy": "375819609"
     },
     {
       "title": "청하식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로10길 25",
       "mapx": "1269728999",
       "mapy": "375794749"
-    },
-    {
-      "title": "목련나무집",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 58",
-      "roadAddress": "서울특별시 종로구 자하문로 74",
-      "mapx": "1269708726",
-      "mapy": "375824927"
     }
   ]
 }

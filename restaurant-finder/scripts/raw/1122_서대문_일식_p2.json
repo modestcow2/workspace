@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375559008"
     },
     {
-      "title": "가마마루이라멘",
-      "link": "",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 91-6 창천빌딩 1층 가마마루이",
-      "roadAddress": "서울특별시 서대문구 성산로22길 4 창천빌딩 1층 가마마루이",
-      "mapx": "1269334171",
-      "mapy": "375603703"
-    },
-    {
       "title": "나베야 남가좌명지대점",
       "link": "https://www.instagram.com/nabeya_myongji",
       "category": "음식점>일식>일식당",
@@ -49,15 +38,26 @@
       "mapy": "375782188"
     },
     {
-      "title": "여우골초밥 신촌점",
+      "title": "가마마루이라멘",
       "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 91-6 창천빌딩 1층 가마마루이",
+      "roadAddress": "서울특별시 서대문구 성산로22길 4 창천빌딩 1층 가마마루이",
+      "mapx": "1269334171",
+      "mapy": "375603703"
+    },
+    {
+      "title": "강수사",
+      "link": "https://www.instagram.com/gangjeongho6113",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 62-11",
-      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
-      "mapx": "1269349900",
-      "mapy": "375564975"
+      "address": "서울특별시 서대문구 연희동 81-16 여흥빌딩",
+      "roadAddress": "서울특별시 서대문구 연희로 157 여흥빌딩",
+      "mapx": "1269342813",
+      "mapy": "375713773"
     }
   ]
 }

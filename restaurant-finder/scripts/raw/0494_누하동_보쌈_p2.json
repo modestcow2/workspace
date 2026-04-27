@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:00 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375727071"
     },
     {
-      "title": "평안도만두집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 167 지하104호 평안도만두집",
-      "roadAddress": "서울특별시 종로구 새문안로3길 30 지하104호 평안도만두집",
-      "mapx": "1269731737",
-      "mapy": "375725860"
-    },
-    {
       "title": "산채향 청계광장점",
       "link": "https://www.instagram.com/sanchae_hyang_/",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 청계천로 8 프리미어플레이스",
       "mapx": "1269780888",
       "mapy": "375688580"
+    },
+    {
+      "title": "평안도만두집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 167 지하104호 평안도만두집",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30 지하104호 평안도만두집",
+      "mapx": "1269731737",
+      "mapy": "375725860"
     }
   ]
 }

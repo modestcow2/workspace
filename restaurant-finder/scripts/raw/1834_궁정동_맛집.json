@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "자하문로118 들풀",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
-    },
-    {
-      "title": "얼스어스",
-      "link": "https://www.instagram.com/earth__us",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 94-1",
-      "roadAddress": "서울특별시 종로구 자하문로28가길 1",
-      "mapx": "1269712684",
-      "mapy": "375853395"
-    },
     {
       "title": "토스티드 클럽",
       "link": "https://www.instagram.com/toasted.club/",
@@ -38,15 +16,26 @@
       "mapy": "375862557"
     },
     {
-      "title": "중국",
+      "title": "자하문로118 들풀",
       "link": "",
-      "category": "중식>중식당",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
+    },
+    {
+      "title": "스탠딩커피 <b>궁정동</b>점",
+      "link": "https://smartstore.naver.com/standing_coffee",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 궁정동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 효자로 107 1층",
+      "mapx": "1269713012",
+      "mapy": "375836087"
     },
     {
       "title": "시노라 서촌점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 116 카페 시노라 서촌점",
       "mapx": "1269701685",
       "mapy": "375861550"
+    },
+    {
+      "title": "큔",
+      "link": "https://www.instagram.com/grocery_cafe_qyun",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 궁정동 3-18 1층",
+      "roadAddress": "서울특별시 종로구 자하문로26길 17-2 1층",
+      "mapx": "1269722519",
+      "mapy": "375846909"
     }
   ]
 }

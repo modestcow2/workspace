@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375777902"
     },
     {
-      "title": "리김밥 케이트윈타워점",
+      "title": "정류장",
       "link": "",
-      "category": "음식점>한식",
+      "category": "음식점>일식>우동,소바",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 B1층",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 B1층",
-      "mapx": "1269790252",
-      "mapy": "375747276"
+      "address": "서울특별시 종로구 내자동 11-1 1층",
+      "roadAddress": "서울특별시 종로구 사직로 115 1층",
+      "mapx": "1269715540",
+      "mapy": "375762389"
     }
   ]
 }

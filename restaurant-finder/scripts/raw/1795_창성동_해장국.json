@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375717535"
     },
     {
-      "title": "광화문뚝감",
-      "link": "",
-      "category": "한식>감자탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 128-14",
-      "roadAddress": "서울특별시 종로구 새문안로3길 21",
-      "mapx": "1269725919",
-      "mapy": "375720689"
-    },
-    {
       "title": "대성집",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로 5",
       "mapx": "1269608828",
       "mapy": "375727012"
+    },
+    {
+      "title": "광화문뚝감",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-14",
+      "roadAddress": "서울특별시 종로구 새문안로3길 21",
+      "mapx": "1269725919",
+      "mapy": "375720689"
     },
     {
       "title": "청진동장터순대국",

@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:10 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "유닭스토리 닭한마리 신촌점",
-      "link": "https://blog.naver.com/hotjazz22",
-      "category": "한식>닭요리",
+      "title": "곰소바 돈까스",
+      "link": "https://www.instagram.com/gomsoba/",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 18-72 1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 7 1층",
-      "mapx": "1269374476",
-      "mapy": "375570470"
+      "address": "서울특별시 서대문구 충정로2가 102-2 인창빌딩 1층 곰소바",
+      "roadAddress": "서울특별시 서대문구 경기대로 64 인창빌딩 1층 곰소바",
+      "mapx": "1269640900",
+      "mapy": "375645340"
     },
     {
-      "title": "쟁반집8292 신촌점",
-      "link": "http://www.jbj8292.com",
-      "category": "음식점>한식>육류,고기요리",
+      "title": "카페폭포",
+      "link": "https://www.instagram.com/cafe.pokpo",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-21 1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 27 1층",
-      "mapx": "1269382224",
-      "mapy": "375575882"
+      "address": "서울특별시 서대문구 홍은동 429",
+      "roadAddress": "서울특별시 서대문구 연희로 262-24",
+      "mapx": "1269370759",
+      "mapy": "375814757"
     },
     {
-      "title": "소오",
+      "title": "평안도식당 신촌점",
+      "link": "https://www.instagram.com/leejin3020",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 29-30 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 12 1층",
+      "mapx": "1269377470",
+      "mapy": "375570469"
+    },
+    {
+      "title": "랄라루들 연희사러가마트점",
+      "link": "https://www.instagram.com/lala_loodle",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 131-1 1층 13호 랄라루들",
+      "roadAddress": "서울특별시 서대문구 연희맛로 23 1층 13호 랄라루들",
+      "mapx": "1269297929",
+      "mapy": "375673419"
+    },
+    {
+      "title": "연막창 이대직영점",
       "link": "",
-      "category": "음식점>일식>일식당",
+      "category": "한식>곱창,막창,양",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
-      "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
-      "mapx": "1269463097",
-      "mapy": "375590868"
-    },
-    {
-      "title": "멘야소바",
-      "link": "https://www.instagram.com/manyasoba?igsh=MWczZGFwdDNub210OQ==",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 104-39 1층",
-      "roadAddress": "서울특별시 서대문구 연세로2길 83 1층",
-      "mapx": "1269414211",
-      "mapy": "375571680"
-    },
-    {
-      "title": "등촌샤브칼국수 신촌점",
-      "link": "",
-      "category": "음식점>한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 4-77 1층 등촌샤브칼국수 신촌점",
-      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층 등촌샤브칼국수 신촌점",
-      "mapx": "1269407741",
-      "mapy": "375589692"
+      "address": "서울특별시 서대문구 대현동 27-33 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 22-8 1층",
+      "mapx": "1269433722",
+      "mapy": "375588475"
     }
   ]
 }

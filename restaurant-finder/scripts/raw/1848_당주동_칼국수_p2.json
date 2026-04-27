@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:33 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375717911"
     },
     {
-      "title": "육대장 광화문점",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 37-6 1층 육대장",
-      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 1층 육대장",
-      "mapx": "1269750109",
-      "mapy": "375710027"
-    },
-    {
       "title": "밀가랑 <b>칼국수</b> 광화문점",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 17호, 18호",
       "mapx": "1269743108",
       "mapy": "375720320"
+    },
+    {
+      "title": "육대장 광화문점",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 37-6 1층 육대장",
+      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 1층 육대장",
+      "mapx": "1269750109",
+      "mapy": "375710027"
     }
   ]
 }

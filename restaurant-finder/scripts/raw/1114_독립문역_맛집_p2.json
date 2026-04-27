@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375737601"
     },
     {
+      "title": "이디야 <b>독립문역</b>점",
+      "link": "https://blog.naver.com/ediya-coffee",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 63-9",
+      "roadAddress": "서울특별시 종로구 통일로 266",
+      "mapx": "1269567829",
+      "mapy": "375757366"
+    },
+    {
+      "title": "우주라이크커피 <b>독립문역</b>점",
+      "link": "https://www.instagram.com/wouldulike_dnm/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 롯데캐슬상가 1층 104호",
+      "roadAddress": "서울특별시 종로구 통일로 230 롯데캐슬상가 1층 104호",
+      "mapx": "1269585397",
+      "mapy": "375743160"
+    },
+    {
       "title": "할리스 <b>독립문역</b>점",
       "link": "http://www.hollys.co.kr/",
       "category": "카페,디저트>카페",
@@ -27,37 +49,15 @@
       "mapy": "375737939"
     },
     {
-      "title": "옛날순대",
+      "title": "컴포즈커피 독립문롯데캐슬점",
       "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 82 무악현대프라자 1층 옛날순대",
-      "roadAddress": "서울특별시 종로구 통일로 246-10 무악현대프라자 1층 옛날순대",
-      "mapx": "1269590672",
-      "mapy": "375744861"
-    },
-    {
-      "title": "고쿤스시",
-      "link": "",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 89 제지1층 121호",
-      "roadAddress": "서울특별시 종로구 통일로 230 제지1층 121호",
-      "mapx": "1269592729",
-      "mapy": "375736317"
-    },
-    {
-      "title": "커피가게동경 독립문",
-      "link": "https://smartstore.naver.com/coffeeshopdongkyung",
       "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 무악동 46-1746 1층",
-      "roadAddress": "서울특별시 종로구 통일로12길 16-1 1층",
-      "mapx": "1269604067",
-      "mapy": "375735229"
+      "address": "서울특별시 종로구 무악동 89 경희궁롯데캐슬 지1층 109호",
+      "roadAddress": "서울특별시 종로구 통일로 230 무악동경희궁롯데캐슬 지1층 109호",
+      "mapx": "1269587849",
+      "mapy": "375741274"
     }
   ]
 }

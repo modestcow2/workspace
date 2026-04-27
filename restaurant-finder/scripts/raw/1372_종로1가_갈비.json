@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375709863"
     },
     {
-      "title": "간장게장에 진심인 정선할매",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 2층 216호",
-      "roadAddress": "서울특별시 종로구 종로 19 2층 216호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
       "title": "미도<b>갈비</b>",
       "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
       "mapx": "1269861462",
       "mapy": "375687918"
+    },
+    {
+      "title": "금성회관 서울시청직영점",
+      "link": "https://www.instagram.com/gumseong5",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 71-2 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 30 1층",
+      "mapx": "1269774892",
+      "mapy": "375623316"
     }
   ]
 }

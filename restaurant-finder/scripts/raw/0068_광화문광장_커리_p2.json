@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375797533"
     },
     {
-      "title": "옐로 드래곤 <b>커리</b> 종묘 서순라길 본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/yellowdragoncurry",
-      "category": "음식점>일식>카레",
+      "title": "두르가 <b>광화문</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/durga",
+      "category": "음식점>인도음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 봉익동 12-14 옐로 드래곤 커리",
-      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 옐로 드래곤 커리",
-      "mapx": "1269926638",
-      "mapy": "375731094"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
+      "mapx": "1269797390",
+      "mapy": "375705681"
     },
     {
       "title": "시카노이에",
@@ -49,15 +49,15 @@
       "mapy": "375725079"
     },
     {
-      "title": "두르가 <b>광화문</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/durga",
-      "category": "음식점>인도음식",
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
-      "mapx": "1269797390",
-      "mapy": "375705681"
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
     }
   ]
 }

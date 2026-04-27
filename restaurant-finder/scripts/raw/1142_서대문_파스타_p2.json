@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "이석덕생면<b>파스타</b> 신촌점",
-      "link": "https://www.instagram.com/lsd_pasta/",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-28 2층 이석덕생면파스타",
-      "roadAddress": "서울특별시 서대문구 명물길 16 2층 이석덕생면파스타",
-      "mapx": "1269378075",
-      "mapy": "375575919"
-    },
     {
       "title": "주인백 <b>파스타</b>",
       "link": "http://instagram.com/",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 서대문구 증가로10길 57",
       "mapx": "1269249226",
       "mapy": "375795267"
+    },
+    {
+      "title": "이석덕생면<b>파스타</b> 신촌점",
+      "link": "https://www.instagram.com/lsd_pasta/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 13-28 2층 이석덕생면파스타",
+      "roadAddress": "서울특별시 서대문구 명물길 16 2층 이석덕생면파스타",
+      "mapx": "1269378075",
+      "mapy": "375575919"
     },
     {
       "title": "신촌칼",
@@ -38,15 +38,15 @@
       "mapy": "375578967"
     },
     {
-      "title": "비아37 신촌본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/via37_",
-      "category": "음식점>이탈리아음식",
+      "title": "그로어스",
+      "link": "https://catchtable.co.kr/growers",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 34-31 2층 비아37 신촌본점",
-      "roadAddress": "서울특별시 서대문구 이화여대길 68 2층 비아37 신촌본점",
-      "mapx": "1269446608",
-      "mapy": "375592889"
+      "address": "서울특별시 서대문구 연희동 83-13",
+      "roadAddress": "서울특별시 서대문구 연희로27길 52",
+      "mapx": "1269333376",
+      "mapy": "375723021"
     },
     {
       "title": "초원<b>파스타</b>운",

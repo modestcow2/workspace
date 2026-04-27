@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:59 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375777902"
     },
     {
-      "title": "로쿠지",
-      "link": "https://www.instagram.com/rokuji2017",
-      "category": "술집>이자카야",
+      "title": "사토루 더 서촌",
+      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 19 1층",
-      "roadAddress": "서울특별시 종로구 자하문로5가길 24 1층",
-      "mapx": "1269707392",
-      "mapy": "375785624"
+      "address": "서울특별시 종로구 체부동 24",
+      "roadAddress": "서울특별시 종로구 자하문로7길 11",
+      "mapx": "1269709856",
+      "mapy": "375783639"
     },
     {
       "title": "칸다소바 경복궁점",
@@ -38,15 +38,15 @@
       "mapy": "375782119"
     },
     {
-      "title": "사토루 더 서촌",
-      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
-      "category": "음식점>일식>일식당",
+      "title": "로쿠지",
+      "link": "https://www.instagram.com/rokuji2017",
+      "category": "술집>이자카야",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 24",
-      "roadAddress": "서울특별시 종로구 자하문로7길 11",
-      "mapx": "1269709856",
-      "mapy": "375783639"
+      "address": "서울특별시 종로구 체부동 19 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5가길 24 1층",
+      "mapx": "1269707392",
+      "mapy": "375785624"
     },
     {
       "title": "일일주",

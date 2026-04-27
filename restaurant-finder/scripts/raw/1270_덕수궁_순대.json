@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:05 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375689749"
     },
     {
-      "title": "태평<b>순대</b> 광화문본점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 76-1 1층 태평순대 광화문본점",
-      "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
-      "mapx": "1269760122",
-      "mapy": "375690306"
-    },
-    {
       "title": "어슬 광화문",
       "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
       "mapx": "1269720468",
       "mapy": "375687024"
+    },
+    {
+      "title": "태평<b>순대</b> 광화문본점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 76-1 1층 태평순대 광화문본점",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
+      "mapx": "1269760122",
+      "mapy": "375690306"
     },
     {
       "title": "능라밥상 광화문",

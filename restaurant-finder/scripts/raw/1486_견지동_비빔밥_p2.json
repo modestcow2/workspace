@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:46 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,37 +27,37 @@
       "mapy": "375622716"
     },
     {
-      "title": "익선애뜻",
-      "link": "",
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 163 1층 익선애뜻",
-      "roadAddress": "서울특별시 종로구 돈화문로11다길 24 1층 익선애뜻",
-      "mapx": "1269905479",
-      "mapy": "375733641"
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
     },
     {
-      "title": "익선동연리지",
-      "link": "https://www.instagram.com/yeonliji",
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 120 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 28-1 1층",
-      "mapx": "1269903405",
-      "mapy": "375739990"
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
-      "title": "뚝배기집",
-      "link": "",
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1",
-      "roadAddress": "서울특별시 종로구 종로16길 12",
-      "mapx": "1269885481",
-      "mapy": "375695483"
+      "address": "서울특별시 종로구 관훈동 118-27",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
+      "mapx": "1269840246",
+      "mapy": "375753027"
     }
   ]
 }

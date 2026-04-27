@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:32 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,28 +27,6 @@
       "mapy": "375581107"
     },
     {
-      "title": "미성옥",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 54-6",
-      "roadAddress": "서울특별시 중구 명동길 25-11",
-      "mapx": "1269839596",
-      "mapy": "375641835"
-    },
-    {
-      "title": "순우블랙",
-      "link": "https://Instagram.com/soonwoo_black",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-62",
-      "roadAddress": "서울특별시 중구 명동9길 37-3",
-      "mapx": "1269840365",
-      "mapy": "375654157"
-    },
-    {
       "title": "태진옥",
       "link": "https://www.instagram.com/taejinoak_official/",
       "category": "한식>순대,순댓국",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 중구 무교로 17-25 2층",
       "mapx": "1269785584",
       "mapy": "375674370"
+    },
+    {
+      "title": "백옥 <b>명동</b>",
+      "link": "https://www.instagram.com/baekok.official",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 54-18 지하1층, 1층",
+      "roadAddress": "서울특별시 중구 명동8길 8-23 지하1층, 1층",
+      "mapx": "1269839841",
+      "mapy": "375628872"
+    },
+    {
+      "title": "하동관 <b>명동</b>본점",
+      "link": "http://www.hadongkwan.co.kr",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-4",
+      "roadAddress": "서울특별시 중구 명동9길 12",
+      "mapx": "1269849722",
+      "mapy": "375644272"
     }
   ]
 }

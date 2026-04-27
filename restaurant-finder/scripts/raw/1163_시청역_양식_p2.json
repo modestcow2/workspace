@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:14 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "이테르",
-      "link": "https://www.itermyeongdong.com/",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 117 지하1층",
-      "roadAddress": "서울특별시 중구 남대문로5길 39 지하1층",
-      "mapx": "1269786259",
-      "mapy": "375631361"
-    },
     {
       "title": "라칸티나",
       "link": "",
@@ -27,6 +16,28 @@
       "mapy": "375662396"
     },
     {
+      "title": "이테르",
+      "link": "https://www.itermyeongdong.com/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 117 지하1층 이테르 명동",
+      "roadAddress": "서울특별시 중구 남대문로5길 39 지하1층 이테르 명동",
+      "mapx": "1269786259",
+      "mapy": "375631361"
+    },
+    {
+      "title": "pasta ta ta",
+      "link": "https://app.catchtable.co.kr/ct/shop/pastatata",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 115 스몰하우스 빅도어 1층",
+      "roadAddress": "서울특별시 중구 남대문로9길 6 스몰하우스 빅도어 1층",
+      "mapx": "1269819673",
+      "mapy": "375669492"
+    },
+    {
       "title": "바리에가타 명동",
       "link": "https://www.variegata.company/",
       "category": "음식점>이탈리아음식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 중구 남대문로 55 B1층",
       "mapx": "1269810557",
       "mapy": "375624933"
-    },
-    {
-      "title": "디라이프스타일키친 광화문점",
-      "link": "https://dlifestyle.co.kr/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
-      "mapx": "1269782701",
-      "mapy": "375684246"
     },
     {
       "title": "오드하우스",

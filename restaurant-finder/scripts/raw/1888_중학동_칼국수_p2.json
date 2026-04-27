@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:31:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375755265"
     },
     {
-      "title": "황생가<b>칼국수</b>",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
-    },
-    {
       "title": "대련집",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -49,15 +38,26 @@
       "mapy": "375683895"
     },
     {
-      "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
-      "category": "한식>국수",
+      "title": "황생가<b>칼국수</b>",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-1 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
-      "mapx": "1269862338",
-      "mapy": "375782217"
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    },
+    {
+      "title": "삼봉도담",
+      "link": "https://sambongdodam.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-34 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
+      "mapx": "1269825289",
+      "mapy": "375729806"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:09:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,13 +16,13 @@
       "mapy": "375721535"
     },
     {
-      "title": "코끼리초밥 <b>광화문</b>점",
-      "link": "https://blog.naver.com/kokirisushi",
-      "category": "음식점>일식>초밥,롤",
+      "title": "젤라띠아니카페 <b>KT광화문</b>점",
+      "link": "https://www.instagram.com/gelatiani_official?igsh=cnIxczd0OG1heGtm",
+      "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B108-10호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B108-10호",
       "mapx": "1269778819",
       "mapy": "375721535"
     },
@@ -36,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
       "mapx": "1269789694",
       "mapy": "375710184"
+    },
+    {
+      "title": "코끼리초밥 <b>광화문</b>점",
+      "link": "https://blog.naver.com/kokirisushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     },
     {
       "title": "수수커피 디타워점",

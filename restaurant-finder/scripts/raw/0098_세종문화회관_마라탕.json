@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:51 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "마라중독",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 7-1 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
+      "mapx": "1269874452",
+      "mapy": "375695065"
+    },
     {
       "title": "마라붐 시청점",
       "link": "https://blog.naver.com/pheby8888/223943998865",
@@ -16,15 +27,15 @@
       "mapy": "375635420"
     },
     {
-      "title": "마라중독",
+      "title": "샹츠마라 종로점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 7-1 2층",
-      "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
-      "mapx": "1269874452",
-      "mapy": "375695065"
+      "address": "서울특별시 종로구 관철동 11-14 2층",
+      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
+      "mapx": "1269859110",
+      "mapy": "375686220"
     },
     {
       "title": "양궈푸<b>마라탕</b> 명동점",
@@ -38,26 +49,15 @@
       "mapy": "375645620"
     },
     {
-      "title": "용가회전훠궈 명동점",
-      "link": "https://www.instagram.com/loonger_md_myeongdong",
+      "title": "라향각 <b>마라탕</b>",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-25 2, 3층",
-      "roadAddress": "서울특별시 중구 명동3길 12 2, 3층",
-      "mapx": "1269836250",
-      "mapy": "375642295"
-    },
-    {
-      "title": "꽁시면관 본점",
-      "link": "http://instagram.com/ggongci_ggongci",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 22-13 꽁시면관",
-      "roadAddress": "서울특별시 중구 명동2길 45 꽁시면관",
-      "mapx": "1269832230",
-      "mapy": "375613839"
+      "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
+      "roadAddress": "서울특별시 중구 세종대로21길 67 2층 라향각마라탕",
+      "mapx": "1269757332",
+      "mapy": "375692879"
     }
   ]
 }

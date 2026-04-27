@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:39 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375733835"
     },
     {
+      "title": "이여곰탕 종로점",
+      "link": "https://clip.naver.com/@jongno_gomtang",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
+      "mapx": "1269807361",
+      "mapy": "375727720"
+    },
+    {
       "title": "은성 한정식",
       "link": "",
       "category": "한식>한정식",
@@ -27,6 +38,17 @@
       "mapy": "375729994"
     },
     {
+      "title": "커피앳웍스 이마빌딩광화문점",
+      "link": "http://coffeeatworks.kr",
+      "category": "음식점>카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 1F",
+      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 1F",
+      "mapx": "1269791545",
+      "mapy": "375738773"
+    },
+    {
       "title": "더 키친 일뽀르노 광화문점",
       "link": "https://thekitchenilforno.co.kr/index.do",
       "category": "음식점>양식>이탈리아음식",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
       "mapx": "1269812442",
       "mapy": "375750348"
-    },
-    {
-      "title": "오레노 야끼 종로점",
-      "link": "https://catchtable.co.kr/orenoyakki",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-25 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
-      "mapx": "1269813635",
-      "mapy": "375730606"
-    },
-    {
-      "title": "이여곰탕 종로점",
-      "link": "https://clip.naver.com/@jongno_gomtang",
-      "category": "음식점>한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
-      "mapx": "1269807361",
-      "mapy": "375727720"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:29 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "오도집",
-      "link": "https://www.instagram.com/bukchondodam",
-      "category": "음식점>한식",
+      "title": "은성 한정식",
+      "link": "",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 15 1층 오도집",
-      "roadAddress": "서울특별시 종로구 율곡로4길 7 1층 오도집",
-      "mapx": "1269821460",
-      "mapy": "375751757"
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
     },
     {
       "title": "호가양꼬치",
@@ -38,15 +38,15 @@
       "mapy": "375732864"
     },
     {
-      "title": "현궁",
-      "link": "",
+      "title": "오도집 김치찜",
+      "link": "https://www.instagram.com/bukchondodam",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 이마빌딩",
-      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩",
-      "mapx": "1269788931",
-      "mapy": "375739295"
+      "address": "서울특별시 종로구 수송동 15 1층 오도집",
+      "roadAddress": "서울특별시 종로구 율곡로4길 7 1층 오도집",
+      "mapx": "1269821460",
+      "mapy": "375751757"
     },
     {
       "title": "목단한정식",

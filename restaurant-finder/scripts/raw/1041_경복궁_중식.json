@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375762354"
     },
     {
-      "title": "포담 서촌본점",
-      "link": "https://www.instagram.com/podam4dish?igsh=MWNhcWVoa3NieG5neQ==",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 25 2층 포담",
-      "roadAddress": "서울특별시 종로구 사직로 133-10 2층 포담",
-      "mapx": "1269734513",
-      "mapy": "375763862"
-    },
-    {
       "title": "베이징코야",
       "link": "http://www.베이징코야.com/",
       "category": "중식>중식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 율곡로2길 25 연합뉴스 빌딩 지하 1층",
       "mapx": "1269802390",
       "mapy": "375745591"
+    },
+    {
+      "title": "포담 서촌본점",
+      "link": "https://www.instagram.com/podam4dish?igsh=MWNhcWVoa3NieG5neQ==",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 25 2층 포담",
+      "roadAddress": "서울특별시 종로구 사직로 133-10 2층 포담",
+      "mapx": "1269734513",
+      "mapy": "375763862"
     },
     {
       "title": "차이치",

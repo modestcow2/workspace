@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375674937"
     },
     {
-      "title": "돈이찌 롯데백화점 본점",
+      "title": "멘도코로 히바리",
       "link": "",
-      "category": "음식점>일식>일식당",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 1",
-      "roadAddress": "서울특별시 중구 남대문로 81",
-      "mapx": "1269811389",
-      "mapy": "375648499"
+      "address": "서울특별시 중구 서소문동 120-12 202호",
+      "roadAddress": "서울특별시 중구 세종대로11길 30 202호",
+      "mapx": "1269742207",
+      "mapy": "375623476"
     },
     {
       "title": "정신<b>라멘</b>",

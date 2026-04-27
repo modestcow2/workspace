@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375706386"
     },
     {
-      "title": "원흥",
-      "link": "",
+      "title": "초류향",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/cholyuhyang?from=share&type=DINING",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 92",
-      "roadAddress": "서울특별시 중구 다동길 46",
-      "mapx": "1269819007",
-      "mapy": "375678937"
-    },
-    {
-      "title": "안래홍",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 132",
-      "roadAddress": "서울특별시 종로구 종로7길 43",
-      "mapx": "1269826639",
-      "mapy": "375717166"
+      "address": "서울특별시 중구 다동 164-2",
+      "roadAddress": "서울특별시 중구 다동길 24-10",
+      "mapx": "1269804186",
+      "mapy": "375674951"
     },
     {
       "title": "서호장",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
       "mapx": "1269835556",
       "mapy": "375744663"
+    },
+    {
+      "title": "원흥",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 92",
+      "roadAddress": "서울특별시 중구 다동길 46",
+      "mapx": "1269819007",
+      "mapy": "375678937"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:39 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375668620"
     },
     {
-      "title": "세븐티포 <b>명동</b>성당본점",
-      "link": "https://www.instagram.com/74_myeongdong/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 1-18 명동성당 파밀리아채플 1층",
-      "roadAddress": "서울특별시 중구 명동길 66 명동성당 파밀리아채플 1층",
-      "mapx": "1269861464",
-      "mapy": "375639182"
-    },
-    {
       "title": "다운타우너 광화문",
       "link": "http://downtowner.co.kr/info",
       "category": "음식점>양식>햄버거",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로 136 SFC몰 B1층 다운타우너 광화문",
       "mapx": "1269782701",
       "mapy": "375684246"
+    },
+    {
+      "title": "세븐티포 <b>명동</b>성당본점",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 1-18 명동성당 파밀리아채플 1층",
+      "roadAddress": "서울특별시 중구 명동길 66 명동성당 파밀리아채플 1층",
+      "mapx": "1269861464",
+      "mapy": "375639182"
     }
   ]
 }

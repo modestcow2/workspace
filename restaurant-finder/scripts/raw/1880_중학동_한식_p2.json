@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:48 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375746798"
     },
     {
-      "title": "모도우 광화문점",
-      "link": "https://openine.com/PARTY",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 14 트윈트리타워 B동 M층",
-      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 B동 M층",
-      "mapx": "1269799056",
-      "mapy": "375755265"
-    },
-    {
       "title": "한일관 광화문점",
       "link": "http://www.hanilkwan.co.kr/",
       "category": "한식>한정식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워",
       "mapx": "1269789484",
       "mapy": "375745601"
+    },
+    {
+      "title": "모도우 광화문점",
+      "link": "https://openine.com/PARTY",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 14 트윈트리타워 B동 M층",
+      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 B동 M층",
+      "mapx": "1269799056",
+      "mapy": "375755265"
     },
     {
       "title": "전주밥차",
@@ -49,15 +49,15 @@
       "mapy": "375755507"
     },
     {
-      "title": "봉추찜닭 광화문점",
-      "link": "http://bongchu.com/",
-      "category": "한식>찜닭",
+      "title": "프로간장게장 경복궁점",
+      "link": "https://www.instagram.com/prosoycrab/",
+      "category": "한식>게요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워B동 지하1층",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워B동 지하1층",
-      "mapx": "1269790252",
-      "mapy": "375747276"
+      "address": "서울특별시 종로구 중학동 19 비1층",
+      "roadAddress": "서울특별시 종로구 종로1길 50 비1층",
+      "mapx": "1269791966",
+      "mapy": "375746798"
     }
   ]
 }

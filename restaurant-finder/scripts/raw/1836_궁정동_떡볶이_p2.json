@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375806564"
     },
     {
-      "title": "원조할머니 기름<b>떡볶이</b>",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 94-1",
-      "roadAddress": "서울특별시 종로구 자하문로15길 13",
-      "mapx": "1269703204",
-      "mapy": "375806957"
-    },
-    {
       "title": "만나분식",
       "link": "https://smartstore.naver.com/mannabunsik",
       "category": "분식>종합분식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
       "mapx": "1269709557",
       "mapy": "375763909"
+    },
+    {
+      "title": "사발",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
+      "mapx": "1269724791",
+      "mapy": "375735857"
     }
   ]
 }

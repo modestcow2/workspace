@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375684246"
     },
     {
-      "title": "독립밀방 익선",
-      "link": "http://www.instagram.com/dongnip_millbang",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
-      "mapx": "1269902619",
-      "mapy": "375740791"
-    },
-    {
       "title": "정원레스토랑 어반가든",
       "link": "http://urbangarden.co.kr",
       "category": "음식점>양식",
@@ -49,15 +38,26 @@
       "mapy": "375674386"
     },
     {
-      "title": "루뽀",
-      "link": "https://app.catchtable.co.kr/ct/shop/luposeoul?from=share&type=DINING",
+      "title": "멜팅샵X치즈룸 광화문디타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/meltingshop?from=share&type=DINING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 replace 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 replace 4층",
+      "mapx": "1269789713",
+      "mapy": "375710195"
+    },
+    {
+      "title": "광화문나폴리",
+      "link": "https://www.instagram.com/gwanghwamun_napoli?igsh=MWcycXBpbXZnaDF3dg%3D%3D&utm_source=qr",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 도렴동 65 센터포인트 빌딩 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
-      "mapx": "1269743036",
-      "mapy": "375730456"
+      "address": "서울특별시 종로구 세종로 173-1 1층, 2층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 24-4 1층, 2층",
+      "mapx": "1269759158",
+      "mapy": "375714544"
     }
   ]
 }

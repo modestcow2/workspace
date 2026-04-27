@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "카츠업",
-      "link": "https://blog.naver.com/katsup",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 62-4 1층 카츠업",
-      "roadAddress": "서울특별시 서대문구 연세로5길 32 1층 카츠업",
-      "mapx": "1269353168",
-      "mapy": "375563150"
-    },
     {
       "title": "사장님돈까스 본점",
       "link": "https://www.instagram.com/boss_donkaz",
@@ -27,8 +16,19 @@
       "mapy": "375586888"
     },
     {
+      "title": "카츠업",
+      "link": "https://blog.naver.com/katsup",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-4 1층 카츠업",
+      "roadAddress": "서울특별시 서대문구 연세로5길 32 1층 카츠업",
+      "mapx": "1269353168",
+      "mapy": "375563150"
+    },
+    {
       "title": "곰소바 돈까스",
-      "link": "",
+      "link": "https://www.instagram.com/gomsoba/",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
@@ -38,26 +38,26 @@
       "mapy": "375645340"
     },
     {
-      "title": "소오",
+      "title": "소소식탁 홍제",
       "link": "",
-      "category": "음식점>일식>일식당",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
-      "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
-      "mapx": "1269463097",
-      "mapy": "375590868"
+      "address": "서울특별시 서대문구 홍제동 326-12 1층",
+      "roadAddress": "서울특별시 서대문구 통일로 475 1층",
+      "mapx": "1269419769",
+      "mapy": "375904620"
     },
     {
-      "title": "시오 연희동본점",
-      "link": "",
-      "category": "음식점>일식>일식당",
+      "title": "솜솜카츠 신촌본점",
+      "link": "https://somsomkatsu.co.kr",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 190-4 1층",
-      "roadAddress": "서울특별시 서대문구 연희로11가길 23 1층",
-      "mapx": "1269286886",
-      "mapy": "375672105"
+      "address": "서울특별시 서대문구 창천동 18-9 2층",
+      "roadAddress": "서울특별시 서대문구 연세로 18 2층",
+      "mapx": "1269371108",
+      "mapy": "375571630"
     }
   ]
 }

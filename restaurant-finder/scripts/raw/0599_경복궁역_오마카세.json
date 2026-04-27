@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:50 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375748513"
     },
     {
-      "title": "오카즈",
-      "link": "http://catchtable.co.kr/ohkaz",
-      "category": "음식점>일식>일식당",
+      "title": "진미필담 용금옥",
+      "link": "https://www.instagram.com/jinmipildam_yonggumok",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 112 1층 오카즈",
-      "roadAddress": "서울특별시 종로구 자하문로 49-1 1층 오카즈",
-      "mapx": "1269709630",
-      "mapy": "375804953"
+      "address": "서울특별시 종로구 체부동 199 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
+      "mapx": "1269708497",
+      "mapy": "375766102"
     },
     {
       "title": "우직 경복궁점",
@@ -49,15 +49,15 @@
       "mapy": "375767578"
     },
     {
-      "title": "진미필담 용금옥",
-      "link": "https://www.instagram.com/jinmipildam_yonggumok",
-      "category": "음식점>한식",
+      "title": "여래여거",
+      "link": "https://catchtable.co.kr/yrygyryg",
+      "category": "술집>이자카야",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 199 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
-      "mapx": "1269708497",
-      "mapy": "375766102"
+      "address": "서울특별시 종로구 누상동 53-1 1층 102호",
+      "roadAddress": "서울특별시 종로구 옥인길 23-6 1층 102호",
+      "mapx": "1269671031",
+      "mapy": "375808670"
     }
   ]
 }

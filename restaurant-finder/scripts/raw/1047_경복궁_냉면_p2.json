@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:20 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765667"
     },
     {
-      "title": "김진목삼 2호점",
-      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam_second",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 68 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 9 1층",
-      "mapx": "1269719891",
-      "mapy": "375769255"
-    },
-    {
       "title": "봉피양 <b>경복궁</b>점",
       "link": "http://www.bjgalbi.com",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375779140"
     },
     {
-      "title": "한일관 광화문점",
-      "link": "http://www.hanilkwan.co.kr/",
-      "category": "한식>한정식",
+      "title": "김진목삼 2호점",
+      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam_second",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워",
-      "mapx": "1269789484",
-      "mapy": "375745601"
+      "address": "서울특별시 종로구 체부동 68 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 9 1층",
+      "mapx": "1269719891",
+      "mapy": "375769255"
+    },
+    {
+      "title": "153구포국수 <b>경복궁</b>점",
+      "link": "",
+      "category": "음식점>한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 93-3 1층",
+      "roadAddress": "서울특별시 종로구 사직로 127-6 1층",
+      "mapx": "1269732078",
+      "mapy": "375760801"
     }
   ]
 }

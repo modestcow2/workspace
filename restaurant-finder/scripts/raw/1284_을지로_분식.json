@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375688780"
     },
     {
-      "title": "마포만두 시청점",
-      "link": "",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
-      "mapx": "1269795809",
-      "mapy": "375668511"
-    },
-    {
       "title": "싸다김밥 <b>을지로</b>입구역점",
       "link": "",
       "category": "음식점>분식",
@@ -49,15 +38,26 @@
       "mapy": "375656326"
     },
     {
-      "title": "김가네 동대문디자인플라자점",
-      "link": "https://www.youtube.com/channel/UCSoX0xvdMGNBHTM1Ra_lxrg",
-      "category": "음식점>분식",
+      "title": "마포만두 시청점",
+      "link": "",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로7가 143 지하2층 DDP마켓 D6호",
-      "roadAddress": "서울특별시 중구 을지로 281 지하2층 DDP마켓 D6호",
-      "mapx": "1270097353",
-      "mapy": "375668269"
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
+    },
+    {
+      "title": "<b>을지로</b> 이멜다<b>분식</b>",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/imeldafnb",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 산림동 207-1 청계세운상가 3층 바열 315호",
+      "roadAddress": "서울특별시 중구 청계천로 160 청계세운상가 3층 바열 315호",
+      "mapx": "1269955021",
+      "mapy": "375677499"
     }
   ]
 }

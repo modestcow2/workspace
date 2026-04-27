@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "정통<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 129-1 2층 정통삼계탕",
+      "roadAddress": "서울특별시 종로구 종로5길 95 2층 정통삼계탕",
+      "mapx": "1269791540",
+      "mapy": "375741620"
+    },
     {
       "title": "장수<b>삼계탕</b>",
       "link": "",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 삼봉로 71 신라스테이 광화문점 B1층",
       "mapx": "1269808442",
       "mapy": "375725008"
-    },
-    {
-      "title": "정통<b>삼계탕</b>",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 129-1 2층 정통삼계탕",
-      "roadAddress": "서울특별시 종로구 종로5길 95 2층 정통삼계탕",
-      "mapx": "1269791540",
-      "mapy": "375741620"
     },
     {
       "title": "담소 누룽지백숙",

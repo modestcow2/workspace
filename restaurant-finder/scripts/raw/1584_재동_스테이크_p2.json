@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:32 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "콩지POT지",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
+    },
     {
       "title": "비움안국",
       "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
@@ -27,15 +38,15 @@
       "mapy": "375781862"
     },
     {
-      "title": "콩지POT지",
-      "link": "https://blog.naver.com/konggpotg",
+      "title": "스파다",
+      "link": "https://catchtable.co.kr/spada",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 34-1 1,2층",
-      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
-      "mapx": "1269843199",
-      "mapy": "375788262"
+      "address": "서울특별시 종로구 재동 60 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
+      "mapx": "1269856298",
+      "mapy": "375786570"
     },
     {
       "title": "로씨니",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 18",
       "mapx": "1269855330",
       "mapy": "375784490"
-    },
-    {
-      "title": "스파다",
-      "link": "https://catchtable.co.kr/spada",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 60 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
-      "mapx": "1269855697",
-      "mapy": "375786371"
     }
   ]
 }

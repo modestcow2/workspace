@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:41 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375764071"
     },
     {
+      "title": "장수<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 236-1 낙원빌딩 2층 장수삼계탕",
+      "roadAddress": "서울특별시 종로구 종로17길 52 낙원빌딩 2층 장수삼계탕",
+      "mapx": "1269885250",
+      "mapy": "375724917"
+    },
+    {
       "title": "고려<b>삼계탕</b> 광화문점",
       "link": "http://www.krsamgyetang.com/",
       "category": "한식>백숙,삼계탕",
@@ -38,26 +49,15 @@
       "mapy": "375714982"
     },
     {
-      "title": "돈화문닭한마리",
-      "link": "https://blog.naver.com/dondak2015",
-      "category": "한식>닭요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 돈의동 95 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로9길 17 1층",
-      "mapx": "1269908133",
-      "mapy": "375716439"
-    },
-    {
-      "title": "장수<b>삼계탕</b>",
-      "link": "",
+      "title": "수인 인사동 닭한마리 본점",
+      "link": "https://catchtable.co.kr/suin_seoul",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 236-1 낙원빌딩 2층 장수삼계탕",
-      "roadAddress": "서울특별시 종로구 종로17길 52 낙원빌딩 2층 장수삼계탕",
-      "mapx": "1269885250",
-      "mapy": "375724917"
+      "address": "서울특별시 종로구 경운동 66-11 1층 인사동 닭한마리",
+      "roadAddress": "서울특별시 종로구 인사동10길 23-8 1층 인사동 닭한마리",
+      "mapx": "1269861953",
+      "mapy": "375747933"
     }
   ]
 }

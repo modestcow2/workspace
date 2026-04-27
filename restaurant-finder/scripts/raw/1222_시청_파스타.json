@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:43 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "오드하우스",
-      "link": "https://www.instagram.com/odd_haus",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
-      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
-      "mapx": "1269721868",
-      "mapy": "375662530"
-    },
     {
       "title": "달리181 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/daligh181",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 종로5길 13 B1층",
       "mapx": "1269804824",
       "mapy": "375710343"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
     },
     {
       "title": "스패뉴",

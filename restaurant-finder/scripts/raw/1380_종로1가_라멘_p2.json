@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:56 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,6 +12,28 @@
       "telephone": "",
       "address": "서울특별시 종로구 종로1가 24 B1 108-1-3호",
       "roadAddress": "서울특별시 종로구 종로 19 B1 108-1-3호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "쿠지라스토랑 광화문점",
+      "link": "https://www.instagram.com/kuzirastaurant_gwanghwamun?igsh=cTRzZ3BmeGNrZTZ4&utm_source=qr",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 제비113-4호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 제비113-4호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "코이<b>라멘</b> <b>종로</b>점",
+      "link": "https://blog.naver.com/io808080",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 2층 219-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 2층 219-2호",
       "mapx": "1269798606",
       "mapy": "375708344"
     },
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 마른내로2길 26 1층",
       "mapx": "1269916547",
       "mapy": "375634193"
-    },
-    {
-      "title": "멘츠루 시청점",
-      "link": "",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
-      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
-      "mapx": "1269731249",
-      "mapy": "375629944"
-    },
-    {
-      "title": "<b>라멘</b> 보루도 종묘 서순라길 본점",
-      "link": "https://www.instagram.com/ramen_bold",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 권농동 170-6 1층",
-      "roadAddress": "서울특별시 종로구 서순라길 123-8 1층",
-      "mapx": "1269911446",
-      "mapy": "375756029"
     }
   ]
 }

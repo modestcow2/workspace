@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:16 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375737740"
     },
     {
-      "title": "체부동잔치집 별관",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 12",
-      "roadAddress": "서울특별시 종로구 사직로 115-3",
-      "mapx": "1269716673",
-      "mapy": "375762475"
-    },
-    {
       "title": "봉피양 경복궁점",
       "link": "http://www.bjgalbi.com",
       "category": "음식점>한식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 20",
       "mapx": "1269722429",
       "mapy": "375779140"
+    },
+    {
+      "title": "체부동잔치집 별관",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 12",
+      "roadAddress": "서울특별시 종로구 사직로 115-3",
+      "mapx": "1269716673",
+      "mapy": "375762475"
     },
     {
       "title": "청담원",

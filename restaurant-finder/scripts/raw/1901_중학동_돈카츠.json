@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:58 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:31:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375777902"
     },
     {
+      "title": "알돈 본점",
+      "link": "https://www.instagram.com/r_don22",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 70 지하1층, 11호",
+      "roadAddress": "서울특별시 중구 다동길 43 지하1층, 11호",
+      "mapx": "1269818391",
+      "mapy": "375682023"
+    },
+    {
       "title": "오제제 광화문",
       "link": "https://www.instagram.com/ojeje.seoul",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
       "mapx": "1269783077",
       "mapy": "375684118"
-    },
-    {
-      "title": "오얏카츠 인사동",
-      "link": "https://www.instagram.com/oyatt_katsu",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
-      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
-      "mapx": "1269833422",
-      "mapy": "375735368"
     }
   ]
 }

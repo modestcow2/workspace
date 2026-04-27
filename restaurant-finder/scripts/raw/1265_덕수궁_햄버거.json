@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:03 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375704194"
     },
     {
-      "title": "버거링맨",
-      "link": "https://www.instagram.com/burgering_man_official",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 지하 2층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 지하 2층",
-      "mapx": "1269721401",
-      "mapy": "375696647"
-    },
-    {
       "title": "움버거앤윙스 광화문점",
       "link": "https://umopen.co.kr",
       "category": "양식>햄버거",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 105 1층",
       "mapx": "1269763278",
       "mapy": "375704497"
+    },
+    {
+      "title": "버거링맨",
+      "link": "https://www.instagram.com/burgering_man_official",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하 2층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
     },
     {
       "title": "KFC 시청역",

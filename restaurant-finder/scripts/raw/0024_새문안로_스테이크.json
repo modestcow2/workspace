@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:13 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:07:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -32,8 +32,8 @@
       "category": "음식점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 30 LL층",
-      "roadAddress": "서울특별시 종로구 새문안로 97 LL층",
+      "address": "서울특별시 종로구 당주동 30 LL층 (Lower Level)",
+      "roadAddress": "서울특별시 종로구 새문안로 97 LL층 (Lower Level)",
       "mapx": "1269753817",
       "mapy": "375707185"
     },

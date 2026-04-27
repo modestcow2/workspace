@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:43 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "도량",
-      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
-      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
-      "mapx": "1269724921",
-      "mapy": "375780066"
-    },
     {
       "title": "영화루",
       "link": "",
@@ -27,15 +16,15 @@
       "mapy": "375801579"
     },
     {
-      "title": "중국",
-      "link": "",
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
     },
     {
       "title": "신승관",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 217호",
       "mapx": "1269798606",
       "mapy": "375708344"
+    },
+    {
+      "title": "당대일품",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 타워8 1층 102,103,104,105호",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8 1층 102,103,104,105호",
+      "mapx": "1269805518",
+      "mapy": "375706324"
     },
     {
       "title": "친니",

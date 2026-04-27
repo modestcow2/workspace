@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:49 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375834586"
     },
     {
-      "title": "경춘자의라면땡기는날",
+      "title": "팔판동꼬마김밥 앤 토스트",
       "link": "",
-      "category": "분식>라면",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 화동 138-21",
-      "roadAddress": "서울특별시 종로구 율곡로3길 82",
-      "mapx": "1269822347",
-      "mapy": "375793111"
+      "address": "서울특별시 종로구 팔판동 20 1층",
+      "roadAddress": "서울특별시 종로구 팔판길 36 1층",
+      "mapx": "1269813189",
+      "mapy": "375833506"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:54 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
       "mapx": "1269710531",
       "mapy": "375791821"
-    },
-    {
-      "title": "온지음 레스토랑",
-      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
-      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
-      "mapx": "1269734438",
-      "mapy": "375804848"
     },
     {
       "title": "원조정할머니기름떡볶이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로15길 13 모내기",
       "mapx": "1269702350",
       "mapy": "375806684"
+    },
+    {
+      "title": "청진동장터<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 3-3",
+      "roadAddress": "서울특별시 종로구 종로5길 40",
+      "mapx": "1269804455",
+      "mapy": "375720966"
     }
   ]
 }

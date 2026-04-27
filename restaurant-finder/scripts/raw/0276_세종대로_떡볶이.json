@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:19 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375620705"
     },
     {
+      "title": "써니즉석<b>떡볶이</b> 숭례문점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 봉래동1가 104-1",
+      "roadAddress": "서울특별시 중구 세종대로 27",
+      "mapx": "1269740911",
+      "mapy": "375593008"
+    },
+    {
       "title": "김가네 시청역점",
       "link": "https://blog.naver.com/gimkong7127",
       "category": "음식점>분식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 74-1 1층",
       "mapx": "1269768169",
       "mapy": "375628427"
-    },
-    {
-      "title": "김가네 서울역점",
-      "link": "https://blog.naver.com/gimkong7127",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 20-1 청송빌딩 102호",
-      "roadAddress": "서울특별시 중구 세종대로 28 청송빌딩 102호",
-      "mapx": "1269745759",
-      "mapy": "375589157"
     }
   ]
 }

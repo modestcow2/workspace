@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:54 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375708344"
     },
     {
-      "title": "마라붐 시청점",
-      "link": "https://blog.naver.com/pheby8888/223943998865",
-      "category": "중식>마라탕",
+      "title": "마라중독",
+      "link": "",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
-      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
-      "mapx": "1269771292",
-      "mapy": "375635420"
+      "address": "서울특별시 종로구 관철동 7-1 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
+      "mapx": "1269874452",
+      "mapy": "375695065"
     },
     {
       "title": "꽁시면관 본점",

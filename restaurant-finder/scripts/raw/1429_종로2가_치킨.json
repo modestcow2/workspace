@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,18 +38,7 @@
       "mapy": "375704300"
     },
     {
-      "title": "북창<b>치킨</b> 서울시청본점",
-      "link": "https://blog.naver.com/j03c",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 68-2 1층, 2층",
-      "roadAddress": "서울특별시 중구 세종대로16길 6 1층, 2층",
-      "mapx": "1269772125",
-      "mapy": "375633658"
-    },
-    {
-      "title": "달맞이광장바베큐",
+      "title": "달맞이광장바베큐 본점",
       "link": "https://app.catchtable.co.kr/ct/shop/dalmajiplaza_bbq?from=share&type=WAITING",
       "category": "술집>맥주,호프",
       "description": "",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로 112-1 1층",
       "mapx": "1269904910",
       "mapy": "375658502"
+    },
+    {
+      "title": "원조만선호프",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 95-6",
+      "roadAddress": "서울특별시 중구 충무로9길 14",
+      "mapx": "1269915199",
+      "mapy": "375671923"
     }
   ]
 }

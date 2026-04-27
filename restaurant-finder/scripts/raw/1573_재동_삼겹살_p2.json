@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
-      "category": "음식점>한식",
+      "title": "황칠가 안국점",
+      "link": "https://smartstore.naver.com/goodhealingshop",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
+      "address": "서울특별시 종로구 재동 109 지하 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
+      "mapx": "1269857055",
+      "mapy": "375774305"
     },
     {
       "title": "삼지",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
       "mapx": "1269860086",
       "mapy": "375782908"
-    },
-    {
-      "title": "황칠가 안국점",
-      "link": "https://smartstore.naver.com/goodhealingshop",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 109 지하 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
-      "mapx": "1269857055",
-      "mapy": "375774305"
     },
     {
       "title": "북촌김치재",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 59",
       "mapx": "1269857102",
       "mapy": "375769015"
+    },
+    {
+      "title": "익선동목장 종로본점",
+      "link": "http://www.instagram.com/iksun.farm",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 묘동 160-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
+      "mapx": "1269912075",
+      "mapy": "375731990"
     }
   ]
 }

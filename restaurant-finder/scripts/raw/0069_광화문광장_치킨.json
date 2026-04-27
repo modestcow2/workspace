@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,37 +16,26 @@
       "mapy": "375746043"
     },
     {
-      "title": "북창<b>치킨</b> 서울시청본점",
-      "link": "https://blog.naver.com/j03c",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 68-2 1층, 2층",
-      "roadAddress": "서울특별시 중구 세종대로16길 6 1층, 2층",
-      "mapx": "1269772125",
-      "mapy": "375633658"
-    },
-    {
-      "title": "경성<b>치킨</b> 본점",
-      "link": "https://gyeongseongchiken.co.kr",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 14",
-      "roadAddress": "서울특별시 종로구 율곡로4길 5",
-      "mapx": "1269822908",
-      "mapy": "375752174"
-    },
-    {
-      "title": "청계천 휴",
+      "title": "거성호프",
       "link": "",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 32-4 청계천 휴",
-      "roadAddress": "서울특별시 종로구 청계천로 71 청계천 휴",
-      "mapx": "1269856226",
-      "mapy": "375686938"
+      "address": "서울특별시 종로구 당주동 117 거성호프",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-7 거성호프",
+      "mapx": "1269739671",
+      "mapy": "375722869"
+    },
+    {
+      "title": "미락<b>치킨</b> 경복궁본점",
+      "link": "https://www.instagram.com/explore/tags/미락치킨/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 39-2",
+      "roadAddress": "서울특별시 종로구 자하문로 17-1",
+      "mapx": "1269719338",
+      "mapy": "375776453"
     },
     {
       "title": "금성슈퍼 <b>광화문</b>본점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로9길 9 금성슈퍼 광화문본점 1F",
       "mapx": "1269759933",
       "mapy": "375706901"
+    },
+    {
+      "title": "청계천 휴",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 32-4 청계천 휴",
+      "roadAddress": "서울특별시 종로구 청계천로 71 청계천 휴",
+      "mapx": "1269856226",
+      "mapy": "375686938"
     }
   ]
 }

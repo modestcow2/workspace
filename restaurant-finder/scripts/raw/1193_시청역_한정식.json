@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:28 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375625240"
     },
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
+      "title": "남도한식 정든님",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
+      "address": "서울특별시 중구 북창동 79 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로14길 22-5 1층, 2층",
+      "mapx": "1269780747",
+      "mapy": "375625624"
     }
   ]
 }

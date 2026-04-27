@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
     {
       "title": "백암박가네순대국",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
       "mapx": "1269710531",
       "mapy": "375791821"
+    },
+    {
+      "title": "청하식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 120",
+      "roadAddress": "서울특별시 종로구 자하문로10길 25",
+      "mapx": "1269728999",
+      "mapy": "375794749"
     },
     {
       "title": "통인감자탕",

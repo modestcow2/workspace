@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:39 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375771457"
     },
     {
-      "title": "삼정하누 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
-      "category": "한식>소고기구이",
+      "title": "서촌기와집 본점",
+      "link": "http://서촌기와집.com/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
-      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
-      "mapx": "1269701780",
-      "mapy": "375750298"
+      "address": "서울특별시 종로구 필운동 204-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 35",
+      "mapx": "1269702575",
+      "mapy": "375765504"
     }
   ]
 }

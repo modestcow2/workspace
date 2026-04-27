@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "양밍산",
+      "link": "https://www.instagram.com/yangming_san",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 727",
+      "roadAddress": "서울특별시 서대문구 가좌로 36",
+      "mapx": "1269319031",
+      "mapy": "375777306"
+    },
+    {
+      "title": "청송함흥냉면전문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-6",
+      "roadAddress": "서울특별시 서대문구 연희맛로 6",
+      "mapx": "1269287944",
+      "mapy": "375659401"
+    },
     {
       "title": "오향<b>만두</b>",
       "link": "http://map.naver.com/?mid=bl013772130",
@@ -16,6 +38,17 @@
       "mapy": "375669752"
     },
     {
+      "title": "천수냉면 이대점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-24 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 72-10 1층",
+      "mapx": "1269445084",
+      "mapy": "375594958"
+    },
+    {
       "title": "이품",
       "link": "",
       "category": "중식>중식당",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 서대문구 연희로11길 20",
       "mapx": "1269300765",
       "mapy": "375675500"
-    },
-    {
-      "title": "맛있는칼국수",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 북가좌동 345-27 1층",
-      "roadAddress": "서울특별시 서대문구 불광천길 150 1층",
-      "mapx": "1269089080",
-      "mapy": "375819180"
-    },
-    {
-      "title": "편의방",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 353-94",
-      "roadAddress": "서울특별시 서대문구 연희로 36",
-      "mapx": "1269275231",
-      "mapy": "375617816"
-    },
-    {
-      "title": "미스터서왕<b>만두</b>",
-      "link": "",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 27-20 103호 가이아오피스텔",
-      "roadAddress": "서울특별시 서대문구 신촌역로 16 103호 가이아오피스텔",
-      "mapx": "1269433440",
-      "mapy": "375581397"
     }
   ]
 }

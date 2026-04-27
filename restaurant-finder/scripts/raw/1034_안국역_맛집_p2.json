@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:14 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "고씨네동해막국수 종로직영점",
-      "link": "https://blog.naver.com/hjwm0116",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 68 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
-      "mapx": "1269846887",
-      "mapy": "375744624"
-    },
     {
       "title": "신사동인동 안녕인사동점",
       "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
@@ -27,37 +16,48 @@
       "mapy": "375744663"
     },
     {
-      "title": "다반 안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/daban_anguk",
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 운니동 98-5 이노88타워 1층 104호 다반",
-      "roadAddress": "서울특별시 종로구 율곡로 88 이노88타워 1층 104호 다반",
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
+    },
+    {
+      "title": "오설록티하우스 현대미술관점",
+      "link": "",
+      "category": "카페,디저트>차",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 165",
+      "roadAddress": "서울특별시 종로구 삼청로 30",
+      "mapx": "1269810339",
+      "mapy": "375796353"
+    },
+    {
+      "title": "유소바 <b>안국역</b>점",
+      "link": "https://www.instagram.com/usoba.kr",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-56 1층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 32 1층",
+      "mapx": "1269874771",
+      "mapy": "375794190"
+    },
+    {
+      "title": "키세카츠 <b>안국역</b>점",
+      "link": "https://www.instagram.com/kise.katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 98-5 2층 205호",
+      "roadAddress": "서울특별시 종로구 율곡로 88 2층 205호",
       "mapx": "1269889420",
       "mapy": "375768090"
-    },
-    {
-      "title": "더타코부스 NYC 안국점",
-      "link": "",
-      "category": "음식점>양식>멕시코,남미음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 86 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
-      "mapx": "1269860399",
-      "mapy": "375774613"
-    },
-    {
-      "title": "루시드 서울",
-      "link": "http://instagram.com/lucyd_seoul",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 운니동 62-1 1층 101호",
-      "roadAddress": "서울특별시 종로구 삼일대로32길 45 1층 101호",
-      "mapx": "1269895257",
-      "mapy": "375756045"
     }
   ]
 }

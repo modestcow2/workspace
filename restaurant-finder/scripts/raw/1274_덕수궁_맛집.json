@@ -1,41 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:07 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
+      "title": "유림면",
+      "link": "https://www.thingoolmarket.com",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
-    },
-    {
-      "title": "한암동 정동점",
-      "link": "https://openine.com/한암동",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
-      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
-      "mapx": "1269708541",
-      "mapy": "375678521"
-    },
-    {
-      "title": "타와",
-      "link": "https://www.instagram.com/muwa__official",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
-      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
-      "mapx": "1269736520",
-      "mapy": "375634157"
+      "address": "서울특별시 중구 서소문동 16",
+      "roadAddress": "서울특별시 중구 서소문로 139-1",
+      "mapx": "1269760935",
+      "mapy": "375642371"
     },
     {
       "title": "무탄 광화문점",
@@ -49,15 +27,37 @@
       "mapy": "375696647"
     },
     {
-      "title": "광화문면옥",
+      "title": "쿠차라 광화문점",
       "link": "",
-      "category": "한식>냉면",
+      "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
+      "address": "서울특별시 종로구 신문로1가 116 에스타워 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 82 에스타워 1층",
+      "mapx": "1269741025",
+      "mapy": "375698786"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
+    },
+    {
+      "title": "어슬 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
+      "mapx": "1269720468",
+      "mapy": "375687024"
     }
   ]
 }

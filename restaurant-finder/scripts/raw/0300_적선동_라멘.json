@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:29 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375708344"
     },
     {
-      "title": "멘노아지 종로점",
-      "link": "https://www.instagram.com/mennoage_jongno?igsh=MTNzcHFzOHhkNXdhZw%3D%3D&utm_source=qr",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 128 1층 101호",
-      "roadAddress": "서울특별시 종로구 종로5길 7 1층 101호",
-      "mapx": "1269803681",
-      "mapy": "375708089"
-    },
-    {
       "title": "멘츠루 종로점",
       "link": "https://app.catchtable.co.kr/ct/shop/mentsurujn",
       "category": "음식점>일식>일본식라면",
@@ -49,15 +38,26 @@
       "mapy": "375724459"
     },
     {
-      "title": "삼방매",
-      "link": "https://instagram.com/sambangmae?igshid=1urjfbecqrdbo",
+      "title": "멘노아지 종로점",
+      "link": "https://www.instagram.com/mennoage_jongno?igsh=MTNzcHFzOHhkNXdhZw%3D%3D&utm_source=qr",
       "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 160-2 삼방매 본점",
-      "roadAddress": "서울특별시 종로구 율곡로5길 3-11 삼방매 본점",
-      "mapx": "1269846726",
-      "mapy": "375765832"
+      "address": "서울특별시 종로구 청진동 128 1층 101호",
+      "roadAddress": "서울특별시 종로구 종로5길 7 1층 101호",
+      "mapx": "1269803681",
+      "mapy": "375708089"
+    },
+    {
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
     }
   ]
 }

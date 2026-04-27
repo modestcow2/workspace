@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -32,21 +32,10 @@
       "category": "음식점>한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
       "mapx": "1269807361",
       "mapy": "375727720"
-    },
-    {
-      "title": "류경회관 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
-      "mapx": "1269818280",
-      "mapy": "375724939"
     },
     {
       "title": "봄날의 햇살",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로1길 42 . 지하1층",
       "mapx": "1269789959",
       "mapy": "375739044"
+    },
+    {
+      "title": "류경회관 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
+      "mapx": "1269818280",
+      "mapy": "375724939"
     }
   ]
 }

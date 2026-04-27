@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375696647"
     },
     {
+      "title": "라이빈",
+      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 15 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
+      "mapx": "1269624726",
+      "mapy": "375696654"
+    },
+    {
       "title": "도량",
       "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
       "category": "중식>중식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로33길 2",
       "mapx": "1269697482",
       "mapy": "375861990"
-    },
-    {
-      "title": "라이빈",
-      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 옥천동 15 1층",
-      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
-      "mapx": "1269624726",
-      "mapy": "375696654"
     }
   ]
 }

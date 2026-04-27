@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:34 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "율동칼국수",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 9 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
-      "mapx": "1269846160",
-      "mapy": "375794433"
-    },
     {
       "title": "안국약방",
       "link": "",
@@ -38,6 +27,28 @@
       "mapy": "375771370"
     },
     {
+      "title": "황칠가 안국점",
+      "link": "https://smartstore.naver.com/goodhealingshop",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 109 지하 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
+      "mapx": "1269857055",
+      "mapy": "375774305"
+    },
+    {
+      "title": "율동칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 9 2층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
+      "mapx": "1269846160",
+      "mapy": "375794433"
+    },
+    {
       "title": "봉이밥 삼청동점",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
       "mapx": "1269822067",
       "mapy": "375842989"
-    },
-    {
-      "title": "룻 안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/ROOTroot?from=share&type=NONE",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 9",
-      "roadAddress": "서울특별시 종로구 율곡로1길 54-1",
-      "mapx": "1269809760",
-      "mapy": "375782906"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:58 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "보보식당 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
     {
       "title": "코끼리초밥 광화문점",
       "link": "https://blog.naver.com/kokirisushi",
@@ -27,13 +16,24 @@
       "mapy": "375721535"
     },
     {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
+      "title": "광화문나폴리",
+      "link": "https://www.instagram.com/gwanghwamun_napoli?igsh=MWcycXBpbXZnaDF3dg%3D%3D&utm_source=qr",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "address": "서울특별시 종로구 세종로 173-1 1층, 2층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 24-4 1층, 2층",
+      "mapx": "1269759158",
+      "mapy": "375714544"
+    },
+    {
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
       "mapx": "1269778819",
       "mapy": "375721535"
     },
@@ -49,13 +49,13 @@
       "mapy": "375721535"
     },
     {
-      "title": "오츠커피 광화문",
-      "link": "https://smartstore.naver.com/oatscoffee",
-      "category": "음식점>카페,디저트",
+      "title": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
+      "link": "",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 2층 213-2호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 2층 213-2호",
+      "address": "서울특별시 종로구 세종로 100",
+      "roadAddress": "서울특별시 종로구 세종대로 178",
       "mapx": "1269778819",
       "mapy": "375721535"
     }

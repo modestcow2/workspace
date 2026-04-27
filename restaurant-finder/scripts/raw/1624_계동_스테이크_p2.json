@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:50 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375794136"
     },
     {
-      "title": "갈로팡",
-      "link": "https://app.catchtable.co.kr/ct/shop/galopin",
-      "category": "음식점>프랑스음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 99-12 2층",
-      "roadAddress": "서울특별시 종로구 북촌로4길 16 2층",
-      "mapx": "1269860461",
-      "mapy": "375791663"
-    },
-    {
       "title": "후스테이블",
       "link": "",
       "category": "이탈리아음식>스파게티,파스타전문",
@@ -56,8 +45,19 @@
       "telephone": "",
       "address": "서울특별시 종로구 계동 140-4 1층 후스테이블",
       "roadAddress": "서울특별시 종로구 창덕궁1가길 8 1층 후스테이블",
-      "mapx": "1269881260",
-      "mapy": "375796303"
+      "mapx": "1269880703",
+      "mapy": "375796147"
+    },
+    {
+      "title": "써브웨이 북촌점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 계동길 5",
+      "mapx": "1269867060",
+      "mapy": "375773925"
     }
   ]
 }

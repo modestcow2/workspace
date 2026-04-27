@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375668511"
     },
     {
-      "title": "청담동 마녀김밥 광화문점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 204-1",
-      "roadAddress": "서울특별시 종로구 새문안로 105",
-      "mapx": "1269762542",
-      "mapy": "375704544"
-    },
-    {
       "title": "남대문달님즉석<b>떡볶이</b> 서울역본점",
       "link": "",
       "category": "분식>떡볶이",
@@ -49,15 +38,26 @@
       "mapy": "375600347"
     },
     {
-      "title": "허니<b>떡볶이</b>",
-      "link": "https://blog.naver.com/honeybokki",
-      "category": "분식>떡볶이",
+      "title": "청담동 마녀김밥 광화문점",
+      "link": "",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
-      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
-      "mapx": "1269762132",
-      "mapy": "375705250"
+      "address": "서울특별시 종로구 세종로 204-1",
+      "roadAddress": "서울특별시 종로구 새문안로 105",
+      "mapx": "1269762542",
+      "mapy": "375704544"
+    },
+    {
+      "title": "동대문엽기<b>떡볶이</b> 남대문점",
+      "link": "https://blog.naver.com/ddm_yupdduk",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-4 2층 엽기떡볶이",
+      "roadAddress": "서울특별시 중구 세종대로 62 2층 엽기떡볶이",
+      "mapx": "1269764527",
+      "mapy": "375617228"
     }
   ]
 }

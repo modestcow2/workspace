@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:41 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "진심",
+      "link": "",
+      "category": "음식점>일식>덮밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 44 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
+      "mapx": "1269688292",
+      "mapy": "375798572"
+    },
     {
       "title": "누하의 숲",
       "link": "",
@@ -38,26 +49,15 @@
       "mapy": "375791432"
     },
     {
-      "title": "진심",
-      "link": "",
-      "category": "음식점>일식>일식당",
+      "title": "핀치",
+      "link": "https://www.instagram.com/pinch.seoul",
+      "category": "음식점>퓨전음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 44 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
-      "mapx": "1269688524",
-      "mapy": "375798659"
-    },
-    {
-      "title": "오카즈",
-      "link": "http://catchtable.co.kr/ohkaz",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 112 1층 오카즈",
-      "roadAddress": "서울특별시 종로구 자하문로 49-1 1층 오카즈",
-      "mapx": "1269709630",
-      "mapy": "375804953"
+      "address": "서울특별시 종로구 누하동 152 1층",
+      "roadAddress": "서울특별시 종로구 필운대로5길 11 1층",
+      "mapx": "1269680926",
+      "mapy": "375793637"
     }
   ]
 }

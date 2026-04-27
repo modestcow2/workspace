@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:13 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375837662"
     },
     {
-      "title": "조선김밥",
+      "title": "서촌북촌",
       "link": "",
-      "category": "분식>김밥",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 22-1 1층",
-      "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
-      "mapx": "1269822132",
-      "mapy": "375786507"
+      "address": "서울특별시 종로구 통인동 158 1층(북촌)",
+      "roadAddress": "서울특별시 종로구 자하문로7길 10 1층(북촌)",
+      "mapx": "1269711537",
+      "mapy": "375783804"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:28 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375708344"
     },
     {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
+      "title": "당대일품",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
+      "address": "서울특별시 종로구 청진동 128 타워8 1층 102,103,104,105호",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8 1층 102,103,104,105호",
+      "mapx": "1269805518",
+      "mapy": "375706324"
     },
     {
-      "title": "베이징코야",
-      "link": "http://www.베이징코야.com/",
+      "title": "인사동 화원",
+      "link": "http://instagram.com/choihun81",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 110 연합뉴스 빌딩 지하 1층",
-      "roadAddress": "서울특별시 종로구 율곡로2길 25 연합뉴스 빌딩 지하 1층",
-      "mapx": "1269802390",
-      "mapy": "375745591"
+      "address": "서울특별시 종로구 관훈동 29-16 인사동 화원",
+      "roadAddress": "서울특별시 종로구 인사동8길 12 인사동 화원",
+      "mapx": "1269859642",
+      "mapy": "375738998"
     }
   ]
 }

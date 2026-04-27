@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:54 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375791432"
     },
     {
+      "title": "여래여거",
+      "link": "https://catchtable.co.kr/yrygyryg",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 53-1 1층 102호",
+      "roadAddress": "서울특별시 종로구 옥인길 23-6 1층 102호",
+      "mapx": "1269671031",
+      "mapy": "375808670"
+    },
+    {
       "title": "설우 서대문점",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 통일로 134 NH농협 타워 지하 1층 104호 설우 서대문점",
       "mapx": "1269662598",
       "mapy": "375667937"
-    },
-    {
-      "title": "우직 경복궁점",
-      "link": "https://app.catchtable.co.kr/ct/shop/xuzikx_kbg",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 153-1 1층 우직",
-      "roadAddress": "서울특별시 종로구 자하문로1길 49-4 1층 우직",
-      "mapx": "1269695885",
-      "mapy": "375767578"
     }
   ]
 }

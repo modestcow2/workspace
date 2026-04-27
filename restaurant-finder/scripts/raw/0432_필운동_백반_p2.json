@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:32 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375769499"
     },
     {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
-    {
       "title": "서촌시우식당",
       "link": "",
       "category": "한식>백반,가정식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 필운대로 18",
       "mapx": "1269695515",
       "mapy": "375777250"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
     },
     {
       "title": "무구옥",

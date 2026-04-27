@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,24 +27,13 @@
       "mapy": "375692879"
     },
     {
-      "title": "천향원 명동점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
-      "roadAddress": "서울특별시 중구 남대문로7길 33 소공빌딩 2층 천향원",
-      "mapx": "1269800515",
-      "mapy": "375637808"
-    },
-    {
-      "title": "춘리<b>마라탕</b> 명동본점",
+      "title": "춘리<b>마라탕</b> 소공점",
       "link": "https://chunlimalatang.com",
       "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 26 1층 춘리마라탕 명동점",
-      "roadAddress": "서울특별시 중구 남대문로7길 11-6 1층 춘리마라탕 명동점",
+      "address": "서울특별시 중구 소공동 26 1층",
+      "roadAddress": "서울특별시 중구 남대문로7길 11-6 1층",
       "mapx": "1269810906",
       "mapy": "375636450"
     },
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로21길 55 2층",
       "mapx": "1269759345",
       "mapy": "375690541"
+    },
+    {
+      "title": "탕화쿵푸<b>마라탕</b> 명동5호점",
+      "link": "",
+      "category": "음식점>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 24 경산빌딩 별관 2층 202호",
+      "roadAddress": "서울특별시 중구 남대문로7길 15 경산빌딩 별관 2층 202호",
+      "mapx": "1269809186",
+      "mapy": "375637879"
     }
   ]
 }

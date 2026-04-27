@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "고가빈커리하우스 광화문본점",
-      "link": "http://instagram.com/gogabin_curryhouse",
-      "category": "음식점>일식>카레",
+      "title": "스파게티가있는풍경 광화문점",
+      "link": "https://www.instagram.com/pomodori_park",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-48 3층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
-      "mapx": "1269709645",
-      "mapy": "375728814"
+      "address": "서울특별시 종로구 신문로1가 1-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
+      "mapx": "1269761832",
+      "mapy": "375704933"
     },
     {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
+      "title": "리제로 서울",
+      "link": "https://kardiaspace.com/place",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-348 3층",
+      "roadAddress": "서울특별시 종로구 경희궁3길 3-5 3층",
+      "mapx": "1269680821",
+      "mapy": "375729523"
+    },
+    {
+      "title": "도토리브라더스 광화문본점",
+      "link": "http://www.instagram.com/dotori_brothers",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-248 1층 도토리브라더스",
+      "roadAddress": "서울특별시 종로구 경희궁길 41 1층 도토리브라더스",
+      "mapx": "1269692709",
+      "mapy": "375729254"
+    },
+    {
+      "title": "유식당",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
+      "address": "서울특별시 종로구 내수동 95 1층 상가 120호",
+      "roadAddress": "서울특별시 종로구 사직로8길 20 1층 상가 120호",
+      "mapx": "1269704151",
+      "mapy": "375744848"
     },
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "title": "솔솥 서촌점",
+      "link": "https://youtu.be/WZ2RG7h3GdA?si=fGPFSvl4b6BIswWY",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
-    },
-    {
-      "title": "칸다소바 경복궁점",
-      "link": "https://litt.ly/kandasoba",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 28-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
-      "mapx": "1269712623",
-      "mapy": "375782119"
-    },
-    {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
+      "address": "서울특별시 종로구 체부동 30 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 23 1층",
+      "mapx": "1269715199",
+      "mapy": "375780894"
     }
   ]
 }

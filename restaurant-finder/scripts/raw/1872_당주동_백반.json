@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375764071"
     },
     {
-      "title": "선어도 충정로점",
+      "title": "동백식당",
       "link": "",
-      "category": "한식>생선회",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 충정로3가 360-26 1층",
-      "roadAddress": "서울특별시 서대문구 충정로 18 1층",
-      "mapx": "1269634729",
-      "mapy": "375605788"
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
     }
   ]
 }

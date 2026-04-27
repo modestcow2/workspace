@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:16 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "더타코부스 NYC 안국점",
-      "link": "",
+      "link": "https://thetacobooth.com/",
       "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
@@ -16,37 +16,37 @@
       "mapy": "375774613"
     },
     {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
+      "title": "북촌의뜰",
+      "link": "https://www.instagram.com/bookchontteul/",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 소격동 149-1 1층-4층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 75-4 1층-4층",
+      "mapx": "1269818633",
+      "mapy": "375790615"
     },
     {
-      "title": "샐러드로우 앤 트라타 익선점",
-      "link": "https://www.instagram.com/saladlowtratar_iksun",
+      "title": "코스모스",
+      "link": "https://app.catchtable.co.kr/ct/shop/cosmos_nakwon",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 75 A동 1층 코스모스",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 7 A동 1층 코스모스",
+      "mapx": "1269885365",
+      "mapy": "375732211"
+    },
+    {
+      "title": "온히어 온샐러드앤<b>포케</b> 광화문점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 와룡동 173 1층 샐러드로우앤트라타",
-      "roadAddress": "서울특별시 종로구 돈화문로 65 1층 샐러드로우앤트라타",
-      "mapx": "1269907696",
-      "mapy": "375742407"
-    },
-    {
-      "title": "알라보 종각센트로폴리스점",
-      "link": "",
-      "category": "음식점>도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "mapx": "1269836537",
-      "mapy": "375715557"
+      "address": "서울특별시 종로구 수송동 67-1 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 53 1층",
+      "mapx": "1269802692",
+      "mapy": "375725677"
     },
     {
       "title": "뱃살도둑 종로구청점",

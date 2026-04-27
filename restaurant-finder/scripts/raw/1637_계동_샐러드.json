@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -22,20 +22,9 @@
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 계동 146-2",
-      "roadAddress": "서울특별시 종로구 율곡로 67",
-      "mapx": "1269866899",
-      "mapy": "375773891"
-    },
-    {
-      "title": "아모르나폴리 안국점",
-      "link": "https://booking.kakao.com/short/yw7YSaYnai",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 144-2 1, 2층",
-      "roadAddress": "서울특별시 종로구 계동길 15 1, 2층",
-      "mapx": "1269866582",
-      "mapy": "375779731"
+      "roadAddress": "서울특별시 종로구 계동길 5",
+      "mapx": "1269867060",
+      "mapy": "375773925"
     },
     {
       "title": "런던베이글뮤지엄 안국",
@@ -49,15 +38,26 @@
       "mapy": "375792099"
     },
     {
-      "title": "대장장이화덕피자",
-      "link": "http://pf.kakao.com/_Zscxmb",
-      "category": "음식점>피자",
+      "title": "가가",
+      "link": "http://m.facebook.com/gagabar_seoul",
+      "category": "술집>와인",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 가회동 202-1",
-      "roadAddress": "서울특별시 종로구 북촌로 42-4",
-      "mapx": "1269853702",
-      "mapy": "375805827"
+      "address": "서울특별시 종로구 계동 146-1 가가",
+      "roadAddress": "서울특별시 종로구 계동길 5 가가",
+      "mapx": "1269867146",
+      "mapy": "375774116"
+    },
+    {
+      "title": "정담은보쌈 북촌점",
+      "link": "http://jungdamun-bukchon.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 104-4",
+      "roadAddress": "서울특별시 종로구 계동길 33-9",
+      "mapx": "1269861281",
+      "mapy": "375788056"
     }
   ]
 }

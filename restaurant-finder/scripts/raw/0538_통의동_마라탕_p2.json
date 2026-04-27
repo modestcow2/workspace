@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375709890"
     },
     {
-      "title": "성민양꼬치 서대문점",
-      "link": "",
-      "category": "중식>중식당",
+      "title": "마라공방 광화문점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 161-2 1층",
-      "roadAddress": "서울특별시 서대문구 통일로 143-7 1층",
-      "mapx": "1269648040",
-      "mapy": "375671795"
+      "address": "서울특별시 중구 태평로1가 76-1 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 2층",
+      "mapx": "1269759345",
+      "mapy": "375690541"
     }
   ]
 }

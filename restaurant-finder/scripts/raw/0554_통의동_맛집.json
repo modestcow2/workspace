@@ -1,42 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:29 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "해목 서촌점",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 72",
-      "roadAddress": "서울특별시 종로구 자하문로 26-1",
-      "mapx": "1269720065",
-      "mapy": "375784252"
-    },
-    {
-      "title": "오스테리아소띠",
-      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 91-38",
-      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
-      "mapx": "1269722295",
-      "mapy": "375789547"
-    },
-    {
-      "title": "<b>통의동</b> 국빈관 경복궁역점",
-      "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 38 1층",
-      "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
-      "mapx": "1269738782",
-      "mapy": "375766155"
-    },
     {
       "title": "라 스위스 서촌",
       "link": "https://blog.naver.com/ysimkim",
@@ -49,15 +16,48 @@
       "mapy": "375786629"
     },
     {
-      "title": "H라운지",
-      "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>양식",
+      "title": "해목 서촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-21",
-      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
+      "address": "서울특별시 종로구 통의동 72",
+      "roadAddress": "서울특별시 종로구 자하문로 26-1",
+      "mapx": "1269720065",
+      "mapy": "375784252"
+    },
+    {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "<b>통의동</b> 국빈관 경복궁역점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 38 1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
+      "mapx": "1269738782",
+      "mapy": "375766155"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:33 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375670246"
     },
     {
+      "title": "갈비명가이상 <b>명동</b>점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 206 2층",
+      "roadAddress": "서울특별시 중구 퇴계로 72 2층",
+      "mapx": "1269806038",
+      "mapy": "375591254"
+    },
+    {
       "title": "이남장 을지로본점",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 명동9길 39 1~2층 이남장 명동점",
       "mapx": "1269840776",
       "mapy": "375655402"
-    },
-    {
-      "title": "갈비명가이상 <b>명동</b>점",
-      "link": "",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 회현동1가 206 2층",
-      "roadAddress": "서울특별시 중구 퇴계로 72 2층",
-      "mapx": "1269806038",
-      "mapy": "375591254"
     }
   ]
 }

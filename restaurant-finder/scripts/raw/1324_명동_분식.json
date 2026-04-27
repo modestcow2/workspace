@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375623945"
     },
     {
-      "title": "신세계떡볶이",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 10-5",
-      "roadAddress": "서울특별시 중구 명동9길 10",
-      "mapx": "1269850160",
-      "mapy": "375642992"
-    },
-    {
       "title": "병아리김밥 <b>명동</b>점",
       "link": "https://chickgimbapmd.com/",
       "category": "분식>김밥",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
       "mapx": "1269855893",
       "mapy": "375629999"
+    },
+    {
+      "title": "신세계떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-5",
+      "roadAddress": "서울특별시 중구 명동9길 10",
+      "mapx": "1269850160",
+      "mapy": "375642992"
     },
     {
       "title": "영차떡볶이 <b>명동</b>점",
@@ -49,15 +49,15 @@
       "mapy": "375631401"
     },
     {
-      "title": "마포만두 시청점",
+      "title": "싸다김밥 을지로입구역점",
       "link": "",
-      "category": "분식>만두",
+      "category": "음식점>분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
-      "mapx": "1269795809",
-      "mapy": "375668511"
+      "address": "서울특별시 중구 을지로2가 199-22 지하1층",
+      "roadAddress": "서울특별시 중구 명동3길 44 지하1층",
+      "mapx": "1269836405",
+      "mapy": "375656326"
     }
   ]
 }

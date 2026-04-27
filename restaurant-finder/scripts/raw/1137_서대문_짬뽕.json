@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:02 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375592662"
     },
     {
-      "title": "이품",
+      "title": "양밍산",
+      "link": "https://www.instagram.com/yangming_san",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 727",
+      "roadAddress": "서울특별시 서대문구 가좌로 36",
+      "mapx": "1269319031",
+      "mapy": "375777306"
+    },
+    {
+      "title": "당가원 홍제점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 132-19",
-      "roadAddress": "서울특별시 서대문구 연희로11길 20",
-      "mapx": "1269300765",
-      "mapy": "375675500"
-    },
-    {
-      "title": "라이빈",
-      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 옥천동 15 1층",
-      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
-      "mapx": "1269624726",
-      "mapy": "375696654"
+      "address": "서울특별시 서대문구 홍제동 266-116 1층",
+      "roadAddress": "서울특별시 서대문구 세무서7길 20 1층",
+      "mapx": "1269459286",
+      "mapy": "375917978"
     }
   ]
 }

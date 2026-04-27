@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:13 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375699463"
     },
     {
-      "title": "마라붐 시청점",
-      "link": "https://blog.naver.com/pheby8888/223943998865",
-      "category": "중식>마라탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 58-8 2층 마라붐 (전 천궁전마라탕)",
-      "roadAddress": "서울특별시 중구 세종대로16길 1 2층 마라붐 (전 천궁전마라탕)",
-      "mapx": "1269771292",
-      "mapy": "375635420"
-    },
-    {
-      "title": "꽁시면관 본점",
-      "link": "http://instagram.com/ggongci_ggongci",
+      "title": "라화방<b>마라탕</b> 동국대점",
+      "link": "http://rahwabangma.cityfood.co.kr/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 22-13 꽁시면관",
-      "roadAddress": "서울특별시 중구 명동2길 45 꽁시면관",
-      "mapx": "1269832230",
-      "mapy": "375613839"
+      "address": "서울특별시 중구 필동3가 18-3 1층",
+      "roadAddress": "서울특별시 중구 서애로1길 10 1층",
+      "mapx": "1269984826",
+      "mapy": "375609803"
     },
     {
       "title": "마라중독",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
       "mapx": "1269874452",
       "mapy": "375695065"
+    },
+    {
+      "title": "꽁시면관 본점",
+      "link": "http://instagram.com/ggongci_ggongci",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 22-13 꽁시면관",
+      "roadAddress": "서울특별시 중구 명동2길 45 꽁시면관",
+      "mapx": "1269832230",
+      "mapy": "375613839"
     }
   ]
 }

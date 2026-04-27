@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:58 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375796715"
     },
     {
-      "title": "깡통<b>만두</b>",
-      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
-      "category": "분식>만두",
+      "title": "청화 우육도삭면",
+      "link": "https://cheonghwa-noodle.wywh.co.kr/",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-22 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
-      "mapx": "1269860918",
-      "mapy": "375781763"
+      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
+      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

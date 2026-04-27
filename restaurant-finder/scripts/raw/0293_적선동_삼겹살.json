@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375749172"
     },
     {
-      "title": "뼈탄집 서촌본점",
-      "link": "http://www.bornpig.co.kr/index2.php",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 9-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 13",
-      "mapx": "1269717062",
-      "mapy": "375764468"
-    },
-    {
       "title": "평양고깃집",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
       "mapx": "1269854482",
       "mapy": "375727819"
+    },
+    {
+      "title": "뼈탄집 서촌본점",
+      "link": "http://www.bornpig.co.kr/index2.php",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 9-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13",
+      "mapx": "1269717062",
+      "mapy": "375764468"
     }
   ]
 }

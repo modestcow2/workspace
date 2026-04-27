@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:54 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "청화 우육도삭면",
-      "link": "",
+      "link": "https://cheonghwa-noodle.wywh.co.kr/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -38,17 +38,6 @@
       "mapy": "375708585"
     },
     {
-      "title": "오한수우육면가 르메이에르점",
-      "link": "",
-      "category": "음식점>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
-      "mapx": "1269797063",
-      "mapy": "375709148"
-    },
-    {
       "title": "중국관",
       "link": "",
       "category": "중식>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1",
       "mapx": "1269795664",
       "mapy": "375705836"
+    },
+    {
+      "title": "오한수우육면가 르메이에르점",
+      "link": "",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
+      "mapx": "1269797063",
+      "mapy": "375709148"
     }
   ]
 }

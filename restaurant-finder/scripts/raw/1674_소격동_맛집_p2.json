@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:14 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "봉이밥 삼청동점",
+      "title": "오설록티하우스 현대미술관점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "카페,디저트>차",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
+      "address": "서울특별시 종로구 소격동 165",
+      "roadAddress": "서울특별시 종로구 삼청로 30",
+      "mapx": "1269810339",
+      "mapy": "375796353"
     },
     {
       "title": "포스톤즈 삼청점",
@@ -27,37 +27,37 @@
       "mapy": "375847732"
     },
     {
-      "title": "삼청동수제비",
-      "link": "http://www.삼청동수제비.kr",
+      "title": "봉이밥 삼청동점",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 99",
-      "roadAddress": "서울특별시 종로구 삼청로 101-1",
-      "mapx": "1269819599",
-      "mapy": "375845273"
+      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
+      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
+      "mapx": "1269822067",
+      "mapy": "375842989"
     },
     {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
+      "title": "PKM가든 레스토랑",
+      "link": "https://catchtable.co.kr/pkm_restaurant",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
+      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
+      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
+      "mapx": "1269801406",
+      "mapy": "375841122"
     },
     {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
-      "category": "음식점>한식",
+      "title": "삼청빙수",
+      "link": "https://www.instagram.com/samcheong_bingsu",
+      "category": "카페,디저트>빙수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
+      "address": "서울특별시 종로구 삼청동 63-19",
+      "roadAddress": "서울특별시 종로구 삼청로 84-1",
+      "mapx": "1269819470",
+      "mapy": "375829992"
     }
   ]
 }

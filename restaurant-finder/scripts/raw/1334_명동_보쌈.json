@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:34 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375673236"
     },
     {
-      "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
+      "title": "산채향 청계광장점",
+      "link": "https://www.instagram.com/sanchae_hyang_/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
-      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
-      "mapx": "1269869447",
-      "mapy": "375581107"
+      "address": "서울특별시 중구 무교동 96 프리미어플레이스",
+      "roadAddress": "서울특별시 중구 청계천로 8 프리미어플레이스",
+      "mapx": "1269780888",
+      "mapy": "375688580"
     },
     {
-      "title": "해밀가 종각점",
-      "link": "https://app.catchtable.co.kr/ct/shop/HAEMILGA",
+      "title": "광장동가온 <b>명동</b>성당점",
+      "link": "https://www.instagram.com/narugaon_food/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 85 2층 201호",
-      "roadAddress": "서울특별시 중구 남대문로 125 2층 201호",
-      "mapx": "1269823089",
-      "mapy": "375683770"
+      "address": "서울특별시 중구 명동2가 1-1 명동성당 1층",
+      "roadAddress": "서울특별시 중구 명동길 74 명동성당 1층",
+      "mapx": "1269862219",
+      "mapy": "375639277"
     }
   ]
 }

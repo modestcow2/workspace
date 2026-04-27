@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:45 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375708344"
     },
     {
-      "title": "키보아츠아츠 광화문",
-      "link": "https://www.instagram.com/keebo.co",
-      "category": "음식점>일식>일식당",
+      "title": "세검정돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 West동 지하1층 B108-1호",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 부암동 208-37 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 240 2층",
+      "mapx": "1269640151",
+      "mapy": "375956114"
     }
   ]
 }

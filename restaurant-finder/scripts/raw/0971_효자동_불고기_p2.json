@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:45 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375808338"
     },
     {
-      "title": "자하문로118 들풀",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "사리원<b>불고기</b>[본사] 안녕인사동점",
+      "link": "http://www.sariwon.co.kr",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 4층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 4층",
+      "mapx": "1269834384",
+      "mapy": "375743233"
     }
   ]
 }

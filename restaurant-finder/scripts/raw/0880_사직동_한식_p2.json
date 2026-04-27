@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:01 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "유식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 95 1층 상가 120호",
+      "roadAddress": "서울특별시 종로구 사직로8길 20 1층 상가 120호",
+      "mapx": "1269704151",
+      "mapy": "375744848"
+    },
+    {
+      "title": "화목순대국전문 광화문1호점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 40",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11",
+      "mapx": "1269747764",
+      "mapy": "375712514"
+    },
     {
       "title": "사직로 서울",
       "link": "https://www.instagram.com/sajikro_seoul",
@@ -16,48 +38,26 @@
       "mapy": "375761905"
     },
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
     },
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
-    },
-    {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
-    },
-    {
-      "title": "광화문면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
     }
   ]
 }

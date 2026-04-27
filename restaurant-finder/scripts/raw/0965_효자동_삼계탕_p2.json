@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:43 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375714982"
     },
     {
-      "title": "백년토종<b>삼계탕</b>",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
+      "title": "흑궁흑염소 광화문직영점",
+      "link": "https://naver.me/5wWIpxPz",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 17-1 1, 2층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 3-8 1, 2층",
-      "mapx": "1269811516",
-      "mapy": "375812799"
+      "address": "서울특별시 종로구 내수동 74 지하1층 103호, 104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층 103호, 104호",
+      "mapx": "1269731380",
+      "mapy": "375737740"
     }
   ]
 }

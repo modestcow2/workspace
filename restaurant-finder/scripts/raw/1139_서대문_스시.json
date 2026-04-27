@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:03 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>스시</b>도쿠 현대백화점 신촌점",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 30-33 신촌점 10층",
-      "roadAddress": "서울특별시 서대문구 신촌로 83 신촌점 10층",
-      "mapx": "1269356172",
-      "mapy": "375559008"
-    },
     {
       "title": "<b>스시</b>하나에",
       "link": "",
@@ -25,17 +14,6 @@
       "roadAddress": "서울특별시 서대문구 명지대길 24 2층",
       "mapx": "1269249100",
       "mapy": "375814958"
-    },
-    {
-      "title": "으뜸<b>스시</b> 신촌점",
-      "link": "https://euddeumsushi.com/",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 62-1 2층",
-      "roadAddress": "서울특별시 서대문구 연세로5길 26 2층",
-      "mapx": "1269354364",
-      "mapy": "375566115"
     },
     {
       "title": "김판석초밥",
@@ -49,15 +27,37 @@
       "mapy": "375585501"
     },
     {
-      "title": "여우골초밥 신촌점",
+      "title": "<b>스시</b>도쿠 현대백화점 신촌점",
       "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 62-11",
-      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
-      "mapx": "1269349900",
-      "mapy": "375564975"
+      "address": "서울특별시 서대문구 창천동 30-33 신촌점 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 신촌점 10층",
+      "mapx": "1269356172",
+      "mapy": "375559008"
+    },
+    {
+      "title": "으뜸<b>스시</b> 신촌점",
+      "link": "https://euddeumsushi.com/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-1 2층",
+      "roadAddress": "서울특별시 서대문구 연세로5길 26 2층",
+      "mapx": "1269354364",
+      "mapy": "375566115"
+    },
+    {
+      "title": "한끼마끼",
+      "link": "http://www.instagram.com/hankki_makki",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 40-34 1층한끼마끼",
+      "roadAddress": "서울특별시 서대문구 이화여대1길 15 1층한끼마끼",
+      "mapx": "1269449107",
+      "mapy": "375572175"
     }
   ]
 }

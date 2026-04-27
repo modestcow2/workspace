@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:05 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "더타코부스 NYC 안국점",
-      "link": "",
+      "link": "https://thetacobooth.com/",
       "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
@@ -16,15 +16,37 @@
       "mapy": "375774613"
     },
     {
-      "title": "알라보 종각센트로폴리스점",
-      "link": "",
-      "category": "음식점>도시락,컵밥>다이어트,샐러드",
+      "title": "북촌의뜰",
+      "link": "https://www.instagram.com/bookchontteul/",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "mapx": "1269836537",
-      "mapy": "375715557"
+      "address": "서울특별시 종로구 소격동 149-1 1층-4층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 75-4 1층-4층",
+      "mapx": "1269818633",
+      "mapy": "375790615"
+    },
+    {
+      "title": "스미스가 좋아하는 테라스",
+      "link": "https://www.instagram.com/smith_terrace_official",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 11 1st Floor",
+      "roadAddress": "서울특별시 종로구 삼청로 135-3 1st Floor",
+      "mapx": "1269814009",
+      "mapy": "375876362"
+    },
+    {
+      "title": "코스모스",
+      "link": "https://app.catchtable.co.kr/ct/shop/cosmos_nakwon",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 75 A동 1층 코스모스",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 7 A동 1층 코스모스",
+      "mapx": "1269885365",
+      "mapy": "375732211"
     },
     {
       "title": "슬로우캘리 종각역",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 1층 Retail 1R-7호",
       "mapx": "1269836590",
       "mapy": "375714967"
-    },
-    {
-      "title": "사랑해베이글 종로 94빌딩점",
-      "link": "https://100원커피이벤트-선착순주문하기.com",
-      "category": "카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 144 94빌딩, 1층 103호",
-      "roadAddress": "서울특별시 종로구 삼봉로 94 94빌딩, 1층 103호",
-      "mapx": "1269822393",
-      "mapy": "375717780"
-    },
-    {
-      "title": "뱃살도둑 종로구청점",
-      "link": "https://www.designrut.co.kr/batdo",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 117호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 117호",
-      "mapx": "1269815061",
-      "mapy": "375725618"
     }
   ]
 }

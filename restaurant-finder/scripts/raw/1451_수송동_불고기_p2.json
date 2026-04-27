@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:29 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375729994"
     },
     {
-      "title": "키친토크",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 지하 1층 125호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 지하 1층 125호",
-      "mapx": "1269815061",
-      "mapy": "375725618"
-    },
-    {
       "title": "콩마루",
       "link": "",
       "category": "음식점>한식",
@@ -45,6 +34,17 @@
       "telephone": "",
       "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B1 132, 133호",
       "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B1 132, 133호",
+      "mapx": "1269815061",
+      "mapy": "375725618"
+    },
+    {
+      "title": "키친토크",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 지하 1층 125호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 지하 1층 125호",
       "mapx": "1269815061",
       "mapy": "375725618"
     },

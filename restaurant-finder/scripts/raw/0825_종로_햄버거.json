@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375668920"
     },
     {
+      "title": "자이온 <b>종로</b>점",
+      "link": "https://www.instagram.com/zion.seoul",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로3가 166-2 5-6층",
+      "roadAddress": "서울특별시 종로구 돈화문로4길 37 5-6층",
+      "mapx": "1269943853",
+      "mapy": "375701678"
+    },
+    {
       "title": "더블식스버거",
       "link": "",
       "category": "음식점>햄버거",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로39길 6 1층 더블식스버거",
       "mapx": "1270063793",
       "mapy": "375714616"
-    },
-    {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
     }
   ]
 }

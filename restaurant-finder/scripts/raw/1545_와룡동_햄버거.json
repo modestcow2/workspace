@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:12 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
       "mapx": "1269813054",
       "mapy": "375670949"
+    },
+    {
+      "title": "버거파크 혜화점",
+      "link": "https://www.instagram.com/burgerpark.co.kr",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 101-2 1층 버거파크",
+      "roadAddress": "서울특별시 종로구 대학로11길 5 1층 버거파크",
+      "mapx": "1270013798",
+      "mapy": "375821694"
     },
     {
       "title": "잭잭 안국점",
@@ -38,26 +49,15 @@
       "mapy": "375780911"
     },
     {
-      "title": "버거파크 혜화점",
-      "link": "https://www.instagram.com/burgerpark.co.kr",
+      "title": "벅벅 종로혜화점",
+      "link": "https://instagram.com/burg_burg_?igshid=t81zuyryusc3",
       "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 101-2 1층 버거파크",
-      "roadAddress": "서울특별시 종로구 대학로11길 5 1층 버거파크",
-      "mapx": "1270013798",
-      "mapy": "375821694"
-    },
-    {
-      "title": "혜화동버거",
-      "link": "https://catchtable.co.kr/hyehwadong_burger",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 동숭동 130-63 1층 혜화동버거",
-      "roadAddress": "서울특별시 종로구 동숭3길 6-4 1층 혜화동버거",
-      "mapx": "1270047525",
-      "mapy": "375811462"
+      "address": "서울특별시 종로구 명륜1가 10-22 1층 벅벅 종로혜화점",
+      "roadAddress": "서울특별시 종로구 명륜길 22 1층 벅벅 종로혜화점",
+      "mapx": "1269957318",
+      "mapy": "375883658"
     }
   ]
 }

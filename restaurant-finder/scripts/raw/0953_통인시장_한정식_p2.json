@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:37 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "한암동 정동점",
-      "link": "https://openine.com/한암동",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
-      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
-      "mapx": "1269708541",
-      "mapy": "375678521"
-    },
     {
       "title": "도취 하녹식당",
       "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
@@ -38,15 +27,15 @@
       "mapy": "375706504"
     },
     {
-      "title": "자하문로118 들풀",
-      "link": "",
+      "title": "한암동 정동점",
+      "link": "https://openine.com/한암동",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
+      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
+      "mapx": "1269708541",
+      "mapy": "375678521"
     },
     {
       "title": "모담다이닝 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
       "mapx": "1269720468",
       "mapy": "375687024"
+    },
+    {
+      "title": "소선재",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 113-3 소선재",
+      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
+      "mapx": "1269818029",
+      "mapy": "375855480"
     }
   ]
 }

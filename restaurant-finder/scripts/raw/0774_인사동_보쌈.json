@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:12 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,8 +16,8 @@
       "mapy": "375739819"
     },
     {
-      "title": "도담 1988",
-      "link": "https://www.instagram.com/bukchondodam",
+      "title": "도담1988 북촌도담 <b>인사동</b>점",
+      "link": "https://blog.naver.com/zhichoi",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -38,6 +38,17 @@
       "mapy": "375727819"
     },
     {
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-27",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
+      "mapx": "1269840246",
+      "mapy": "375753027"
+    },
+    {
       "title": "양반댁",
       "link": "http://instagram.com/yangbandeck",
       "category": "한식>한정식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동길 19-18 양반댁",
       "mapx": "1269859113",
       "mapy": "375723316"
-    },
-    {
-      "title": "<b>인사동</b>토방",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 4-2 1층",
-      "roadAddress": "서울특별시 종로구 인사동6길 7 1층",
-      "mapx": "1269862937",
-      "mapy": "375734763"
     }
   ]
 }

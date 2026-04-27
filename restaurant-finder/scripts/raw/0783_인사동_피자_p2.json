@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:16 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375694449"
     },
     {
-      "title": "애슐리퀸즈 종각역점",
-      "link": "https://www.instagram.com/your_ashley",
-      "category": "음식점>패밀리레스토랑",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
-      "mapx": "1269836843",
-      "mapy": "375705758"
-    },
-    {
       "title": "브로스",
       "link": "http://facebook.com/thepubbros",
       "category": "음식점>이탈리아음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로10길 13",
       "mapx": "1269845447",
       "mapy": "375695207"
+    },
+    {
+      "title": "르브와 종로점",
+      "link": "https://blog.naver.com/human4255",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-11 4층 르브와",
+      "roadAddress": "서울특별시 종로구 우정국로2길 42 4층 르브와",
+      "mapx": "1269853314",
+      "mapy": "375694017"
     }
   ]
 }

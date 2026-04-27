@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:05 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "고씨네동해막국수 종로직영점",
-      "link": "https://blog.naver.com/hjwm0116",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 68 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
-      "mapx": "1269846887",
-      "mapy": "375744624"
-    },
     {
       "title": "신사동인동 안녕<b>인사동</b>점",
       "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
@@ -27,37 +16,48 @@
       "mapy": "375744663"
     },
     {
-      "title": "솥내음 종로<b>인사동</b>점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
     },
     {
-      "title": "샤브가든 종로타워점",
+      "title": "한와담블랙 센트로폴리스점",
+      "link": "https://www.instagram.com/hanwhadamblack/",
+      "category": "음식점>한식>육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 A동 2층",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 A동 2층",
+      "mapx": "1269839467",
+      "mapy": "375713415"
+    },
+    {
+      "title": "평양고깃집",
       "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
+      "title": "<b>인사동</b>보리밥 본점",
+      "link": "https://smartstore.naver.com/greatsfb",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
-      "mapx": "1269836385",
-      "mapy": "375707534"
-    },
-    {
-      "title": "맑은곰탕 고음 종로",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 209 맑은곰탕 고음 종로",
-      "roadAddress": "서울특별시 종로구 인사동3길 35 맑은곰탕 고음 종로",
-      "mapx": "1269850151",
-      "mapy": "375714996"
+      "address": "서울특별시 종로구 관훈동 198-17 지하1층",
+      "roadAddress": "서울특별시 종로구 인사동7길 37 지하1층",
+      "mapx": "1269847327",
+      "mapy": "375725991"
     }
   ]
 }

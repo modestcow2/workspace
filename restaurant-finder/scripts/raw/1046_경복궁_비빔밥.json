@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:20 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375745601"
     },
     {
-      "title": "시래기담은",
-      "link": "https://www.instagram.com/siraegidameun",
-      "category": "음식점>한식",
+      "title": "활짝핀메밀 <b>경복궁</b>역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 팔판동 71 시래기담은",
-      "roadAddress": "서울특별시 종로구 삼청로 65-2 시래기담은",
-      "mapx": "1269809917",
-      "mapy": "375815898"
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
     }
   ]
 }

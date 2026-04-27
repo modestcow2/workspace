@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:07:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375706386"
     },
     {
+      "title": "초류향",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/cholyuhyang?from=share&type=DINING",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 164-2",
+      "roadAddress": "서울특별시 중구 다동길 24-10",
+      "mapx": "1269804186",
+      "mapy": "375674951"
+    },
+    {
       "title": "무탄 <b>광화문</b>점",
       "link": "https://naver.me/5uc3NJV7",
       "category": "중식>중식당",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
       "mapx": "1269721401",
       "mapy": "375696647"
-    },
-    {
-      "title": "도량",
-      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
-      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
-      "mapx": "1269724921",
-      "mapy": "375780066"
     },
     {
       "title": "영화루",
@@ -49,15 +49,15 @@
       "mapy": "375801579"
     },
     {
-      "title": "란주칼면",
-      "link": "",
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-9 1층 란주칼면",
-      "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
-      "mapx": "1269821083",
-      "mapy": "375609724"
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "짱구떡볶이",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 89 1층 22호",
-      "roadAddress": "서울특별시 종로구 통일로 230 1층 22호",
-      "mapx": "1269594558",
-      "mapy": "375734646"
-    },
     {
       "title": "연희김밥 독립문점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 통일로 230 경희궁 롯데캐슬 상가 107호",
       "mapx": "1269586552",
       "mapy": "375742112"
+    },
+    {
+      "title": "짱구떡볶이",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 1층 22호",
+      "roadAddress": "서울특별시 종로구 통일로 230 1층 22호",
+      "mapx": "1269594558",
+      "mapy": "375734646"
     },
     {
       "title": "종로김밥 독립문점",

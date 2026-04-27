@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375726226"
     },
     {
-      "title": "광화문석<b>갈비</b> D타워점",
-      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
+      "title": "고궁의아침 서울대병원",
+      "link": "https://blog.naver.com/gogungmorning",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
+      "address": "서울특별시 종로구 원남동 118-1 고궁의아침 서울대병원",
+      "roadAddress": "서울특별시 종로구 창경궁로 158 고궁의아침 서울대병원",
+      "mapx": "1269975450",
+      "mapy": "375762428"
     },
     {
-      "title": "온점 을지로점",
-      "link": "https://www.instagram.com/onjeom.seoul",
-      "category": "한식>육류,고기요리",
+      "title": "경상도식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 87 지1층",
-      "roadAddress": "서울특별시 중구 을지로 29 지1층",
-      "mapx": "1269810422",
-      "mapy": "375664910"
+      "address": "서울특별시 중구 을지로6가 1-1",
+      "roadAddress": "",
+      "mapx": "1270054617",
+      "mapy": "375686875"
     }
   ]
 }

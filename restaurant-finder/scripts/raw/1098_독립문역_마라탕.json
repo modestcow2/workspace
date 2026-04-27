@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375671775"
     },
     {
-      "title": "하하마라",
-      "link": "",
-      "category": "중식>마라탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 교남동 36-3 1층",
-      "roadAddress": "서울특별시 종로구 경교장1길 5 1층",
-      "mapx": "1269653872",
-      "mapy": "375678925"
-    },
-    {
       "title": "성민양꼬치 서대문점",
       "link": "",
       "category": "중식>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
       "mapx": "1269705572",
       "mapy": "375765751"
+    },
+    {
+      "title": "춘리<b>마라탕</b> 서대문점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 192 102호",
+      "roadAddress": "서울특별시 서대문구 충정로 59 102호",
+      "mapx": "1269651076",
+      "mapy": "375642375"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375623316"
     },
     {
-      "title": "우정육 <b>시청</b>점",
+      "title": "태산1970 서울<b>시청</b>본점",
+      "link": "https://www.instagram.com/taesan1970",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-22 1층, 2층",
+      "roadAddress": "서울특별시 중구 세종대로11길 47 1층, 2층",
+      "mapx": "1269733179",
+      "mapy": "375619110"
+    },
+    {
+      "title": "종로은행나무집 <b>시청</b>점",
       "link": "",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 141 1층, 2층 우정육",
-      "roadAddress": "서울특별시 중구 을지로3길 21 1층, 2층 우정육",
-      "mapx": "1269815002",
-      "mapy": "375670246"
-    },
-    {
-      "title": "교대<b>갈비</b>집 <b>시청</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gyodaegalbi_sicheong",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 20-1 2층",
-      "roadAddress": "서울특별시 중구 남대문로1길 31 2층",
-      "mapx": "1269772785",
-      "mapy": "375624314"
+      "address": "서울특별시 중구 태평로1가 25-3 광화문G스퀘어 2층",
+      "roadAddress": "서울특별시 중구 세종대로22길 12 광화문G스퀘어 2층",
+      "mapx": "1269778770",
+      "mapy": "375679840"
     }
   ]
 }

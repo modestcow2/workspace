@@ -1,9 +1,42 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:02 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "VIP참치 코리아나호텔점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
+      "mapx": "1269767357",
+      "mapy": "375679986"
+    },
+    {
+      "title": "바른고기 정육점 광화문SFC점",
+      "link": "",
+      "category": "육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하2층, B202호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하2층, B202호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "경성장어 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyeongseong_jangeo?from=share&type=DINING",
+      "category": "한식>장어,먹장어요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하2층 212호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하2층 212호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
     {
       "title": "고우가 광화문점",
       "link": "https://go.catchtable.co.kr/jrrhv4v",
@@ -16,28 +49,6 @@
       "mapy": "375684246"
     },
     {
-      "title": "이스트빌리지서울 광화문점",
-      "link": "https://www.instagram.com/East_Village.seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하 1층",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하 1층",
-      "mapx": "1269782820",
-      "mapy": "375684612"
-    },
-    {
-      "title": "투뿔 코리안 스테이크하우스 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/twobull_gwanghwamun",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 1층",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 1층",
-      "mapx": "1269785521",
-      "mapy": "375684009"
-    },
-    {
       "title": "일도씨닭갈비 광화문점",
       "link": "https://www.instagram.com/ildossifamily",
       "category": "한식>육류,고기요리>닭갈비",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 지하1층",
       "mapx": "1269782820",
       "mapy": "375684612"
-    },
-    {
-      "title": "광화문한상 광화문점",
-      "link": "https://www.instagram.com/https://www.instagram.com/korean__ghmhs?igsh=Ynl0dXJuZ2QxZXc0",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 2층",
-      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 2층",
-      "mapx": "1269765840",
-      "mapy": "375683348"
     }
   ]
 }

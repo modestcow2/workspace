@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375659401"
     },
     {
-      "title": "이설면옥 남가좌점",
-      "link": "https://youtube.com/channel/UC5LgQzt5KdmGqJTE9ilDDmg?si=WazBs53wl2QSElTK",
+      "title": "천수<b>냉면</b> 이대점",
+      "link": "",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 396 1층 110-3호",
-      "roadAddress": "서울특별시 서대문구 수색로2길 39 1층 110-3호",
-      "mapx": "1269162688",
-      "mapy": "375708805"
+      "address": "서울특별시 서대문구 대현동 34-24 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 72-10 1층",
+      "mapx": "1269445084",
+      "mapy": "375594958"
     },
     {
       "title": "평택고여사집<b>냉면</b>",
@@ -38,17 +38,6 @@
       "mapy": "375657029"
     },
     {
-      "title": "천수<b>냉면</b> 이대점",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 34-24 1층",
-      "roadAddress": "서울특별시 서대문구 이화여대길 72-10 1층",
-      "mapx": "1269445084",
-      "mapy": "375594958"
-    },
-    {
       "title": "우리<b>냉면</b> 홍제점",
       "link": "",
       "category": "한식>냉면",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 통일로39가길 1",
       "mapx": "1269436999",
       "mapy": "375883236"
+    },
+    {
+      "title": "이설면옥 남가좌점",
+      "link": "https://youtube.com/channel/UC5LgQzt5KdmGqJTE9ilDDmg?si=WazBs53wl2QSElTK",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 396 1층 110-3호",
+      "roadAddress": "서울특별시 서대문구 수색로2길 39 1층 110-3호",
+      "mapx": "1269162688",
+      "mapy": "375708805"
     }
   ]
 }

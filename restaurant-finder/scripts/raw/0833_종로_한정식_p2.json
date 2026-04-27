@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375744663"
     },
     {
-      "title": "설가온",
-      "link": "https://blog.naver.com/mdinc6",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하1층 설가온",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하1층 설가온",
-      "mapx": "1269759463",
-      "mapy": "375726222"
-    },
-    {
       "title": "은성 <b>한정식</b>",
       "link": "",
       "category": "한식>한정식",
@@ -49,15 +38,26 @@
       "mapy": "375729994"
     },
     {
-      "title": "양반댁",
-      "link": "http://instagram.com/yangbandeck",
+      "title": "인사동 촌",
+      "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 인사동 193-5 양반댁",
-      "roadAddress": "서울특별시 종로구 인사동길 19-18 양반댁",
-      "mapx": "1269859113",
-      "mapy": "375723316"
+      "address": "서울특별시 종로구 관훈동 84-17",
+      "roadAddress": "서울특별시 종로구 인사동14길 19",
+      "mapx": "1269851231",
+      "mapy": "375750012"
+    },
+    {
+      "title": "설가온",
+      "link": "https://blog.naver.com/mdinc6",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하1층 설가온",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하1층 설가온",
+      "mapx": "1269759463",
+      "mapy": "375726222"
     }
   ]
 }

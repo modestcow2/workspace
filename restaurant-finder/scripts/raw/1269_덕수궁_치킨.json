@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:05 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375672892"
     },
     {
-      "title": "성화<b>치킨</b>호프",
-      "link": "",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 미근동 167",
-      "roadAddress": "서울특별시 서대문구 통일로 111",
-      "mapx": "1269672979",
-      "mapy": "375648359"
-    },
-    {
       "title": "금성슈퍼 광화문본점",
       "link": "",
       "category": "술집>맥주,호프",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로16길 6 1층, 2층",
       "mapx": "1269772125",
       "mapy": "375633658"
+    },
+    {
+      "title": "성화<b>치킨</b>호프",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 167",
+      "roadAddress": "서울특별시 서대문구 통일로 111",
+      "mapx": "1269672979",
+      "mapy": "375648359"
     }
   ]
 }

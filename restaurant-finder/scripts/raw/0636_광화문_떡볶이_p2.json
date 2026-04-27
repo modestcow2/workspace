@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375626500"
     },
     {
-      "title": "영차<b>떡볶이</b> 명동점",
-      "link": "",
-      "category": "분식>종합분식",
+      "title": "교남김밥",
+      "link": "http://instagram.com/gyonamgimbap012",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-10 2~4층",
-      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
-      "mapx": "1269835740",
-      "mapy": "375631401"
+      "address": "서울특별시 종로구 평동 233 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "mapx": "1269652933",
+      "mapy": "375683803"
     },
     {
       "title": "신세계<b>떡볶이</b>",
@@ -38,17 +38,6 @@
       "mapy": "375642992"
     },
     {
-      "title": "교남김밥",
-      "link": "http://instagram.com/gyonamgimbap012",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 평동 233 경희궁자이 3단지 상가 1층 3116호 교남김밥",
-      "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
-      "mapx": "1269652933",
-      "mapy": "375683803"
-    },
-    {
       "title": "청담동 마녀김밥 <b>광화문</b>점",
       "link": "",
       "category": "분식>김밥",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 105",
       "mapx": "1269762542",
       "mapy": "375704544"
+    },
+    {
+      "title": "명화당 명동1호점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-3 2층",
+      "roadAddress": "서울특별시 중구 명동4길 30 2층",
+      "mapx": "1269837950",
+      "mapy": "375623945"
     }
   ]
 }

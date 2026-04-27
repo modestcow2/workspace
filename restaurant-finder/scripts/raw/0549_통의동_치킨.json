@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "서촌닭강정공장",
-      "link": "https://www.instagram.com/sechon_dakgangjeong",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 49-1 1층 서촌닭강정공장",
-      "roadAddress": "서울특별시 종로구 자하문로 6 1층 서촌닭강정공장",
-      "mapx": "1269726885",
-      "mapy": "375766218"
-    },
     {
       "title": "<b>치킨</b>인더키친 경복궁역점",
       "link": "",
@@ -49,15 +38,26 @@
       "mapy": "375789833"
     },
     {
-      "title": "하이트클래스",
+      "title": "서촌닭강정공장",
+      "link": "https://www.instagram.com/sechon_dakgangjeong",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 49-1 1층 서촌닭강정공장",
+      "roadAddress": "서울특별시 종로구 자하문로 6 1층 서촌닭강정공장",
+      "mapx": "1269726885",
+      "mapy": "375766218"
+    },
+    {
+      "title": "계미산장",
       "link": "",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-2",
-      "roadAddress": "서울특별시 종로구 자하문로2길 1",
-      "mapx": "1269727998",
-      "mapy": "375765893"
+      "address": "서울특별시 종로구 통의동 41-1",
+      "roadAddress": "서울특별시 종로구 자하문로2길 15",
+      "mapx": "1269736747",
+      "mapy": "375765811"
     }
   ]
 }

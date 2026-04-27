@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:24 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "잘빠진메밀 <b>을지로</b>직영점",
-      "link": "https://www.instagram.com/jalppajin_hipjiro",
-      "category": "한식>막국수",
+      "title": "대엽 <b>을지로</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/daeyeop_euljiro",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로4가 75 1층",
-      "roadAddress": "서울특별시 중구 창경궁로5길 7 1층",
-      "mapx": "1269975838",
-      "mapy": "375671481"
+      "address": "서울특별시 중구 을지로3가 342-5 1층",
+      "roadAddress": "서울특별시 중구 을지로 114 1층",
+      "mapx": "1269904676",
+      "mapy": "375661005"
     },
     {
       "title": "평래옥",
@@ -27,6 +27,17 @@
       "mapy": "375649010"
     },
     {
+      "title": "잘빠진메밀 <b>을지로</b>직영점",
+      "link": "https://www.instagram.com/jalppajin_hipjiro",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 75 1층",
+      "roadAddress": "서울특별시 중구 창경궁로5길 7 1층",
+      "mapx": "1269975838",
+      "mapy": "375671481"
+    },
+    {
       "title": "꾸왁칼국수",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -38,26 +49,15 @@
       "mapy": "375682937"
     },
     {
-      "title": "대엽 <b>을지로</b>",
-      "link": "https://app.catchtable.co.kr/ct/shop/daeyeop_euljiro",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 342-5 1층",
-      "roadAddress": "서울특별시 중구 을지로 114 1층",
-      "mapx": "1269904676",
-      "mapy": "375661005"
-    },
-    {
-      "title": "안동장",
+      "title": "오구반점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
+      "address": "서울특별시 중구 을지로3가 5-9",
+      "roadAddress": "서울특별시 중구 수표로 60",
+      "mapx": "1269898496",
+      "mapy": "375665179"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375741541"
     },
     {
-      "title": "율동칼국수",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 9 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
-      "mapx": "1269846160",
-      "mapy": "375794433"
-    },
-    {
       "title": "심경희라라랜드 광화문",
       "link": "",
       "category": "한식>소고기구이",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
       "mapx": "1269824621",
       "mapy": "375726226"
+    },
+    {
+      "title": "도마 인사동점",
+      "link": "https://www.instagram.com/doma_insa/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 15-1 1층 도마",
+      "roadAddress": "서울특별시 종로구 인사동8길 6-1 1층 도마",
+      "mapx": "1269858347",
+      "mapy": "375738125"
     },
     {
       "title": "어부몽 인사점",
@@ -49,15 +49,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "도마 인사동점",
-      "link": "https://www.instagram.com/doma_insa/",
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 15-1 1층 도마",
-      "roadAddress": "서울특별시 종로구 인사동8길 6-1 1층 도마",
-      "mapx": "1269858347",
-      "mapy": "375738125"
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
     }
   ]
 }

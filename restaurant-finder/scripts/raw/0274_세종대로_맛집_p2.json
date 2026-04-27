@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375686780"
     },
     {
-      "title": "아재커피 <b>세종대로</b>점",
-      "link": "https://100원커피이벤트-선착순주문하기.com",
-      "category": "카페,디저트>카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 75 1층 AZE커피 세종대로점",
-      "roadAddress": "서울특별시 중구 세종대로21길 61 1층 AZE커피 세종대로점",
-      "mapx": "1269758861",
-      "mapy": "375691203"
-    },
-    {
       "title": "마이쥬스 <b>세종대로</b>점",
       "link": "https://www.instagram.com/myjuice_official",
       "category": "카페,디저트>과일,주스전문점",
@@ -38,15 +27,15 @@
       "mapy": "375681139"
     },
     {
-      "title": "매머드익스프레스 <b>세종대로</b>점",
-      "link": "",
+      "title": "아재커피 <b>세종대로</b>점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
       "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 1-1 1층",
-      "roadAddress": "서울특별시 중구 세종대로 23 1층",
-      "mapx": "1269738833",
-      "mapy": "375590470"
+      "address": "서울특별시 중구 태평로1가 75 1층 AZE커피 세종대로점",
+      "roadAddress": "서울특별시 중구 세종대로21길 61 1층 AZE커피 세종대로점",
+      "mapx": "1269758861",
+      "mapy": "375691203"
     },
     {
       "title": "커피살롱 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로21길 67 1층",
       "mapx": "1269757630",
       "mapy": "375692467"
+    },
+    {
+      "title": "솔솥 광화문점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 파이낸스빌딩 B2층",
+      "roadAddress": "서울특별시 중구 세종대로 136 파이낸스빌딩 B2층",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     }
   ]
 }

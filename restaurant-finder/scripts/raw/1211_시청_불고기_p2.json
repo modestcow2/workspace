@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:37 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "진진만두 <b>시청</b>점",
-      "link": "https://www.instagram.com/jinjin_kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
-      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
-      "mapx": "1269792023",
-      "mapy": "375653757"
-    },
     {
       "title": "북창옥 <b>시청</b> 본점",
       "link": "",
@@ -38,6 +27,17 @@
       "mapy": "375633419"
     },
     {
+      "title": "담솥 <b>시청</b>점",
+      "link": "http://damsot.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 지하1층 B01호",
+      "roadAddress": "서울특별시 중구 을지로 6 지하1층 B01호",
+      "mapx": "1269791339",
+      "mapy": "375655460"
+    },
+    {
       "title": "대보정 서울<b>시청</b>역점",
       "link": "https://www.instagram.com/daebojung/",
       "category": "한식>육류,고기요리",
@@ -49,15 +49,15 @@
       "mapy": "375613584"
     },
     {
-      "title": "담솥 <b>시청</b>점",
-      "link": "http://damsot.com",
-      "category": "음식점>한식",
+      "title": "이가네한우<b>불고기</b>",
+      "link": "https://blog.naver.com/2610lmg",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 192-11 지하1층 B01호",
-      "roadAddress": "서울특별시 중구 을지로 6 지하1층 B01호",
-      "mapx": "1269791339",
-      "mapy": "375655460"
+      "address": "인천광역시 남동구 간석동 520 . 지하1층 B09호(지상 1층)",
+      "roadAddress": "인천광역시 남동구 경인로 520 . 지하1층 B09호(지상 1층)",
+      "mapx": "1266969915",
+      "mapy": "374606541"
     }
   ]
 }

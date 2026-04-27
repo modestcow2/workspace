@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "착한코다리",
-      "link": "",
+      "title": "일품진진수라 광화문점",
+      "link": "http://www.jinjinsura.com",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 2-2 1층 착한코다리",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 3-1 1층 착한코다리",
-      "mapx": "1269742805",
-      "mapy": "375724887"
+      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
+      "mapx": "1269805216",
+      "mapy": "375706504"
     },
     {
       "title": "한암동 정동점",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
       "mapx": "1269708541",
       "mapy": "375678521"
-    },
-    {
-      "title": "일품진진수라 광화문점",
-      "link": "http://www.jinjinsura.com",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
-      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
-      "mapx": "1269805216",
-      "mapy": "375706504"
     },
     {
       "title": "모담다이닝 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 3층",
       "mapx": "1269835556",
       "mapy": "375744663"
+    },
+    {
+      "title": "아리연",
+      "link": "https://www.instagram.com/ariyeon_official/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 17-19 해남2빌딩, 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로12길 12 해남2빌딩, 지하1층",
+      "mapx": "1269768063",
+      "mapy": "375617253"
     }
   ]
 }

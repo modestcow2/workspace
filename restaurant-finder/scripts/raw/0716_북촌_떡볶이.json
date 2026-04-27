@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:45 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
       "mapx": "1269857282",
       "mapy": "375780061"
+    },
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 (일층)",
+      "roadAddress": "서울특별시 종로구 삼청로 141 (일층)",
+      "mapx": "1269814603",
+      "mapy": "375880279"
     },
     {
       "title": "모퉁이네",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
       "mapx": "1269819874",
       "mapy": "375834586"
-    },
-    {
-      "title": "슬로우파크",
-      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
     },
     {
       "title": "스낵서울",

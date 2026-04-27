@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375633960"
     },
     {
-      "title": "반포식스 <b>덕수궁</b>점",
-      "link": "http://www.banhpho6.com",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 53-2 1층",
-      "roadAddress": "서울특별시 중구 서소문로11길 6-1 1층",
-      "mapx": "1269731101",
-      "mapy": "375632005"
-    },
-    {
       "title": "호아빈 서울시청점",
       "link": "http://www.hoabinh.co.kr/",
       "category": "음식점>베트남음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 서소문로 139",
       "mapx": "1269762235",
       "mapy": "375641009"
+    },
+    {
+      "title": "반포식스 <b>덕수궁</b>점",
+      "link": "http://www.banhpho6.com",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 53-2 1층",
+      "roadAddress": "서울특별시 중구 서소문로11길 6-1 1층",
+      "mapx": "1269731101",
+      "mapy": "375632005"
     }
   ]
 }

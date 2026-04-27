@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>종로</b>면선생",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 56-6 102호",
-      "roadAddress": "서울특별시 종로구 종로 96 102호",
-      "mapx": "1269882343",
-      "mapy": "375699901"
-    },
     {
       "title": "황생가<b>칼국수</b> <b>종로</b>타워점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206,B207호",
       "mapx": "1269836385",
       "mapy": "375707534"
+    },
+    {
+      "title": "<b>종로</b>면선생",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-6 102호",
+      "roadAddress": "서울특별시 종로구 종로 96 102호",
+      "mapx": "1269882343",
+      "mapy": "375699901"
     },
     {
       "title": "153구포국수 <b>종로</b>점",
@@ -49,15 +49,15 @@
       "mapy": "375625491"
     },
     {
-      "title": "황생가<b>칼국수</b>",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -21,14 +21,14 @@
       "category": "카페,디저트>베이커리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 28 유니온빌딩 지하1층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 5-5 유니온빌딩 지하1층",
+      "address": "서울특별시 종로구 재동 28 지하1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 5-5 지하1층",
       "mapx": "1269846562",
       "mapy": "375790291"
     },
     {
       "title": "콩지POT지",
-      "link": "https://blog.naver.com/konggpotg",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
@@ -56,8 +56,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 재동 60 1층",
       "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
-      "mapx": "1269855697",
-      "mapy": "375786371"
+      "mapx": "1269856298",
+      "mapy": "375786570"
     }
   ]
 }

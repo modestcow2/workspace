@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375763740"
     },
     {
-      "title": "서촌 곳간",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 146-1 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
-      "mapx": "1269693165",
-      "mapy": "375766924"
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688756",
+      "mapy": "375768581"
     },
     {
       "title": "우직 경복궁점",

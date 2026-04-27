@@ -1,19 +1,41 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:09:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "정백어가 광화문 피맛골본점",
-      "link": "",
-      "category": "한식>생선구이",
+      "title": "엄용백 돼지구이 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 종로구 수송동 46-13",
+      "roadAddress": "서울특별시 종로구 율곡로4길 51",
+      "mapx": "1269812652",
+      "mapy": "375733835"
+    },
+    {
+      "title": "이여곰탕 종로점",
+      "link": "https://clip.naver.com/@jongno_gomtang",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
+      "mapx": "1269807361",
+      "mapy": "375727720"
+    },
+    {
+      "title": "화목순대국전문 광화문1호점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 40",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11",
+      "mapx": "1269747764",
+      "mapy": "375712514"
     },
     {
       "title": "광화문석갈비 D타워점",
@@ -27,37 +49,15 @@
       "mapy": "375710184"
     },
     {
-      "title": "엄용백 돼지구이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
-      "category": "한식>돼지고기구이",
+      "title": "대성골뱅이",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-13",
-      "roadAddress": "서울특별시 종로구 율곡로4길 51",
-      "mapx": "1269812652",
-      "mapy": "375733835"
-    },
-    {
-      "title": "고청담 광화문 디타워점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gocheongdam_gwm",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 5층",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 5층",
-      "mapx": "1269789694",
-      "mapy": "375710184"
-    },
-    {
-      "title": "고우가 광화문점",
-      "link": "https://go.catchtable.co.kr/jrrhv4v",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "mapx": "1269782701",
-      "mapy": "375684246"
+      "address": "서울특별시 중구 무교동 10-2",
+      "roadAddress": "서울특별시 중구 을지로1길 47",
+      "mapx": "1269796404",
+      "mapy": "375682763"
     }
   ]
 }

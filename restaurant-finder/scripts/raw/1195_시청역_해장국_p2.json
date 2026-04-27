@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375619522"
     },
     {
-      "title": "본뼈감자탕",
-      "link": "",
-      "category": "한식>감자탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-12 101호 본뼈감자탕",
-      "roadAddress": "서울특별시 중구 세종대로11길 30 101호 본뼈감자탕",
-      "mapx": "1269741781",
-      "mapy": "375622803"
-    },
-    {
       "title": "함평집 서울시청점",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
       "mapx": "1269815002",
       "mapy": "375670246"
+    },
+    {
+      "title": "제주한라해장",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151",
+      "roadAddress": "서울특별시 중구 칠패로 27",
+      "mapx": "1269722870",
+      "mapy": "375600266"
     }
   ]
 }

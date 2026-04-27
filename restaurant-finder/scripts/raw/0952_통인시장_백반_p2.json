@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375765173"
     },
     {
-      "title": "밀과보리",
-      "link": "https://www.instagram.com/milbori_",
-      "category": "한식>백반,가정식",
+      "title": "정독도서관 구내식당",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 140-47 1층",
-      "roadAddress": "서울특별시 종로구 창덕궁1길 32-1 1층",
-      "mapx": "1269875023",
-      "mapy": "375794104"
+      "address": "서울특별시 종로구 화동 2",
+      "roadAddress": "서울특별시 종로구 북촌로5길 48",
+      "mapx": "1269838671",
+      "mapy": "375811536"
     }
   ]
 }

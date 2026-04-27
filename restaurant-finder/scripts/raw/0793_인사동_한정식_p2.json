@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375744663"
     },
     {
-      "title": "양반댁",
-      "link": "http://instagram.com/yangbandeck",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 193-5 양반댁",
-      "roadAddress": "서울특별시 종로구 인사동길 19-18 양반댁",
-      "mapx": "1269859113",
-      "mapy": "375723316"
-    },
-    {
       "title": "<b>인사동</b> 촌",
       "link": "",
       "category": "한식>한정식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 인사동14길 19",
       "mapx": "1269851231",
       "mapy": "375750012"
+    },
+    {
+      "title": "양반댁",
+      "link": "http://instagram.com/yangbandeck",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 193-5 양반댁",
+      "roadAddress": "서울특별시 종로구 인사동길 19-18 양반댁",
+      "mapx": "1269859113",
+      "mapy": "375723316"
     },
     {
       "title": "구테이블 <b>한정식</b>",
@@ -49,15 +49,15 @@
       "mapy": "375751535"
     },
     {
-      "title": "뉘조",
-      "link": "http://www.newijo.com/",
+      "title": "하나로회관",
+      "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 84-13",
-      "roadAddress": "서울특별시 종로구 인사동14길 27",
-      "mapx": "1269851935",
-      "mapy": "375751626"
+      "address": "서울특별시 종로구 인사동 194-4 지하1층 하나로회관",
+      "roadAddress": "서울특별시 종로구 인사동5길 25 지하1층 하나로회관",
+      "mapx": "1269853140",
+      "mapy": "375721264"
     }
   ]
 }

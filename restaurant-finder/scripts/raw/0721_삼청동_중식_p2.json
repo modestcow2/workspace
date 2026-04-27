@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:48 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375737258"
     },
     {
-      "title": "더차이 안국점",
+      "title": "리향",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 운니동 98-5 3층",
-      "roadAddress": "서울특별시 종로구 율곡로 88 3층",
-      "mapx": "1269889420",
-      "mapy": "375768090"
+      "address": "서울특별시 종로구 관훈동 198-17 2층",
+      "roadAddress": "서울특별시 종로구 인사동7길 37 2층",
+      "mapx": "1269847195",
+      "mapy": "375726429"
     }
   ]
 }

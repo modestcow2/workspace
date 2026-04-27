@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:24 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375755982"
     },
     {
-      "title": "니즈버거 안국점",
-      "link": "https://www.instagram.com/needs_burger",
+      "title": "침스버거 광화문",
+      "link": "",
       "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 1층 니즈버거",
-      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 1층 니즈버거",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B113-2, B113-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B113-2, B113-3호",
+      "mapx": "1269798147",
+      "mapy": "375710182"
     }
   ]
 }

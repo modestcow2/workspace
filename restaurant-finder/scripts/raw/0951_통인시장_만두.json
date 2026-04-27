@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375801317"
     },
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
+      "title": "영화루",
+      "link": "",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
+      "address": "서울특별시 종로구 누하동 25-1",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65",
+      "mapx": "1269690130",
+      "mapy": "375801579"
     },
     {
       "title": "깡통<b>만두</b>",

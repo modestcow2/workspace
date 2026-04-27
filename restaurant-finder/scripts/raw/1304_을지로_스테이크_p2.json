@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375638355"
     },
     {
-      "title": "<b>을지로</b> 언오디너리",
-      "link": "https://go.catchtable.co.kr/gi36wz",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 321-2 2층 언오디너리",
-      "roadAddress": "서울특별시 중구 수표로 48-17 2층 언오디너리",
-      "mapx": "1269908395",
-      "mapy": "375655060"
-    },
-    {
       "title": "라칸티나",
       "link": "",
       "category": "음식점>이탈리아음식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
       "mapx": "1269800349",
       "mapy": "375662396"
+    },
+    {
+      "title": "<b>을지로</b> 언오디너리",
+      "link": "https://go.catchtable.co.kr/gi36wz",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 321-2 2층 언오디너리",
+      "roadAddress": "서울특별시 중구 수표로 48-17 2층 언오디너리",
+      "mapx": "1269908395",
+      "mapy": "375655060"
     },
     {
       "title": "<b>을지로</b> 헤이지니",
@@ -49,15 +49,15 @@
       "mapy": "375658766"
     },
     {
-      "title": "에이든",
-      "link": "https://catchtable.co.kr/aiden",
-      "category": "술집>와인",
+      "title": "82올리언즈",
+      "link": "https://app.catchtable.co.kr/ct/shop/82orleans_euljiro",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 32-6 2층",
-      "roadAddress": "서울특별시 중구 마른내로 42-1 2층",
-      "mapx": "1269926171",
-      "mapy": "375641795"
+      "address": "서울특별시 중구 초동 156-6 1층, 82올리언즈",
+      "roadAddress": "서울특별시 중구 퇴계로27길 64 1층, 82올리언즈",
+      "mapx": "1269912561",
+      "mapy": "375640014"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:16 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -36,17 +36,6 @@
       "roadAddress": "서울특별시 중구 세종대로 62 2층 엽기떡볶이",
       "mapx": "1269764527",
       "mapy": "375617228"
-    },
-    {
-      "title": "왕십리<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 17-3",
-      "roadAddress": "서울특별시 중구 세종대로 22",
-      "mapx": "1269743210",
-      "mapy": "375585070"
     }
   ]
 }

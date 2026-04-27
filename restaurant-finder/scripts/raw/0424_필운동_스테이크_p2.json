@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:28 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375769591"
     },
     {
-      "title": "정원레스토랑 어반가든",
-      "link": "http://urbangarden.co.kr",
+      "title": "독립밀방 본점",
+      "link": "http://www.instagram.com/dongnip_millbang",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 28-2",
-      "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
+      "address": "서울특별시 종로구 행촌동 209-11",
+      "roadAddress": "서울특별시 종로구 통일로12길 10-18",
+      "mapx": "1269606514",
+      "mapy": "375727375"
     }
   ]
 }

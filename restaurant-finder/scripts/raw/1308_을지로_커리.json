@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375650632"
     },
     {
-      "title": "<b>을지로</b> 이멜다분식",
-      "link": "https://https//app.catchtable.co.kr/ct/shop/imeldafnb",
-      "category": "음식점>양식",
+      "title": "델리<b>커리</b> 동대문DDP점",
+      "link": "https://www.instagram.com/delhicurry_official_/",
+      "category": "음식점>일식>카레",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 산림동 207-1 청계세운상가 3층 바열 315호",
-      "roadAddress": "서울특별시 중구 청계천로 160 청계세운상가 3층 바열 315호",
-      "mapx": "1269955021",
-      "mapy": "375677499"
+      "address": "서울특별시 중구 을지로7가 143 DDP 지하2층 DDP마켓",
+      "roadAddress": "서울특별시 중구 을지로 281 DDP 지하2층 DDP마켓",
+      "mapx": "1270099323",
+      "mapy": "375675465"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:37 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
       "mapx": "1269857282",
       "mapy": "375780061"
-    },
-    {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
     },
     {
       "title": "삼지",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 33-2",
       "mapx": "1269848818",
       "mapy": "375798891"
+    },
+    {
+      "title": "청담동 마녀김밥 광화문점",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 204-1",
+      "roadAddress": "서울특별시 종로구 새문안로 105",
+      "mapx": "1269762542",
+      "mapy": "375704544"
     }
   ]
 }

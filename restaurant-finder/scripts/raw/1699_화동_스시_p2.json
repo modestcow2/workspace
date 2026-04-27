@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375744663"
     },
     {
-      "title": "일품 광화문점",
-      "link": "https://www.instagram.com/ilpum0200",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
-      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
       "title": "코끼리초밥 광화문점",
       "link": "https://blog.naver.com/kokirisushi",
       "category": "음식점>일식>초밥,롤",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
       "mapx": "1269778819",
       "mapy": "375721535"
+    },
+    {
+      "title": "일품 광화문점",
+      "link": "https://www.instagram.com/ilpum0200",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "오마카세 오사이초밥 광화문점",
@@ -49,15 +49,15 @@
       "mapy": "375708344"
     },
     {
-      "title": "어담익선",
-      "link": "https://www.instagram.com/uodam_iksun?igsh=MTRuNG80cjd5MmExNw==",
-      "category": "음식점>일식>초밥,롤",
+      "title": "대나무숙성회관 종각점",
+      "link": "https://app.catchtable.co.kr/ct/shop/bamboosshg",
+      "category": "한식>생선회",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 148 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 27 1층",
-      "mapx": "1269901653",
-      "mapy": "375739949"
+      "address": "서울특별시 종로구 관철동 19-20 1층 대나무숙성회관 종각점",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 52 1층 대나무숙성회관 종각점",
+      "mapx": "1269845312",
+      "mapy": "375692508"
     }
   ]
 }

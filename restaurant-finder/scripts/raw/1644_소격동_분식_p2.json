@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:00 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375834586"
     },
     {
+      "title": "삼청김밥",
+      "link": "https://www.instagram.com/samcheong.gimbap",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 10 1층",
+      "roadAddress": "서울특별시 종로구 삼청로9길 26 1층",
+      "mapx": "1269814032",
+      "mapy": "375874896"
+    },
+    {
       "title": "호호<b>분식</b>",
       "link": "",
       "category": "분식>종합분식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로3길 83 (소격동)",
       "mapx": "1269820758",
       "mapy": "375793416"
-    },
-    {
-      "title": "꼬소한부뚜막 광화문광장점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 도렴동 150-1 1층",
-      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
-      "mapx": "1269756633",
-      "mapy": "375715135"
     }
   ]
 }

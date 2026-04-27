@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "태성골뱅이신사 서촌점",
-      "link": "",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 197-1 필운프라자 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 43 필운프라자 1층",
-      "mapx": "1269699726",
-      "mapy": "375766548"
-    },
     {
       "title": "돌솥추어탕",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 54",
       "mapx": "1269695627",
       "mapy": "375770174"
+    },
+    {
+      "title": "태성골뱅이신사 서촌점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 197-1 필운프라자 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 43 필운프라자 1층",
+      "mapx": "1269699726",
+      "mapy": "375766548"
     },
     {
       "title": "경성왕<b>돈카츠</b>",

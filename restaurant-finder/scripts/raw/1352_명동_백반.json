@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "전주풍남회관",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
-    },
     {
       "title": "<b>명동</b>쭈꾸미 회현역 남대문시장본점",
       "link": "https://www.instagram.com/myeongdong.jjukkumi/",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 퇴계로6길 3-28 매일빌딩 1층, 명동쭈꾸미",
       "mapx": "1269793151",
       "mapy": "375585424"
+    },
+    {
+      "title": "전주풍남회관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
     },
     {
       "title": "대지식당",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:10 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375718424"
     },
     {
-      "title": "사조미가",
-      "link": "http://www.sajomiga.co.kr/",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 충정로2가 157 사조빌딩 2층",
-      "roadAddress": "서울특별시 서대문구 통일로 107-39 사조빌딩 2층",
-      "mapx": "1269665726",
-      "mapy": "375644100"
-    },
-    {
-      "title": "연희동그집",
+      "title": "조은집",
       "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 130-11 2층",
-      "roadAddress": "서울특별시 서대문구 연희맛로 17-16 2층",
-      "mapx": "1269290071",
-      "mapy": "375673151"
+      "address": "서울특별시 서대문구 연희동 133-24",
+      "roadAddress": "서울특별시 서대문구 연희맛로 43",
+      "mapx": "1269311224",
+      "mapy": "375685870"
+    },
+    {
+      "title": "남도<b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 158-40 1층",
+      "roadAddress": "서울특별시 서대문구 통일로35길 11 1층",
+      "mapx": "1269459305",
+      "mapy": "375862283"
     }
   ]
 }

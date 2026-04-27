@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "영차<b>떡볶이</b> <b>명동</b>점",
+      "title": "명화당 <b>명동</b>1호점",
       "link": "",
       "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-10 2~4층",
-      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
-      "mapx": "1269835740",
-      "mapy": "375631401"
+      "address": "서울특별시 중구 명동2가 55-3 2층",
+      "roadAddress": "서울특별시 중구 명동4길 30 2층",
+      "mapx": "1269837950",
+      "mapy": "375623945"
     },
     {
       "title": "신세계<b>떡볶이</b>",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 중구 명동9길 10",
       "mapx": "1269850160",
       "mapy": "375642992"
-    },
-    {
-      "title": "명화당 <b>명동</b>1호점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-3 2층",
-      "roadAddress": "서울특별시 중구 명동4길 30 2층",
-      "mapx": "1269837950",
-      "mapy": "375623945"
     },
     {
       "title": "현선이네 청계즉석점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 명동4길 15",
       "mapx": "1269838037",
       "mapy": "375630132"
+    },
+    {
+      "title": "영차<b>떡볶이</b> <b>명동</b>점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-10 2~4층",
+      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
+      "mapx": "1269835740",
+      "mapy": "375631401"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:49 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375600347"
     },
     {
-      "title": "하라김밥 <b>시청</b>직영점",
-      "link": "https://haragimbap.com/default/menu/sub01.php",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-11 1층",
-      "roadAddress": "서울특별시 중구 세종대로11길 27 1층",
-      "mapx": "1269743748",
-      "mapy": "375621734"
-    },
-    {
       "title": "청담동마녀김밥 <b>시청</b>점",
       "link": "",
       "category": "음식점>분식",
@@ -49,15 +38,26 @@
       "mapy": "375654950"
     },
     {
-      "title": "오로라 즉석<b>떡볶이</b> 부천<b>시청</b>점",
-      "link": "",
-      "category": "분식>떡볶이",
+      "title": "하라김밥 <b>시청</b>직영점",
+      "link": "https://haragimbap.com/default/menu/sub01.php",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1161-3 1층 106호",
-      "roadAddress": "경기도 부천시 원미구 소향로 131 1층 106호",
-      "mapx": "1267624786",
-      "mapy": "375023503"
+      "address": "서울특별시 중구 서소문동 120-11 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 27 1층",
+      "mapx": "1269743748",
+      "mapy": "375621734"
+    },
+    {
+      "title": "유브유부 씨티스퀘어점",
+      "link": "https://youtube.com/channel/UCO6if6UA03bGLZvi-0jxiIQ?feature=shared",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 143 씨티스퀘어 지하1층",
+      "roadAddress": "서울특별시 중구 서소문로 124 씨티스퀘어 지하1층",
+      "mapx": "1269752236",
+      "mapy": "375631061"
     }
   ]
 }

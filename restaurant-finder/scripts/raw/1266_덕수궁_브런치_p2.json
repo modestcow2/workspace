@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375664638"
     },
     {
+      "title": "그릭베이 한산빌딩점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 지하1층 그릭베이 B115-2호,B116호",
+      "roadAddress": "서울특별시 중구 서소문로 115 지하1층 그릭베이 B115-2호,B116호",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
       "title": "크루세",
       "link": "https://www.instagram.com/https://www.instagram.com/hotelkoreana/?igshid=MzRlODBiNWFlZA%3D%3D",
       "category": "음식점>브런치",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 2층",
       "mapx": "1269765840",
       "mapy": "375683348"
-    },
-    {
-      "title": "엘 꾸비또",
-      "link": "https://www.instagram.com/el_cubito_official",
-      "category": "음식점>스페인음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 지하2층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 지하2층",
-      "mapx": "1269721401",
-      "mapy": "375696647"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:01 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375653260"
     },
     {
-      "title": "사조미가",
-      "link": "http://www.sajomiga.co.kr/",
-      "category": "한식>한정식",
+      "title": "황생가칼국수연세동문회관점",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 충정로2가 157 사조빌딩 2층",
-      "roadAddress": "서울특별시 서대문구 통일로 107-39 사조빌딩 2층",
-      "mapx": "1269665726",
-      "mapy": "375644100"
+      "address": "서울특별시 서대문구 신촌동 134 연세동문회관 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로 50 연세동문회관 지하1층",
+      "mapx": "1269425900",
+      "mapy": "375626642"
     }
   ]
 }

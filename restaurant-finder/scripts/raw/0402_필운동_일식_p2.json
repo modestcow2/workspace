@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:17 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 사직로9길 6-1 1층",
       "mapx": "1269686765",
       "mapy": "375765131"
-    },
-    {
-      "title": "철판남",
-      "link": "https://app.catchtable.co.kr/ct/shop/teppanman_seochon",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 155-2 1층 철판남",
-      "roadAddress": "서울특별시 종로구 자하문로1길 53 1층 철판남",
-      "mapx": "1269694956",
-      "mapy": "375769565"
     },
     {
       "title": "일일주",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
       "mapx": "1269697736",
       "mapy": "375748513"
+    },
+    {
+      "title": "철판남",
+      "link": "https://app.catchtable.co.kr/ct/shop/teppanman_seochon",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 155-2 1층 철판남",
+      "roadAddress": "서울특별시 종로구 자하문로1길 53 1층 철판남",
+      "mapx": "1269694956",
+      "mapy": "375769565"
     },
     {
       "title": "경성왕돈카츠",

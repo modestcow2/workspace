@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "오도집",
+      "title": "오도집 김치찜",
       "link": "https://www.instagram.com/bukchondodam",
       "category": "음식점>한식",
       "description": "",
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 7 1층 오도집",
       "mapx": "1269821460",
       "mapy": "375751757"
-    },
-    {
-      "title": "구름산 추어탕 광화문점",
-      "link": "",
-      "category": "한식>추어탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 80-6 지하1층",
-      "roadAddress": "서울특별시 종로구 종로5길 58 지하1층",
-      "mapx": "1269803556",
-      "mapy": "375729125"
     },
     {
       "title": "육대장 푸줏간 종로구청점",
@@ -38,6 +27,17 @@
       "mapy": "375725618"
     },
     {
+      "title": "구름산 추어탕 광화문점",
+      "link": "",
+      "category": "한식>추어탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 80-6 지하1층",
+      "roadAddress": "서울특별시 종로구 종로5길 58 지하1층",
+      "mapx": "1269803556",
+      "mapy": "375729125"
+    },
+    {
       "title": "삼해집 종로점",
       "link": "http://www.samhae1.kr",
       "category": "한식>족발,보쌈",
@@ -49,15 +49,15 @@
       "mapy": "375699683"
     },
     {
-      "title": "종로 흥부가",
-      "link": "",
+      "title": "인사동마늘<b>보쌈</b>",
+      "link": "https://insadonggarlicbossam.com",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관수동 40 1층",
-      "roadAddress": "서울특별시 종로구 수표로20길 22 1층",
-      "mapx": "1269908525",
-      "mapy": "375699114"
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:17 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375770264"
     },
     {
-      "title": "코끼리베이글 <b>인사동</b>",
-      "link": "",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 196-8",
-      "roadAddress": "서울특별시 종로구 인사동길 35-3",
-      "mapx": "1269852828",
-      "mapy": "375735721"
-    },
-    {
       "title": "도토리가든 안국점",
       "link": "https://www.instagram.com/dotori__seoul",
       "category": "음식점>카페,디저트",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
       "mapx": "1269862903",
       "mapy": "375780996"
+    },
+    {
+      "title": "아티제 포제 종로센트로폴리스점",
+      "link": "https://www.cafeartisee.com/",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스빌딩 1F 102,103호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스빌딩 1F 102,103호",
+      "mapx": "1269834932",
+      "mapy": "375715141"
     }
   ]
 }

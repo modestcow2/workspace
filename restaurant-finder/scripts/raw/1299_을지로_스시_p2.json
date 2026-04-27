@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375653900"
     },
     {
-      "title": "에비스야 우동&amp;오뎅 <b>을지로</b>점",
-      "link": "https://www.instagram.com/ebisuyaudon_kr/",
-      "category": "음식점>일식>일식당",
+      "title": "<b>스시</b>덴고쿠 동대문현대아울렛점",
+      "link": "",
+      "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 3-1 1층",
-      "roadAddress": "서울특별시 중구 수표로 46-2 1층",
-      "mapx": "1269900805",
-      "mapy": "375653395"
+      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
+      "mapx": "1270075370",
+      "mapy": "375683018"
     },
     {
       "title": "<b>스시</b> 소우카이",
@@ -49,15 +49,15 @@
       "mapy": "375655239"
     },
     {
-      "title": "<b>스시</b>덴고쿠 동대문현대아울렛점",
+      "title": "어사랑",
       "link": "",
-      "category": "음식점>일식>초밥,롤",
+      "category": "한식>생선회",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
-      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
-      "mapx": "1270075370",
-      "mapy": "375683018"
+      "address": "서울특별시 중구 을지로3가 350-1 지상2층",
+      "roadAddress": "서울특별시 중구 수표로 50-1 지상2층",
+      "mapx": "1269899950",
+      "mapy": "375656814"
     }
   ]
 }

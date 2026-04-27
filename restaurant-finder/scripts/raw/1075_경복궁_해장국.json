@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:33 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375791821"
     },
     {
-      "title": "전주콩나물<b>해장국</b>",
+      "title": "청담원",
       "link": "",
-      "category": "한식>국밥",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 1-3",
-      "roadAddress": "서울특별시 종로구 자하문로 3",
-      "mapx": "1269722639",
-      "mapy": "375765039"
+      "address": "서울특별시 종로구 적선동 80 지하1층 33호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
     },
     {
-      "title": "체부동잔치집 별관",
+      "title": "서평옥 광화문본점",
       "link": "",
-      "category": "한식>곰탕,설렁탕",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 12",
-      "roadAddress": "서울특별시 종로구 사직로 115-3",
-      "mapx": "1269716673",
-      "mapy": "375762475"
+      "address": "서울특별시 종로구 수송동 146-1",
+      "roadAddress": "서울특별시 종로구 종로1길 42",
+      "mapx": "1269789959",
+      "mapy": "375739044"
     }
   ]
 }

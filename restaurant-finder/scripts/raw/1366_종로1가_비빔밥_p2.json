@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:49 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,6 +12,17 @@
       "telephone": "",
       "address": "서울특별시 종로구 종로1가 24 지하1층 B106-2, B106-3호",
       "roadAddress": "서울특별시 종로구 종로 19 지하1층 B106-2, B106-3호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "본죽&amp;<b>비빔밥</b> <b>종로</b>르메이에르점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF102",
+      "category": "음식점>죽",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
       "mapx": "1269798606",
       "mapy": "375708344"
     },
@@ -34,17 +45,6 @@
       "telephone": "",
       "address": "서울특별시 종로구 종로1가 24 르메이에르 지하 1층",
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하 1층",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "본죽&amp;<b>비빔밥</b> <b>종로</b>르메이에르점",
-      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF102",
-      "category": "음식점>죽",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
       "mapx": "1269798606",
       "mapy": "375708344"
     },

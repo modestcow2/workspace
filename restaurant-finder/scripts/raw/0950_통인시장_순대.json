@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:35 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,28 +14,6 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 11",
       "mapx": "1269747764",
       "mapy": "375712514"
-    },
-    {
-      "title": "석교식당",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 영천동 331",
-      "roadAddress": "서울특별시 서대문구 통일로 185",
-      "mapx": "1269622884",
-      "mapy": "375700014"
-    },
-    {
-      "title": "서촌전통<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 148-1",
-      "roadAddress": "서울특별시 종로구 사직로9가길 8",
-      "mapx": "1269690851",
-      "mapy": "375766782"
     },
     {
       "title": "백암박가네<b>순대</b>국",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 종로5길 40",
       "mapx": "1269804455",
       "mapy": "375720966"
+    },
+    {
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "서촌전통<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
     }
   ]
 }

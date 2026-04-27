@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "고씨네동해막국수 <b>종로</b>직영점",
-      "link": "https://blog.naver.com/hjwm0116",
-      "category": "한식>막국수",
+      "title": "석암생소금구이 <b>종로</b>익선점",
+      "link": "https://seogam.com/",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 68 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
-      "mapx": "1269846887",
-      "mapy": "375744624"
+      "address": "서울특별시 종로구 돈의동 46-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11길 12 1층",
+      "mapx": "1269907317",
+      "mapy": "375726764"
     },
     {
-      "title": "신사동인동 안녕인사동점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
-      "category": "음식점>한식",
+      "title": "두르가 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/durga",
+      "category": "음식점>인도음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
+      "mapx": "1269797390",
+      "mapy": "375705681"
     },
     {
-      "title": "정백어가 광화문 피맛골본점",
+      "title": "손정보쌈 <b>종로</b>점",
       "link": "",
-      "category": "한식>생선구이",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 종로구 관철동 12-11 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 24 1층",
+      "mapx": "1269861610",
+      "mapy": "375688950"
     },
     {
-      "title": "잘빠진메밀 서순라길점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "title": "파작",
+      "link": "https://store.tossplace.com/order/136462",
+      "category": "양식>샌드위치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 묘동 3-1 잘빠진메밀 서순라길점",
-      "roadAddress": "서울특별시 종로구 율곡로8길 73 잘빠진메밀 서순라길점",
-      "mapx": "1269915043",
-      "mapy": "375740448"
+      "address": "서울특별시 종로구 관철동 43-11 1층 파작",
+      "roadAddress": "서울특별시 종로구 청계천로 57 1층 파작",
+      "mapx": "1269840599",
+      "mapy": "375689410"
     },
     {
-      "title": "장인닭갈비 <b>종로</b>점",
-      "link": "https://jangindak.co.kr/",
-      "category": "한식>닭갈비",
+      "title": "매드포갈릭 광화문D타워",
+      "link": "http://www.madforgarlic.com/",
+      "category": "양식>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 11-14 1층",
-      "roadAddress": "서울특별시 종로구 청계천로 73 1층",
-      "mapx": "1269858697",
-      "mapy": "375686026"
+      "address": "서울특별시 종로구 청진동 246 D타워 리플레이스 광화문 3층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 리플레이스 광화문 3층",
+      "mapx": "1269790026",
+      "mapy": "375709927"
     }
   ]
 }

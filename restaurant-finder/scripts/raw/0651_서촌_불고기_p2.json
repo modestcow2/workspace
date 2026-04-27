@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:15 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375765667"
     },
     {
+      "title": "활짝핀메밀 경복궁역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
+    },
+    {
       "title": "서래미소 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
       "category": "한식>육류,고기요리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
       "mapx": "1269726487",
       "mapy": "375770180"
-    },
-    {
-      "title": "체부동잔치집 별관",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 12",
-      "roadAddress": "서울특별시 종로구 사직로 115-3",
-      "mapx": "1269716673",
-      "mapy": "375762475"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:59 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375769814"
     },
     {
-      "title": "노브13 서촌",
-      "link": "https://blog.naver.com/kehchoi",
-      "category": "음식점>이탈리아음식",
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 18-9 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 19 1층",
-      "mapx": "1269706686",
-      "mapy": "375786700"
-    },
-    {
-      "title": "오베르쥬",
-      "link": "https://www.instagram.com/chef.zzo",
-      "category": "음식점>스테이크,립",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 136 지층",
-      "roadAddress": "서울특별시 종로구 자하문로5길 11 지층",
-      "mapx": "1269711749",
-      "mapy": "375776411"
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
     },
     {
       "title": "꾸스꾸스",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 16-2",
       "mapx": "1269711503",
       "mapy": "375778507"
+    },
+    {
+      "title": "유앤피",
+      "link": "https://www.instagram.com/unp_sajik",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 3층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
+      "mapx": "1269655475",
+      "mapy": "375756345"
     }
   ]
 }

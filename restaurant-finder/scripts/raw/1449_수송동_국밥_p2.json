@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:28 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375732240"
     },
     {
-      "title": "이여곰탕 종로점",
-      "link": "https://clip.naver.com/@jongno_gomtang",
-      "category": "음식점>한식>곰탕,설렁탕",
+      "title": "부산돼지<b>국밥</b>",
+      "link": "",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
-      "mapx": "1269807361",
-      "mapy": "375727720"
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B109호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B109호",
+      "mapx": "1269818155",
+      "mapy": "375723952"
     },
     {
       "title": "김명자굴<b>국밥</b> 청진점",
@@ -49,15 +49,15 @@
       "mapy": "375738119"
     },
     {
-      "title": "부산돼지<b>국밥</b>",
-      "link": "",
+      "title": "육대장 푸줏간 종로구청점",
+      "link": "https://www.yukdaejang.com",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B109호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B109호",
-      "mapx": "1269818155",
-      "mapy": "375723952"
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 지하 108호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 지하 108호",
+      "mapx": "1269815060",
+      "mapy": "375725618"
     }
   ]
 }

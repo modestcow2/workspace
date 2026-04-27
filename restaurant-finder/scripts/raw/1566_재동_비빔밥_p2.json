@@ -1,30 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:23 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "꽃밥에피다 북촌 친환경 그로서란트",
-      "link": "https://smartstore.naver.com/goodbab7",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 가회동 170-4 1층",
       "roadAddress": "서울특별시 종로구 북촌로 39 1층",
-      "mapx": "1269847797",
-      "mapy": "375802375"
-    },
-    {
-      "title": "큰기와집",
-      "link": "https://blog.naver.com/keunkiwajip_0501",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 49-6 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
-      "mapx": "1269854307",
-      "mapy": "375787275"
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
       "title": "<b>재동</b>순두부",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
       "mapx": "1269862338",
       "mapy": "375782217"
+    },
+    {
+      "title": "큰기와집",
+      "link": "https://blog.naver.com/keunkiwajip_0501",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 49-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
+      "mapx": "1269854307",
+      "mapy": "375787275"
     }
   ]
 }

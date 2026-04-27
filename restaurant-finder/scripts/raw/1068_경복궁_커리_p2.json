@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "계도 케이트윈타워",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 B1층 19-2호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 B1층 19-2호",
+      "mapx": "1269791966",
+      "mapy": "375746798"
+    },
     {
       "title": "옐로우쿡",
       "link": "http://www.yellowcook.com",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
       "mapx": "1269733437",
       "mapy": "375753767"
-    },
-    {
-      "title": "계도 케이트윈타워",
-      "link": "",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 B1층 19-2호",
-      "roadAddress": "서울특별시 종로구 종로1길 50 B1층 19-2호",
-      "mapx": "1269791966",
-      "mapy": "375746798"
     },
     {
       "title": "늘솜",

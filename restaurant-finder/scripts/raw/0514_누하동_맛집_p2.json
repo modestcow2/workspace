@@ -1,22 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:10 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "마사마드레",
-      "link": "",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 1-7",
-      "roadAddress": "서울특별시 종로구 자하문로7길 68-3",
-      "mapx": "1269691233",
-      "mapy": "375804345"
-    },
-    {
-      "title": "레스피레베이커리 서촌",
+      "title": "레스피레베이커리카페 서촌",
       "link": "https://instagram.com/___respirer",
       "category": "음식점>카페,디저트",
       "description": "",
@@ -25,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
       "mapx": "1269721449",
       "mapy": "375827651"
-    },
-    {
-      "title": "데케드",
-      "link": "https://www.instagram.com/dekad.kafeteria/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 218 1층 101호,102호",
-      "roadAddress": "서울특별시 종로구 자하문로7길 43 1층 101호,102호(누하동)",
-      "mapx": "1269696650",
-      "mapy": "375793249"
     },
     {
       "title": "더소가 카페 서촌",
@@ -49,15 +27,37 @@
       "mapy": "375799557"
     },
     {
-      "title": "메종드소시송",
-      "link": "https://www.instagram.com/maison_de_saucisson",
-      "category": "카페,디저트>베이커리",
+      "title": "서울집시 퍼멘테리아 서촌",
+      "link": "https://www.instagram.com/seoulgypsyfermenteria",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 70-1 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 82 1층",
-      "mapx": "1269706242",
-      "mapy": "375833006"
+      "address": "서울특별시 종로구 효자동 25 3층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 3층",
+      "mapx": "1269711126",
+      "mapy": "375816125"
+    },
+    {
+      "title": "원써드",
+      "link": "https://onethird.kr",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 64",
+      "roadAddress": "서울특별시 종로구 필운대로 43",
+      "mapx": "1269685239",
+      "mapy": "375799019"
+    },
+    {
+      "title": "아키비스트",
+      "link": "http://www.instagram.com/archivistcoffee",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 164-7 1층 아키비스트 서촌점",
+      "roadAddress": "서울특별시 종로구 효자로13길 52 1층 아키비스트 서촌점",
+      "mapx": "1269726786",
+      "mapy": "375822184"
     }
   ]
 }

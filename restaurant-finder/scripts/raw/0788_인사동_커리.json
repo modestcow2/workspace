@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375751361"
     },
     {
-      "title": "힛더밥",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 1층 109호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 109호",
-      "mapx": "1269827936",
-      "mapy": "375723129"
-    },
-    {
       "title": "코코이찌방야 종로타워점",
       "link": "http://www.cocoichibanya.com",
       "category": "음식점>일식>카레",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 '안녕인사동' 3층 4호",
       "mapx": "1269835556",
       "mapy": "375744663"
+    },
+    {
+      "title": "힛더밥 라이스볼&amp;카레",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 109호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 109호",
+      "mapx": "1269827936",
+      "mapy": "375723129"
     }
   ]
 }

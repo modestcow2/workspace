@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:34 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375797533"
     },
     {
-      "title": "시카노이에",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 1-104 신문로하우스 101호",
-      "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
-      "mapx": "1269692608",
-      "mapy": "375725079"
-    },
-    {
       "title": "오봉카츠",
       "link": "https://www.instagram.com/aubonkatsu",
       "category": "음식점>일식>일식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
       "mapx": "1269704883",
       "mapy": "375777902"
+    },
+    {
+      "title": "시카노이에",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 1-104 신문로하우스 101호",
+      "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
+      "mapx": "1269692608",
+      "mapy": "375725079"
     },
     {
       "title": "공기식당",

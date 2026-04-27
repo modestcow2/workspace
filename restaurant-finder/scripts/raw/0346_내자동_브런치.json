@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:51 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375755898"
     },
     {
+      "title": "레스피레베이커리카페 서촌",
+      "link": "https://instagram.com/___respirer",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
+    },
+    {
       "title": "오드하우스",
       "link": "https://www.instagram.com/odd_haus",
       "category": "음식점>양식",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
       "mapx": "1269721868",
       "mapy": "375662530"
-    },
-    {
-      "title": "레스피레베이커리 서촌",
-      "link": "https://instagram.com/___respirer",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 104-1 레스피레",
-      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
-      "mapx": "1269721449",
-      "mapy": "375827651"
     },
     {
       "title": "커피루소 정동",
@@ -49,15 +49,15 @@
       "mapy": "375670330"
     },
     {
-      "title": "도트블랭킷 삼청한옥점",
-      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "title": "애즈라이크 서촌",
+      "link": "http://www.instagram.com/aslike_",
       "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 95 1층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
-      "mapx": "1269812371",
-      "mapy": "375800959"
+      "address": "서울특별시 종로구 통의동 7-33 1층 애즈라이크",
+      "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
+      "mapx": "1269733577",
+      "mapy": "375783143"
     }
   ]
 }

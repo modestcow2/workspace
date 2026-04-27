@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:01 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375709890"
     },
     {
-      "title": "넘버원 양꼬치",
-      "link": "",
-      "category": "중식>양꼬치",
+      "title": "차알 광화문 디타워점",
+      "link": "https://char2012.com/",
+      "category": "음식점>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 213 1층,2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
-      "mapx": "1269705572",
-      "mapy": "375765751"
+      "address": "서울특별시 종로구 청진동 246 D타워 리플레이스 광화문 3층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 리플레이스 광화문 3층",
+      "mapx": "1269789145",
+      "mapy": "375709958"
     },
     {
       "title": "마라공방 종각점",
@@ -49,15 +49,15 @@
       "mapy": "375724974"
     },
     {
-      "title": "차알 광화문 디타워점",
-      "link": "https://char2012.com/",
-      "category": "음식점>중식당",
+      "title": "넘버원 양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 리플레이스 광화문 3층",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 리플레이스 광화문 3층",
-      "mapx": "1269789145",
-      "mapy": "375709958"
+      "address": "서울특별시 종로구 체부동 213 1층,2층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
+      "mapx": "1269705572",
+      "mapy": "375765751"
     }
   ]
 }

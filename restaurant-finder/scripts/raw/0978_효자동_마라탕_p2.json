@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:49 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375928064"
     },
     {
-      "title": "넘버원 양꼬치",
-      "link": "",
-      "category": "중식>양꼬치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 213 1층,2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
-      "mapx": "1269705572",
-      "mapy": "375765751"
-    },
-    {
       "title": "마라공방 종각점",
       "link": "http://www.maragongbang.com",
       "category": "중식>마라탕",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 우정국로 38-1 2층",
       "mapx": "1269832476",
       "mapy": "375724974"
+    },
+    {
+      "title": "넘버원 양꼬치",
+      "link": "",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 213 1층,2층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
+      "mapx": "1269705572",
+      "mapy": "375765751"
     },
     {
       "title": "화산",

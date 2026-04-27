@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:17 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375657466"
     },
     {
-      "title": "타마린드 디타워점",
-      "link": "https://catchtable.co.kr/tamarinddt",
+      "title": "대성성 서순라길",
+      "link": "https://app.catchtable.co.kr/ct/shop/daeseongseong",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
+      "address": "서울특별시 종로구 권농동 160 1층",
+      "roadAddress": "서울특별시 종로구 율곡로10길 25-3 1층(권농동)",
+      "mapx": "1269912236",
+      "mapy": "375764860"
     }
   ]
 }

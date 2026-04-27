@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:03 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:07:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375704933"
     },
     {
-      "title": "포시즌스 호텔 서울 보칼리노",
-      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
-      "category": "음식점>이탈리아음식",
+      "title": "쿠차라 광화문점",
+      "link": "",
+      "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 30 2층",
-      "roadAddress": "서울특별시 종로구 새문안로 97 2층",
-      "mapx": "1269754535",
-      "mapy": "375706990"
+      "address": "서울특별시 종로구 신문로1가 116 에스타워 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 82 에스타워 1층",
+      "mapx": "1269741025",
+      "mapy": "375698786"
     },
     {
       "title": "파파이스 광화문점",
@@ -49,15 +49,15 @@
       "mapy": "375704194"
     },
     {
-      "title": "움버거앤윙스 광화문점",
-      "link": "https://umopen.co.kr",
-      "category": "양식>햄버거",
+      "title": "피제리아호키포키 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/pizzeriahkpk",
+      "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 204-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로 105 1층",
-      "mapx": "1269763278",
-      "mapy": "375704497"
+      "address": "서울특별시 종로구 신문로1가 31 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 87 1층",
+      "mapx": "1269742556",
+      "mapy": "375703509"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:48 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "평양고깃집",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
-      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
-      "mapx": "1269854482",
-      "mapy": "375727819"
-    },
     {
       "title": "일품진진수라 광화문점",
       "link": "http://www.jinjinsura.com",
@@ -27,6 +16,39 @@
       "mapy": "375706504"
     },
     {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "사리원<b>불고기</b>[본사] 안녕인사동점",
+      "link": "http://www.sariwon.co.kr",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 4층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 4층",
+      "mapx": "1269834384",
+      "mapy": "375743233"
+    },
+    {
       "title": "우슴 광화문 직영점",
       "link": "https://www.instagram.com/wusm.official",
       "category": "음식점>한식",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
       "mapx": "1269730094",
       "mapy": "375717610"
-    },
-    {
-      "title": "고우가 광화문점",
-      "link": "https://go.catchtable.co.kr/jrrhv4v",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "mapx": "1269782701",
-      "mapy": "375684246"
-    },
-    {
-      "title": "솥내음 종로인사동점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
     }
   ]
 }

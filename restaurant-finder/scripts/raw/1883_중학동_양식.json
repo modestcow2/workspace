@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:50 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375735970"
     },
     {
+      "title": "틴 서울",
+      "link": "https://www.instagram.com/tiiin.seoul",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 133 1~2층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 17 1~2층",
+      "mapx": "1269709368",
+      "mapy": "375775737"
+    },
+    {
       "title": "콩카세 안국",
       "link": "https://catchtable.co.kr/concasse_anguk",
       "category": "음식점>양식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
       "mapx": "1269858330",
       "mapy": "375781862"
-    },
-    {
-      "title": "오늘그대와 익선",
-      "link": "https://app.catchtable.co.kr/ct/shop/todaywithyou",
-      "category": "이탈리아음식>스파게티,파스타전문",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-48 1층 오늘그대와익선",
-      "roadAddress": "서울특별시 종로구 수표로28길 21-11 1층 오늘그대와익선",
-      "mapx": "1269897142",
-      "mapy": "375733855"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375708095"
     },
     {
+      "title": "스프링어텀",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 110-1-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 110-1-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
       "title": "점점점 샐러드",
       "link": "https://youtube.com/@_jum_2023",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -27,19 +38,8 @@
       "mapy": "375708344"
     },
     {
-      "title": "스프링어텀",
-      "link": "https://www.instagram.com/spring.a_salad",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 110-1-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 110-1-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
       "title": "와이스타브 다이어트 광화문점",
-      "link": "",
+      "link": "https://www.instagram.com/whystarve.kr/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",

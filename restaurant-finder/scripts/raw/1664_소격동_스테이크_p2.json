@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "마음을담아내면 점심",
-      "link": "",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
-      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
-      "mapx": "1269821145",
-      "mapy": "375791937"
-    },
-    {
-      "title": "슬로우파크",
-      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
-    },
     {
       "title": "베테카텐",
       "link": "http://m.cafe.naver.com/vetekatten",
@@ -38,17 +16,6 @@
       "mapy": "375837523"
     },
     {
-      "title": "만가타",
-      "link": "https://m.booking.naver.com/booking/6/bizes/289593",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 88-17",
-      "roadAddress": "서울특별시 종로구 삼청로2길 40-5",
-      "mapx": "1269809666",
-      "mapy": "375801885"
-    },
-    {
       "title": "PKM가든 레스토랑",
       "link": "https://catchtable.co.kr/pkm_restaurant",
       "category": "음식점>양식",
@@ -58,6 +25,39 @@
       "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
       "mapx": "1269801406",
       "mapy": "375841122"
+    },
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 (일층)",
+      "roadAddress": "서울특별시 종로구 삼청로 141 (일층)",
+      "mapx": "1269814603",
+      "mapy": "375880279"
+    },
+    {
+      "title": "마음을담아내면 점심",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
+      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
+      "mapx": "1269821145",
+      "mapy": "375791937"
+    },
+    {
+      "title": "삼청동 로마네꽁띠",
+      "link": "https://www.instagram.com/romaneeconti_samcheongdong",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 62-6 로마네꽁띠",
+      "roadAddress": "서울특별시 종로구 북촌로5나길 83-6 로마네꽁띠",
+      "mapx": "1269824258",
+      "mapy": "375844404"
     }
   ]
 }

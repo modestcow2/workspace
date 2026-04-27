@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:34 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "마포만두 <b>시청</b>점",
-      "link": "",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
-      "mapx": "1269795809",
-      "mapy": "375668511"
-    },
     {
       "title": "<b>분식</b>을품다 수원<b>시청</b>점",
       "link": "https://www.pumda0202.com/",
@@ -38,15 +27,15 @@
       "mapy": "375600347"
     },
     {
-      "title": "오로라 즉석떡볶이 부천<b>시청</b>점",
+      "title": "마포만두 <b>시청</b>점",
       "link": "",
-      "category": "분식>떡볶이",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1161-3 1층 106호",
-      "roadAddress": "경기도 부천시 원미구 소향로 131 1층 106호",
-      "mapx": "1267624786",
-      "mapy": "375023503"
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
     },
     {
       "title": "싸다김밥 <b>시청</b>역점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로 64 해남빌딩 본관 1층 116호",
       "mapx": "1269765121",
       "mapy": "375620705"
+    },
+    {
+      "title": "라밥 <b>시청</b>점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
     }
   ]
 }

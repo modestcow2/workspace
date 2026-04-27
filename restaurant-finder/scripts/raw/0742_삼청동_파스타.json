@@ -1,34 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "도트블랭킷 안국점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
-      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
-      "mapx": "1269840927",
-      "mapy": "375770264"
-    },
-    {
-      "title": "도트블랭킷 삼청한옥점",
-      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 95 1층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
-      "mapx": "1269812371",
-      "mapy": "375800959"
-    },
-    {
       "title": "미트볼라운지 X 아날로그키친 삼청점",
-      "link": "https://app.catchtable.co.kr/ct/shop/meatball_lounge_sj",
+      "link": "http://www.instagram.com/meatball_lounge",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -49,15 +27,37 @@
       "mapy": "375837523"
     },
     {
-      "title": "이태리재",
-      "link": "https://www.instagram.com/italyjae",
+      "title": "팔발라 삼청본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Y2F0Y2hfRkFreVJOak4xWThFVFJlaDdUSDVJUT09",
+      "category": "음식점>프랑스음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 팔판동 161",
+      "roadAddress": "서울특별시 종로구 삼청로 61",
+      "mapx": "1269806419",
+      "mapy": "375813350"
+    },
+    {
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
+    },
+    {
+      "title": "콩지POT지",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 158-1",
-      "roadAddress": "서울특별시 종로구 율곡로1길 74-9",
-      "mapx": "1269817287",
-      "mapy": "375787922"
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
     }
   ]
 }

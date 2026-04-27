@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:14 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "칸다소바 경복궁점",
-      "link": "https://litt.ly/kandasoba",
-      "category": "음식점>일식>일본식라면",
+      "title": "솔솥 서촌점",
+      "link": "https://youtu.be/WZ2RG7h3GdA?si=fGPFSvl4b6BIswWY",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 28-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
-      "mapx": "1269712623",
-      "mapy": "375782119"
+      "address": "서울특별시 종로구 체부동 30 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 23 1층",
+      "mapx": "1269715199",
+      "mapy": "375780894"
     },
     {
       "title": "애소아소금빵",
@@ -27,37 +27,37 @@
       "mapy": "375767339"
     },
     {
-      "title": "솔솥 서촌점",
-      "link": "https://youtu.be/WZ2RG7h3GdA?si=fGPFSvl4b6BIswWY",
+      "title": "오봉카츠",
+      "link": "https://www.instagram.com/aubonkatsu",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 125-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
+      "mapx": "1269704883",
+      "mapy": "375777902"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 30 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 23 1층",
-      "mapx": "1269715199",
-      "mapy": "375780894"
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
     },
     {
-      "title": "코피티암 서촌점",
-      "link": "",
-      "category": "음식점>카페,디저트>카페",
+      "title": "칸다소바 경복궁점",
+      "link": "https://litt.ly/kandasoba",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 90",
-      "roadAddress": "서울특별시 종로구 자하문로5가길 7",
-      "mapx": "1269712839",
-      "mapy": "375780284"
-    },
-    {
-      "title": "토속촌 삼계탕",
-      "link": "http://www.tosokchon.co.kr/",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 85-1 토속촌",
-      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
-      "mapx": "1269716148",
-      "mapy": "375776587"
+      "address": "서울특별시 종로구 체부동 28-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
+      "mapx": "1269712623",
+      "mapy": "375782119"
     }
   ]
 }

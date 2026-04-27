@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 율곡로10길 30 동주빌딩 1층",
       "mapx": "1269909994",
       "mapy": "375761086"
-    },
-    {
-      "title": "황생가<b>칼국수</b>",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
     },
     {
       "title": "효담<b>칼국수</b> 닭한마리 명동본점",
@@ -49,15 +38,26 @@
       "mapy": "375683895"
     },
     {
-      "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "title": "황생가<b>칼국수</b>",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    },
+    {
+      "title": "혜화<b>칼국수</b>",
+      "link": "https://www.instagram.com/hyehwanoodlehouse",
       "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-1 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
-      "mapx": "1269862338",
-      "mapy": "375782217"
+      "address": "서울특별시 종로구 혜화동 84-3",
+      "roadAddress": "서울특별시 종로구 창경궁로35길 13",
+      "mapx": "1270015420",
+      "mapy": "375865774"
     }
   ]
 }

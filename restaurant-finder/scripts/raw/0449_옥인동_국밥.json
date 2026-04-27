@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:39 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375717535"
     },
     {
-      "title": "아이노가든키친",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-9 2층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
-      "mapx": "1269712704",
-      "mapy": "375728324"
-    },
-    {
       "title": "대성집",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -49,15 +38,26 @@
       "mapy": "375727012"
     },
     {
-      "title": "광화문뚝감",
+      "title": "청진동장터순대국",
       "link": "",
-      "category": "한식>감자탕",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 128-14",
-      "roadAddress": "서울특별시 종로구 새문안로3길 21",
-      "mapx": "1269725919",
-      "mapy": "375720689"
+      "address": "서울특별시 종로구 청진동 3-3",
+      "roadAddress": "서울특별시 종로구 종로5길 40",
+      "mapx": "1269804455",
+      "mapy": "375720966"
+    },
+    {
+      "title": "사발",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
+      "mapx": "1269724791",
+      "mapy": "375735857"
     }
   ]
 }

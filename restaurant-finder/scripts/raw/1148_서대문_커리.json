@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:07 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "시오 연희동본점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 190-4 1층",
+      "roadAddress": "서울특별시 서대문구 연희로11가길 23 1층",
+      "mapx": "1269286886",
+      "mapy": "375672105"
+    },
     {
       "title": "소오",
       "link": "",
@@ -12,8 +23,8 @@
       "telephone": "",
       "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
       "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
-      "mapx": "1269463097",
-      "mapy": "375590868"
+      "mapx": "1269463068",
+      "mapy": "375591198"
     },
     {
       "title": "카츠업",
@@ -27,26 +38,15 @@
       "mapy": "375563150"
     },
     {
-      "title": "시오 연희동본점",
-      "link": "",
+      "title": "이국장",
+      "link": "https://www.instagram.com/_leegookjang",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 190-4 1층",
-      "roadAddress": "서울특별시 서대문구 연희로11가길 23 1층",
-      "mapx": "1269286886",
-      "mapy": "375672105"
-    },
-    {
-      "title": "히메지 2호점",
-      "link": "",
-      "category": "음식점>일식>카레",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 129-1",
-      "roadAddress": "서울특별시 서대문구 연희로11길 41",
-      "mapx": "1269293007",
-      "mapy": "375682430"
+      "address": "서울특별시 서대문구 창천동 13-36 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 36 1층",
+      "mapx": "1269386491",
+      "mapy": "375577204"
     },
     {
       "title": "로얄싸롱",

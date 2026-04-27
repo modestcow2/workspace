@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:15 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
-    },
     {
       "title": "크루아타이",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 세종대로 14 1층 104호",
       "mapx": "1269744151",
       "mapy": "375578385"
+    },
+    {
+      "title": "오제제 광화문",
+      "link": "https://www.instagram.com/ojeje.seoul",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
+      "mapx": "1269783077",
+      "mapy": "375684118"
     },
     {
       "title": "니욤",

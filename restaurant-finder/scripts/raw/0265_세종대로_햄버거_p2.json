@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:14 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
-      "link": "",
-      "category": "음식점>양식",
+      "title": "투뿔 코리안 스테이크하우스 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/twobull_gwanghwamun",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100",
-      "roadAddress": "서울특별시 종로구 세종대로 178",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 중구 태평로1가 84 지하 1층",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하 1층",
+      "mapx": "1269785521",
+      "mapy": "375684009"
     }
   ]
 }

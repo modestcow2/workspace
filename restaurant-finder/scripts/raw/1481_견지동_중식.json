@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:43 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "마라공방 종각점",
-      "link": "http://www.maragongbang.com",
-      "category": "중식>마라탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 109 2층",
-      "roadAddress": "서울특별시 종로구 우정국로 38-1 2층",
-      "mapx": "1269832476",
-      "mapy": "375724974"
-    },
     {
       "title": "차이니즈키친홍성원 본점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 95 2층 차이니즈키친홍성원 본점",
       "mapx": "1269823865",
       "mapy": "375723735"
+    },
+    {
+      "title": "마라공방 종각점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 109 2층",
+      "roadAddress": "서울특별시 종로구 우정국로 38-1 2층",
+      "mapx": "1269832476",
+      "mapy": "375724974"
     },
     {
       "title": "만리장성",
@@ -49,15 +49,15 @@
       "mapy": "375706386"
     },
     {
-      "title": "안동장",
-      "link": "",
+      "title": "초류향",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/cholyuhyang?from=share&type=DINING",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
+      "address": "서울특별시 중구 다동 164-2",
+      "roadAddress": "서울특별시 중구 다동길 24-10",
+      "mapx": "1269804186",
+      "mapy": "375674951"
     }
   ]
 }

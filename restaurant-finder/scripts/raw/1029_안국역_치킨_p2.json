@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:12 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375744917"
     },
     {
-      "title": "무화서울 안국점",
-      "link": "https://www.instagram.com/bouquet_seoul_anguk",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 47 1층 무화서울 안국점",
-      "roadAddress": "서울특별시 종로구 북촌로 24 1층 무화서울 안국점",
-      "mapx": "1269854413",
-      "mapy": "375788712"
-    },
-    {
       "title": "니르바나",
       "link": "http://nirvanaseoul.com",
       "category": "음식점>인도음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 58 2층",
       "mapx": "1269837847",
       "mapy": "375751361"
+    },
+    {
+      "title": "청진영양센타",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 206-2",
+      "roadAddress": "서울특별시 종로구 삼봉로 44-1",
+      "mapx": "1269796920",
+      "mapy": "375722393"
     }
   ]
 }

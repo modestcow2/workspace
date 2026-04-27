@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:35 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "우대포 광화문점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 1층 우대포",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 1층 우대포",
-      "mapx": "1269733818",
-      "mapy": "375717596"
-    },
     {
       "title": "나무향기",
       "link": "",
@@ -25,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 47 1층 108호",
       "mapx": "1269735239",
       "mapy": "375714607"
-    },
-    {
-      "title": "광화문정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
     },
     {
       "title": "서촌 백년화로",
@@ -49,6 +27,17 @@
       "mapy": "375711433"
     },
     {
+      "title": "우대포 광화문점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 1층 우대포",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 1층 우대포",
+      "mapx": "1269733818",
+      "mapy": "375717596"
+    },
+    {
       "title": "화로담",
       "link": "",
       "category": "한식>소고기구이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 9 2층",
       "mapx": "1269747932",
       "mapy": "375710653"
+    },
+    {
+      "title": "시절 광화문점",
+      "link": "https://www.youtube.com/@sijeol.official",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 24-3 1층",
+      "roadAddress": "서울특별시 종로구 새문안로7길 18 1층",
+      "mapx": "1269753518",
+      "mapy": "375710636"
     }
   ]
 }

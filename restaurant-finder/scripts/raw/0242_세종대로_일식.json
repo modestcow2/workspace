@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:02 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375721535"
     },
     {
-      "title": "카츠쇼신 서울역그랜드센트럴점",
-      "link": "https://www.instagram.com/katsu_shoshin",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
-      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
-      "mapx": "1269744151",
-      "mapy": "375578385"
-    },
-    {
       "title": "광화문옥희",
       "link": "https://www.instagram.com/gwanghwamun_okhee",
       "category": "음식점>일식>일식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 178 B104호",
       "mapx": "1269777422",
       "mapy": "375721797"
+    },
+    {
+      "title": "사카에",
+      "link": "https://app.catchtable.co.kr/ct/shop/sakae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 24F",
+      "roadAddress": "서울특별시 중구 세종대로 135 24F",
+      "mapx": "1269765840",
+      "mapy": "375683348"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:48 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "더테이블",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 25 지하1층",
-      "roadAddress": "서울특별시 중구 세종대로 124 지하1층",
-      "mapx": "1269777419",
-      "mapy": "375675523"
-    },
     {
       "title": "해담채 <b>시청</b>점",
       "link": "http://haedamche.com/",
@@ -27,6 +16,28 @@
       "mapy": "375600967"
     },
     {
+      "title": "원기옥 광화문점",
+      "link": "https://catchtable.co.kr/wongiok",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "더테이블",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 25 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 124 지하1층",
+      "mapx": "1269777419",
+      "mapy": "375675523"
+    },
+    {
       "title": "해우리 서울<b>시청</b>점",
       "link": "https://www.instagram.com/haewoori_/",
       "category": "한식>한정식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 중구 서소문로 95 정안빌딩 지하1층",
       "mapx": "1269720586",
       "mapy": "375628649"
-    },
-    {
-      "title": "세림<b>한정식</b> 여수<b>시청</b>본점",
-      "link": "https://blog.naver.com/serimfood",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "전라남도 여수시 학동 175-6 3층",
-      "roadAddress": "전라남도 여수시 시청동2길 38 3층",
-      "mapx": "1276628511",
-      "mapy": "347576933"
     },
     {
       "title": "낙원회관",

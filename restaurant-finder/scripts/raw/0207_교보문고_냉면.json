@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:09:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,26 @@
       "mapy": "375671396"
     },
     {
-      "title": "서령 본점",
-      "link": "https://www.instagram.com/seoryung_seoul",
+      "title": "유진식당",
+      "link": "",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 120 1층",
-      "roadAddress": "서울특별시 중구 소월로 10 1층",
-      "mapx": "1269754231",
-      "mapy": "375585380"
+      "address": "서울특별시 종로구 낙원동 221",
+      "roadAddress": "서울특별시 종로구 종로17길 40",
+      "mapx": "1269882793",
+      "mapy": "375720328"
+    },
+    {
+      "title": "류경회관 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
+      "mapx": "1269818280",
+      "mapy": "375724939"
     },
     {
       "title": "부원면옥",
@@ -38,26 +49,15 @@
       "mapy": "375584294"
     },
     {
-      "title": "우래옥",
-      "link": "",
-      "category": "한식>냉면",
+      "title": "서령 본점",
+      "link": "https://www.instagram.com/seoryung_seoul",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 주교동 118-1",
-      "roadAddress": "서울특별시 중구 창경궁로 62-29",
-      "mapx": "1269987029",
-      "mapy": "375682697"
-    },
-    {
-      "title": "광화문면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
+      "address": "서울특별시 중구 남대문로5가 120 1층",
+      "roadAddress": "서울특별시 중구 소월로 10 1층",
+      "mapx": "1269754231",
+      "mapy": "375585380"
     }
   ]
 }

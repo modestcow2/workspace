@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375765667"
     },
     {
+      "title": "활짝핀메밀 경복궁역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
+    },
+    {
       "title": "서래미소 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
       "category": "한식>육류,고기요리",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
       "mapx": "1269726487",
       "mapy": "375770180"
-    },
-    {
-      "title": "만석꾼",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 43-3",
-      "roadAddress": "서울특별시 종로구 자하문로2길 9",
-      "mapx": "1269732552",
-      "mapy": "375765769"
     },
     {
       "title": "옥이네밥집포차 서촌 본점",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:06 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -23,8 +23,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 관훈동 123-4 크라운빌딩 1층 조금식당",
       "roadAddress": "서울특별시 종로구 인사동길 60 크라운빌딩 1층 조금식당",
-      "mapx": "1269836494",
-      "mapy": "375753395"
+      "mapx": "1269836360",
+      "mapy": "375753433"
     },
     {
       "title": "삿뽀로 관훈점",
@@ -49,15 +49,15 @@
       "mapy": "375719555"
     },
     {
-      "title": "일월카츠 안국점",
-      "link": "https://www.instagram.com/ill_wall_katsu",
-      "category": "음식점>일식>돈가스",
+      "title": "샤브가든 종로타워점",
+      "link": "",
+      "category": "음식점>일식>샤브샤브",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 132 1층",
-      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
     }
   ]
 }

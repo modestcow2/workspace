@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:24 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375787993"
     },
     {
-      "title": "통영굴밥 <b>경복궁</b>점",
+      "title": "부산집막국수",
       "link": "",
-      "category": "한식>굴요리",
+      "category": "한식>막국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
-      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
-      "mapx": "1269733152",
-      "mapy": "375753857"
-    },
-    {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
+      "address": "서울특별시 종로구 적선동 26 1층",
+      "roadAddress": "서울특별시 종로구 사직로 133-8 1층",
+      "mapx": "1269734310",
+      "mapy": "375762754"
     },
     {
       "title": "귀한족발 <b>경복궁</b>역점",
@@ -49,15 +38,26 @@
       "mapy": "375765721"
     },
     {
-      "title": "부산집막국수",
-      "link": "",
-      "category": "한식>막국수",
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 26 1층",
-      "roadAddress": "서울특별시 종로구 사직로 133-8 1층",
-      "mapx": "1269734310",
-      "mapy": "375762754"
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    },
+    {
+      "title": "만수의정원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 24-1",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 35-2",
+      "mapx": "1269814047",
+      "mapy": "375810569"
     }
   ]
 }

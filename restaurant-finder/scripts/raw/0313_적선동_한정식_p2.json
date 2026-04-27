@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375762148"
     },
     {
-      "title": "한암동 정동점",
-      "link": "https://openine.com/한암동",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
-      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
-      "mapx": "1269708541",
-      "mapy": "375678521"
-    },
-    {
       "title": "일품진진수라 광화문점",
       "link": "http://www.jinjinsura.com",
       "category": "한식>한정식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
       "mapx": "1269805216",
       "mapy": "375706504"
+    },
+    {
+      "title": "한암동 정동점",
+      "link": "https://openine.com/한암동",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
+      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
+      "mapx": "1269708541",
+      "mapy": "375678521"
     },
     {
       "title": "모담다이닝 광화문점",

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:05 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "애호락 안국본점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
-      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
-      "mapx": "1269866350",
-      "mapy": "375791838"
-    },
     {
       "title": "인사동마늘<b>보쌈</b>",
       "link": "https://insadonggarlicbossam.com",
@@ -27,37 +16,48 @@
       "mapy": "375739819"
     },
     {
-      "title": "북촌도담",
+      "title": "애호락 안국본점",
+      "link": "https://www.instagram.com/aehorock",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
+      "title": "북촌도담 김치찜",
       "link": "https://www.instagram.com/bukchondodam",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 안국동 133",
       "roadAddress": "서울특별시 종로구 북촌로1길 9",
-      "mapx": "1269854316",
-      "mapy": "375772856"
+      "mapx": "1269852815",
+      "mapy": "375773690"
     },
     {
-      "title": "천하<b>보쌈</b>",
-      "link": "http://instagram.com/chunhabs_official",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 원서동 144 천하보쌈",
-      "roadAddress": "서울특별시 종로구 창덕궁1길 8 천하보쌈",
-      "mapx": "1269888545",
-      "mapy": "375794396"
-    },
-    {
-      "title": "도담 1988",
-      "link": "https://www.instagram.com/bukchondodam",
+      "title": "온미관 안국",
+      "link": "https://www.instagram.com/onmigwananguk/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 30-16 1층",
-      "roadAddress": "서울특별시 종로구 인사동10길 11-5 1층",
-      "mapx": "1269853639",
-      "mapy": "375743610"
+      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
+      "mapx": "1269861071",
+      "mapy": "375780371"
+    },
+    {
+      "title": "정담은<b>보쌈</b> 북촌점",
+      "link": "http://jungdamun-bukchon.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 104-4",
+      "roadAddress": "서울특별시 종로구 계동길 33-9",
+      "mapx": "1269861281",
+      "mapy": "375788056"
     }
   ]
 }

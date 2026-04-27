@@ -1,19 +1,52 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:51 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
+      "title": "유림면",
+      "link": "https://www.thingoolmarket.com",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "address": "서울특별시 중구 서소문동 16",
+      "roadAddress": "서울특별시 중구 서소문로 139-1",
+      "mapx": "1269760935",
+      "mapy": "375642371"
+    },
+    {
+      "title": "어슬 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
       "mapx": "1269720468",
       "mapy": "375687024"
+    },
+    {
+      "title": "VIP참치 코리아나호텔점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
+      "mapx": "1269767357",
+      "mapy": "375679986"
+    },
+    {
+      "title": "정동1946 서울시청본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 34-5 LL층 1946",
+      "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
+      "mapx": "1269728071",
+      "mapy": "375633419"
     },
     {
       "title": "한암동 정동점",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
       "mapx": "1269708541",
       "mapy": "375678521"
-    },
-    {
-      "title": "광화문면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
-    },
-    {
-      "title": "모담다이닝 광화문점",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
-      "mapx": "1269720468",
-      "mapy": "375687024"
-    },
-    {
-      "title": "탄백",
-      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 11-8",
-      "roadAddress": "서울특별시 중구 정동길 37",
-      "mapx": "1269724678",
-      "mapy": "375659578"
     }
   ]
 }

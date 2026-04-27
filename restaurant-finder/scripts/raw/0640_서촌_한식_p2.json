@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:10 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
     {
       "title": "잘빠진메밀 <b>서촌</b> 본점",
       "link": "https://smartstore.naver.com/jalppajin-mill",
@@ -27,15 +16,26 @@
       "mapy": "375796715"
     },
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
     },
     {
       "title": "통의동 국빈관 경복궁역점",
@@ -49,15 +49,15 @@
       "mapy": "375766155"
     },
     {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
+      "title": "활짝핀메밀 경복궁역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
     }
   ]
 }

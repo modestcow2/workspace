@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:42 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375749073"
     },
     {
-      "title": "영삼이네 우정소갈비 서촌점",
-      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 20 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
-      "mapx": "1269712072",
-      "mapy": "375763691"
-    },
-    {
       "title": "김밥천국",
       "link": "",
       "category": "분식>종합분식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 3 1층 김밥천국",
       "mapx": "1269723453",
       "mapy": "375764321"
+    },
+    {
+      "title": "영삼이네 우정소갈비 서촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 20 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
+      "mapx": "1269712072",
+      "mapy": "375763691"
     }
   ]
 }

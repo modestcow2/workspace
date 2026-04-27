@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:54 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375844611"
     },
     {
-      "title": "전주풍남회관",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
-    },
-    {
       "title": "다담정식",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
       "mapx": "1269813961",
       "mapy": "375694054"
+    },
+    {
+      "title": "영월사랑방식당 광화문점",
+      "link": "https://ohjingoh.mysoho.com/product/34782",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 아케이드 B1 67호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 67호",
+      "mapx": "1269743207",
+      "mapy": "375719690"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:32 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375675869"
     },
     {
-      "title": "천향원 명동점",
-      "link": "",
+      "title": "갱스덕",
+      "link": "https://app.catchtable.co.kr/ct/shop/gangsduck",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
-      "roadAddress": "서울특별시 중구 남대문로7길 33 소공빌딩 2층 천향원",
-      "mapx": "1269800515",
-      "mapy": "375637808"
+      "address": "경기도 수원시 팔달구 인계동 1042-14 1층",
+      "roadAddress": "경기도 수원시 팔달구 효원로249번길 46-9 1층",
+      "mapx": "1270306386",
+      "mapy": "372644582"
     }
   ]
 }

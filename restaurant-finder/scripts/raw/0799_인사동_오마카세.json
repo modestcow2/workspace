@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:23 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 인사동14길 41",
       "mapx": "1269848521",
       "mapy": "375751535"
+    },
+    {
+      "title": "스시소라 종로점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 2층 201호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 2층 201호",
+      "mapx": "1269840028",
+      "mapy": "375711867"
     },
     {
       "title": "KUT Seoul",
@@ -38,26 +49,15 @@
       "mapy": "375693574"
     },
     {
-      "title": "스시소라 종로점",
-      "link": "",
-      "category": "음식점>일식>일식당",
+      "title": "우솔",
+      "link": "https://app.catchtable.co.kr/ct/shop/woosol?type=DINING",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 공평동 17 2층 201호",
-      "roadAddress": "서울특별시 종로구 우정국로 26 2층 201호",
-      "mapx": "1269840028",
-      "mapy": "375711867"
-    },
-    {
-      "title": "스시키마에",
-      "link": "https://catchtable.co.kr/sushikimae",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 141호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 141호",
-      "mapx": "1269818155",
-      "mapy": "375723952"
+      "address": "서울특별시 종로구 안국동 129",
+      "roadAddress": "서울특별시 종로구 율곡로5길 14",
+      "mapx": "1269850136",
+      "mapy": "375771370"
     }
   ]
 }

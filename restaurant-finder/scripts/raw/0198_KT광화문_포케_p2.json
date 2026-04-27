@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:09:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375771279"
     },
     {
-      "title": "젤라띠아니 <b>KT광화문</b>점",
-      "link": "https://www.instagram.com/gelatiani_official?igsh=cnIxczd0OG1heGtm",
-      "category": "카페,디저트>아이스크림",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층 B108-11호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B108-11호",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
       "title": "스타벅스 <b>KT광화문</b>웨스트B1F점",
       "link": "http://www.starbucks.co.kr/",
       "category": "카페,디저트>카페",
@@ -56,6 +45,17 @@
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100",
       "roadAddress": "서울특별시 종로구 세종대로 178 (세종로)",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "젤라띠아니 <b>KT광화문</b>점",
+      "link": "https://www.instagram.com/gelatiani_official?igsh=cnIxczd0OG1heGtm",
+      "category": "카페,디저트>아이스크림",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B108-11호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B108-11호",
       "mapx": "1269778819",
       "mapy": "375721535"
     }

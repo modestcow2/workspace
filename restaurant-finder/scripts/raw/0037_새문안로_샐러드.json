@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:19 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:07:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "리본레시피 광화문점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 지하1층 109-1호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 109-1호",
-      "mapx": "1269749335",
-      "mapy": "375697325"
-    },
     {
       "title": "훅트포케 광화문점",
       "link": "https://www.instagram.com/hookedpoke_official",
@@ -23,6 +12,17 @@
       "telephone": "",
       "address": "서울특별시 종로구 신문로1가 163 지하1층 105호",
       "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 105호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "리본레시피 광화문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 109-1호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 109-1호",
       "mapx": "1269749335",
       "mapy": "375697325"
     },
@@ -38,15 +38,15 @@
       "mapy": "375707185"
     },
     {
-      "title": "써브웨이 정동점",
-      "link": "http://www.subway.co.kr/",
-      "category": "음식점>샌드위치",
+      "title": "슬로우캘리 종로새문안점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충정로1가 51-7",
-      "roadAddress": "서울특별시 중구 새문안로 30",
-      "mapx": "1269690223",
-      "mapy": "375678208"
+      "address": "서울특별시 종로구 신문로1가 31 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 87 2층",
+      "mapx": "1269742649",
+      "mapy": "375703698"
     },
     {
       "title": "Poke all day 포케&amp;<b>샐러드</b> 광화문점",

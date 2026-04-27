@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375576071"
     },
     {
-      "title": "네오<b>치킨</b> 신촌점",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 52-82 1층 네오치킨",
-      "roadAddress": "서울특별시 서대문구 연세로9길 30 1층 네오치킨",
-      "mapx": "1269351834",
-      "mapy": "375586011"
-    },
-    {
       "title": "유진<b>치킨</b> 홍제점",
       "link": "",
       "category": "음식점>치킨,닭강정",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 세무서7길 13",
       "mapx": "1269460886",
       "mapy": "375914939"
+    },
+    {
+      "title": "영이호프",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 409-47",
+      "roadAddress": "서울특별시 서대문구 거북골로 19-1",
+      "mapx": "1269251470",
+      "mapy": "375802300"
     }
   ]
 }

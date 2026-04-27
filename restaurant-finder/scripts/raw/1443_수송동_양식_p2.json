@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:25 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "디디스피자펍 종로본점",
-      "link": "https://www.instagram.com/dds_pizzapub",
+      "link": "https://www.instagram.com/ddspizza_jongno",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -27,17 +27,6 @@
       "mapy": "375750348"
     },
     {
-      "title": "버거킹 종로구청점",
-      "link": "http://www.burgerking.co.kr/",
-      "category": "양식>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 68-1 호수빌딩",
-      "roadAddress": "서울특별시 종로구 삼봉로 57 호수빌딩",
-      "mapx": "1269805288",
-      "mapy": "375725008"
-    },
-    {
       "title": "엘 샌드위치 종로점",
       "link": "http://elsandwich.co.kr",
       "category": "양식>샌드위치",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 14 1층",
       "mapx": "1269817979",
       "mapy": "375750480"
+    },
+    {
+      "title": "버거킹 종로구청점",
+      "link": "http://www.burgerking.co.kr/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 68-1 호수빌딩",
+      "roadAddress": "서울특별시 종로구 삼봉로 57 호수빌딩",
+      "mapx": "1269805288",
+      "mapy": "375725008"
     },
     {
       "title": "써브웨이 안국점",

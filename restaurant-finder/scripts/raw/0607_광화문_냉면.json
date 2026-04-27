@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:54 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375671396"
     },
     {
+      "title": "유진식당",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 221",
+      "roadAddress": "서울특별시 종로구 종로17길 40",
+      "mapx": "1269882793",
+      "mapy": "375720328"
+    },
+    {
+      "title": "명동함흥면옥 본점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 26-1",
+      "roadAddress": "서울특별시 중구 명동10길 35-19",
+      "mapx": "1269856749",
+      "mapy": "375627749"
+    },
+    {
       "title": "을지면옥",
       "link": "",
       "category": "한식>냉면",
@@ -27,17 +49,6 @@
       "mapy": "375736812"
     },
     {
-      "title": "<b>광화문</b>면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
-    },
-    {
       "title": "류경회관 <b>광화문</b>점",
       "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
       "category": "한식>냉면",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
       "mapx": "1269818280",
       "mapy": "375724939"
-    },
-    {
-      "title": "유진식당",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 221",
-      "roadAddress": "서울특별시 종로구 종로17길 40",
-      "mapx": "1269882793",
-      "mapy": "375720328"
     }
   ]
 }

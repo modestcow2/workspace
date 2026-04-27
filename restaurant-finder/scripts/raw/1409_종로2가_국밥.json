@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,13 +49,13 @@
       "mapy": "375699485"
     },
     {
-      "title": "팔도<b>국밥</b> 육수당 <b>종로</b>타워점",
+      "title": "코다리냉면&amp;육수당",
       "link": "",
-      "category": "음식점>한식>국밥",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 지하2층 육수당 종로타워점",
-      "roadAddress": "서울특별시 종로구 종로 51 지하2층 육수당 종로타워점",
+      "address": "서울특별시 종로구 종로2가 6 종로타워빌딩 지하 2층",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워빌딩 지하 2층",
       "mapx": "1269836385",
       "mapy": "375707534"
     }

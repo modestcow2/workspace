@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375749172"
     },
     {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
+      "title": "올라<b>포케</b> 광화문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 당주동 5 지하1층 제41호, 43호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 제41호, 43호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
     },
     {
       "title": "르베지왕 을지공간",
@@ -38,6 +38,17 @@
       "mapy": "375668000"
     },
     {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
       "title": "훅트<b>포케</b> 광화문점",
       "link": "https://www.instagram.com/hookedpoke_official",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 105호",
       "mapx": "1269749335",
       "mapy": "375697325"
-    },
-    {
-      "title": "올라<b>포케</b> 광화문점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 지하1층 제41호, 43호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 제41호, 43호",
-      "mapx": "1269743109",
-      "mapy": "375720320"
     }
   ]
 }

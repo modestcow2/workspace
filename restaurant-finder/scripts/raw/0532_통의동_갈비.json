@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
       "mapx": "1269738782",
       "mapy": "375766155"
-    },
-    {
-      "title": "만석꾼",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 43-3",
-      "roadAddress": "서울특별시 종로구 자하문로2길 9",
-      "mapx": "1269732552",
-      "mapy": "375765769"
     },
     {
       "title": "서래미소 광화문점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 20",
       "mapx": "1269722429",
       "mapy": "375779140"
+    },
+    {
+      "title": "만석꾼",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 43-3",
+      "roadAddress": "서울특별시 종로구 자하문로2길 9",
+      "mapx": "1269732552",
+      "mapy": "375765769"
     },
     {
       "title": "소풍 독립문역점",

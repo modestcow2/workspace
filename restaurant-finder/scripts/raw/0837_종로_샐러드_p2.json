@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:42 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375733980"
     },
     {
-      "title": "신선식탁 광화문G타워점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 156 1층",
-      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
-      "mapx": "1269810076",
-      "mapy": "375727137"
-    },
-    {
       "title": "파작",
       "link": "https://store.tossplace.com/order/136462",
       "category": "양식>샌드위치",
@@ -38,15 +27,15 @@
       "mapy": "375689410"
     },
     {
-      "title": "도트블랭킷 안국점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
-      "category": "음식점>브런치",
+      "title": "신선식탁 광화문G타워점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
-      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
-      "mapx": "1269840927",
-      "mapy": "375770264"
+      "address": "서울특별시 종로구 수송동 156 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 1층",
+      "mapx": "1269810076",
+      "mapy": "375727137"
     },
     {
       "title": "엘 샌드위치 <b>종로</b>점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 14 1층",
       "mapx": "1269817979",
       "mapy": "375750480"
+    },
+    {
+      "title": "훅트포케 을지로점",
+      "link": "https://www.hookedpoke.co.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
+      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
+      "mapx": "1269887654",
+      "mapy": "375666400"
     }
   ]
 }

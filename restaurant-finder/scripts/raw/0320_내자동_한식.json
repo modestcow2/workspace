@@ -1,30 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:39 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
     },
     {
-      "title": "서촌계단집",
+      "title": "할매집",
       "link": "",
-      "category": "한식>해물,생선요리",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 11-1",
-      "roadAddress": "서울특별시 종로구 자하문로1길 15",
-      "mapx": "1269714587",
-      "mapy": "375764305"
+      "address": "서울특별시 종로구 내자동 108",
+      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
+      "mapx": "1269714754",
+      "mapy": "375756601"
     },
     {
       "title": "뼈탄집 서촌본점",
@@ -38,26 +38,26 @@
       "mapy": "375764468"
     },
     {
-      "title": "인왕산호랭이주막",
-      "link": "https://www.instagram.com/horangejoomak",
-      "category": "음식점>한식",
+      "title": "신안촌 본점",
+      "link": "https://catchtable.co.kr/sinanchon_og",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 262-1 1층",
-      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
-      "mapx": "1269655596",
-      "mapy": "375756107"
+      "address": "서울특별시 종로구 내자동 152 1층",
+      "roadAddress": "서울특별시 종로구 사직로12길 8 1층",
+      "mapx": "1269708935",
+      "mapy": "375756401"
     },
     {
-      "title": "영삼이네 우정소갈비 서촌점",
-      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
-      "category": "한식>소고기구이",
+      "title": "옹시미 경복궁점",
+      "link": "https://blog.naver.com/omgseemegbg",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 20 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
-      "mapx": "1269712072",
-      "mapy": "375763691"
+      "address": "서울특별시 종로구 내자동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 사직로 105 1층",
+      "mapx": "1269705376",
+      "mapy": "375762516"
     }
   ]
 }

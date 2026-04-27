@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:19 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375720097"
     },
     {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
       "title": "함박웃음<b>순대</b>국",
       "link": "",
       "category": "한식>순대,순댓국",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼일대로 422",
       "mapx": "1269880132",
       "mapy": "375723557"
-    },
-    {
-      "title": "응답한다1988 떡볶이 종로",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 1층",
-      "mapx": "1269879400",
-      "mapy": "375727435"
     }
   ]
 }

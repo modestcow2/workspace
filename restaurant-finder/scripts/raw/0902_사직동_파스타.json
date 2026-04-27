@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375787841"
     },
     {
-      "title": "오스테리아소띠",
-      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 91-38",
-      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
-      "mapx": "1269722295",
-      "mapy": "375789547"
-    },
-    {
       "title": "루뽀",
       "link": "https://app.catchtable.co.kr/ct/shop/luposeoul?from=share&type=DINING",
       "category": "음식점>양식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
       "mapx": "1269743036",
       "mapy": "375730456"
+    },
+    {
+      "title": "오스테리아소띠",
+      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 91-38",
+      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
+      "mapx": "1269722295",
+      "mapy": "375789547"
     },
     {
       "title": "라 스위스 서촌",

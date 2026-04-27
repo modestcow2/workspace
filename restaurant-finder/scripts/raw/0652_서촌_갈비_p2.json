@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:15 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375766155"
     },
     {
+      "title": "영삼이네 우정소<b>갈비</b> <b>서촌</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 20 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
+      "mapx": "1269712072",
+      "mapy": "375763691"
+    },
+    {
       "title": "오는정쪽<b>갈비</b>",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 24",
       "mapx": "1269710530",
       "mapy": "375765468"
-    },
-    {
-      "title": "영삼이네 우정소<b>갈비</b> <b>서촌</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 20 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
-      "mapx": "1269712072",
-      "mapy": "375763691"
     }
   ]
 }

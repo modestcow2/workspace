@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:37 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375803123"
     },
     {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    },
+    {
       "title": "깡통만두",
       "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
       "category": "분식>만두",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 계동길 41 1층",
       "mapx": "1269866713",
       "mapy": "375791625"
-    },
-    {
-      "title": "배떡 로제떡볶이 종로점",
-      "link": "",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
-      "roadAddress": "서울특별시 종로구 북촌로 35-4",
-      "mapx": "1269847145",
-      "mapy": "375798137"
     }
   ]
 }

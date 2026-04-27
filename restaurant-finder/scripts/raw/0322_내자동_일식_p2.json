@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375764474"
     },
     {
-      "title": "샤브샵",
-      "link": "https://www.instagram.com/karacinikora77",
-      "category": "음식점>일식>샤브샤브",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 24 1, 2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
-      "mapx": "1269709557",
-      "mapy": "375763909"
-    },
-    {
       "title": "일일주",
       "link": "",
       "category": "술집>이자카야",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 201동 108호",
       "mapx": "1269694864",
       "mapy": "375749128"
+    },
+    {
+      "title": "샤브샵",
+      "link": "https://www.instagram.com/karacinikora77",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 24 1, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
+      "mapx": "1269709557",
+      "mapy": "375763909"
     },
     {
       "title": "스시호센",
@@ -49,15 +49,15 @@
       "mapy": "375748513"
     },
     {
-      "title": "경성주막1929 경복궁역점",
+      "title": "정류장",
       "link": "",
-      "category": "술집>이자카야",
+      "category": "음식점>일식>우동,소바",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 1-3 2층",
-      "roadAddress": "서울특별시 종로구 자하문로 3 2층",
-      "mapx": "1269723354",
-      "mapy": "375764564"
+      "address": "서울특별시 종로구 내자동 11-1 1층",
+      "roadAddress": "서울특별시 종로구 사직로 115 1층",
+      "mapx": "1269715540",
+      "mapy": "375762389"
     }
   ]
 }

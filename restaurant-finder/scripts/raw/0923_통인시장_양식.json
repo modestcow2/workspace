@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375769814"
     },
     {
-      "title": "콩카세 안국",
-      "link": "https://catchtable.co.kr/concasse_anguk",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-31 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
-      "mapx": "1269858330",
-      "mapy": "375781862"
-    },
-    {
       "title": "까사 이태리아",
       "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
       "category": "음식점>이탈리아음식",
@@ -49,15 +38,26 @@
       "mapy": "375787841"
     },
     {
-      "title": "팜시티 테이블",
-      "link": "https://kardiaspace.com/place",
+      "title": "콩카세 안국",
+      "link": "https://catchtable.co.kr/concasse_anguk",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 1-348 1층",
-      "roadAddress": "서울특별시 종로구 경희궁3길 3-5 1층",
-      "mapx": "1269681054",
-      "mapy": "375730210"
+      "address": "서울특별시 종로구 재동 84-31 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
+      "mapx": "1269858330",
+      "mapy": "375781862"
+    },
+    {
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
     }
   ]
 }

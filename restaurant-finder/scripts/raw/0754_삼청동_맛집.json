@@ -1,41 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:03 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "봉이밥 <b>삼청동</b>점",
+      "title": "미트볼라운지 X 아날로그키친 삼청점",
+      "link": "http://www.instagram.com/meatball_lounge",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 팔판동 27-5 미트볼라운지x아날로그키친 삼청점",
+      "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
+      "mapx": "1269816796",
+      "mapy": "375833417"
+    },
+    {
+      "title": "오설록티하우스 현대미술관점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "카페,디저트>차",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
-    },
-    {
-      "title": "잭잭 안국점",
-      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 159 101호, 201호",
-      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
-      "mapx": "1269845845",
-      "mapy": "375765164"
-    },
-    {
-      "title": "ETF베이커리",
-      "link": "https://app.catchtable.co.kr/ct/shop/etfbakery?from=share&type=WAITING",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 107-1 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 3 1층",
-      "mapx": "1269858052",
-      "mapy": "375772153"
+      "address": "서울특별시 종로구 소격동 165",
+      "roadAddress": "서울특별시 종로구 삼청로 30",
+      "mapx": "1269810339",
+      "mapy": "375796353"
     },
     {
       "title": "포스톤즈 삼청점",
@@ -49,15 +38,26 @@
       "mapy": "375847732"
     },
     {
-      "title": "일월카츠 안국점",
-      "link": "https://www.instagram.com/ill_wall_katsu",
-      "category": "음식점>일식>돈가스",
+      "title": "연남토마 북촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yntm_bc",
+      "category": "음식점>퓨전음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 132 1층",
-      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
+      "address": "서울특별시 종로구 화동 138-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39 1층",
+      "mapx": "1269827234",
+      "mapy": "375793518"
+    },
+    {
+      "title": "봉이밥 <b>삼청동</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
+      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
+      "mapx": "1269822067",
+      "mapy": "375842989"
     }
   ]
 }

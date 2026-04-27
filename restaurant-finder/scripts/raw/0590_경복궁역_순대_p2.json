@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:46 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "서촌전통<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 148-1",
-      "roadAddress": "서울특별시 종로구 사직로9가길 8",
-      "mapx": "1269690851",
-      "mapy": "375766782"
-    },
     {
       "title": "백암박가네<b>순대</b>국",
       "link": "",
@@ -38,6 +27,17 @@
       "mapy": "375773610"
     },
     {
+      "title": "서촌전통<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
+    },
+    {
       "title": "이서방네<b>순대</b>국",
       "link": "",
       "category": "한식>순대,순댓국",
@@ -49,15 +49,15 @@
       "mapy": "375767519"
     },
     {
-      "title": "온지음 레스토랑",
-      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "title": "명작신의주찹쌀<b>순대</b>",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
-      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
-      "mapx": "1269734438",
-      "mapy": "375804848"
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
     }
   ]
 }

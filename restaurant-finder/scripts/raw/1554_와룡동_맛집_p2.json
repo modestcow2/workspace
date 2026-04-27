@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:17 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "풍기 서순라길점",
+      "link": "https://go.catchtable.co.kr/dxtzgw",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 55 1층",
+      "roadAddress": "서울특별시 종로구 율곡로8길 57-4 1층",
+      "mapx": "1269913356",
+      "mapy": "375747538"
+    },
     {
       "title": "문화제빵",
       "link": "",
@@ -16,37 +27,15 @@
       "mapy": "375742708"
     },
     {
-      "title": "풍기 서순라길점",
-      "link": "https://www.instagram.com/poongi_bar",
-      "category": "술집>요리주점",
+      "title": "서양면옥 서순라길점",
+      "link": "https://www.instagram.com/seoyangmyunok.seoul",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 와룡동 55 1층",
-      "roadAddress": "서울특별시 종로구 율곡로8길 57-4 1층",
-      "mapx": "1269913356",
-      "mapy": "375747538"
-    },
-    {
-      "title": "오뉴 창덕궁",
-      "link": "http://onew.life/",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 와룡동 97-1 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로 84 1층",
-      "mapx": "1269907570",
-      "mapy": "375759485"
-    },
-    {
-      "title": "거처",
-      "link": "https://www.instagram.com/passingthrough_cafe",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 와룡동 59 1층 103호",
-      "roadAddress": "서울특별시 종로구 율곡로8길 63 1층 103호",
-      "mapx": "1269914522",
-      "mapy": "375744981"
+      "address": "서울특별시 종로구 와룡동 46 1층",
+      "roadAddress": "서울특별시 종로구 율곡로8길 45 1층",
+      "mapx": "1269911611",
+      "mapy": "375752912"
     },
     {
       "title": "노우즈 창덕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로 88-1 1층",
       "mapx": "1269905898",
       "mapy": "375763638"
+    },
+    {
+      "title": "오뉴 창덕궁",
+      "link": "http://onew.life/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 97-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 84 1층",
+      "mapx": "1269907570",
+      "mapy": "375759485"
     }
   ]
 }

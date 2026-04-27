@@ -1,9 +1,53 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "레스피레베이커리카페 <b>서촌</b>",
+      "link": "https://instagram.com/___respirer",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
+    },
+    {
+      "title": "잘빠진메밀 <b>서촌</b> 본점",
+      "link": "https://smartstore.naver.com/jalppajin-mill",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 120",
+      "roadAddress": "서울특별시 종로구 자하문로11길 4",
+      "mapx": "1269709994",
+      "mapy": "375796715"
+    },
+    {
+      "title": "솔솥 <b>서촌</b>점",
+      "link": "https://youtu.be/WZ2RG7h3GdA?si=fGPFSvl4b6BIswWY",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 30 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 23 1층",
+      "mapx": "1269715199",
+      "mapy": "375780894"
+    },
+    {
+      "title": "더소가 카페 <b>서촌</b>",
+      "link": "https://www.thesoga.co.kr",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 26 1층, 2층",
+      "roadAddress": "서울특별시 종로구 필운대로 44 1층, 2층",
+      "mapx": "1269687979",
+      "mapy": "375799557"
+    },
     {
       "title": "라파리나 <b>서촌</b>본점",
       "link": "https://www.instagram.com/lafarina.bagel",
@@ -14,50 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 44 라파리나",
       "mapx": "1269715365",
       "mapy": "375799955"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
-    {
-      "title": "<b>서촌</b> 금상고로케",
-      "link": "https://www.instagram.com/seochonkumsang",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 74",
-      "roadAddress": "서울특별시 종로구 자하문로9길 24",
-      "mapx": "1269697116",
-      "mapy": "375795180"
-    },
-    {
-      "title": "칸다소바 경복궁점",
-      "link": "https://litt.ly/kandasoba",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 28-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
-      "mapx": "1269712623",
-      "mapy": "375782119"
-    },
-    {
-      "title": "이도림 세종대왕 생가터 <b>서촌</b> 경복궁 본점",
-      "link": "https://www.instagram.com/leedorim.seoul/",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 118-2 이도림 세종대왕 생가터 서촌 경복궁 본점",
-      "roadAddress": "서울특별시 종로구 자하문로 43 이도림 세종대왕 생가터 서촌 경복궁 본점",
-      "mapx": "1269710879",
-      "mapy": "375799483"
     }
   ]
 }

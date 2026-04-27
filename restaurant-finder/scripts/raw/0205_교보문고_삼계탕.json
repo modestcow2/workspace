@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:43 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:09:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375629681"
     },
     {
-      "title": "장안<b>삼계탕</b>",
-      "link": "https://blog.naver.com/jangan1971",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 53 장안삼계탕",
-      "roadAddress": "서울특별시 중구 세종대로18길 8 장안삼계탕",
-      "mapx": "1269775163",
-      "mapy": "375637587"
-    },
-    {
       "title": "고려<b>삼계탕</b> 광화문점",
       "link": "http://www.krsamgyetang.com/",
       "category": "한식>백숙,삼계탕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 5-1",
       "mapx": "1269761163",
       "mapy": "375714982"
+    },
+    {
+      "title": "장안<b>삼계탕</b>",
+      "link": "https://blog.naver.com/jangan1971",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 53 장안삼계탕",
+      "roadAddress": "서울특별시 중구 세종대로18길 8 장안삼계탕",
+      "mapx": "1269775163",
+      "mapy": "375637587"
     }
   ]
 }

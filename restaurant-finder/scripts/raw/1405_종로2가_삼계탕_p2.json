@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375637587"
     },
     {
-      "title": "영양센터 본점",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-32",
-      "roadAddress": "서울특별시 중구 명동2길 52",
-      "mapx": "1269831647",
-      "mapy": "375611197"
-    },
-    {
       "title": "백년토종<b>삼계탕</b>",
       "link": "",
       "category": "한식>백숙,삼계탕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 41",
       "mapx": "1269848048",
       "mapy": "375806132"
+    },
+    {
+      "title": "장수<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 236-1 낙원빌딩 2층 장수삼계탕",
+      "roadAddress": "서울특별시 종로구 종로17길 52 낙원빌딩 2층 장수삼계탕",
+      "mapx": "1269885250",
+      "mapy": "375724917"
     }
   ]
 }

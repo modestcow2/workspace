@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:23 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "사발",
-      "link": "https://m.booking.naver.com/booking/6/bizes/700305/items/5403470?area=pll",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -27,37 +27,37 @@
       "mapy": "375735857"
     },
     {
-      "title": "아이노가든키친",
-      "link": "",
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-9 2층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
-      "mapx": "1269712704",
-      "mapy": "375728324"
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
-      "title": "신사동인동 안녕인사동점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
     },
     {
-      "title": "서촌북촌",
-      "link": "",
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 158 1층(북촌)",
-      "roadAddress": "서울특별시 종로구 자하문로7길 10 1층(북촌)",
-      "mapx": "1269711537",
-      "mapy": "375783804"
+      "address": "서울특별시 종로구 관훈동 118-27",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
+      "mapx": "1269840246",
+      "mapy": "375753027"
     }
   ]
 }

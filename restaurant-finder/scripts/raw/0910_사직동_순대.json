@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:15 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375712514"
     },
     {
-      "title": "서촌전통<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 148-1",
-      "roadAddress": "서울특별시 종로구 사직로9가길 8",
-      "mapx": "1269690851",
-      "mapy": "375766782"
-    },
-    {
       "title": "광화문더덕<b>순대</b>",
       "link": "",
       "category": "음식점>한식",
@@ -38,6 +27,28 @@
       "mapy": "375710722"
     },
     {
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "서촌전통<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
+    },
+    {
       "title": "어슬 광화문",
       "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
       "mapx": "1269720468",
       "mapy": "375687024"
-    },
-    {
-      "title": "신의주찹쌀<b>순대</b>광화문점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 73",
-      "roadAddress": "서울특별시 종로구 새문안로3길 23",
-      "mapx": "1269725355",
-      "mapy": "375726765"
     }
   ]
 }

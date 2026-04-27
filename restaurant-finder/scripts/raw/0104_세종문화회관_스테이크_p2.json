@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:54 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "독립밀방 익선",
-      "link": "http://www.instagram.com/dongnip_millbang",
+      "title": "정원레스토랑 어반가든",
+      "link": "http://urbangarden.co.kr",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
-      "mapx": "1269902619",
-      "mapy": "375740791"
+      "address": "서울특별시 중구 정동 28-2",
+      "roadAddress": "서울특별시 중구 정동길 12-15",
+      "mapx": "1269692254",
+      "mapy": "375674386"
     },
     {
       "title": "헤비<b>스테이크</b> 종로구청점",
@@ -38,17 +38,6 @@
       "mapy": "375684246"
     },
     {
-      "title": "정원레스토랑 어반가든",
-      "link": "http://urbangarden.co.kr",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 28-2",
-      "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
-    },
-    {
       "title": "루뽀",
       "link": "https://app.catchtable.co.kr/ct/shop/luposeoul?from=share&type=DINING",
       "category": "음식점>양식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
       "mapx": "1269743036",
       "mapy": "375730456"
+    },
+    {
+      "title": "라 스위스 서촌",
+      "link": "https://blog.naver.com/ysimkim",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 25-2 끄레아주차장 안",
+      "roadAddress": "서울특별시 종로구 자하문로6길 11-36 끄레아주차장 안",
+      "mapx": "1269726212",
+      "mapy": "375786629"
     }
   ]
 }

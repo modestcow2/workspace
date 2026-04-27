@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -39,7 +39,7 @@
     },
     {
       "title": "더타코부스 NYC 안국점",
-      "link": "",
+      "link": "https://thetacobooth.com/",
       "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375774613"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
+      "title": "다운타우너 안국",
+      "link": "http://downtowner.co.kr/",
+      "category": "음식점>양식>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
+      "address": "서울특별시 종로구 재동 85-3 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 6-4 1층",
+      "mapx": "1269862902",
+      "mapy": "375774450"
     }
   ]
 }

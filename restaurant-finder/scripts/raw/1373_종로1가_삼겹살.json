@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -13,6 +13,17 @@
       "address": "서울특별시 종로구 종로1가 24",
       "roadAddress": "서울특별시 종로구 종로 19",
       "mapx": "1269798605",
+      "mapy": "375708344"
+    },
+    {
+      "title": "윤찬식당",
+      "link": "https://www.instagram.com/yunchan_bistro_sotasty",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B105-3호(르메이에르종로타운)",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B105-3호(르메이에르종로타운)",
+      "mapx": "1269798606",
       "mapy": "375708344"
     },
     {
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 지하2층",
       "mapx": "1269799424",
       "mapy": "375706711"
-    },
-    {
-      "title": "육통령 명동본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
     }
   ]
 }

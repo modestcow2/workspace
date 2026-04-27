@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:12 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "우오보 하우스",
+      "link": "https://www.instagram.com/uovopastabar",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하3층 301호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하3층 301호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
     {
       "title": "디라이프스타일키친 광화문점",
       "link": "https://dlifestyle.co.kr/",
@@ -14,28 +25,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
       "mapx": "1269782701",
       "mapy": "375684246"
-    },
-    {
-      "title": "심퍼티쿠시 서울역점",
-      "link": "https://szimpatikus.kr/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 102호",
-      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호",
-      "mapx": "1269744151",
-      "mapy": "375578385"
-    },
-    {
-      "title": "도우룸 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/doughroom?type=DINING",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 2층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 2층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
     },
     {
       "title": "파이프그라운드 광화문점",
@@ -49,15 +38,26 @@
       "mapy": "375721535"
     },
     {
-      "title": "루드베키아",
-      "link": "https://www.instagram.com/rudbeckia.seoul",
-      "category": "음식점>브런치",
+      "title": "심퍼티쿠시 서울역점",
+      "link": "https://szimpatikus.kr/",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 1층 별관 (KT 광화문빌딩 West)",
-      "roadAddress": "서울특별시 종로구 세종대로 178 1층 별관 (KT 광화문빌딩 West)",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 102호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "스패뉴",
+      "link": "http://www.instagram.com/seoulcityhall_spannew",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-1 2층 스패뉴",
+      "roadAddress": "서울특별시 중구 세종대로 82 2층 스패뉴",
+      "mapx": "1269770819",
+      "mapy": "375634520"
     }
   ]
 }

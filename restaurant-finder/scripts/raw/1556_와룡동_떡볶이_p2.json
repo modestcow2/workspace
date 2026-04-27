@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375837668"
     },
     {
-      "title": "강가네 <b>떡볶이</b>",
-      "link": "https://www.instagram.com/gangana_shop",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로4가 188 아케이트 101호",
-      "roadAddress": "서울특별시 종로구 종로32길 2 아케이트 101호",
-      "mapx": "1270004749",
-      "mapy": "375706380"
-    },
-    {
       "title": "모녀김밥",
       "link": "",
       "category": "분식>김밥",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 동호로 403-23",
       "mapx": "1270011008",
       "mapy": "375702936"
+    },
+    {
+      "title": "강가네 <b>떡볶이</b>",
+      "link": "https://www.instagram.com/gangana_shop",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로4가 188 아케이트 101호",
+      "roadAddress": "서울특별시 종로구 종로32길 2 아케이트 101호",
+      "mapx": "1270004749",
+      "mapy": "375706380"
     }
   ]
 }

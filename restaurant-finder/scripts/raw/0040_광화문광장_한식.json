@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:07:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "정백어가 <b>광화문</b> 피맛골본점",
-      "link": "",
-      "category": "한식>생선구이",
+      "title": "엄용백 돼지구이 <b>광화문</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 종로구 수송동 46-13",
+      "roadAddress": "서울특별시 종로구 율곡로4길 51",
+      "mapx": "1269812652",
+      "mapy": "375733835"
     },
     {
       "title": "신사동인동 안녕인사동점",
@@ -27,37 +27,37 @@
       "mapy": "375744663"
     },
     {
-      "title": "고씨네동해막국수 종로직영점",
-      "link": "https://blog.naver.com/hjwm0116",
-      "category": "한식>막국수",
+      "title": "이여곰탕 종로점",
+      "link": "https://clip.naver.com/@jongno_gomtang",
+      "category": "음식점>한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 68 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
-      "mapx": "1269846887",
-      "mapy": "375744624"
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
+      "mapx": "1269807361",
+      "mapy": "375727720"
     },
     {
-      "title": "우아라 <b>광화문</b>점",
-      "link": "https://www.instagram.com/wooara__",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 우아라 광화문",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 우아라 광화문",
-      "mapx": "1269791966",
-      "mapy": "375746798"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
+      "title": "곰작소 스타필드애비뉴 그랑서울점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gomjakso",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
+      "address": "서울특별시 종로구 청진동 70 스타필드 그랑서울 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 33 스타필드 그랑서울 지하1층",
+      "mapx": "1269814392",
+      "mapy": "375709600"
+    },
+    {
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
     }
   ]
 }

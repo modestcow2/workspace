@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:16 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375688748"
     },
     {
-      "title": "이여곰탕 서울역점",
-      "link": "",
-      "category": "음식점>한식>곰탕,설렁탕",
+      "title": "밀본 그레이츠 숭례점",
+      "link": "https://mealbon.kr",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 6-1 와이즈타워 지하1층",
-      "roadAddress": "서울특별시 중구 세종대로 17 와이즈타워 지하1층",
-      "mapx": "1269732806",
-      "mapy": "375586371"
+      "address": "서울특별시 중구 남대문로5가 6-1 지1층 8호",
+      "roadAddress": "서울특별시 중구 세종대로 17 지1층 8호",
+      "mapx": "1269732669",
+      "mapy": "375586299"
     }
   ]
 }

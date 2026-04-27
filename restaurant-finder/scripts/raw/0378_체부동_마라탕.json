@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:06 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375773299"
     },
     {
-      "title": "첫잔",
-      "link": "",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 201-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 28",
-      "mapx": "1269707822",
-      "mapy": "375765240"
-    },
-    {
       "title": "라향각 <b>마라탕</b>",
       "link": "",
       "category": "중식>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 1층",
       "mapx": "1269798224",
       "mapy": "375708585"
+    },
+    {
+      "title": "동베이 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dong_bey",
+      "category": "중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 37-6 2층 동베이 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 2층 동베이 광화문점",
+      "mapx": "1269750484",
+      "mapy": "375709890"
     }
   ]
 }

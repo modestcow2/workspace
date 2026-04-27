@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375786629"
     },
     {
-      "title": "푸페또클럽",
-      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 98-6",
-      "roadAddress": "서울특별시 종로구 자하문로 50-1",
-      "mapx": "1269714513",
-      "mapy": "375805566"
-    },
-    {
-      "title": "마음을담아내면 점심",
-      "link": "",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
-      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
-      "mapx": "1269821145",
-      "mapy": "375791937"
-    },
-    {
       "title": "아델라베일리",
       "link": "https://blog.naver.com/kiyna",
       "category": "음식점>이탈리아음식",
@@ -47,6 +25,28 @@
       "roadAddress": "서울특별시 종로구 북악산로 48",
       "mapx": "1269702503",
       "mapy": "375952438"
+    },
+    {
+      "title": "콩지POT지",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
+    },
+    {
+      "title": "비스트로 가마",
+      "link": "https://app.catchtable.co.kr/ct/shop/bistrogama",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-2 2층",
+      "roadAddress": "서울특별시 종로구 인사동길 62-5 2층",
+      "mapx": "1269838699",
+      "mapy": "375754819"
     },
     {
       "title": "심퍼티쿠시 광화문점",

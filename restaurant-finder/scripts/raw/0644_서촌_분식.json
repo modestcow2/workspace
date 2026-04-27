@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:12 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375766355"
     },
     {
+      "title": "<b>서촌</b>북촌",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 158 1층(북촌)",
+      "roadAddress": "서울특별시 종로구 자하문로7길 10 1층(북촌)",
+      "mapx": "1269711537",
+      "mapy": "375783804"
+    },
+    {
       "title": "모던김밥",
       "link": "",
       "category": "분식>김밥",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로15길 18",
       "mapx": "1269702361",
       "mapy": "375807396"
-    },
-    {
-      "title": "연희김밥 경복궁점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 55 연희김밥",
-      "roadAddress": "서울특별시 종로구 자하문로 12 연희김밥",
-      "mapx": "1269725615",
-      "mapy": "375770729"
     }
   ]
 }

@@ -1,41 +1,52 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
     },
     {
-      "title": "안주마을",
-      "link": "",
-      "category": "술집>포장마차",
+      "title": "이가덕장 서촌",
+      "link": "https://www.instagram.com/mr.lee_pub_house/",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 1-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 3",
-      "mapx": "1269721722",
-      "mapy": "375764582"
+      "address": "서울특별시 종로구 내자동 4 1F",
+      "roadAddress": "서울특별시 종로구 자하문로1길 9 1F",
+      "mapx": "1269718557",
+      "mapy": "375764695"
     },
     {
-      "title": "서촌계단집",
+      "title": "할매집",
       "link": "",
-      "category": "한식>해물,생선요리",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 11-1",
-      "roadAddress": "서울특별시 종로구 자하문로1길 15",
-      "mapx": "1269714587",
-      "mapy": "375764305"
+      "address": "서울특별시 종로구 내자동 108",
+      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
+      "mapx": "1269714754",
+      "mapy": "375756601"
+    },
+    {
+      "title": "효도치킨 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hyodochicken_gwanghwa",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 197 1, 2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 21-1 1, 2층",
+      "mapx": "1269710660",
+      "mapy": "375746043"
     },
     {
       "title": "뼈탄집 서촌본점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 13",
       "mapx": "1269717062",
       "mapy": "375764468"
-    },
-    {
-      "title": "나무사이로 내자",
-      "link": "https://www.instagram.com/namusairocoffee",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 196 카페 나무사이로",
-      "roadAddress": "서울특별시 종로구 사직로8길 21 카페 나무사이로",
-      "mapx": "1269710030",
-      "mapy": "375747164"
     }
   ]
 }

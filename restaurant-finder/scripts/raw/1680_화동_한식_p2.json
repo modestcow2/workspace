@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:17 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "눈나무집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 20-8",
+      "roadAddress": "서울특별시 종로구 삼청로 136-1",
+      "mapx": "1269818766",
+      "mapy": "375874830"
+    },
+    {
+      "title": "북촌막국수제면소",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 지하 1층.",
+      "roadAddress": "서울특별시 종로구 삼청로 141 지하 1층.",
+      "mapx": "1269815077",
+      "mapy": "375878351"
+    },
     {
       "title": "삼청동수제비",
       "link": "http://www.삼청동수제비.kr",
@@ -16,26 +38,15 @@
       "mapy": "375845273"
     },
     {
-      "title": "스낵서울",
-      "link": "https://www.instagram.com/snackseoul",
+      "title": "소선재",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 80-6 2층",
-      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
-      "mapx": "1269816137",
-      "mapy": "375837662"
-    },
-    {
-      "title": "봉탁항아리바비큐 불쭈꾸미 삼청동 본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 61-4",
-      "roadAddress": "서울특별시 종로구 삼청로 104-3",
-      "mapx": "1269824147",
-      "mapy": "375845995"
+      "address": "서울특별시 종로구 삼청동 113-3 소선재",
+      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
+      "mapx": "1269818029",
+      "mapy": "375855480"
     },
     {
       "title": "부영도가니탕",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 141",
       "mapx": "1269826884",
       "mapy": "375872076"
-    },
-    {
-      "title": "편안한집",
-      "link": "https://ahome.imweb.me/",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 27-3",
-      "roadAddress": "서울특별시 종로구 북촌로 133",
-      "mapx": "1269833492",
-      "mapy": "375873030"
     }
   ]
 }

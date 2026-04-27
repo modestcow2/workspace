@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,26 @@
       "mapy": "375756401"
     },
     {
-      "title": "포도나무",
-      "link": "http://facebook.com/podonamu1995",
+      "title": "소야원",
+      "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 130-1 131",
-      "roadAddress": "서울특별시 종로구 사직로 108-1 131",
-      "mapx": "1269708132",
-      "mapy": "375758311"
+      "address": "서울특별시 종로구 내자동 151-2",
+      "roadAddress": "서울특별시 종로구 사직로10길 9-7",
+      "mapx": "1269707447",
+      "mapy": "375755375"
     },
     {
-      "title": "지혜",
-      "link": "http://www.instagram.com/wisdom_jihye_koreanfood",
+      "title": "미향",
+      "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 149",
-      "roadAddress": "서울특별시 종로구 사직로10길 9-1",
-      "mapx": "1269705357",
-      "mapy": "375755229"
+      "address": "서울특별시 종로구 내자동 194",
+      "roadAddress": "서울특별시 종로구 사직로12길 29",
+      "mapx": "1269710275",
+      "mapy": "375748180"
     },
     {
       "title": "향연",
@@ -49,15 +49,15 @@
       "mapy": "375754119"
     },
     {
-      "title": "중원<b>한정식</b>",
-      "link": "",
+      "title": "지혜",
+      "link": "http://www.instagram.com/wisdom_jihye_koreanfood",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 178-1",
-      "roadAddress": "서울특별시 종로구 사직로12길 28",
-      "mapx": "1269708032",
-      "mapy": "375748513"
+      "address": "서울특별시 종로구 내자동 149",
+      "roadAddress": "서울특별시 종로구 사직로10길 9-1",
+      "mapx": "1269705357",
+      "mapy": "375755229"
     }
   ]
 }

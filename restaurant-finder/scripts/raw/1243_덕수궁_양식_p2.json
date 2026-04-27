@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:53 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375662530"
     },
     {
+      "title": "핏제리아 빠드레",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 165-1 지상1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
+      "mapx": "1269741385",
+      "mapy": "375710651"
+    },
+    {
       "title": "어슬 광화문",
       "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 새문안로 32",
       "mapx": "1269692398",
       "mapy": "375679288"
-    },
-    {
-      "title": "핏제리아 빠드레",
-      "link": "",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 165-1 지상1층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
-      "mapx": "1269741385",
-      "mapy": "375710651"
     }
   ]
 }

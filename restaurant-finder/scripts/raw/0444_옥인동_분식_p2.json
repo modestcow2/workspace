@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:37 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375705250"
     },
     {
-      "title": "매일<b>분식</b>",
+      "title": "총각김밥",
       "link": "",
-      "category": "음식점>한식",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 1",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 5",
-      "mapx": "1269741578",
-      "mapy": "375725741"
+      "address": "서울특별시 종로구 종로1가 24",
+      "roadAddress": "서울특별시 종로구 종로 19",
+      "mapx": "1269800286",
+      "mapy": "375711271"
     }
   ]
 }

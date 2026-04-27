@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:45 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "안전가옥",
-      "link": "",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 47-105 .1층",
-      "roadAddress": "서울특별시 종로구 필운대로9나길 3 .1층",
-      "mapx": "1269670796",
-      "mapy": "375824570"
-    },
     {
       "title": "창성<b>갈비</b>",
       "link": "",
@@ -27,15 +16,15 @@
       "mapy": "375796602"
     },
     {
-      "title": "온지음 레스토랑",
-      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
-      "category": "음식점>한식",
+      "title": "성원통고깃집",
+      "link": "",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
-      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
-      "mapx": "1269734438",
-      "mapy": "375804848"
+      "address": "서울특별시 종로구 통인동 147-14 1층 성원통고깃집",
+      "roadAddress": "서울특별시 종로구 자하문로 33-5 1층 성원통고깃집",
+      "mapx": "1269710452",
+      "mapy": "375788761"
     },
     {
       "title": "사계항",
@@ -49,15 +38,26 @@
       "mapy": "375785725"
     },
     {
-      "title": "성원통고깃집",
+      "title": "안전가옥",
       "link": "",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-14 1층 성원통고깃집",
-      "roadAddress": "서울특별시 종로구 자하문로 33-5 1층 성원통고깃집",
-      "mapx": "1269710452",
-      "mapy": "375788761"
+      "address": "서울특별시 종로구 옥인동 47-105 .1층",
+      "roadAddress": "서울특별시 종로구 필운대로9나길 3 .1층",
+      "mapx": "1269670796",
+      "mapy": "375824570"
+    },
+    {
+      "title": "낭만 해장국",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 31-24 1층",
+      "roadAddress": "서울특별시 종로구 자하문로15길 26-2 1층",
+      "mapx": "1269695574",
+      "mapy": "375807246"
     }
   ]
 }

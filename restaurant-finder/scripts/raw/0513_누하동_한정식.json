@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 74",
       "mapx": "1269708726",
       "mapy": "375824927"
+    },
+    {
+      "title": "슬렁슬렁",
+      "link": "https://www.instagram.com/naeoejuga",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 2층",
+      "mapx": "1269712004",
+      "mapy": "375815886"
     },
     {
       "title": "모담다이닝 광화문점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하1층 설가온",
       "mapx": "1269759463",
       "mapy": "375726222"
-    },
-    {
-      "title": "자하문로118 들풀",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
     }
   ]
 }

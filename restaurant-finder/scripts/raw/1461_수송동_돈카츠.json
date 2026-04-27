@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:33 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "비비돈가스",
+      "title": "카츠연",
       "link": "",
-      "category": "음식점>한식",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 B1",
-      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 B1",
-      "mapx": "1269789870",
-      "mapy": "375739005"
+      "address": "서울특별시 종로구 수송동 58 제지층 136호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 제지층 136호",
+      "mapx": "1269817860",
+      "mapy": "375724779"
     },
     {
       "title": "경성치킨 본점",
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 5",
       "mapx": "1269822908",
       "mapy": "375752174"
+    },
+    {
+      "title": "비비돈가스",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 B1",
+      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 B1",
+      "mapx": "1269789870",
+      "mapy": "375739005"
     },
     {
       "title": "본도시락 종로구청점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼봉로 81 지층 122호",
       "mapx": "1269815061",
       "mapy": "375725618"
-    },
-    {
-      "title": "까츠야",
-      "link": "",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 80",
-      "roadAddress": "서울특별시 종로구 종로5길 68",
-      "mapx": "1269804098",
-      "mapy": "375734289"
     }
   ]
 }

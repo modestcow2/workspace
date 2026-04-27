@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375696647"
     },
     {
-      "title": "슬로우캘리 서울시청역점",
-      "link": "",
+      "title": "샐러데이즈 순화동점",
+      "link": "http://www.saladdays.co.kr/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 97-2 1층",
-      "roadAddress": "서울특별시 중구 서소문로 134 1층",
-      "mapx": "1269758636",
-      "mapy": "375635964"
+      "address": "서울특별시 중구 순화동 215 1층 102호",
+      "roadAddress": "서울특별시 중구 통일로 86 1층 102호",
+      "mapx": "1269697215",
+      "mapy": "375630569"
     },
     {
       "title": "슬로우캘리 정동점",

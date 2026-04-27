@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:05 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375704878"
     },
     {
-      "title": "란주칼면",
-      "link": "",
+      "title": "초류향",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/cholyuhyang?from=share&type=DINING",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-9 1층 란주칼면",
-      "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
-      "mapx": "1269821083",
-      "mapy": "375609724"
+      "address": "서울특별시 중구 다동 164-2",
+      "roadAddress": "서울특별시 중구 다동길 24-10",
+      "mapx": "1269804186",
+      "mapy": "375674951"
     }
   ]
 }

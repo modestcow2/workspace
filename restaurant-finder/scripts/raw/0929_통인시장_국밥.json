@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:25 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375712514"
     },
     {
-      "title": "북촌무궁화",
+      "title": "백암박가네순대국",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 137",
-      "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
-      "mapy": "375723618"
+      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
+      "mapx": "1269710531",
+      "mapy": "375791821"
     }
   ]
 }

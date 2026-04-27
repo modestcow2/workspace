@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:34 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375747887"
     },
     {
-      "title": "153구포국수 <b>경복궁</b>점",
-      "link": "",
-      "category": "음식점>한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 93-3 1층",
-      "roadAddress": "서울특별시 종로구 사직로 127-6 1층",
-      "mapx": "1269732078",
-      "mapy": "375760801"
-    },
-    {
-      "title": "리김밥 케이트윈타워점",
+      "title": "즉석<b>떡볶이</b> 궁",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 B1층",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 B1층",
-      "mapx": "1269790252",
-      "mapy": "375747276"
+      "address": "서울특별시 종로구 사간동 126-6 광성빌딩 3층 궁떡볶이",
+      "roadAddress": "서울특별시 종로구 삼청로 4 광성빌딩 3층 궁떡볶이",
+      "mapx": "1269797458",
+      "mapy": "375762622"
+    },
+    {
+      "title": "수라재",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 66 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 2층",
+      "mapx": "1269723288",
+      "mapy": "375778157"
     }
   ]
 }

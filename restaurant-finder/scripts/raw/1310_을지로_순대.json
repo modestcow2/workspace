@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:23 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375653833"
     },
     {
-      "title": "백염막창",
-      "link": "https://app.catchtable.co.kr/ct/shop/whitesalt",
-      "category": "한식>곱창,막창,양",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 344-15 1층",
-      "roadAddress": "서울특별시 중구 수표로 48-3 1층",
-      "mapx": "1269901385",
-      "mapy": "375656131"
-    },
-    {
       "title": "명품을지<b>순대</b>국",
       "link": "",
       "category": "한식>순대,순댓국",
@@ -38,26 +27,37 @@
       "mapy": "375650989"
     },
     {
-      "title": "경성<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "백염막창",
+      "link": "https://app.catchtable.co.kr/ct/shop/whitesalt",
+      "category": "한식>곱창,막창,양",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 인현동1가 102-5 1층",
-      "roadAddress": "서울특별시 중구 마른내로 50-1 (인현동1가) 1층",
-      "mapx": "1269933919",
-      "mapy": "375642608"
+      "address": "서울특별시 중구 을지로3가 344-15 1층",
+      "roadAddress": "서울특별시 중구 수표로 48-3 1층",
+      "mapx": "1269901385",
+      "mapy": "375656131"
     },
     {
-      "title": "농가<b>순대</b>국",
-      "link": "",
+      "title": "청담동순도리 <b>을지로</b>3가점",
+      "link": "http://www.soondori.co.kr/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 17-2",
-      "roadAddress": "서울특별시 중구 충무로4길 5",
-      "mapx": "1269932444",
-      "mapy": "375651393"
+      "address": "서울특별시 중구 저동2가 89 1층",
+      "roadAddress": "서울특별시 중구 삼일대로10길 36 1층",
+      "mapx": "1269896309",
+      "mapy": "375655980"
+    },
+    {
+      "title": "청와옥 <b>을지로</b>3가직영점",
+      "link": "https://www.instagram.com/cheongwaok/",
+      "category": "음식점>한식>육류,고기요리>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 346-1 1층 1호",
+      "roadAddress": "서울특별시 중구 을지로 110 1층 1호",
+      "mapx": "1269900656",
+      "mapy": "375660827"
     }
   ]
 }

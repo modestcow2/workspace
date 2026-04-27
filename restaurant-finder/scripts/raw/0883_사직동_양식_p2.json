@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:03 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375769814"
     },
     {
-      "title": "팜시티 테이블",
-      "link": "https://kardiaspace.com/place",
-      "category": "음식점>양식",
+      "title": "핏제리아 빠드레",
+      "link": "",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 1-348 1층",
-      "roadAddress": "서울특별시 종로구 경희궁3길 3-5 1층",
-      "mapx": "1269681054",
-      "mapy": "375730210"
+      "address": "서울특별시 종로구 당주동 165-1 지상1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
+      "mapx": "1269741385",
+      "mapy": "375710651"
     },
     {
       "title": "까사 이태리아",
@@ -49,15 +49,15 @@
       "mapy": "375787841"
     },
     {
-      "title": "핏제리아 빠드레",
-      "link": "",
-      "category": "음식점>이탈리아음식",
+      "title": "팜시티 테이블",
+      "link": "https://kardiaspace.com/place",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 165-1 지상1층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
-      "mapx": "1269741385",
-      "mapy": "375710651"
+      "address": "서울특별시 종로구 신문로2가 1-348 1층",
+      "roadAddress": "서울특별시 종로구 경희궁3길 3-5 1층",
+      "mapx": "1269681054",
+      "mapy": "375730210"
     }
   ]
 }

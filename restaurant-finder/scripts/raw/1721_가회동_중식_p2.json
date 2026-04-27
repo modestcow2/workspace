@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:35 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
       "mapx": "1269836975",
       "mapy": "375706386"
-    },
-    {
-      "title": "안래홍",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 132",
-      "roadAddress": "서울특별시 종로구 종로7길 43",
-      "mapx": "1269826639",
-      "mapy": "375717166"
     },
     {
       "title": "서호장",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
       "mapx": "1269762577",
       "mapy": "375724523"
+    },
+    {
+      "title": "덕후선생 광화문디타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/generousduckoo_dtower",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 4층",
+      "mapx": "1269789694",
+      "mapy": "375710184"
     }
   ]
 }

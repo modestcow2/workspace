@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:01 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375780061"
     },
     {
-      "title": "신의주찹쌀<b>순대</b> 안국역점",
-      "link": "http://www.bigsoondae.com/",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 111-1",
-      "roadAddress": "서울특별시 종로구 율곡로 59",
-      "mapx": "1269857102",
-      "mapy": "375769015"
-    },
-    {
       "title": "순이네가게",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 67",
       "mapx": "1269867152",
       "mapy": "375773052"
+    },
+    {
+      "title": "신의주찹쌀<b>순대</b> 안국역점",
+      "link": "http://www.bigsoondae.com/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 111-1",
+      "roadAddress": "서울특별시 종로구 율곡로 59",
+      "mapx": "1269857102",
+      "mapy": "375769015"
     }
   ]
 }

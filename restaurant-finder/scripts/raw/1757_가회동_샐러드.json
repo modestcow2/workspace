@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:51 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -32,10 +32,21 @@
       "category": "카페,디저트>베이커리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 28 유니온빌딩 지하1층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 5-5 유니온빌딩 지하1층",
+      "address": "서울특별시 종로구 재동 28 지하1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 5-5 지하1층",
       "mapx": "1269846562",
       "mapy": "375790291"
+    },
+    {
+      "title": "콩지POT지",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
     },
     {
       "title": "파티나",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 83 4층",
       "mapx": "1269883592",
       "mapy": "375778205"
-    },
-    {
-      "title": "콩지POT지",
-      "link": "https://blog.naver.com/konggpotg",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 34-1 1,2층",
-      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
-      "mapx": "1269843199",
-      "mapy": "375788262"
     }
   ]
 }

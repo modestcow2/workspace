@@ -1,19 +1,41 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:33 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "아리",
-      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
-      "category": "음식점>양식",
+      "title": "스태픽스",
+      "link": "http://staffpicks.co.kr",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 137-5 아리",
-      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
-      "mapx": "1269686902",
-      "mapy": "375765067"
+      "address": "서울특별시 종로구 필운동 32-1 102호",
+      "roadAddress": "서울특별시 종로구 사직로9길 22 102호",
+      "mapx": "1269680306",
+      "mapy": "375774704"
+    },
+    {
+      "title": "본지르르 베이커리 서촌",
+      "link": "https://www.instagram.com/vonzrr_bakery",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 296 1층~3층",
+      "roadAddress": "서울특별시 종로구 사직로8길 9-1 1층~3층",
+      "mapx": "1269701914",
+      "mapy": "375752318"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
     },
     {
       "title": "김진목삼",
@@ -27,17 +49,6 @@
       "mapy": "375771457"
     },
     {
-      "title": "스태픽스",
-      "link": "http://staffpicks.co.kr",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 32-1 102호",
-      "roadAddress": "서울특별시 종로구 사직로9길 22 102호",
-      "mapx": "1269680306",
-      "mapy": "375774704"
-    },
-    {
       "title": "우직 경복궁점",
       "link": "https://app.catchtable.co.kr/ct/shop/xuzikx_kbg",
       "category": "한식>소고기구이",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 49-4 1층 우직",
       "mapx": "1269695885",
       "mapy": "375767578"
-    },
-    {
-      "title": "인왕산호랭이주막",
-      "link": "https://www.instagram.com/horangejoomak",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 262-1 1층",
-      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
-      "mapx": "1269655596",
-      "mapy": "375756107"
     }
   ]
 }

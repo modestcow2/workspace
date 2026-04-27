@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:20 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "이가면옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 205-1 이가면옥",
+      "roadAddress": "서울특별시 종로구 자하문로1길 33 이가면옥",
+      "mapx": "1269703779",
+      "mapy": "375765099"
+    },
     {
       "title": "김진목삼",
       "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 35",
       "mapx": "1269702575",
       "mapy": "375765504"
-    },
-    {
-      "title": "이가면옥",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 205-1 이가면옥",
-      "roadAddress": "서울특별시 종로구 자하문로1길 33 이가면옥",
-      "mapx": "1269703779",
-      "mapy": "375765099"
     },
     {
       "title": "만가",

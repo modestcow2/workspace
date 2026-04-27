@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375789547"
     },
     {
-      "title": "심퍼티쿠시 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
+      "title": "라 스위스 서촌",
+      "link": "https://blog.naver.com/ysimkim",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
-      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
-      "mapx": "1269805312",
-      "mapy": "375755019"
+      "address": "서울특별시 종로구 통의동 25-2 끄레아주차장 안",
+      "roadAddress": "서울특별시 종로구 자하문로6길 11-36 끄레아주차장 안",
+      "mapx": "1269726212",
+      "mapy": "375786629"
     },
     {
-      "title": "스미스가좋아하는한옥",
-      "link": "https://www.instagram.com/smith_hanok",
-      "category": "음식점>이탈리아음식",
+      "title": "미트볼라운지 X 아날로그키친 삼청점",
+      "link": "http://www.instagram.com/meatball_lounge",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사간동 62-1",
-      "roadAddress": "서울특별시 종로구 삼청로 22-7",
-      "mapx": "1269801792",
-      "mapy": "375779378"
+      "address": "서울특별시 종로구 팔판동 27-5 미트볼라운지x아날로그키친 삼청점",
+      "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
+      "mapx": "1269816796",
+      "mapy": "375833417"
     }
   ]
 }

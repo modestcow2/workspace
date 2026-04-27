@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:34 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
       "mapx": "1269730094",
       "mapy": "375717610"
-    },
-    {
-      "title": "광화문정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
     },
     {
       "title": "소풍 독립문역점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 새문안로3길 15 3층",
       "mapx": "1269722833",
       "mapy": "375717008"
+    },
+    {
+      "title": "서촌 백년화로",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 24-2",
+      "roadAddress": "서울특별시 종로구 새문안로7길 20",
+      "mapx": "1269753006",
+      "mapy": "375711433"
     },
     {
       "title": "우대포 광화문점",

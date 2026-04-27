@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "이가네 종각점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 대성 스카이렉스 1117호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 대성 스카이렉스 1117호",
-      "mapx": "1269827899",
-      "mapy": "375722724"
-    },
     {
       "title": "삼봉도담",
       "link": "https://sambongdodam.com",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
       "mapx": "1269825289",
       "mapy": "375729806"
+    },
+    {
+      "title": "이가네 종각점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 대성 스카이렉스 1117호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 대성 스카이렉스 1117호",
+      "mapx": "1269827899",
+      "mapy": "375722724"
     },
     {
       "title": "만리장성",

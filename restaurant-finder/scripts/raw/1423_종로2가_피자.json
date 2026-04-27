@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:15 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375741979"
     },
     {
-      "title": "계동<b>피자</b>",
-      "link": "https://youtube.com/@kindk7985",
-      "category": "음식점>피자",
+      "title": "스파게티가있는풍경 광화문점",
+      "link": "https://www.instagram.com/pomodori_park",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 82-1 1층 피자",
-      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
-      "mapx": "1269866587",
-      "mapy": "375801802"
+      "address": "서울특별시 종로구 신문로1가 1-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
+      "mapx": "1269761832",
+      "mapy": "375704933"
     },
     {
-      "title": "도치<b>피자</b> 광화문",
-      "link": "https://www.instagram.com/dochi_pz",
-      "category": "음식점>피자",
+      "title": "지오쿠치나익선",
+      "link": "https://ziocucina-ikseon.com/",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 1-49",
-      "roadAddress": "서울특별시 중구 세종대로21길 67-2",
-      "mapx": "1269755204",
-      "mapy": "375692966"
+      "address": "서울특별시 종로구 익선동 166-35",
+      "roadAddress": "서울특별시 종로구 수표로28길 33-11",
+      "mapx": "1269900907",
+      "mapy": "375737098"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -7,7 +7,7 @@
     {
       "title": "샤브가든 <b>종로</b>타워점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "음식점>일식>샤브샤브",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
@@ -49,15 +49,15 @@
       "mapy": "375704112"
     },
     {
-      "title": "<b>종로</b>회관 <b>종로</b>타워점",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "김가네 종각역점",
+      "link": "https://blog.naver.com/gimkong7127",
+      "category": "음식점>분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층",
-      "mapx": "1269836385",
-      "mapy": "375707534"
+      "address": "서울특별시 종로구 종로2가 8-4",
+      "roadAddress": "서울특별시 종로구 종로 65",
+      "mapx": "1269845724",
+      "mapy": "375704283"
     }
   ]
 }

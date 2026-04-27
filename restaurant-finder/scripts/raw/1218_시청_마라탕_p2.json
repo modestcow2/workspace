@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:41 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375017323"
     },
     {
-      "title": "마유유 <b>마라탕</b> 현대백화점 중동점",
-      "link": "https://www.instagram.com/sinae.u",
+      "title": "숑스<b>마라탕</b>",
+      "link": "",
       "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1164-1 지하1층",
-      "roadAddress": "경기도 부천시 원미구 길주로 180 지하1층",
-      "mapx": "1267618740",
-      "mapy": "375044455"
+      "address": "경기도 부천시 원미구 중동 1301 106동 1층 1013호",
+      "roadAddress": "경기도 부천시 원미구 길주로 234 106동 1층 1013호",
+      "mapx": "1267688948",
+      "mapy": "375035181"
     },
     {
-      "title": "등초<b>마라탕</b> 오산점",
-      "link": "http://0313758323.tshome.co.kr/",
-      "category": "중식>중식당",
+      "title": "마라공방 서대문점",
+      "link": "https://www.instagram.com/maragongbang_official/",
+      "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "경기도 오산시 오산동 925-5 월드타워105호 등초마라탕",
-      "roadAddress": "경기도 오산시 성호대로 121 월드타워105호 등초마라탕",
-      "mapx": "1270746523",
-      "mapy": "371490400"
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 201동 L층 B135호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 201동 L층 B135호",
+      "mapx": "1269703989",
+      "mapy": "375632968"
     }
   ]
 }

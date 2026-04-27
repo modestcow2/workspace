@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:31 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375720320"
     },
     {
-      "title": "뽐모도로 광화문지점",
-      "link": "https://www.instagram.com/pomodoro_1994",
-      "category": "음식점>이탈리아음식",
+      "title": "써브웨이 광화문점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 22-1 일선빌딩 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 19-1 일선빌딩 1층",
-      "mapx": "1269756648",
-      "mapy": "375711472"
+      "address": "서울특별시 종로구 당주동 128-17 1층 써브웨이 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로3길 19 1층 써브웨이 광화문점",
+      "mapx": "1269725770",
+      "mapy": "375720015"
     },
     {
       "title": "포시즌스 호텔 서울 보칼리노",
@@ -49,15 +49,15 @@
       "mapy": "375706990"
     },
     {
-      "title": "써브웨이 광화문점",
-      "link": "http://www.subway.co.kr/",
-      "category": "음식점>샌드위치",
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 128-17 1층 써브웨이 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로3길 19 1층 써브웨이 광화문점",
-      "mapx": "1269725770",
-      "mapy": "375720015"
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
     }
   ]
 }

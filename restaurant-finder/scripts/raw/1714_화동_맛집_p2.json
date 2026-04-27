@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:32 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "봉이밥 삼청동점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
-    },
     {
       "title": "포스톤즈 삼청점",
       "link": "https://smartstore.naver.com/fourstones/",
@@ -27,37 +16,48 @@
       "mapy": "375847732"
     },
     {
-      "title": "삼청동수제비",
-      "link": "http://www.삼청동수제비.kr",
-      "category": "음식점>한식",
+      "title": "연남토마 북촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yntm_bc",
+      "category": "음식점>퓨전음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 99",
-      "roadAddress": "서울특별시 종로구 삼청로 101-1",
-      "mapx": "1269819599",
-      "mapy": "375845273"
+      "address": "서울특별시 종로구 화동 138-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39 1층",
+      "mapx": "1269827234",
+      "mapy": "375793518"
     },
     {
-      "title": "스낵서울",
-      "link": "https://www.instagram.com/snackseoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 80-6 2층",
-      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
-      "mapx": "1269816137",
-      "mapy": "375837662"
-    },
-    {
-      "title": "경춘자의라면땡기는날",
+      "title": "봉이밥 삼청동점",
       "link": "",
-      "category": "분식>라면",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 화동 138-21",
-      "roadAddress": "서울특별시 종로구 율곡로3길 82",
-      "mapx": "1269822347",
-      "mapy": "375793111"
+      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
+      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
+      "mapx": "1269822067",
+      "mapy": "375842989"
+    },
+    {
+      "title": "PKM가든 레스토랑",
+      "link": "https://catchtable.co.kr/pkm_restaurant",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
+      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
+      "mapx": "1269801406",
+      "mapy": "375841122"
+    },
+    {
+      "title": "삼청빙수",
+      "link": "https://www.instagram.com/samcheong_bingsu",
+      "category": "카페,디저트>빙수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 63-19",
+      "roadAddress": "서울특별시 종로구 삼청로 84-1",
+      "mapx": "1269819470",
+      "mapy": "375829992"
     }
   ]
 }

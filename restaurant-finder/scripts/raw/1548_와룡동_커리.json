@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:14 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375849028"
     },
     {
-      "title": "정돈 대학로본점",
-      "link": "",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 107 지층",
-      "roadAddress": "서울특별시 종로구 대학로9길 12 지층",
-      "mapx": "1270011237",
-      "mapy": "375818016"
-    },
-    {
       "title": "깔리",
       "link": "https://www.instagram.com/kali.seoul",
       "category": "음식점>인도음식",
@@ -49,15 +38,26 @@
       "mapy": "375824805"
     },
     {
-      "title": "옐로 드래곤 <b>커리</b> 종묘 서순라길 본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/yellowdragoncurry",
-      "category": "음식점>일식>카레",
+      "title": "정돈 대학로본점",
+      "link": "https://jungdon.co.kr/",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 봉익동 12-14 옐로 드래곤 커리",
-      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 옐로 드래곤 커리",
-      "mapx": "1269926638",
-      "mapy": "375731094"
+      "address": "서울특별시 종로구 명륜4가 107 지층",
+      "roadAddress": "서울특별시 종로구 대학로9길 12 지층",
+      "mapx": "1270011237",
+      "mapy": "375818016"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
     }
   ]
 }

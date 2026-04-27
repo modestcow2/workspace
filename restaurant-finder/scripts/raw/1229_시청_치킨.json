@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:46 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375622533"
     },
     {
-      "title": "누구나홀딱반한닭 <b>시청</b>역점",
-      "link": "https://www.instagram.com/nuguna_banhandak",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-12",
-      "roadAddress": "서울특별시 중구 세종대로11길 30",
-      "mapx": "1269742920",
-      "mapy": "375622975"
-    },
-    {
       "title": "100조맥주 <b>시청</b>점",
       "link": "",
       "category": "술집>맥주,호프",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 남대문로1길 49 1층",
       "mapx": "1269773608",
       "mapy": "375632918"
+    },
+    {
+      "title": "왕초바베큐 화성<b>시청</b>점",
+      "link": "https://www.instagram.com/wangcho_bbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 화성시 만세구 남양읍 남양리 2064-7 1층 102호",
+      "roadAddress": "경기도 화성시 만세구 남양읍 역골동로 15-1 1층 102호",
+      "mapx": "1268292417",
+      "mapy": "372022233"
     }
   ]
 }

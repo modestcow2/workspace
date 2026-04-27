@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:46 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375684296"
     },
     {
+      "title": "모꼬지",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 31-28 대원빌딩 1층 모꼬지",
+      "roadAddress": "서울특별시 중구 무교로 17-27 대원빌딩 1층 모꼬지",
+      "mapx": "1269783832",
+      "mapy": "375674937"
+    },
+    {
       "title": "민규 을지로",
       "link": "https://app.catchtable.co.kr/ct/shop/mingyueulhiro",
       "category": "한식>소고기구이",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋센터원 B1층 108호",
       "mapx": "1269852223",
       "mapy": "375673385"
-    },
-    {
-      "title": "저돌",
-      "link": "https://linktr.ee/rushlikeboar",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로2가 50-2 3층",
-      "roadAddress": "서울특별시 중구 삼일대로4길 19 3층",
-      "mapx": "1269901921",
-      "mapy": "375621380"
     }
   ]
 }

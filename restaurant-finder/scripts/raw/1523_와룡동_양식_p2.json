@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:02 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "노우즈 창덕",
-      "link": "https://catchtable.co.kr/knows_changdeok",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 와룡동 109-1 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로 88-1 1층",
-      "mapx": "1269905898",
-      "mapy": "375763638"
-    },
     {
       "title": "서양면옥 서순라길점",
       "link": "https://www.instagram.com/seoyangmyunok.seoul",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 율곡로8길 45 1층",
       "mapx": "1269911611",
       "mapy": "375752912"
+    },
+    {
+      "title": "노우즈 창덕",
+      "link": "https://catchtable.co.kr/knows_changdeok",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 109-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 88-1 1층",
+      "mapx": "1269905898",
+      "mapy": "375763638"
     },
     {
       "title": "익선취향",
@@ -45,8 +45,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 권농동 189-2 2층",
       "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
-      "mapx": "1269921258",
-      "mapy": "375742436"
+      "mapx": "1269921439",
+      "mapy": "375742047"
     },
     {
       "title": "살롱순라 서순라길점",

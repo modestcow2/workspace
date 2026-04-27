@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:35 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375712635"
     },
     {
-      "title": "광화문정육",
+      "title": "서촌 백년화로",
       "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
-    },
-    {
-      "title": "광화로",
-      "link": "https://app.catchtable.co.kr/ct/shop/gwang_hwaro",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 20-1 2층 광화로",
-      "roadAddress": "서울특별시 종로구 새문안로9길 25 2층 광화로",
-      "mapx": "1269754938",
-      "mapy": "375713547"
+      "address": "서울특별시 종로구 당주동 24-2",
+      "roadAddress": "서울특별시 종로구 새문안로7길 20",
+      "mapx": "1269753006",
+      "mapy": "375711433"
     },
     {
       "title": "동락돼지",
@@ -49,15 +38,26 @@
       "mapy": "375710685"
     },
     {
-      "title": "청년식탁",
+      "title": "광화문 화덕<b>삼겹살</b> 광화로",
+      "link": "https://app.catchtable.co.kr/ct/shop/gwang_hwaro",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 20-1 2층 광화로",
+      "roadAddress": "서울특별시 종로구 새문안로9길 25 2층 광화로",
+      "mapx": "1269754938",
+      "mapy": "375713547"
+    },
+    {
+      "title": "황금정",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종 빌딩 지하 106호",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종 빌딩 지하 106호",
-      "mapx": "1269733018",
-      "mapy": "375718397"
+      "address": "서울특별시 종로구 당주동 1",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 5",
+      "mapx": "1269742704",
+      "mapy": "375726129"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:50 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375708344"
     },
     {
-      "title": "강창구찹쌀진순대 <b>종로</b>점",
-      "link": "https://www.instagram.com/jinsundae_jongno",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 113-2호, 114-1호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 113-2호, 114-1호",
-      "mapx": "1269796299",
-      "mapy": "375706974"
-    },
-    {
       "title": "대문곰탕",
       "link": "https://www.instagram.com/daemungomtang",
       "category": "한식>곰탕,설렁탕",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B106-4호",
       "mapx": "1269798606",
       "mapy": "375708344"
+    },
+    {
+      "title": "강창구찹쌀진순대 <b>종로</b>점",
+      "link": "https://www.instagram.com/jinsundae_jongno",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 113-2호, 114-1호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 113-2호, 114-1호",
+      "mapx": "1269796299",
+      "mapy": "375706974"
     },
     {
       "title": "신의주찹쌀순대 <b>종로</b>구청점",
@@ -49,15 +49,15 @@
       "mapy": "375706349"
     },
     {
-      "title": "안암",
-      "link": "http://instagram.com/anam_inanguk",
-      "category": "음식점>한식",
+      "title": "엄용백 돼지<b>국밥</b>",
+      "link": "https://www.instagram.com/umyongbaek_kr/",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 32-4 안암",
-      "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
-      "mapx": "1269844784",
-      "mapy": "375794197"
+      "address": "서울특별시 종로구 인사동 194-28",
+      "roadAddress": "서울특별시 종로구 인사동3길 20",
+      "mapx": "1269858222",
+      "mapy": "375718777"
     }
   ]
 }

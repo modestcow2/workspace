@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375794433"
     },
     {
-      "title": "밀양손만두",
+      "title": "비원손칼국수",
       "link": "",
-      "category": "분식>만두",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 107-1 1층",
-      "roadAddress": "서울특별시 종로구 계동길 41 1층",
-      "mapx": "1269866713",
-      "mapy": "375791625"
+      "address": "서울특별시 종로구 원서동 160",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 9-1",
+      "mapx": "1269887790",
+      "mapy": "375792230"
     }
   ]
 }

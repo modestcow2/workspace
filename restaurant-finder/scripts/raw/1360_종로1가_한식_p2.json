@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:46 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375708344"
     },
     {
+      "title": "광양면옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 B208-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 B208-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
       "title": "서린낙지",
       "link": "",
       "category": "한식>낙지요리",
@@ -27,6 +38,17 @@
       "mapy": "375709094"
     },
     {
+      "title": "감촌",
+      "link": "",
+      "category": "한식>두부요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 512호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 512호",
+      "mapx": "1269795383",
+      "mapy": "375705766"
+    },
+    {
       "title": "더미 광화문본점",
       "link": "http://www.hanutheme.com/",
       "category": "한식>소고기구이",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르 3층 더미 본점",
       "mapx": "1269798488",
       "mapy": "375706671"
-    },
-    {
-      "title": "완백부대찌개 고사리꽃삼겹 <b>종로</b>르메이에르점",
-      "link": "",
-      "category": "한식>찌개,전골",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 2층 201-1호, 201-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 ,2층 201-1호, 201-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "남도미가",
-      "link": "http://blog.kbmyshop.com/%EB%82%A8%EB%8F%84%EB%AF%B8%EA%B0%80",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 지하1층",
-      "mapx": "1269799205",
-      "mapy": "375705931"
     }
   ]
 }

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "라그린",
+      "link": "",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 32-1 이화여고100주년기념관",
+      "roadAddress": "서울특별시 중구 정동길 26 이화여고100주년기념관",
+      "mapx": "1269707874",
+      "mapy": "375664638"
+    },
     {
       "title": "커피루소 정동",
       "link": "https://smartstore.naver.com/lussolab",
@@ -27,15 +38,15 @@
       "mapy": "375660943"
     },
     {
-      "title": "라그린",
-      "link": "",
-      "category": "음식점>카페,디저트",
+      "title": "훅트포케 광화문점",
+      "link": "https://www.instagram.com/hookedpoke_official",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 32-1 이화여고100주년기념관",
-      "roadAddress": "서울특별시 중구 정동길 26 이화여고100주년기념관",
-      "mapx": "1269707874",
-      "mapy": "375664638"
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 105호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 105호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
     },
     {
       "title": "재즈클럽 야누스",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로21길 53 2층",
       "mapx": "1269754119",
       "mapy": "375689748"
-    },
-    {
-      "title": "그린브로스<b>샐러드</b> 시청역점",
-      "link": "https://www.instagram.com/greenbrossalad_cityhall/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 37 B1, 먼슬리키친 17호 그린브로스샐러드",
-      "roadAddress": "서울특별시 중구 서소문로 89-20 B1, 먼슬리키친 17호 그린브로스샐러드",
-      "mapx": "1269720315",
-      "mapy": "375632511"
     }
   ]
 }

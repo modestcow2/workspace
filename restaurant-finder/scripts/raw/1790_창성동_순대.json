@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:06 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "온지음 레스토랑",
-      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
-      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
-      "mapx": "1269734438",
-      "mapy": "375804848"
-    },
     {
       "title": "화목<b>순대</b>국전문 광화문1호점",
       "link": "",
@@ -25,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 11",
       "mapx": "1269747764",
       "mapy": "375712514"
-    },
-    {
-      "title": "석교식당",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 영천동 331",
-      "roadAddress": "서울특별시 서대문구 통일로 185",
-      "mapx": "1269622884",
-      "mapy": "375700014"
     },
     {
       "title": "청진동장터<b>순대</b>국",
@@ -49,6 +27,17 @@
       "mapy": "375720966"
     },
     {
+      "title": "석교식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 331",
+      "roadAddress": "서울특별시 서대문구 통일로 185",
+      "mapx": "1269622884",
+      "mapy": "375700014"
+    },
+    {
       "title": "관북",
       "link": "",
       "category": "한식>순대,순댓국",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
       "mapx": "1269808546",
       "mapy": "375719170"
+    },
+    {
+      "title": "광화문더덕<b>순대</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 38-2",
+      "roadAddress": "서울특별시 종로구 새문안로5길 10",
+      "mapx": "1269750695",
+      "mapy": "375710722"
     }
   ]
 }

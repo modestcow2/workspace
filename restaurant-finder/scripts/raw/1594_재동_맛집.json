@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "더타코부스 NYC 안국점",
-      "link": "",
+      "link": "https://thetacobooth.com/",
       "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
@@ -16,48 +16,48 @@
       "mapy": "375774613"
     },
     {
-      "title": "도토리가든 안국점",
-      "link": "https://www.instagram.com/dotori__seoul",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-45 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
-      "mapx": "1269862903",
-      "mapy": "375780996"
-    },
-    {
-      "title": "호이식 종로 안국",
+      "title": "안국약방",
       "link": "",
-      "category": "한식>칼국수,만두",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-7 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
-      "mapx": "1269863069",
-      "mapy": "375777908"
+      "address": "서울특별시 종로구 재동 91 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
+      "mapx": "1269861688",
+      "mapy": "375773871"
     },
     {
-      "title": "ETF베이커리",
-      "link": "https://app.catchtable.co.kr/ct/shop/etfbakery?from=share&type=WAITING",
-      "category": "카페,디저트>베이커리",
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 107-1 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 3 1층",
-      "mapx": "1269858052",
-      "mapy": "375772153"
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
-      "title": "비움안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
-      "category": "음식점>양식",
+      "title": "오설록 티하우스 북촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/osullocteahouse_bukchon",
+      "category": "카페,디저트>차",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
-      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
-      "mapx": "1269856635",
-      "mapy": "375791098"
+      "address": "서울특별시 종로구 가회동 79-1 오설록",
+      "roadAddress": "서울특별시 종로구 북촌로 45 오설록",
+      "mapx": "1269845855",
+      "mapy": "375810207"
+    },
+    {
+      "title": "온미관 안국",
+      "link": "https://www.instagram.com/onmigwananguk/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
+      "mapx": "1269861071",
+      "mapy": "375780371"
     }
   ]
 }

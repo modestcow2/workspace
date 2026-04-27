@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:23 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "알라보 종각센트로폴리스점",
-      "link": "",
-      "category": "음식점>도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "mapx": "1269836537",
-      "mapy": "375715557"
-    },
     {
       "title": "슬로우캘리 종각역",
       "link": "http://www.slowcali.co.kr",
@@ -27,26 +16,15 @@
       "mapy": "375714967"
     },
     {
-      "title": "사랑해베이글 종로 94빌딩점",
-      "link": "https://100원커피이벤트-선착순주문하기.com",
-      "category": "카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 144 94빌딩, 1층 103호",
-      "roadAddress": "서울특별시 종로구 삼봉로 94 94빌딩, 1층 103호",
-      "mapx": "1269822393",
-      "mapy": "375717780"
-    },
-    {
-      "title": "더타코부스 NYC 안국점",
+      "title": "알라보 종각센트로폴리스점",
       "link": "",
-      "category": "음식점>양식>멕시코,남미음식",
+      "category": "음식점>도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 86 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
-      "mapx": "1269860399",
-      "mapy": "375774613"
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
+      "mapx": "1269836537",
+      "mapy": "375715557"
     },
     {
       "title": "Poke all day <b>포케</b>&amp;샐러드 종로점",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 종로16길 11 2층",
       "mapx": "1269886932",
       "mapy": "375695892"
+    },
+    {
+      "title": "더타코부스 NYC 안국점",
+      "link": "https://thetacobooth.com/",
+      "category": "음식점>양식>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 86 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
+      "mapx": "1269860399",
+      "mapy": "375774613"
+    },
+    {
+      "title": "코스모스",
+      "link": "https://app.catchtable.co.kr/ct/shop/cosmos_nakwon",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 75 A동 1층 코스모스",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 7 A동 1층 코스모스",
+      "mapx": "1269885365",
+      "mapy": "375732211"
     }
   ]
 }

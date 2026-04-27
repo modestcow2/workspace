@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:23 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375733835"
     },
     {
+      "title": "이여곰탕 종로점",
+      "link": "https://clip.naver.com/@jongno_gomtang",
+      "category": "음식점>한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
+      "mapx": "1269807361",
+      "mapy": "375727720"
+    },
+    {
       "title": "은성 한정식",
       "link": "",
       "category": "한식>한정식",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
       "mapx": "1269814980",
       "mapy": "375729994"
-    },
-    {
-      "title": "이여곰탕 종로점",
-      "link": "https://clip.naver.com/@jongno_gomtang",
-      "category": "음식점>한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
-      "mapx": "1269807361",
-      "mapy": "375727720"
     },
     {
       "title": "만도리 신라스테이 광화문",
@@ -49,15 +49,15 @@
       "mapy": "375726960"
     },
     {
-      "title": "VIP참치 종로구청점",
-      "link": "https://smartstore.naver.com/viptuna_ko",
-      "category": "한식>생선회",
+      "title": "류경회관 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 156 신라스테이 광화문점 B1층",
-      "roadAddress": "서울특별시 종로구 삼봉로 71 신라스테이 광화문점 B1층",
-      "mapx": "1269808442",
-      "mapy": "375725008"
+      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
+      "mapx": "1269818280",
+      "mapy": "375724939"
     }
   ]
 }

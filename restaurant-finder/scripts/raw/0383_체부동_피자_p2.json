@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375756345"
     },
     {
-      "title": "김용현베이커리",
-      "link": "",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 32-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 21 1층",
-      "mapx": "1269716282",
-      "mapy": "375780065"
-    },
-    {
       "title": "한옥달 레스토랑",
       "link": "https://catchtable.co.kr/ct/shop/hanokdal",
       "category": "이탈리아음식>스파게티,파스타전문",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1가길 9",
       "mapx": "1269718720",
       "mapy": "375769814"
+    },
+    {
+      "title": "김용현베이커리",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 32-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 21 1층",
+      "mapx": "1269716282",
+      "mapy": "375780065"
     },
     {
       "title": "뮤추얼사운드클럽",

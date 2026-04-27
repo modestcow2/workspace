@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:06 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375581394"
     },
     {
-      "title": "센트그릴 BBQ",
-      "link": "http://www.instagram.com/centgrill",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 188-87 지하 1층 센트그릴",
-      "roadAddress": "서울특별시 서대문구 연희로 89-3 지하 1층 센트그릴",
-      "mapx": "1269299673",
-      "mapy": "375661978"
-    },
-    {
       "title": "LORD SANDWICH",
       "link": "https://www.instagram.com/gallery_lord_sandwich",
       "category": "음식점>양식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 연대동문길 45 1층 LORD SANDWICH",
       "mapx": "1269444463",
       "mapy": "375644415"
+    },
+    {
+      "title": "롯데리아 <b>서대문</b>역점",
+      "link": "https://www.lotteria.com/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 8-2",
+      "roadAddress": "서울특별시 서대문구 통일로 127",
+      "mapx": "1269660669",
+      "mapy": "375658034"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:12 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375680983"
     },
     {
-      "title": "서울<b>삼계탕</b>",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 17-8 2층",
-      "roadAddress": "서울특별시 중구 마른내로 19 2층",
-      "mapx": "1269901969",
-      "mapy": "375649565"
-    },
-    {
       "title": "내림손<b>삼계탕</b>",
       "link": "",
       "category": "한식>백숙,삼계탕",
@@ -38,26 +27,37 @@
       "mapy": "375674462"
     },
     {
-      "title": "본가원조닭한마리",
-      "link": "",
-      "category": "한식>닭요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 초동 54",
-      "roadAddress": "서울특별시 중구 마른내로2길 19",
-      "mapx": "1269920102",
-      "mapy": "375635413"
-    },
-    {
-      "title": "장수<b>삼계탕</b>",
+      "title": "을지<b>삼계탕</b>",
       "link": "",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 302-3",
-      "roadAddress": "서울특별시 중구 을지로14길 22",
-      "mapx": "1269920210",
-      "mapy": "375652750"
+      "address": "서울특별시 중구 을지로2가 101-12",
+      "roadAddress": "서울특별시 중구 을지로 99-1",
+      "mapx": "1269890869",
+      "mapy": "375663526"
+    },
+    {
+      "title": "서울<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 17-8 2층",
+      "roadAddress": "서울특별시 중구 마른내로 19 2층",
+      "mapx": "1269901969",
+      "mapy": "375649565"
+    },
+    {
+      "title": "고봉<b>삼계탕</b> 명동점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-40",
+      "roadAddress": "서울특별시 중구 명동7길 21",
+      "mapx": "1269837316",
+      "mapy": "375648216"
     }
   ]
 }

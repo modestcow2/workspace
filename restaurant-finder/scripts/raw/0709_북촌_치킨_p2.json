@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:42 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -34,19 +34,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 재동 47 1층 무화서울 안국점",
       "roadAddress": "서울특별시 종로구 북촌로 24 1층 무화서울 안국점",
-      "mapx": "1269854413",
-      "mapy": "375788712"
-    },
-    {
-      "title": "교촌<b>치킨</b> 안국점",
-      "link": "https://m.kyochon.com/",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 화동 138-7",
-      "roadAddress": "서울특별시 종로구 북촌로5길 43",
-      "mapx": "1269825655",
-      "mapy": "375793487"
+      "mapx": "1269854025",
+      "mapy": "375788544"
     },
     {
       "title": "다운타우너 안국",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 6-4 1층",
       "mapx": "1269862902",
       "mapy": "375774450"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54",
+      "mapx": "1269820563",
+      "mapy": "375797533"
     }
   ]
 }

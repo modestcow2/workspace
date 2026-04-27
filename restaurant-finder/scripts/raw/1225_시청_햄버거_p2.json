@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375670285"
     },
     {
-      "title": "바스버거 광화문점",
-      "link": "http://www.basburger.net",
-      "category": "양식>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 11 광일빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 지하1층",
-      "mapx": "1269797080",
-      "mapy": "375681229"
-    },
-    {
       "title": "바스버거 서소문<b>시청</b>역점",
       "link": "https://www.basburger.net/",
       "category": "양식>햄버거",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로11길 33",
       "mapx": "1269741569",
       "mapy": "375620973"
+    },
+    {
+      "title": "바스버거 광화문점",
+      "link": "http://www.basburger.net",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 11 광일빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 지하1층",
+      "mapx": "1269797080",
+      "mapy": "375681229"
     }
   ]
 }

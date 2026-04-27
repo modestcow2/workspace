@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:19 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "샐러드로우 앤 트라타 익선점",
-      "link": "https://www.instagram.com/saladlowtratar_iksun",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 와룡동 173 1층 샐러드로우앤트라타",
-      "roadAddress": "서울특별시 종로구 돈화문로 65 1층 샐러드로우앤트라타",
-      "mapx": "1269907696",
-      "mapy": "375742407"
-    },
     {
       "title": "훅트<b>포케</b> 을지로점",
       "link": "https://www.hookedpoke.co.kr/",
@@ -38,6 +27,17 @@
       "mapy": "375816347"
     },
     {
+      "title": "르베지왕 을지공간",
+      "link": "http://www.levegiwang.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 116 2층",
+      "roadAddress": "서울특별시 중구 남대문로9길 10 2층",
+      "mapx": "1269818830",
+      "mapy": "375668000"
+    },
+    {
       "title": "TWG Tea 광화문점",
       "link": "https://brand.naver.com/twgtea_official",
       "category": "카페,디저트>홍차전문점",
@@ -49,15 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "르베지왕 을지공간",
-      "link": "http://www.levegiwang.com/",
+      "title": "샐러링 광화문점",
+      "link": "https://salaring.com/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 116 2층",
-      "roadAddress": "서울특별시 중구 남대문로9길 10 2층",
-      "mapx": "1269818830",
-      "mapy": "375668000"
+      "address": "서울특별시 중구 다동 85 1층 101호",
+      "roadAddress": "서울특별시 중구 남대문로 125 다동 1층 101호",
+      "mapx": "1269822027",
+      "mapy": "375682184"
     }
   ]
 }

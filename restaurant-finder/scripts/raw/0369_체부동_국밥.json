@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:02 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375749073"
     },
     {
-      "title": "<b>체부동</b>잔치집돼지갈비",
-      "link": "",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 194-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 24",
-      "mapx": "1269710530",
-      "mapy": "375765468"
-    },
-    {
       "title": "명작신의주찹쌀순대",
       "link": "",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
       "mapx": "1269686008",
       "mapy": "375744035"
+    },
+    {
+      "title": "<b>체부동</b>잔치집돼지갈비",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 194-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 24",
+      "mapx": "1269710530",
+      "mapy": "375765468"
     },
     {
       "title": "진미필담 용금옥",

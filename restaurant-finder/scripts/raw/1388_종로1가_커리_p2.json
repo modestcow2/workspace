@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:59 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375710372"
     },
     {
+      "title": "쿠아타이푸드",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층, B208-1",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층, B208-1",
+      "mapx": "1269798875",
+      "mapy": "375706203"
+    },
+    {
       "title": "카오리",
       "link": "http://instagram.com/lee341004",
       "category": "술집>이자카야",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 2층 211-1호",
       "mapx": "1269798224",
       "mapy": "375708585"
-    },
-    {
-      "title": "규카츠정 광화문점",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 2층 214호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 2층 214호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     }
   ]
 }

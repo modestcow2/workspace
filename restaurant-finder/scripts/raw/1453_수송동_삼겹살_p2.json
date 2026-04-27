@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375725618"
     },
     {
-      "title": "제주오겹살",
-      "link": "",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70",
-      "mapx": "1269807326",
-      "mapy": "375727853"
-    },
-    {
       "title": "대독장 종로구청점",
       "link": "",
       "category": "한식>찌개,전골",
@@ -49,15 +38,26 @@
       "mapy": "375728627"
     },
     {
-      "title": "고기꾼김춘배 종로직영점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
+      "title": "제주오겹살",
+      "link": "",
       "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
-      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
-      "mapx": "1269864928",
-      "mapy": "375690679"
+      "address": "서울특별시 종로구 수송동 71-2",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70",
+      "mapx": "1269807326",
+      "mapy": "375727853"
+    },
+    {
+      "title": "익선동목장 종로본점",
+      "link": "http://www.instagram.com/iksun.farm",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 묘동 160-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
+      "mapx": "1269912075",
+      "mapy": "375731990"
     }
   ]
 }

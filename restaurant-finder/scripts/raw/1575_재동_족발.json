@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375695127"
     },
     {
-      "title": "연남<b>족발</b>1987 종각점",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-12 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로15길 26 1층",
-      "mapx": "1269860922",
-      "mapy": "375689059"
-    },
-    {
       "title": "삼해집 종로점",
       "link": "http://www.samhae1.kr",
       "category": "한식>족발,보쌈",
@@ -38,15 +27,15 @@
       "mapy": "375699683"
     },
     {
-      "title": "족의한수 종로본점",
+      "title": "연남<b>족발</b>1987 종각점",
       "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관수동 4-1 1층 족의한수",
-      "roadAddress": "서울특별시 종로구 수표로 93-1 1층 족의한수",
-      "mapx": "1269891620",
-      "mapy": "375696277"
+      "address": "서울특별시 종로구 관철동 12-12 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 26 1층",
+      "mapx": "1269860922",
+      "mapy": "375689059"
     },
     {
       "title": "자기만족 종로본점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로17길 23 2층",
       "mapx": "1269861953",
       "mapy": "375690666"
+    },
+    {
+      "title": "최부자보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 40",
+      "roadAddress": "서울특별시 종로구 수표로20길 22",
+      "mapx": "1269907488",
+      "mapy": "375699441"
     }
   ]
 }

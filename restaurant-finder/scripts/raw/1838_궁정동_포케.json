@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:28 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -25,6 +25,28 @@
       "roadAddress": "서울특별시 종로구 새문안로5가길 32 한국생산성본부 B1층",
       "mapx": "1269735672",
       "mapy": "375749172"
+    },
+    {
+      "title": "스미스가 좋아하는 테라스",
+      "link": "https://www.instagram.com/smith_terrace_official",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 11 1st Floor",
+      "roadAddress": "서울특별시 종로구 삼청로 135-3 1st Floor",
+      "mapx": "1269814009",
+      "mapy": "375876362"
+    },
+    {
+      "title": "북촌의뜰",
+      "link": "https://www.instagram.com/bookchontteul/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 149-1 1층-4층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 75-4 1층-4층",
+      "mapx": "1269818633",
+      "mapy": "375790615"
     },
     {
       "title": "초록초록",

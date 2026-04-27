@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:31 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375581107"
     },
     {
-      "title": "오공일 <b>명동</b>점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 2층",
-      "roadAddress": "서울특별시 중구 남대문로 55 2층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
-    },
-    {
       "title": "해밀가 종각점",
       "link": "https://app.catchtable.co.kr/ct/shop/HAEMILGA",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375683770"
     },
     {
-      "title": "한식왕비집 을지로점",
-      "link": "https://app.catchtable.co.kr/ct/shop/hansikwangbijibeuljirobranch",
+      "title": "명화당 <b>명동</b>1호점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-3 2층",
+      "roadAddress": "서울특별시 중구 명동4길 30 2층",
+      "mapx": "1269837950",
+      "mapy": "375623945"
+    },
+    {
+      "title": "오공일 <b>명동</b>점",
+      "link": "https://ogongil.kr",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-40 지하1층 B101호",
-      "roadAddress": "서울특별시 중구 명동7길 21 지하1층 B101호",
-      "mapx": "1269836829",
-      "mapy": "375645725"
+      "address": "서울특별시 중구 남대문로2가 111-1 2층",
+      "roadAddress": "서울특별시 중구 남대문로 55 2층",
+      "mapx": "1269810557",
+      "mapy": "375624933"
     }
   ]
 }

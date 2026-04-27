@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375729033"
     },
     {
-      "title": "을지돈가스 명동본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 10-5 1층",
-      "roadAddress": "서울특별시 중구 명동9길 10 1층",
-      "mapx": "1269849975",
-      "mapy": "375643266"
-    },
-    {
       "title": "명동돈가스",
       "link": "http://mddongas.co.kr/",
       "category": "음식점>일식>돈가스",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 명동3길 8",
       "mapx": "1269835560",
       "mapy": "375640263"
+    },
+    {
+      "title": "을지돈가스 명동본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 10-5 1층",
+      "roadAddress": "서울특별시 중구 명동9길 10 1층",
+      "mapx": "1269849975",
+      "mapy": "375643266"
     }
   ]
 }

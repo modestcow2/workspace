@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375768090"
     },
     {
-      "title": "백년가짬뽕 광화문점",
-      "link": "",
-      "category": "음식점>중식당",
+      "title": "인사동 화원",
+      "link": "http://instagram.com/choihun81",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 지하1층 백년가짬뽕",
-      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 지하1층 백년가짬뽕",
-      "mapx": "1269789959",
-      "mapy": "375739044"
+      "address": "서울특별시 종로구 관훈동 29-16 인사동 화원",
+      "roadAddress": "서울특별시 종로구 인사동8길 12 인사동 화원",
+      "mapx": "1269859642",
+      "mapy": "375738998"
     }
   ]
 }

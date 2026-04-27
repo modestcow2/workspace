@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -39,7 +39,7 @@
     },
     {
       "title": "더타코부스 NYC 안국점",
-      "link": "",
+      "link": "https://thetacobooth.com/",
       "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375774613"
     },
     {
-      "title": "소금집델리 안국",
-      "link": "https://www.salthousekorea.com",
-      "category": "양식>샌드위치",
+      "title": "파티나",
+      "link": "https://app.catchtable.co.kr/ct/shop/patina",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 101-12 1층",
-      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
-      "mapx": "1269863175",
-      "mapy": "375794136"
+      "address": "서울특별시 종로구 원서동 219 4층",
+      "roadAddress": "서울특별시 종로구 율곡로 83 4층",
+      "mapx": "1269883592",
+      "mapy": "375778205"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375750122"
     },
     {
-      "title": "호앙비엣 종각역점",
-      "link": "https://hoang-viet.com/",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-43 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 43 1층",
-      "mapx": "1269828093",
-      "mapy": "375728773"
-    },
-    {
       "title": "얌얌스파이스",
       "link": "",
       "category": "음식점>태국음식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 '안녕인사동' 3층 4호",
       "mapx": "1269835556",
       "mapy": "375744663"
+    },
+    {
+      "title": "호앙비엣 종각역점",
+      "link": "https://hoang-viet.com/",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-43 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 43 1층",
+      "mapx": "1269828093",
+      "mapy": "375728773"
     },
     {
       "title": "비엣 꽌",

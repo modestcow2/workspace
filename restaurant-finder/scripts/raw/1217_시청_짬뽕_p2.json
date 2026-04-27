@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "371521964"
     },
     {
-      "title": "북경",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 안산시 단원구 고잔동 527-8 1층",
-      "roadAddress": "경기도 안산시 단원구 화랑로 402 1층",
-      "mapx": "1268323238",
-      "mapy": "373208938"
-    },
-    {
       "title": "Chai797 <b>시청</b>점",
       "link": "http://www.chai797.co.kr",
       "category": "음식점>중식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 서소문로 120 ENA Center 빌딩 지하1층",
       "mapx": "1269744832",
       "mapy": "375628896"
+    },
+    {
+      "title": "북경",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 안산시 단원구 고잔동 527-8 1층",
+      "roadAddress": "경기도 안산시 단원구 화랑로 402 1층",
+      "mapx": "1268323238",
+      "mapy": "373208938"
     },
     {
       "title": "또와요<b>짬뽕</b>",

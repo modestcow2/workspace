@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375586996"
     },
     {
-      "title": "단골손님 신촌점",
-      "link": "",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 52-61 2층",
-      "roadAddress": "서울특별시 서대문구 연세로7길 20 2층",
-      "mapx": "1269357464",
-      "mapy": "375577864"
-    },
-    {
       "title": "엄마식탁",
       "link": "https://www.instagram.com/mothers.table",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375666512"
     },
     {
-      "title": "무학바지락칼국수",
+      "title": "단골손님 신촌점",
       "link": "",
-      "category": "한식>칼국수,만두",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 158-29",
-      "roadAddress": "서울특별시 서대문구 통일로35길 6",
-      "mapx": "1269462280",
-      "mapy": "375863988"
+      "address": "서울특별시 서대문구 창천동 52-61 2층",
+      "roadAddress": "서울특별시 서대문구 연세로7길 20 2층",
+      "mapx": "1269357464",
+      "mapy": "375577864"
+    },
+    {
+      "title": "고향전주<b>비빔밥</b> 현대백화점신촌점",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-33 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 10층",
+      "mapx": "1269357533",
+      "mapy": "375558490"
     }
   ]
 }

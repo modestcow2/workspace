@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375755982"
     },
     {
-      "title": "마디그라",
-      "link": "https://www.lumi.co.kr/",
+      "title": "침스버거 광화문",
+      "link": "",
       "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 18-10 B1F",
-      "roadAddress": "서울특별시 종로구 우정국로2길 29 B1F",
-      "mapx": "1269845903",
-      "mapy": "375696467"
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B113-2, B113-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B113-2, B113-3호",
+      "mapx": "1269798147",
+      "mapy": "375710182"
     }
   ]
 }

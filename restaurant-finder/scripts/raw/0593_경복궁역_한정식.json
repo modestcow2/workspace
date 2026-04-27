@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:47 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375777250"
     },
     {
-      "title": "곰솔",
-      "link": "",
-      "category": "한식>한정식",
+      "title": "서촌식당",
+      "link": "http://www.instagram.com/seochondining",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 98 우체국 뒤",
-      "roadAddress": "서울특별시 종로구 자하문로8길 9 통의동 우체국 뒤",
-      "mapx": "1269721001",
-      "mapy": "375787968"
+      "address": "서울특별시 종로구 옥인동 19-50",
+      "roadAddress": "서울특별시 종로구 자하문로17길 12",
+      "mapx": "1269699906",
+      "mapy": "375814609"
     },
     {
       "title": "신안촌 본점",

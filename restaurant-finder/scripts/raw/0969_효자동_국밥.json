@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "관북",
+      "title": "대성집",
       "link": "",
-      "category": "한식>순대,순댓국",
+      "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 11-6 1,2층",
-      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
-      "mapx": "1269808546",
-      "mapy": "375719170"
+      "address": "서울특별시 종로구 행촌동 209-35",
+      "roadAddress": "서울특별시 종로구 사직로 5",
+      "mapx": "1269608828",
+      "mapy": "375727012"
     }
   ]
 }

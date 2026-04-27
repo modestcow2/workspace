@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:37 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 10",
       "mapx": "1269731772",
       "mapy": "375764902"
-    },
-    {
-      "title": "153구포국수 경복궁점",
-      "link": "",
-      "category": "음식점>한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 93-3 1층",
-      "roadAddress": "서울특별시 종로구 사직로 127-6 1층",
-      "mapx": "1269732078",
-      "mapy": "375760801"
     },
     {
       "title": "소박한집",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4",
       "mapx": "1269689428",
       "mapy": "375744412"
+    },
+    {
+      "title": "교남김밥",
+      "link": "http://instagram.com/gyonamgimbap012",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 233 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "mapx": "1269652933",
+      "mapy": "375683803"
     },
     {
       "title": "신세계<b>떡볶이</b>",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:32 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375642444"
     },
     {
+      "title": "<b>명동</b>교자 1호점",
+      "link": "http://www.mdkj.co.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 33-4 명동교자",
+      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
+      "mapx": "1269851666",
+      "mapy": "375634828"
+    },
+    {
       "title": "더식당 <b>명동</b>본점",
       "link": "https://app.catchtable.co.kr/ct/shop/thesikdang",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 퇴계로 129 명동교자 신관명동역점",
       "mapx": "1269861470",
       "mapy": "375611312"
-    },
-    {
-      "title": "<b>명동</b>교자 1호점",
-      "link": "http://www.mdkj.co.kr/",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 33-4 명동교자",
-      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
-      "mapx": "1269851666",
-      "mapy": "375634828"
     }
   ]
 }

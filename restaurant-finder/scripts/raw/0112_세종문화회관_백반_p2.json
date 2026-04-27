@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:58 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375844611"
     },
     {
-      "title": "전주풍남<b>회관</b>",
+      "title": "동백식당",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
     }
   ]
 }

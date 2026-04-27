@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:07:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375764468"
     },
     {
-      "title": "고기꾼김춘배 종로직영점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
-      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
-      "mapx": "1269864928",
-      "mapy": "375690679"
-    },
-    {
       "title": "평양고깃집",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -38,6 +27,28 @@
       "mapy": "375727819"
     },
     {
+      "title": "양탄집 서촌본점",
+      "link": "https://www.instagram.com/yangtanhouse/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 60-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
+      "mapx": "1269720601",
+      "mapy": "375766927"
+    },
+    {
+      "title": "고기꾼김춘배 종로직영점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
+      "mapx": "1269864928",
+      "mapy": "375690679"
+    },
+    {
       "title": "육즙당 <b>광화문</b>점",
       "link": "https://www.instagram.com/yukzupdang_official",
       "category": "한식>육류,고기요리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 10-1 2층",
       "mapx": "1269750174",
       "mapy": "375712635"
-    },
-    {
-      "title": "<b>광화문</b>정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
     }
   ]
 }

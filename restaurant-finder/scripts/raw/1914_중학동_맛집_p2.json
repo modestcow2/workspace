@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:21:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:31:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "솔솥 광화문 경복궁 케이트윈점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 50 지하 1층",
+      "mapx": "1269789606",
+      "mapy": "375748626"
+    },
     {
       "title": "우아라 광화문점",
       "link": "https://www.instagram.com/wooara__",
@@ -27,6 +38,17 @@
       "mapy": "375755019"
     },
     {
+      "title": "폴&amp;밀도 (폴 바셋 광화문점)",
+      "link": "https://www.baristapaulbassett.co.kr/Index.pb",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 1층",
+      "mapx": "1269789138",
+      "mapy": "375747211"
+    },
+    {
       "title": "진가와 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/jinkawagwm",
       "category": "음식점>일식>일식당",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 진가와",
       "mapx": "1269790252",
       "mapy": "375747276"
-    },
-    {
-      "title": "모도우 광화문점",
-      "link": "https://openine.com/PARTY",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 14 트윈트리타워 B동 M층",
-      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 B동 M층",
-      "mapx": "1269799056",
-      "mapy": "375755265"
-    },
-    {
-      "title": "테라로사 광화문점",
-      "link": "https://terarosa.com",
-      "category": "카페,디저트>카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 B동 1층",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 B동 1층",
-      "mapx": "1269798347",
-      "mapy": "375747620"
     }
   ]
 }

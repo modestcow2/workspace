@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375720320"
     },
     {
+      "title": "큰손함흥냉면",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 160 제지하1층 제8호, 제9호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 13 제지하1층 제8호, 제9호",
+      "mapx": "1269744029",
+      "mapy": "375714009"
+    },
+    {
       "title": "평가옥 광화문점",
       "link": "",
       "category": "한식>냉면",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19",
       "mapx": "1269744472",
       "mapy": "375721028"
-    },
-    {
-      "title": "가봉루",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 168 당주빌딩 3층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 5-27 당주빌딩 3층",
-      "mapx": "1269745821",
-      "mapy": "375710389"
     }
   ]
 }

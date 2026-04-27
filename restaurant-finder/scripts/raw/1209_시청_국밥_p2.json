@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375626099"
     },
     {
-      "title": "담원순대 <b>시청</b>본점",
-      "link": "",
+      "title": "태진옥",
+      "link": "https://www.instagram.com/taejinoak_official/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-21 1층",
-      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
-      "mapx": "1269731836",
-      "mapy": "375619522"
+      "address": "서울특별시 중구 태평로1가 31-19 2층",
+      "roadAddress": "서울특별시 중구 무교로 17-25 2층",
+      "mapx": "1269785584",
+      "mapy": "375674370"
     },
     {
       "title": "남파랑<b>국밥</b> 북창점",
@@ -38,17 +38,6 @@
       "mapy": "375633639"
     },
     {
-      "title": "태진옥",
-      "link": "https://www.instagram.com/taejinoak_official/",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 31-19 2층",
-      "roadAddress": "서울특별시 중구 무교로 17-25 2층",
-      "mapx": "1269785584",
-      "mapy": "375674370"
-    },
-    {
       "title": "누리옥 <b>시청</b>역점",
       "link": "https://www.instagram.com/nuriok83",
       "category": "한식>냉면",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 남대문로1길 26-6 2층",
       "mapx": "1269777393",
       "mapy": "375621889"
+    },
+    {
+      "title": "보승회관 <b>시청</b>점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 70-2",
+      "roadAddress": "서울특별시 중구 세종대로 66",
+      "mapx": "1269765651",
+      "mapy": "375621823"
     }
   ]
 }

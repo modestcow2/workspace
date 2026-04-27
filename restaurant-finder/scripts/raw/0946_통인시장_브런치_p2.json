@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:33 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "레스피레베이커리 서촌",
+      "title": "레스피레베이커리카페 서촌",
       "link": "https://instagram.com/___respirer",
       "category": "음식점>카페,디저트",
       "description": "",
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
       "mapx": "1269721449",
       "mapy": "375827651"
-    },
-    {
-      "title": "도토리가든 안국점",
-      "link": "https://www.instagram.com/dotori__seoul",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-45 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
-      "mapx": "1269862903",
-      "mapy": "375780996"
     },
     {
       "title": "애즈라이크 서촌",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
       "mapx": "1269735061",
       "mapy": "375779155"
+    },
+    {
+      "title": "세이지핀치",
+      "link": "http://instagram.com/_sagefinch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 82-1 1층 sagefinch",
+      "roadAddress": "서울특별시 종로구 필운대로1길 8 1층 sagefinch",
+      "mapx": "1269689774",
+      "mapy": "375774485"
     },
     {
       "title": "데케드",

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "코너스토어",
+      "link": "https://www.instagram.com/cornerstoreseoul?igshid=YmMyMTA2M2Y=",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 76-8 1층",
+      "roadAddress": "서울특별시 중구 퇴계로12길 42 1층",
+      "mapx": "1269812471",
+      "mapy": "375577592"
+    },
     {
       "title": "라칸티나",
       "link": "",
@@ -16,15 +27,26 @@
       "mapy": "375662396"
     },
     {
-      "title": "바리에가타 <b>명동</b>",
-      "link": "https://www.variegata.company/",
+      "title": "마노디셰프 <b>명동</b>점",
+      "link": "http://www.manodichef.co.kr/",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
-      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
+      "address": "서울특별시 중구 명동2가 50-14 유네스코회관 11층",
+      "roadAddress": "서울특별시 중구 명동길 26 유네스코회관 11층",
+      "mapx": "1269837519",
+      "mapy": "375634602"
+    },
+    {
+      "title": "pasta ta ta",
+      "link": "https://app.catchtable.co.kr/ct/shop/pastatata",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 115 스몰하우스 빅도어 1층",
+      "roadAddress": "서울특별시 중구 남대문로9길 6 스몰하우스 빅도어 1층",
+      "mapx": "1269819673",
+      "mapy": "375669492"
     },
     {
       "title": "스케줄 오스테리아",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 남대문로 125 iM금융센터 2층 202호",
       "mapx": "1269823089",
       "mapy": "375683770"
-    },
-    {
-      "title": "디라이프스타일키친 광화문점",
-      "link": "https://dlifestyle.co.kr/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
-      "mapx": "1269782701",
-      "mapy": "375684246"
-    },
-    {
-      "title": "마노디셰프 <b>명동</b>점",
-      "link": "http://www.manodichef.co.kr/",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 50-14 유네스코회관 11층",
-      "roadAddress": "서울특별시 중구 명동길 26 유네스코회관 11층",
-      "mapx": "1269837519",
-      "mapy": "375634602"
     }
   ]
 }

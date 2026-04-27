@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375709880"
     },
     {
+      "title": "본우리반상 종로센트로폴리스점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 지하2층",
+      "roadAddress": "서울특별시 종로구 우정국로 26 지하2층",
+      "mapx": "1269836590",
+      "mapy": "375714967"
+    },
+    {
       "title": "소문난집",
       "link": "",
       "category": "한식>국밥",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 수표로 131",
       "mapx": "1269882933",
       "mapy": "375725190"
-    },
-    {
-      "title": "콩뼈숯뼈감자탕",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 42 콩뼈숯뼈감자탕",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 6 콩뼈숯뼈감자탕",
-      "mapx": "1269881876",
-      "mapy": "375737037"
     },
     {
       "title": "일품양평<b>해장국</b> 종각역점",

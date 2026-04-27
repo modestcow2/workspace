@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375786629"
     },
     {
-      "title": "푸페또클럽",
-      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
-      "category": "음식점>이탈리아음식",
+      "title": "틴 서울",
+      "link": "https://www.instagram.com/tiiin.seoul",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 창성동 98-6",
-      "roadAddress": "서울특별시 종로구 자하문로 50-1",
-      "mapx": "1269714513",
-      "mapy": "375805566"
+      "address": "서울특별시 종로구 체부동 133 1~2층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 17 1~2층",
+      "mapx": "1269709368",
+      "mapy": "375775737"
     },
     {
       "title": "타펠룬데 서울",
@@ -38,26 +38,26 @@
       "mapy": "375757053"
     },
     {
-      "title": "오스테리아소띠",
-      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
+      "title": "푸페또클럽",
+      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 91-38",
-      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
-      "mapx": "1269722295",
-      "mapy": "375789547"
+      "address": "서울특별시 종로구 창성동 98-6",
+      "roadAddress": "서울특별시 종로구 자하문로 50-1",
+      "mapx": "1269714513",
+      "mapy": "375805566"
     },
     {
-      "title": "동남",
-      "link": "",
-      "category": "음식점>양식",
+      "title": "고치비",
+      "link": "http://www.instagram.com/osteria_kochibi",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 창성동 138-1 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 42-1 1층",
-      "mapx": "1269715802",
-      "mapy": "375798736"
+      "address": "서울특별시 종로구 누하동 195-2 1층 고치비",
+      "roadAddress": "서울특별시 종로구 필운대로 38 1층 고치비",
+      "mapx": "1269689316",
+      "mapy": "375793391"
     }
   ]
 }

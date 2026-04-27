@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:05 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "레스피레베이커리 서촌",
+      "title": "레스피레베이커리카페 서촌",
       "link": "https://instagram.com/___respirer",
       "category": "음식점>카페,디저트",
       "description": "",
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
       "mapx": "1269721449",
       "mapy": "375827651"
-    },
-    {
-      "title": "오루로",
-      "link": "https://www.instagram.com/oruro.kitchen",
-      "category": "브런치카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 134 1층",
-      "roadAddress": "서울특별시 종로구 자하문로10길 1 1층",
-      "mapx": "1269717183",
-      "mapy": "375796428"
     },
     {
       "title": "동남",
@@ -49,15 +38,26 @@
       "mapy": "375694491"
     },
     {
-      "title": "도트블랭킷 삼청한옥점",
-      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "title": "애즈라이크 서촌",
+      "link": "http://www.instagram.com/aslike_",
       "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 95 1층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
-      "mapx": "1269812371",
-      "mapy": "375800959"
+      "address": "서울특별시 종로구 통의동 7-33 1층 애즈라이크",
+      "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
+      "mapx": "1269733577",
+      "mapy": "375783143"
+    },
+    {
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735061",
+      "mapy": "375779155"
     }
   ]
 }

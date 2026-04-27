@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375590089"
     },
     {
-      "title": "카우<b>떡볶이</b>",
-      "link": "https://smartstore.naver.com/greenbadge/products/7691485943",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 34-40 1층",
-      "roadAddress": "서울특별시 서대문구 이화여대길 88-21 1층",
-      "mapx": "1269439510",
-      "mapy": "375595837"
-    },
-    {
-      "title": "이정희<b>떡볶이</b>",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 341-1",
-      "roadAddress": "서울특별시 서대문구 증가로10길 14",
-      "mapx": "1269233090",
-      "mapy": "375780830"
-    },
-    {
       "title": "철길떡볶기",
       "link": "",
       "category": "분식>떡볶이",
@@ -49,6 +27,17 @@
       "mapy": "375626500"
     },
     {
+      "title": "순이네고릴라<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍은동 409-33",
+      "roadAddress": "서울특별시 서대문구 거북골로 15-2",
+      "mapx": "1269255478",
+      "mapy": "375804952"
+    },
+    {
       "title": "엄마손<b>떡볶이</b>",
       "link": "",
       "category": "분식>떡볶이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 증가로10길 37",
       "mapx": "1269241615",
       "mapy": "375789339"
+    },
+    {
+      "title": "삭 수제튀김 전문점 이화본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 56-33",
+      "roadAddress": "서울특별시 서대문구 이화여대3길 12",
+      "mapx": "1269451103",
+      "mapy": "375580656"
     }
   ]
 }

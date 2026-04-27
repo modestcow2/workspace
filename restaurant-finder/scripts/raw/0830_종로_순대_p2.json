@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375733361"
     },
     {
-      "title": "북촌무궁화",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 137",
-      "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
-      "mapy": "375723618"
-    },
-    {
       "title": "청진동장터<b>순대</b>국",
       "link": "",
       "category": "한식>순대,순댓국",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로20길 24",
       "mapx": "1269953138",
       "mapy": "375653833"
+    },
+    {
+      "title": "북촌무궁화",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 137",
+      "roadAddress": "서울특별시 종로구 수표로 126",
+      "mapx": "1269889329",
+      "mapy": "375723618"
     }
   ]
 }

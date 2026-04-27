@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375584236"
     },
     {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
+      "title": "청화 우육도삭면",
+      "link": "https://cheonghwa-noodle.wywh.co.kr/",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
+      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
+      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
     },
     {
       "title": "잘빠진메밀 서순라길점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로8길 73 잘빠진메밀 서순라길점",
       "mapx": "1269915043",
       "mapy": "375740448"
-    },
-    {
-      "title": "청화 우육도삭면",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
-      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     }
   ]
 }

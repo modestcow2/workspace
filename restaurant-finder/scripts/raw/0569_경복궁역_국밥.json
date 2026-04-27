@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:36 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "전주콩나물해장국",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 1-3",
-      "roadAddress": "서울특별시 종로구 자하문로 3",
-      "mapx": "1269722639",
-      "mapy": "375765039"
-    },
     {
       "title": "백암박가네순대국",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
       "mapx": "1269710531",
       "mapy": "375791821"
+    },
+    {
+      "title": "전주콩나물해장국",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 1-3",
+      "roadAddress": "서울특별시 종로구 자하문로 3",
+      "mapx": "1269722639",
+      "mapy": "375765039"
     },
     {
       "title": "키친온유",
@@ -50,7 +50,7 @@
     },
     {
       "title": "사발",
-      "link": "https://m.booking.naver.com/booking/6/bizes/700305/items/5403470?area=pll",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",

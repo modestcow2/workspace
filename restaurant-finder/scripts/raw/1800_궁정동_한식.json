@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375871066"
     },
     {
-      "title": "독립식당",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-5",
-      "roadAddress": "서울특별시 종로구 자하문로33길 10",
-      "mapx": "1269693356",
-      "mapy": "375862144"
-    },
-    {
       "title": "청기와식당",
       "link": "",
       "category": "한식>한정식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 86",
       "mapx": "1269705907",
       "mapy": "375836188"
+    },
+    {
+      "title": "전주식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 75",
+      "roadAddress": "서울특별시 종로구 자하문로 112",
+      "mapx": "1269701822",
+      "mapy": "375860401"
     }
   ]
 }

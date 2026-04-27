@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:42 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,28 +27,6 @@
       "mapy": "375671396"
     },
     {
-      "title": "을지면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 55-1",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 12",
-      "mapx": "1269886066",
-      "mapy": "375736812"
-    },
-    {
-      "title": "류경회관 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
-      "mapx": "1269818280",
-      "mapy": "375724939"
-    },
-    {
       "title": "유진식당",
       "link": "",
       "category": "한식>냉면",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 종로17길 40",
       "mapx": "1269882793",
       "mapy": "375720328"
+    },
+    {
+      "title": "함흥곰보<b>냉면</b>",
+      "link": "http://www.gomborm.com/",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인의동 112-2 세운스퀘어 401호",
+      "roadAddress": "서울특별시 종로구 창경궁로 109 세운스퀘어 401호",
+      "mapx": "1269969155",
+      "mapy": "375716701"
+    },
+    {
+      "title": "을지면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 55-1",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 12",
+      "mapx": "1269886066",
+      "mapy": "375736812"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "미트볼라운지 X 아날로그키친 삼청점",
-      "link": "https://app.catchtable.co.kr/ct/shop/meatball_lounge_sj",
+      "link": "http://www.instagram.com/meatball_lounge",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
       "mapx": "1269816796",
       "mapy": "375833417"
+    },
+    {
+      "title": "PKM가든 레스토랑",
+      "link": "https://catchtable.co.kr/pkm_restaurant",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
+      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
+      "mapx": "1269801406",
+      "mapy": "375841122"
     },
     {
       "title": "플롭 안국",
@@ -38,26 +49,15 @@
       "mapy": "375779283"
     },
     {
-      "title": "<b>삼청동</b> 로마네꽁띠",
-      "link": "https://www.instagram.com/romaneeconti_samcheongdong",
-      "category": "음식점>양식",
+      "title": "콩지POT지",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-6 로마네꽁띠",
-      "roadAddress": "서울특별시 종로구 북촌로5나길 83-6 로마네꽁띠",
-      "mapx": "1269824258",
-      "mapy": "375844404"
-    },
-    {
-      "title": "PKM가든 레스토랑",
-      "link": "https://catchtable.co.kr/pkm_restaurant",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
-      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
-      "mapx": "1269801406",
-      "mapy": "375841122"
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
     }
   ]
 }

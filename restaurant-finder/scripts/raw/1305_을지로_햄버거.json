@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:21 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375648615"
     },
     {
+      "title": "바스버거 <b>을지로</b>점",
+      "link": "http://www.basburger.net/",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 320 시어소호텔 지하1층",
+      "roadAddress": "서울특별시 중구 을지로12길 11 시어소호텔 지하1층",
+      "mapx": "1269911768",
+      "mapy": "375656618"
+    },
+    {
       "title": "패티바이번 현대아울렛 동대문",
       "link": "",
       "category": "음식점>햄버거",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 장충단로 275 (을지로6가) 1층",
       "mapx": "1270091145",
       "mapy": "375690812"
-    },
-    {
-      "title": "바스버거 <b>을지로</b>점",
-      "link": "http://www.basburger.net/",
-      "category": "양식>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 320 시어소호텔 지하1층",
-      "roadAddress": "서울특별시 중구 을지로12길 11 시어소호텔 지하1층",
-      "mapx": "1269911768",
-      "mapy": "375656618"
     }
   ]
 }

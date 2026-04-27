@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:06 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375721602"
     },
     {
-      "title": "오트 연희",
-      "link": "https://www.instagram.com/oatt_brunch",
-      "category": "브런치카페",
+      "title": "산스",
+      "link": "https://www.instagram.com/sans_meals",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 89-50 오트",
-      "roadAddress": "서울특별시 서대문구 연희로25길 95 오트",
-      "mapx": "1269322656",
-      "mapy": "375695395"
+      "address": "서울특별시 서대문구 연희동 708-3 1층",
+      "roadAddress": "서울특별시 서대문구 홍연4길 33 1층",
+      "mapx": "1269289358",
+      "mapy": "375754168"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:03 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375796788"
     },
     {
-      "title": "오스테리아소띠",
-      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
-      "category": "음식점>이탈리아음식",
+      "title": "스파게티가있는풍경 광화문점",
+      "link": "https://www.instagram.com/pomodori_park",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 91-38",
-      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
-      "mapx": "1269722295",
-      "mapy": "375789547"
+      "address": "서울특별시 종로구 신문로1가 1-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
+      "mapx": "1269761832",
+      "mapy": "375704933"
     },
     {
-      "title": "까사 이태리아",
-      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "title": "비텔로소띠",
+      "link": "http://catchtable.co.kr/vitellosotti",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
-      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
-      "mapx": "1269723542",
-      "mapy": "375787841"
+      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
+      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
+      "mapx": "1269727845",
+      "mapy": "375769969"
     }
   ]
 }

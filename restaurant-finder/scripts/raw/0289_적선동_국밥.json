@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:25 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375744582"
     },
     {
-      "title": "통영굴밥 경복궁점",
-      "link": "",
-      "category": "한식>굴요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
-      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
-      "mapx": "1269733152",
-      "mapy": "375753857"
-    },
-    {
       "title": "청담원",
       "link": "",
       "category": "음식점>한식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
       "mapx": "1269733437",
       "mapy": "375753767"
+    },
+    {
+      "title": "통영굴밥 경복궁점",
+      "link": "",
+      "category": "한식>굴요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
+      "mapx": "1269733152",
+      "mapy": "375753857"
     },
     {
       "title": "명작신의주찹쌀순대",

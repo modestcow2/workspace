@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:01 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375786507"
     },
     {
-      "title": "경춘자의라면땡기는날",
+      "title": "순이네가게",
       "link": "",
-      "category": "분식>라면",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 화동 138-21",
-      "roadAddress": "서울특별시 종로구 율곡로3길 82",
-      "mapx": "1269822347",
-      "mapy": "375793111"
-    },
-    {
-      "title": "깡통만두",
-      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-22 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
-      "mapx": "1269860918",
-      "mapy": "375781763"
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
     },
     {
       "title": "개성만두 궁",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동10길 11-3",
       "mapx": "1269853889",
       "mapy": "375742917"
+    },
+    {
+      "title": "경춘자의라면땡기는날",
+      "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-21",
+      "roadAddress": "서울특별시 종로구 율곡로3길 82",
+      "mapx": "1269822347",
+      "mapy": "375793111"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:49 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로15길 18",
       "mapx": "1269700183",
       "mapy": "375806564"
-    },
-    {
-      "title": "원조할머니 기름<b>떡볶이</b>",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 94-1",
-      "roadAddress": "서울특별시 종로구 자하문로15길 13",
-      "mapx": "1269703204",
-      "mapy": "375806957"
     },
     {
       "title": "만나분식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
       "mapx": "1269709557",
       "mapy": "375763909"
+    },
+    {
+      "title": "원조할머니 기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 94-1",
+      "roadAddress": "서울특별시 종로구 자하문로15길 13",
+      "mapx": "1269703204",
+      "mapy": "375806957"
     },
     {
       "title": "소풍가는날 경복궁점",

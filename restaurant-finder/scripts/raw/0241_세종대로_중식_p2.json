@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:02 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375578385"
     },
     {
-      "title": "Chai797 광화문SFC점",
-      "link": "http://www.chai797.co.kr/",
-      "category": "음식점>중식당",
+      "title": "송쉐프 숭례문점",
+      "link": "",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 B2층 F&B 202호",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 B2층 F&B 202호",
-      "mapx": "1269782701",
-      "mapy": "375684246"
+      "address": "서울특별시 중구 남대문로4가 45 대한서울상공회의소 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 39 대한서울상공회의소 지하1층",
+      "mapx": "1269737753",
+      "mapy": "375607137"
     }
   ]
 }

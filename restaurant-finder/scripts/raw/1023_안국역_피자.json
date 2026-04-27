@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -21,8 +21,8 @@
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사간동 62-1",
-      "roadAddress": "서울특별시 종로구 삼청로 22-7",
+      "address": "서울특별시 종로구 사간동 62-1 스미스가좋아하는한옥 삼청동맛집",
+      "roadAddress": "서울특별시 종로구 삼청로 22-7 스미스가좋아하는한옥 삼청동맛집",
       "mapx": "1269801792",
       "mapy": "375779378"
     },
@@ -38,15 +38,15 @@
       "mapy": "375778205"
     },
     {
-      "title": "레스토랑 담",
-      "link": "https://www.instagram.com/restaurant_dam",
+      "title": "콩지POT지",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 12-2 1층",
-      "roadAddress": "서울특별시 종로구 인사동길 30-7 1층",
-      "mapx": "1269860243",
-      "mapy": "375736433"
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
     },
     {
       "title": "로우파이브 안국",

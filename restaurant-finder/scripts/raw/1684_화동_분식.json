@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:18 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375793111"
     },
     {
-      "title": "북촌호떡",
-      "link": "",
-      "category": "분식>호떡",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 화동 72",
-      "roadAddress": "서울특별시 종로구 북촌로5가길 38",
-      "mapx": "1269816004",
-      "mapy": "375811588"
-    },
-    {
       "title": "삼청동호떡",
       "link": "https://www.instagram.com/explore/tags/%EC%82%BC%EC%B2%AD%EB%8F%99%ED%98%B8%EB%96%A1/",
       "category": "분식>호떡",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로3길 82-6",
       "mapx": "1269825202",
       "mapy": "375792245"
+    },
+    {
+      "title": "북촌호떡",
+      "link": "",
+      "category": "분식>호떡",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 72",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 38",
+      "mapx": "1269816004",
+      "mapy": "375811588"
     }
   ]
 }

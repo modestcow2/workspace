@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:39 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375632554"
     },
     {
-      "title": "오밤족 세종<b>시청</b>점",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "세종특별자치시 보람동 738 대방디엠시티상가 b동 128-131호",
-      "roadAddress": "세종특별자치시 한누리대로 2165 대방디엠시티상가 b동 128-131호",
-      "mapx": "1272870901",
-      "mapy": "364773089"
-    },
-    {
       "title": "허니<b>족발</b> 남양본점",
       "link": "https://www.instagram.com/honey_jokbal",
       "category": "한식>족발,보쌈",
@@ -36,6 +25,17 @@
       "roadAddress": "경기도 화성시 만세구 남양읍 역골로60번길 2 1층 허니족발",
       "mapx": "1268252482",
       "mapy": "372044075"
+    },
+    {
+      "title": "오밤족 세종<b>시청</b>점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "세종특별자치시 보람동 738 대방디엠시티상가 b동 128-131호",
+      "roadAddress": "세종특별자치시 한누리대로 2165 대방디엠시티상가 b동 128-131호",
+      "mapx": "1272870901",
+      "mapy": "364773089"
     },
     {
       "title": "라라<b>족발</b>",

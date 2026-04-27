@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:51 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375706386"
     },
     {
-      "title": "도량",
-      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
-      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
-      "mapx": "1269724921",
-      "mapy": "375780066"
-    },
-    {
       "title": "무탄 광화문점",
       "link": "https://naver.me/5uc3NJV7",
       "category": "중식>중식당",
@@ -38,17 +27,6 @@
       "mapy": "375696647"
     },
     {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
-    },
-    {
       "title": "신승관",
       "link": "https://m.blog.naver.com/wmedia77/223171955325",
       "category": "중식>중식당",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 종로 19 217호",
       "mapx": "1269798606",
       "mapy": "375708344"
+    },
+    {
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
+    },
+    {
+      "title": "친니",
+      "link": "http://www.chinee.co.kr/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
+      "mapx": "1269762577",
+      "mapy": "375724523"
     }
   ]
 }

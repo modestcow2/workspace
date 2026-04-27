@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:02 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375738365"
     },
     {
-      "title": "콩뼈숯뼈감자탕",
+      "title": "밀양손만두",
       "link": "",
-      "category": "음식점>한식",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 42 콩뼈숯뼈감자탕",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 6 콩뼈숯뼈감자탕",
-      "mapx": "1269881876",
-      "mapy": "375737037"
+      "address": "서울특별시 종로구 계동 107-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 41 1층",
+      "mapx": "1269866713",
+      "mapy": "375791625"
     }
   ]
 }

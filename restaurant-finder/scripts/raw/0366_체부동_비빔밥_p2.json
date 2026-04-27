@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:01 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375749073"
     },
     {
+      "title": "쭈먹",
+      "link": "",
+      "category": "한식>주꾸미요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 193",
+      "roadAddress": "서울특별시 종로구 자하문로1길 20",
+      "mapx": "1269712708",
+      "mapy": "375765369"
+    },
+    {
       "title": "<b>체부동</b> 수제비와 보리밥",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 16 1층",
       "mapx": "1269710433",
       "mapy": "375777698"
-    },
-    {
-      "title": "옛날국수맛집",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 47-1 옛날국수맛집",
-      "roadAddress": "서울특별시 종로구 자하문로 11 옛날국수맛집",
-      "mapx": "1269721333",
-      "mapy": "375770705"
     }
   ]
 }

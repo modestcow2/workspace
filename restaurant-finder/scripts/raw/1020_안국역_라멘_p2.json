@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765832"
     },
     {
-      "title": "도모다찌<b>라멘</b>",
-      "link": "",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 132-2",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 32",
-      "mapx": "1269893871",
-      "mapy": "375741791"
-    },
-    {
       "title": "멘츠루 종로점",
       "link": "https://app.catchtable.co.kr/ct/shop/mentsurujn",
       "category": "음식점>일식>일본식라면",
@@ -49,15 +38,26 @@
       "mapy": "375724459"
     },
     {
-      "title": "산들바람 : 소요카제",
-      "link": "https://www.instagram.com/soyokaze_seoul",
-      "category": "음식점>일식>일식당",
+      "title": "도모다찌<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 144 2층 소요카제",
-      "roadAddress": "서울특별시 종로구 인사동길 59 2층 소요카제",
-      "mapx": "1269834025",
-      "mapy": "375751516"
+      "address": "서울특별시 종로구 익선동 132-2",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 32",
+      "mapx": "1269893871",
+      "mapy": "375741791"
+    },
+    {
+      "title": "계도 케이트윈타워",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 B1층 19-2호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 B1층 19-2호",
+      "mapx": "1269791966",
+      "mapy": "375746798"
     }
   ]
 }

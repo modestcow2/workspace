@@ -1,12 +1,34 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:50 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
+      "title": "유소바 안국역점",
+      "link": "https://www.instagram.com/usoba.kr",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-56 1층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 32 1층",
+      "mapx": "1269874771",
+      "mapy": "375794190"
+    },
+    {
+      "title": "진작 카키",
+      "link": "https://naver.me/xWzWzIYt",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-44 진작카키 안국점",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 38 진작카키 안국점",
+      "mapx": "1269871165",
+      "mapy": "375794798"
+    },
+    {
       "title": "더타코부스 NYC 안국점",
-      "link": "",
+      "link": "https://thetacobooth.com/",
       "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
@@ -16,48 +38,26 @@
       "mapy": "375774613"
     },
     {
-      "title": "도토리가든 안국점",
-      "link": "https://www.instagram.com/dotori__seoul",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-45 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
-      "mapx": "1269862903",
-      "mapy": "375780996"
-    },
-    {
-      "title": "호이식 종로 안국",
+      "title": "안국약방",
       "link": "",
-      "category": "한식>칼국수,만두",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-7 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
-      "mapx": "1269863069",
-      "mapy": "375777908"
+      "address": "서울특별시 종로구 재동 91 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
+      "mapx": "1269861688",
+      "mapy": "375773871"
     },
     {
-      "title": "ETF베이커리",
-      "link": "https://app.catchtable.co.kr/ct/shop/etfbakery?from=share&type=WAITING",
-      "category": "카페,디저트>베이커리",
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 107-1 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 3 1층",
-      "mapx": "1269858052",
-      "mapy": "375772153"
-    },
-    {
-      "title": "아모르나폴리 안국점",
-      "link": "https://booking.kakao.com/short/yw7YSaYnai",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 144-2 1, 2층",
-      "roadAddress": "서울특별시 종로구 계동길 15 1, 2층",
-      "mapx": "1269866582",
-      "mapy": "375779731"
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
     }
   ]
 }

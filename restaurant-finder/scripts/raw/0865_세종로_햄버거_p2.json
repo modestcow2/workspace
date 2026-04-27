@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:54 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,17 +12,6 @@
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
       "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
-      "title": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
-      "link": "",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100",
-      "roadAddress": "서울특별시 종로구 세종대로 178",
       "mapx": "1269778819",
       "mapy": "375721535"
     },
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 3 1~3층",
       "mapx": "1269762246",
       "mapy": "375715215"
+    },
+    {
+      "title": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100",
+      "roadAddress": "서울특별시 종로구 세종대로 178",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:07 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375756107"
     },
     {
-      "title": "통영굴밥 경복궁점",
-      "link": "",
-      "category": "한식>굴요리",
+      "title": "족발야시장&amp;무청감자탕 광화문점",
+      "link": "https://go.catchtable.co.kr/zyn34t",
+      "category": "육류,고기요리>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
-      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
-      "mapx": "1269733152",
-      "mapy": "375753857"
+      "address": "서울특별시 종로구 당주동 100 지상1층 101호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지상1층 101호",
+      "mapx": "1269728682",
+      "mapy": "375719236"
     }
   ]
 }

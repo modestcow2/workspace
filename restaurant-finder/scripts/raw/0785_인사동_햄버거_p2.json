@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:17 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "잭잭 안국점",
-      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 159 101호, 201호",
-      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
-      "mapx": "1269845845",
-      "mapy": "375765164"
-    },
     {
       "title": "니즈버거 안국점",
       "link": "https://www.instagram.com/needs_burger",
@@ -27,15 +16,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "버거옥 종로점",
-      "link": "",
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
       "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 56-24 1층~4층",
-      "roadAddress": "서울특별시 종로구 삼일대로 396 1층~4층",
-      "mapx": "1269879939",
-      "mapy": "375698705"
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
     },
     {
       "title": "버거리 종각역점",
@@ -49,15 +38,26 @@
       "mapy": "375704080"
     },
     {
-      "title": "마디그라",
-      "link": "https://www.lumi.co.kr/",
+      "title": "버거옥 종로점",
+      "link": "",
       "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 18-10 B1F",
-      "roadAddress": "서울특별시 종로구 우정국로2길 29 B1F",
-      "mapx": "1269845903",
-      "mapy": "375696467"
+      "address": "서울특별시 종로구 종로2가 56-24 1층~4층",
+      "roadAddress": "서울특별시 종로구 삼일대로 396 1층~4층",
+      "mapx": "1269879939",
+      "mapy": "375698705"
+    },
+    {
+      "title": "맘스터치 종각역점",
+      "link": "https://momstouch.co.kr",
+      "category": "양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 102-1 2층",
+      "roadAddress": "서울특별시 종로구 종로 62-1 2층",
+      "mapx": "1269843665",
+      "mapy": "375699467"
     }
   ]
 }

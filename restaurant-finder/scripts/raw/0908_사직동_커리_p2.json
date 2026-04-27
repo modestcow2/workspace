@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:15 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375777902"
     },
     {
+      "title": "사발",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
+      "mapx": "1269724791",
+      "mapy": "375735857"
+    },
+    {
       "title": "후라토식당 경복궁 본점",
       "link": "http://furato.co.kr/",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 63호 후라토식당",
       "mapx": "1269740978",
       "mapy": "375720853"
-    },
-    {
-      "title": "덮장",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 도렴동 60 지하1층 35호,36호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 37 지하1층 35호,36호",
-      "mapx": "1269742286",
-      "mapy": "375736565"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375825416"
     },
     {
-      "title": "덕이나루",
-      "link": "https://instagram.com/duginaru",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 27 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 65-6 1층",
-      "mapx": "1269688873",
-      "mapy": "375800240"
-    },
-    {
       "title": "토방",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 66-1",
       "mapx": "1269709589",
       "mapy": "375819609"
+    },
+    {
+      "title": "서촌주점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 31 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 59 1층",
+      "mapx": "1269692323",
+      "mapy": "375799084"
     }
   ]
 }

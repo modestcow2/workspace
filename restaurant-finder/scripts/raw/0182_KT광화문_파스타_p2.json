@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:32 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:09:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375720930"
     },
     {
+      "title": "<b>KT광화문빌딩</b>West입구",
+      "link": "",
+      "category": "도로시설>방면정보",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로",
+      "roadAddress": "",
+      "mapx": "1269784385",
+      "mapy": "375720291"
+    },
+    {
       "title": "<b>KT광화문빌딩</b>West주차장입출구",
       "link": "",
       "category": "도로시설>방면정보",
@@ -47,17 +58,6 @@
       "roadAddress": "",
       "mapx": "1269781282",
       "mapy": "375726150"
-    },
-    {
-      "title": "<b>KT광화문빌딩</b>East입구",
-      "link": "",
-      "category": "도로시설>방면정보",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동",
-      "roadAddress": "",
-      "mapx": "1269785218",
-      "mapy": "375720150"
     }
   ]
 }

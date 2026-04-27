@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:01 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "청화 우육도삭면",
-      "link": "",
+      "link": "https://cheonghwa-noodle.wywh.co.kr/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -27,17 +27,6 @@
       "mapy": "375708344"
     },
     {
-      "title": "<b>종로</b>수제비",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1",
-      "mapx": "1269797994",
-      "mapy": "375706931"
-    },
-    {
       "title": "광화문미진",
       "link": "",
       "category": "음식점>한식",
@@ -49,13 +38,24 @@
       "mapy": "375705485"
     },
     {
-      "title": "윤찬식당",
-      "link": "https://www.instagram.com/yunchan_bistro_sotasty",
+      "title": "<b>종로</b>수제비",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하1층 B105-3호(르메이에르종로타운)",
-      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B105-3호(르메이에르종로타운)",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1",
+      "mapx": "1269797994",
+      "mapy": "375706931"
+    },
+    {
+      "title": "장춘칼국수",
+      "link": "https://www.instagram.com/jang.chun_kalguksu",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 113-4호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 113-4호",
       "mapx": "1269798606",
       "mapy": "375708344"
     }

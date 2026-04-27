@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375733980"
     },
     {
+      "title": "파작",
+      "link": "https://store.tossplace.com/order/136462",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 43-11 1층 파작",
+      "roadAddress": "서울특별시 종로구 청계천로 57 1층 파작",
+      "mapx": "1269840599",
+      "mapy": "375689410"
+    },
+    {
       "title": "소금집델리 안국",
       "link": "https://www.salthousekorea.com",
       "category": "양식>샌드위치",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
       "mapx": "1269812371",
       "mapy": "375800959"
-    },
-    {
-      "title": "H라운지",
-      "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-21",
-      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
     }
   ]
 }

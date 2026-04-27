@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:58 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375801579"
     },
     {
+      "title": "차이들 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층 307, 308호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
       "title": "안동장",
       "link": "",
       "category": "중식>중식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 을지로 124",
       "mapx": "1269915576",
       "mapy": "375661354"
-    },
-    {
-      "title": "도원",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 평동 164 서울적십자병원 별관 3층 도원",
-      "roadAddress": "서울특별시 종로구 새문안로 9 서울적십자병원 별관 3층 도원",
-      "mapx": "1269673413",
-      "mapy": "375669224"
     }
   ]
 }

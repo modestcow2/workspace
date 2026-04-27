@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:50 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375734646"
     },
     {
+      "title": "영천떡볶이야",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 294 B열 8호",
+      "roadAddress": "서울특별시 서대문구 영천시장길 27 B열 8호",
+      "mapx": "1269610995",
+      "mapy": "375709023"
+    },
+    {
       "title": "소소떡볶이 경희궁자이점",
       "link": "https://www.instagram.com/soso_gyeonghuigung?igsh=bGU5MzdpMnc4ZXN6&utm_source=qr",
       "category": "음식점>분식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 송월길 155 경희궁자이 상가 4109호",
       "mapx": "1269613066",
       "mapy": "375715570"
-    },
-    {
-      "title": "능라밥상",
-      "link": "https://www.facebook.com/",
-      "category": "한식>이북음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 행촌동 1-64 능라밥상",
-      "roadAddress": "서울특별시 종로구 사직로2길 14 능라밥상",
-      "mapx": "1269640183",
-      "mapy": "375729551"
     },
     {
       "title": "갈현동 할머니 떡볶이 둘째네",

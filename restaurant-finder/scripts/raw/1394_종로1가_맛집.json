@@ -1,17 +1,28 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:02 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "정백어가 광화문 피맛골본점",
-      "link": "",
-      "category": "한식>생선구이",
+      "title": "두르가 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/durga",
+      "category": "음식점>인도음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
+      "mapx": "1269797390",
+      "mapy": "375705681"
+    },
+    {
+      "title": "츠키라멘",
+      "link": "https://www.instagram.com/tsuki_ramen1",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 B1 108-1-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 B1 108-1-3호",
       "mapx": "1269798606",
       "mapy": "375708344"
     },
@@ -27,26 +38,15 @@
       "mapy": "375708344"
     },
     {
-      "title": "츠키라멘",
-      "link": "https://www.instagram.com/tsuki_ramen1",
-      "category": "음식점>일식>일본식라면",
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 B1 108-1-3호",
-      "roadAddress": "서울특별시 종로구 종로 19 B1 108-1-3호",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
       "mapx": "1269798606",
       "mapy": "375708344"
-    },
-    {
-      "title": "두르가 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/durga",
-      "category": "음식점>인도음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
-      "mapx": "1269797390",
-      "mapy": "375705681"
     },
     {
       "title": "광화문미진",

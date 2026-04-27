@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "소풍 독립문역점",
-      "link": "",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 304-15 1층",
-      "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
-      "mapx": "1269649269",
-      "mapy": "375737152"
-    },
     {
       "title": "서촌기와집 본점",
       "link": "http://서촌기와집.com/",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 35",
       "mapx": "1269702575",
       "mapy": "375765504"
+    },
+    {
+      "title": "소풍 독립문역점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
+      "mapx": "1269649269",
+      "mapy": "375737152"
     },
     {
       "title": "삼정하누 광화문점",

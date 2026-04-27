@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:47 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375721808"
     },
     {
+      "title": "뒷골목 이층집 도화 솥밥",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 3-2 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-10 2층",
+      "mapx": "1269742014",
+      "mapy": "375723516"
+    },
+    {
       "title": "정준호스시",
       "link": "",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
       "mapx": "1269730165",
       "mapy": "375613584"
-    },
-    {
-      "title": "<b>오마카세</b> 오사이초밥 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     }
   ]
 }

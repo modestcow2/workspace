@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -39,7 +39,7 @@
     },
     {
       "title": "JH텍사스바",
-      "link": "https://www.instagram.com/jhtexasbar_official",
+      "link": "https://linktr.ee/JHtexasbar",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375688120"
     },
     {
-      "title": "경성<b>치킨</b> 광화문스퀘어점",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
+      "title": "시티호프<b>치킨</b>",
+      "link": "https://www.instagram.com/city_hof_chicken_1992",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 135-2",
-      "roadAddress": "서울특별시 종로구 새문안로 96",
-      "mapx": "1269754434",
-      "mapy": "375699667"
+      "address": "서울특별시 중구 북창동 97 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 26-4 1층",
+      "mapx": "1269776229",
+      "mapy": "375622533"
     }
   ]
 }

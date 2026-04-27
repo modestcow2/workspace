@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "해피니스 대학로점",
-      "link": "https://blog.naver.com/happieness_hyehwa",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 164-1 세훈빌딩 1층",
-      "roadAddress": "서울특별시 종로구 대학로11길 40 세훈빌딩 1층",
-      "mapx": "1269996673",
-      "mapy": "375824470"
-    },
     {
       "title": "한양중식 종로점",
       "link": "http://www.instagram.com/haanyang/",
@@ -27,28 +16,6 @@
       "mapy": "375706386"
     },
     {
-      "title": "안동장",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
-    },
-    {
-      "title": "서래향 대학로점",
-      "link": "https://www.instagram.com/verefood_official",
-      "category": "음식점>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 동숭동 1-94 1층",
-      "roadAddress": "서울특별시 종로구 대학로12길 64 1층",
-      "mapx": "1270036981",
-      "mapy": "375812584"
-    },
-    {
       "title": "갸우뚱",
       "link": "https://app.catchtable.co.kr/ct/shop/gyauttung_seoul",
       "category": "중식>중식당",
@@ -58,6 +25,39 @@
       "roadAddress": "서울특별시 종로구 대학로9길 25",
       "mapx": "1270004372",
       "mapy": "375816140"
+    },
+    {
+      "title": "해피니스 대학로점",
+      "link": "https://blog.naver.com/happieness_hyehwa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 164-1 세훈빌딩 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 40 세훈빌딩 1층",
+      "mapx": "1269996673",
+      "mapy": "375824470"
+    },
+    {
+      "title": "차이들 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층 307, 308호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "안동장",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 315-1",
+      "roadAddress": "서울특별시 중구 을지로 124",
+      "mapx": "1269915576",
+      "mapy": "375661354"
     }
   ]
 }

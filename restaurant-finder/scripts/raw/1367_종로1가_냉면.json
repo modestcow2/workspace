@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:50 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "더미 광화문본점",
-      "link": "http://www.hanutheme.com/",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르 3층 더미 본점",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 3층 더미 본점",
-      "mapx": "1269798488",
-      "mapy": "375706671"
-    },
     {
       "title": "김삼보 <b>종로</b>점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 종로 19",
       "mapx": "1269798605",
       "mapy": "375708344"
+    },
+    {
+      "title": "더미 광화문본점",
+      "link": "http://www.hanutheme.com/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 3층 더미 본점",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 3층 더미 본점",
+      "mapx": "1269798488",
+      "mapy": "375706671"
     },
     {
       "title": "윤찬식당",
@@ -49,15 +49,15 @@
       "mapy": "375708344"
     },
     {
-      "title": "더맛있는김밥",
+      "title": "남포면옥",
       "link": "",
-      "category": "분식>김밥",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
-      "mapx": "1269798605",
-      "mapy": "375708344"
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
     }
   ]
 }

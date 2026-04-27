@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "두오모",
-      "link": "https://catchtable.co.kr/duomo",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 40-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로16길 5 1층",
-      "mapx": "1269715675",
-      "mapy": "375816121"
-    },
     {
       "title": "고치비",
       "link": "http://www.instagram.com/osteria_kochibi",
@@ -27,15 +16,26 @@
       "mapy": "375793391"
     },
     {
-      "title": "까델루뽀",
-      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
+      "title": "르 큐제",
+      "link": "https://app.catchtable.co.kr/ct/shop/leqg_seochon?from=share&type=DINING",
+      "category": "음식점>프랑스음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 36-1 2층",
+      "roadAddress": "서울특별시 종로구 자하문로9길 34 2층",
+      "mapx": "1269693756",
+      "mapy": "375795310"
+    },
+    {
+      "title": "두오모",
+      "link": "https://catchtable.co.kr/duomo",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 39-1",
-      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
-      "mapx": "1269714259",
-      "mapy": "375818165"
+      "address": "서울특별시 종로구 효자동 40-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5 1층",
+      "mapx": "1269715675",
+      "mapy": "375816121"
     },
     {
       "title": "데케드",
@@ -49,15 +49,15 @@
       "mapy": "375793249"
     },
     {
-      "title": "비스트로 친친",
-      "link": "https://app.catchtable.co.kr/ct/shop/Bistro_chin_chin",
+      "title": "까델루뽀",
+      "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 164-8 1층 비스트로친친",
-      "roadAddress": "서울특별시 종로구 효자로13길 54 1층 비스트로친친",
-      "mapx": "1269727901",
-      "mapy": "375821688"
+      "address": "서울특별시 종로구 효자동 39-1",
+      "roadAddress": "서울특별시 종로구 자하문로16길 5-5",
+      "mapx": "1269714259",
+      "mapy": "375818165"
     }
   ]
 }

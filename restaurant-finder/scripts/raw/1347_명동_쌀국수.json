@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375684612"
     },
     {
-      "title": "타이24",
-      "link": "",
-      "category": "음식점>태국음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-64 3층",
-      "roadAddress": "서울특별시 중구 명동9길 33 3층",
-      "mapx": "1269841157",
-      "mapy": "375652430"
-    },
-    {
       "title": "꾸에흐엉",
       "link": "",
       "category": "음식점>베트남음식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 퇴계로20길 19 2층",
       "mapx": "1269859338",
       "mapy": "375593818"
+    },
+    {
+      "title": "타이24",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-64 3층",
+      "roadAddress": "서울특별시 중구 명동9길 33 3층",
+      "mapx": "1269841157",
+      "mapy": "375652430"
     },
     {
       "title": "포언 시청점",

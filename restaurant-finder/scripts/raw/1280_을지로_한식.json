@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:10 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "산청숯불가든 <b>을지로</b> 2호점",
-      "link": "https://www.instagram.com/sancheongin",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 302-1 별관 2층",
-      "roadAddress": "서울특별시 중구 을지로14길 12 별관 2층",
-      "mapx": "1269919844",
-      "mapy": "375656470"
-    },
     {
       "title": "도야집 <b>을지로</b>점",
       "link": "https://www.instagram.com/doyajib_",
@@ -27,37 +16,48 @@
       "mapy": "375640360"
     },
     {
-      "title": "느루집 <b>을지로</b>점",
+      "title": "미나리밭오리사냥 <b>을지로</b>점",
       "link": "",
-      "category": "한식>닭갈비",
+      "category": "한식>오리요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 107-1 지하 1층 104호(을지로 3가)",
-      "roadAddress": "서울특별시 중구 마른내로 27 지하 1층 104호(을지로 3가)",
-      "mapx": "1269913572",
-      "mapy": "375650245"
+      "address": "서울특별시 중구 을지로3가 302-1 1층",
+      "roadAddress": "서울특별시 중구 을지로14길 12 1층",
+      "mapx": "1269920027",
+      "mapy": "375657612"
     },
     {
-      "title": "산청숯불가든 <b>을지로</b>",
-      "link": "https://www.instagram.com/sancheongin/",
-      "category": "한식>육류,고기요리",
+      "title": "대동옥 <b>을지로</b>본점",
+      "link": "https://www.instagram.com/daedongok",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 343-1 1층",
-      "roadAddress": "서울특별시 중구 을지로 114-6 1층",
-      "mapx": "1269906186",
-      "mapy": "375658389"
+      "address": "서울특별시 중구 을지로3가 334-8 1층",
+      "roadAddress": "서울특별시 중구 을지로12길 8 1층",
+      "mapx": "1269910616",
+      "mapy": "375659680"
     },
     {
-      "title": "청기와타운 <b>을지로</b>점",
-      "link": "https://catchtable.co.kr/bluerooftown5",
-      "category": "한식>육류,고기요리",
+      "title": "대엽 <b>을지로</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/daeyeop_euljiro",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-21 1층 청기와타운 을지로점",
-      "roadAddress": "서울특별시 중구 을지로 54 1층 청기와타운 을지로점",
-      "mapx": "1269836749",
-      "mapy": "375659020"
+      "address": "서울특별시 중구 을지로3가 342-5 1층",
+      "roadAddress": "서울특별시 중구 을지로 114 1층",
+      "mapx": "1269904676",
+      "mapy": "375661005"
+    },
+    {
+      "title": "계화정 동대문현대시티아울렛점",
+      "link": "",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 현대시티아울렛 지하2층 계화정",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 현대시티아울렛 지하2층 계화정",
+      "mapx": "1270074175",
+      "mapy": "375683116"
     }
   ]
 }

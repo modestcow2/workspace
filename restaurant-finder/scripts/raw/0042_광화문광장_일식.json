@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:07:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375730606"
     },
     {
-      "title": "동해도 <b>광화문</b>점",
-      "link": "https://www.instagram.com/donghaedo1987",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
-      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
-      "mapx": "1269794820",
-      "mapy": "375684296"
-    },
-    {
       "title": "도토리브라더스 <b>광화문</b>본점",
       "link": "http://www.instagram.com/dotori_brothers",
       "category": "음식점>일식>일식당",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 경희궁길 41 1층 도토리브라더스",
       "mapx": "1269692709",
       "mapy": "375729254"
+    },
+    {
+      "title": "동해도 <b>광화문</b>점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
     },
     {
       "title": "야마야 <b>광화문</b> 디타워점",
@@ -49,15 +49,15 @@
       "mapy": "375710184"
     },
     {
-      "title": "시카노이에",
-      "link": "",
+      "title": "진작",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 1-104 신문로하우스 101호",
-      "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
-      "mapx": "1269692608",
-      "mapy": "375725079"
+      "address": "서울특별시 중구 저동2가 46-27 1층",
+      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
+      "mapx": "1269908216",
+      "mapy": "375640300"
     }
   ]
 }

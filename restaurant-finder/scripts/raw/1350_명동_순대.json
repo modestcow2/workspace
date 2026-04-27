@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375674370"
     },
     {
-      "title": "태평<b>순대</b> 광화문본점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 76-1 1층 태평순대 광화문본점",
-      "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
-      "mapx": "1269760122",
-      "mapy": "375690306"
-    },
-    {
       "title": "현선이네 청계즉석점",
       "link": "https://smartstore.naver.com/hyunsunine",
       "category": "분식>떡볶이",
@@ -49,15 +38,26 @@
       "mapy": "375671291"
     },
     {
-      "title": "영차떡볶이 <b>명동</b>점",
+      "title": "태평<b>순대</b> 광화문본점",
       "link": "",
-      "category": "분식>종합분식",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-10 2~4층",
-      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
-      "mapx": "1269835740",
-      "mapy": "375631401"
+      "address": "서울특별시 중구 태평로1가 76-1 1층 태평순대 광화문본점",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
+      "mapx": "1269760122",
+      "mapy": "375690306"
+    },
+    {
+      "title": "광장동가온 <b>명동</b>성당점",
+      "link": "https://www.instagram.com/narugaon_food/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 1-1 명동성당 1층",
+      "roadAddress": "서울특별시 중구 명동길 74 명동성당 1층",
+      "mapx": "1269862219",
+      "mapy": "375639277"
     }
   ]
 }

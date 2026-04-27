@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375744412"
     },
     {
+      "title": "할매집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 108",
+      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
+      "mapx": "1269714754",
+      "mapy": "375756601"
+    },
+    {
       "title": "잭아저씨<b>족발</b>보쌈 종로본점",
       "link": "https://blog.naver.com/mr_jack-jogbalbossam",
       "category": "한식>족발,보쌈",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 서대문구 충정로6안길 54",
       "mapx": "1269668935",
       "mapy": "375644552"
-    },
-    {
-      "title": "할매집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 108",
-      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
-      "mapx": "1269714754",
-      "mapy": "375756601"
     }
   ]
 }

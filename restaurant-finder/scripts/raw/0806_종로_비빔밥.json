@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
+    },
     {
       "title": "진주육회 4호점",
       "link": "",
@@ -14,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 창경궁로 86 1층",
       "mapx": "1269980277",
       "mapy": "375700337"
+    },
+    {
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-27",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
+      "mapx": "1269840246",
+      "mapy": "375753027"
     },
     {
       "title": "익선애뜻",
@@ -27,37 +49,15 @@
       "mapy": "375733641"
     },
     {
-      "title": "익선동연리지",
-      "link": "https://www.instagram.com/yeonliji",
+      "title": "해밀가 종각점",
+      "link": "https://app.catchtable.co.kr/ct/shop/HAEMILGA",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 120 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 28-1 1층",
-      "mapx": "1269903405",
-      "mapy": "375739990"
-    },
-    {
-      "title": "뚝배기집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1",
-      "roadAddress": "서울특별시 종로구 종로16길 12",
-      "mapx": "1269885481",
-      "mapy": "375695483"
-    },
-    {
-      "title": "오치교반 <b>종로</b>본점",
-      "link": "https://www.instagram.com/ochigyoban/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관수동 3-5 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로20길 13 1층",
-      "mapx": "1269886511",
-      "mapy": "375698176"
+      "address": "서울특별시 중구 다동 85 2층 201호",
+      "roadAddress": "서울특별시 중구 남대문로 125 2층 201호",
+      "mapx": "1269823089",
+      "mapy": "375683770"
     }
   ]
 }

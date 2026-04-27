@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:43 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:09:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375642992"
     },
     {
-      "title": "청담동 마녀김밥 광화문점",
-      "link": "",
+      "title": "병아리김밥 명동점",
+      "link": "https://chickgimbapmd.com/",
       "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 204-1",
-      "roadAddress": "서울특별시 종로구 새문안로 105",
-      "mapx": "1269762542",
-      "mapy": "375704544"
+      "address": "서울특별시 중구 명동2가 3-3 지하1층",
+      "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
+      "mapx": "1269855893",
+      "mapy": "375629999"
     },
     {
-      "title": "철길떡볶기",
-      "link": "",
-      "category": "분식>떡볶이",
+      "title": "만나<b>분식</b>",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 충정로3가 150-1",
-      "roadAddress": "서울특별시 서대문구 충정로5길 11",
-      "mapx": "1269634943",
-      "mapy": "375626500"
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
     }
   ]
 }

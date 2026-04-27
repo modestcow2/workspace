@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:28 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375720097"
     },
     {
-      "title": "돈맛꿀",
-      "link": "https://youtube.com/@pig_honey",
-      "category": "한식>국밥",
+      "title": "육결 <b>종로</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yuggyeol_jonglo",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 179 지상 1층",
-      "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
-      "mapx": "1269895649",
-      "mapy": "375710740"
+      "address": "서울특별시 종로구 관철동 12-9 지상1층~지상2층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 22 지상1층~지상2층",
+      "mapx": "1269862797",
+      "mapy": "375688942"
     }
   ]
 }

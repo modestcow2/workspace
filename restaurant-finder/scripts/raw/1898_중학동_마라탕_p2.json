@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:31:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375645620"
     },
     {
-      "title": "여의주훠궈관 을지로본점",
-      "link": "https://www.instagram.com/yeouijuhuoguo",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 323 4층 403호",
-      "roadAddress": "서울특별시 중구 을지로12길 12 4층 403호",
-      "mapx": "1269910635",
-      "mapy": "375657466"
-    },
-    {
       "title": "샹츠마라 종로점",
       "link": "",
       "category": "중식>중식당",
@@ -49,15 +38,26 @@
       "mapy": "375686220"
     },
     {
-      "title": "하우<b>마라탕</b> 종로점",
-      "link": "",
-      "category": "중식>마라탕",
+      "title": "여의주훠궈관 을지로본점",
+      "link": "https://www.instagram.com/yeouijuhuoguo",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1 2층",
-      "roadAddress": "서울특별시 종로구 종로16길 12 2층",
-      "mapx": "1269885196",
-      "mapy": "375695603"
+      "address": "서울특별시 중구 을지로3가 323 4층 403호",
+      "roadAddress": "서울특별시 중구 을지로12길 12 4층 403호",
+      "mapx": "1269910635",
+      "mapy": "375657466"
+    },
+    {
+      "title": "라향각 <b>마라탕</b>",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
+      "roadAddress": "서울특별시 중구 세종대로21길 67 2층 라향각마라탕",
+      "mapx": "1269757332",
+      "mapy": "375692879"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375735491"
     },
     {
-      "title": "북촌<b>칼국수</b>",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 72",
-      "roadAddress": "서울특별시 종로구 인사동길 50",
-      "mapx": "1269843355",
-      "mapy": "375745744"
-    },
-    {
       "title": "황생가<b>칼국수</b> 종로타워점",
       "link": "",
       "category": "음식점>한식",
@@ -38,15 +27,26 @@
       "mapy": "375707534"
     },
     {
-      "title": "광희<b>칼국수</b>",
+      "title": "북촌<b>칼국수</b>",
       "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 72",
+      "roadAddress": "서울특별시 종로구 인사동길 50",
+      "mapx": "1269843355",
+      "mapy": "375745744"
+    },
+    {
+      "title": "<b>인사동</b> 청춘수제비",
+      "link": "https://www.instagram.com/soup.cheongchun",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 88-8",
-      "roadAddress": "서울특별시 종로구 우정국로 38-18",
-      "mapx": "1269840306",
-      "mapy": "375728091"
+      "address": "서울특별시 종로구 관훈동 58",
+      "roadAddress": "서울특별시 종로구 인사동12길 14-7",
+      "mapx": "1269853291",
+      "mapy": "375746191"
     },
     {
       "title": "메밀란",

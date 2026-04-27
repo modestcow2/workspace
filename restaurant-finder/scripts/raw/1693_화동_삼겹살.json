@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:23 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,28 @@
       "mapy": "375845995"
     },
     {
+      "title": "익선동목장 종로본점",
+      "link": "http://www.instagram.com/iksun.farm",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 묘동 160-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
+      "mapx": "1269912075",
+      "mapy": "375731990"
+    },
+    {
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
       "title": "고기꾼김춘배 종로직영점",
       "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
       "category": "한식>돼지고기구이",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
       "mapx": "1269864928",
       "mapy": "375690679"
-    },
-    {
-      "title": "익선동목장 종로본점",
-      "link": "http://www.instagram.com/iksun.farm",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 묘동 160-1 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
-      "mapx": "1269911398",
-      "mapy": "375731869"
-    },
-    {
-      "title": "뼈탄집 서촌본점",
-      "link": "http://www.bornpig.co.kr/index2.php",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 9-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 13",
-      "mapx": "1269717062",
-      "mapy": "375764468"
     }
   ]
 }

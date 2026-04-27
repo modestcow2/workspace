@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:58 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 40-1",
       "mapx": "1269715716",
       "mapy": "375796602"
-    },
-    {
-      "title": "온지음 레스토랑",
-      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
-      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
-      "mapx": "1269734438",
-      "mapy": "375804848"
     },
     {
       "title": "사직로 서울",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
       "mapx": "1269738782",
       "mapy": "375766155"
+    },
+    {
+      "title": "광화문석<b>갈비</b> D타워점",
+      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
+      "mapx": "1269789694",
+      "mapy": "375710184"
     }
   ]
 }

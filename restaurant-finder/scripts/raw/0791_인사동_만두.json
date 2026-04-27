@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:19 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375742917"
     },
     {
-      "title": "솥내음 종로<b>인사동</b>점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
-    },
-    {
       "title": "취야벌국시",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -38,17 +27,6 @@
       "mapy": "375728324"
     },
     {
-      "title": "북촌칼국수",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 72",
-      "roadAddress": "서울특별시 종로구 인사동길 50",
-      "mapx": "1269843355",
-      "mapy": "375745744"
-    },
-    {
       "title": "맑은곰탕 고음 종로",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 인사동3길 35 맑은곰탕 고음 종로",
       "mapx": "1269850151",
       "mapy": "375714996"
+    },
+    {
+      "title": "솥내음 종로<b>인사동</b>점",
+      "link": "https://map.naver.com/p/entry/place/2017586094",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 39 지상2층",
+      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
+      "mapx": "1269870311",
+      "mapy": "375721281"
+    },
+    {
+      "title": "차이들 안녕<b>인사동</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층 307, 308호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
     }
   ]
 }

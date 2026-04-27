@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:49 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375780371"
     },
     {
-      "title": "율동칼국수",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "유소바 안국역점",
+      "link": "https://www.instagram.com/usoba.kr",
+      "category": "음식점>일식>우동,소바",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 9 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
-      "mapx": "1269846160",
-      "mapy": "375794433"
+      "address": "서울특별시 종로구 계동 140-56 1층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 32 1층",
+      "mapx": "1269874771",
+      "mapy": "375794190"
     },
     {
-      "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
-      "category": "한식>국수",
+      "title": "비원손칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-1 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
-      "mapx": "1269862338",
-      "mapy": "375782217"
+      "address": "서울특별시 종로구 원서동 160",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 9-1",
+      "mapx": "1269887790",
+      "mapy": "375792230"
     }
   ]
 }

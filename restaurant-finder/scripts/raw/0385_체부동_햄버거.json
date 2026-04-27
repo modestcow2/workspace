@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375755982"
     },
     {
-      "title": "바스버거 광화문점",
-      "link": "http://www.basburger.net",
-      "category": "양식>햄버거",
+      "title": "침스버거 광화문",
+      "link": "",
+      "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 11 광일빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 지하1층",
-      "mapx": "1269797080",
-      "mapy": "375681229"
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B113-2, B113-3호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B113-2, B113-3호",
+      "mapx": "1269798147",
+      "mapy": "375710182"
     }
   ]
 }

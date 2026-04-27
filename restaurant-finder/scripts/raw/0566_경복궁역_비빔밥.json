@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:35 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375756401"
     },
     {
-      "title": "마지",
-      "link": "http://templefood.com/",
-      "category": "한식>사찰음식",
+      "title": "서촌식당",
+      "link": "http://www.instagram.com/seochondining",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 132-1",
-      "roadAddress": "서울특별시 종로구 자하문로5길 19",
-      "mapx": "1269708015",
-      "mapy": "375776553"
+      "address": "서울특별시 종로구 옥인동 19-50",
+      "roadAddress": "서울특별시 종로구 자하문로17길 12",
+      "mapx": "1269699906",
+      "mapy": "375814609"
     },
     {
       "title": "세종식당",
@@ -49,15 +49,15 @@
       "mapy": "375786597"
     },
     {
-      "title": "서촌식당",
-      "link": "http://www.instagram.com/seochondining",
+      "title": "안주마을 통인점",
+      "link": "https://smartstore.naver.com/anjumaeul",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-50",
-      "roadAddress": "서울특별시 종로구 자하문로17길 12",
-      "mapx": "1269699906",
-      "mapy": "375814609"
+      "address": "서울특별시 종로구 통인동 159 1층 안주마을 통인점",
+      "roadAddress": "서울특별시 종로구 자하문로7길 12 1층 안주마을 통인점",
+      "mapx": "1269711394",
+      "mapy": "375784976"
     }
   ]
 }

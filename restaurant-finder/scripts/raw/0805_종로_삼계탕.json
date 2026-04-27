@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "명동닭한마리 본점",
-      "link": "http://www.닭한마리.kr",
-      "category": "한식>닭요리",
+      "title": "장수<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로5가 265-8 명동 닭한마리",
-      "roadAddress": "서울특별시 종로구 종로40가길 14 명동 닭한마리",
-      "mapx": "1270058702",
-      "mapy": "375703217"
+      "address": "서울특별시 종로구 낙원동 236-1 낙원빌딩 2층 장수삼계탕",
+      "roadAddress": "서울특별시 종로구 종로17길 52 낙원빌딩 2층 장수삼계탕",
+      "mapx": "1269885250",
+      "mapy": "375724917"
     },
     {
       "title": "한민국 닭한마리",
@@ -27,37 +27,37 @@
       "mapy": "375706512"
     },
     {
-      "title": "명동닭한마리 시조점",
-      "link": "",
+      "title": "명동닭한마리 본점",
+      "link": "http://www.닭한마리.kr",
       "category": "한식>닭요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로5가 280-4",
-      "roadAddress": "서울특별시 종로구 종로40가길 10",
-      "mapx": "1270061275",
-      "mapy": "375703883"
+      "address": "서울특별시 종로구 종로5가 265-8 명동 닭한마리",
+      "roadAddress": "서울특별시 종로구 종로40가길 14 명동 닭한마리",
+      "mapx": "1270058702",
+      "mapy": "375703217"
     },
     {
-      "title": "천일<b>삼계탕</b>",
-      "link": "",
+      "title": "수인 인사동 닭한마리 본점",
+      "link": "https://catchtable.co.kr/suin_seoul",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로6가 18-187 2층 천일삼계탕",
-      "roadAddress": "서울특별시 중구 장충단로13길 43 2층 천일삼계탕",
-      "mapx": "1270064646",
-      "mapy": "375680983"
+      "address": "서울특별시 종로구 경운동 66-11 1층 인사동 닭한마리",
+      "roadAddress": "서울특별시 종로구 인사동10길 23-8 1층 인사동 닭한마리",
+      "mapx": "1269861953",
+      "mapy": "375747933"
     },
     {
-      "title": "돈화문닭한마리",
-      "link": "https://blog.naver.com/dondak2015",
-      "category": "한식>닭요리",
+      "title": "고려<b>삼계탕</b> 광화문점",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 돈의동 95 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로9길 17 1층",
-      "mapx": "1269908133",
-      "mapy": "375716439"
+      "address": "서울특별시 종로구 세종로 164",
+      "roadAddress": "서울특별시 종로구 세종대로23길 5-1",
+      "mapx": "1269761163",
+      "mapy": "375714982"
     }
   ]
 }

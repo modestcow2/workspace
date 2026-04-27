@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:17 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375761905"
     },
     {
+      "title": "봉피양 <b>경복궁</b>점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    },
+    {
       "title": "통의동 국빈관 <b>경복궁</b>역점",
       "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
       "category": "한식>소고기구이",
@@ -27,37 +38,26 @@
       "mapy": "375766155"
     },
     {
-      "title": "모도우 광화문점",
-      "link": "https://openine.com/PARTY",
-      "category": "한식>소고기구이",
+      "title": "활짝핀메밀 <b>경복궁</b>역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 14 트윈트리타워 B동 M층",
-      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 B동 M층",
-      "mapx": "1269799056",
-      "mapy": "375755265"
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
     },
     {
-      "title": "꽃누리들밥 <b>경복궁</b>점",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "서래미소 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사간동 112 지하1층",
-      "roadAddress": "서울특별시 종로구 율곡로1길 31 지하1층",
-      "mapx": "1269804337",
-      "mapy": "375772562"
-    },
-    {
-      "title": "무구옥",
-      "link": "https://www.instagram.com/muguok_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 126-1 지상1층",
-      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
-      "mapx": "1269799066",
-      "mapy": "375764071"
+      "address": "서울특별시 종로구 통의동 35-43 3~5층",
+      "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
+      "mapx": "1269726487",
+      "mapy": "375770180"
     }
   ]
 }

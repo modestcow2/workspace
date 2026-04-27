@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:51 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:13:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "레스피레베이커리 서촌",
+      "title": "레스피레베이커리카페 서촌",
       "link": "https://instagram.com/___respirer",
       "category": "음식점>카페,디저트",
       "description": "",
@@ -16,15 +16,15 @@
       "mapy": "375827651"
     },
     {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
+      "title": "서울집시 퍼멘테리아 서촌",
+      "link": "https://www.instagram.com/seoulgypsyfermenteria",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
+      "address": "서울특별시 종로구 효자동 25 3층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 3층",
+      "mapx": "1269711126",
+      "mapy": "375816125"
     },
     {
       "title": "더숲 초소책방",
@@ -38,17 +38,6 @@
       "mapy": "375859414"
     },
     {
-      "title": "메종드소시송",
-      "link": "https://www.instagram.com/maison_de_saucisson",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 70-1 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 82 1층",
-      "mapx": "1269706242",
-      "mapy": "375833006"
-    },
-    {
       "title": "아키비스트",
       "link": "http://www.instagram.com/archivistcoffee",
       "category": "음식점>카페,디저트",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 효자로13길 52 1층 아키비스트 서촌점",
       "mapx": "1269726786",
       "mapy": "375822184"
+    },
+    {
+      "title": "너울주막 서촌",
+      "link": "https://www.instagram.com/neouljumak/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 153-1 도담빌딩 1층",
+      "roadAddress": "서울특별시 종로구 옥인길 22-1 도담빌딩 1층",
+      "mapx": "1269674426",
+      "mapy": "375808125"
     }
   ]
 }

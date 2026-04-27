@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -28,7 +28,7 @@
     },
     {
       "title": "정돈 대학로본점",
-      "link": "",
+      "link": "https://jungdon.co.kr/",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375643266"
     },
     {
-      "title": "카산도 혜화대학로점",
-      "link": "https://www.instagram.com/kasando._.hyehwa/",
-      "category": "음식점>일식>돈가스",
+      "title": "알돈 본점",
+      "link": "https://www.instagram.com/r_don22",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 동숭동 1-145 1층 카산도 대학로점",
-      "roadAddress": "서울특별시 종로구 동숭길 55 1층 카산도 대학로점",
-      "mapx": "1270042262",
-      "mapy": "375808772"
+      "address": "서울특별시 중구 다동 70 지하1층, 11호",
+      "roadAddress": "서울특별시 중구 다동길 43 지하1층, 11호",
+      "mapx": "1269818391",
+      "mapy": "375682023"
     }
   ]
 }

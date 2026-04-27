@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:25 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375814609"
     },
     {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
-    {
       "title": "정통코다리",
       "link": "http://cdrgood.cafe24.com",
       "category": "한식>해물,생선요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 50 별미곱창",
       "mapx": "1269696746",
       "mapy": "375769499"
+    },
+    {
+      "title": "<b>서촌</b>시우식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 171",
+      "roadAddress": "서울특별시 종로구 필운대로 18",
+      "mapx": "1269695515",
+      "mapy": "375777250"
     }
   ]
 }

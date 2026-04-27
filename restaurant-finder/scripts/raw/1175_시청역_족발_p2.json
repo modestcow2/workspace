@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:20 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375687260"
     },
     {
-      "title": "비어할레 본점",
-      "link": "https://www.instagram.com/bierhalle_1986",
-      "category": "술집>맥주,호프",
+      "title": "만족오향<b>족발</b> 시청점 별관",
+      "link": "",
+      "category": "육류,고기요리>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 97 산다빌딩 1층, 2층",
-      "roadAddress": "서울특별시 중구 을지로3길 34 산다빌딩 1층, 2층",
-      "mapx": "1269814769",
-      "mapy": "375675489"
+      "address": "서울특별시 중구 태평로2가 330-2 유풍빌딩 1-2층",
+      "roadAddress": "서울특별시 중구 서소문로 136 유풍빌딩 1-2층",
+      "mapx": "1269760425",
+      "mapy": "375635600"
     }
   ]
 }

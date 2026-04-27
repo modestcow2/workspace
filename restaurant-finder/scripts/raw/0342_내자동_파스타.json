@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:49 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375757053"
     },
     {
-      "title": "아트만",
-      "link": "http://instagram.com/atman_seoul",
-      "category": "술집>와인",
+      "title": "몰림",
+      "link": "https://app.catchtable.co.kr/ct/shop/mollim",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 101 아트만",
-      "roadAddress": "서울특별시 종로구 사직로12길 11 아트만",
-      "mapx": "1269710581",
-      "mapy": "375755031"
+      "address": "서울특별시 종로구 내자동 146 몰림",
+      "roadAddress": "서울특별시 종로구 사직로10길 5 몰림",
+      "mapx": "1269705040",
+      "mapy": "375756787"
     }
   ]
 }

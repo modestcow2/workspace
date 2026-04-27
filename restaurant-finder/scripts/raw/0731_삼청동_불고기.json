@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:52 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "율동칼국수",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 9 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
-      "mapx": "1269846160",
-      "mapy": "375794433"
-    },
     {
       "title": "온미관 안국",
       "link": "https://www.instagram.com/onmigwananguk/",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
       "mapx": "1269861071",
       "mapy": "375780371"
+    },
+    {
+      "title": "율동칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 9 2층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
+      "mapx": "1269846160",
+      "mapy": "375794433"
     },
     {
       "title": "청수정",
@@ -38,15 +38,15 @@
       "mapy": "375835571"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
       "title": "청국장밥",

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:30 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "수라재",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 66 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 2층",
+      "mapx": "1269723288",
+      "mapy": "375778157"
+    },
     {
       "title": "소박한집",
       "link": "",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 105",
       "mapx": "1269762542",
       "mapy": "375704544"
-    },
-    {
-      "title": "현선이네 청계즉석점",
-      "link": "https://smartstore.naver.com/hyunsunine",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
-      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
-      "mapx": "1269830312",
-      "mapy": "375671291"
     }
   ]
 }

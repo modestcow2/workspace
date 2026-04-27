@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:49 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -10,10 +10,10 @@
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 17-1 1, 2층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 3-8 1, 2층",
-      "mapx": "1269811516",
-      "mapy": "375812799"
+      "address": "서울특별시 종로구 가회동 170-3",
+      "roadAddress": "서울특별시 종로구 북촌로 41",
+      "mapx": "1269848048",
+      "mapy": "375806132"
     },
     {
       "title": "백년토종<b>삼계탕</b>",
@@ -21,10 +21,10 @@
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 가회동 170-3",
-      "roadAddress": "서울특별시 종로구 북촌로 41",
-      "mapx": "1269848048",
-      "mapy": "375806132"
+      "address": "서울특별시 종로구 소격동 17-1 1, 2층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 3-8 1, 2층",
+      "mapx": "1269811516",
+      "mapy": "375812799"
     },
     {
       "title": "황칠가 안국점",

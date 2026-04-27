@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:24 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 137-13 1층",
       "mapx": "1269826631",
       "mapy": "375869747"
+    },
+    {
+      "title": "할매집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 108",
+      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
+      "mapx": "1269714754",
+      "mapy": "375756601"
     },
     {
       "title": "잭아저씨<b>족발</b>보쌈 종로본점",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 수표로20길 16-15",
       "mapx": "1269909814",
       "mapy": "375699683"
-    },
-    {
-      "title": "족의한수 종로본점",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관수동 4-1 1층 족의한수",
-      "roadAddress": "서울특별시 종로구 수표로 93-1 1층 족의한수",
-      "mapx": "1269891620",
-      "mapy": "375696277"
     },
     {
       "title": "자기만족 종로본점",

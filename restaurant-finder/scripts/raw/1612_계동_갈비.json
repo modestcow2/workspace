@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:45 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 계동 79-6",
       "roadAddress": "서울특별시 종로구 계동길 71",
-      "mapx": "1269866761",
-      "mapy": "375804749"
+      "mapx": "1269867004",
+      "mapy": "375804648"
     },
     {
       "title": "미도<b>갈비</b>",
@@ -49,15 +49,15 @@
       "mapy": "375726226"
     },
     {
-      "title": "광화문석<b>갈비</b> D타워점",
-      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
-      "category": "한식>육류,고기요리",
+      "title": "성북동면옥집",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
+      "address": "서울특별시 성북구 성북동 330-105",
+      "roadAddress": "서울특별시 성북구 대사관로 40",
+      "mapx": "1269886323",
+      "mapy": "375959190"
     }
   ]
 }

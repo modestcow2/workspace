@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:15 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1가길 9",
       "mapx": "1269718720",
       "mapy": "375769814"
-    },
-    {
-      "title": "첫잔",
-      "link": "",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 201-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 28",
-      "mapx": "1269707822",
-      "mapy": "375765240"
     },
     {
       "title": "오븐에빠진닭 경복궁역점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4",
       "mapx": "1269689428",
       "mapy": "375744412"
+    },
+    {
+      "title": "교남김밥",
+      "link": "http://instagram.com/gyonamgimbap012",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 평동 233 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
+      "mapx": "1269652933",
+      "mapy": "375683803"
     }
   ]
 }

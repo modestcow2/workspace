@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765164"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
-    {
       "title": "버거드조선",
       "link": "http://www.instagram.com/burger_de_joseon",
       "category": "음식점>햄버거",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
       "mapx": "1269704616",
       "mapy": "375755982"
+    },
+    {
+      "title": "침스버거 안국",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-39 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
+      "mapx": "1269856859",
+      "mapy": "375780911"
     },
     {
       "title": "멜팅소울 롯데백화점 본점",

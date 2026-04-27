@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "해운대달맞이빵 <b>을지로</b>점",
-      "link": "https://www.instagram.com/dalmaji_official",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 73-4 1층",
-      "roadAddress": "서울특별시 중구 마른내로 18 1층",
-      "mapx": "1269897709",
-      "mapy": "375647060"
-    },
     {
       "title": "훅트포케 <b>을지로</b>점",
       "link": "https://www.hookedpoke.co.kr/",
@@ -25,6 +14,28 @@
       "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
       "mapx": "1269887654",
       "mapy": "375666400"
+    },
+    {
+      "title": "그라츠과자점",
+      "link": "http://www.graz.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 149-10 을지로지하쇼핑센터2구역 374",
+      "roadAddress": "서울특별시 중구 을지로 88 을지로지하쇼핑센터2구역 374",
+      "mapx": "1269868693",
+      "mapy": "375661527"
+    },
+    {
+      "title": "해운대달맞이빵 <b>을지로</b>점",
+      "link": "https://www.instagram.com/dalmaji_official",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 73-4 1층",
+      "roadAddress": "서울특별시 중구 마른내로 18 1층",
+      "mapx": "1269897709",
+      "mapy": "375647060"
     },
     {
       "title": "살라아띠 두타점",
@@ -38,26 +49,15 @@
       "mapy": "375688912"
     },
     {
-      "title": "잇츠크리스피",
+      "title": "비밀 베이커리 동대문점",
       "link": "",
-      "category": "카페,디저트>베이커리",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 204 삼화타워",
-      "roadAddress": "서울특별시 중구 을지로5길 16 삼화타워",
-      "mapx": "1269846906",
-      "mapy": "375670014"
-    },
-    {
-      "title": "그라츠과자점",
-      "link": "http://www.graz.co.kr/",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 149-10 을지로지하쇼핑센터2구역 374",
-      "roadAddress": "서울특별시 중구 을지로 88 을지로지하쇼핑센터2구역 374",
-      "mapx": "1269868693",
-      "mapy": "375661527"
+      "address": "서울특별시 중구 을지로6가 18-37 B1층",
+      "roadAddress": "서울특별시 중구 을지로43길 38 B1층",
+      "mapx": "1270077196",
+      "mapy": "375677643"
     }
   ]
 }

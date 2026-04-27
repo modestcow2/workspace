@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:41 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375770264"
     },
     {
+      "title": "땡스오트 안국",
+      "link": "https://www.thanksoat.co.kr/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 36-2 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-10 1층",
+      "mapx": "1269846561",
+      "mapy": "375787585"
+    },
+    {
       "title": "도트블랭킷 삼청한옥점",
       "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
       "category": "음식점>브런치",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 계동길 15 1, 2층",
       "mapx": "1269866582",
       "mapy": "375779731"
-    },
-    {
-      "title": "땡스오트 안국",
-      "link": "https://www.thanksoat.co.kr/",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 36-2 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 21-10 1층",
-      "mapx": "1269846561",
-      "mapy": "375787585"
     }
   ]
 }

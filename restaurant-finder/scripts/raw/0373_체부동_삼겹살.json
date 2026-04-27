@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765472"
     },
     {
-      "title": "고기연",
-      "link": "https://www.instagram.com/gogiyeon.kr",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 80 1층 고기연",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 17 1층 고기연",
-      "mapx": "1269718518",
-      "mapy": "375773126"
-    },
-    {
       "title": "김진목삼 2호점",
       "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam_second",
       "category": "한식>돼지고기구이",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1가길 9 1층",
       "mapx": "1269719891",
       "mapy": "375769255"
+    },
+    {
+      "title": "고기연",
+      "link": "https://www.instagram.com/gogiyeon.kr",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 80 1층 고기연",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 17 1층 고기연",
+      "mapx": "1269718518",
+      "mapy": "375773126"
     },
     {
       "title": "대하식당",

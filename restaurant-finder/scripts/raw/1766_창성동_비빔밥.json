@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375794749"
     },
     {
-      "title": "가진화랑",
-      "link": "",
-      "category": "문화,예술>갤러리,화랑",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 58",
-      "roadAddress": "서울특별시 종로구 자하문로 74",
-      "mapx": "1269708940",
-      "mapy": "375825459"
-    },
-    {
       "title": "국수돈가",
       "link": "",
       "category": "한식>국수",
@@ -49,15 +38,26 @@
       "mapy": "375826499"
     },
     {
-      "title": "자하문로118 들풀",
-      "link": "",
+      "title": "슬렁슬렁",
+      "link": "https://www.instagram.com/naeoejuga",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 효자동 25 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 2층",
+      "mapx": "1269712004",
+      "mapy": "375815886"
+    },
+    {
+      "title": "가진화랑",
+      "link": "",
+      "category": "문화,예술>갤러리,화랑",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 58",
+      "roadAddress": "서울특별시 종로구 자하문로 74",
+      "mapx": "1269708940",
+      "mapy": "375825459"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:40 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375780371"
     },
     {
+      "title": "애호락 안국본점",
+      "link": "https://www.instagram.com/aehorock",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
+      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
+      "mapx": "1269866350",
+      "mapy": "375791838"
+    },
+    {
       "title": "율동칼국수",
       "link": "",
       "category": "음식점>한식",
@@ -27,26 +38,15 @@
       "mapy": "375794433"
     },
     {
-      "title": "애호락 안국본점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
-      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
-      "mapx": "1269866350",
-      "mapy": "375791838"
-    },
-    {
       "title": "꽃밥에피다 북촌 친환경 그로서란트",
-      "link": "https://smartstore.naver.com/goodbab7",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 가회동 170-4 1층",
       "roadAddress": "서울특별시 종로구 북촌로 39 1층",
-      "mapx": "1269847797",
-      "mapy": "375802375"
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
       "title": "순이네가게",

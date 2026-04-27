@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:32 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "월가갈비 서울<b>시청</b>본점",
-      "link": "https://www.instagram.com/wallga_galbi",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 11-7 1, 2, 3층",
-      "roadAddress": "서울특별시 중구 세종대로18길 22 1, 2, 3층",
-      "mapx": "1269783927",
-      "mapy": "375637074"
-    },
     {
       "title": "유림면",
       "link": "https://www.thingoolmarket.com",
@@ -38,26 +27,37 @@
       "mapy": "375653757"
     },
     {
-      "title": "남촌회관 <b>시청</b>본점",
-      "link": "https://www.instagram.com/nam.chon_",
+      "title": "전설의우대갈비 서울<b>시청</b>직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 31-25 1층 (유성빌딩)",
-      "roadAddress": "서울특별시 중구 세종대로20길 19 1층 (유성빌딩)",
-      "mapx": "1269784994",
-      "mapy": "375671273"
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
     },
     {
-      "title": "왕비집 <b>시청</b>무교점",
-      "link": "https://app.catchtable.co.kr/ct/shop/queenhousecityhall",
+      "title": "월가갈비 서울<b>시청</b>본점",
+      "link": "https://www.instagram.com/wallga_galbi",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 45 더익스체인지서울몰",
-      "roadAddress": "서울특별시 중구 무교로 19 더익스체인지서울몰",
-      "mapx": "1269789962",
-      "mapy": "375676236"
+      "address": "서울특별시 중구 북창동 11-7 1, 2, 3층",
+      "roadAddress": "서울특별시 중구 세종대로18길 22 1, 2, 3층",
+      "mapx": "1269783927",
+      "mapy": "375637074"
+    },
+    {
+      "title": "VIP참치 서울<b>시청</b>점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 29-1 뉴서울호텔 2층",
+      "roadAddress": "서울특별시 중구 세종대로22길 16 뉴서울호텔 2층",
+      "mapx": "1269781825",
+      "mapy": "375679223"
     }
   ]
 }

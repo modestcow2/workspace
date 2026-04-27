@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:48 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 4 1층",
       "mapx": "1269859341",
       "mapy": "375778300"
+    },
+    {
+      "title": "순이네가게",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
     },
     {
       "title": "떡산 안국",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 계동길 67",
       "mapx": "1269866828",
       "mapy": "375803123"
-    },
-    {
-      "title": "순이네가게",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 146-2",
-      "roadAddress": "서울특별시 종로구 율곡로 67",
-      "mapx": "1269867152",
-      "mapy": "375773052"
     },
     {
       "title": "병천<b>순대</b>전문점",

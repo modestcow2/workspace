@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:50 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>계동피자</b>",
-      "link": "https://youtube.com/@kindk7985",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 82-1 1층 피자",
-      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
-      "mapx": "1269866587",
-      "mapy": "375801802"
-    },
     {
       "title": "대장장이화덕피자",
       "link": "http://pf.kakao.com/_Zscxmb",
@@ -27,6 +16,17 @@
       "mapy": "375805827"
     },
     {
+      "title": "<b>계동피자</b>",
+      "link": "https://youtube.com/@kindk7985",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 82-1 1층 피자",
+      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
+      "mapx": "1269866587",
+      "mapy": "375801802"
+    },
+    {
       "title": "후스테이블",
       "link": "",
       "category": "이탈리아음식>스파게티,파스타전문",
@@ -34,8 +34,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 계동 140-4 1층 후스테이블",
       "roadAddress": "서울특별시 종로구 창덕궁1가길 8 1층 후스테이블",
-      "mapx": "1269881260",
-      "mapy": "375796303"
+      "mapx": "1269880703",
+      "mapy": "375796147"
     },
     {
       "title": "아모르나폴리 안국점",

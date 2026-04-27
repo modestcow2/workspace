@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:13 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375696647"
     },
     {
-      "title": "진서",
-      "link": "https://www.instagram.com/aboutjinsbbq",
-      "category": "음식점>한식",
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 167 대우빌딩 지하1층 107호",
-      "roadAddress": "서울특별시 종로구 새문안로3길 30 대우빌딩 지하1층 107호",
-      "mapx": "1269735635",
-      "mapy": "375726694"
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:09 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375695065"
     },
     {
+      "title": "이런이궈 <b>마라탕</b> 혜화점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 141 2층",
+      "roadAddress": "서울특별시 종로구 대학로 151 2층",
+      "mapx": "1270011073",
+      "mapy": "375846737"
+    },
+    {
       "title": "양궈푸<b>마라탕</b> 명동점",
       "link": "",
       "category": "중식>중식당",
@@ -27,26 +38,15 @@
       "mapy": "375645620"
     },
     {
-      "title": "용가회전훠궈 명동점",
-      "link": "https://www.instagram.com/loonger_md_myeongdong",
+      "title": "샹츠마라 종로점",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-25 2, 3층",
-      "roadAddress": "서울특별시 중구 명동3길 12 2, 3층",
-      "mapx": "1269836250",
-      "mapy": "375642295"
-    },
-    {
-      "title": "여의주훠궈관 을지로본점",
-      "link": "https://www.instagram.com/yeouijuhuoguo",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 323 4층 403호",
-      "roadAddress": "서울특별시 중구 을지로12길 12 4층 403호",
-      "mapx": "1269910635",
-      "mapy": "375657466"
+      "address": "서울특별시 종로구 관철동 11-14 2층",
+      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
+      "mapx": "1269859110",
+      "mapy": "375686220"
     },
     {
       "title": "샹츠마라 혜화점",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:25 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375659332"
     },
     {
+      "title": "다원닭한마리 빈대떡 <b>을지로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 20-1",
+      "roadAddress": "서울특별시 중구 마른내로 23",
+      "mapx": "1269905872",
+      "mapy": "375648979"
+    },
+    {
       "title": "노보텔 앰배서더 서울 동대문 푸드 익스체인지",
       "link": "https://www.instagram.com/novotel_dongdaemun/",
       "category": "음식점>뷔페",
@@ -27,15 +38,15 @@
       "mapy": "375662974"
     },
     {
-      "title": "해초섬 현대시티아울렛동대문점",
-      "link": "http://www.ehyundai.com/newPortal/outlet/DN/DN000000_V.do?branchCd=B00173000",
-      "category": "한식>해물,생선요리",
+      "title": "진진만두 시청점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로6가 17-2 현대시티아울렛 9층",
-      "roadAddress": "서울특별시 중구 장충단로13길 20 현대시티아울렛 9층",
-      "mapx": "1270078685",
-      "mapy": "375689544"
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
     },
     {
       "title": "한식공간 소반",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 마른내로 13 2층",
       "mapx": "1269893575",
       "mapy": "375648861"
-    },
-    {
-      "title": "꽃게나라",
-      "link": "",
-      "category": "한식>게요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-40 213호, 214호, 215호",
-      "roadAddress": "서울특별시 중구 명동7길 21 213호, 214호, 215호",
-      "mapx": "1269838787",
-      "mapy": "375647371"
     }
   ]
 }

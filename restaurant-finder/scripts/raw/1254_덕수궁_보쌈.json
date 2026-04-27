@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375708167"
     },
     {
-      "title": "종로<b>보쌈</b>",
-      "link": "",
-      "category": "한식>족발,보쌈",
+      "title": "산채향 청계광장점",
+      "link": "https://www.instagram.com/sanchae_hyang_/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 충정로2가 124",
-      "roadAddress": "서울특별시 서대문구 충정로 73",
-      "mapx": "1269659572",
-      "mapy": "375653260"
+      "address": "서울특별시 중구 무교동 96 프리미어플레이스",
+      "roadAddress": "서울특별시 중구 청계천로 8 프리미어플레이스",
+      "mapx": "1269780888",
+      "mapy": "375688580"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:43 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375796715"
     },
     {
-      "title": "세종식당",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 154-5",
-      "roadAddress": "서울특별시 종로구 자하문로 31-10",
-      "mapx": "1269710095",
-      "mapy": "375786597"
-    },
-    {
       "title": "엄마손반찬집",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
       "mapx": "1269818280",
       "mapy": "375724939"
+    },
+    {
+      "title": "능라도 광화문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 3층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 3층",
+      "mapx": "1269722833",
+      "mapy": "375717008"
     }
   ]
 }

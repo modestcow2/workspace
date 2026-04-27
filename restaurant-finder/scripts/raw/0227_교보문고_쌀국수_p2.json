@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375657466"
     },
     {
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
+    },
+    {
       "title": "대성성 서순라길",
       "link": "https://app.catchtable.co.kr/ct/shop/daeseongseong",
       "category": "음식점>베트남음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
       "mapx": "1269782820",
       "mapy": "375684612"
-    },
-    {
-      "title": "서촌 깜온 본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 20 지하1층",
-      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
-      "mapx": "1269736913",
-      "mapy": "375764402"
     }
   ]
 }

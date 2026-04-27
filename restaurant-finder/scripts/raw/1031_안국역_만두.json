@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:13 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375781763"
     },
     {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
-    },
-    {
       "title": "개성<b>만두</b> 궁",
       "link": "http://www.koong.co.kr/",
       "category": "분식>만두",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 인사동10길 11-3",
       "mapx": "1269853889",
       "mapy": "375742917"
+    },
+    {
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
     },
     {
       "title": "밀양손<b>만두</b>",

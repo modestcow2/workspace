@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:26 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "남이<b>분식</b>",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로5가 281-2",
-      "roadAddress": "서울특별시 종로구 종로40가길 3",
-      "mapx": "1270065350",
-      "mapy": "375701990"
-    },
     {
       "title": "꼬소한부뚜막 광화문광장점",
       "link": "",
@@ -27,26 +16,26 @@
       "mapy": "375715135"
     },
     {
-      "title": "청담동 마녀김밥 광화문점",
+      "title": "남이<b>분식</b>",
       "link": "",
-      "category": "분식>김밥",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 204-1",
-      "roadAddress": "서울특별시 종로구 새문안로 105",
-      "mapx": "1269762542",
-      "mapy": "375704544"
+      "address": "서울특별시 종로구 종로5가 281-2",
+      "roadAddress": "서울특별시 종로구 종로40가길 3",
+      "mapx": "1270065350",
+      "mapy": "375701990"
     },
     {
-      "title": "뽁 현대아울렛 동대문점",
+      "title": "자매<b>분식</b>",
       "link": "",
-      "category": "분식>김밥",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
-      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
-      "mapx": "1270075065",
-      "mapy": "375688780"
+      "address": "서울특별시 중구 을지로5가 274-12",
+      "roadAddress": "서울특별시 중구 을지로36길 23",
+      "mapx": "1270017035",
+      "mapy": "375655379"
     },
     {
       "title": "신세계떡볶이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 명동9길 10",
       "mapx": "1269850160",
       "mapy": "375642992"
+    },
+    {
+      "title": "귀엽떡볶이 <b>종로</b>본점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로3가 16 1층",
+      "roadAddress": "서울특별시 종로구 종로 123 1층",
+      "mapx": "1269913684",
+      "mapy": "375707541"
     }
   ]
 }

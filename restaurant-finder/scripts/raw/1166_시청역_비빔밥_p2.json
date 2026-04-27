@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:16 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,8 +16,30 @@
       "mapy": "375622716"
     },
     {
-      "title": "오공일 명동점",
+      "title": "롯데호텔서울 무궁화",
+      "link": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-mugunghwa",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데호텔서울 본관 38층",
+      "roadAddress": "서울특별시 중구 을지로 30 롯데호텔서울 본관 38층",
+      "mapx": "1269816208",
+      "mapy": "375654272"
+    },
+    {
+      "title": "설품 덕수궁점",
       "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 366-1 지1층",
+      "roadAddress": "서울특별시 중구 덕수궁길 7 지1층",
+      "mapx": "1269763125",
+      "mapy": "375648395"
+    },
+    {
+      "title": "오공일 명동점",
+      "link": "https://ogongil.kr",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로14길 27-2",
       "mapx": "1269783798",
       "mapy": "375629704"
-    },
-    {
-      "title": "북창옥 시청 본점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 60 1~4층",
-      "roadAddress": "서울특별시 중구 남대문로1길 38 1~4층",
-      "mapx": "1269774247",
-      "mapy": "375627917"
-    },
-    {
-      "title": "이스트빌리지서울 광화문점",
-      "link": "https://www.instagram.com/East_Village.seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하 1층",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하 1층",
-      "mapx": "1269782820",
-      "mapy": "375684612"
     }
   ]
 }

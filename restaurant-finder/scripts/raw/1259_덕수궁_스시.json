@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:00 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "바닷가작은부엌 경희궁점",
-      "link": "http://www.seasidekitchen.co.kr/",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 12-5 5층",
-      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
-      "mapx": "1269698101",
-      "mapy": "375683937"
-    },
     {
       "title": "VIP참치 코리아나호텔점",
       "link": "https://smartstore.naver.com/viptuna_ko",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
       "mapx": "1269767357",
       "mapy": "375679986"
+    },
+    {
+      "title": "바닷가작은부엌 경희궁점",
+      "link": "http://www.seasidekitchen.co.kr/",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5 5층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
+      "mapx": "1269698101",
+      "mapy": "375683937"
     },
     {
       "title": "바닷가수라간 <b>덕수궁</b>점",

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:17 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "더테이블",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 25 지하1층",
-      "roadAddress": "서울특별시 중구 세종대로 124 지하1층",
-      "mapx": "1269777419",
-      "mapy": "375675523"
-    },
     {
       "title": "설가온",
       "link": "https://blog.naver.com/mdinc6",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 2층",
       "mapx": "1269765840",
       "mapy": "375683348"
+    },
+    {
+      "title": "더테이블",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 25 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 124 지하1층",
+      "mapx": "1269777419",
+      "mapy": "375675523"
     },
     {
       "title": "이스트빌리지서울 광화문점",

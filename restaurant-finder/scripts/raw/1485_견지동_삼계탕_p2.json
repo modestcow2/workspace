@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:45 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375806132"
     },
     {
-      "title": "서울<b>삼계탕</b>",
+      "title": "장수<b>삼계탕</b>",
       "link": "",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 17-8 2층",
-      "roadAddress": "서울특별시 중구 마른내로 19 2층",
-      "mapx": "1269901969",
-      "mapy": "375649565"
+      "address": "서울특별시 종로구 낙원동 236-1 낙원빌딩 2층 장수삼계탕",
+      "roadAddress": "서울특별시 종로구 종로17길 52 낙원빌딩 2층 장수삼계탕",
+      "mapx": "1269885250",
+      "mapy": "375724917"
     }
   ]
 }

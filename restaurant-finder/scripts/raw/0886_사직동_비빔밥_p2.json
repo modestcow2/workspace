@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:04 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:18:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "사발",
-      "link": "https://m.booking.naver.com/booking/6/bizes/700305/items/5403470?area=pll",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
       "mapx": "1269724791",
       "mapy": "375735857"
-    },
-    {
-      "title": "아이노가든키친",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-9 2층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
-      "mapx": "1269712704",
-      "mapy": "375728324"
     },
     {
       "title": "우슴 광화문 직영점",
@@ -38,26 +27,37 @@
       "mapy": "375717610"
     },
     {
-      "title": "광화문육회",
+      "title": "아이노가든키친",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 지하 1층 66호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하 1층 66호",
-      "mapx": "1269741426",
-      "mapy": "375719401"
+      "address": "서울특별시 종로구 내수동 110-9 2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
+      "mapx": "1269712704",
+      "mapy": "375728324"
     },
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "신안촌 본점",
+      "link": "https://catchtable.co.kr/sinanchon_og",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
+      "address": "서울특별시 종로구 내자동 152 1층",
+      "roadAddress": "서울특별시 종로구 사직로12길 8 1층",
+      "mapx": "1269708935",
+      "mapy": "375756401"
     }
   ]
 }

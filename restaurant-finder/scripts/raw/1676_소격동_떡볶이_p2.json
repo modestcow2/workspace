@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:15 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:28:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 (일층)",
+      "roadAddress": "서울특별시 종로구 삼청로 141 (일층)",
+      "mapx": "1269814603",
+      "mapy": "375880279"
+    },
     {
       "title": "먹쉬돈나 삼청동점",
       "link": "",
@@ -14,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
       "mapx": "1269819874",
       "mapy": "375834586"
-    },
-    {
-      "title": "슬로우파크",
-      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
     },
     {
       "title": "스낵서울",
@@ -38,17 +38,6 @@
       "mapy": "375837662"
     },
     {
-      "title": "감동칩스 북촌본점",
-      "link": "http://instagram.com/gamdongeg",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-6",
-      "roadAddress": "서울특별시 종로구 율곡로3길 83",
-      "mapx": "1269821091",
-      "mapy": "375793229"
-    },
-    {
       "title": "산수인",
       "link": "",
       "category": "술집>와인",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 86-2",
       "mapx": "1269819609",
       "mapy": "375831028"
+    },
+    {
+      "title": "냥이<b>떡볶이</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 63-11",
+      "roadAddress": "",
+      "mapx": "1269820530",
+      "mapy": "375833095"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:56 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375625022"
     },
     {
-      "title": "정동옹심이메밀칼국수",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 23-8",
-      "roadAddress": "서울특별시 중구 정동길 2-1",
-      "mapx": "1269693870",
-      "mapy": "375680070"
-    },
-    {
       "title": "풍년옥",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -49,15 +38,26 @@
       "mapy": "375714199"
     },
     {
-      "title": "나주소나주곰탕 신문로1가점",
+      "title": "정동옹심이메밀칼국수",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 23-8",
+      "roadAddress": "서울특별시 중구 정동길 2-1",
+      "mapx": "1269693870",
+      "mapy": "375680070"
+    },
+    {
+      "title": "광화문닭곰탕",
       "link": "",
       "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 31",
-      "roadAddress": "서울특별시 종로구 새문안로 87",
-      "mapx": "1269744139",
-      "mapy": "375703667"
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
+      "mapy": "375697325"
     }
   ]
 }

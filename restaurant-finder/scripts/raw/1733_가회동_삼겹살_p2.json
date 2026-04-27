@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:41 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
-      "category": "음식점>한식",
+      "title": "황칠가 안국점",
+      "link": "https://smartstore.naver.com/goodhealingshop",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
+      "address": "서울특별시 종로구 재동 109 지하 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
+      "mapx": "1269857055",
+      "mapy": "375774305"
     },
     {
       "title": "삼지",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
       "mapx": "1269860086",
       "mapy": "375782908"
-    },
-    {
-      "title": "황칠가 안국점",
-      "link": "https://smartstore.naver.com/goodhealingshop",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 109 지하 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
-      "mapx": "1269857055",
-      "mapy": "375774305"
     },
     {
       "title": "담솥 안국역점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 8",
       "mapx": "1269861859",
       "mapy": "375778300"
+    },
+    {
+      "title": "뭉치바위",
+      "link": "",
+      "category": "한식>쌈밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 원서동 141",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 10",
+      "mapx": "1269887329",
+      "mapy": "375794450"
     }
   ]
 }

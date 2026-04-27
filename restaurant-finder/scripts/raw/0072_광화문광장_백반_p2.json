@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:08:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375728300"
     },
     {
-      "title": "사랑방칼국수",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로3가 23-1",
-      "roadAddress": "서울특별시 중구 퇴계로27길 46",
-      "mapx": "1269913418",
-      "mapy": "375632872"
-    },
-    {
       "title": "꿀밥상",
       "link": "",
       "category": "한식>한정식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 101 1층",
       "mapx": "1269818749",
       "mapy": "375844611"
+    },
+    {
+      "title": "사랑방칼국수",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로3가 23-1",
+      "roadAddress": "서울특별시 중구 퇴계로27길 46",
+      "mapx": "1269913418",
+      "mapy": "375632872"
     },
     {
       "title": "동백식당",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:59 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375770264"
     },
     {
-      "title": "도트블랭킷 삼청한옥점",
-      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 95 1층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
-      "mapx": "1269812371",
-      "mapy": "375800959"
-    },
-    {
       "title": "땡스오트 안국",
       "link": "https://www.thanksoat.co.kr/",
       "category": "음식점>카페,디저트",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 21-10 1층",
       "mapx": "1269846561",
       "mapy": "375787585"
+    },
+    {
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
     },
     {
       "title": "아메리칸 <b>브런치</b> 카페",
@@ -49,15 +49,15 @@
       "mapy": "375767815"
     },
     {
-      "title": "팔발라 삼청본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Y2F0Y2hfRkFreVJOak4xWThFVFJlaDdUSDVJUT09",
-      "category": "음식점>프랑스음식",
+      "title": "카페포엠 북촌점",
+      "link": "https://www.instagram.com/cafefourm",
+      "category": "브런치카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 팔판동 161",
-      "roadAddress": "서울특별시 종로구 삼청로 61",
-      "mapx": "1269806419",
-      "mapy": "375813350"
+      "address": "서울특별시 종로구 안국동 1 1, 2층 카페포엠",
+      "roadAddress": "서울특별시 종로구 북촌로5길 19-4 1, 2층 카페포엠",
+      "mapx": "1269838418",
+      "mapy": "375792776"
     }
   ]
 }

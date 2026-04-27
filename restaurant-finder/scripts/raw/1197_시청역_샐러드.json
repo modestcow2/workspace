@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:31 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:22:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "르풀",
-      "link": "https://www.instagram.com/lepul/",
-      "category": "카페,디저트>카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 1-28 신아일보",
-      "roadAddress": "서울특별시 중구 정동길 33 신아일보",
-      "mapx": "1269722338",
-      "mapy": "375660943"
-    },
     {
       "title": "그리너 남대문점",
       "link": "",
@@ -27,26 +16,15 @@
       "mapy": "375603412"
     },
     {
-      "title": "크리스피프레시 광화문점",
-      "link": "https://www.instagram.com/crispyfreshsalad",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "르풀",
+      "link": "https://www.instagram.com/lepul/",
+      "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 39 케이스퀘어시티 1층",
-      "roadAddress": "서울특별시 중구 청계천로 24 케이스퀘어시티 1층",
-      "mapx": "1269803445",
-      "mapy": "375686380"
-    },
-    {
-      "title": "어쩌다농부 팬트리 소공점",
-      "link": "https://www.instagram.com/oopspantry",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 79-2 1층 어쩌다농부 팬트리 소공점",
-      "roadAddress": "서울특별시 중구 소공로 96 1층 어쩌다농부 팬트리 소공점",
-      "mapx": "1269801180",
-      "mapy": "375635658"
+      "address": "서울특별시 중구 정동 1-28 신아일보",
+      "roadAddress": "서울특별시 중구 정동길 33 신아일보",
+      "mapx": "1269722338",
+      "mapy": "375660943"
     },
     {
       "title": "라그린",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 중구 정동길 26 이화여고100주년기념관",
       "mapx": "1269707874",
       "mapy": "375664638"
+    },
+    {
+      "title": "카페이마",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 139-8 일민미술관 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 152 일민미술관 1층",
+      "mapx": "1269776958",
+      "mapy": "375698359"
+    },
+    {
+      "title": "크리스피프레시 광화문점",
+      "link": "https://www.instagram.com/crispyfreshsalad",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 39 케이스퀘어시티 1층",
+      "roadAddress": "서울특별시 중구 청계천로 24 케이스퀘어시티 1층",
+      "mapx": "1269803445",
+      "mapy": "375686380"
     }
   ]
 }

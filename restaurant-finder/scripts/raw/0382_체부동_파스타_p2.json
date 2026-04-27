@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:08 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375769814"
     },
     {
-      "title": "노브13 서촌",
-      "link": "https://blog.naver.com/kehchoi",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 18-9 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 19 1층",
-      "mapx": "1269706686",
-      "mapy": "375786700"
-    },
-    {
       "title": "틴 서울",
       "link": "https://www.instagram.com/tiiin.seoul",
       "category": "음식점>양식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 17 1~2층",
       "mapx": "1269709368",
       "mapy": "375775737"
+    },
+    {
+      "title": "노브13 서촌",
+      "link": "https://blog.naver.com/kehchoi",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 18-9 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 19 1층",
+      "mapx": "1269706686",
+      "mapy": "375786700"
     },
     {
       "title": "유앤피",
@@ -49,15 +49,15 @@
       "mapy": "375756345"
     },
     {
-      "title": "사토루 더 서촌",
-      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
-      "category": "음식점>일식>일식당",
+      "title": "캥거루",
+      "link": "https://www.instagram.com/kangaroo_seochon",
+      "category": "술집>와인",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 24",
-      "roadAddress": "서울특별시 종로구 자하문로7길 11",
-      "mapx": "1269709856",
-      "mapy": "375783639"
+      "address": "서울특별시 종로구 체부동 120-14 3층 캥거루",
+      "roadAddress": "서울특별시 종로구 자하문로5길 18-13 3층 캥거루",
+      "mapx": "1269702694",
+      "mapy": "375779276"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:57 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:15:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375699683"
     },
     {
+      "title": "인사동마늘<b>보쌈</b>",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
+    },
+    {
+      "title": "손정<b>보쌈</b> 종로점",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-11 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 24 1층",
+      "mapx": "1269861610",
+      "mapy": "375688950"
+    },
+    {
       "title": "종로 흥부가",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -28,7 +50,7 @@
     },
     {
       "title": "애호락 안국본점",
-      "link": "",
+      "link": "https://www.instagram.com/aehorock",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
       "mapx": "1269866350",
       "mapy": "375791838"
-    },
-    {
-      "title": "인사동마늘<b>보쌈</b>",
-      "link": "https://insadonggarlicbossam.com",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-4",
-      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
-      "mapx": "1269861892",
-      "mapy": "375739819"
-    },
-    {
-      "title": "천하<b>보쌈</b>",
-      "link": "http://instagram.com/chunhabs_official",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 원서동 144 천하보쌈",
-      "roadAddress": "서울특별시 종로구 창덕궁1길 8 천하보쌈",
-      "mapx": "1269888545",
-      "mapy": "375794396"
     }
   ]
 }

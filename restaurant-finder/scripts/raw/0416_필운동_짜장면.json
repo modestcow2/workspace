@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:24 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:12:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375801579"
     },
     {
-      "title": "도원",
-      "link": "",
+      "title": "라이빈",
+      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 평동 164 서울적십자병원 별관 3층 도원",
-      "roadAddress": "서울특별시 종로구 새문안로 9 서울적십자병원 별관 3층 도원",
-      "mapx": "1269673413",
-      "mapy": "375669224"
+      "address": "서울특별시 서대문구 옥천동 15 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
+      "mapx": "1269624726",
+      "mapy": "375696654"
     }
   ]
 }

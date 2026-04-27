@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:35 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:14:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375761905"
     },
     {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "title": "이가면옥",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
+      "address": "서울특별시 종로구 필운동 205-1 이가면옥",
+      "roadAddress": "서울특별시 종로구 자하문로1길 33 이가면옥",
+      "mapx": "1269703779",
+      "mapy": "375765099"
     },
     {
       "title": "김진목삼",
@@ -38,26 +38,26 @@
       "mapy": "375771457"
     },
     {
-      "title": "영삼이네 우정소갈비 서촌점",
-      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
-      "category": "한식>소고기구이",
+      "title": "안덕",
+      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 20 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
-      "mapx": "1269712072",
-      "mapy": "375763691"
+      "address": "서울특별시 종로구 옥인동 19-53 1층",
+      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
+      "mapx": "1269696346",
+      "mapy": "375815060"
     },
     {
-      "title": "김진목삼 2호점",
-      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam_second",
-      "category": "한식>돼지고기구이",
+      "title": "서촌기와집 본점",
+      "link": "http://서촌기와집.com/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 68 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 9 1층",
-      "mapx": "1269719891",
-      "mapy": "375769255"
+      "address": "서울특별시 종로구 필운동 204-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 35",
+      "mapx": "1269702575",
+      "mapy": "375765504"
     }
   ]
 }

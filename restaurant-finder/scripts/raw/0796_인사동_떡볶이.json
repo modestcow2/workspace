@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:17:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "예술김밥 본점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 183-4",
-      "roadAddress": "서울특별시 종로구 인사동5길 4",
-      "mapx": "1269858560",
-      "mapy": "375730834"
-    },
     {
       "title": "라밥 종각점",
       "link": "https://www.youtube.com/@Rohseungill",
@@ -38,26 +27,37 @@
       "mapy": "375721281"
     },
     {
-      "title": "응답한다1988 <b>떡볶이</b> 종로",
+      "title": "예술김밥 본점",
       "link": "",
-      "category": "분식>떡볶이",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 1층",
-      "mapx": "1269879400",
-      "mapy": "375727435"
+      "address": "서울특별시 종로구 인사동 183-4",
+      "roadAddress": "서울특별시 종로구 인사동5길 4",
+      "mapx": "1269858560",
+      "mapy": "375730834"
     },
     {
-      "title": "동대문엽기<b>떡볶이</b> 종각점",
-      "link": "https://blog.naver.com/ddm_yupdduk",
+      "title": "김가네 종각역점",
+      "link": "https://blog.naver.com/gimkong7127",
       "category": "음식점>분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 공평동 124",
-      "roadAddress": "서울특별시 종로구 삼봉로 100",
-      "mapx": "1269827202",
-      "mapy": "375719329"
+      "address": "서울특별시 종로구 종로2가 8-4",
+      "roadAddress": "서울특별시 종로구 종로 65",
+      "mapx": "1269845724",
+      "mapy": "375704283"
+    },
+    {
+      "title": "리김밥 센트로폴리스점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 1층 8A 리김밥",
+      "roadAddress": "서울특별시 종로구 우정국로 26 1층 8A 리김밥",
+      "mapx": "1269836590",
+      "mapy": "375714967"
     }
   ]
 }

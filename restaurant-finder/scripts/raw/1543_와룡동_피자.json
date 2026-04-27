@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "파스타마켓 혜화 본점",
-      "link": "https://www.instagram.com/Pasta_market",
-      "category": "이탈리아음식>스파게티,파스타전문",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 103-6 1층 파스타마켓",
-      "roadAddress": "서울특별시 종로구 대학로11길 9-5 1층 파스타마켓",
-      "mapx": "1270012480",
-      "mapy": "375820794"
-    },
     {
       "title": "디마떼오",
       "link": "http://www.dimatteo.co.kr/",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 동숭길 29 디마떼오",
       "mapx": "1270039695",
       "mapy": "375799156"
+    },
+    {
+      "title": "파스타마켓 혜화 본점",
+      "link": "https://www.instagram.com/Pasta_market",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 103-6 1층 파스타마켓",
+      "roadAddress": "서울특별시 종로구 대학로11길 9-5 1층 파스타마켓",
+      "mapx": "1270012480",
+      "mapy": "375820794"
     },
     {
       "title": "살롱순라 서순라길점",
@@ -38,15 +38,15 @@
       "mapy": "375741979"
     },
     {
-      "title": "계동<b>피자</b>",
-      "link": "https://youtube.com/@kindk7985",
-      "category": "음식점>피자",
+      "title": "지오쿠치나익선",
+      "link": "https://ziocucina-ikseon.com/",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 82-1 1층 피자",
-      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
-      "mapx": "1269866587",
-      "mapy": "375801802"
+      "address": "서울특별시 종로구 익선동 166-35",
+      "roadAddress": "서울특별시 종로구 수표로28길 33-11",
+      "mapx": "1269900907",
+      "mapy": "375737098"
     },
     {
       "title": "옥수동화덕<b>피자</b> 종각",

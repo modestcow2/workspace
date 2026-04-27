@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:38 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:24:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375685586"
     },
     {
-      "title": "세븐티포 <b>명동</b>성당본점",
-      "link": "https://www.instagram.com/74_myeongdong/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 1-18 명동성당 파밀리아채플 1층",
-      "roadAddress": "서울특별시 중구 명동길 66 명동성당 파밀리아채플 1층",
-      "mapx": "1269861464",
-      "mapy": "375639182"
-    },
-    {
       "title": "도우큐먼트",
       "link": "https://www.instagram.com/doughcument",
       "category": "음식점>피자",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 남대문로 81 지하1층",
       "mapx": "1269809381",
       "mapy": "375643717"
+    },
+    {
+      "title": "마노디셰프 <b>명동</b>점",
+      "link": "http://www.manodichef.co.kr/",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 50-14 유네스코회관 11층",
+      "roadAddress": "서울특별시 중구 명동길 26 유네스코회관 11층",
+      "mapx": "1269837519",
+      "mapy": "375634602"
     }
   ]
 }

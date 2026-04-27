@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:23 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,28 +27,6 @@
       "mapy": "375766155"
     },
     {
-      "title": "만석꾼",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 43-3",
-      "roadAddress": "서울특별시 종로구 자하문로2길 9",
-      "mapx": "1269732552",
-      "mapy": "375765769"
-    },
-    {
-      "title": "도틔대가",
-      "link": "https://catchtable.co.kr/dottydaega",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 54-1 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
-      "mapx": "1269720264",
-      "mapy": "375765472"
-    },
-    {
       "title": "서래미소 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
       "category": "한식>육류,고기요리",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
       "mapx": "1269726487",
       "mapy": "375770180"
+    },
+    {
+      "title": "봉피양 <b>경복궁</b>점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    },
+    {
+      "title": "만석꾼",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 43-3",
+      "roadAddress": "서울특별시 종로구 자하문로2길 9",
+      "mapx": "1269732552",
+      "mapy": "375765769"
     }
   ]
 }

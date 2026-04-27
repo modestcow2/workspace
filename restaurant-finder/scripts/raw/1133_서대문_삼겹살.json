@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:00 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:21:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "설레임<b>삼겹살</b> 신촌점",
-      "link": "",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 57-40 낙원빌딩",
-      "roadAddress": "서울특별시 서대문구 연세로5가길 31 낙원빌딩",
-      "mapx": "1269349169",
-      "mapy": "375572216"
-    },
     {
       "title": "신촌고기창고",
       "link": "https://app.catchtable.co.kr/ct/shop/sinchongogichanggo?from=share&type=DINING",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 서대문구 연세로7길 34-4",
       "mapx": "1269350635",
       "mapy": "375578649"
+    },
+    {
+      "title": "설레임<b>삼겹살</b> 신촌점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-40 낙원빌딩",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 31 낙원빌딩",
+      "mapx": "1269349169",
+      "mapy": "375572216"
     },
     {
       "title": "구이마을",
@@ -38,15 +38,15 @@
       "mapy": "375573855"
     },
     {
-      "title": "리정원 연희점",
-      "link": "",
-      "category": "한식>육류,고기요리",
+      "title": "돈불1971",
+      "link": "https://blog.naver.com/yunicrom",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 193-16",
-      "roadAddress": "서울특별시 서대문구 연희맛로 4",
-      "mapx": "1269286242",
-      "mapy": "375658550"
+      "address": "서울특별시 서대문구 창천동 62-37 돈불1971",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 36 돈불1971",
+      "mapx": "1269336212",
+      "mapy": "375569543"
     },
     {
       "title": "리정원 신촌점",
@@ -56,8 +56,8 @@
       "telephone": "",
       "address": "서울특별시 서대문구 창천동 9-26 1층 리정원",
       "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
-      "mapx": "1269393882",
-      "mapy": "375591466"
+      "mapx": "1269392717",
+      "mapy": "375591233"
     }
   ]
 }

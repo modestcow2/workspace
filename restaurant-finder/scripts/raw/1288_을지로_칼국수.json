@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:13 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375683116"
     },
     {
-      "title": "본가원조닭한마리",
-      "link": "",
-      "category": "한식>닭요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 초동 54",
-      "roadAddress": "서울특별시 중구 마른내로2길 19",
-      "mapx": "1269920102",
-      "mapy": "375635413"
-    },
-    {
       "title": "대동옥 <b>을지로</b>본점",
       "link": "https://www.instagram.com/daedongok",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375659680"
     },
     {
-      "title": "을지수제비",
-      "link": "http://www.수제비.kr/",
-      "category": "음식점>한식",
+      "title": "본가원조닭한마리",
+      "link": "",
+      "category": "한식>닭요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 291-14",
-      "roadAddress": "서울특별시 중구 충무로 50-1",
-      "mapx": "1269930161",
-      "mapy": "375656952"
+      "address": "서울특별시 중구 초동 54",
+      "roadAddress": "서울특별시 중구 마른내로2길 19",
+      "mapx": "1269920102",
+      "mapy": "375635413"
+    },
+    {
+      "title": "을지<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 291-45",
+      "roadAddress": "서울특별시 중구 충무로 54-3",
+      "mapx": "1269929795",
+      "mapy": "375660942"
     }
   ]
 }

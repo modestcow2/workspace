@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375781763"
     },
     {
-      "title": "배떡 로제떡볶이 종로점",
-      "link": "",
+      "title": "틈새라면 안국역점",
+      "link": "http://www.teumsae.com",
       "category": "음식점>분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
-      "roadAddress": "서울특별시 종로구 북촌로 35-4",
-      "mapx": "1269847145",
-      "mapy": "375798137"
+      "address": "서울특별시 종로구 재동 111-1 틈새라면 안국역점",
+      "roadAddress": "서울특별시 종로구 율곡로 59 틈새라면 안국역점",
+      "mapx": "1269857828",
+      "mapy": "375768858"
     },
     {
       "title": "명품삼청동떡볶이",
@@ -49,15 +49,15 @@
       "mapy": "375798891"
     },
     {
-      "title": "틈새라면 안국역점",
-      "link": "http://www.teumsae.com",
+      "title": "배떡 로제떡볶이 종로점",
+      "link": "",
       "category": "음식점>분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 111-1 틈새라면 안국역점",
-      "roadAddress": "서울특별시 종로구 율곡로 59 틈새라면 안국역점",
-      "mapx": "1269857828",
-      "mapy": "375768858"
+      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
+      "roadAddress": "서울특별시 종로구 북촌로 35-4",
+      "mapx": "1269847145",
+      "mapy": "375798137"
     }
   ]
 }

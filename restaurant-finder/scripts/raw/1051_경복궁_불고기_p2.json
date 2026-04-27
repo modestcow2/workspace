@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:22 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:20:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375772562"
     },
     {
-      "title": "모도우 광화문점",
-      "link": "https://openine.com/PARTY",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 14 트윈트리타워 B동 M층",
-      "roadAddress": "서울특별시 종로구 율곡로 6 트윈트리타워 B동 M층",
-      "mapx": "1269799056",
-      "mapy": "375755265"
-    },
-    {
       "title": "뚱낙원",
       "link": "",
       "category": "음식점>한식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 15 뚱낙원",
       "mapx": "1269735625",
       "mapy": "375765667"
+    },
+    {
+      "title": "활짝핀메밀 <b>경복궁</b>역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
     },
     {
       "title": "서래미소 광화문점",

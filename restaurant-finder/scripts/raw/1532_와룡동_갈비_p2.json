@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:06 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:26:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375747270"
     },
     {
+      "title": "육미안 혜화점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yookmian",
+      "category": "육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 182-1 1층 육미안",
+      "roadAddress": "서울특별시 종로구 창경궁로 246-4 1층 육미안",
+      "mapx": "1269993945",
+      "mapy": "375832566"
+    },
+    {
       "title": "미도<b>갈비</b>",
       "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
       "category": "한식>육류,고기요리",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
       "mapx": "1269861462",
       "mapy": "375687918"
-    },
-    {
-      "title": "육미안 혜화점",
-      "link": "https://app.catchtable.co.kr/ct/shop/yookmian",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 명륜2가 182-1 1층 육미안",
-      "roadAddress": "서울특별시 종로구 창경궁로 246-4 1층 육미안",
-      "mapx": "1269993945",
-      "mapy": "375832566"
     },
     {
       "title": "전설의우대<b>갈비</b> 서울시청직영점",
@@ -49,15 +49,15 @@
       "mapy": "375669879"
     },
     {
-      "title": "온점 을지로점",
-      "link": "https://www.instagram.com/onjeom.seoul",
-      "category": "한식>육류,고기요리",
+      "title": "심경희라라랜드 광화문",
+      "link": "",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 87 지1층",
-      "roadAddress": "서울특별시 중구 을지로 29 지1층",
-      "mapx": "1269810422",
-      "mapy": "375664910"
+      "address": "서울특별시 종로구 견지동 110 1층 113~116호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
+      "mapx": "1269824621",
+      "mapy": "375726226"
     }
   ]
 }

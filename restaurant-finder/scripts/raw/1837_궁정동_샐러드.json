@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:27 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:30:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375800959"
     },
     {
-      "title": "H라운지",
-      "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>양식",
+      "title": "애즈라이크 서촌",
+      "link": "http://www.instagram.com/aslike_",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-21",
-      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
+      "address": "서울특별시 종로구 통의동 7-33 1층 애즈라이크",
+      "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
+      "mapx": "1269733577",
+      "mapy": "375783143"
     }
   ]
 }

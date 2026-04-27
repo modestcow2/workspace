@@ -1,9 +1,42 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:27:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "유소바 안국역점",
+      "link": "https://www.instagram.com/usoba.kr",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-56 1층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 32 1층",
+      "mapx": "1269874771",
+      "mapy": "375794190"
+    },
+    {
+      "title": "진작 카키",
+      "link": "https://naver.me/xWzWzIYt",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-44 진작카키 안국점",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 38 진작카키 안국점",
+      "mapx": "1269871165",
+      "mapy": "375794798"
+    },
+    {
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
+    },
     {
       "title": "아모르나폴리 안국점",
       "link": "https://booking.kakao.com/short/yw7YSaYnai",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 45 오설록",
       "mapx": "1269845855",
       "mapy": "375810207"
-    },
-    {
-      "title": "애호락 안국본점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
-      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
-      "mapx": "1269866350",
-      "mapy": "375791838"
-    },
-    {
-      "title": "소금집델리 안국",
-      "link": "https://www.salthousekorea.com",
-      "category": "양식>샌드위치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 101-12 1층",
-      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
-      "mapx": "1269863175",
-      "mapy": "375794136"
-    },
-    {
-      "title": "어니언 안국",
-      "link": "http://onionkr.com",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 146-1 카페 어니언",
-      "roadAddress": "서울특별시 종로구 계동길 5 카페 어니언",
-      "mapx": "1269865244",
-      "mapy": "375774607"
     }
   ]
 }

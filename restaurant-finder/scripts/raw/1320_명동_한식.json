@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:28 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:23:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "서관면옥 신세계백화점 본점",
+      "link": "https://www.instagram.com/seogwanmyenog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 디 에스테이트 14층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 디 에스테이트 14층",
+      "mapx": "1269806346",
+      "mapy": "375603977"
+    },
     {
       "title": "목멱산방 남산타워점",
       "link": "http://instagram.com/m_horaeng",
@@ -16,48 +27,37 @@
       "mapy": "375553582"
     },
     {
-      "title": "육통령 <b>명동</b>본점",
+      "title": "남포면옥",
       "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "남산의사계절",
+      "link": "http://instagram.com/namsansagye",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
+      "address": "서울특별시 중구 회현동1가 100-49 남산의사계절",
+      "roadAddress": "서울특별시 중구 퇴계로8길 54 남산의사계절",
+      "mapx": "1269796824",
+      "mapy": "375571136"
     },
     {
-      "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
-      "category": "음식점>한식",
+      "title": "군자대한곱창 <b>명동</b>점",
+      "link": "https://www.siksinhot.com/P/1249514",
+      "category": "육류,고기요리>곱창,막창,양",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
-      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
-      "mapx": "1269869447",
-      "mapy": "375581107"
-    },
-    {
-      "title": "청기와타운 을지로점",
-      "link": "https://catchtable.co.kr/bluerooftown5",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-21 1층 청기와타운 을지로점",
-      "roadAddress": "서울특별시 중구 을지로 54 1층 청기와타운 을지로점",
-      "mapx": "1269836749",
-      "mapy": "375659020"
-    },
-    {
-      "title": "손의손 <b>명동</b>점",
-      "link": "https://손의손.com/",
-      "category": "해물,생선요리>주꾸미요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-40 1층 105호",
-      "roadAddress": "서울특별시 중구 명동7길 21 1층 105호",
-      "mapx": "1269836799",
-      "mapy": "375646651"
+      "address": "서울특별시 중구 명동1가 42-2 1층",
+      "roadAddress": "서울특별시 중구 명동7길 18-1 1층",
+      "mapx": "1269844044",
+      "mapy": "375645891"
     }
   ]
 }

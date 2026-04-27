@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:44 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:25:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -23,8 +23,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 권농동 189-2 2층",
       "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
-      "mapx": "1269921258",
-      "mapy": "375742436"
+      "mapx": "1269921439",
+      "mapy": "375742047"
     },
     {
       "title": "살롱순라 서순라길점",
@@ -49,15 +49,15 @@
       "mapy": "375781862"
     },
     {
-      "title": "오늘그대와 익선",
-      "link": "https://app.catchtable.co.kr/ct/shop/todaywithyou",
+      "title": "한옥달 레스토랑",
+      "link": "https://catchtable.co.kr/ct/shop/hanokdal",
       "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-48 1층 오늘그대와익선",
-      "roadAddress": "서울특별시 종로구 수표로28길 21-11 1층 오늘그대와익선",
-      "mapx": "1269897142",
-      "mapy": "375733855"
+      "address": "서울특별시 종로구 체부동 68",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 9",
+      "mapx": "1269718720",
+      "mapy": "375769814"
     }
   ]
 }

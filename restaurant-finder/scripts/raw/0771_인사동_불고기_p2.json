@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:11 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:16:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375721281"
     },
     {
-      "title": "<b>인사동</b> 촌",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 84-17",
-      "roadAddress": "서울특별시 종로구 인사동14길 19",
-      "mapx": "1269851231",
-      "mapy": "375750012"
-    },
-    {
       "title": "사리원<b>불고기</b>[본사] 안녕<b>인사동</b>점",
       "link": "http://www.sariwon.co.kr",
       "category": "한식>육류,고기요리",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 4층",
       "mapx": "1269834384",
       "mapy": "375743233"
+    },
+    {
+      "title": "<b>인사동</b> 촌",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 84-17",
+      "roadAddress": "서울특별시 종로구 인사동14길 19",
+      "mapx": "1269851231",
+      "mapy": "375750012"
     },
     {
       "title": "인사 안집 본점",

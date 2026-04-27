@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:07 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:10:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375617228"
     },
     {
-      "title": "관호 광화문점",
-      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
-      "category": "한식>육류,고기요리",
+      "title": "바른고기 정육점 광화문SFC점",
+      "link": "",
+      "category": "육류,고기요리>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-9 2층",
-      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
-      "mapx": "1269762626",
-      "mapy": "375684239"
+      "address": "서울특별시 중구 태평로1가 84 지하2층, B202호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하2층, B202호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     }
   ]
 }

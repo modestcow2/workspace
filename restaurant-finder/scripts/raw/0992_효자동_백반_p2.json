@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:55 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:19:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375786597"
     },
     {
-      "title": "창성갈비",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 136",
-      "roadAddress": "서울특별시 종로구 자하문로 40-1",
-      "mapx": "1269715716",
-      "mapy": "375796602"
-    },
-    {
       "title": "<b>효자동</b>밥상",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 62 1층",
       "mapx": "1269710519",
       "mapy": "375816457"
+    },
+    {
+      "title": "가정식당",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 20",
+      "roadAddress": "서울특별시 종로구 자하문로7길 69",
+      "mapx": "1269689620",
+      "mapy": "375802560"
     }
   ]
 }

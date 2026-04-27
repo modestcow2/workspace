@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:33 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:11:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375710184"
     },
     {
-      "title": "냐항in안국",
-      "link": "https://www.instagram.com/nhahang_anguk",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 65-1 1층",
-      "roadAddress": "서울특별시 종로구 윤보선길 34-1 1층",
-      "mapx": "1269839227",
-      "mapy": "375776536"
-    },
-    {
       "title": "알로이막막",
       "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
       "category": "음식점>태국음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
       "mapx": "1269705861",
       "mapy": "375790359"
+    },
+    {
+      "title": "반쿤콴",
+      "link": "https://www.instagram.com/baankhunkwan",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 43-7 3층",
+      "roadAddress": "서울특별시 종로구 종로10길 20 3층",
+      "mapx": "1269843204",
+      "mapy": "375691837"
     }
   ]
 }

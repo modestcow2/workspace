@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:59 +0900",
+  "lastBuildDate": "Mon, 27 Apr 2026 15:29:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375693280"
     },
     {
-      "title": "서촌 곳간",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 146-1 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
-      "mapx": "1269693165",
-      "mapy": "375766924"
-    },
-    {
       "title": "장충가마솥한방<b>족발</b>",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 영천시장길 31 1층",
       "mapx": "1269612443",
       "mapy": "375708161"
+    },
+    {
+      "title": "서촌 곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 146-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
+      "mapx": "1269693165",
+      "mapy": "375766924"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:55 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:50:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375700049"
     },
     {
-      "title": "청킹마마",
-      "link": "https://www.lumi.co.kr/",
+      "title": "천향",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 18-10 2층",
-      "roadAddress": "서울특별시 종로구 우정국로2길 29 2층",
-      "mapx": "1269845378",
-      "mapy": "375696958"
+      "address": "서울특별시 종로구 청진동 11-3 2,3층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-3 2,3층",
+      "mapx": "1269807512",
+      "mapy": "375718671"
     },
     {
-      "title": "마라공방 종각2호점",
-      "link": "http://www.maragongbang.com",
-      "category": "중식>마라탕",
+      "title": "마라중독",
+      "link": "",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층",
-      "roadAddress": "서울특별시 종로구 종로 19 1층",
-      "mapx": "1269798224",
-      "mapy": "375708585"
+      "address": "서울특별시 종로구 관철동 7-1 2층",
+      "roadAddress": "서울특별시 종로구 삼일대로 391 2층",
+      "mapx": "1269874452",
+      "mapy": "375695065"
     }
   ]
 }

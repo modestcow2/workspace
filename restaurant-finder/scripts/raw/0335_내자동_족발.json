@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:46 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:44:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375764124"
     },
     {
-      "title": "명작신의주찹쌀순대",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
-      "mapx": "1269686008",
-      "mapy": "375744035"
-    },
-    {
       "title": "오서방왕<b>족발</b>",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -49,15 +38,26 @@
       "mapy": "375744412"
     },
     {
-      "title": "본가서대문<b>족발</b> 본점",
+      "title": "효자왕<b>족발</b>",
+      "link": "https://www.instagram.com/seochonhotpot",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
+    },
+    {
+      "title": "고려보쌈",
       "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 미근동 31-14",
-      "roadAddress": "서울특별시 서대문구 충정로6안길 54",
-      "mapx": "1269668935",
-      "mapy": "375644552"
+      "address": "서울특별시 중구 무교동 25-1 원창빌딩",
+      "roadAddress": "서울특별시 중구 세종대로20길 23 원창빌딩",
+      "mapx": "1269787500",
+      "mapy": "375671549"
     }
   ]
 }

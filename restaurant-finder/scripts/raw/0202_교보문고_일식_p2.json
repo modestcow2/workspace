@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:42 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "동해도 광화문점",
-      "link": "https://www.instagram.com/donghaedo1987",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
-      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
-      "mapx": "1269794820",
-      "mapy": "375684296"
-    },
     {
       "title": "오레노 야끼 종로점",
       "link": "https://catchtable.co.kr/orenoyakki",
@@ -27,15 +16,26 @@
       "mapy": "375730606"
     },
     {
-      "title": "야마야 광화문 디타워점",
-      "link": "https://store.kakao.com/yamaya/products/688567667",
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 광화문 D타워 4층",
-      "roadAddress": "서울특별시 종로구 종로3길 17 (청진동) 광화문 D타워 4층",
-      "mapx": "1269789694",
-      "mapy": "375710184"
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
+    },
+    {
+      "title": "진작",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 46-27 1층",
+      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
+      "mapx": "1269908216",
+      "mapy": "375640300"
     },
     {
       "title": "도토리브라더스 광화문본점",
@@ -49,15 +49,15 @@
       "mapy": "375729254"
     },
     {
-      "title": "진작",
-      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 46-27 1층",
-      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
-      "mapx": "1269908216",
-      "mapy": "375640300"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

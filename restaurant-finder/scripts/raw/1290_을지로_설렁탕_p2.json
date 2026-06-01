@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:14 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375666640"
     },
     {
-      "title": "이남장 명동점",
-      "link": "https://www.instagram.com/i.nam.jang.myeongdong/",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-63 1~2층 이남장 명동점",
-      "roadAddress": "서울특별시 중구 명동9길 39 1~2층 이남장 명동점",
-      "mapx": "1269840776",
-      "mapy": "375655402"
-    },
-    {
       "title": "우촌",
       "link": "",
       "category": "한식>소고기구이",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 을지로12길 24 1층 우촌",
       "mapx": "1269908043",
       "mapy": "375652689"
+    },
+    {
+      "title": "이남장 명동점",
+      "link": "https://www.instagram.com/i.nam.jang.myeongdong/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-63 1~2층 이남장 명동점",
+      "roadAddress": "서울특별시 중구 명동9길 39 1~2층 이남장 명동점",
+      "mapx": "1269840776",
+      "mapy": "375655402"
     },
     {
       "title": "충무로 파주옥",

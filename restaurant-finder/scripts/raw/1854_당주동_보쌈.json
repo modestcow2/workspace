@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:35 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375756107"
     },
     {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
-    {
       "title": "족발야시장&amp;무청감자탕 광화문점",
       "link": "https://go.catchtable.co.kr/zyn34t",
       "category": "육류,고기요리>족발,보쌈",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 지상1층 101호",
       "mapx": "1269728682",
       "mapy": "375719236"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
     },
     {
       "title": "다온",
@@ -49,15 +49,15 @@
       "mapy": "375709857"
     },
     {
-      "title": "다온돈가",
+      "title": "육대장 광화문점",
       "link": "",
-      "category": "한식>육류,고기요리",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 167-3 1층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11-9 1층",
-      "mapx": "1269743828",
-      "mapy": "375710945"
+      "address": "서울특별시 종로구 당주동 37-6 1층 육대장",
+      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 1층 육대장",
+      "mapx": "1269750109",
+      "mapy": "375710027"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:44 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:44:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375762475"
     },
     {
-      "title": "신가원 <b>설렁탕</b>",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 141 신가원설렁탕",
-      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
-      "mapx": "1269815002",
-      "mapy": "375670246"
-    },
-    {
       "title": "은설<b>설렁탕</b>",
       "link": "https://youtube.com/@eunsul_foodie",
       "category": "음식점>한식",
@@ -38,15 +27,15 @@
       "mapy": "375816001"
     },
     {
-      "title": "흥진옥",
+      "title": "신가원 <b>설렁탕</b>",
       "link": "",
-      "category": "한식>해장국",
+      "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 142-1",
-      "roadAddress": "서울특별시 종로구 종로5길 19-12",
-      "mapx": "1269802523",
-      "mapy": "375713900"
+      "address": "서울특별시 중구 다동 141 신가원설렁탕",
+      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
+      "mapx": "1269815002",
+      "mapy": "375670246"
     },
     {
       "title": "풍년옥",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로7길 26",
       "mapx": "1269750867",
       "mapy": "375714199"
+    },
+    {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
     }
   ]
 }

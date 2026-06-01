@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "남촌회관 시청본점",
-      "link": "https://www.instagram.com/nam.chon_",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 31-25 1층 (유성빌딩)",
-      "roadAddress": "서울특별시 중구 세종대로20길 19 1층 (유성빌딩)",
-      "mapx": "1269784994",
-      "mapy": "375671273"
-    },
     {
       "title": "전설의우대갈비 서울시청직영점",
       "link": "https://www.instagram.com/udaegalbioflegend",
@@ -25,17 +14,6 @@
       "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
       "mapx": "1269804297",
       "mapy": "375669879"
-    },
-    {
-      "title": "굽돌집 서울시청본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 63 1, 2층 굽돌집",
-      "roadAddress": "서울특별시 중구 세종대로14길 18 1, 2층 굽돌집",
-      "mapx": "1269777438",
-      "mapy": "375627824"
     },
     {
       "title": "금성회관 서울시청직영점",
@@ -49,15 +27,37 @@
       "mapy": "375623316"
     },
     {
-      "title": "반갑다 하대포 을지로점",
+      "title": "남촌회관 시청본점",
+      "link": "https://www.instagram.com/nam.chon_",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 31-25 1층 (유성빌딩)",
+      "roadAddress": "서울특별시 중구 세종대로20길 19 1층 (유성빌딩)",
+      "mapx": "1269784994",
+      "mapy": "375671273"
+    },
+    {
+      "title": "굽돌집 서울시청본점",
       "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 121-6 1층 2층",
-      "roadAddress": "서울특별시 중구 을지로3길 26 1층 2층",
-      "mapx": "1269816112",
-      "mapy": "375671939"
+      "address": "서울특별시 중구 북창동 63 1, 2층 굽돌집",
+      "roadAddress": "서울특별시 중구 세종대로14길 18 1, 2층 굽돌집",
+      "mapx": "1269777438",
+      "mapy": "375627824"
+    },
+    {
+      "title": "덕수정",
+      "link": "http://itvplus.co.kr/home5/deoksu/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-5",
+      "roadAddress": "서울특별시 중구 정동길 41",
+      "mapx": "1269725500",
+      "mapy": "375659000"
     }
   ]
 }

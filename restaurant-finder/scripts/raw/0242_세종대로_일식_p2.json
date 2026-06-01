@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:03 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "잉꼬",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 17-3 2층",
-      "roadAddress": "서울특별시 중구 세종대로 22 2층",
-      "mapx": "1269743278",
-      "mapy": "375585140"
-    },
     {
       "title": "오제제 광화문",
       "link": "https://www.instagram.com/ojeje.seoul",
@@ -25,6 +14,28 @@
       "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
       "mapx": "1269783077",
       "mapy": "375684118"
+    },
+    {
+      "title": "광화문옥희",
+      "link": "https://www.instagram.com/gwanghwamun_okhee",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 B104호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 B104호",
+      "mapx": "1269777422",
+      "mapy": "375721797"
+    },
+    {
+      "title": "사카에",
+      "link": "https://app.catchtable.co.kr/ct/shop/sakae",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 24F",
+      "roadAddress": "서울특별시 중구 세종대로 135 24F",
+      "mapx": "1269765840",
+      "mapy": "375683348"
     },
     {
       "title": "덴푸라감춘 광화문",
@@ -38,26 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "카츠쇼신 서울역그랜드센트럴점",
-      "link": "https://www.instagram.com/katsu_shoshin",
-      "category": "음식점>일식>돈가스",
+      "title": "란 이자카야",
+      "link": "https://blog.naver.com/yosuk5791",
+      "category": "술집>이자카야",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
-      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
-      "mapx": "1269744151",
-      "mapy": "375578385"
-    },
-    {
-      "title": "광화문옥희",
-      "link": "https://www.instagram.com/gwanghwamun_okhee",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 B104호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 B104호",
-      "mapx": "1269777422",
-      "mapy": "375721797"
+      "address": "서울특별시 중구 남대문로5가 19-1",
+      "roadAddress": "서울특별시 중구 세종대로 26-1",
+      "mapx": "1269744865",
+      "mapy": "375588024"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:13 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "밀과보리",
-      "link": "https://www.instagram.com/milbori_",
+      "link": "https://milbori-9bu8qv2c.manus.space",
       "category": "한식>백반,가정식",
       "description": "",
       "telephone": "",
@@ -38,6 +38,17 @@
       "mapy": "375765173"
     },
     {
+      "title": "인사동 옥정",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 84-22",
+      "roadAddress": "서울특별시 종로구 인사동12길 18",
+      "mapx": "1269850602",
+      "mapy": "375748324"
+    },
+    {
       "title": "일미식당",
       "link": "http://cafe.naver.com/ilmicafe",
       "category": "한식>백반,가정식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
       "mapx": "1269876939",
       "mapy": "375728300"
-    },
-    {
-      "title": "형제불백",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 58-2 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로32길 58 1층",
-      "mapx": "1269902033",
-      "mapy": "375755489"
     }
   ]
 }

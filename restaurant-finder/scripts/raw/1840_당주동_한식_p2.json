@@ -1,30 +1,41 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:29 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "title": "한이서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/hanyiseoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 2-2 2층 한이서울",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-1 2층 한이서울",
+      "mapx": "1269742805",
+      "mapy": "375724887"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
     },
     {
-      "title": "화목순대국전문 광화문1호점",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "육즙당 광화문점",
+      "link": "https://www.instagram.com/yukzupdang_official",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 40",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11",
-      "mapx": "1269747764",
-      "mapy": "375712514"
+      "address": "서울특별시 종로구 당주동 42-2 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 10-1 2층",
+      "mapx": "1269750174",
+      "mapy": "375712635"
     },
     {
       "title": "광화문뚝감",
@@ -38,26 +49,15 @@
       "mapy": "375720689"
     },
     {
-      "title": "광화문정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
+      "title": "우슴 광화문 직영점",
+      "link": "https://www.instagram.com/wusm.official",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
-    },
-    {
-      "title": "육즙당 광화문점",
-      "link": "https://www.instagram.com/yukzupdang_official",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 42-2 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 10-1 2층",
-      "mapx": "1269750174",
-      "mapy": "375712635"
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:33 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "복성각 덕수궁점",
-      "link": "https://www.instagram.com/boksung_meal",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 덕수궁길 7 오천회관빌딩 2층",
       "mapx": "1269763352",
       "mapy": "375646727"
+    },
+    {
+      "title": "태양 <b>시청</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-6 1,2층",
+      "roadAddress": "서울특별시 중구 세종대로 72-1 1,2층",
+      "mapx": "1269768296",
+      "mapy": "375625361"
     },
     {
       "title": "더퍼스트 서래향 <b>시청</b>점",
@@ -27,15 +38,15 @@
       "mapy": "375613479"
     },
     {
-      "title": "북경",
+      "title": "만복림",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "경기도 안산시 단원구 고잔동 527-8 1층",
-      "roadAddress": "경기도 안산시 단원구 화랑로 402 1층",
-      "mapx": "1268323238",
-      "mapy": "373208938"
+      "address": "서울특별시 중구 무교동 31",
+      "roadAddress": "서울특별시 중구 무교로 17-17",
+      "mapx": "1269788733",
+      "mapy": "375674511"
     },
     {
       "title": "열빈 광화문점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로21길 22",
       "mapx": "1269760497",
       "mapy": "375675869"
-    },
-    {
-      "title": "천향원 명동점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 81 소공빌딩 2층 천향원",
-      "roadAddress": "서울특별시 중구 남대문로7길 33 소공빌딩 2층 천향원",
-      "mapx": "1269800515",
-      "mapy": "375637808"
     }
   ]
 }

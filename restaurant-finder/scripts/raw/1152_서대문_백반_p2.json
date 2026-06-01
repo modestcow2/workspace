@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:09 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,19 +12,8 @@
       "telephone": "",
       "address": "서울특별시 서대문구 창천동 9-26 1층 리정원",
       "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
-      "mapx": "1269393882",
-      "mapy": "375591466"
-    },
-    {
-      "title": "신촌고기창고",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinchongogichanggo?from=share&type=DINING",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 52-78",
-      "roadAddress": "서울특별시 서대문구 연세로7길 34-4",
-      "mapx": "1269350635",
-      "mapy": "375578649"
+      "mapx": "1269392717",
+      "mapy": "375591233"
     },
     {
       "title": "고삼이 신촌점",
@@ -38,26 +27,37 @@
       "mapy": "375583079"
     },
     {
-      "title": "선어도 충정로점",
+      "title": "이로운밥상",
       "link": "",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 충정로3가 360-26 1층",
-      "roadAddress": "서울특별시 서대문구 충정로 18 1층",
-      "mapx": "1269634729",
-      "mapy": "375605788"
-    },
-    {
-      "title": "청안식탁",
-      "link": "https://youtu.be/KI285F5RR7w",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 충정로3가 282-2",
-      "roadAddress": "서울특별시 서대문구 충정로4길 21",
-      "mapx": "1269643064",
-      "mapy": "375604439"
+      "address": "서울특별시 서대문구 대신동 84-13 2층",
+      "roadAddress": "서울특별시 서대문구 연대동문길 27-6 2층",
+      "mapx": "1269437171",
+      "mapy": "375640029"
+    },
+    {
+      "title": "나주어반",
+      "link": "",
+      "category": "한식>생선구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-38",
+      "roadAddress": "서울특별시 서대문구 연세로2마길 29",
+      "mapx": "1269420575",
+      "mapy": "375583949"
+    },
+    {
+      "title": "밥순이 연탄불고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 27 밥순이 연탄불고기",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 50 밥순이 연탄불고기",
+      "mapx": "1269667323",
+      "mapy": "375642531"
     }
   ]
 }

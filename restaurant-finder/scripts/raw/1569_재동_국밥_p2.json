@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:25 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:00:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 10 안암",
       "mapx": "1269844784",
       "mapy": "375794197"
-    },
-    {
-      "title": "대림국수 안국점",
-      "link": "http://app.catchtable.co.kr/ct/shop/daerimanguk",
-      "category": "음식점>한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-18 1층 대림국수",
-      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 대림국수",
-      "mapx": "1269862999",
-      "mapy": "375779441"
     },
     {
       "title": "신의주찹쌀순대 안국역점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 4 1층",
       "mapx": "1269859341",
       "mapy": "375778300"
+    },
+    {
+      "title": "엄용백 돼지<b>국밥</b>",
+      "link": "https://www.instagram.com/umyongbaek_kr/",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 194-28",
+      "roadAddress": "서울특별시 종로구 인사동3길 20",
+      "mapx": "1269858222",
+      "mapy": "375718777"
     },
     {
       "title": "광화문<b>국밥</b>",

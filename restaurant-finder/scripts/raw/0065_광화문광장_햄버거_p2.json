@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:34 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:41:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765164"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
-    {
       "title": "버거드조선",
       "link": "http://www.instagram.com/burger_de_joseon",
       "category": "음식점>햄버거",
@@ -49,15 +38,26 @@
       "mapy": "375755982"
     },
     {
-      "title": "멜팅소울 롯데백화점 본점",
-      "link": "https://www.instagram.com/meltingsoul_official/",
+      "title": "침스버거 안국",
+      "link": "",
       "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
-      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
-      "mapx": "1269810897",
-      "mapy": "375646669"
+      "address": "서울특별시 종로구 재동 84-39 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
+      "mapx": "1269856859",
+      "mapy": "375780911"
+    },
+    {
+      "title": "번앤버니",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 56호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 56호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
     }
   ]
 }

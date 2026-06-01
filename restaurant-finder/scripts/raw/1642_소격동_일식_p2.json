@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:59 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:01:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375808245"
     },
     {
-      "title": "키즈나",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 159",
-      "roadAddress": "서울특별시 종로구 율곡로1길 78",
-      "mapx": "1269816146",
-      "mapy": "375788338"
-    },
-    {
       "title": "미술관옆 돈까스",
       "link": "",
       "category": "음식점>일식>돈가스",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 율곡로3길 83 미술관옆돈까스",
       "mapx": "1269821105",
       "mapy": "375793632"
+    },
+    {
+      "title": "키즈나",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 159",
+      "roadAddress": "서울특별시 종로구 율곡로1길 78",
+      "mapx": "1269816146",
+      "mapy": "375788338"
     },
     {
       "title": "온재",

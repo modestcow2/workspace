@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:25 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:00:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -28,14 +28,14 @@
     },
     {
       "title": "꽃밥에피다 북촌 친환경 그로서란트",
-      "link": "https://smartstore.naver.com/goodbab7",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 가회동 170-4 1층",
       "roadAddress": "서울특별시 종로구 북촌로 39 1층",
-      "mapx": "1269847797",
-      "mapy": "375802375"
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
       "title": "삼지",
@@ -49,15 +49,15 @@
       "mapy": "375782908"
     },
     {
-      "title": "평양고깃집",
-      "link": "",
-      "category": "한식>육류,고기요리",
+      "title": "솥내음 종로인사동점",
+      "link": "https://map.naver.com/p/entry/place/2017586094",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
-      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
-      "mapx": "1269854482",
-      "mapy": "375727819"
+      "address": "서울특별시 종로구 인사동 39 지상2층",
+      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
+      "mapx": "1269870311",
+      "mapy": "375721281"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:25 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:52:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375714199"
     },
     {
-      "title": "흥진옥",
-      "link": "",
-      "category": "한식>해장국",
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 142-1",
-      "roadAddress": "서울특별시 종로구 종로5길 19-12",
-      "mapx": "1269802523",
-      "mapy": "375713900"
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
     },
     {
       "title": "신가원 <b>설렁탕</b>",

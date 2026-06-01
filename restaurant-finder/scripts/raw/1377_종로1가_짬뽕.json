@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:54 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375705593"
     },
     {
+      "title": "오성팔복반점 광화문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 2층 225호",
+      "roadAddress": "서울특별시 종로구 종로 19 2층 225호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
       "title": "한양중식 <b>종로</b>점",
       "link": "http://www.instagram.com/haanyang/",
       "category": "중식>중식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
       "mapx": "1269836975",
       "mapy": "375706386"
-    },
-    {
-      "title": "란주칼면",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-9 1층 란주칼면",
-      "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
-      "mapx": "1269821083",
-      "mapy": "375609724"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:59 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
     {
       "title": "애월식당",
       "link": "",
@@ -49,15 +38,26 @@
       "mapy": "375764468"
     },
     {
-      "title": "양탄집 서촌본점",
-      "link": "https://www.instagram.com/yangtanhouse/",
+      "title": "육즙당 광화문점",
+      "link": "https://www.instagram.com/yukzupdang_official",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 60-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
-      "mapx": "1269720601",
-      "mapy": "375766927"
+      "address": "서울특별시 종로구 당주동 42-2 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 10-1 2층",
+      "mapx": "1269750174",
+      "mapy": "375712635"
+    },
+    {
+      "title": "도틔대가",
+      "link": "https://catchtable.co.kr/dottydaega",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 54-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
+      "mapx": "1269720264",
+      "mapy": "375765472"
     }
   ]
 }

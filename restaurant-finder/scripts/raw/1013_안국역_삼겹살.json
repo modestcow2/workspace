@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:04 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:53:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375727819"
     },
     {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
-    },
-    {
       "title": "익선끝집",
       "link": "https://www.instagram.com/ikssun_endhouse?igsh=emxvdHQxYjBicnY3",
       "category": "한식>육류,고기요리",
@@ -49,15 +38,26 @@
       "mapy": "375737625"
     },
     {
-      "title": "엄용백 돼지구이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
-      "category": "한식>돼지고기구이",
+      "title": "이백점정육식당 익선본점",
+      "link": "https://www.instagram.com/200score",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-13",
-      "roadAddress": "서울특별시 종로구 율곡로4길 51",
-      "mapx": "1269812652",
-      "mapy": "375733835"
+      "address": "서울특별시 종로구 익선동 126-3 2층",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 31-4 2층",
+      "mapx": "1269899303",
+      "mapy": "375740967"
+    },
+    {
+      "title": "최대감네",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 경운동 64-47",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-3",
+      "mapx": "1269861240",
+      "mapy": "375740750"
     }
   ]
 }

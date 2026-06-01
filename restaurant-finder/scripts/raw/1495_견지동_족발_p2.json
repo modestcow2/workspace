@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:50 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:00:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "잭아저씨<b>족발</b>보쌈 종로본점",
-      "link": "https://blog.naver.com/mr_jack-jogbalbossam",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 19-23 1층 잭아저씨족발보쌈",
-      "roadAddress": "서울특별시 종로구 우정국로2길 34 1층 잭아저씨족발보쌈",
-      "mapx": "1269850023",
-      "mapy": "375695127"
-    },
     {
       "title": "만족오향<b>족발</b> 시청점",
       "link": "https://blog.naver.com/manchum4755",
@@ -49,15 +38,26 @@
       "mapy": "375699683"
     },
     {
-      "title": "족의한수 종로본점",
+      "title": "잭아저씨<b>족발</b>보쌈 종로본점",
+      "link": "https://blog.naver.com/mr_jack-jogbalbossam",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-23 1층 잭아저씨족발보쌈",
+      "roadAddress": "서울특별시 종로구 우정국로2길 34 1층 잭아저씨족발보쌈",
+      "mapx": "1269850023",
+      "mapy": "375695127"
+    },
+    {
+      "title": "충무로<b>족발</b>",
       "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관수동 4-1 1층 족의한수",
-      "roadAddress": "서울특별시 종로구 수표로 93-1 1층 족의한수",
-      "mapx": "1269891620",
-      "mapy": "375696277"
+      "address": "서울특별시 중구 충무로3가 24-5",
+      "roadAddress": "서울특별시 중구 퇴계로27길 41",
+      "mapx": "1269911897",
+      "mapy": "375630683"
     }
   ]
 }

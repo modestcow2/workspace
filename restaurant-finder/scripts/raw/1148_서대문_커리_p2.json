@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:07 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "소오",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
-      "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
-      "mapx": "1269463097",
-      "mapy": "375590868"
-    },
     {
       "title": "카츠업",
       "link": "https://blog.naver.com/katsup",
@@ -38,17 +27,6 @@
       "mapy": "375672105"
     },
     {
-      "title": "히메지 2호점",
-      "link": "",
-      "category": "음식점>일식>카레",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 129-1",
-      "roadAddress": "서울특별시 서대문구 연희로11길 41",
-      "mapx": "1269293007",
-      "mapy": "375682430"
-    },
-    {
       "title": "로얄싸롱",
       "link": "http://instagram.com/royal.saloon.2018",
       "category": "음식점>양식",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 서대문구 연희로11가길 43 1F",
       "mapx": "1269278866",
       "mapy": "375666091"
+    },
+    {
+      "title": "머노까머나 신촌점",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 52-25 2층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 13 2층",
+      "mapx": "1269360452",
+      "mapy": "375588706"
+    },
+    {
+      "title": "소오",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
+      "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
+      "mapx": "1269463068",
+      "mapy": "375591198"
     }
   ]
 }

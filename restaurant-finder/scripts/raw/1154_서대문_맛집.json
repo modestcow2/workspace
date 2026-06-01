@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:10 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "유닭스토리 닭한마리 신촌점",
-      "link": "https://blog.naver.com/hotjazz22",
-      "category": "한식>닭요리",
+      "title": "곰소바 돈까스",
+      "link": "https://www.instagram.com/gomsoba/",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 18-72 1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 7 1층",
-      "mapx": "1269374476",
-      "mapy": "375570470"
+      "address": "서울특별시 서대문구 충정로2가 102-2 인창빌딩 1층 곰소바",
+      "roadAddress": "서울특별시 서대문구 경기대로 64 인창빌딩 1층 곰소바",
+      "mapx": "1269640900",
+      "mapy": "375645340"
     },
     {
-      "title": "쟁반집8292 신촌점",
-      "link": "http://www.jbj8292.com",
-      "category": "음식점>한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-21 1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 27 1층",
-      "mapx": "1269382224",
-      "mapy": "375575882"
-    },
-    {
-      "title": "소오",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 60-5 1층 소오",
-      "roadAddress": "서울특별시 서대문구 이화여대길 50-10 1층 소오",
-      "mapx": "1269463097",
-      "mapy": "375590868"
-    },
-    {
-      "title": "멘야소바",
-      "link": "https://www.instagram.com/manyasoba?igsh=MWczZGFwdDNub210OQ==",
+      "title": "멘츠루 신촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mentsurusc",
       "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 104-39 1층",
-      "roadAddress": "서울특별시 서대문구 연세로2길 83 1층",
-      "mapx": "1269414211",
-      "mapy": "375571680"
+      "address": "서울특별시 서대문구 창천동 4-77 1층",
+      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층",
+      "mapx": "1269406214",
+      "mapy": "375589663"
     },
     {
-      "title": "등촌샤브칼국수 신촌점",
-      "link": "",
-      "category": "음식점>한식>칼국수,만두",
+      "title": "카라멘야",
+      "link": "http://www.instagram.com/karamenya_i",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 4-77 1층 등촌샤브칼국수 신촌점",
-      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층 등촌샤브칼국수 신촌점",
-      "mapx": "1269407741",
-      "mapy": "375589692"
+      "address": "서울특별시 서대문구 창천동 53-97 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 34-1 1층",
+      "mapx": "1269348727",
+      "mapy": "375582219"
+    },
+    {
+      "title": "당나발포차 신촌점",
+      "link": "https://dangnabal.com/",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-45 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7길 13 1층",
+      "mapx": "1269360244",
+      "mapy": "375576295"
+    },
+    {
+      "title": "샤브이야기 신촌기차역점",
+      "link": "https://www.instagram.com/shabustory_sinchon",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 110-1 우측호",
+      "roadAddress": "서울특별시 서대문구 신촌역로 31 우측호",
+      "mapx": "1269418987",
+      "mapy": "375589625"
     }
   ]
 }

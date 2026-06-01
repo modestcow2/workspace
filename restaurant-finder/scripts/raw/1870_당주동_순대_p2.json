@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:43 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375708720"
     },
     {
-      "title": "회포",
-      "link": "https://app.catchtable.co.kr/ct/shop/heopo",
-      "category": "한식>생선회",
+      "title": "능라도 광화문점",
+      "link": "",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 38-2 1층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 10 1층",
-      "mapx": "1269750135",
-      "mapy": "375710982"
+      "address": "서울특별시 종로구 당주동 128-27 3층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 3층",
+      "mapx": "1269722833",
+      "mapy": "375717008"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:32 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375764071"
     },
     {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
-    {
       "title": "정통코다리",
       "link": "http://cdrgood.cafe24.com",
       "category": "한식>해물,생선요리",
@@ -38,17 +27,6 @@
       "mapy": "375793735"
     },
     {
-      "title": "창성갈비",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 136",
-      "roadAddress": "서울특별시 종로구 자하문로 40-1",
-      "mapx": "1269715716",
-      "mapy": "375796602"
-    },
-    {
       "title": "꿀밥상",
       "link": "",
       "category": "한식>한정식",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 삼청로 101 1층",
       "mapx": "1269818749",
       "mapy": "375844611"
+    },
+    {
+      "title": "세종식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 154-5",
+      "roadAddress": "서울특별시 종로구 자하문로 31-10",
+      "mapx": "1269710095",
+      "mapy": "375786597"
+    },
+    {
+      "title": "순남시래기 광화문점",
+      "link": "http://soonnma.com/",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 광화문 플레티넘 지하 108호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 광화문 플레티넘 지하 108호",
+      "mapx": "1269735150",
+      "mapy": "375744339"
     }
   ]
 }

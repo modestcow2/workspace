@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:24 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375647953"
     },
     {
+      "title": "라칸티나",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    },
+    {
       "title": "올리페페 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/ollipepe_gwanghwamun",
       "category": "음식점>이탈리아음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
       "mapx": "1269782701",
       "mapy": "375684246"
-    },
-    {
-      "title": "라칸티나",
-      "link": "",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
-      "mapx": "1269800349",
-      "mapy": "375662396"
     }
   ]
 }

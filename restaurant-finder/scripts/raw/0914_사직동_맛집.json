@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:18 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:52:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "고가빈커리하우스 광화문본점",
-      "link": "http://instagram.com/gogabin_curryhouse",
-      "category": "음식점>일식>카레",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-48 3층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
-      "mapx": "1269709645",
-      "mapy": "375728814"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
     },
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
-      "category": "음식점>한식",
+      "title": "비텔로소띠",
+      "link": "http://catchtable.co.kr/vitellosotti",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
+      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
+      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
+      "mapx": "1269727845",
+      "mapy": "375769969"
     },
     {
-      "title": "칸다소바 경복궁점",
-      "link": "https://litt.ly/kandasoba",
-      "category": "음식점>일식>일본식라면",
+      "title": "애소아소금빵",
+      "link": "https://www.instagram.com/esoa.saltbread",
+      "category": "카페,디저트>베이커리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 28-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
-      "mapx": "1269712623",
-      "mapy": "375782119"
+      "address": "서울특별시 종로구 체부동 51 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 7 1층",
+      "mapx": "1269722400",
+      "mapy": "375767339"
     },
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
+      "title": "한이서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/hanyiseoul",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
+      "address": "서울특별시 종로구 당주동 2-2 2층 한이서울",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-1 2층 한이서울",
+      "mapx": "1269742805",
+      "mapy": "375724887"
+    },
+    {
+      "title": "해목 서촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 72",
+      "roadAddress": "서울특별시 종로구 자하문로 26-1",
+      "mapx": "1269720065",
+      "mapy": "375784252"
     }
   ]
 }

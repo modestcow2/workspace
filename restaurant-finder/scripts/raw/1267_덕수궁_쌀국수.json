@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:04 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375632005"
     },
     {
-      "title": "호아빈 서울시청점",
-      "link": "http://www.hoabinh.co.kr/",
+      "title": "반포식스 광화문점",
+      "link": "http://www.banhpho6.com",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 14-2",
-      "roadAddress": "서울특별시 중구 서소문로 139",
-      "mapx": "1269762235",
-      "mapy": "375641009"
+      "address": "서울특별시 종로구 신문로1가 7-5 2층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 9 2층",
+      "mapx": "1269759702",
+      "mapy": "375706323"
     }
   ]
 }

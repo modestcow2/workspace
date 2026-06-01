@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:57 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,28 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 11",
       "mapx": "1269747764",
       "mapy": "375712514"
+    },
+    {
+      "title": "곰작소 스타필드애비뉴 그랑서울점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gomjakso",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 70 스타필드 그랑서울 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 33 스타필드 그랑서울 지하1층",
+      "mapx": "1269814392",
+      "mapy": "375709600"
+    },
+    {
+      "title": "대문곰탕",
+      "link": "https://www.instagram.com/daemungomtang",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B106-4호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B106-4호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "청진옥",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
       "mapx": "1269835556",
       "mapy": "375744663"
-    },
-    {
-      "title": "곰작소 스타필드애비뉴 그랑서울점",
-      "link": "https://blog.naver.com/gomjakso-",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 70 스타필드 그랑서울 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 33 스타필드 그랑서울 지하1층",
-      "mapx": "1269814392",
-      "mapy": "375709600"
-    },
-    {
-      "title": "관북",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 11-6 1,2층",
-      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
-      "mapx": "1269808546",
-      "mapy": "375719170"
     }
   ]
 }

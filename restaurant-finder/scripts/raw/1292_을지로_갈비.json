@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:15 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 을지로 29 지1층",
       "mapx": "1269810422",
       "mapy": "375664910"
-    },
-    {
-      "title": "금돈옥 <b>을지로</b>점",
-      "link": "https://blog.naver.com/goldporkog",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 342-7 1~2층",
-      "roadAddress": "서울특별시 중구 을지로 112 1~2층",
-      "mapx": "1269903382",
-      "mapy": "375660403"
     },
     {
       "title": "난로은회 <b>을지로</b>",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로15길 6-5",
       "mapx": "1269934389",
       "mapy": "375667917"
+    },
+    {
+      "title": "경상도식당",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 1-1",
+      "roadAddress": "",
+      "mapx": "1270054617",
+      "mapy": "375686875"
     }
   ]
 }

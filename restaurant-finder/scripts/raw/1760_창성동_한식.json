@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:52 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,28 @@
       "mapy": "375803453"
     },
     {
+      "title": "토방",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 30",
+      "roadAddress": "서울특별시 종로구 자하문로 66-1",
+      "mapx": "1269709589",
+      "mapy": "375819609"
+    },
+    {
+      "title": "슬렁슬렁",
+      "link": "https://www.instagram.com/naeoejuga",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 2층",
+      "mapx": "1269712004",
+      "mapy": "375815886"
+    },
+    {
       "title": "창성갈비",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 40-1",
       "mapx": "1269715716",
       "mapy": "375796602"
-    },
-    {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
-    {
-      "title": "목련나무집",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 58",
-      "roadAddress": "서울특별시 종로구 자하문로 74",
-      "mapx": "1269708726",
-      "mapy": "375824927"
     }
   ]
 }

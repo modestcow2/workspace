@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:30 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:02:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375869747"
     },
     {
-      "title": "화목<b>순대</b>국전문 광화문1호점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 40",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11",
-      "mapx": "1269747764",
-      "mapy": "375712514"
-    },
-    {
       "title": "이경문<b>순대</b>곱창",
       "link": "",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
       "mapx": "1269908574",
       "mapy": "375730931"
+    },
+    {
+      "title": "화목<b>순대</b>국전문 광화문1호점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 40",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11",
+      "mapx": "1269747764",
+      "mapy": "375712514"
     },
     {
       "title": "호반",
@@ -49,15 +49,15 @@
       "mapy": "375733361"
     },
     {
-      "title": "북촌무궁화",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "전곱",
+      "link": "https://www.instagram.com/jongro_jeongob",
+      "category": "한식>곱창,막창,양",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 137",
-      "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
-      "mapy": "375723618"
+      "address": "서울특별시 종로구 낙원동 110 미광빌딩 1층 4호",
+      "roadAddress": "서울특별시 종로구 돈화문로11길 38 미광빌딩 1층 4호",
+      "mapx": "1269893707",
+      "mapy": "375726553"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:09 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:40:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375696647"
     },
     {
+      "title": "진아춘 광화문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269746651",
+      "mapy": "375695879"
+    },
+    {
       "title": "도원",
       "link": "",
       "category": "중식>중식당",
@@ -27,28 +38,6 @@
       "mapy": "375669224"
     },
     {
-      "title": "진아춘 광화문점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
-      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
-      "mapx": "1269748850",
-      "mapy": "375697325"
-    },
-    {
-      "title": "포시즌스 호텔 서울 유유안",
-      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 30 11층",
-      "roadAddress": "서울특별시 종로구 새문안로 97 11층",
-      "mapx": "1269753817",
-      "mapy": "375707185"
-    },
-    {
       "title": "광화문미시엔",
       "link": "",
       "category": "중식>중식당",
@@ -57,6 +46,17 @@
       "address": "서울특별시 종로구 신문로1가 163 지하1층109-2",
       "roadAddress": "서울특별시 종로구 새문안로 92 지하1층109-2",
       "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "춘리마라탕 신문로점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
       "mapy": "375697325"
     }
   ]

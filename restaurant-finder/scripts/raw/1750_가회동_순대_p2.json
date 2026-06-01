@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:48 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375778300"
     },
     {
-      "title": "떡산 안국",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
-      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
-      "mapx": "1269857282",
-      "mapy": "375780061"
-    },
-    {
       "title": "모퉁이네",
       "link": "",
       "category": "분식>종합분식",
@@ -38,6 +27,28 @@
       "mapy": "375803123"
     },
     {
+      "title": "떡산 안국",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
+      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
+      "mapx": "1269857282",
+      "mapy": "375780061"
+    },
+    {
+      "title": "신의주찹쌀<b>순대</b> 안국역점",
+      "link": "http://www.bigsoondae.com/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 111-1",
+      "roadAddress": "서울특별시 종로구 율곡로 59",
+      "mapx": "1269857102",
+      "mapy": "375769015"
+    },
+    {
       "title": "순이네가게",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 67",
       "mapx": "1269867152",
       "mapy": "375773052"
-    },
-    {
-      "title": "병천<b>순대</b>전문점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 106",
-      "roadAddress": "서울특별시 종로구 계동길 39",
-      "mapx": "1269866451",
-      "mapy": "375790981"
     }
   ]
 }

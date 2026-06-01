@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:16 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:44:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375688748"
     },
     {
-      "title": "이여곰탕 서울역점",
+      "title": "태양 시청점",
       "link": "",
-      "category": "음식점>한식>곰탕,설렁탕",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 6-1 와이즈타워 지하1층",
-      "roadAddress": "서울특별시 중구 세종대로 17 와이즈타워 지하1층",
-      "mapx": "1269732806",
-      "mapy": "375586371"
+      "address": "서울특별시 중구 태평로2가 69-6 1,2층",
+      "roadAddress": "서울특별시 중구 세종대로 72-1 1,2층",
+      "mapx": "1269768296",
+      "mapy": "375625361"
     }
   ]
 }

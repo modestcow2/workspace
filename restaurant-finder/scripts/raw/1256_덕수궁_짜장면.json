@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:58 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "복성각 <b>덕수궁</b>점",
-      "link": "https://www.instagram.com/boksung_meal",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 중구 덕수궁길 7 오천회관빌딩 2층",
       "mapx": "1269763352",
       "mapy": "375646727"
+    },
+    {
+      "title": "진아춘 광화문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269746651",
+      "mapy": "375695879"
     },
     {
       "title": "도원",
@@ -38,26 +49,15 @@
       "mapy": "375669224"
     },
     {
-      "title": "진아춘 광화문점",
-      "link": "",
+      "title": "서안",
+      "link": "https://blog.naver.com/kkajc3",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
-      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
-      "mapx": "1269748850",
-      "mapy": "375697325"
-    },
-    {
-      "title": "배재반점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 55-4 배재빌딩",
-      "roadAddress": "서울특별시 중구 서소문로 103 배재빌딩",
-      "mapx": "1269727790",
-      "mapy": "375629340"
+      "address": "서울특별시 중구 정동 25-2 한성교회",
+      "roadAddress": "서울특별시 중구 정동길 8 한성교회",
+      "mapx": "1269695278",
+      "mapy": "375675570"
     }
   ]
 }

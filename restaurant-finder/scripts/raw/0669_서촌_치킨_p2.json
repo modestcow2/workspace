@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:23 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375765372"
     },
     {
+      "title": "영광통닭",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 94 영광통닭",
+      "roadAddress": "서울특별시 종로구 필운대로 55-1 영광통닭",
+      "mapx": "1269684170",
+      "mapy": "375810589"
+    },
+    {
       "title": "<b>서촌</b> 서른즈음에",
       "link": "https://blog.naver.com/at_about_30",
       "category": "술집>맥주,호프",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 5-1 1층 서른즈음에",
       "mapx": "1269720659",
       "mapy": "375764695"
-    },
-    {
-      "title": "세종마을<b>치킨</b>",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 195",
-      "roadAddress": "서울특별시 종로구 자하문로1길 24-1",
-      "mapx": "1269709631",
-      "mapy": "375765085"
     },
     {
       "title": "이가덕장 <b>서촌</b>",

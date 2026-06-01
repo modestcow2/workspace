@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:01 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:40:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,14 +16,25 @@
       "mapy": "375698520"
     },
     {
-      "title": "광화문닭곰탕",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
+      "title": "해물솥밥모랑 오피시아점",
+      "link": "http://www.morang.co.kr/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
-      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
-      "mapx": "1269748850",
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 5, 6호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 5, 6호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
+    },
+    {
+      "title": "돌고래밥",
+      "link": "https://www.instagram.com/dolphinrice_1/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 제02호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 제02호",
+      "mapx": "1269746331",
       "mapy": "375697325"
     },
     {
@@ -38,25 +49,14 @@
       "mapy": "375698043"
     },
     {
-      "title": "고다",
+      "title": "광화문닭곰탕",
       "link": "",
       "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163",
-      "roadAddress": "서울특별시 종로구 새문안로 92",
-      "mapx": "1269749335",
-      "mapy": "375697325"
-    },
-    {
-      "title": "돌고래밥",
-      "link": "https://www.instagram.com/dolphinrice_1/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 지하1층 제02호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 제02호",
-      "mapx": "1269746331",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
       "mapy": "375697325"
     }
   ]

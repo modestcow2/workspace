@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:36 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:01:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 22 1층",
       "mapx": "1269854307",
       "mapy": "375787275"
-    },
-    {
-      "title": "안집",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 85-2 안집",
-      "roadAddress": "서울특별시 종로구 북촌로 6-6 안집",
-      "mapx": "1269863020",
-      "mapy": "375775859"
     },
     {
       "title": "단상",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 18 한식문화공간 이음",
       "mapx": "1269857249",
       "mapy": "375783749"
+    },
+    {
+      "title": "안집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 85-2 안집",
+      "roadAddress": "서울특별시 종로구 북촌로 6-6 안집",
+      "mapx": "1269863020",
+      "mapy": "375775859"
     }
   ]
 }

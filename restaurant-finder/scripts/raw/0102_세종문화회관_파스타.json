@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:53 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:41:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "루뽀",
-      "link": "https://app.catchtable.co.kr/ct/shop/luposeoul?from=share&type=DINING",
+      "title": "광화문나폴리",
+      "link": "https://www.instagram.com/gwanghwamun_napoli?igsh=MWcycXBpbXZnaDF3dg%3D%3D&utm_source=qr",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 도렴동 65 센터포인트 빌딩 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
-      "mapx": "1269743036",
-      "mapy": "375730456"
+      "address": "서울특별시 종로구 세종로 173-1 1층, 2층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 24-4 1층, 2층",
+      "mapx": "1269759158",
+      "mapy": "375714544"
     },
     {
       "title": "정원레스토랑 어반가든",
@@ -49,15 +49,15 @@
       "mapy": "375674386"
     },
     {
-      "title": "까사 이태리아",
-      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
+      "title": "멜팅샵X치즈룸 광화문디타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/meltingshop?from=share&type=DINING",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
-      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
-      "mapx": "1269723542",
-      "mapy": "375787841"
+      "address": "서울특별시 종로구 청진동 246 광화문 D타워 replace 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 replace 4층",
+      "mapx": "1269789713",
+      "mapy": "375710195"
     }
   ]
 }

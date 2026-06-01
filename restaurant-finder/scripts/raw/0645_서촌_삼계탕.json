@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:12 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:48:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "토속촌 <b>삼계탕</b>",
+      "title": "토속촌<b>삼계탕</b>",
       "link": "http://www.tosokchon.co.kr/",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 체부동 85-1 토속촌",
       "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
-      "mapx": "1269716148",
-      "mapy": "375776587"
+      "mapx": "1269715866",
+      "mapy": "375776607"
     },
     {
       "title": "토담<b>삼계탕</b>",
@@ -27,17 +27,6 @@
       "mapy": "375762538"
     },
     {
-      "title": "통영굴밥 경복궁점",
-      "link": "",
-      "category": "한식>굴요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
-      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
-      "mapx": "1269733152",
-      "mapy": "375753857"
-    },
-    {
       "title": "서울래빗",
       "link": "https://www.instagram.com/seoul.x.rabbit",
       "category": "카페,디저트>과일,주스전문점",
@@ -49,15 +38,26 @@
       "mapy": "375778052"
     },
     {
-      "title": "청운동남원추어탕",
+      "title": "통영굴밥 경복궁점",
       "link": "",
-      "category": "한식>추어탕",
+      "category": "한식>굴요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 94-2",
-      "roadAddress": "서울특별시 종로구 자하문로30길 23",
-      "mapx": "1269711990",
-      "mapy": "375852600"
+      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
+      "mapx": "1269733152",
+      "mapy": "375753857"
+    },
+    {
+      "title": "토속촌 <b>삼계탕</b>주차장",
+      "link": "",
+      "category": "교통시설>주차장",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 88-2",
+      "roadAddress": "서울특별시 종로구 자하문로5길 12",
+      "mapx": "1269712261",
+      "mapy": "375777899"
     }
   ]
 }

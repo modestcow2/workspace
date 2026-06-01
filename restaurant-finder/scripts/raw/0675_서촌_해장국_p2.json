@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:26 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375766782"
     },
     {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
-    {
       "title": "백암박가네순대국",
       "link": "",
       "category": "한식>순대,순댓국",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
       "mapx": "1269710531",
       "mapy": "375791821"
+    },
+    {
+      "title": "이서방네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
     },
     {
       "title": "체부동잔치집 별관",
@@ -49,15 +49,15 @@
       "mapy": "375762475"
     },
     {
-      "title": "이서방네순대국",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "통의동 국빈관 경복궁역점",
+      "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 191",
-      "roadAddress": "서울특별시 종로구 자하문로1길 45",
-      "mapx": "1269698490",
-      "mapy": "375767519"
+      "address": "서울특별시 종로구 통의동 38 1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
+      "mapx": "1269738782",
+      "mapy": "375766155"
     }
   ]
 }

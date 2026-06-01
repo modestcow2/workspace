@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:57 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:42:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375801317"
     },
     {
-      "title": "가메골손왕<b>만두</b> 남대문본점",
-      "link": "http://smartstore.naver.com/gamegol",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남창동 60-2",
-      "roadAddress": "서울특별시 중구 남대문시장4길 42",
-      "mapx": "1269771357",
-      "mapy": "375584236"
-    },
-    {
       "title": "잘빠진메밀 서촌 본점",
       "link": "https://smartstore.naver.com/jalppajin-mill",
       "category": "한식>막국수",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
       "mapx": "1269860918",
       "mapy": "375781763"
+    },
+    {
+      "title": "평안도<b>만두</b>집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 167 지하104호 평안도만두집",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30 지하104호 평안도만두집",
+      "mapx": "1269731737",
+      "mapy": "375725860"
     }
   ]
 }

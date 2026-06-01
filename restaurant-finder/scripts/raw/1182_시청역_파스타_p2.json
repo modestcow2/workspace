@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:23 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375684246"
     },
     {
+      "title": "pasta ta ta",
+      "link": "https://app.catchtable.co.kr/ct/shop/pastatata",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 115 스몰하우스 빅도어 1층",
+      "roadAddress": "서울특별시 중구 남대문로9길 6 스몰하우스 빅도어 1층",
+      "mapx": "1269819673",
+      "mapy": "375669492"
+    },
+    {
       "title": "오드하우스",
       "link": "https://www.instagram.com/odd_haus",
       "category": "음식점>양식",
@@ -27,15 +38,15 @@
       "mapy": "375662530"
     },
     {
-      "title": "바리에가타 명동",
-      "link": "https://www.variegata.company/",
+      "title": "라칸티나",
+      "link": "",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
-      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
     },
     {
       "title": "도치피자 광화문",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로21길 67-2",
       "mapx": "1269755204",
       "mapy": "375692966"
-    },
-    {
-      "title": "pasta ta ta",
-      "link": "https://app.catchtable.co.kr/ct/shop/pastatata",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 115 스몰하우스 빅도어 1층",
-      "roadAddress": "서울특별시 중구 남대문로9길 6 스몰하우스 빅도어 1층",
-      "mapx": "1269819673",
-      "mapy": "375669492"
     }
   ]
 }

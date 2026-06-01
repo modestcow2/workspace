@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:04 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:47:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "라벨로타",
-      "link": "",
-      "category": "음식점>스페인음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 192-2 1~3층",
-      "roadAddress": "서울특별시 종로구 필운대로 35-6 1~3층",
-      "mapx": "1269686525",
-      "mapy": "375793435"
-    },
     {
       "title": "서울집시 퍼멘테리아 서촌",
       "link": "https://www.instagram.com/seoulgypsyfermenteria",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 옥인길 11 1층",
       "mapx": "1269678344",
       "mapy": "375804945"
+    },
+    {
+      "title": "비텔로소띠",
+      "link": "http://catchtable.co.kr/vitellosotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
+      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
+      "mapx": "1269727845",
+      "mapy": "375769969"
     },
     {
       "title": "준수방키친",

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "영양센터 본점",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-32",
-      "roadAddress": "서울특별시 중구 명동2길 52",
-      "mapx": "1269831647",
-      "mapy": "375611197"
-    },
     {
       "title": "백제<b>삼계탕</b>",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 명동8길 8-10",
       "mapx": "1269841333",
       "mapy": "375633571"
+    },
+    {
+      "title": "영양센터 본점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-32",
+      "roadAddress": "서울특별시 중구 명동2길 52",
+      "mapx": "1269831647",
+      "mapy": "375611197"
     },
     {
       "title": "여의도<b>삼계탕</b> 파이낸스센터점",

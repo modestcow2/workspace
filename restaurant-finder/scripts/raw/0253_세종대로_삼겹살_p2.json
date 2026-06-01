@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:08 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375588942"
     },
     {
-      "title": "북창동냉삼집",
-      "link": "",
-      "category": "한식>돼지고기구이",
+      "title": "소금 숯불구이",
+      "link": "https://www.youtube.com/@Egg.xactly",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 68-1 1층 북창동냉삼집",
-      "roadAddress": "서울특별시 중구 세종대로 82 1층 북창동냉삼집",
-      "mapx": "1269770537",
-      "mapy": "375634062"
+      "address": "서울특별시 종로구 공평동 125-1 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 98 1층",
+      "mapx": "1269825847",
+      "mapy": "375719457"
     },
     {
       "title": "쪽삼상회",

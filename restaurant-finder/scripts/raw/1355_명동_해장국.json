@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:44 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375611991"
     },
     {
+      "title": "불탄왕뼈구이감자탕 <b>명동</b>점",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 24-14 2층",
+      "roadAddress": "서울특별시 중구 명동8나길 29 2층",
+      "mapx": "1269834140",
+      "mapy": "375612027"
+    },
+    {
       "title": "강가뼈<b>해장국</b>",
       "link": "",
       "category": "한식>해장국",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 수표로 15 1층 강가",
       "mapx": "1269902451",
       "mapy": "375626004"
-    },
-    {
-      "title": "신가원 설렁탕",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 141 신가원설렁탕",
-      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
-      "mapx": "1269815002",
-      "mapy": "375670246"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:42 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:01:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375791625"
     },
     {
+      "title": "일월카츠 <b>계동</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ilwolkatsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 144-1 1층 일월카츠",
+      "roadAddress": "서울특별시 종로구 계동길 17 1층 일월카츠",
+      "mapx": "1269865352",
+      "mapy": "375781458"
+    },
+    {
+      "title": "유소바 안국역점",
+      "link": "https://www.instagram.com/usoba.kr",
+      "category": "음식점>일식>우동,소바",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-56 1층",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 32 1층",
+      "mapx": "1269874771",
+      "mapy": "375794190"
+    },
+    {
       "title": "남포면옥",
       "link": "",
       "category": "한식>냉면",
@@ -25,28 +47,6 @@
       "roadAddress": "서울특별시 중구 을지로3길 24",
       "mapx": "1269815998",
       "mapy": "375671396"
-    },
-    {
-      "title": "을지면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 55-1",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 12",
-      "mapx": "1269886066",
-      "mapy": "375736812"
-    },
-    {
-      "title": "류경회관 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
-      "mapx": "1269818280",
-      "mapy": "375724939"
     },
     {
       "title": "유진식당",

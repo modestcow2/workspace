@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:15 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
       "mapx": "1269816320",
       "mapy": "375816001"
+    },
+    {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
     },
     {
       "title": "대장금",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 사직로 115-3",
       "mapx": "1269716673",
       "mapy": "375762475"
-    },
-    {
-      "title": "봉피양 경복궁점",
-      "link": "http://www.bjgalbi.com",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 67-2",
-      "roadAddress": "서울특별시 종로구 자하문로 20",
-      "mapx": "1269722429",
-      "mapy": "375779140"
     },
     {
       "title": "청담원",

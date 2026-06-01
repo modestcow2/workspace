@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:50 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:53:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375796788"
     },
     {
-      "title": "이태리총각 서촌점",
-      "link": "",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 137-7",
-      "roadAddress": "서울특별시 종로구 자하문로9길 11",
-      "mapx": "1269705236",
-      "mapy": "375793481"
-    },
-    {
       "title": "산펠리체",
       "link": "https://app.catchtable.co.kr/ct/shop/Sanfelice",
       "category": "음식점>이탈리아음식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 옥인1길 1 1층",
       "mapx": "1269679190",
       "mapy": "375805954"
+    },
+    {
+      "title": "이태리총각 서촌점",
+      "link": "",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 137-7",
+      "roadAddress": "서울특별시 종로구 자하문로9길 11",
+      "mapx": "1269705236",
+      "mapy": "375793481"
     },
     {
       "title": "푸페또클럽",

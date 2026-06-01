@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:27 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375806564"
     },
     {
-      "title": "원조할머니 기름<b>떡볶이</b>",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 94-1",
-      "roadAddress": "서울특별시 종로구 자하문로15길 13",
-      "mapx": "1269703204",
-      "mapy": "375806957"
-    },
-    {
       "title": "만나분식",
       "link": "https://smartstore.naver.com/mannabunsik",
       "category": "분식>종합분식",
@@ -49,15 +38,26 @@
       "mapy": "375773610"
     },
     {
-      "title": "샤브샵",
-      "link": "https://www.instagram.com/karacinikora77",
-      "category": "음식점>일식>샤브샤브",
+      "title": "원조할머니 기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 24 1, 2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
-      "mapx": "1269709557",
-      "mapy": "375763909"
+      "address": "서울특별시 종로구 통인동 94-1",
+      "roadAddress": "서울특별시 종로구 자하문로15길 13",
+      "mapx": "1269703204",
+      "mapy": "375806957"
+    },
+    {
+      "title": "소풍가는날 경복궁점",
+      "link": "https://www.instagram.com/_picnicday",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 소풍가는날",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 소풍가는날",
+      "mapx": "1269712387",
+      "mapy": "375792154"
     }
   ]
 }

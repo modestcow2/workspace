@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:42 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -34,30 +34,30 @@
       "telephone": "",
       "address": "서울특별시 종로구 재동 47 1층 무화서울 안국점",
       "roadAddress": "서울특별시 종로구 북촌로 24 1층 무화서울 안국점",
-      "mapx": "1269854413",
-      "mapy": "375788712"
+      "mapx": "1269854025",
+      "mapy": "375788544"
     },
     {
-      "title": "교촌<b>치킨</b> 안국점",
-      "link": "https://m.kyochon.com/",
-      "category": "음식점>치킨,닭강정",
+      "title": "갓잇 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/godeat_anguk",
+      "category": "음식점>멕시코,남미음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 화동 138-7",
-      "roadAddress": "서울특별시 종로구 북촌로5길 43",
-      "mapx": "1269825655",
-      "mapy": "375793487"
+      "address": "서울특별시 종로구 재동 84-30 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-5 1층",
+      "mapx": "1269859643",
+      "mapy": "375781671"
     },
     {
-      "title": "다운타우너 안국",
-      "link": "http://downtowner.co.kr/",
-      "category": "음식점>양식>햄버거",
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 85-3 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 6-4 1층",
-      "mapx": "1269862902",
-      "mapy": "375774450"
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
     }
   ]
 }

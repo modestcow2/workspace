@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 명동10길 29",
       "mapx": "1269856025",
       "mapy": "375625491"
+    },
+    {
+      "title": "<b>명동</b>교자 1호점",
+      "link": "http://www.mdkj.co.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 33-4 명동교자",
+      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
+      "mapx": "1269851666",
+      "mapy": "375634828"
     },
     {
       "title": "<b>명동</b>교자 신관<b>명동</b>역점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 명동3길 12 B1층",
       "mapx": "1269836320",
       "mapy": "375642444"
-    },
-    {
-      "title": "<b>명동</b>교자 1호점",
-      "link": "http://www.mdkj.co.kr/",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 33-4 명동교자",
-      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
-      "mapx": "1269851666",
-      "mapy": "375634828"
     }
   ]
 }

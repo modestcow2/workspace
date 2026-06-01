@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:45 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:44:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375764124"
     },
     {
-      "title": "풍미가",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 159 풍미가",
-      "roadAddress": "서울특별시 종로구 사직로10길 9-8 풍미가",
-      "mapx": "1269707214",
-      "mapy": "375755001"
-    },
-    {
       "title": "반가",
       "link": "https://blog.naver.com/yth880",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로10길 9-3 내자동 150-1",
       "mapx": "1269707509",
       "mapy": "375754814"
+    },
+    {
+      "title": "풍미가",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 159 풍미가",
+      "roadAddress": "서울특별시 종로구 사직로10길 9-8 풍미가",
+      "mapx": "1269707214",
+      "mapy": "375755001"
     }
   ]
 }

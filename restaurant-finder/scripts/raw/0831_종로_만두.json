@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:39 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:51:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375740448"
     },
     {
+      "title": "종가<b>만두</b>",
+      "link": "https://www.instagram.com/skmandoo_jongno",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 145-1 1층 종가만두",
+      "roadAddress": "서울특별시 종로구 수표로 88 1층 종가만두",
+      "mapx": "1269896787",
+      "mapy": "375689062"
+    },
+    {
       "title": "개성<b>만두</b> 궁",
       "link": "http://www.koong.co.kr/",
       "category": "분식>만두",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 인사동10길 11-3",
       "mapx": "1269853889",
       "mapy": "375742917"
-    },
-    {
-      "title": "청화 우육도삭면",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
-      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     },
     {
       "title": "남포면옥",
@@ -49,15 +49,15 @@
       "mapy": "375671396"
     },
     {
-      "title": "잘빠진메밀 을지로직영점",
-      "link": "https://www.instagram.com/jalppajin_hipjiro",
-      "category": "한식>막국수",
+      "title": "청화 우육도삭면",
+      "link": "https://cheonghwa-noodle.wywh.co.kr/",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로4가 75 1층",
-      "roadAddress": "서울특별시 중구 창경궁로5길 7 1층",
-      "mapx": "1269975838",
-      "mapy": "375671481"
+      "address": "서울특별시 종로구 종로1가 24 118-1호 청화우육도삭면",
+      "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

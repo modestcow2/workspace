@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:50 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:05:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
       "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
-      "mapx": "1269805312",
-      "mapy": "375755019"
+      "mapx": "1269806761",
+      "mapy": "375755559"
     },
     {
       "title": "카페마마스 광화문점",
@@ -38,26 +38,26 @@
       "mapy": "375735970"
     },
     {
-      "title": "콩카세 안국",
-      "link": "https://catchtable.co.kr/concasse_anguk",
+      "title": "이층양옥",
+      "link": "http://catchtable.co.kr/2storey_house",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-31 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
-      "mapx": "1269858330",
-      "mapy": "375781862"
+      "address": "서울특별시 종로구 익선동 110-4 이층양옥",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 28 이층양옥",
+      "mapx": "1269904165",
+      "mapy": "375739601"
     },
     {
-      "title": "오늘그대와 익선",
-      "link": "https://app.catchtable.co.kr/ct/shop/todaywithyou",
-      "category": "이탈리아음식>스파게티,파스타전문",
+      "title": "틴 서울",
+      "link": "https://www.instagram.com/tiiin.seoul",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-48 1층 오늘그대와익선",
-      "roadAddress": "서울특별시 종로구 수표로28길 21-11 1층 오늘그대와익선",
-      "mapx": "1269897142",
-      "mapy": "375733855"
+      "address": "서울특별시 종로구 체부동 133 1~2층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 17 1~2층",
+      "mapx": "1269709368",
+      "mapy": "375775737"
     }
   ]
 }

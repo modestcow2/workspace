@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:08 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:52:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375766924"
     },
     {
-      "title": "<b>족발</b>야시장&amp;무청감자탕 광화문점",
-      "link": "https://go.catchtable.co.kr/zyn34t",
-      "category": "육류,고기요리>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 지상1층 101호",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 지상1층 101호",
-      "mapx": "1269728682",
-      "mapy": "375719236"
-    },
-    {
       "title": "가장맛있는<b>족발</b> 경복궁역점",
       "link": "http://www.가장맛있는족발.com/",
       "category": "육류,고기요리>족발,보쌈",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로 103-4 2층",
       "mapx": "1269706204",
       "mapy": "375764124"
+    },
+    {
+      "title": "<b>족발</b>야시장&amp;무청감자탕 광화문점",
+      "link": "https://go.catchtable.co.kr/zyn34t",
+      "category": "육류,고기요리>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 지상1층 101호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지상1층 101호",
+      "mapx": "1269728682",
+      "mapy": "375719236"
     },
     {
       "title": "귀한<b>족발</b> 경복궁역점",

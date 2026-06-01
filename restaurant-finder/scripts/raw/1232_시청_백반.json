@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:47 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "349500927"
     },
     {
-      "title": "소문밥상",
-      "link": "https://blog.naver.com/4043sy",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 143 B1층 B104-6호",
-      "roadAddress": "서울특별시 중구 서소문로 124 B1층 B104-6호",
-      "mapx": "1269752236",
-      "mapy": "375631062"
-    },
-    {
       "title": "남파랑국밥 북창점",
       "link": "",
       "category": "한식>국밥",
@@ -49,15 +38,26 @@
       "mapy": "375633639"
     },
     {
-      "title": "애돈촌돼지국밥 부산<b>시청</b>본점",
-      "link": "https://www.instagram.com/aedonchon",
-      "category": "한식>국밥",
+      "title": "소문밥상",
+      "link": "https://blog.naver.com/4043sy",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "부산광역시 연제구 연산동 867-51 1층",
-      "roadAddress": "부산광역시 연제구 연제로 27 1층",
-      "mapx": "1290766047",
-      "mapy": "351774025"
+      "address": "서울특별시 중구 서소문동 143 B1층 B104-6호",
+      "roadAddress": "서울특별시 중구 서소문로 124 B1층 B104-6호",
+      "mapx": "1269752236",
+      "mapy": "375631062"
+    },
+    {
+      "title": "귀빈식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "전라남도 나주시 송월동 1091-8",
+      "roadAddress": "전라남도 나주시 왕건길 43",
+      "mapx": "1267123624",
+      "mapy": "350173416"
     }
   ]
 }

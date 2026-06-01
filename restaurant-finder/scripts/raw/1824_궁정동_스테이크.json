@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:22 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,28 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로6길 11-36 끄레아주차장 안",
       "mapx": "1269726212",
       "mapy": "375786629"
-    },
-    {
-      "title": "푸페또클럽",
-      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 98-6",
-      "roadAddress": "서울특별시 종로구 자하문로 50-1",
-      "mapx": "1269714513",
-      "mapy": "375805566"
-    },
-    {
-      "title": "마음을담아내면 점심",
-      "link": "",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
-      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
-      "mapx": "1269821145",
-      "mapy": "375791937"
     },
     {
       "title": "아델라베일리",
@@ -56,8 +34,30 @@
       "telephone": "",
       "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
       "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
-      "mapx": "1269805312",
-      "mapy": "375755019"
+      "mapx": "1269806761",
+      "mapy": "375755559"
+    },
+    {
+      "title": "미트볼라운지 X 아날로그키친 삼청점",
+      "link": "http://www.instagram.com/meatball_lounge",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 팔판동 27-5 미트볼라운지x아날로그키친 삼청점",
+      "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
+      "mapx": "1269816796",
+      "mapy": "375833417"
+    },
+    {
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
     }
   ]
 }

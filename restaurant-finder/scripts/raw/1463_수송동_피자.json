@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:34 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:59:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "디디스<b>피자</b>펍 종로본점",
-      "link": "https://www.instagram.com/dds_pizzapub",
+      "link": "https://www.instagram.com/ddspizza_jongno",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -38,6 +38,17 @@
       "mapy": "375725618"
     },
     {
+      "title": "비텔로소띠",
+      "link": "http://catchtable.co.kr/vitellosotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
+      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
+      "mapx": "1269727845",
+      "mapy": "375769969"
+    },
+    {
       "title": "준수방키친",
       "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
       "category": "음식점>이탈리아음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
       "mapx": "1269708097",
       "mapy": "375796788"
-    },
-    {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
     }
   ]
 }

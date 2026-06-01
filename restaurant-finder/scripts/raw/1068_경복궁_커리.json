@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:30 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375789833"
     },
     {
-      "title": "호라파",
-      "link": "https://app.catchtable.co.kr/ct/shop/horapaseoul",
-      "category": "음식점>태국음식",
+      "title": "계도 케이트윈타워",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 137-15 2층",
-      "roadAddress": "서울특별시 종로구 자하문로 37-1 2층",
-      "mapx": "1269711008",
-      "mapy": "375793929"
+      "address": "서울특별시 종로구 중학동 19 B1층 19-2호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 B1층 19-2호",
+      "mapx": "1269791966",
+      "mapy": "375746798"
     },
     {
       "title": "아이자와",
@@ -38,26 +38,26 @@
       "mapy": "375753767"
     },
     {
-      "title": "계도 케이트윈타워",
-      "link": "",
-      "category": "음식점>일식>일본식라면",
+      "title": "호라파",
+      "link": "https://app.catchtable.co.kr/ct/shop/horapaseoul",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 B1층 19-2호",
-      "roadAddress": "서울특별시 종로구 종로1길 50 B1층 19-2호",
-      "mapx": "1269791966",
-      "mapy": "375746798"
+      "address": "서울특별시 종로구 통인동 137-15 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 37-1 2층",
+      "mapx": "1269711008",
+      "mapy": "375793929"
     },
     {
-      "title": "늘솜",
-      "link": "https://www.instagram.com/_neulsom_official",
-      "category": "음식점>한식",
+      "title": "알로이막막",
+      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 80",
-      "roadAddress": "서울특별시 종로구 사직로 130",
-      "mapx": "1269733437",
-      "mapy": "375753767"
+      "address": "서울특별시 종로구 통인동 150-1 1,2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
+      "mapx": "1269705861",
+      "mapy": "375790359"
     }
   ]
 }

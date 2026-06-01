@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:35 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "374541093"
     },
     {
+      "title": "양반댁함흥<b>냉면</b> 속초본점",
+      "link": "https://www.instagram.com/yangband_sokcho",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "강원특별자치도 속초시 금호동 482-329 양반댁함흥냉면",
+      "roadAddress": "강원특별자치도 속초시 청초호반로 302 양반댁함흥냉면",
+      "mapx": "1285902620",
+      "mapy": "382017930"
+    },
+    {
       "title": "여러분면옥",
       "link": "",
       "category": "한식>냉면",
@@ -47,17 +58,6 @@
       "roadAddress": "경기도 용인시 처인구 중부대로 1175",
       "mapx": "1271763589",
       "mapy": "372389931"
-    },
-    {
-      "title": "진주<b>냉면</b>산홍 진주<b>시청</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sanhong_jinjusicheong",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "경상남도 진주시 상대동 238-1 1층",
-      "roadAddress": "경상남도 진주시 도동천로 157 1층",
-      "mapx": "1281155483",
-      "mapy": "351840959"
     }
   ]
 }

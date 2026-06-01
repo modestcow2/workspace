@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:41 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375750122"
     },
     {
-      "title": "마나님 레시피",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "콘타이 안국점",
+      "link": "https://www.instagram.com/konthai.official",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 17-1",
-      "roadAddress": "서울특별시 종로구 윤보선길 65",
-      "mapx": "1269831077",
-      "mapy": "375788802"
+      "address": "서울특별시 종로구 운니동 98-5 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로 88 지하1층",
+      "mapx": "1269889236",
+      "mapy": "375768074"
     }
   ]
 }

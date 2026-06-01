@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:16 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "부오상회 <b>을지로</b>점",
-      "link": "https://www.instagram.com/buosanghe_euljiro?igsh=cjdmN21zYW83MTYx",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 47-11 1층 부오상회 을지로점",
-      "roadAddress": "서울특별시 중구 수표로10길 5-5 1층 부오상회 을지로점",
-      "mapx": "1269906230",
-      "mapy": "375638455"
-    },
     {
       "title": "대엽 <b>을지로</b>",
       "link": "https://app.catchtable.co.kr/ct/shop/daeyeop_euljiro",
@@ -38,6 +27,28 @@
       "mapy": "375680789"
     },
     {
+      "title": "부오상회 <b>을지로</b>점",
+      "link": "https://www.instagram.com/buosanghe_euljiro?igsh=cjdmN21zYW83MTYx",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-11 1층 부오상회 을지로점",
+      "roadAddress": "서울특별시 중구 수표로10길 5-5 1층 부오상회 을지로점",
+      "mapx": "1269906230",
+      "mapy": "375638455"
+    },
+    {
+      "title": "박만배아리랑<b>보쌈</b> <b>을지로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 295-5 1층 5호",
+      "roadAddress": "서울특별시 중구 을지로 130-1 1층 5호",
+      "mapx": "1269923186",
+      "mapy": "375662194"
+    },
+    {
       "title": "성수라 <b>을지로</b>점",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 마른내로 21 2층",
       "mapx": "1269902750",
       "mapy": "375649581"
-    },
-    {
-      "title": "금돈옥 <b>을지로</b>점",
-      "link": "https://blog.naver.com/goldporkog",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 342-7 1~2층",
-      "roadAddress": "서울특별시 중구 을지로 112 1~2층",
-      "mapx": "1269903382",
-      "mapy": "375660403"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:27 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:46:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "아리",
-      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
+      "title": "엔들리스 써머",
+      "link": "https://www.instagram.com/endlesssummer__official",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 137-5 아리",
-      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
-      "mapx": "1269686902",
-      "mapy": "375765067"
+      "address": "서울특별시 종로구 필운동 50 1층",
+      "roadAddress": "서울특별시 종로구 필운대로1길 31 1층",
+      "mapx": "1269678071",
+      "mapy": "375777930"
     },
     {
       "title": "클로셰",
@@ -27,15 +27,15 @@
       "mapy": "375774429"
     },
     {
-      "title": "엔들리스 써머",
-      "link": "https://www.instagram.com/endlesssummer__official",
+      "title": "아리",
+      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 50 1층",
-      "roadAddress": "서울특별시 종로구 필운대로1길 31 1층",
-      "mapx": "1269678071",
-      "mapy": "375777930"
+      "address": "서울특별시 종로구 필운동 137-5 아리",
+      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
+      "mapx": "1269686902",
+      "mapy": "375765067"
     },
     {
       "title": "유앤피",

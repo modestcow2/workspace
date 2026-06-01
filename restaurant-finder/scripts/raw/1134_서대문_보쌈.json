@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:01 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375657431"
     },
     {
-      "title": "온방샤브칼국수",
-      "link": "https://catchtable.co.kr/OnbangShabu",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 57-9 2층 온방샤브칼국수",
-      "roadAddress": "서울특별시 서대문구 연세로5나길 6 2층 온방샤브칼국수",
-      "mapx": "1269359239",
-      "mapy": "375570074"
-    },
-    {
       "title": "종로<b>보쌈</b>",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 서대문구 충정로 73",
       "mapx": "1269659572",
       "mapy": "375653260"
+    },
+    {
+      "title": "황생가칼국수연세동문회관점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 신촌동 134 연세동문회관 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로 50 연세동문회관 지하1층",
+      "mapx": "1269425900",
+      "mapy": "375626642"
     },
     {
       "title": "사조미가",

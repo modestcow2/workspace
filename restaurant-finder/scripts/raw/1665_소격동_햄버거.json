@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:09 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:02:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765164"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
-    {
       "title": "버거드조선",
       "link": "http://www.instagram.com/burger_de_joseon",
       "category": "음식점>햄버거",
@@ -49,15 +38,26 @@
       "mapy": "375755982"
     },
     {
-      "title": "마디그라",
-      "link": "https://www.lumi.co.kr/",
+      "title": "침스버거 안국",
+      "link": "",
       "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 18-10 B1F",
-      "roadAddress": "서울특별시 종로구 우정국로2길 29 B1F",
-      "mapx": "1269845903",
-      "mapy": "375696467"
+      "address": "서울특별시 종로구 재동 84-39 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
+      "mapx": "1269856859",
+      "mapy": "375780911"
+    },
+    {
+      "title": "버거옥 종로점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-24 1층~4층",
+      "roadAddress": "서울특별시 종로구 삼일대로 396 1층~4층",
+      "mapx": "1269879939",
+      "mapy": "375698705"
     }
   ]
 }

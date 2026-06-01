@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:04 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
       "mapx": "1269704616",
       "mapy": "375755982"
+    },
+    {
+      "title": "번앤버니",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 56호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 56호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
     },
     {
       "title": "니즈버거 안국점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 33 그랑서울 1층",
       "mapx": "1269815218",
       "mapy": "375704394"
-    },
-    {
-      "title": "번앤버니",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 지하1층 56호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 56호",
-      "mapx": "1269743109",
-      "mapy": "375720320"
     }
   ]
 }

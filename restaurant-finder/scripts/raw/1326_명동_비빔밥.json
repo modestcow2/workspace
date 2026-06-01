@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:31 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375581107"
     },
     {
-      "title": "오공일 <b>명동</b>점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 2층",
-      "roadAddress": "서울특별시 중구 남대문로 55 2층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
-    },
-    {
       "title": "해밀가 종각점",
       "link": "https://app.catchtable.co.kr/ct/shop/HAEMILGA",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 명동7길 21 지하1층 B101호",
       "mapx": "1269836829",
       "mapy": "375645725"
+    },
+    {
+      "title": "너애하누",
+      "link": "https://app.catchtable.co.kr/ct/shop/neoaehanu_ULJIRO",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 101-28 2층",
+      "roadAddress": "서울특별시 중구 을지로9길 8 2층",
+      "mapx": "1269885018",
+      "mapy": "375666227"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:46 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375674370"
     },
     {
-      "title": "명동<b>순대</b>국 <b>시청</b>직영점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-19 1층",
-      "roadAddress": "서울특별시 중구 세종대로11길 45 1층",
-      "mapx": "1269734075",
-      "mapy": "375619640"
-    },
-    {
       "title": "산더미 미성돼지국밥 수원<b>시청</b>점",
       "link": "https://sandeomimiseong.com",
       "category": "한식>국밥",
@@ -58,6 +47,17 @@
       "roadAddress": "경기도 수원시 권선구 권광로 107 1층",
       "mapx": "1270299979",
       "mapy": "372575026"
+    },
+    {
+      "title": "주백<b>순대</b>국보쌈 성남본점",
+      "link": "https://blog.naver.com/suk030100",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 성남시 중원구 성남동 1404 성남센트럴푸르지오시티 117호, 118호",
+      "roadAddress": "경기도 성남시 중원구 광명로 89 성남센트럴푸르지오시티 117호, 118호",
+      "mapx": "1271385134",
+      "mapy": "374349528"
     }
   ]
 }

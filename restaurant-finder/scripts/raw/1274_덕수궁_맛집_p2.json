@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:07 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
+      "title": "유림면",
+      "link": "https://www.thingoolmarket.com",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
+      "address": "서울특별시 중구 서소문동 16",
+      "roadAddress": "서울특별시 중구 서소문로 139-1",
+      "mapx": "1269760935",
+      "mapy": "375642371"
     },
     {
-      "title": "한암동 정동점",
-      "link": "https://openine.com/한암동",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
-      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
-      "mapx": "1269708541",
-      "mapy": "375678521"
-    },
-    {
-      "title": "타와",
-      "link": "https://www.instagram.com/muwa__official",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
-      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
-      "mapx": "1269736520",
-      "mapy": "375634157"
-    },
-    {
-      "title": "무탄 광화문점",
-      "link": "https://naver.me/5uc3NJV7",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
-      "mapx": "1269721401",
-      "mapy": "375696647"
-    },
-    {
-      "title": "광화문면옥",
+      "title": "정동1946 서울시청본점",
       "link": "",
-      "category": "한식>냉면",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
+      "address": "서울특별시 중구 정동 34-5 LL층 1946",
+      "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
+      "mapx": "1269728071",
+      "mapy": "375633419"
+    },
+    {
+      "title": "멘츠루 시청점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
+      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
+      "mapx": "1269731249",
+      "mapy": "375629944"
+    },
+    {
+      "title": "고려삼계탕",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 55-3",
+      "roadAddress": "서울특별시 중구 서소문로11길 1",
+      "mapx": "1269729232",
+      "mapy": "375629681"
+    },
+    {
+      "title": "<b>덕수궁</b> 리에제와플",
+      "link": "https://www.instagram.com/liege_waffle_",
+      "category": "카페,디저트>와플",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 365",
+      "roadAddress": "서울특별시 중구 덕수궁길 5",
+      "mapx": "1269764916",
+      "mapy": "375648235"
     }
   ]
 }

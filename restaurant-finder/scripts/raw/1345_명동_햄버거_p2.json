@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:39 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375681229"
     },
     {
+      "title": "세븐티포 <b>명동</b>성당본점",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 1-18 명동성당 파밀리아채플 1층",
+      "roadAddress": "서울특별시 중구 명동길 66 명동성당 파밀리아채플 1층",
+      "mapx": "1269861464",
+      "mapy": "375639182"
+    },
+    {
       "title": "맥도날드 서울시청점",
       "link": "https://www.mcdonalds.co.kr/",
       "category": "양식>햄버거",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
       "mapx": "1269793605",
       "mapy": "375668620"
-    },
-    {
-      "title": "세븐티포 <b>명동</b>성당본점",
-      "link": "https://www.instagram.com/74_myeongdong/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 1-18 명동성당 파밀리아채플 1층",
-      "roadAddress": "서울특별시 중구 명동길 66 명동성당 파밀리아채플 1층",
-      "mapx": "1269861464",
-      "mapy": "375639182"
     },
     {
       "title": "다운타우너 광화문",

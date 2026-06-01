@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:06 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:47:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375755982"
     },
     {
+      "title": "번앤버니",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 56호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 56호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
+    },
+    {
       "title": "바스버거 광화문점",
       "link": "http://www.basburger.net",
       "category": "양식>햄버거",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 지하1층 B113-2, B113-3호",
       "mapx": "1269798147",
       "mapy": "375710182"
-    },
-    {
-      "title": "번앤버니",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 지하1층 56호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 56호",
-      "mapx": "1269743109",
-      "mapy": "375720320"
     }
   ]
 }

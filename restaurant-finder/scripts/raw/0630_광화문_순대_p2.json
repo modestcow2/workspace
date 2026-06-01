@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:05 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:48:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "이경문<b>순대</b>곱창",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 11-1",
+      "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
+      "mapx": "1269908574",
+      "mapy": "375730931"
+    },
     {
       "title": "농민백암<b>순대</b> 시청직영점",
       "link": "",
@@ -27,17 +38,6 @@
       "mapy": "375712514"
     },
     {
-      "title": "이경문<b>순대</b>곱창",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 돈의동 11-1",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
-      "mapx": "1269908574",
-      "mapy": "375730931"
-    },
-    {
       "title": "호반",
       "link": "",
       "category": "음식점>한식",
@@ -49,15 +49,15 @@
       "mapy": "375733361"
     },
     {
-      "title": "석교식당",
+      "title": "철길떡볶기",
       "link": "",
-      "category": "음식점>한식",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 영천동 331",
-      "roadAddress": "서울특별시 서대문구 통일로 185",
-      "mapx": "1269622884",
-      "mapy": "375700014"
+      "address": "서울특별시 서대문구 충정로3가 150-1",
+      "roadAddress": "서울특별시 서대문구 충정로5길 11",
+      "mapx": "1269634943",
+      "mapy": "375626500"
     }
   ]
 }

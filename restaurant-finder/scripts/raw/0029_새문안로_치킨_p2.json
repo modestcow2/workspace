@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:15 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:40:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "경성<b>치킨</b> 광화문스퀘어점",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 135-2",
-      "roadAddress": "서울특별시 종로구 새문안로 96",
-      "mapx": "1269754434",
-      "mapy": "375699667"
-    },
     {
       "title": "또래오래 정동점",
       "link": "https://blog.naver.com/britney420",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 105 1층",
       "mapx": "1269763278",
       "mapy": "375704497"
+    },
+    {
+      "title": "백피트",
+      "link": "https://www.instagram.com/100ft__cafe",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 24 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 91 1층",
+      "mapx": "1269747620",
+      "mapy": "375704971"
     }
   ]
 }

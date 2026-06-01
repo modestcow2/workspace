@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:29 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:44:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375748513"
     },
     {
-      "title": "쇼쿠도 합",
-      "link": "https://app.catchtable.co.kr/ct/shop/shokudo_hab",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 15 1층",
-      "roadAddress": "서울특별시 종로구 사직로 137-17 1층",
-      "mapx": "1269735847",
-      "mapy": "375763322"
-    },
-    {
       "title": "동해도 광화문점",
       "link": "https://www.instagram.com/donghaedo1987",
       "category": "음식점>일식>일식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 지상 M층 5,6번매장",
       "mapx": "1269835556",
       "mapy": "375744663"
+    },
+    {
+      "title": "일품 광화문점",
+      "link": "https://www.instagram.com/ilpum0200",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:35 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375671549"
     },
     {
-      "title": "장군보쌈",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 19",
-      "roadAddress": "서울특별시 중구 무교로 16",
-      "mapx": "1269797048",
-      "mapy": "375673236"
-    },
-    {
       "title": "미쓰<b>족발</b> 서울<b>명동</b>점",
       "link": "",
       "category": "육류,고기요리>족발,보쌈",
@@ -38,6 +27,17 @@
       "mapy": "375646640"
     },
     {
+      "title": "장군보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 19",
+      "roadAddress": "서울특별시 중구 무교로 16",
+      "mapx": "1269797048",
+      "mapy": "375673236"
+    },
+    {
       "title": "오양식관",
       "link": "",
       "category": "음식점>한식",
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
       "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
-      "mapx": "1269756446",
-      "mapy": "375687260"
+      "mapx": "1269756182",
+      "mapy": "375686475"
     },
     {
-      "title": "원할머니보쌈<b>족발</b> <b>명동</b>점",
-      "link": "http://bossam.co.kr/",
-      "category": "한식>족발,보쌈",
+      "title": "만족상회",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 38-1 2층",
-      "roadAddress": "서울특별시 중구 명동9길 21 2층",
-      "mapx": "1269845506",
-      "mapy": "375648154"
+      "address": "서울특별시 중구 회현동1가 120-4 만족상회",
+      "roadAddress": "서울특별시 중구 퇴계로12길 60-3 만족상회",
+      "mapx": "1269812465",
+      "mapy": "375570403"
     }
   ]
 }

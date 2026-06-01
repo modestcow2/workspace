@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:50 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "그린브로스<b>샐러드</b> <b>시청</b>역점",
-      "link": "https://www.instagram.com/greenbrossalad_cityhall/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 37 B1, 먼슬리키친 17호 그린브로스샐러드",
-      "roadAddress": "서울특별시 중구 서소문로 89-20 B1, 먼슬리키친 17호 그린브로스샐러드",
-      "mapx": "1269720315",
-      "mapy": "375632511"
-    },
     {
       "title": "폴인포케 서울<b>시청</b>점",
       "link": "https://fallinpoke.com",
@@ -23,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 중구 북창동 71-2 2층",
       "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
-      "mapx": "1269775175",
-      "mapy": "375623578"
+      "mapx": "1269775280",
+      "mapy": "375623366"
     },
     {
       "title": "커스텀<b>샐러드</b> 부천<b>시청</b>점",
@@ -49,15 +38,26 @@
       "mapy": "375636921"
     },
     {
-      "title": "풀앤빵",
-      "link": "https://www.instagram.com/poolandbbang",
+      "title": "조선보울 서울<b>시청</b>역점",
+      "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 50-1 시티스타몰 101호",
-      "roadAddress": "서울특별시 중구 을지로 12 시티스타몰 101호",
-      "mapx": "1269783313",
-      "mapy": "375655659"
+      "address": "서울특별시 중구 서소문동 14-2 2층 201호",
+      "roadAddress": "서울특별시 중구 서소문로 139 2층 201호",
+      "mapx": "1269762443",
+      "mapy": "375641181"
+    },
+    {
+      "title": "샐러바웃 부천<b>시청</b>점",
+      "link": "http://instagram.com/salabout.bucheon",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 부천시 원미구 중동 1300",
+      "roadAddress": "경기도 부천시 원미구 소향로 181",
+      "mapx": "1267680774",
+      "mapy": "375017197"
     }
   ]
 }

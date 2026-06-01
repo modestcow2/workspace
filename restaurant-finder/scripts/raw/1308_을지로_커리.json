@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:22 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375669757"
     },
     {
-      "title": "지지타운",
-      "link": "https://catchtable.co.kr/ggtown",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 349-1 3층",
-      "roadAddress": "서울특별시 중구 수표로 52 3층",
-      "mapx": "1269899946",
-      "mapy": "375657753"
-    },
-    {
       "title": "나베식당",
       "link": "",
       "category": "음식점>일식>일식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 충무로 43-1 1층",
       "mapx": "1269926378",
       "mapy": "375650632"
+    },
+    {
+      "title": "지지타운",
+      "link": "https://catchtable.co.kr/ggtown",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 349-1 3층",
+      "roadAddress": "서울특별시 중구 수표로 52 3층",
+      "mapx": "1269899946",
+      "mapy": "375657753"
     },
     {
       "title": "<b>을지로</b> 이멜다분식",

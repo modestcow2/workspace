@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:44 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375781458"
     },
     {
-      "title": "스미레<b>돈카츠</b> 안국점",
-      "link": "",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-32",
-      "roadAddress": "서울특별시 종로구 북촌로 14-1",
-      "mapx": "1269856575",
-      "mapy": "375781850"
-    },
-    {
       "title": "쿄와우동",
       "link": "",
       "category": "음식점>일식>우동,소바",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
       "mapx": "1269866870",
       "mapy": "375780953"
+    },
+    {
+      "title": "유카츠",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-18 1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 19-7 1층",
+      "mapx": "1269842361",
+      "mapy": "375791334"
     },
     {
       "title": "삼동소바 북촌점",
@@ -49,15 +49,15 @@
       "mapy": "375825823"
     },
     {
-      "title": "순이네가게",
+      "title": "스미레<b>돈카츠</b> 안국점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 146-2",
-      "roadAddress": "서울특별시 종로구 율곡로 67",
-      "mapx": "1269867152",
-      "mapy": "375773052"
+      "address": "서울특별시 종로구 재동 84-32",
+      "roadAddress": "서울특별시 종로구 북촌로 14-1",
+      "mapx": "1269856575",
+      "mapy": "375781850"
     }
   ]
 }

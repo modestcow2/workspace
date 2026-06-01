@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:34 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:01:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -23,19 +23,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 재동 47 1층 무화서울 안국점",
       "roadAddress": "서울특별시 종로구 북촌로 24 1층 무화서울 안국점",
-      "mapx": "1269854413",
-      "mapy": "375788712"
-    },
-    {
-      "title": "다운타우너 안국",
-      "link": "http://downtowner.co.kr/",
-      "category": "음식점>양식>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 85-3 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 6-4 1층",
-      "mapx": "1269862902",
-      "mapy": "375774450"
+      "mapx": "1269854025",
+      "mapy": "375788544"
     },
     {
       "title": "갓잇 안국점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5",
       "mapx": "1269860684",
       "mapy": "375779283"
+    },
+    {
+      "title": "백년토종삼계탕",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-3",
+      "roadAddress": "서울특별시 종로구 북촌로 41",
+      "mapx": "1269848048",
+      "mapy": "375806132"
     }
   ]
 }

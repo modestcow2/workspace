@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:06 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375752174"
     },
     {
+      "title": "미락<b>치킨</b> 경복궁본점",
+      "link": "https://www.instagram.com/explore/tags/미락치킨/",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 39-2",
+      "roadAddress": "서울특별시 종로구 자하문로 17-1",
+      "mapx": "1269719338",
+      "mapy": "375776453"
+    },
+    {
       "title": "금성슈퍼 광화문본점",
       "link": "",
       "category": "술집>맥주,호프",
@@ -38,26 +49,15 @@
       "mapy": "375706901"
     },
     {
-      "title": "거성호프",
-      "link": "",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 117 거성호프",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 3-7 거성호프",
-      "mapx": "1269739671",
-      "mapy": "375722869"
-    },
-    {
-      "title": "미락<b>치킨</b> 경복궁본점",
-      "link": "https://www.instagram.com/explore/tags/미락치킨/",
+      "title": "꼬꼬잭<b>치킨</b> 광화문본점",
+      "link": "https://cocojack.co.kr/?sort=TIME",
       "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 39-2",
-      "roadAddress": "서울특별시 종로구 자하문로 17-1",
-      "mapx": "1269719338",
-      "mapy": "375776453"
+      "address": "서울특별시 종로구 당주동 168 1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-27 1층",
+      "mapx": "1269746290",
+      "mapy": "375710047"
     }
   ]
 }

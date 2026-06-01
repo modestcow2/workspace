@@ -1,41 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:55 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:45:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
+      "title": "신안촌 본점",
+      "link": "https://catchtable.co.kr/sinanchon_og",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
-    },
-    {
-      "title": "안주마을",
-      "link": "",
-      "category": "술집>포장마차",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 1-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 3",
-      "mapx": "1269721722",
-      "mapy": "375764582"
-    },
-    {
-      "title": "서촌계단집",
-      "link": "",
-      "category": "한식>해물,생선요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 11-1",
-      "roadAddress": "서울특별시 종로구 자하문로1길 15",
-      "mapx": "1269714587",
-      "mapy": "375764305"
+      "address": "서울특별시 종로구 내자동 152 1층",
+      "roadAddress": "서울특별시 종로구 사직로12길 8 1층",
+      "mapx": "1269708935",
+      "mapy": "375756401"
     },
     {
       "title": "뼈탄집 서촌본점",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 사직로8길 21 카페 나무사이로",
       "mapx": "1269710030",
       "mapy": "375747164"
+    },
+    {
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
+    },
+    {
+      "title": "버거드조선",
+      "link": "http://www.instagram.com/burger_de_joseon",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 147 1층",
+      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
+      "mapx": "1269704616",
+      "mapy": "375755982"
     }
   ]
 }

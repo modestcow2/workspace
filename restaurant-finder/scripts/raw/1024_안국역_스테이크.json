@@ -1,30 +1,52 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:09 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:53:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "마음을담아내면 점심",
-      "link": "",
+      "title": "심퍼티쿠시 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
-      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
-      "mapx": "1269821145",
-      "mapy": "375791937"
+      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
+      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
+      "mapx": "1269806761",
+      "mapy": "375755559"
     },
     {
-      "title": "독립밀방 익선",
-      "link": "http://www.instagram.com/dongnip_millbang",
-      "category": "음식점>양식",
+      "title": "레스토랑 담",
+      "link": "https://www.instagram.com/restaurant_dam",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
-      "mapx": "1269902619",
-      "mapy": "375740791"
+      "address": "서울특별시 종로구 관훈동 12-2 1층",
+      "roadAddress": "서울특별시 종로구 인사동길 30-7 1층",
+      "mapx": "1269860243",
+      "mapy": "375736433"
+    },
+    {
+      "title": "콩지POT지",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
+    },
+    {
+      "title": "비스트로 가마",
+      "link": "https://app.catchtable.co.kr/ct/shop/bistrogama",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-2 2층",
+      "roadAddress": "서울특별시 종로구 인사동길 62-5 2층",
+      "mapx": "1269838699",
+      "mapy": "375754819"
     },
     {
       "title": "비움안국",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
       "mapx": "1269856635",
       "mapy": "375791098"
-    },
-    {
-      "title": "심퍼티쿠시 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
-      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
-      "mapx": "1269805312",
-      "mapy": "375755019"
-    },
-    {
-      "title": "관훈맨션",
-      "link": "https://www.instagram.com/gwanhunmansion/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 15-2",
-      "roadAddress": "서울특별시 종로구 인사동8길 6-3",
-      "mapx": "1269859565",
-      "mapy": "375737266"
     }
   ]
 }

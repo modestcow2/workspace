@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:11 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -36,6 +36,17 @@
       "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 105, 106호",
       "mapx": "1269743613",
       "mapy": "375579375"
+    },
+    {
+      "title": "방배김밥 상공회의소점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 45 대한상공회의소 지하1층",
+      "roadAddress": "서울특별시 중구 세종대로 39 대한상공회의소 지하1층",
+      "mapx": "1269737753",
+      "mapy": "375607137"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:36 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,26 @@
       "mapy": "375609724"
     },
     {
-      "title": "유가",
+      "title": "개화 <b>명동</b>점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 회현동1가 117-5",
-      "roadAddress": "서울특별시 중구 퇴계로12길 68",
-      "mapx": "1269814671",
-      "mapy": "375566901"
+      "address": "서울특별시 중구 명동2가 107-1 대한문화예술공사",
+      "roadAddress": "서울특별시 중구 남대문로 52-5 대한문화예술공사",
+      "mapx": "1269818497",
+      "mapy": "375621168"
+    },
+    {
+      "title": "원흥",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 92",
+      "roadAddress": "서울특별시 중구 다동길 46",
+      "mapx": "1269819007",
+      "mapy": "375678937"
     },
     {
       "title": "일품향",
@@ -38,26 +49,15 @@
       "mapy": "375621200"
     },
     {
-      "title": "개화 <b>명동</b>점",
+      "title": "유가",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 107-1 대한문화예술공사",
-      "roadAddress": "서울특별시 중구 남대문로 52-5 대한문화예술공사",
-      "mapx": "1269818497",
-      "mapy": "375621168"
-    },
-    {
-      "title": "호경전 신세계백화점 본점",
-      "link": "https://www.josunhotel.com/retail/hokyungjeon.do",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 54 신세계백화점 본점 디 에스테이트(구 신관) 14층",
-      "roadAddress": "서울특별시 중구 퇴계로 77 신세계백화점 본점 디 에스테이트(구 신관) 14층",
-      "mapx": "1269805386",
-      "mapy": "375602359"
+      "address": "서울특별시 중구 회현동1가 117-5",
+      "roadAddress": "서울특별시 중구 퇴계로12길 68",
+      "mapx": "1269814671",
+      "mapy": "375566901"
     }
   ]
 }

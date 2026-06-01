@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:29 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "솔솥 <b>시청역</b>점",
+      "title": "진주회관",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-12 2층 201호",
-      "roadAddress": "서울특별시 중구 세종대로11길 30 2층 201호",
-      "mapx": "1269742207",
-      "mapy": "375623476"
+      "address": "서울특별시 중구 서소문동 120-35",
+      "roadAddress": "서울특별시 중구 세종대로11길 26",
+      "mapx": "1269745130",
+      "mapy": "375623209"
     },
     {
-      "title": "올리페페 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/ollipepe_gwanghwamun",
-      "category": "음식점>이탈리아음식",
+      "title": "피롤츠커피하우스 시청점",
+      "link": "https://www.instagram.com/pirultz_coffeehouse",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 서린동 149 2층 올리페페",
-      "roadAddress": "서울특별시 종로구 청계천로 11 2층 올리페페",
-      "mapx": "1269789879",
-      "mapy": "375694150"
+      "address": "서울특별시 중구 태평로2가 52-1 2층",
+      "roadAddress": "서울특별시 중구 세종대로18길 10 2층",
+      "mapx": "1269776230",
+      "mapy": "375637119"
     },
     {
-      "title": "센터커피 광화문점",
-      "link": "https://www.centercoffee.co.kr/",
-      "category": "카페,디저트>카페",
+      "title": "유림면",
+      "link": "https://www.thingoolmarket.com",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 B1층 105호",
-      "roadAddress": "서울특별시 중구 세종대로 136 B1층 105호",
-      "mapx": "1269782701",
-      "mapy": "375684246"
+      "address": "서울특별시 중구 서소문동 16",
+      "roadAddress": "서울특별시 중구 서소문로 139-1",
+      "mapx": "1269760935",
+      "mapy": "375642371"
     },
     {
-      "title": "데일리픽스 을지로",
-      "link": "https://www.instagram.com/daily.fix.seoul?igsh=ZXRxeHUwbDE2N2E3&utm_source=qr",
-      "category": "음식점>햄버거",
+      "title": "멘츠루 시청점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 140 1층 103호, 104호",
-      "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
-      "mapx": "1269813054",
-      "mapy": "375670949"
+      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
+      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
+      "mapx": "1269731249",
+      "mapy": "375629944"
     },
     {
-      "title": "온점 을지로점",
-      "link": "https://www.instagram.com/onjeom.seoul",
+      "title": "정동1946 서울시청본점",
+      "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 87 지1층",
-      "roadAddress": "서울특별시 중구 을지로 29 지1층",
-      "mapx": "1269810422",
-      "mapy": "375664910"
+      "address": "서울특별시 중구 정동 34-5 LL층 1946",
+      "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
+      "mapx": "1269728071",
+      "mapy": "375633419"
     }
   ]
 }

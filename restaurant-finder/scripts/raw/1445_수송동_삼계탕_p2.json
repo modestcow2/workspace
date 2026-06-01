@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:26 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:59:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "정통<b>삼계탕</b>",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 129-1 2층 정통삼계탕",
+      "roadAddress": "서울특별시 종로구 종로5길 95 2층 정통삼계탕",
+      "mapx": "1269791540",
+      "mapy": "375741620"
+    },
     {
       "title": "장수<b>삼계탕</b>",
       "link": "",
@@ -27,17 +38,6 @@
       "mapy": "375725008"
     },
     {
-      "title": "정통<b>삼계탕</b>",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 129-1 2층 정통삼계탕",
-      "roadAddress": "서울특별시 종로구 종로5길 95 2층 정통삼계탕",
-      "mapx": "1269791540",
-      "mapy": "375741620"
-    },
-    {
       "title": "담소 누룽지백숙",
       "link": "http://instagram.com/",
       "category": "한식>백숙,삼계탕",
@@ -49,15 +49,15 @@
       "mapy": "375723869"
     },
     {
-      "title": "토속촌 <b>삼계탕</b>",
+      "title": "토속촌<b>삼계탕</b>",
       "link": "http://www.tosokchon.co.kr/",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 체부동 85-1 토속촌",
       "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
-      "mapx": "1269716148",
-      "mapy": "375776587"
+      "mapx": "1269715866",
+      "mapy": "375776607"
     }
   ]
 }

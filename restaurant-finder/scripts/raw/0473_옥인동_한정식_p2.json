@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:51 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:46:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로17길 12",
       "mapx": "1269699906",
       "mapy": "375814609"
+    },
+    {
+      "title": "슬렁슬렁",
+      "link": "https://www.instagram.com/naeoejuga",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 2층",
+      "mapx": "1269712004",
+      "mapy": "375815886"
     },
     {
       "title": "목련나무집",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
       "mapx": "1269688756",
       "mapy": "375768581"
-    },
-    {
-      "title": "설가온",
-      "link": "https://blog.naver.com/mdinc6",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하1층 설가온",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하1층 설가온",
-      "mapx": "1269759463",
-      "mapy": "375726222"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:46 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375684296"
     },
     {
-      "title": "민규 을지로",
-      "link": "https://app.catchtable.co.kr/ct/shop/mingyueulhiro",
-      "category": "한식>소고기구이",
+      "title": "모꼬지",
+      "link": "",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 수하동 67 미래에셋센터원 B1층 108호",
-      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋센터원 B1층 108호",
-      "mapx": "1269852223",
-      "mapy": "375673385"
+      "address": "서울특별시 중구 태평로1가 31-28 대원빌딩 1층 모꼬지",
+      "roadAddress": "서울특별시 중구 무교로 17-27 대원빌딩 1층 모꼬지",
+      "mapx": "1269783832",
+      "mapy": "375674937"
     },
     {
       "title": "저돌",

@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:40 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "복성각 덕수궁점",
-      "link": "https://www.instagram.com/boksung_meal",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -27,15 +27,15 @@
       "mapy": "375613479"
     },
     {
-      "title": "북경",
+      "title": "태양 <b>시청</b>점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "경기도 안산시 단원구 고잔동 527-8 1층",
-      "roadAddress": "경기도 안산시 단원구 화랑로 402 1층",
-      "mapx": "1268323238",
-      "mapy": "373208938"
+      "address": "서울특별시 중구 태평로2가 69-6 1,2층",
+      "roadAddress": "서울특별시 중구 세종대로 72-1 1,2층",
+      "mapx": "1269768296",
+      "mapy": "375625361"
     },
     {
       "title": "만복림",
@@ -49,15 +49,15 @@
       "mapy": "375674511"
     },
     {
-      "title": "Chai797 <b>시청</b>점",
-      "link": "http://www.chai797.co.kr",
-      "category": "음식점>중식당",
+      "title": "열빈 광화문점",
+      "link": "https://blog.naver.com/yb_food",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 136 ENA Center 빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 서소문로 120 ENA Center 빌딩 지하1층",
-      "mapx": "1269744832",
-      "mapy": "375628896"
+      "address": "서울특별시 중구 태평로1가 60-17",
+      "roadAddress": "서울특별시 중구 세종대로21길 22",
+      "mapx": "1269760497",
+      "mapy": "375675869"
     }
   ]
 }

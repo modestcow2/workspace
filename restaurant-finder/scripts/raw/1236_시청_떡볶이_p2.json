@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:49 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375600347"
     },
     {
-      "title": "하라김밥 <b>시청</b>직영점",
-      "link": "https://haragimbap.com/default/menu/sub01.php",
-      "category": "분식>김밥",
+      "title": "분식을품다 수원<b>시청</b>점",
+      "link": "https://www.pumda0202.com/",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-11 1층",
-      "roadAddress": "서울특별시 중구 세종대로11길 27 1층",
-      "mapx": "1269743748",
-      "mapy": "375621734"
+      "address": "경기도 수원시 팔달구 인계동 1030-6 1층 102호",
+      "roadAddress": "경기도 수원시 팔달구 권광로175번길 52 1층 102호",
+      "mapx": "1270296799",
+      "mapy": "372641724"
     },
     {
       "title": "청담동마녀김밥 <b>시청</b>점",
@@ -49,15 +49,15 @@
       "mapy": "375654950"
     },
     {
-      "title": "오로라 즉석<b>떡볶이</b> 부천<b>시청</b>점",
+      "title": "마포만두 <b>시청</b>점",
       "link": "",
-      "category": "분식>떡볶이",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1161-3 1층 106호",
-      "roadAddress": "경기도 부천시 원미구 소향로 131 1층 106호",
-      "mapx": "1267624786",
-      "mapy": "375023503"
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
     }
   ]
 }

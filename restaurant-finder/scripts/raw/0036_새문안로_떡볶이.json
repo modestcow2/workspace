@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:41:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 중구 충정로1가 57",
       "roadAddress": "서울특별시 중구 새문안로 28-1",
-      "mapx": "1269689384",
-      "mapy": "375676893"
+      "mapx": "1269689208",
+      "mapy": "375676733"
     },
     {
-      "title": "시니어벤져스사회적협동조합",
+      "title": "새봄 서대문점",
       "link": "",
-      "category": "분식>종합분식",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 170",
-      "roadAddress": "서울특별시 종로구 새문안로 39-1",
-      "mapx": "1269695128",
-      "mapy": "375688518"
+      "address": "서울특별시 중구 충정로1가 62-15",
+      "roadAddress": "서울특별시 중구 새문안로 24",
+      "mapx": "1269685725",
+      "mapy": "375674131"
     }
   ]
 }

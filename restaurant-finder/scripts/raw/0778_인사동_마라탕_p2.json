@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:14 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:50:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375699463"
     },
     {
-      "title": "청킹마마",
-      "link": "https://www.lumi.co.kr/",
-      "category": "중식>중식당",
+      "title": "하우<b>마라탕</b> 종로점",
+      "link": "https://www.instagram.com/hawoo_jongno?igsh=N3VkYzNlM3o5Z3lp",
+      "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 18-10 2층",
-      "roadAddress": "서울특별시 종로구 우정국로2길 29 2층",
-      "mapx": "1269845378",
-      "mapy": "375696958"
+      "address": "서울특별시 종로구 관철동 5-1 2층",
+      "roadAddress": "서울특별시 종로구 종로16길 12 2층",
+      "mapx": "1269885196",
+      "mapy": "375695603"
     }
   ]
 }

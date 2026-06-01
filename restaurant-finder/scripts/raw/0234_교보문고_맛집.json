@@ -1,42 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:58 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "정백어가 광화문 피맛골본점",
-      "link": "",
-      "category": "한식>생선구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "일품 광화문점",
-      "link": "https://www.instagram.com/ilpum0200",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
-      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "타마린드 디타워점",
-      "link": "https://catchtable.co.kr/tamarinddt",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
-    },
     {
       "title": "광화문석갈비 D타워점",
       "link": "https://lumi.co.kr/brand/gwangseokssi.html",
@@ -49,15 +16,48 @@
       "mapy": "375710184"
     },
     {
-      "title": "올리페페 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/ollipepe_gwanghwamun",
-      "category": "음식점>이탈리아음식",
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 서린동 149 2층 올리페페",
-      "roadAddress": "서울특별시 종로구 청계천로 11 2층 올리페페",
-      "mapx": "1269789879",
-      "mapy": "375694150"
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "스탠다드번 스타필드 애비뉴 그랑서울점",
+      "link": "https://www.instagram.com/standardbun.buns",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 70 1층 105호, 106호",
+      "roadAddress": "서울특별시 종로구 종로 33 1층 105호, 106호",
+      "mapx": "1269811289",
+      "mapy": "375706829"
+    },
+    {
+      "title": "광화문미진",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 1층",
+      "mapx": "1269798986",
+      "mapy": "375705485"
+    },
+    {
+      "title": "BBQ치킨 청계광장점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 129-1 BBQ청계광장점",
+      "roadAddress": "서울특별시 종로구 종로 24-8 BBQ청계광장점",
+      "mapx": "1269797156",
+      "mapy": "375695035"
     }
   ]
 }

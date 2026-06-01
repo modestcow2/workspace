@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:03 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375708344"
     },
     {
-      "title": "스프링어텀",
-      "link": "https://www.instagram.com/spring.a_salad",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 110-1-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 110-1-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "더맛있는김밥",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층",
-      "mapx": "1269798605",
-      "mapy": "375708344"
-    },
-    {
       "title": "영차<b>떡볶이</b> 명동점",
       "link": "",
       "category": "분식>종합분식",
@@ -49,6 +27,17 @@
       "mapy": "375631401"
     },
     {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
+    },
+    {
       "title": "신세계<b>떡볶이</b>",
       "link": "",
       "category": "분식>떡볶이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 명동9길 10",
       "mapx": "1269850160",
       "mapy": "375642992"
+    },
+    {
+      "title": "원조정할머니기름<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269700183",
+      "mapy": "375806564"
     }
   ]
 }

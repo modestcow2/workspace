@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:47 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375687069"
     },
     {
-      "title": "프랭크버거 냉천점",
+      "title": "더샌드위치",
       "link": "",
-      "category": "음식점>햄버거",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 34",
-      "roadAddress": "서울특별시 서대문구 독립문로 66",
-      "mapx": "1269639330",
-      "mapy": "375671642"
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
     }
   ]
 }

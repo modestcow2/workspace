@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:33 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688756",
+      "mapy": "375768581"
+    },
     {
       "title": "꽃누리들밥 <b>경복궁</b>점",
       "link": "",
@@ -14,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 율곡로1길 31 지하1층",
       "mapx": "1269804337",
       "mapy": "375772562"
+    },
+    {
+      "title": "신안촌 본점",
+      "link": "https://catchtable.co.kr/sinanchon_og",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 152 1층",
+      "roadAddress": "서울특별시 종로구 사직로12길 8 1층",
+      "mapx": "1269708935",
+      "mapy": "375756401"
     },
     {
       "title": "산채향 청계광장점",
@@ -36,28 +58,6 @@
       "roadAddress": "부산광역시 해운대구 해운대로 743 정우빌딩 3층",
       "mapx": "1291712991",
       "mapy": "351671027"
-    },
-    {
-      "title": "<b>경복궁</b> 관훈점",
-      "link": "",
-      "category": "음식점>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-42 아미드호텔 지하1층",
-      "roadAddress": "서울특별시 종로구 인사동5길 38 아미드호텔 지하1층",
-      "mapx": "1269841684",
-      "mapy": "375725229"
-    },
-    {
-      "title": "<b>경복궁</b> 갓포제주 대전점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "대전광역시 유성구 도룡동 657 2층 1호",
-      "roadAddress": "대전광역시 유성구 엑스포로 87 2층 1호",
-      "mapx": "1273892891",
-      "mapy": "363751372"
     }
   ]
 }

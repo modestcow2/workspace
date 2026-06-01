@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:21 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375648615"
     },
     {
-      "title": "패티바이번 현대아울렛 동대문",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
-      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
-      "mapx": "1270075133",
-      "mapy": "375687665"
-    },
-    {
       "title": "쉐이크쉑 두타점",
       "link": "http://www.shakeshack.kr/",
       "category": "양식>햄버거",
@@ -49,15 +38,26 @@
       "mapy": "375690812"
     },
     {
-      "title": "바스버거 <b>을지로</b>점",
-      "link": "http://www.basburger.net/",
+      "title": "패티바이번 현대아울렛 동대문",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
+      "mapx": "1270075133",
+      "mapy": "375687665"
+    },
+    {
+      "title": "맥도날드 서울시청점",
+      "link": "https://www.mcdonalds.co.kr/",
       "category": "양식>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 320 시어소호텔 지하1층",
-      "roadAddress": "서울특별시 중구 을지로12길 11 시어소호텔 지하1층",
-      "mapx": "1269911768",
-      "mapy": "375656618"
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269793605",
+      "mapy": "375668620"
     }
   ]
 }

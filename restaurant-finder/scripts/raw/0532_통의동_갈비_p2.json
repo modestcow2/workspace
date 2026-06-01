@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:47:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375766155"
     },
     {
-      "title": "만석꾼",
-      "link": "",
-      "category": "한식>육류,고기요리",
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 43-3",
-      "roadAddress": "서울특별시 종로구 자하문로2길 9",
-      "mapx": "1269732552",
-      "mapy": "375765769"
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
     },
     {
       "title": "서래미소 광화문점",
@@ -38,15 +38,15 @@
       "mapy": "375770180"
     },
     {
-      "title": "봉피양 경복궁점",
-      "link": "http://www.bjgalbi.com",
-      "category": "음식점>한식",
+      "title": "만석꾼",
+      "link": "",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 67-2",
-      "roadAddress": "서울특별시 종로구 자하문로 20",
-      "mapx": "1269722429",
-      "mapy": "375779140"
+      "address": "서울특별시 종로구 통의동 43-3",
+      "roadAddress": "서울특별시 종로구 자하문로2길 9",
+      "mapx": "1269732552",
+      "mapy": "375765769"
     },
     {
       "title": "소풍 독립문역점",

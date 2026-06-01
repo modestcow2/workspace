@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:12 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375775737"
     },
     {
-      "title": "한옥달 레스토랑",
-      "link": "https://catchtable.co.kr/ct/shop/hanokdal",
-      "category": "이탈리아음식>스파게티,파스타전문",
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 68",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 9",
-      "mapx": "1269718720",
-      "mapy": "375769814"
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
     }
   ]
 }

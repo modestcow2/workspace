@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:22 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375652206"
     },
     {
+      "title": "타이24",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-64 3층",
+      "roadAddress": "서울특별시 중구 명동9길 33 3층",
+      "mapx": "1269841157",
+      "mapy": "375652430"
+    },
+    {
       "title": "촙촙",
       "link": "http://www.instagram.com/chopchop_euljiro",
       "category": "음식점>베트남음식",
@@ -38,26 +49,15 @@
       "mapy": "375652023"
     },
     {
-      "title": "벱비엣 <b>을지로</b>본점",
+      "title": "베트남노상식당 DDP점",
       "link": "",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 75 2층",
-      "roadAddress": "서울특별시 중구 마른내로 17-1 2층",
-      "mapx": "1269897914",
-      "mapy": "375649783"
-    },
-    {
-      "title": "타이24",
-      "link": "",
-      "category": "음식점>태국음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-64 3층",
-      "roadAddress": "서울특별시 중구 명동9길 33 3층",
-      "mapx": "1269841157",
-      "mapy": "375652430"
+      "address": "서울특별시 중구 을지로7가 143 동대문디자인플라자 디자인장터 베트남노상식당",
+      "roadAddress": "서울특별시 중구 을지로 281 동대문디자인플라자 디자인장터 베트남노상식당",
+      "mapx": "1270099323",
+      "mapy": "375675466"
     }
   ]
 }

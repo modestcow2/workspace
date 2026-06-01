@@ -1,19 +1,41 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:40 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "마음을담아내면 점심",
-      "link": "",
+      "title": "미트볼라운지 X 아날로그키친 삼청점",
+      "link": "http://www.instagram.com/meatball_lounge",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
-      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
-      "mapx": "1269821145",
-      "mapy": "375791937"
+      "address": "서울특별시 종로구 팔판동 27-5 미트볼라운지x아날로그키친 삼청점",
+      "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
+      "mapx": "1269816796",
+      "mapy": "375833417"
+    },
+    {
+      "title": "베테카텐",
+      "link": "http://m.cafe.naver.com/vetekatten",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
+      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
+      "mapx": "1269812932",
+      "mapy": "375837523"
+    },
+    {
+      "title": "콩지POT지",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 34-1 1,2층",
+      "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
+      "mapx": "1269843199",
+      "mapy": "375788262"
     },
     {
       "title": "비움안국",
@@ -27,17 +49,6 @@
       "mapy": "375791098"
     },
     {
-      "title": "콩카세 안국",
-      "link": "https://catchtable.co.kr/concasse_anguk",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-31 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
-      "mapx": "1269858330",
-      "mapy": "375781862"
-    },
-    {
       "title": "헤비<b>스테이크</b> 안국역점",
       "link": "http://www.heavysteak.co.kr",
       "category": "음식점>양식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 67 1층",
       "mapx": "1269866512",
       "mapy": "375772781"
-    },
-    {
-      "title": "슬로우파크",
-      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
     }
   ]
 }

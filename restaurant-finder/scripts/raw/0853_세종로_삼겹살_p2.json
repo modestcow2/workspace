@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:49 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:51:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "뼈탄집 서촌본점",
+      "link": "http://www.bornpig.co.kr/index2.php",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 9-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 13",
+      "mapx": "1269717062",
+      "mapy": "375764468"
+    },
     {
       "title": "육통령 명동본점",
       "link": "",
@@ -18,7 +29,7 @@
     {
       "title": "고기꾼김춘배 종로직영점",
       "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
-      "category": "한식>돼지고기구이",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
@@ -27,15 +38,15 @@
       "mapy": "375690679"
     },
     {
-      "title": "뼈탄집 서촌본점",
-      "link": "http://www.bornpig.co.kr/index2.php",
+      "title": "멍석집 종로3가점",
+      "link": "https://www.instagram.com/meong_seok/",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 9-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 13",
-      "mapx": "1269717062",
-      "mapy": "375764468"
+      "address": "서울특별시 종로구 돈의동 24 멍석집",
+      "roadAddress": "서울특별시 종로구 돈화문로11다길 7 멍석집",
+      "mapx": "1269903688",
+      "mapy": "375728248"
     },
     {
       "title": "평양고깃집",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
       "mapx": "1269854482",
       "mapy": "375727819"
-    },
-    {
-      "title": "무쇠옥 종각본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/moo_iron_ok",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 45-1 1층",
-      "roadAddress": "서울특별시 종로구 우정국로2길 21 1층",
-      "mapx": "1269843652",
-      "mapy": "375696685"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:40 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:51:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
       "mapx": "1269805216",
       "mapy": "375706504"
+    },
+    {
+      "title": "은성 <b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
     },
     {
       "title": "어부몽 인사점",
@@ -38,26 +49,15 @@
       "mapy": "375726222"
     },
     {
-      "title": "은성 <b>한정식</b>",
+      "title": "인사동 촌",
       "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
-      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
-      "mapx": "1269814980",
-      "mapy": "375729994"
-    },
-    {
-      "title": "양반댁",
-      "link": "http://instagram.com/yangbandeck",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 193-5 양반댁",
-      "roadAddress": "서울특별시 종로구 인사동길 19-18 양반댁",
-      "mapx": "1269859113",
-      "mapy": "375723316"
+      "address": "서울특별시 종로구 관훈동 84-17",
+      "roadAddress": "서울특별시 종로구 인사동14길 19",
+      "mapx": "1269851231",
+      "mapy": "375750012"
     }
   ]
 }

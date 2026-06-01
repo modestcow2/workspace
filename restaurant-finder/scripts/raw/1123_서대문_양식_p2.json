@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:56 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "마우디",
-      "link": "https://www.instagram.com/maudie_dining",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 132-18",
-      "roadAddress": "서울특별시 서대문구 연희로11길 18",
-      "mapx": "1269301258",
-      "mapy": "375674593"
-    },
     {
       "title": "리틀쿠바",
       "link": "",
@@ -27,37 +16,48 @@
       "mapy": "375589048"
     },
     {
-      "title": "뽁식당 신촌점",
-      "link": "https://app.catchtable.co.kr/ct/shop/bbok_sinchon",
+      "title": "마우디",
+      "link": "https://www.instagram.com/maudie_dining",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 57-17 1층~4층",
-      "roadAddress": "서울특별시 서대문구 연세로5나길 24 1층~4층",
-      "mapx": "1269348603",
-      "mapy": "375570525"
+      "address": "서울특별시 서대문구 연희동 132-18",
+      "roadAddress": "서울특별시 서대문구 연희로11길 18",
+      "mapx": "1269301258",
+      "mapy": "375674593"
     },
     {
-      "title": "요쇼쿠야 리나",
-      "link": "https://app.catchtable.co.kr/ct/shop/yoshokuyalina?from=share&type=DINING",
+      "title": "그로어스",
+      "link": "https://catchtable.co.kr/growers",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 190-14 1층 102호",
-      "roadAddress": "서울특별시 서대문구 연희로11가길 39 1층 102호",
-      "mapx": "1269281096",
-      "mapy": "375667448"
+      "address": "서울특별시 서대문구 연희동 83-13",
+      "roadAddress": "서울특별시 서대문구 연희로27길 52",
+      "mapx": "1269333376",
+      "mapy": "375723021"
     },
     {
-      "title": "신촌칼",
-      "link": "https://instagram.com/shinchon_kal",
-      "category": "음식점>양식",
+      "title": "구씨네부엌",
+      "link": "",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 5-96 1층",
-      "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
-      "mapx": "1269390887",
-      "mapy": "375578967"
+      "address": "서울특별시 서대문구 창천동 508-2",
+      "roadAddress": "서울특별시 서대문구 신촌로 9",
+      "mapx": "1269280826",
+      "mapy": "375585999"
+    },
+    {
+      "title": "옐로우보울",
+      "link": "https://booking.naver.com/booking/6/bizes/1352337",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 476 구세군빌딩 지하1층",
+      "roadAddress": "서울특별시 서대문구 충정로 7 구세군빌딩 지하1층",
+      "mapx": "1269624726",
+      "mapy": "375602761"
     }
   ]
 }

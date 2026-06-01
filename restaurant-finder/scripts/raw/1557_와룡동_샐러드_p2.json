@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:00:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375763638"
     },
     {
-      "title": "<b>샐러드</b>로우 앤 트라타 익선점",
-      "link": "https://www.instagram.com/saladlowtratar_iksun",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 와룡동 173 1층 샐러드로우앤트라타",
-      "roadAddress": "서울특별시 종로구 돈화문로 65 1층 샐러드로우앤트라타",
-      "mapx": "1269907696",
-      "mapy": "375742407"
-    },
-    {
       "title": "도트블랭킷 안국점",
       "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
       "category": "음식점>브런치",
@@ -38,15 +27,26 @@
       "mapy": "375770264"
     },
     {
-      "title": "익선잡방",
-      "link": "http://www.instagram.com/ikseon_jabbang",
-      "category": "음식점>브런치",
+      "title": "라이크<b>샐러드</b>",
+      "link": "https://www.instagram.com/like_salad_SKKU",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
-      "mapx": "1269894722",
-      "mapy": "375733980"
+      "address": "서울특별시 종로구 명륜3가 1-190 1층 LIKE SALAD",
+      "roadAddress": "서울특별시 종로구 명륜길 44 1층 LIKE SALAD",
+      "mapx": "1269949025",
+      "mapy": "375890462"
+    },
+    {
+      "title": "파작",
+      "link": "https://store.tossplace.com/order/136462",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 43-11 1층 파작",
+      "roadAddress": "서울특별시 종로구 청계천로 57 1층 파작",
+      "mapx": "1269840599",
+      "mapy": "375689410"
     },
     {
       "title": "소금집델리 안국",

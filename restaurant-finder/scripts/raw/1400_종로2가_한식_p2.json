@@ -1,30 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:05 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "샤브가든 <b>종로</b>타워점",
+      "title": "황생가칼국수 <b>종로</b>타워점",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B206,B207호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206,B207호",
       "mapx": "1269836385",
       "mapy": "375707534"
-    },
-    {
-      "title": "하얀고래 종각본점",
-      "link": "https://sites.google.com/view/hayangoraejonggakbonjeom",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 8-4 1층 109,110,111호",
-      "roadAddress": "서울특별시 종로구 종로 65 1층 109,110,111호",
-      "mapx": "1269847263",
-      "mapy": "375704878"
     },
     {
       "title": "육전국밥 종각역점",
@@ -38,15 +27,15 @@
       "mapy": "375699939"
     },
     {
-      "title": "이춘복참치 종각점",
-      "link": "https://www.instagram.com/lcbtuna_official/",
-      "category": "음식점>한식>해물,생선요리>생선회",
+      "title": "하얀고래 종각본점",
+      "link": "https://sites.google.com/view/hayangoraejonggakbonjeom",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 9 1층",
-      "roadAddress": "서울특별시 종로구 종로 69 1층",
-      "mapx": "1269851208",
-      "mapy": "375704273"
+      "address": "서울특별시 종로구 종로2가 8-4 1층 109,110,111호",
+      "roadAddress": "서울특별시 종로구 종로 65 1층 109,110,111호",
+      "mapx": "1269847263",
+      "mapy": "375704878"
     },
     {
       "title": "보돌미역 <b>종로</b>타워점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로 51",
       "mapx": "1269836223",
       "mapy": "375707628"
+    },
+    {
+      "title": "이춘복참치 종각점",
+      "link": "https://www.instagram.com/lcbtuna_official/",
+      "category": "음식점>한식>해물,생선요리>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 9 1층",
+      "roadAddress": "서울특별시 종로구 종로 69 1층",
+      "mapx": "1269851208",
+      "mapy": "375704273"
     }
   ]
 }

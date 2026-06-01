@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:30 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:44:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,17 +12,6 @@
       "telephone": "",
       "address": "서울특별시 종로구 적선동 80 지하1층 70호",
       "roadAddress": "서울특별시 종로구 사직로 130 지하1층 70호",
-      "mapx": "1269733437",
-      "mapy": "375753767"
-    },
-    {
-      "title": "아이자와",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
-      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
       "mapx": "1269733437",
       "mapy": "375753767"
     },
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 301동 B113-14호",
       "mapx": "1269686007",
       "mapy": "375744035"
+    },
+    {
+      "title": "명동돈가스",
+      "link": "http://mddongas.co.kr/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-13",
+      "roadAddress": "서울특별시 중구 명동3길 8",
+      "mapx": "1269835560",
+      "mapy": "375640263"
     }
   ]
 }

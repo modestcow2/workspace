@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:26 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375747276"
     },
     {
-      "title": "쇼쿠도 합",
-      "link": "https://app.catchtable.co.kr/ct/shop/shokudo_hab",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 15 1층",
-      "roadAddress": "서울특별시 종로구 사직로 137-17 1층",
-      "mapx": "1269735847",
-      "mapy": "375763322"
-    },
-    {
       "title": "동원참치 광화문본점",
       "link": "http://tuna.dongwon.com/",
       "category": "한식>생선회",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로 130 현대적선빌딩 지하1층 22호",
       "mapx": "1269732248",
       "mapy": "375754136"
+    },
+    {
+      "title": "사토루 더 서촌",
+      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 24",
+      "roadAddress": "서울특별시 종로구 자하문로7길 11",
+      "mapx": "1269709856",
+      "mapy": "375783639"
     }
   ]
 }

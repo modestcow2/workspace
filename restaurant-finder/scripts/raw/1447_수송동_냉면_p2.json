@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:27 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:59:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -21,10 +21,21 @@
       "category": "음식점>한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
       "mapx": "1269807361",
       "mapy": "375727720"
+    },
+    {
+      "title": "오도집 김치찜",
+      "link": "https://www.instagram.com/bukchondodam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 15 1층 오도집",
+      "roadAddress": "서울특별시 종로구 율곡로4길 7 1층 오도집",
+      "mapx": "1269821460",
+      "mapy": "375751757"
     },
     {
       "title": "남포면옥",
@@ -38,26 +49,15 @@
       "mapy": "375671396"
     },
     {
-      "title": "을지면옥",
+      "title": "유진식당",
       "link": "",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 55-1",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 12",
-      "mapx": "1269886066",
-      "mapy": "375736812"
-    },
-    {
-      "title": "광화문면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
+      "address": "서울특별시 종로구 낙원동 221",
+      "roadAddress": "서울특별시 종로구 종로17길 40",
+      "mapx": "1269882793",
+      "mapy": "375720328"
     }
   ]
 }

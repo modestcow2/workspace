@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:20 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:59:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375704878"
     },
     {
-      "title": "솔솥 <b>종로</b>타워점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Solsotpotricehouse",
-      "category": "음식점>한식",
+      "title": "반궁 종각역점",
+      "link": "https://bangoong.kr/",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 지하1층 B108호",
-      "roadAddress": "서울특별시 종로구 종로 51 지하1층 B108호",
-      "mapx": "1269835822",
-      "mapy": "375707034"
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B202, 202-1, 214호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B202, 202-1, 214호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
     },
     {
       "title": "명동정",
@@ -49,15 +49,15 @@
       "mapy": "375706504"
     },
     {
-      "title": "어부몽 인사점",
-      "link": "https://www.instagram.com/abumong.2024",
-      "category": "음식점>한식",
+      "title": "동화고옥 을지로점",
+      "link": "https://openine.com/동화고옥",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 3층",
-      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 중구 을지로4가 323 1층 123호",
+      "roadAddress": "서울특별시 중구 을지로 170 1층 123호",
+      "mapx": "1269978993",
+      "mapy": "375659332"
     }
   ]
 }

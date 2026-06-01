@@ -1,19 +1,41 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:51 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
+      "title": "유림면",
+      "link": "https://www.thingoolmarket.com",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
+      "address": "서울특별시 중구 서소문동 16",
+      "roadAddress": "서울특별시 중구 서소문로 139-1",
+      "mapx": "1269760935",
+      "mapy": "375642371"
+    },
+    {
+      "title": "정동1946 서울시청본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 34-5 LL층 1946",
+      "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
+      "mapx": "1269728071",
+      "mapy": "375633419"
+    },
+    {
+      "title": "고려삼계탕",
+      "link": "http://www.krsamgyetang.com/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 55-3",
+      "roadAddress": "서울특별시 중구 서소문로11길 1",
+      "mapx": "1269729232",
+      "mapy": "375629681"
     },
     {
       "title": "한암동 정동점",
@@ -27,37 +49,15 @@
       "mapy": "375678521"
     },
     {
-      "title": "광화문면옥",
-      "link": "",
+      "title": "강남면옥 정동점",
+      "link": "http://강남면옥.net",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
-    },
-    {
-      "title": "모담다이닝 광화문점",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
-      "mapx": "1269720468",
-      "mapy": "375687024"
-    },
-    {
-      "title": "탄백",
-      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 11-8",
-      "roadAddress": "서울특별시 중구 정동길 37",
-      "mapx": "1269724678",
-      "mapy": "375659578"
+      "address": "서울특별시 종로구 신문로2가 12-5",
+      "roadAddress": "서울특별시 종로구 새문안로 38",
+      "mapx": "1269696551",
+      "mapy": "375683064"
     }
   ]
 }

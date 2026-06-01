@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:36 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:59:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "신라스테이 광화문 카페",
-      "link": "https://www.shillastay.com/gwanghwamun/dining/viewDining.do?contId=CAFE",
-      "category": "음식점>뷔페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 156",
-      "roadAddress": "서울특별시 종로구 삼봉로 71",
-      "mapx": "1269810035",
-      "mapy": "375726695"
-    },
     {
       "title": "경성돈카츠",
       "link": "",
@@ -38,6 +27,17 @@
       "mapy": "375657466"
     },
     {
+      "title": "대성성 서순라길",
+      "link": "https://app.catchtable.co.kr/ct/shop/daeseongseong",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 권농동 160 1층",
+      "roadAddress": "서울특별시 종로구 율곡로10길 25-3 1층(권농동)",
+      "mapx": "1269912236",
+      "mapy": "375764860"
+    },
+    {
       "title": "타마린드 디타워점",
       "link": "https://catchtable.co.kr/tamarinddt",
       "category": "음식점>베트남음식",
@@ -49,15 +49,15 @@
       "mapy": "375710184"
     },
     {
-      "title": "대성성 서순라길",
-      "link": "https://app.catchtable.co.kr/ct/shop/daeseongseong",
-      "category": "음식점>베트남음식",
+      "title": "까이9",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_kkai9",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 160 1층",
-      "roadAddress": "서울특별시 종로구 율곡로10길 25-3 1층(권농동)",
-      "mapx": "1269912236",
-      "mapy": "375764860"
+      "address": "서울특별시 중구 을지로3가 296-5",
+      "roadAddress": "서울특별시 중구 충무로5길 6",
+      "mapx": "1269924005",
+      "mapy": "375652206"
     }
   ]
 }

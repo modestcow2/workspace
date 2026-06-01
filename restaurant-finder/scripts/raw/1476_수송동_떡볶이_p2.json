@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:40 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:59:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "카츠연",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 제지층 136호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 제지층 136호",
+      "mapx": "1269817860",
+      "mapy": "375724779"
+    },
     {
       "title": "영차<b>떡볶이</b> 명동점",
       "link": "",
@@ -14,6 +25,17 @@
       "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
       "mapx": "1269835740",
       "mapy": "375631401"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     },
     {
       "title": "신세계<b>떡볶이</b>",
@@ -27,37 +49,15 @@
       "mapy": "375642992"
     },
     {
-      "title": "명화당 명동1호점",
+      "title": "원조정할머니기름<b>떡볶이</b>",
       "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-3 2층",
-      "roadAddress": "서울특별시 중구 명동4길 30 2층",
-      "mapx": "1269837950",
-      "mapy": "375623945"
-    },
-    {
-      "title": "청담동 마녀김밥 광화문점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 204-1",
-      "roadAddress": "서울특별시 종로구 새문안로 105",
-      "mapx": "1269762542",
-      "mapy": "375704544"
-    },
-    {
-      "title": "현선이네 청계즉석점",
-      "link": "https://smartstore.naver.com/hyunsunine",
       "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
-      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
-      "mapx": "1269830312",
-      "mapy": "375671291"
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269700183",
+      "mapy": "375806564"
     }
   ]
 }

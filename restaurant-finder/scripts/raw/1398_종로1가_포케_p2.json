@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:04 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "와이스타브 다이어트 광화문점",
+      "link": "https://www.instagram.com/whystarve.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
     {
       "title": "슬로우캘리 광화문",
       "link": "http://www.slowcali.co.kr",
@@ -16,19 +27,8 @@
       "mapy": "375708095"
     },
     {
-      "title": "점점점 샐러드",
-      "link": "https://youtube.com/@_jum_2023",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
       "title": "스프링어텀",
-      "link": "https://www.instagram.com/spring.a_salad",
+      "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
@@ -38,26 +38,26 @@
       "mapy": "375708344"
     },
     {
-      "title": "와이스타브 다이어트 광화문점",
-      "link": "",
+      "title": "점점점 샐러드",
+      "link": "https://blog.naver.com/jum_3",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
       "mapx": "1269798606",
       "mapy": "375708344"
     },
     {
-      "title": "그리너 남대문점",
+      "title": "어쩌다농부 광화문점",
       "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로4가 20-15 1층",
-      "roadAddress": "서울특별시 중구 남대문로 6 1층",
-      "mapx": "1269764084",
-      "mapy": "375603412"
+      "address": "서울특별시 종로구 종로1가 24 지하2층 비222호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층 비222호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:13 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375682937"
     },
     {
+      "title": "다원닭한마리 빈대떡 <b>을지로</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 20-1",
+      "roadAddress": "서울특별시 중구 마른내로 23",
+      "mapx": "1269905872",
+      "mapy": "375648979"
+    },
+    {
       "title": "계화정 동대문현대시티아울렛점",
       "link": "",
       "category": "한식>닭요리",
@@ -27,6 +38,17 @@
       "mapy": "375683116"
     },
     {
+      "title": "을지<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 291-45",
+      "roadAddress": "서울특별시 중구 충무로 54-3",
+      "mapx": "1269929795",
+      "mapy": "375660942"
+    },
+    {
       "title": "본가원조닭한마리",
       "link": "",
       "category": "한식>닭요리",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 마른내로2길 19",
       "mapx": "1269920102",
       "mapy": "375635413"
-    },
-    {
-      "title": "대동옥 <b>을지로</b>본점",
-      "link": "https://www.instagram.com/daedongok",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 334-8 1층",
-      "roadAddress": "서울특별시 중구 을지로12길 8 1층",
-      "mapx": "1269910616",
-      "mapy": "375659680"
-    },
-    {
-      "title": "을지수제비",
-      "link": "http://www.수제비.kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 291-14",
-      "roadAddress": "서울특별시 중구 충무로 50-1",
-      "mapx": "1269930161",
-      "mapy": "375656952"
     }
   ]
 }

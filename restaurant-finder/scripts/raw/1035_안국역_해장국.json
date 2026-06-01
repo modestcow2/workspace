@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:15 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375750276"
     },
     {
-      "title": "청진동장터순대국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 3-3",
-      "roadAddress": "서울특별시 종로구 종로5길 40",
-      "mapx": "1269804455",
-      "mapy": "375720966"
-    },
-    {
       "title": "신의주찹쌀순대 <b>안국역</b>점",
       "link": "http://www.bigsoondae.com/",
       "category": "한식>순대,순댓국",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 59",
       "mapx": "1269857102",
       "mapy": "375769015"
+    },
+    {
+      "title": "소담집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 125-2",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 42",
+      "mapx": "1269899452",
+      "mapy": "375742305"
     },
     {
       "title": "청진옥",

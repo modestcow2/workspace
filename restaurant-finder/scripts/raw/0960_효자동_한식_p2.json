@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:40 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:53:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375815060"
     },
     {
-      "title": "용금옥",
-      "link": "http://www.yonggeumok.co.kr",
-      "category": "한식>추어탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 118-5 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 41-2 1층",
-      "mapx": "1269711110",
-      "mapy": "375797918"
-    },
-    {
       "title": "도취",
       "link": "https://app.catchtable.co.kr/ct/shop/DochwiSeochon",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로7길 12 1층 안주마을 통인점",
       "mapx": "1269711394",
       "mapy": "375784976"
+    },
+    {
+      "title": "온지음 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
+      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
+      "mapx": "1269734438",
+      "mapy": "375804848"
     }
   ]
 }

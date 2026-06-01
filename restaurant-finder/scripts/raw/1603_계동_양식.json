@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:40 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:01:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375794136"
     },
     {
-      "title": "대장장이화덕피자",
-      "link": "http://pf.kakao.com/_Zscxmb",
-      "category": "음식점>피자",
+      "title": "브뤼셀프라이 안국점",
+      "link": "",
+      "category": "음식점>후렌치후라이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 가회동 202-1",
-      "roadAddress": "서울특별시 종로구 북촌로 42-4",
-      "mapx": "1269853702",
-      "mapy": "375805827"
+      "address": "서울특별시 종로구 계동 146-1 소점포 6호",
+      "roadAddress": "서울특별시 종로구 계동길 5 소점포 6호",
+      "mapx": "1269866500",
+      "mapy": "375776293"
     },
     {
       "title": "<b>계동</b>피자",
@@ -38,26 +38,26 @@
       "mapy": "375801802"
     },
     {
-      "title": "노윤",
-      "link": "https://app.catchtable.co.kr/ct/shop/no_yoon",
-      "category": "음식점>양식",
+      "title": "대장장이화덕피자",
+      "link": "http://pf.kakao.com/_Zscxmb",
+      "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 140-41 1층 101호",
-      "roadAddress": "서울특별시 종로구 계동길 50 1층 101호",
-      "mapx": "1269868060",
-      "mapy": "375794954"
+      "address": "서울특별시 종로구 가회동 202-1",
+      "roadAddress": "서울특별시 종로구 북촌로 42-4",
+      "mapx": "1269853702",
+      "mapy": "375805827"
     },
     {
-      "title": "헤비스테이크 안국역점",
-      "link": "http://www.heavysteak.co.kr",
-      "category": "음식점>양식",
+      "title": "후스테이블",
+      "link": "",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 146-2 1층",
-      "roadAddress": "서울특별시 종로구 율곡로 67 1층",
-      "mapx": "1269866512",
-      "mapy": "375772781"
+      "address": "서울특별시 종로구 계동 140-4 1층 후스테이블",
+      "roadAddress": "서울특별시 종로구 창덕궁1가길 8 1층 후스테이블",
+      "mapx": "1269880703",
+      "mapy": "375796147"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:09 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:47:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "효자동밥상",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 25 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 62 1층",
-      "mapx": "1269710519",
-      "mapy": "375816457"
-    },
     {
       "title": "가정식당",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로7길 69",
       "mapx": "1269689620",
       "mapy": "375802560"
+    },
+    {
+      "title": "효자동밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층",
+      "mapx": "1269710519",
+      "mapy": "375816457"
     },
     {
       "title": "무구옥",

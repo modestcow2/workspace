@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:13 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:02:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 101 1층",
       "mapx": "1269818749",
       "mapy": "375844611"
+    },
+    {
+      "title": "삼청로조개칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 28-19",
+      "roadAddress": "서울특별시 종로구 삼청로 124-2",
+      "mapx": "1269819297",
+      "mapy": "375863317"
     },
     {
       "title": "다락정",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
       "mapx": "1269799066",
       "mapy": "375764071"
-    },
-    {
-      "title": "일미식당",
-      "link": "http://cafe.naver.com/ilmicafe",
-      "category": "한식>백반,가정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
-      "mapx": "1269876939",
-      "mapy": "375728300"
     }
   ]
 }

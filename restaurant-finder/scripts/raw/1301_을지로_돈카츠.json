@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375647491"
     },
     {
-      "title": "진작",
-      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 46-27 1층",
-      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
-      "mapx": "1269908216",
-      "mapy": "375640300"
-    },
-    {
       "title": "돈독",
       "link": "https://www.instagram.com/don._.dok",
       "category": "음식점>일식>돈가스",
@@ -38,17 +27,6 @@
       "mapy": "375637463"
     },
     {
-      "title": "부자돈까스",
-      "link": "",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 47-15",
-      "roadAddress": "서울특별시 중구 수표로 30",
-      "mapx": "1269903115",
-      "mapy": "375638108"
-    },
-    {
       "title": "우메돈",
       "link": "https://app.catchtable.co.kr/ct/shop/umetonkatsu",
       "category": "음식점>일식>돈가스",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 중구 충무로 31 1층",
       "mapx": "1269927585",
       "mapy": "375640129"
+    },
+    {
+      "title": "진작",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 46-27 1층",
+      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
+      "mapx": "1269908216",
+      "mapy": "375640300"
+    },
+    {
+      "title": "부자돈까스",
+      "link": "",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 47-15",
+      "roadAddress": "서울특별시 중구 수표로 30",
+      "mapx": "1269903115",
+      "mapy": "375638108"
     }
   ]
 }

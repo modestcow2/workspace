@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:59 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375720658"
     },
     {
+      "title": "소선재",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 113-3 소선재",
+      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
+      "mapx": "1269818029",
+      "mapy": "375855480"
+    },
+    {
       "title": "효자왕족발",
       "link": "https://www.instagram.com/seochonhotpot",
       "category": "한식>족발,보쌈",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
       "mapx": "1269805216",
       "mapy": "375706504"
-    },
-    {
-      "title": "소선재",
-      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 113-3 소선재",
-      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
-      "mapx": "1269818029",
-      "mapy": "375855480"
     }
   ]
 }

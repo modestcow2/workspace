@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:48 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:53:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375801579"
     },
     {
+      "title": "특수청소유품정리빈집폐기물처리집정리강아지고양이냄새제거",
+      "link": "",
+      "category": "지원,대행>청소",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동",
+      "roadAddress": "",
+      "mapx": "1269721000",
+      "mapy": "375805999"
+    },
+    {
       "title": "도량",
       "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
       "category": "중식>중식당",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
       "mapx": "1269724921",
       "mapy": "375780066"
-    },
-    {
-      "title": "중국",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
     },
     {
       "title": "차이들 안녕인사동점",

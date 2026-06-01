@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:40 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "태양 <b>시청</b>점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-6 1,2층",
+      "roadAddress": "서울특별시 중구 세종대로 72-1 1,2층",
+      "mapx": "1269768296",
+      "mapy": "375625361"
+    },
     {
       "title": "더퍼스트 서래향 <b>시청</b>점",
       "link": "https://www.instagram.com/verefood_official",
@@ -27,19 +38,8 @@
       "mapy": "371521964"
     },
     {
-      "title": "북경",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 안산시 단원구 고잔동 527-8 1층",
-      "roadAddress": "경기도 안산시 단원구 화랑로 402 1층",
-      "mapx": "1268323238",
-      "mapy": "373208938"
-    },
-    {
       "title": "Chai797 <b>시청</b>점",
-      "link": "http://www.chai797.co.kr",
+      "link": "https://app.catchtable.co.kr/ct/shop/chai797_city?type=DINING&currentSuggestionType=SHOP_NAME",
       "category": "음식점>중식당",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375628896"
     },
     {
-      "title": "또와요<b>짬뽕</b>",
+      "title": "북경",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "경기도 시흥시 군자동 127-2 1층",
-      "roadAddress": "경기도 시흥시 시흥대로 251 1층",
-      "mapx": "1268061268",
-      "mapy": "373633720"
+      "address": "경기도 안산시 단원구 고잔동 527-8 1층",
+      "roadAddress": "경기도 안산시 단원구 화랑로 402 1층",
+      "mapx": "1268323238",
+      "mapy": "373208938"
     }
   ]
 }

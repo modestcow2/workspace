@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:28 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:02:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375780911"
     },
     {
-      "title": "마디그라",
-      "link": "https://www.lumi.co.kr/",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 18-10 B1F",
-      "roadAddress": "서울특별시 종로구 우정국로2길 29 B1F",
-      "mapx": "1269845903",
-      "mapy": "375696467"
-    },
-    {
       "title": "버거옥 종로점",
       "link": "",
       "category": "음식점>햄버거",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로 396 1층~4층",
       "mapx": "1269879939",
       "mapy": "375698705"
+    },
+    {
+      "title": "번앤버니",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 지하1층 56호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 56호",
+      "mapx": "1269743109",
+      "mapy": "375720320"
     },
     {
       "title": "니즈버거 안국점",

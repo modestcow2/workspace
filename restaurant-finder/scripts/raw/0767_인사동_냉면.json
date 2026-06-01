@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:09 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:50:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375720328"
     },
     {
-      "title": "사찰음식 전문점 발우공양",
-      "link": "http://balwoo.or.kr/",
-      "category": "한식>사찰음식",
+      "title": "을지면옥",
+      "link": "",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 71 템플스테이 통합정보센터 5층",
-      "roadAddress": "서울특별시 종로구 우정국로 56 템플스테이 통합정보센터 5층",
-      "mapx": "1269832147",
-      "mapy": "375738365"
+      "address": "서울특별시 종로구 낙원동 55-1",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 12",
+      "mapx": "1269886066",
+      "mapy": "375736812"
+    },
+    {
+      "title": "한와담블랙 센트로폴리스점",
+      "link": "https://www.instagram.com/hanwhadamblack/",
+      "category": "음식점>한식>육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 A동 2층",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 A동 2층",
+      "mapx": "1269839467",
+      "mapy": "375713415"
     },
     {
       "title": "한우공방",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로9길 8 1층",
       "mapx": "1269845285",
       "mapy": "375707177"
-    },
-    {
-      "title": "종각한우",
-      "link": "",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 263 종각한우",
-      "roadAddress": "서울특별시 종로구 종로9길 8 종각한우",
-      "mapx": "1269843508",
-      "mapy": "375705652"
     }
   ]
 }

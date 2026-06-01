@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:47 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375708344"
     },
     {
-      "title": "스시소라 광화문점",
-      "link": "http://www.sushisora.co.kr",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르 지하1층 116호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하1층 116호",
-      "mapx": "1269799653",
-      "mapy": "375710310"
-    },
-    {
       "title": "모루카츠",
       "link": "https://www.instagram.com/moru_katsu/",
       "category": "음식점>일식>돈가스",
@@ -49,13 +38,24 @@
       "mapy": "375710372"
     },
     {
-      "title": "츠키라멘",
-      "link": "https://www.instagram.com/tsuki_ramen1",
-      "category": "음식점>일식>일본식라면",
+      "title": "스시소라 광화문점",
+      "link": "http://www.sushisora.co.kr",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 B1 108-1-3호",
-      "roadAddress": "서울특별시 종로구 종로 19 B1 108-1-3호",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 지하1층 116호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하1층 116호",
+      "mapx": "1269799653",
+      "mapy": "375710310"
+    },
+    {
+      "title": "오마카세 오사이초밥 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
       "mapx": "1269798606",
       "mapy": "375708344"
     }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:18 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:52:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "허니<b>떡볶이</b>",
-      "link": "https://blog.naver.com/honeybokki",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
-      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
-      "mapx": "1269762132",
-      "mapy": "375705250"
-    },
     {
       "title": "꼬소한부뚜막 광화문광장점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
       "mapx": "1269756633",
       "mapy": "375715135"
+    },
+    {
+      "title": "허니<b>떡볶이</b>",
+      "link": "https://blog.naver.com/honeybokki",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
+      "mapx": "1269762132",
+      "mapy": "375705250"
     },
     {
       "title": "만나분식",
@@ -38,17 +38,6 @@
       "mapy": "375773610"
     },
     {
-      "title": "샤브샵",
-      "link": "https://www.instagram.com/karacinikora77",
-      "category": "음식점>일식>샤브샤브",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 24 1, 2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
-      "mapx": "1269709557",
-      "mapy": "375763909"
-    },
-    {
       "title": "학교앞분식",
       "link": "",
       "category": "분식>종합분식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 39-1 동서한의원",
       "mapx": "1269695106",
       "mapy": "375688274"
+    },
+    {
+      "title": "사발",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
+      "mapx": "1269724791",
+      "mapy": "375735857"
     }
   ]
 }

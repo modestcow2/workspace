@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:57 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:46:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375794702"
     },
     {
+      "title": "슬렁슬렁",
+      "link": "https://www.instagram.com/naeoejuga",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 2층",
+      "mapx": "1269712004",
+      "mapy": "375815886"
+    },
+    {
       "title": "효자동밥상",
       "link": "",
       "category": "음식점>한식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 62 1층",
       "mapx": "1269710519",
       "mapy": "375816457"
-    },
-    {
-      "title": "가진화랑",
-      "link": "",
-      "category": "문화,예술>갤러리,화랑",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 58",
-      "roadAddress": "서울특별시 종로구 자하문로 74",
-      "mapx": "1269708940",
-      "mapy": "375825459"
     },
     {
       "title": "국수돈가",

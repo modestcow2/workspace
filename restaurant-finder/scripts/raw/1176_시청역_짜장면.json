@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:20 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "복성각 덕수궁점",
-      "link": "https://www.instagram.com/boksung_meal",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -25,6 +25,28 @@
       "roadAddress": "서울특별시 중구 덕수궁길 7 오천회관빌딩 2층",
       "mapx": "1269763352",
       "mapy": "375646727"
+    },
+    {
+      "title": "태양 시청점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-6 1,2층",
+      "roadAddress": "서울특별시 중구 세종대로 72-1 1,2층",
+      "mapx": "1269768296",
+      "mapy": "375625361"
+    },
+    {
+      "title": "진아춘 광화문점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269746651",
+      "mapy": "375695879"
     },
     {
       "title": "더퍼스트 서래향 시청점",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 남대문로 27 1층 101호, 102호, 103호, 104호",
       "mapx": "1269785594",
       "mapy": "375613479"
-    },
-    {
-      "title": "원흥",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 92",
-      "roadAddress": "서울특별시 중구 다동길 46",
-      "mapx": "1269819007",
-      "mapy": "375678937"
-    },
-    {
-      "title": "진아춘 광화문점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
-      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
-      "mapx": "1269748850",
-      "mapy": "375697325"
     }
   ]
 }

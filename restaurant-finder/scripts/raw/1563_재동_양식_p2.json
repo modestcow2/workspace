@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:22 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:00:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "콩카세 안국",
-      "link": "https://catchtable.co.kr/concasse_anguk",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-31 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
-      "mapx": "1269858330",
-      "mapy": "375781862"
-    },
     {
       "title": "비움안국",
       "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
       "mapx": "1269856635",
       "mapy": "375791098"
+    },
+    {
+      "title": "콩카세 안국",
+      "link": "https://catchtable.co.kr/concasse_anguk",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-31 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
+      "mapx": "1269858330",
+      "mapy": "375781862"
     },
     {
       "title": "로우파이브 안국",
@@ -49,15 +49,15 @@
       "mapy": "375774613"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
     }
   ]
 }

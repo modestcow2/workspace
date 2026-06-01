@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:03 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:40:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "학교앞<b>분식</b>",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 170 동서한의원",
-      "roadAddress": "서울특별시 종로구 새문안로 39-1 동서한의원",
-      "mapx": "1269695106",
-      "mapy": "375688274"
-    },
     {
       "title": "청담동 마녀김밥 광화문점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 105",
       "mapx": "1269762542",
       "mapy": "375704544"
+    },
+    {
+      "title": "학교앞<b>분식</b>",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 170 동서한의원",
+      "roadAddress": "서울특별시 종로구 새문안로 39-1 동서한의원",
+      "mapx": "1269695106",
+      "mapy": "375688274"
     },
     {
       "title": "허니떡볶이",
@@ -49,15 +49,15 @@
       "mapy": "375688518"
     },
     {
-      "title": "얌샘김밥 정동점",
-      "link": "https://www.instagram.com/yumsem_official",
-      "category": "음식점>분식",
+      "title": "덕희토스트",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "분식>토스트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충정로1가 57",
-      "roadAddress": "서울특별시 중구 새문안로 28-1",
-      "mapx": "1269689384",
-      "mapy": "375676893"
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 덕희토스트",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 덕희토스트",
+      "mapx": "1269749335",
+      "mapy": "375697325"
     }
   ]
 }

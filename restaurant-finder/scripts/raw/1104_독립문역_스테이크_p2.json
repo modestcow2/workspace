@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:47 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375730210"
     },
     {
-      "title": "파틱",
-      "link": "https://app.catchtable.co.kr/ct/shop/patic",
-      "category": "음식점>프랑스음식",
+      "title": "테라스222",
+      "link": "https://www.instagram.com/terrace_222/",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누상동 29-3 1층 파틱",
-      "roadAddress": "서울특별시 종로구 옥인3길 16 1층 파틱",
-      "mapx": "1269658863",
-      "mapy": "375806846"
+      "address": "서울특별시 종로구 신문로2가 1-222 M빌딩 2층",
+      "roadAddress": "서울특별시 종로구 경희궁1길 35 M빌딩 2층",
+      "mapx": "1269691027",
+      "mapy": "375727320"
     }
   ]
 }

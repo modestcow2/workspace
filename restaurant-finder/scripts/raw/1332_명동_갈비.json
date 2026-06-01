@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:33 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375664910"
     },
     {
-      "title": "육통령 <b>명동</b>본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
-    },
-    {
       "title": "난로은회 을지로",
       "link": "https://app.catchtable.co.kr/ct/shop/nanroeunhoi_euljiro",
       "category": "한식>육류,고기요리",
@@ -49,15 +38,26 @@
       "mapy": "375658847"
     },
     {
-      "title": "오는정쪽<b>갈비</b> 본점",
+      "title": "을지로 전주옥",
       "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 138 오는정본점",
-      "roadAddress": "서울특별시 중구 을지로3길 29 오는정본점",
-      "mapx": "1269813695",
-      "mapy": "375673512"
+      "address": "서울특별시 중구 을지로2가 101-11 1층",
+      "roadAddress": "서울특별시 중구 을지로 101 1층",
+      "mapx": "1269891709",
+      "mapy": "375663605"
+    },
+    {
+      "title": "육통령 <b>명동</b>본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-36",
+      "roadAddress": "서울특별시 중구 명동8나길 37-2",
+      "mapx": "1269828439",
+      "mapy": "375611991"
     }
   ]
 }

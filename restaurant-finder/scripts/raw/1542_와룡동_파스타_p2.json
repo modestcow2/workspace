@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:11 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:00:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "서양면옥 서순라길점",
+      "link": "https://www.instagram.com/seoyangmyunok.seoul",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 46 1층",
+      "roadAddress": "서울특별시 종로구 율곡로8길 45 1층",
+      "mapx": "1269911611",
+      "mapy": "375752912"
+    },
     {
       "title": "노우즈 창덕",
       "link": "https://catchtable.co.kr/knows_changdeok",
@@ -17,7 +28,7 @@
     },
     {
       "title": "풍기 서순라길점",
-      "link": "https://www.instagram.com/poongi_bar",
+      "link": "https://go.catchtable.co.kr/dxtzgw",
       "category": "술집>요리주점",
       "description": "",
       "telephone": "",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 율곡로8길 57-4 1층",
       "mapx": "1269913356",
       "mapy": "375747538"
-    },
-    {
-      "title": "서양면옥 서순라길점",
-      "link": "https://www.instagram.com/seoyangmyunok.seoul",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 와룡동 46 1층",
-      "roadAddress": "서울특별시 종로구 율곡로8길 45 1층",
-      "mapx": "1269911611",
-      "mapy": "375752912"
     },
     {
       "title": "<b>파스타</b>마켓 혜화 본점",

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:43 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "거성호프",
-      "link": "",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 117 거성호프",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 3-7 거성호프",
-      "mapx": "1269739671",
-      "mapy": "375722869"
-    },
     {
       "title": "꼬꼬잭<b>치킨</b> 광화문본점",
       "link": "https://cocojack.co.kr/?sort=TIME",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 5-27 1층",
       "mapx": "1269746290",
       "mapy": "375710047"
+    },
+    {
+      "title": "거성호프",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 117 거성호프",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-7 거성호프",
+      "mapx": "1269739671",
+      "mapy": "375722869"
     },
     {
       "title": "광화문 우아",
@@ -39,7 +39,7 @@
     },
     {
       "title": "오븐에빠진닭 광화문점",
-      "link": "https://oppadak.co.kr/main/main.php",
+      "link": "https://oppadak.co.kr/oppadak/oppadak_main.html",
       "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",

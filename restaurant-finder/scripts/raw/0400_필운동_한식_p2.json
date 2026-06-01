@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:16 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:45:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "김진목삼",
-      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam",
-      "category": "한식>돼지고기구이",
+      "title": "인왕산호랭이주막",
+      "link": "https://www.instagram.com/horangejoomak",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 164 1층 김진목삼",
-      "roadAddress": "서울특별시 종로구 자하문로1길 56 1층 김진목삼",
-      "mapx": "1269695187",
-      "mapy": "375771457"
+      "address": "서울특별시 종로구 사직동 262-1 1층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
+      "mapx": "1269655596",
+      "mapy": "375756107"
     },
     {
       "title": "우직 경복궁점",
@@ -27,26 +27,15 @@
       "mapy": "375767578"
     },
     {
-      "title": "인왕산호랭이주막",
-      "link": "https://www.instagram.com/horangejoomak",
-      "category": "음식점>한식",
+      "title": "김진목삼",
+      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 262-1 1층",
-      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
-      "mapx": "1269655596",
-      "mapy": "375756107"
-    },
-    {
-      "title": "서촌 곳간",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 146-1 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
-      "mapx": "1269693165",
-      "mapy": "375766924"
+      "address": "서울특별시 종로구 필운동 164 1층 김진목삼",
+      "roadAddress": "서울특별시 종로구 자하문로1길 56 1층 김진목삼",
+      "mapx": "1269695187",
+      "mapy": "375771457"
     },
     {
       "title": "목포세발낙지",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 필운대로 16 목포세발낙지",
       "mapx": "1269695153",
       "mapy": "375775598"
+    },
+    {
+      "title": "삼정하누 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
+      "mapx": "1269701780",
+      "mapy": "375750298"
     }
   ]
 }

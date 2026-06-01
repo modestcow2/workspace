@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:46 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:46:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375816121"
     },
     {
+      "title": "너울주막 서촌",
+      "link": "https://www.instagram.com/neouljumak/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 153-1 도담빌딩 1층",
+      "roadAddress": "서울특별시 종로구 옥인길 22-1 도담빌딩 1층",
+      "mapx": "1269674426",
+      "mapy": "375808125"
+    },
+    {
       "title": "까델루뽀",
       "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
       "category": "음식점>이탈리아음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 효자로13길 54 1층 비스트로친친",
       "mapx": "1269727901",
       "mapy": "375821688"
-    },
-    {
-      "title": "꽃피공",
-      "link": "http://instagram.com/f_bloom_in",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 143 1층",
-      "roadAddress": "서울특별시 종로구 옥인1길 7 1층",
-      "mapx": "1269677919",
-      "mapy": "375807664"
     }
   ]
 }

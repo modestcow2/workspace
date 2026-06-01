@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:10 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375578385"
     },
     {
+      "title": "태양 시청점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-6 1,2층",
+      "roadAddress": "서울특별시 중구 세종대로 72-1 1,2층",
+      "mapx": "1269768296",
+      "mapy": "375625361"
+    },
+    {
       "title": "친니",
       "link": "http://www.chinee.co.kr/",
       "category": "중식>중식당",
@@ -27,6 +38,17 @@
       "mapy": "375724523"
     },
     {
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
       "title": "란 이자카야",
       "link": "https://blog.naver.com/yosuk5791",
       "category": "술집>이자카야",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 26-1",
       "mapx": "1269744865",
       "mapy": "375588024"
-    },
-    {
-      "title": "프레스센터 연회 &amp; 기자클럽 레스토랑",
-      "link": "https://roovook.com/ko/sales-engine/142",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 25 19층 기자클럽",
-      "roadAddress": "서울특별시 중구 세종대로 124 19층 기자클럽",
-      "mapx": "1269778908",
-      "mapy": "375674232"
-    },
-    {
-      "title": "송쉐프 숭례문점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로4가 45 대한서울상공회의소 지하1층",
-      "roadAddress": "서울특별시 중구 세종대로 39 대한서울상공회의소 지하1층",
-      "mapx": "1269737753",
-      "mapy": "375607137"
     }
   ]
 }

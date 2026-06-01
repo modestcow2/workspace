@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:26 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:59:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "키친토크",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 지하 1층 125호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 지하 1층 125호",
-      "mapx": "1269815061",
-      "mapy": "375725618"
-    },
     {
       "title": "해물솥밥모랑 종로구청점",
       "link": "http://www.morang.co.kr/",
@@ -32,10 +21,21 @@
       "category": "음식점>한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
       "mapx": "1269807361",
       "mapy": "375727720"
+    },
+    {
+      "title": "키친토크",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 지하 1층 125호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 지하 1층 125호",
+      "mapx": "1269815061",
+      "mapy": "375725618"
     },
     {
       "title": "류경회관 광화문점",

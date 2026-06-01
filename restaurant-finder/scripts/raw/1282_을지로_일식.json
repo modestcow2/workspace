@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:11 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375657155"
     },
     {
-      "title": "와타루",
-      "link": "https://app.catchtable.co.kr/ct/shop/wataru",
-      "category": "음식점>일식>일식당",
+      "title": "디핀<b>을지로</b>3가",
+      "link": "https://catchtable.co.kr/deepin_euljiro3ga",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 48-25 2층",
-      "roadAddress": "서울특별시 중구 수표로 22-3 2층",
-      "mapx": "1269905675",
-      "mapy": "375632727"
+      "address": "서울특별시 중구 을지로3가 344-4 지하1층",
+      "roadAddress": "서울특별시 중구 수표로 48-7 지하1층",
+      "mapx": "1269904064",
+      "mapy": "375656535"
     },
     {
-      "title": "을지 만지카이",
-      "link": "https://www.instagram.com/eulji_manjikai",
-      "category": "술집>이자카야",
+      "title": "<b>을지로</b>야장 봉봉바",
+      "link": "https://www.instagram.com/bbb_bonbonbar",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 8 2층 201호",
-      "roadAddress": "서울특별시 중구 을지로12길 22 2층 201호",
-      "mapx": "1269908970",
-      "mapy": "375653543"
+      "address": "서울특별시 중구 을지로3가 296-11 1층",
+      "roadAddress": "서울특별시 중구 충무로7길 7 1층",
+      "mapx": "1269921349",
+      "mapy": "375657308"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:53 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:51:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "파이프그라운드 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/pipeground_gwanghwamun",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
     {
       "title": "광화문나폴리",
       "link": "https://www.instagram.com/gwanghwamun_napoli?igsh=MWcycXBpbXZnaDF3dg%3D%3D&utm_source=qr",
@@ -27,8 +16,19 @@
       "mapy": "375714544"
     },
     {
+      "title": "파이프그라운드 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/pipeground_gwanghwamun",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
       "title": "오리지널팬케이크하우스 세종문화회관점 (광화문 1호점)",
-      "link": "",
+      "link": "https://www.instagram.com/originalpancakehousekorea/",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -39,7 +39,7 @@
     },
     {
       "title": "오리지널팬케이크하우스 다이너 광화문점 (광화문 2호점)",
-      "link": "",
+      "link": "https://www.instagram.com/originalpancakehousekorea/",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "준수방키친",
-      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
+      "title": "비텔로소띠",
+      "link": "http://catchtable.co.kr/vitellosotti",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 122 준수방키친",
-      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
-      "mapx": "1269708097",
-      "mapy": "375796788"
+      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
+      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
+      "mapx": "1269727845",
+      "mapy": "375769969"
     }
   ]
 }

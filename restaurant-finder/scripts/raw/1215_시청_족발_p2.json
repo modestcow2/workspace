@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:39 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "372044075"
     },
     {
+      "title": "반한<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 권선구 세류동 854-1 1층 반한족발",
+      "roadAddress": "경기도 수원시 권선구 세지로 85 1층 반한족발",
+      "mapx": "1270179428",
+      "mapy": "372595586"
+    },
+    {
       "title": "라라<b>족발</b>",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -47,17 +58,6 @@
       "roadAddress": "경기도 부천시 원미구 석천로183번길 43 라라족발",
       "mapx": "1267601838",
       "mapy": "375040063"
-    },
-    {
-      "title": "부평장모<b>족발</b>",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "인천광역시 남동구 간석동 458-1 1층",
-      "roadAddress": "인천광역시 남동구 석산로 110 1층",
-      "mapx": "1267039866",
-      "mapy": "374602190"
     }
   ]
 }

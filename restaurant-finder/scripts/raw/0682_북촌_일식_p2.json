@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:29 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375773083"
     },
     {
-      "title": "쿄와우동",
-      "link": "",
-      "category": "음식점>일식>우동,소바",
+      "title": "프루",
+      "link": "https://www.instagram.com/fru.seoul?igsh=OTIyNzRjemxmeGVt",
+      "category": "술집>이자카야",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 144-1 지하1층",
-      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
-      "mapx": "1269866870",
-      "mapy": "375780953"
+      "address": "서울특별시 종로구 재동 32-4",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10",
+      "mapx": "1269843767",
+      "mapy": "375794370"
     },
     {
       "title": "일월카츠 계동점",
@@ -38,17 +38,6 @@
       "mapy": "375781458"
     },
     {
-      "title": "프루",
-      "link": "https://www.instagram.com/fru.seoul?igsh=OTIyNzRjemxmeGVt",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 32-4",
-      "roadAddress": "서울특별시 종로구 북촌로5길 10",
-      "mapx": "1269843767",
-      "mapy": "375794370"
-    },
-    {
       "title": "푸노야 안국점",
       "link": "https://smartstore.naver.com/purring_seoul",
       "category": "음식점>카페,디저트",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 22 1층",
       "mapx": "1269854103",
       "mapy": "375787578"
+    },
+    {
+      "title": "조금",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 123-4 크라운빌딩 1층 조금식당",
+      "roadAddress": "서울특별시 종로구 인사동길 60 크라운빌딩 1층 조금식당",
+      "mapx": "1269836360",
+      "mapy": "375753433"
     }
   ]
 }

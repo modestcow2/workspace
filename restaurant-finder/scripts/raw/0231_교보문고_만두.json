@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:57 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375625491"
     },
     {
-      "title": "가메골손왕<b>만두</b> 남대문본점",
-      "link": "http://smartstore.naver.com/gamegol",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남창동 60-2",
-      "roadAddress": "서울특별시 중구 남대문시장4길 42",
-      "mapx": "1269771357",
-      "mapy": "375584236"
-    },
-    {
       "title": "황생가칼국수",
       "link": "http://황생가칼국수.com",
       "category": "한식>칼국수,만두",
@@ -38,19 +27,8 @@
       "mapy": "375801317"
     },
     {
-      "title": "잘빠진메밀 서순라길점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 묘동 3-1 잘빠진메밀 서순라길점",
-      "roadAddress": "서울특별시 종로구 율곡로8길 73 잘빠진메밀 서순라길점",
-      "mapx": "1269915043",
-      "mapy": "375740448"
-    },
-    {
       "title": "청화 우육도삭면",
-      "link": "",
+      "link": "https://cheonghwa-noodle.wywh.co.kr/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
       "mapx": "1269798606",
       "mapy": "375708344"
+    },
+    {
+      "title": "깡통<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
+    },
+    {
+      "title": "가메골손왕<b>만두</b> 남대문본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:46 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375708007"
     },
     {
+      "title": "이모네감자탕",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 19 삼환빌딩 1층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 29-3 삼환빌딩 1층",
+      "mapx": "1269752206",
+      "mapy": "375712183"
+    },
+    {
       "title": "순대실록 광화문점",
       "link": "https://www.instagram.com/sundaesilrok/",
       "category": "한식>순대,순댓국",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 지상1층 101호",
       "mapx": "1269728682",
       "mapy": "375719236"
-    },
-    {
-      "title": "소국밥",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 지하1층",
-      "mapx": "1269735034",
-      "mapy": "375717854"
     }
   ]
 }

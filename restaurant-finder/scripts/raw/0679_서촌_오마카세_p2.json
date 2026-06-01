@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:28 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,28 +14,6 @@
       "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
       "mapx": "1269686694",
       "mapy": "375791432"
-    },
-    {
-      "title": "여래여거",
-      "link": "https://catchtable.co.kr/yrygyryg",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누상동 53-1 1층 102호",
-      "roadAddress": "서울특별시 종로구 옥인길 23-6 1층 102호",
-      "mapx": "1269671031",
-      "mapy": "375808670"
-    },
-    {
-      "title": "오카즈",
-      "link": "http://catchtable.co.kr/ohkaz",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 112 1층 오카즈",
-      "roadAddress": "서울특별시 종로구 자하문로 49-1 1층 오카즈",
-      "mapx": "1269709630",
-      "mapy": "375804953"
     },
     {
       "title": "우직 경복궁점",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
       "mapx": "1269708497",
       "mapy": "375766102"
+    },
+    {
+      "title": "여래여거",
+      "link": "https://catchtable.co.kr/yrygyryg",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 53-1 1층 102호",
+      "roadAddress": "서울특별시 종로구 옥인길 23-6 1층 102호",
+      "mapx": "1269671060",
+      "mapy": "375808929"
+    },
+    {
+      "title": "스시호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
     }
   ]
 }

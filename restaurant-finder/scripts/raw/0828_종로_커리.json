@@ -1,30 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:37 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:51:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "옐로 드래곤 <b>커리</b> 종묘 서순라길 본점",
+      "title": "<b>커리</b> 컬처 클럽 종묘 서순라길 본점",
       "link": "https://app.catchtable.co.kr/ct/shop/yellowdragoncurry",
       "category": "음식점>일식>카레",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 봉익동 12-14 옐로 드래곤 커리",
-      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 옐로 드래곤 커리",
+      "address": "서울특별시 종로구 봉익동 12-14 커리 컬처 클럽",
+      "roadAddress": "서울특별시 종로구 돈화문로10가길 14-2 커리 컬처 클럽",
       "mapx": "1269926638",
       "mapy": "375731094"
-    },
-    {
-      "title": "두르가 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/durga",
-      "category": "음식점>인도음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
-      "mapx": "1269797390",
-      "mapy": "375705681"
     },
     {
       "title": "오제제 광화문",
@@ -49,15 +38,26 @@
       "mapy": "375708344"
     },
     {
-      "title": "카츠쇼신 을지로입구역페럼타워점",
-      "link": "https://www.instagram.com/katsu_shoshin",
-      "category": "음식점>일식>돈가스",
+      "title": "두르가 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/durga",
+      "category": "음식점>인도음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 수하동 66 지하 2층",
-      "roadAddress": "서울특별시 중구 을지로5길 19 지하 2층",
-      "mapx": "1269841421",
-      "mapy": "375670110"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
+      "mapx": "1269797390",
+      "mapy": "375705681"
+    },
+    {
+      "title": "인디아쉐프",
+      "link": "https://www.instagram.com/indiachef_insadong",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-36 2층",
+      "roadAddress": "서울특별시 종로구 인사동5길 20 2층",
+      "mapx": "1269852435",
+      "mapy": "375727026"
     }
   ]
 }

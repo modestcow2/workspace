@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:45 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:48:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375803365"
     },
     {
-      "title": "밥+",
-      "link": "https://www.instagram.com/seochon_bob_plus",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 77-15",
-      "roadAddress": "서울특별시 종로구 옥인길 9",
-      "mapx": "1269680075",
-      "mapy": "375804706"
-    },
-    {
       "title": "알로이막막",
       "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
       "category": "음식점>태국음식",
@@ -49,15 +38,26 @@
       "mapy": "375790359"
     },
     {
-      "title": "호라파",
-      "link": "https://app.catchtable.co.kr/ct/shop/horapaseoul",
-      "category": "음식점>태국음식",
+      "title": "밥+",
+      "link": "https://www.instagram.com/seochon_bob_plus",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 137-15 2층",
-      "roadAddress": "서울특별시 종로구 자하문로 37-1 2층",
-      "mapx": "1269711008",
-      "mapy": "375793929"
+      "address": "서울특별시 종로구 누하동 77-15",
+      "roadAddress": "서울특별시 종로구 옥인길 9",
+      "mapx": "1269680075",
+      "mapy": "375804706"
+    },
+    {
+      "title": "아이자와",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
+      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
     }
   ]
 }

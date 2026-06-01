@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:43 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "오드하우스",
-      "link": "https://www.instagram.com/odd_haus",
-      "category": "음식점>양식",
+      "title": "스패뉴",
+      "link": "http://www.instagram.com/seoulcityhall_spannew",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
-      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
-      "mapx": "1269721868",
-      "mapy": "375662530"
+      "address": "서울특별시 중구 태평로2가 68-1 2층 스패뉴",
+      "roadAddress": "서울특별시 중구 세종대로 82 2층 스패뉴",
+      "mapx": "1269770819",
+      "mapy": "375634520"
     },
     {
       "title": "달리181 광화문점",
@@ -27,17 +27,6 @@
       "mapy": "375710343"
     },
     {
-      "title": "스패뉴",
-      "link": "http://www.instagram.com/seoulcityhall_spannew",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 68-1 2층 스패뉴",
-      "roadAddress": "서울특별시 중구 세종대로 82 2층 스패뉴",
-      "mapx": "1269770819",
-      "mapy": "375634520"
-    },
-    {
       "title": "달리181 을지로점",
       "link": "https://www.instagram.com/dali181_euljiro",
       "category": "음식점>양식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 을지로3길 25-6 2층",
       "mapx": "1269811502",
       "mapy": "375673665"
+    },
+    {
+      "title": "멜로멜로 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/melomelo?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-42 소테츠 호텔 1층 로비 안쪽 멜로멜로 레스토랑",
+      "roadAddress": "서울특별시 중구 남대문로5길 15 소테츠 호텔 1층 로비 안쪽 멜로멜로 레스토랑",
+      "mapx": "1269787110",
+      "mapy": "375620727"
     },
     {
       "title": "아워킬리바 덕수궁점",

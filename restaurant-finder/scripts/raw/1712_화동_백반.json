@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:31 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:02:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375811536"
     },
     {
+      "title": "삼청로조개칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 28-19",
+      "roadAddress": "서울특별시 종로구 삼청로 124-2",
+      "mapx": "1269819297",
+      "mapy": "375863317"
+    },
+    {
       "title": "다락정",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 110-3 1층 순남시래기",
       "mapx": "1269822738",
       "mapy": "375853038"
-    },
-    {
-      "title": "무구옥",
-      "link": "https://www.instagram.com/muguok_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 126-1 지상1층",
-      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
-      "mapx": "1269799066",
-      "mapy": "375764071"
     }
   ]
 }

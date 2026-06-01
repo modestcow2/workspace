@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:57 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
       "mapx": "1269728071",
       "mapy": "375633419"
+    },
+    {
+      "title": "관호 광화문점",
+      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-9 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
+      "mapx": "1269762626",
+      "mapy": "375684239"
     },
     {
       "title": "도누각 서대문역점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
       "mapx": "1269720468",
       "mapy": "375687024"
-    },
-    {
-      "title": "빠르크 정동점",
-      "link": "https://app.catchtable.co.kr/ct/shop/parcseoull",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 37 1동 1층 105호",
-      "roadAddress": "서울특별시 중구 서소문로 89-20 1동 1층 105호",
-      "mapx": "1269720315",
-      "mapy": "375632511"
     }
   ]
 }

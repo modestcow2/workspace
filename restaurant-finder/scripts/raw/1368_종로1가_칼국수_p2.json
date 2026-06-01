@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:50 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375706931"
     },
     {
-      "title": "장춘<b>칼국수</b>",
-      "link": "https://www.instagram.com/jang.chun_kalguksu",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하1층 113-4호",
-      "roadAddress": "서울특별시 종로구 종로 19 지하1층 113-4호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
       "title": "등촌샤브<b>칼국수</b> <b>종로1가</b>점",
       "link": "",
       "category": "음식점>한식>칼국수,만두",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 명동10길 29",
       "mapx": "1269856025",
       "mapy": "375625491"
+    },
+    {
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
     }
   ]
 }

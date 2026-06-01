@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:16 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "떡산 안국",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
-      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
-      "mapx": "1269857282",
-      "mapy": "375780061"
-    },
     {
       "title": "예술김밥 본점",
       "link": "",
@@ -27,15 +16,15 @@
       "mapy": "375730834"
     },
     {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
-      "category": "음식점>한식",
+      "title": "떡산 안국",
+      "link": "",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
+      "address": "서울특별시 종로구 재동 84-40 우측 떡산",
+      "roadAddress": "서울특별시 종로구 북촌로 14 우측 떡산",
+      "mapx": "1269857282",
+      "mapy": "375780061"
     },
     {
       "title": "온6.5",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 88 이노88타워 1층 104호 다반",
       "mapx": "1269889420",
       "mapy": "375768090"
+    },
+    {
+      "title": "비건인사 채식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 33-18 33-18 한옥",
+      "roadAddress": "서울특별시 종로구 삼일대로32가길 12-4 익선동 33-18 한옥",
+      "mapx": "1269885889",
+      "mapy": "375748044"
     }
   ]
 }

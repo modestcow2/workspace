@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:33 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375781763"
     },
     {
+      "title": "<b>북촌</b>막국수제면소",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 지하 1층.",
+      "roadAddress": "서울특별시 종로구 삼청로 141 지하 1층.",
+      "mapx": "1269815077",
+      "mapy": "375878351"
+    },
+    {
       "title": "호이식 종로 안국",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
       "mapx": "1269863069",
       "mapy": "375777908"
-    },
-    {
-      "title": "율동<b>칼국수</b>",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 9 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
-      "mapx": "1269846160",
-      "mapy": "375794433"
     }
   ]
 }

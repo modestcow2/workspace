@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:26 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -39,7 +39,7 @@
     },
     {
       "title": "팔팔너구리해장 <b>을지로</b>3가역점",
-      "link": "",
+      "link": "https://www.instagram.com/88neoguri_euljiro/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375651794"
     },
     {
-      "title": "용대리황태<b>해장국</b>",
+      "title": "여명광화문해장",
       "link": "",
       "category": "한식>해장국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 101-2",
-      "roadAddress": "서울특별시 중구 을지로 105",
-      "mapx": "1269895586",
-      "mapy": "375664457"
+      "address": "서울특별시 중구 저동2가 78 1층 105, 106, 107, 108호",
+      "roadAddress": "서울특별시 중구 수표로 45 1층 105, 106, 107, 108호",
+      "mapx": "1269895589",
+      "mapy": "375653389"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:42 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375708443"
     },
     {
-      "title": "이판저판",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "브루어리304",
+      "link": "https://www.brewery304.com/",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 227",
-      "roadAddress": "서울특별시 서대문구 통일로 153-1",
-      "mapx": "1269645220",
-      "mapy": "375677311"
+      "address": "서울특별시 서대문구 천연동 10-2",
+      "roadAddress": "서울특별시 서대문구 통일로11길 7",
+      "mapx": "1269625958",
+      "mapy": "375692283"
     },
     {
-      "title": "명지식당",
+      "title": "영천생고기",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 39 1층 명지식당",
-      "roadAddress": "서울특별시 서대문구 독립문로14길 6 1층 명지식당",
-      "mapx": "1269637410",
-      "mapy": "375670500"
+      "address": "서울특별시 서대문구 천연동 3 1층",
+      "roadAddress": "서울특별시 서대문구 통일로11길 3 1층",
+      "mapx": "1269628432",
+      "mapy": "375693104"
     }
   ]
 }

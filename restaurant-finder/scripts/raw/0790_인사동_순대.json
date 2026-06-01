@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:50:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375726006"
     },
     {
-      "title": "합천돼지국밥",
-      "link": "",
-      "category": "한식>국밥",
+      "title": "산산옥 종각 본점",
+      "link": "https://www.instagram.com/_sansanok_",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 290-1",
-      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
-      "mapx": "1269879701",
-      "mapy": "375720097"
+      "address": "서울특별시 종로구 관철동 6-4 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로19길 6 1층",
+      "mapx": "1269872490",
+      "mapy": "375696366"
     },
     {
       "title": "함박웃음<b>순대</b>국",
@@ -49,15 +49,15 @@
       "mapy": "375723557"
     },
     {
-      "title": "응답한다1988 떡볶이 종로",
+      "title": "합천돼지국밥",
       "link": "",
-      "category": "분식>떡볶이",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 1층",
-      "mapx": "1269879400",
-      "mapy": "375727435"
+      "address": "서울특별시 종로구 낙원동 290-1",
+      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
+      "mapx": "1269879701",
+      "mapy": "375720097"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:34 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "374532537"
     },
     {
+      "title": "태백상황버섯<b>삼계탕</b> 수원 본점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 권선구 권선동 1019-9 1층 태백상황버섯삼계탕",
+      "roadAddress": "경기도 수원시 권선구 권선로 673 1층 태백상황버섯삼계탕",
+      "mapx": "1270253606",
+      "mapy": "372598235"
+    },
+    {
       "title": "예담들깨<b>삼계탕</b> 남양화성<b>시청</b>점",
       "link": "https://www.instagram.com/",
       "category": "한식>백숙,삼계탕",
@@ -47,17 +58,6 @@
       "roadAddress": "경기도 시흥시 동서로 250-35",
       "mapx": "1267786448",
       "mapy": "373816988"
-    },
-    {
-      "title": "천복집흑염소 포천<b>시청</b>점",
-      "link": "https://www.instagram.com/1000bokzip_official_/?hl=ko",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 포천시 군내면 구읍리 606-3 1층",
-      "roadAddress": "경기도 포천시 군내면 청군로 3371-1 1층",
-      "mapx": "1272081263",
-      "mapy": "378901407"
     }
   ]
 }

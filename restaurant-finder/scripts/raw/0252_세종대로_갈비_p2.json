@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:07 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하 1층",
       "mapx": "1269782820",
       "mapy": "375684612"
+    },
+    {
+      "title": "관호 광화문점",
+      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-9 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
+      "mapx": "1269762626",
+      "mapy": "375684239"
     },
     {
       "title": "쪽삼상회",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 62 1층",
       "mapx": "1269764527",
       "mapy": "375617228"
-    },
-    {
-      "title": "관호 광화문점",
-      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-9 2층",
-      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
-      "mapx": "1269762626",
-      "mapy": "375684239"
     }
   ]
 }

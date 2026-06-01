@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:45:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375766355"
     },
     {
+      "title": "본김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 광화문 풍림스페이스본",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
+      "mapx": "1269699607",
+      "mapy": "375746116"
+    },
+    {
       "title": "동혁이네",
       "link": "",
       "category": "분식>종합분식",
@@ -38,26 +49,15 @@
       "mapy": "375773312"
     },
     {
-      "title": "봉구스밥버거 배화여대점",
-      "link": "http://www.bongousse.com",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 154",
-      "roadAddress": "서울특별시 종로구 자하문로1길 51",
-      "mapx": "1269696320",
-      "mapy": "375768854"
-    },
-    {
-      "title": "본김밥",
+      "title": "모던키친",
       "link": "",
-      "category": "분식>김밥",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 광화문 풍림스페이스본",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
-      "mapx": "1269699607",
-      "mapy": "375746116"
+      "address": "서울특별시 종로구 사직동 9 B126호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 B126호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
     }
   ]
 }

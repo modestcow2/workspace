@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:52 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "타와",
-      "link": "https://www.instagram.com/muwa__official",
+      "link": "https://www.instagram.com/tawa__official",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375683348"
     },
     {
-      "title": "퍼스트플로어 센트럴",
-      "link": "http://fpcs.co.kr/dining-bar/first-floor",
-      "category": "음식점>양식",
+      "title": "멘츠루 시청점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 순화동 214 프레이저플레이스 호텔 1층",
-      "roadAddress": "서울특별시 중구 통일로 78 프레이저플레이스 호텔 1층",
-      "mapx": "1269697479",
-      "mapy": "375624505"
+      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
+      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
+      "mapx": "1269731249",
+      "mapy": "375629944"
     }
   ]
 }

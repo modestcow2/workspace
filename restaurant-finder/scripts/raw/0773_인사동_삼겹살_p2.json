@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:11 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:50:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375747440"
     },
     {
-      "title": "솥내음 종로<b>인사동</b>점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
-    },
-    {
       "title": "쇠고집",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -49,15 +38,26 @@
       "mapy": "375718605"
     },
     {
-      "title": "숨은고깃집 종묘본점",
-      "link": "https://www.instagram.com/hiddenmeat_house",
-      "category": "한식>육류,고기요리",
+      "title": "최대감네",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 인사동 32-2 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 18 지상2층",
-      "mapx": "1269868348",
-      "mapy": "375724408"
+      "address": "서울특별시 종로구 경운동 64-47",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-3",
+      "mapx": "1269861240",
+      "mapy": "375740750"
+    },
+    {
+      "title": "종각밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 241 1층 ~ 2층",
+      "roadAddress": "서울특별시 종로구 종로11길 9-10 1층 ~ 2층",
+      "mapx": "1269852353",
+      "mapy": "375709516"
     }
   ]
 }

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:35 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:02:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "원조홍릉각 안국점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-18 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층",
+      "mapx": "1269863079",
+      "mapy": "375779497"
+    },
     {
       "title": "한양<b>중식</b> 종로점",
       "link": "http://www.instagram.com/haanyang/",
@@ -27,15 +38,15 @@
       "mapy": "375717166"
     },
     {
-      "title": "서호장",
-      "link": "",
+      "title": "덕후선생 광화문디타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/generousduckoo_dtower",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관수동 13-1",
-      "roadAddress": "서울특별시 종로구 수표로 91-1",
-      "mapx": "1269893831",
-      "mapy": "375694568"
+      "address": "서울특별시 종로구 청진동 246 D타워 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 4층",
+      "mapx": "1269789694",
+      "mapy": "375710184"
     },
     {
       "title": "차이들 안녕인사동점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
       "mapx": "1269835556",
       "mapy": "375744663"
-    },
-    {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
     }
   ]
 }

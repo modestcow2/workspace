@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:54 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:45:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375844611"
     },
     {
-      "title": "전주풍남회관",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
-    },
-    {
       "title": "다담정식",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
       "mapx": "1269813961",
       "mapy": "375694054"
+    },
+    {
+      "title": "밥순이 연탄불고기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 27 밥순이 연탄불고기",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 50 밥순이 연탄불고기",
+      "mapx": "1269667323",
+      "mapy": "375642531"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -28,7 +28,7 @@
     },
     {
       "title": "을.지로점심 우츄진<b>라멘</b>",
-      "link": "https://wuchuujin.odw.co.kr/",
+      "link": "https://youtube.com/channel/UCkH4_CUIFlv5z4MO9reAXEA?si=P6llqtlLu2UzmwxN",
       "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
@@ -38,26 +38,26 @@
       "mapy": "375668693"
     },
     {
-      "title": "간빠진새 <b>을지로</b>3가점",
+      "title": "간빠맥주 <b>을지로</b>3가점",
       "link": "https://ganmaek.com/",
       "category": "술집>이자카야",
       "description": "",
       "telephone": "",
       "address": "서울특별시 중구 초동 19-9 101호",
       "roadAddress": "서울특별시 중구 을지로14길 27 101호",
-      "mapx": "1269922757",
-      "mapy": "375650440"
+      "mapx": "1269922212",
+      "mapy": "375650108"
     },
     {
-      "title": "모모야 동대문 DDP점",
-      "link": "http://themomoya.co.kr/",
-      "category": "음식점>일식>돈가스",
+      "title": "<b>을지로</b> 볼",
+      "link": "https://catchtable.co.kr/ball",
+      "category": "술집>이자카야",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로7가 143 동대문디자인플라자 지하2층 디자인장터 모모야",
-      "roadAddress": "서울특별시 중구 을지로 281 동대문디자인플라자 지하2층 디자인장터 모모야",
-      "mapx": "1270098129",
-      "mapy": "375675604"
+      "address": "서울특별시 중구 초동 107-5 4층 을지로 볼",
+      "roadAddress": "서울특별시 중구 을지로12길 29 4층 을지로 볼",
+      "mapx": "1269908484",
+      "mapy": "375649403"
     }
   ]
 }

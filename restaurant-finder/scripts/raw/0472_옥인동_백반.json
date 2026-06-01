@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:50 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:46:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "서촌식당",
-      "link": "http://www.instagram.com/seochondining",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-50",
-      "roadAddress": "서울특별시 종로구 자하문로17길 12",
-      "mapx": "1269699906",
-      "mapy": "375814609"
-    },
     {
       "title": "효자동밥상",
       "link": "",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 67호",
       "mapx": "1269743207",
       "mapy": "375719690"
+    },
+    {
+      "title": "행복한식탁",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 167",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30",
+      "mapx": "1269735581",
+      "mapy": "375726319"
     },
     {
       "title": "이서방네순대국",

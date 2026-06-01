@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:07 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:00:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375747270"
     },
     {
-      "title": "고기꾼김춘배 종로직영점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
-      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
-      "mapx": "1269864928",
-      "mapy": "375690679"
-    },
-    {
-      "title": "익선동목장 종로본점",
-      "link": "http://www.instagram.com/iksun.farm",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 묘동 160-1 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
-      "mapx": "1269911398",
-      "mapy": "375731869"
-    },
-    {
       "title": "육즙당 종로본점",
       "link": "https://www.instagram.com/yukzupdang_official",
       "category": "한식>육류,고기요리",
@@ -49,15 +27,37 @@
       "mapy": "375712260"
     },
     {
-      "title": "촌놈",
-      "link": "https://blog.naver.com/chssha1029",
+      "title": "고기꾼김춘배 종로직영점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
+      "mapx": "1269864928",
+      "mapy": "375690679"
+    },
+    {
+      "title": "참돼짓간 종로본점",
+      "link": "",
       "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 동숭동 1-47",
-      "roadAddress": "서울특별시 종로구 대학로8가길 48",
-      "mapx": "1270023479",
-      "mapy": "375829574"
+      "address": "서울특별시 종로구 돈의동 137 피카디리 cgv극장 1층 1-89호",
+      "roadAddress": "서울특별시 종로구 돈화문로5가길 1 피카디리 cgv극장 1층 1-89호",
+      "mapx": "1269912405",
+      "mapy": "375710346"
+    },
+    {
+      "title": "혜화 <b>삼겹살</b> 대통령 직영 본점",
+      "link": "https://www.facebook.com/profile.php?id=61589577856092",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 197-1 1층",
+      "roadAddress": "서울특별시 종로구 대학로14길 12-1 1층",
+      "mapx": "1270027053",
+      "mapy": "375838095"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:42 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:56:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 다동길 43 지하1층, 11호",
       "mapx": "1269818391",
       "mapy": "375682023"
+    },
+    {
+      "title": "분지로 한국본점",
+      "link": "https://www.instagram.com/bunjiro_kr",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 13층",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 13층",
+      "mapx": "1269816120",
+      "mapy": "375646957"
     },
     {
       "title": "<b>시청</b>광장돈까스",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 중구 세종대로11길 30 1층 102호",
       "mapx": "1269742731",
       "mapy": "375622864"
-    },
-    {
-      "title": "라밥 <b>시청</b>점",
-      "link": "http://kimbabpanda.co.kr/",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 69-2 1층",
-      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
-      "mapx": "1269768514",
-      "mapy": "375629403"
     },
     {
       "title": "카페나하 서울<b>시청</b>점",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:14 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375660827"
     },
     {
-      "title": "우래옥",
-      "link": "",
-      "category": "한식>냉면",
+      "title": "팔팔너구리해장 <b>을지로</b>3가역점",
+      "link": "https://www.instagram.com/88neoguri_euljiro/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 주교동 118-1",
-      "roadAddress": "서울특별시 중구 창경궁로 62-29",
-      "mapx": "1269987029",
-      "mapy": "375682697"
+      "address": "서울특별시 중구 초동 17-4 1층",
+      "roadAddress": "서울특별시 중구 충무로 46-1 1층",
+      "mapx": "1269929866",
+      "mapy": "375651794"
     },
     {
-      "title": "순우블랙",
-      "link": "https://Instagram.com/soonwoo_black",
-      "category": "한식>소고기구이",
+      "title": "여명광화문해장",
+      "link": "",
+      "category": "한식>해장국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-62",
-      "roadAddress": "서울특별시 중구 명동9길 37-3",
-      "mapx": "1269840365",
-      "mapy": "375654157"
+      "address": "서울특별시 중구 저동2가 78 1층 105, 106, 107, 108호",
+      "roadAddress": "서울특별시 중구 수표로 45 1층 105, 106, 107, 108호",
+      "mapx": "1269895589",
+      "mapy": "375653389"
     }
   ]
 }

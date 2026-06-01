@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:16 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:47:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "뚱낙원",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 41-1 뚱낙원",
-      "roadAddress": "서울특별시 종로구 자하문로2길 15 뚱낙원",
-      "mapx": "1269735625",
-      "mapy": "375765667"
-    },
     {
       "title": "봉피양 경복궁점",
       "link": "http://www.bjgalbi.com",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 20",
       "mapx": "1269722429",
       "mapy": "375779140"
+    },
+    {
+      "title": "뚱낙원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 41-1 뚱낙원",
+      "roadAddress": "서울특별시 종로구 자하문로2길 15 뚱낙원",
+      "mapx": "1269735625",
+      "mapy": "375765667"
     },
     {
       "title": "남포면옥",
@@ -38,17 +38,6 @@
       "mapy": "375671396"
     },
     {
-      "title": "광화문면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
-    },
-    {
       "title": "류경회관 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
       "category": "한식>냉면",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
       "mapx": "1269818280",
       "mapy": "375724939"
+    },
+    {
+      "title": "능라도 광화문점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 3층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 3층",
+      "mapx": "1269722833",
+      "mapy": "375717008"
     }
   ]
 }

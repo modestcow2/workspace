@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:00 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:46:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375787993"
     },
     {
-      "title": "광화문한옥집",
-      "link": "https://www.instagram.com/sejongclubs/",
-      "category": "음식점>한식",
+      "title": "대봉칼국수<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 1 B1층",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 7 B1층",
-      "mapx": "1269741711",
-      "mapy": "375727071"
+      "address": "서울특별시 종로구 내수동 74 지하 112, 113호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하 112, 113호",
+      "mapx": "1269731379",
+      "mapy": "375737740"
     },
     {
       "title": "평안도만두집",
@@ -49,15 +49,15 @@
       "mapy": "375725860"
     },
     {
-      "title": "산채향 청계광장점",
-      "link": "https://www.instagram.com/sanchae_hyang_/",
+      "title": "산채향 경희궁본점",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 96 프리미어플레이스",
-      "roadAddress": "서울특별시 중구 청계천로 8 프리미어플레이스",
-      "mapx": "1269780888",
-      "mapy": "375688580"
+      "address": "서울특별시 종로구 신문로1가 58-21 산채향",
+      "roadAddress": "서울특별시 종로구 경희궁길 6 산채향",
+      "mapx": "1269721248",
+      "mapy": "375708167"
     }
   ]
 }

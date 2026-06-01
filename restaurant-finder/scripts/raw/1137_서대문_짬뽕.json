@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:02 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375683712"
     },
     {
-      "title": "락희안 가좌본점",
-      "link": "https://www.instagram.com/the_lexian/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 336-20 1, 2층",
-      "roadAddress": "서울특별시 서대문구 가재울로4길 53 1, 2층",
-      "mapx": "1269241681",
-      "mapy": "375760987"
-    },
-    {
       "title": "댄싱홍콩 신촌점",
       "link": "https://www.instagram.com/dancing_hongkong.official?igsh=MWVocHRtMmI4bTBlcQ%3D%3D",
       "category": "중식>중식당",
@@ -38,15 +27,26 @@
       "mapy": "375592662"
     },
     {
-      "title": "이품",
+      "title": "유래성",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 132-19",
-      "roadAddress": "서울특별시 서대문구 연희로11길 20",
-      "mapx": "1269300765",
-      "mapy": "375675500"
+      "address": "서울특별시 서대문구 북가좌동 307-2",
+      "roadAddress": "서울특별시 서대문구 응암로 65",
+      "mapx": "1269103563",
+      "mapy": "375790287"
+    },
+    {
+      "title": "편의방",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-94",
+      "roadAddress": "서울특별시 서대문구 연희로 36",
+      "mapx": "1269275231",
+      "mapy": "375617816"
     },
     {
       "title": "라이빈",

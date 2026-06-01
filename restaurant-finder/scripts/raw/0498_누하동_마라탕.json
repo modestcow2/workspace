@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:02 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:47:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375708585"
     },
     {
-      "title": "동베이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/dong_bey",
-      "category": "중식>양꼬치",
+      "title": "탕화쿵푸<b>마라탕</b> 서대문점",
+      "link": "",
+      "category": "음식점>마라탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 37-6 2층 동베이 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 2층 동베이 광화문점",
-      "mapx": "1269750484",
-      "mapy": "375709890"
+      "address": "서울특별시 서대문구 천연동 4 탕화쿵푸 마라탕",
+      "roadAddress": "서울특별시 서대문구 통일로 173-4 탕화쿵푸 마라탕",
+      "mapx": "1269629381",
+      "mapy": "375691909"
+    },
+    {
+      "title": "차알 광화문 디타워점",
+      "link": "https://char2012.com/",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 리플레이스 광화문 3층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 리플레이스 광화문 3층",
+      "mapx": "1269789145",
+      "mapy": "375709958"
     },
     {
       "title": "마라공방 광화문점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로21길 55 2층",
       "mapx": "1269759345",
       "mapy": "375690541"
-    },
-    {
-      "title": "넘버원 양꼬치",
-      "link": "",
-      "category": "중식>양꼬치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 213 1층,2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 34 1층,2층",
-      "mapx": "1269705572",
-      "mapy": "375765751"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:19 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:02:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375837662"
     },
     {
-      "title": "먹쉬돈나 삼청동점",
-      "link": "",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 63-28 2층",
-      "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
-      "mapx": "1269819874",
-      "mapy": "375834586"
-    },
-    {
       "title": "경춘자의라면땡기는날",
       "link": "",
       "category": "분식>라면",
@@ -38,15 +27,15 @@
       "mapy": "375793111"
     },
     {
-      "title": "북촌호떡",
+      "title": "먹쉬돈나 삼청동점",
       "link": "",
-      "category": "분식>호떡",
+      "category": "음식점>분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 화동 72",
-      "roadAddress": "서울특별시 종로구 북촌로5가길 38",
-      "mapx": "1269816004",
-      "mapy": "375811588"
+      "address": "서울특별시 종로구 삼청동 63-28 2층",
+      "roadAddress": "서울특별시 종로구 삼청로 90-1 2층",
+      "mapx": "1269819874",
+      "mapy": "375834586"
     },
     {
       "title": "삼청동호떡",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로3길 82-6",
       "mapx": "1269825202",
       "mapy": "375792245"
+    },
+    {
+      "title": "북촌호떡",
+      "link": "",
+      "category": "분식>호떡",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 72",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 38",
+      "mapx": "1269816004",
+      "mapy": "375811588"
     }
   ]
 }

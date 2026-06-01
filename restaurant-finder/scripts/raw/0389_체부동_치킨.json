@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:11 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:45:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375765372"
     },
     {
-      "title": "세종마을<b>치킨</b>",
-      "link": "",
+      "title": "오븐에빠진닭 경복궁역점",
+      "link": "http://www.oppadak.co.kr/",
       "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 195",
-      "roadAddress": "서울특별시 종로구 자하문로1길 24-1",
-      "mapx": "1269709631",
-      "mapy": "375765085"
+      "address": "서울특별시 종로구 체부동 52 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 5 2층",
+      "mapx": "1269722690",
+      "mapy": "375766230"
     },
     {
       "title": "사직동 그 가게",
@@ -49,15 +49,15 @@
       "mapy": "375770928"
     },
     {
-      "title": "오븐에빠진닭 경복궁역점",
-      "link": "http://www.oppadak.co.kr/",
+      "title": "효도<b>치킨</b> 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hyodochicken_gwanghwa",
       "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 52 2층",
-      "roadAddress": "서울특별시 종로구 자하문로 5 2층",
-      "mapx": "1269722690",
-      "mapy": "375766230"
+      "address": "서울특별시 종로구 내자동 197 1, 2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 21-1 1, 2층",
+      "mapx": "1269710660",
+      "mapy": "375746043"
     }
   ]
 }

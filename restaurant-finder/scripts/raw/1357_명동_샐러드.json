@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:45 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,28 +27,6 @@
       "mapy": "375593277"
     },
     {
-      "title": "더버튼스",
-      "link": "https://thebuttons.co.kr",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 회현동2가 26-1 1층",
-      "roadAddress": "서울특별시 중구 소공로 36-5 1층",
-      "mapx": "1269833134",
-      "mapy": "375589160"
-    },
-    {
-      "title": "넬보스코 남촌빵집",
-      "link": "http://www.nelbosco.co.kr/",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 회현동1가 194-23 1층",
-      "roadAddress": "서울특별시 중구 퇴계로8길 16 1층",
-      "mapx": "1269797956",
-      "mapy": "375586861"
-    },
-    {
       "title": "후로아",
       "link": "https://app.catchtable.co.kr/ct/shop/FUROASEOUL?from=share&type=DINING",
       "category": "브런치카페",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 중구 명동8가길 52 1층",
       "mapx": "1269879696",
       "mapy": "375618020"
+    },
+    {
+      "title": "넬보스코 남촌빵집",
+      "link": "https://smartstore.naver.com/nelbosco-bakery",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 194-23 1층",
+      "roadAddress": "서울특별시 중구 퇴계로8길 16 1층",
+      "mapx": "1269797956",
+      "mapy": "375586861"
+    },
+    {
+      "title": "더버튼스",
+      "link": "https://thebuttons.co.kr",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동2가 26-1 1층",
+      "roadAddress": "서울특별시 중구 소공로 36-5 1층",
+      "mapx": "1269833134",
+      "mapy": "375589160"
     }
   ]
 }

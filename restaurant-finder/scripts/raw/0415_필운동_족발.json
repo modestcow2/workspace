@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:24 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:45:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
       "mapx": "1269693165",
       "mapy": "375766924"
-    },
-    {
-      "title": "명작신의주찹쌀순대",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
-      "mapx": "1269686008",
-      "mapy": "375744035"
     },
     {
       "title": "오서방왕<b>족발</b>",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로12길 1-5",
       "mapx": "1269714754",
       "mapy": "375756601"
+    },
+    {
+      "title": "효자왕<b>족발</b>",
+      "link": "https://www.instagram.com/seochonhotpot",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
     },
     {
       "title": "고려보쌈",

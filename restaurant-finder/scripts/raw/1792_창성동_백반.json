@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:07 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:03:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
-    {
-      "title": "창성갈비",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 136",
-      "roadAddress": "서울특별시 종로구 자하문로 40-1",
-      "mapx": "1269715716",
-      "mapy": "375796602"
-    },
     {
       "title": "효자동밥상",
       "link": "",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 삼청로 101 1층",
       "mapx": "1269818749",
       "mapy": "375844611"
+    },
+    {
+      "title": "다담정식",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 88 관정빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
+      "mapx": "1269813961",
+      "mapy": "375694054"
+    },
+    {
+      "title": "정독도서관 구내식당",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 2",
+      "roadAddress": "서울특별시 종로구 북촌로5길 48",
+      "mapx": "1269838671",
+      "mapy": "375811536"
     }
   ]
 }

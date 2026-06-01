@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:59 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:46:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375785770"
     },
     {
-      "title": "자하문로118 들풀",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
-    },
-    {
       "title": "고우가 광화문점",
       "link": "https://go.catchtable.co.kr/jrrhv4v",
       "category": "한식>소고기구이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
       "mapx": "1269730094",
       "mapy": "375717610"
+    },
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:37 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:46:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "꼬소한부뚜막 광화문광장점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 도렴동 150-1 1층",
-      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
-      "mapx": "1269756633",
-      "mapy": "375715135"
-    },
     {
       "title": "만나<b>분식</b>",
       "link": "https://smartstore.naver.com/mannabunsik",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
       "mapx": "1269691188",
       "mapy": "375773610"
+    },
+    {
+      "title": "꼬소한부뚜막 광화문광장점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 도렴동 150-1 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
+      "mapx": "1269756633",
+      "mapy": "375715135"
     },
     {
       "title": "라면점빵",
@@ -38,26 +38,26 @@
       "mapy": "375766355"
     },
     {
-      "title": "허니떡볶이",
-      "link": "https://blog.naver.com/honeybokki",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 1-1 일우빌딩 B1",
-      "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
-      "mapx": "1269762132",
-      "mapy": "375705250"
-    },
-    {
-      "title": "매일<b>분식</b>",
+      "title": "서촌북촌",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 1",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 5",
-      "mapx": "1269741578",
-      "mapy": "375725741"
+      "address": "서울특별시 종로구 통인동 158 1층(북촌)",
+      "roadAddress": "서울특별시 종로구 자하문로7길 10 1층(북촌)",
+      "mapx": "1269711537",
+      "mapy": "375783804"
+    },
+    {
+      "title": "찜우동",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 홍제동 277-3",
+      "roadAddress": "서울특별시 서대문구 간호대로3길 60",
+      "mapx": "1269475990",
+      "mapy": "375942199"
     }
   ]
 }

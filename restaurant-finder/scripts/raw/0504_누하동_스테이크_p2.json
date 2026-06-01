@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:05 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:47:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "고치비",
+      "link": "http://www.instagram.com/osteria_kochibi",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 195-2 1층 고치비",
+      "roadAddress": "서울특별시 종로구 필운대로 38 1층 고치비",
+      "mapx": "1269689316",
+      "mapy": "375793391"
+    },
     {
       "title": "까델루뽀",
       "link": "https://app.catchtable.co.kr/ct/shop/CadelLupoJongno",
@@ -38,26 +49,15 @@
       "mapy": "375816121"
     },
     {
-      "title": "고치비",
-      "link": "http://www.instagram.com/osteria_kochibi",
-      "category": "음식점>이탈리아음식",
+      "title": "진심",
+      "link": "",
+      "category": "음식점>일식>덮밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 195-2 1층 고치비",
-      "roadAddress": "서울특별시 종로구 필운대로 38 1층 고치비",
-      "mapx": "1269689316",
-      "mapy": "375793391"
-    },
-    {
-      "title": "데케드",
-      "link": "https://www.instagram.com/dekad.kafeteria/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 218 1층 101호,102호",
-      "roadAddress": "서울특별시 종로구 자하문로7길 43 1층 101호,102호(누하동)",
-      "mapx": "1269696650",
-      "mapy": "375793249"
+      "address": "서울특별시 종로구 누하동 44 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
+      "mapx": "1269688292",
+      "mapy": "375798572"
     }
   ]
 }

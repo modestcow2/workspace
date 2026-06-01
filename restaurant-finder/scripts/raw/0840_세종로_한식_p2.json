@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:43 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:51:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375714982"
     },
     {
-      "title": "비원",
-      "link": "",
+      "title": "아사달",
+      "link": "https://www.theplazadining.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 139",
-      "roadAddress": "서울특별시 종로구 청계천로 1",
-      "mapx": "1269780364",
-      "mapy": "375695646"
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩WEST 15층 아사달",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩WEST 15층 아사달",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     },
     {
-      "title": "광화문아띠",
+      "title": "수래연",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3",
-      "roadAddress": "서울특별시 종로구 세종대로 175 (세종로) 지하1층 광화문아띠",
-      "mapx": "1269762487",
-      "mapy": "375723450"
+      "address": "서울특별시 종로구 세종로 139-8",
+      "roadAddress": "서울특별시 종로구 세종대로 152",
+      "mapx": "1269776958",
+      "mapy": "375698360"
     }
   ]
 }

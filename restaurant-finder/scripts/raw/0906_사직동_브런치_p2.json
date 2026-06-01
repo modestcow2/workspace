@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:14 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:52:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "H라운지",
-      "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-21",
-      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
-    },
     {
       "title": "애즈라이크 서촌",
       "link": "http://www.instagram.com/aslike_",
@@ -27,15 +16,15 @@
       "mapy": "375783143"
     },
     {
-      "title": "세이지핀치",
-      "link": "http://instagram.com/_sagefinch",
-      "category": "음식점>브런치",
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 82-1 1층 sagefinch",
-      "roadAddress": "서울특별시 종로구 필운대로1길 8 1층 sagefinch",
-      "mapx": "1269689774",
-      "mapy": "375774485"
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735061",
+      "mapy": "375779155"
     },
     {
       "title": "커먼맨션",
@@ -49,15 +38,26 @@
       "mapy": "375727509"
     },
     {
-      "title": "아리",
-      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
+      "title": "세이지핀치",
+      "link": "http://instagram.com/_sagefinch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 82-1 1층 sagefinch",
+      "roadAddress": "서울특별시 종로구 필운대로1길 8 1층 sagefinch",
+      "mapx": "1269689774",
+      "mapy": "375774485"
+    },
+    {
+      "title": "SOUPER 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/soupergwanghwamun?type=DINING&currentSuggestionType=SHOP_NAME",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 137-5 아리",
-      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
-      "mapx": "1269686902",
-      "mapy": "375765067"
+      "address": "서울특별시 종로구 내수동 110-7 1층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 9-3 1층",
+      "mapx": "1269710378",
+      "mapy": "375730893"
     }
   ]
 }

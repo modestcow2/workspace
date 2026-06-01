@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:29 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:04:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375746201"
     },
     {
-      "title": "스시누하",
-      "link": "https://catchtable.co.kr/sushi_nuha",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 146-3 스시누하",
-      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
-      "mapx": "1269686694",
-      "mapy": "375791432"
-    },
-    {
       "title": "우아라 광화문점",
       "link": "https://www.instagram.com/wooara__",
       "category": "한식>소고기구이",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 우아라 광화문",
       "mapx": "1269791966",
       "mapy": "375746798"
+    },
+    {
+      "title": "스시누하",
+      "link": "https://catchtable.co.kr/sushi_nuha",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 146-3 스시누하",
+      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
+      "mapx": "1269686694",
+      "mapy": "375791432"
     },
     {
       "title": "스시미치루",

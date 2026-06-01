@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:03 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:45:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375765472"
     },
     {
+      "title": "서촌 촌장집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 195 1층 촌장집",
+      "roadAddress": "서울특별시 종로구 자하문로1길 24-1 1층 촌장집",
+      "mapx": "1269709707",
+      "mapy": "375765237"
+    },
+    {
       "title": "황금정",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 38 1층",
       "mapx": "1269702700",
       "mapy": "375767768"
-    },
-    {
-      "title": "고기연",
-      "link": "https://www.instagram.com/gogiyeon.kr",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 80 1층 고기연",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 17 1층 고기연",
-      "mapx": "1269718518",
-      "mapy": "375773126"
     }
   ]
 }

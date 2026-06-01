@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:58 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "평안도식당 신촌점",
-      "link": "https://www.instagram.com/leejin3020",
+      "link": "https://www.instagram.com/dldnwls3021/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 서대문구 연세로4길 12 1층",
       "mapx": "1269377470",
       "mapy": "375570469"
-    },
-    {
-      "title": "신의주찹쌀순대 신촌점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-33",
-      "roadAddress": "서울특별시 서대문구 연세로4길 19",
-      "mapx": "1269378344",
-      "mapy": "375573574"
     },
     {
       "title": "24시 진선소고기<b>국밥</b> 신촌점",
@@ -49,15 +38,26 @@
       "mapy": "375561154"
     },
     {
-      "title": "소푸리콩나물<b>국밥</b>",
+      "title": "신의주찹쌀순대 신촌점",
       "link": "",
-      "category": "한식>국밥",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 431-3",
-      "roadAddress": "서울특별시 서대문구 성산로 331",
-      "mapx": "1269270716",
-      "mapy": "375662565"
+      "address": "서울특별시 서대문구 창천동 13-33",
+      "roadAddress": "서울특별시 서대문구 연세로4길 19",
+      "mapx": "1269378344",
+      "mapy": "375573574"
+    },
+    {
+      "title": "보승회관 서울신촌점",
+      "link": "https://www.boseunghall.com/",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-1",
+      "roadAddress": "서울특별시 서대문구 연세로5길 26",
+      "mapx": "1269355410",
+      "mapy": "375565804"
     }
   ]
 }

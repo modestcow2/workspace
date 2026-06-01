@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:37 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:49:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375709958"
     },
     {
-      "title": "공샤브",
-      "link": "https://www.instagram.com/gong_shaboo_new/",
-      "category": "음식점>일식>샤브샤브",
+      "title": "천향",
+      "link": "",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르 종로타운 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 종로타운 지하1층",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 종로구 청진동 11-3 2,3층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-3 2,3층",
+      "mapx": "1269807512",
+      "mapy": "375718671"
     }
   ]
 }

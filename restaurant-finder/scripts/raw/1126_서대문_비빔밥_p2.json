@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375666512"
     },
     {
-      "title": "무학바지락칼국수",
-      "link": "",
-      "category": "한식>칼국수,만두",
+      "title": "수라면옥 연희점",
+      "link": "https://www.instagram.com/soora_1990",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 158-29",
-      "roadAddress": "서울특별시 서대문구 통일로35길 6",
-      "mapx": "1269462280",
-      "mapy": "375863988"
+      "address": "서울특별시 서대문구 연희동 89-31",
+      "roadAddress": "서울특별시 서대문구 연희로25길 81",
+      "mapx": "1269327204",
+      "mapy": "375700749"
     }
   ]
 }

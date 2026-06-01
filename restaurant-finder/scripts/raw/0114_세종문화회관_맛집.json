@@ -1,52 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:59 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:42:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "고가빈커리하우스 광화문본점",
-      "link": "http://instagram.com/gogabin_curryhouse",
-      "category": "음식점>일식>카레",
+      "title": "광화문석갈비 D타워점",
+      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-48 3층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
-      "mapx": "1269709645",
-      "mapy": "375728814"
-    },
-    {
-      "title": "정백어가 광화문 피맛골본점",
-      "link": "",
-      "category": "한식>생선구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "타마린드 디타워점",
-      "link": "https://catchtable.co.kr/tamarinddt",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
+      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
       "mapx": "1269789694",
       "mapy": "375710184"
-    },
-    {
-      "title": "일품 광화문점",
-      "link": "https://www.instagram.com/ilpum0200",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
-      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     },
     {
       "title": "보보식당 광화문",
@@ -58,6 +25,39 @@
       "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
       "mapx": "1269778819",
       "mapy": "375721535"
+    },
+    {
+      "title": "곰작소 스타필드애비뉴 그랑서울점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gomjakso",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 70 스타필드 그랑서울 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 33 스타필드 그랑서울 지하1층",
+      "mapx": "1269814392",
+      "mapy": "375709600"
+    },
+    {
+      "title": "스탠다드번 스타필드 애비뉴 그랑서울점",
+      "link": "https://www.instagram.com/standardbun.buns",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 70 1층 105호, 106호",
+      "roadAddress": "서울특별시 종로구 종로 33 1층 105호, 106호",
+      "mapx": "1269811289",
+      "mapy": "375706829"
+    },
+    {
+      "title": "한이서울",
+      "link": "https://app.catchtable.co.kr/ct/shop/hanyiseoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 2-2 2층 한이서울",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-1 2층 한이서울",
+      "mapx": "1269742805",
+      "mapy": "375724887"
     }
   ]
 }

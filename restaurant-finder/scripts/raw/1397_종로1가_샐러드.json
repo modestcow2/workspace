@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:03 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:58:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "와이스타브 다이어트 광화문점",
-      "link": "",
+      "link": "https://www.instagram.com/whystarve.kr/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
@@ -16,13 +16,13 @@
       "mapy": "375708344"
     },
     {
-      "title": "그리너리 광화문점",
-      "link": "",
+      "title": "점점점 <b>샐러드</b>",
+      "link": "https://blog.naver.com/jum_3",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B119-5호, 6호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B119-5호, 6호",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
       "mapx": "1269798606",
       "mapy": "375708344"
     },
@@ -38,26 +38,26 @@
       "mapy": "375708344"
     },
     {
-      "title": "점점점 <b>샐러드</b>",
-      "link": "https://youtube.com/@_jum_2023",
+      "title": "그리너리 광화문점",
+      "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B119-5호, 6호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B119-5호, 6호",
       "mapx": "1269798606",
       "mapy": "375708344"
     },
     {
-      "title": "샌디치하우스",
-      "link": "https://smartstore.naver.com/ondo_jongro/products/7784296997",
+      "title": "리나스 광화문점",
+      "link": "https://www.instagram.com/linas_korea/",
       "category": "양식>샌드위치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하1층 샌디치하우스",
-      "roadAddress": "서울특별시 종로구 종로 19 지하1층 샌디치하우스",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 종로구 종로1가 1 1층",
+      "roadAddress": "서울특별시 종로구 종로 1 1층",
+      "mapx": "1269778786",
+      "mapy": "375709477"
     }
   ]
 }

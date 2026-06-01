@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:17 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375614278"
     },
     {
-      "title": "진주집",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남창동 34-31",
-      "roadAddress": "서울특별시 중구 남대문시장길 22-2",
-      "mapx": "1269770936",
-      "mapy": "375600090"
-    },
-    {
       "title": "봉피양 명동점",
       "link": "http://bjgalbi.com",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점",
       "mapx": "1269811548",
       "mapy": "375644616"
+    },
+    {
+      "title": "진주집",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남창동 34-31",
+      "roadAddress": "서울특별시 중구 남대문시장길 22-2",
+      "mapx": "1269770936",
+      "mapy": "375600090"
     }
   ]
 }

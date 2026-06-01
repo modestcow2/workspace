@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:54 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 18:00:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375646669"
     },
     {
-      "title": "니즈버거 을지로점",
-      "link": "https://www.instagram.com/needs_burger",
+      "title": "버거옥 종로점",
+      "link": "",
       "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 84-4 1층 니즈버거",
-      "roadAddress": "서울특별시 중구 마른내로 13 1층 니즈버거",
-      "mapx": "1269893982",
-      "mapy": "375648615"
+      "address": "서울특별시 종로구 종로2가 56-24 1층~4층",
+      "roadAddress": "서울특별시 종로구 삼일대로 396 1층~4층",
+      "mapx": "1269879939",
+      "mapy": "375698705"
     }
   ]
 }

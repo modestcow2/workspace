@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:45 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:44:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375737152"
     },
     {
-      "title": "진고기명가",
-      "link": "http://gogimyeongga.cityfood.co.kr/",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 30 1층",
-      "roadAddress": "서울특별시 종로구 사직로 103-4 1층",
-      "mapx": "1269705858",
-      "mapy": "375764507"
-    },
-    {
       "title": "체부동잔치집 별관",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로 115-3",
       "mapx": "1269716673",
       "mapy": "375762475"
+    },
+    {
+      "title": "진고기명가",
+      "link": "http://gogimyeongga.cityfood.co.kr/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 30 1층",
+      "roadAddress": "서울특별시 종로구 사직로 103-4 1층",
+      "mapx": "1269705858",
+      "mapy": "375764507"
     }
   ]
 }

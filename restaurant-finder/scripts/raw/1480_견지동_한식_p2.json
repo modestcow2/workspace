@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:43 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:59:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "사찰음식 전문점 발우공양",
+      "link": "http://balwoo.or.kr/",
+      "category": "한식>사찰음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 71 템플스테이 통합정보센터 5층",
+      "roadAddress": "서울특별시 종로구 우정국로 56 템플스테이 통합정보센터 5층",
+      "mapx": "1269832147",
+      "mapy": "375738365"
+    },
     {
       "title": "심경희라라랜드 광화문",
       "link": "",
@@ -38,26 +49,15 @@
       "mapy": "375729806"
     },
     {
-      "title": "사찰음식 전문점 발우공양",
-      "link": "http://balwoo.or.kr/",
+      "title": "한국불교문화사업단",
+      "link": "http://www.koreatemplefood.com/",
       "category": "한식>사찰음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 71 템플스테이 통합정보센터 5층",
-      "roadAddress": "서울특별시 종로구 우정국로 56 템플스테이 통합정보센터 5층",
-      "mapx": "1269832147",
-      "mapy": "375738365"
-    },
-    {
-      "title": "운종가",
-      "link": "https://app.catchtable.co.kr/ct/shop/Unjongga?from=share&type=DINING",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-34 2층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-5 2층",
-      "mapx": "1269825303",
-      "mapy": "375729523"
+      "address": "서울특별시 종로구 견지동 71",
+      "roadAddress": "서울특별시 종로구 우정국로 56",
+      "mapx": "1269832109",
+      "mapy": "375738873"
     }
   ]
 }

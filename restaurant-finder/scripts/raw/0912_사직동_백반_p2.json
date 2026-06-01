@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:17 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:52:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 67호",
       "mapx": "1269743207",
       "mapy": "375719690"
+    },
+    {
+      "title": "행복한식탁",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 167",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30",
+      "mapx": "1269735581",
+      "mapy": "375726319"
     },
     {
       "title": "이서방네순대국",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 50 별미곱창",
       "mapx": "1269696746",
       "mapy": "375769499"
-    },
-    {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
     }
   ]
 }

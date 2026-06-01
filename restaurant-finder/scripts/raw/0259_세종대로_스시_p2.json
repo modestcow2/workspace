@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:11 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:43:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375721535"
     },
     {
-      "title": "잉꼬",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 17-3 2층",
-      "roadAddress": "서울특별시 중구 세종대로 22 2층",
-      "mapx": "1269743278",
-      "mapy": "375585140"
-    },
-    {
       "title": "은행골 시청점",
       "link": "",
       "category": "음식점>일식>초밥,롤",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로 70-1 영복빌딩 1층",
       "mapx": "1269766512",
       "mapy": "375624488"
+    },
+    {
+      "title": "VIP참치 코리아나호텔점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
+      "mapx": "1269767357",
+      "mapy": "375679986"
     },
     {
       "title": "란 이자카야",
@@ -49,15 +49,15 @@
       "mapy": "375588024"
     },
     {
-      "title": "VIP참치 코리아나호텔점",
-      "link": "https://smartstore.naver.com/viptuna_ko",
-      "category": "한식>생선회",
+      "title": "고담",
+      "link": "https://blog.naver.com/gothamcityhall",
+      "category": "술집>이자카야",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
-      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
-      "mapx": "1269767357",
-      "mapy": "375679986"
+      "address": "서울특별시 중구 태평로2가 341-2 2층(룸),4층(홀), 루프탑(야외 옥상)",
+      "roadAddress": "서울특별시 중구 세종대로 81 2층(룸),4층(홀), 루프탑(야외 옥상)",
+      "mapx": "1269764150",
+      "mapy": "375635587"
     }
   ]
 }

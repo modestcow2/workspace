@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:25 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:57:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "페이퍼크레인",
-      "link": "https://www.instagram.com/papercrane_official",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 초동 61-1 1층",
-      "roadAddress": "서울특별시 중구 마른내로2길 14 1층",
-      "mapx": "1269921281",
-      "mapy": "375638701"
-    },
-    {
-      "title": "산청숯불가든 <b>을지로</b> 2호점",
-      "link": "https://www.instagram.com/sancheongin",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 302-1 별관 2층",
-      "roadAddress": "서울특별시 중구 을지로14길 12 별관 2층",
-      "mapx": "1269919844",
-      "mapy": "375656470"
-    },
-    {
-      "title": "도야집 <b>을지로</b>점",
-      "link": "https://www.instagram.com/doyajib_",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 초동 64-1 도야집",
-      "roadAddress": "서울특별시 중구 수표로12길 31 도야집",
-      "mapx": "1269920323",
-      "mapy": "375640360"
-    },
-    {
-      "title": "느루집 <b>을지로</b>점",
+      "title": "광화문미진 현대시티아울렛 동대문점",
       "link": "",
-      "category": "한식>닭갈비",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 107-1 지하 1층 104호(을지로 3가)",
-      "roadAddress": "서울특별시 중구 마른내로 27 지하 1층 104호(을지로 3가)",
-      "mapx": "1269913572",
-      "mapy": "375650245"
+      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
+      "mapx": "1270079298",
+      "mapy": "375684539"
     },
     {
-      "title": "산청숯불가든 <b>을지로</b>",
-      "link": "https://www.instagram.com/sancheongin/",
-      "category": "한식>육류,고기요리",
+      "title": "훠궈먹고 명동점",
+      "link": "https://www.instagram.com/hotpot_mukgo_official/",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 343-1 1층",
-      "roadAddress": "서울특별시 중구 을지로 114-6 1층",
-      "mapx": "1269906186",
-      "mapy": "375658389"
+      "address": "서울특별시 중구 을지로2가 199-40 2층 204호, 205호",
+      "roadAddress": "서울특별시 중구 명동7길 21 2층 204호, 205호",
+      "mapx": "1269838787",
+      "mapy": "375647371"
+    },
+    {
+      "title": "사마르칸트시티",
+      "link": "https://www.instagram.com/sarmarkandcity_korea_restaurant",
+      "category": "음식점>아시아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 35-1 성산빌딩 2층",
+      "roadAddress": "서울특별시 중구 을지로42길 16 성산빌딩 2층",
+      "mapx": "1270055555",
+      "mapy": "375655972"
+    },
+    {
+      "title": "달맞이광장바베큐 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dalmajiplaza_bbq?from=share&type=WAITING",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 343-11 1층",
+      "roadAddress": "서울특별시 중구 을지로 112-1 1층",
+      "mapx": "1269904910",
+      "mapy": "375658502"
+    },
+    {
+      "title": "잘빠진메밀 <b>을지로</b>직영점",
+      "link": "https://www.instagram.com/jalppajin_hipjiro",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 75 1층",
+      "roadAddress": "서울특별시 중구 창경궁로5길 7 1층",
+      "mapx": "1269975838",
+      "mapy": "375671481"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:03 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:55:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375814958"
     },
     {
+      "title": "여우골초밥 신촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-11",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
+      "mapx": "1269349900",
+      "mapy": "375564975"
+    },
+    {
       "title": "으뜸<b>스시</b> 신촌점",
       "link": "https://euddeumsushi.com/",
       "category": "음식점>일식>초밥,롤",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 서대문구 연세로9길 37 102호 김판석초밥",
       "mapx": "1269346765",
       "mapy": "375585501"
-    },
-    {
-      "title": "여우골초밥 신촌점",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 62-11",
-      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
-      "mapx": "1269349900",
-      "mapy": "375564975"
     }
   ]
 }

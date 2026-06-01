@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:20 +0900",
+  "lastBuildDate": "Mon, 01 Jun 2026 17:54:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375765833"
     },
     {
-      "title": "옥이네밥집포차 서촌 본점",
+      "title": "수라재",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 67-2 2층 옥이네",
-      "roadAddress": "서울특별시 종로구 자하문로 20 2층 옥이네",
-      "mapx": "1269722820",
-      "mapy": "375779035"
+      "address": "서울특별시 종로구 통의동 66 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 2층",
+      "mapx": "1269723288",
+      "mapy": "375778157"
     },
     {
       "title": "한일관 광화문점",
@@ -49,15 +49,15 @@
       "mapy": "375745601"
     },
     {
-      "title": "시래기담은",
-      "link": "https://www.instagram.com/siraegidameun",
+      "title": "옥이네밥집포차 서촌 본점",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 팔판동 71 시래기담은",
-      "roadAddress": "서울특별시 종로구 삼청로 65-2 시래기담은",
-      "mapx": "1269809917",
-      "mapy": "375815898"
+      "address": "서울특별시 종로구 통의동 67-2 2층 옥이네",
+      "roadAddress": "서울특별시 종로구 자하문로 20 2층 옥이네",
+      "mapx": "1269722820",
+      "mapy": "375779035"
     }
   ]
 }

@@ -1,34 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:07 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
-      "mapx": "1269720468",
-      "mapy": "375687024"
-    },
-    {
-      "title": "한암동 정동점",
-      "link": "https://openine.com/한암동",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
-      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
-      "mapx": "1269708541",
-      "mapy": "375678521"
-    },
-    {
       "title": "타와",
-      "link": "https://www.instagram.com/muwa__official",
+      "link": "https://www.instagram.com/tawa__official",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
@@ -49,15 +27,37 @@
       "mapy": "375696647"
     },
     {
-      "title": "광화문면옥",
+      "title": "이문면옥 광화문",
       "link": "",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 B108호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 B108호",
+      "mapx": "1269720469",
+      "mapy": "375687024"
+    },
+    {
+      "title": "원기옥 광화문점",
+      "link": "https://catchtable.co.kr/wongiok",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "<b>덕수궁</b> 리에제와플",
+      "link": "https://www.instagram.com/liege_waffle_",
+      "category": "카페,디저트>와플",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 365",
+      "roadAddress": "서울특별시 중구 덕수궁길 5",
+      "mapx": "1269764916",
+      "mapy": "375648235"
     }
   ]
 }

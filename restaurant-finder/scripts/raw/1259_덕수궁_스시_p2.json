@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:00 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "바닷가작은부엌 경희궁점",
-      "link": "http://www.seasidekitchen.co.kr/",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 12-5 5층",
-      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
-      "mapx": "1269698101",
-      "mapy": "375683937"
-    },
     {
       "title": "VIP참치 코리아나호텔점",
       "link": "https://smartstore.naver.com/viptuna_ko",
@@ -38,6 +27,28 @@
       "mapy": "375647325"
     },
     {
+      "title": "바닷가작은부엌 경희궁점",
+      "link": "http://www.seasidekitchen.co.kr/",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5 5층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
+      "mapx": "1269698101",
+      "mapy": "375683937"
+    },
+    {
+      "title": "동아리 정동본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/group",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 27-14 이자카야 동아리 본점",
+      "roadAddress": "서울특별시 중구 정동길 12-6 이자카야 동아리 정동본점",
+      "mapx": "1269695635",
+      "mapy": "375673559"
+    },
+    {
       "title": "<b>스시</b>온",
       "link": "https://www.instagram.com/yeonnam_midam/",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 새문안로 28-1 2층",
       "mapx": "1269689384",
       "mapy": "375676893"
-    },
-    {
-      "title": "VIP참치 서대문점",
-      "link": "https://smartstore.naver.com/viptuna_ko",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 의주로1가 25-10 바비엥2 1층",
-      "roadAddress": "서울특별시 중구 통일로 114 바비엥2 1층",
-      "mapx": "1269681170",
-      "mapy": "375653145"
     }
   ]
 }

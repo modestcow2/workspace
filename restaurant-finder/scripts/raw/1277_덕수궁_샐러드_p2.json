@@ -1,30 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:09 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "커피루소 정동",
-      "link": "https://smartstore.naver.com/lussolab",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 17-4 1층",
-      "roadAddress": "서울특별시 중구 정동길 17 1층",
-      "mapx": "1269705929",
-      "mapy": "375670330"
-    },
-    {
-      "title": "르풀",
-      "link": "https://www.instagram.com/lepul/",
+      "title": "부스틴 광화문점",
+      "link": "https://www.instagram.com/boostnkorea",
       "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 1-28 신아일보",
-      "roadAddress": "서울특별시 중구 정동길 33 신아일보",
-      "mapx": "1269722338",
-      "mapy": "375660943"
+      "address": "서울특별시 중구 태평로1가 62-4 1층",
+      "roadAddress": "서울특별시 중구 세종대로21길 52 1층",
+      "mapx": "1269760391",
+      "mapy": "375687785"
     },
     {
       "title": "라그린",
@@ -38,26 +27,37 @@
       "mapy": "375664638"
     },
     {
-      "title": "재즈클럽 야누스",
-      "link": "https://www.instagram.com/jazzclub_janus",
-      "category": "카페,디저트>라이브카페",
+      "title": "르풀",
+      "link": "https://www.instagram.com/lepul/",
+      "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 1-48 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 53 2층",
-      "mapx": "1269754119",
-      "mapy": "375689748"
+      "address": "서울특별시 중구 정동 1-28 신아일보",
+      "roadAddress": "서울특별시 중구 정동길 33 신아일보",
+      "mapx": "1269722338",
+      "mapy": "375660943"
     },
     {
-      "title": "그린브로스<b>샐러드</b> 시청역점",
-      "link": "https://www.instagram.com/greenbrossalad_cityhall/",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "커피루소 정동",
+      "link": "https://smartstore.naver.com/lussolab",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 37 B1, 먼슬리키친 17호 그린브로스샐러드",
-      "roadAddress": "서울특별시 중구 서소문로 89-20 B1, 먼슬리키친 17호 그린브로스샐러드",
-      "mapx": "1269720315",
-      "mapy": "375632511"
+      "address": "서울특별시 중구 정동 17-4 1층",
+      "roadAddress": "서울특별시 중구 정동길 17 1층",
+      "mapx": "1269705929",
+      "mapy": "375670330"
+    },
+    {
+      "title": "그릭베이 한산빌딩점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 지하1층 그릭베이 B115-2호,B116호",
+      "roadAddress": "서울특별시 중구 서소문로 115 지하1층 그릭베이 B115-2호,B116호",
+      "mapx": "1269736520",
+      "mapy": "375634157"
     }
   ]
 }

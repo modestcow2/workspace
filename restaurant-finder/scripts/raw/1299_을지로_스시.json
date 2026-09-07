@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:18 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375653900"
     },
     {
-      "title": "에비스야 우동&amp;오뎅 <b>을지로</b>점",
-      "link": "https://www.instagram.com/ebisuyaudon_kr/",
+      "title": "<b>스시</b>이찌 <b>을지로</b>점",
+      "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 3-1 1층",
-      "roadAddress": "서울특별시 중구 수표로 46-2 1층",
-      "mapx": "1269900805",
-      "mapy": "375653395"
-    },
-    {
-      "title": "<b>스시</b> 소우카이",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushi_soukai",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로5가 274-1 지하1층",
-      "roadAddress": "서울특별시 중구 동호로35길 5 지하1층",
-      "mapx": "1270019924",
-      "mapy": "375662037"
+      "address": "서울특별시 중구 저동2가 7-2 제이매크로타워 2층 203호",
+      "roadAddress": "서울특별시 중구 을지로12길 28 제이매크로타워 2층 203호",
+      "mapx": "1269905697",
+      "mapy": "375651798"
     },
     {
       "title": "이대헌 <b>스시</b>",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
       "mapx": "1270075370",
       "mapy": "375683018"
+    },
+    {
+      "title": "니카이",
+      "link": "https://www.instagram.com/nikai_eulji",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로5가 35-1 2층 201호",
+      "roadAddress": "서울특별시 중구 을지로 219 2층 201호",
+      "mapx": "1270025647",
+      "mapy": "375670875"
     }
   ]
 }

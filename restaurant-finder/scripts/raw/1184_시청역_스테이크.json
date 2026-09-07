@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:24 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375684246"
     },
     {
+      "title": "우오보 하우스",
+      "link": "https://app.catchtable.co.kr/ct/shop/uovohouse?from=share&type=DINING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하3층 301호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하3층 301호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
       "title": "바리에가타 명동",
       "link": "https://www.variegata.company/",
       "category": "음식점>이탈리아음식",
@@ -27,28 +38,6 @@
       "mapy": "375624933"
     },
     {
-      "title": "웨스틴 조선 서울 루브리카",
-      "link": "https://www.josunhotel.com/resve/dining/resveForm.do",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 87-1 지하1층 웨스틴조선서울 저층 로비층",
-      "roadAddress": "서울특별시 중구 소공로 106 지하1층 웨스틴조선서울 저층 로비층",
-      "mapx": "1269800267",
-      "mapy": "375644228"
-    },
-    {
-      "title": "오드하우스",
-      "link": "https://www.instagram.com/odd_haus",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
-      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
-      "mapx": "1269721868",
-      "mapy": "375662530"
-    },
-    {
       "title": "라칸티나",
       "link": "",
       "category": "음식점>이탈리아음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
       "mapx": "1269800349",
       "mapy": "375662396"
+    },
+    {
+      "title": "울프강 <b>스테이크</b>하우스 광화문점",
+      "link": "http://wolfgangssteakhouse.co.kr",
+      "category": "음식점>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-21 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 40 2층",
+      "mapx": "1269757642",
+      "mapy": "375681718"
     }
   ]
 }

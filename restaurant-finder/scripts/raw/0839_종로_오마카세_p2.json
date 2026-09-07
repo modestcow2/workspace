@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:42 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:18:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "스시산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
+    },
     {
       "title": "<b>오마카세</b> 오사이초밥 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
@@ -27,26 +38,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "고청담 광화문 디타워점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gocheongdam_gwm",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 5층",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 5층",
-      "mapx": "1269789694",
-      "mapy": "375710184"
-    },
-    {
-      "title": "스시산원 궁",
-      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "title": "코야마",
+      "link": "https://catchtable.co.kr/koyama",
       "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
-      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
-      "mapx": "1269788207",
-      "mapy": "375746201"
+      "address": "서울특별시 종로구 청진동 70 그랑서울 1타워 201호",
+      "roadAddress": "서울특별시 종로구 종로 33 그랑서울 1타워 201호",
+      "mapx": "1269814392",
+      "mapy": "375709600"
     },
     {
       "title": "스시미치루",

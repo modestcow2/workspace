@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:53 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 서소문로11길 1",
       "mapx": "1269729232",
       "mapy": "375629681"
-    },
-    {
-      "title": "현풍닭칼국수 광화문점",
-      "link": "https://www.instagram.com/hyunpungdk_official",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-3 1층",
-      "roadAddress": "서울특별시 중구 세종대로 135-9 1층",
-      "mapx": "1269763007",
-      "mapy": "375688748"
     },
     {
       "title": "장안<b>삼계탕</b>",
@@ -49,15 +38,26 @@
       "mapy": "375703908"
     },
     {
-      "title": "감나무집",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
+      "title": "한촌설렁탕 서대문역점",
+      "link": "http://hanchonsdm.cityfood.co.kr/",
+      "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 35-2",
-      "roadAddress": "서울특별시 종로구 새문안로 83-2",
-      "mapx": "1269739242",
-      "mapy": "375705616"
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 108호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 108호",
+      "mapx": "1269699345",
+      "mapy": "375636895"
+    },
+    {
+      "title": "광화문한상 광화문점",
+      "link": "https://www.instagram.com/gwanghwamun_hansang/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 2층",
+      "mapx": "1269765840",
+      "mapy": "375683348"
     }
   ]
 }

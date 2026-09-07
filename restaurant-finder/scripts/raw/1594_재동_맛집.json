@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:36 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "더타코부스 NYC 안국점",
-      "link": "",
-      "category": "음식점>양식>멕시코,남미음식",
+      "title": "도마 유즈라멘 안국",
+      "link": "https://www.instagram.com/yuzu_ramen2",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 86 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
-      "mapx": "1269860399",
-      "mapy": "375774613"
+      "address": "서울특별시 종로구 재동 84-6 유즈라멘",
+      "roadAddress": "서울특별시 종로구 북촌로2길 14 유즈라멘",
+      "mapx": "1269865232",
+      "mapy": "375778648"
     },
     {
       "title": "도토리가든 안국점",
@@ -27,37 +27,37 @@
       "mapy": "375780996"
     },
     {
-      "title": "호이식 종로 안국",
-      "link": "",
-      "category": "한식>칼국수,만두",
+      "title": "갓잇 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/godeat_anguk",
+      "category": "음식점>멕시코,남미음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-7 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
-      "mapx": "1269863069",
-      "mapy": "375777908"
+      "address": "서울특별시 종로구 재동 84-30 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-5 1층",
+      "mapx": "1269859643",
+      "mapy": "375781671"
     },
     {
-      "title": "ETF베이커리",
-      "link": "https://app.catchtable.co.kr/ct/shop/etfbakery?from=share&type=WAITING",
-      "category": "카페,디저트>베이커리",
+      "title": "안국약방",
+      "link": "https://안국약방.kr",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 107-1 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 3 1층",
-      "mapx": "1269858052",
-      "mapy": "375772153"
+      "address": "서울특별시 종로구 재동 91 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
+      "mapx": "1269861688",
+      "mapy": "375773871"
     },
     {
-      "title": "비움안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
-      "category": "음식점>양식",
+      "title": "신라제면 안국점",
+      "link": "https://www.k-delicious.kr/",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
-      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
-      "mapx": "1269856635",
-      "mapy": "375791098"
+      "address": "서울특별시 종로구 재동 84-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
+      "mapx": "1269862338",
+      "mapy": "375782217"
     }
   ]
 }

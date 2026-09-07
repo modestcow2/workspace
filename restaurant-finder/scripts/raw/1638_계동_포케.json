@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:57 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:27:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "와이스타브 다이어트 광화문점",
+      "link": "https://www.instagram.com/whystarve.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
     {
       "title": "TWG Tea 광화문점",
       "link": "https://brand.naver.com/twgtea_official",
@@ -27,15 +38,15 @@
       "mapy": "375682184"
     },
     {
-      "title": "라이크샐러드",
-      "link": "https://www.instagram.com/like_salad_SKKU",
+      "title": "스프링어텀",
+      "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 명륜3가 1-190 1층 LIKE SALAD",
-      "roadAddress": "서울특별시 종로구 명륜길 44 1층 LIKE SALAD",
-      "mapx": "1269949025",
-      "mapy": "375890462"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 110-1-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 110-1-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "슬로우캘리 광화문",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 제1층 121-1호",
       "mapx": "1269801711",
       "mapy": "375708095"
-    },
-    {
-      "title": "점점점 샐러드",
-      "link": "https://youtube.com/@_jum_2023",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     }
   ]
 }

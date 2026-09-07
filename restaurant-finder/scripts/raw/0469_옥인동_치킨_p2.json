@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:49 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "영광통닭",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 94 영광통닭",
-      "roadAddress": "서울특별시 종로구 필운대로 55-1 영광통닭",
-      "mapx": "1269684170",
-      "mapy": "375810589"
-    },
     {
       "title": "영광통닭 2호점",
       "link": "",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 필운대로 59",
       "mapx": "1269683749",
       "mapy": "375813250"
+    },
+    {
+      "title": "영광통닭",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 94 영광통닭",
+      "roadAddress": "서울특별시 종로구 필운대로 55-1 영광통닭",
+      "mapx": "1269684170",
+      "mapy": "375810589"
     },
     {
       "title": "계열사",

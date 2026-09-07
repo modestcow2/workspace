@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:36 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
     {
       "title": "홈보이서울",
       "link": "http://www.instagram.com/homeboy_seoul",
@@ -27,37 +16,48 @@
       "mapy": "375762354"
     },
     {
-      "title": "오커쇼어",
-      "link": "https://www.instagram.com/ochershore",
-      "category": "카페,디저트>베이커리",
+      "title": "파루 닭한마리",
+      "link": "https://www.instagram.com/paru.seoul/",
+      "category": "한식>닭요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지상1층 2호",
-      "roadAddress": "서울특별시 종로구 사직로 130 지상1층 2호",
-      "mapx": "1269733437",
-      "mapy": "375753767"
+      "address": "서울특별시 종로구 적선동 13-1 1층",
+      "roadAddress": "서울특별시 종로구 사직로 137-11 1층",
+      "mapx": "1269737940",
+      "mapy": "375762594"
     },
     {
-      "title": "스타벅스 적선점",
-      "link": "http://www.starbucks.co.kr/",
-      "category": "카페,디저트>카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 66 노스게이트빌딩 1층 ()",
-      "roadAddress": "서울특별시 종로구 새문안로5길 55 노스게이트빌딩 1층 (적선동)",
-      "mapx": "1269741245",
-      "mapy": "375752994"
-    },
-    {
-      "title": "인왕산호랭이주막",
-      "link": "https://www.instagram.com/horangejoomak",
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 262-1 1층",
-      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
-      "mapx": "1269655596",
-      "mapy": "375756107"
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
+    },
+    {
+      "title": "쇼쿠도 합",
+      "link": "https://app.catchtable.co.kr/ct/shop/shokudo_hab",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 137-17 1층",
+      "mapx": "1269735847",
+      "mapy": "375763322"
     }
   ]
 }

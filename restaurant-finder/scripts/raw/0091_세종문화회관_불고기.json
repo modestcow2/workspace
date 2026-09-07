@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:47 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:09:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "평양고깃집",
-      "link": "",
-      "category": "한식>육류,고기요리",
+      "title": "우슴 광화문 직영점",
+      "link": "https://blog.naver.com/wusm-official",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
-      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
-      "mapx": "1269854482",
-      "mapy": "375727819"
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
     },
     {
       "title": "일품진진수라 광화문점",
@@ -27,17 +27,6 @@
       "mapy": "375706504"
     },
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
-    },
-    {
       "title": "고우가 광화문점",
       "link": "https://go.catchtable.co.kr/jrrhv4v",
       "category": "한식>소고기구이",
@@ -49,15 +38,26 @@
       "mapy": "375684246"
     },
     {
-      "title": "솥내음 종로인사동점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
+      "title": "평양고깃집",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
+      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
+      "mapx": "1269854482",
+      "mapy": "375727819"
+    },
+    {
+      "title": "오징어풍경 무교동점",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
+      "address": "서울특별시 중구 무교동 11 광일빌딩 1층",
+      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 1층",
+      "mapx": "1269797337",
+      "mapy": "375680954"
     }
   ]
 }

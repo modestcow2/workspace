@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:51 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
       "mapx": "1269730165",
       "mapy": "375613584"
+    },
+    {
+      "title": "텐까",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 102동 로비층 B122호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 102동 로비층 B122호",
+      "mapx": "1269701462",
+      "mapy": "375637151"
     },
     {
       "title": "스시 <b>오마카세</b> 미나미 구월점",
@@ -43,21 +54,10 @@
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "경기도 화성시 만세구 남양읍 남양리 2282",
+      "address": "경기도 화성시 만세구 남양읍 남양리 2282 2층 202호",
       "roadAddress": "경기도 화성시 만세구 남양읍 시청로32번길 4 2층 202호",
       "mapx": "1268195241",
       "mapy": "372065534"
-    },
-    {
-      "title": "우와인",
-      "link": "https://www.instagram.com/woowine_suwon/",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 수원시 팔달구 인계동 1115-6 정건빌딩 1층 102-2호",
-      "roadAddress": "경기도 수원시 팔달구 인계로166번길 37 정건빌딩 1층 102-2호",
-      "mapx": "1270352302",
-      "mapy": "372645875"
     }
   ]
 }

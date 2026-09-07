@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:21 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "고씨네동해막국수 종로직영점",
-      "link": "https://blog.naver.com/hjwm0116",
-      "category": "한식>막국수",
+      "title": "카츠쇼신 종각역센트로폴리스점",
+      "link": "https://www.instagram.com/katsu_shoshin?igsh=a2hhbXhqdWx2ZHQx",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 68 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
-      "mapx": "1269846887",
-      "mapy": "375744624"
-    },
-    {
-      "title": "신사동인동 안녕<b>인사동</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
-    },
-    {
-      "title": "솥내음 종로<b>인사동</b>점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
-    },
-    {
-      "title": "히트커피로스터스 센트로폴리스",
-      "link": "",
-      "category": "카페,디저트>카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 17 센트로폴리스 빌딩 건물 지하2층",
-      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 빌딩 건물 지하2층",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 B201호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 B201호",
       "mapx": "1269836590",
       "mapy": "375714967"
     },
     {
-      "title": "샤브가든 종로타워점",
-      "link": "",
+      "title": "솔솥 종로타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Solsotpotricehouse",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
-      "mapx": "1269836385",
-      "mapy": "375707534"
+      "address": "서울특별시 종로구 종로2가 6 지하1층 B108호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하1층 B108호",
+      "mapx": "1269835822",
+      "mapy": "375707034"
+    },
+    {
+      "title": "<b>인사동</b>보리밥 본점",
+      "link": "https://smartstore.naver.com/greatsfb",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-17 지하1층",
+      "roadAddress": "서울특별시 종로구 인사동7길 37 지하1층",
+      "mapx": "1269847327",
+      "mapy": "375725991"
+    },
+    {
+      "title": "금촌국밥",
+      "link": "https://www.instagram.com/_geumchon/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-36 1층",
+      "roadAddress": "서울특별시 종로구 인사동5길 20 1층",
+      "mapx": "1269851476",
+      "mapy": "375726006"
+    },
+    {
+      "title": "담장옆에국화꽃 안녕<b>인사동</b>점",
+      "link": "https://linktr.ee/ccot_insa",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 2층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 2층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
     }
   ]
 }

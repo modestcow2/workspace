@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:31 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375806132"
     },
     {
+      "title": "홈코리안퀴진",
+      "link": "https://www.instagram.com/home.korean.cuisine/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 60 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 22-9 1층",
+      "mapx": "1269802214",
+      "mapy": "375778524"
+    },
+    {
       "title": "백년토종<b>삼계탕</b>",
       "link": "",
       "category": "한식>백숙,삼계탕",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 삼청로2길 3-8 1, 2층",
       "mapx": "1269811516",
       "mapy": "375812799"
-    },
-    {
-      "title": "호이식 종로 안국",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-7 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
-      "mapx": "1269863069",
-      "mapy": "375777908"
     },
     {
       "title": "황칠가 안국점",

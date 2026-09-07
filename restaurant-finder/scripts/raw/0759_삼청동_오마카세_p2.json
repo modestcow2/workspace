@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:05 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375864381"
     },
     {
+      "title": "더 소와나",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 140 1층",
+      "roadAddress": "서울특별시 종로구 삼청로9길 5 1층",
+      "mapx": "1269813882",
+      "mapy": "375864915"
+    },
+    {
       "title": "온재",
       "link": "https://app.catchtable.co.kr/ct/shop/Onjae",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 54 2층",
       "mapx": "1269820563",
       "mapy": "375797533"
-    },
-    {
-      "title": "구테이블 한정식",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 86",
-      "roadAddress": "서울특별시 종로구 인사동14길 41",
-      "mapx": "1269848521",
-      "mapy": "375751535"
     }
   ]
 }

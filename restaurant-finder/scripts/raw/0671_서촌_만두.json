@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:24 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375796715"
     },
     {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
-    },
-    {
       "title": "옹시미 경복궁점",
       "link": "https://blog.naver.com/omgseemegbg",
       "category": "한식>칼국수,만두",
@@ -38,6 +27,28 @@
       "mapy": "375762516"
     },
     {
+      "title": "안덕",
+      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-53 1층",
+      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
+      "mapx": "1269696346",
+      "mapy": "375815060"
+    },
+    {
+      "title": "차이치",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 26 1층, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 9 1층, 2층",
+      "mapx": "1269710466",
+      "mapy": "375782778"
+    },
+    {
       "title": "체부동잔치집",
       "link": "",
       "category": "한식>국수",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 16",
       "mapx": "1269715263",
       "mapy": "375765394"
-    },
-    {
-      "title": "영화루",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 25-1",
-      "roadAddress": "서울특별시 종로구 자하문로7길 65",
-      "mapx": "1269690130",
-      "mapy": "375801579"
     }
   ]
 }

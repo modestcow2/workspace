@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:55 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:15:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "명동교자 본점",
-      "link": "http://www.mdkj.co.kr/",
-      "category": "한식>칼국수,만두",
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 25-2",
-      "roadAddress": "서울특별시 중구 명동10길 29",
-      "mapx": "1269856025",
-      "mapy": "375625491"
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
     },
     {
       "title": "황생가<b>칼국수</b>",
@@ -27,15 +27,26 @@
       "mapy": "375801317"
     },
     {
-      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
-      "link": "https://www.instagram.com/hyodam_dakkal",
-      "category": "음식점>한식",
+      "title": "종가만두",
+      "link": "https://blog.naver.com/sgjongro55",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-25 B1층",
-      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
-      "mapx": "1269836320",
-      "mapy": "375642444"
+      "address": "서울특별시 종로구 관수동 145-1 1층 종가만두",
+      "roadAddress": "서울특별시 종로구 수표로 88 1층 종가만두",
+      "mapx": "1269896787",
+      "mapy": "375689062"
+    },
+    {
+      "title": "옹시미 경복궁점",
+      "link": "https://blog.naver.com/omgseemegbg",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 사직로 105 1층",
+      "mapx": "1269705376",
+      "mapy": "375762516"
     },
     {
       "title": "대련집",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로16길 37",
       "mapx": "1269889029",
       "mapy": "375683895"
-    },
-    {
-      "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-1 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
-      "mapx": "1269862338",
-      "mapy": "375782217"
     }
   ]
 }

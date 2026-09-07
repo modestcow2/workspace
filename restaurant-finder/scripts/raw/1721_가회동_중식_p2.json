@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:35 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:28:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "미성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-18 1층 미성",
+      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 미성",
+      "mapx": "1269863079",
+      "mapy": "375779497"
+    },
     {
       "title": "한양<b>중식</b> 종로점",
       "link": "http://www.instagram.com/haanyang/",
@@ -16,37 +27,15 @@
       "mapy": "375706386"
     },
     {
-      "title": "안래홍",
-      "link": "",
+      "title": "덕후선생 광화문디타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/generousduckoo_dtower",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 공평동 132",
-      "roadAddress": "서울특별시 종로구 종로7길 43",
-      "mapx": "1269826639",
-      "mapy": "375717166"
-    },
-    {
-      "title": "서호장",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관수동 13-1",
-      "roadAddress": "서울특별시 종로구 수표로 91-1",
-      "mapx": "1269893831",
-      "mapy": "375694568"
-    },
-    {
-      "title": "차이들 안녕인사동점",
-      "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 3층 307, 308호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 종로구 청진동 246 D타워 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 4층",
+      "mapx": "1269789694",
+      "mapy": "375710184"
     },
     {
       "title": "친니",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
       "mapx": "1269762577",
       "mapy": "375724523"
+    },
+    {
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     }
   ]
 }

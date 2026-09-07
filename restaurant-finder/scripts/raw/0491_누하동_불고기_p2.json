@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:59 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375785770"
     },
     {
-      "title": "자하문로118 들풀",
-      "link": "",
+      "title": "우슴 광화문 직영점",
+      "link": "https://blog.naver.com/wusm-official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
     },
     {
       "title": "고우가 광화문점",
@@ -49,15 +49,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "title": "오징어풍경 무교동점",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
+      "address": "서울특별시 중구 무교동 11 광일빌딩 1층",
+      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 1층",
+      "mapx": "1269797337",
+      "mapy": "375680954"
     }
   ]
 }

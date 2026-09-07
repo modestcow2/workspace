@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:25 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,48 +16,48 @@
       "mapy": "375706386"
     },
     {
-      "title": "안동장",
-      "link": "",
+      "title": "초류향",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/cholyuhyang?from=share&type=DINING",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
+      "address": "서울특별시 중구 다동 164-2",
+      "roadAddress": "서울특별시 중구 다동길 24-10",
+      "mapx": "1269804186",
+      "mapy": "375674951"
     },
     {
-      "title": "오구반점",
+      "title": "효제루",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 5-9",
-      "roadAddress": "서울특별시 중구 수표로 60",
-      "mapx": "1269898496",
-      "mapy": "375665179"
+      "address": "서울특별시 종로구 효제동 301-2 1층",
+      "roadAddress": "서울특별시 종로구 대학로 18 1층",
+      "mapx": "1270021758",
+      "mapy": "375726942"
     },
     {
-      "title": "원흥",
+      "title": "페이홍러우 을지로점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 92",
-      "roadAddress": "서울특별시 중구 다동길 46",
-      "mapx": "1269819007",
-      "mapy": "375678937"
+      "address": "서울특별시 중구 수표동 99 지하1층",
+      "roadAddress": "서울특별시 중구 청계천로 100 지하1층",
+      "mapx": "1269881203",
+      "mapy": "375674838"
     },
     {
-      "title": "안래홍",
-      "link": "",
+      "title": "덕후선생 광화문디타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/generousduckoo_dtower",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 공평동 132",
-      "roadAddress": "서울특별시 종로구 종로7길 43",
-      "mapx": "1269826639",
-      "mapy": "375717166"
+      "address": "서울특별시 종로구 청진동 246 D타워 4층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 4층",
+      "mapx": "1269789694",
+      "mapy": "375710184"
     }
   ]
 }

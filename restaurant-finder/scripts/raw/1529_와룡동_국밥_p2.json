@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:05 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "돈까스앤우찌",
+      "title": "돈우찌",
       "link": "",
       "category": "음식점>일식>돈가스",
       "description": "",
@@ -27,7 +27,7 @@
       "mapy": "375794197"
     },
     {
-      "title": "엄용백 돼지<b>국밥</b>",
+      "title": "엄용백 돼지<b>국밥</b> 종각점",
       "link": "https://www.instagram.com/umyongbaek_kr/",
       "category": "한식>국밥",
       "description": "",
@@ -49,15 +49,15 @@
       "mapy": "375723618"
     },
     {
-      "title": "합천돼지<b>국밥</b>",
-      "link": "",
+      "title": "돈맛꿀",
+      "link": "https://blog.naver.com/pig_money_honey",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 290-1",
-      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
-      "mapx": "1269879701",
-      "mapy": "375720097"
+      "address": "서울특별시 종로구 낙원동 179 지상 1층",
+      "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
+      "mapx": "1269895649",
+      "mapy": "375710740"
     }
   ]
 }

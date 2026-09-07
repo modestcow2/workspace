@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:21:03 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:30:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,19 +27,8 @@
       "mapy": "375728300"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
-    {
       "title": "돈맛꿀",
-      "link": "https://youtube.com/@pig_honey",
+      "link": "https://blog.naver.com/pig_money_honey",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
@@ -49,15 +38,26 @@
       "mapy": "375710740"
     },
     {
-      "title": "뚝배기집",
-      "link": "",
+      "title": "종로반상회",
+      "link": "https://blog.naver.com/taekdaeri",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1",
-      "roadAddress": "서울특별시 종로구 종로16길 12",
-      "mapx": "1269885481",
-      "mapy": "375695483"
+      "address": "서울특별시 종로구 관철동 260",
+      "roadAddress": "서울특별시 종로구 우정국로2길 8",
+      "mapx": "1269834885",
+      "mapy": "375694910"
+    },
+    {
+      "title": "선어도 청계천삼일빌딩점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sonodo",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 10-2 지하1층 선어도 청계천삼일빌딩점",
+      "roadAddress": "서울특별시 종로구 청계천로 85 지하1층 선어도 청계천삼일빌딩점",
+      "mapx": "1269871596",
+      "mapy": "375686402"
     }
   ]
 }

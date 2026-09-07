@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:55 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375762516"
     },
     {
-      "title": "안주마을",
-      "link": "",
-      "category": "술집>포장마차",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 1-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 3",
-      "mapx": "1269721722",
-      "mapy": "375764582"
-    },
-    {
-      "title": "서촌계단집",
-      "link": "",
-      "category": "한식>해물,생선요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 11-1",
-      "roadAddress": "서울특별시 종로구 자하문로1길 15",
-      "mapx": "1269714587",
-      "mapy": "375764305"
-    },
-    {
       "title": "뼈탄집 서촌본점",
       "link": "http://www.bornpig.co.kr/index2.php",
       "category": "한식>육류,고기요리",
@@ -49,15 +27,37 @@
       "mapy": "375764468"
     },
     {
-      "title": "나무사이로 내자",
-      "link": "https://www.instagram.com/namusairocoffee",
-      "category": "음식점>카페,디저트",
+      "title": "우치야",
+      "link": "https://www.instagram.com/u_chiya105",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 196 카페 나무사이로",
-      "roadAddress": "서울특별시 종로구 사직로8길 21 카페 나무사이로",
-      "mapx": "1269710030",
-      "mapy": "375747164"
+      "address": "서울특별시 종로구 내자동 29-2 지상1층 101호",
+      "roadAddress": "서울특별시 종로구 사직로 105 지상1층 101호",
+      "mapx": "1269706560",
+      "mapy": "375762452"
+    },
+    {
+      "title": "타펠룬데 서울",
+      "link": "https://catchtable.co.kr/tafelrunde_seoul",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 132 1층 타펠룬데 서울",
+      "roadAddress": "서울특별시 종로구 사직로 108-5 1층 타펠룬데 서울",
+      "mapx": "1269708228",
+      "mapy": "375757053"
+    },
+    {
+      "title": "할매집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 108",
+      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
+      "mapx": "1269714754",
+      "mapy": "375756601"
     }
   ]
 }

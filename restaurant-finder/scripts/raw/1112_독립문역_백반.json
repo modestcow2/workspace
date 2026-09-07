@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:51 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375709023"
     },
     {
-      "title": "명지식당",
+      "title": "영천매운탕",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>매운탕,해물탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 39 1층 명지식당",
-      "roadAddress": "서울특별시 서대문구 독립문로14길 6 1층 명지식당",
-      "mapx": "1269637410",
-      "mapy": "375670500"
+      "address": "서울특별시 서대문구 영천동 178 1층",
+      "roadAddress": "서울특별시 서대문구 독립문로 21-3 1층",
+      "mapx": "1269608340",
+      "mapy": "375701522"
     }
   ]
 }

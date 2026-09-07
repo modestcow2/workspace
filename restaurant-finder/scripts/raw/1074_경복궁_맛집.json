@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:33 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
+      "title": "라 스위스 서촌",
+      "link": "https://blog.naver.com/ysimkim",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
+      "address": "서울특별시 종로구 통의동 25-2 끄레아주차장 안",
+      "roadAddress": "서울특별시 종로구 자하문로6길 11-36 끄레아주차장 안",
+      "mapx": "1269726212",
+      "mapy": "375786629"
     },
     {
       "title": "해목 서촌점",
@@ -27,28 +27,6 @@
       "mapy": "375784252"
     },
     {
-      "title": "오스테리아소띠",
-      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 91-38",
-      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
-      "mapx": "1269722295",
-      "mapy": "375789547"
-    },
-    {
-      "title": "통의동 국빈관 <b>경복궁</b>역점",
-      "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 38 1층",
-      "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
-      "mapx": "1269738782",
-      "mapy": "375766155"
-    },
-    {
       "title": "홈보이서울",
       "link": "http://www.instagram.com/homeboy_seoul",
       "category": "중식>중식당",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
       "mapx": "1269730709",
       "mapy": "375762354"
+    },
+    {
+      "title": "파루 닭한마리",
+      "link": "https://www.instagram.com/paru.seoul/",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 13-1 1층",
+      "roadAddress": "서울특별시 종로구 사직로 137-11 1층",
+      "mapx": "1269737940",
+      "mapy": "375762594"
+    },
+    {
+      "title": "테일러커피 서촌 <b>경복궁</b>점",
+      "link": "https://tailorcoffee.com",
+      "category": "음식점>카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-34 1층",
+      "roadAddress": "서울특별시 종로구 효자로 15 1층",
+      "mapx": "1269739512",
+      "mapy": "375770510"
     }
   ]
 }

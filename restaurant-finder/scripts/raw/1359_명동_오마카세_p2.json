@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:46 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
       "mapx": "1269782701",
       "mapy": "375684246"
-    },
-    {
-      "title": "김수사 신세계백화점 본점",
-      "link": "https://www.instagram.com/kimsushi1986/",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 52-5 14층",
-      "roadAddress": "서울특별시 중구 소공로 63 14층",
-      "mapx": "1269806031",
-      "mapy": "375600578"
     },
     {
       "title": "동해도 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 삼일대로4길 19 3층",
       "mapx": "1269901921",
       "mapy": "375621380"
+    },
+    {
+      "title": "순우블랙",
+      "link": "https://Instagram.com/soonwoo_black",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-62",
+      "roadAddress": "서울특별시 중구 명동9길 37-3",
+      "mapx": "1269840365",
+      "mapy": "375654157"
     }
   ]
 }

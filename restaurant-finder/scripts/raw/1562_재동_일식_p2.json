@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:21 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "프루",
-      "link": "https://www.instagram.com/fru.seoul?igsh=OTIyNzRjemxmeGVt",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 32-4",
-      "roadAddress": "서울특별시 종로구 북촌로5길 10",
-      "mapx": "1269843767",
-      "mapy": "375794370"
-    },
     {
       "title": "푸노야 안국점",
       "link": "https://smartstore.naver.com/purring_seoul",
@@ -27,7 +16,7 @@
       "mapy": "375787578"
     },
     {
-      "title": "도마 유즈라멘",
+      "title": "도마 유즈라멘 안국",
       "link": "https://www.instagram.com/yuzu_ramen2",
       "category": "음식점>일식>일본식라면",
       "description": "",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 14 유즈라멘",
       "mapx": "1269865232",
       "mapy": "375778648"
+    },
+    {
+      "title": "프루",
+      "link": "https://www.instagram.com/fru.seoul?igsh=OTIyNzRjemxmeGVt",
+      "category": "술집>이자카야",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 32-4",
+      "roadAddress": "서울특별시 종로구 북촌로5길 10",
+      "mapx": "1269843767",
+      "mapy": "375794370"
     },
     {
       "title": "온센 안국점",

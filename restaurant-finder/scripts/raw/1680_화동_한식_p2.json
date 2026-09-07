@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:17 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:27:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375845273"
     },
     {
+      "title": "편안한집",
+      "link": "https://ahome.imweb.me/",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 27-3",
+      "roadAddress": "서울특별시 종로구 북촌로 133",
+      "mapx": "1269833492",
+      "mapy": "375873030"
+    },
+    {
       "title": "스낵서울",
       "link": "https://www.instagram.com/snackseoul",
       "category": "음식점>한식",
@@ -27,6 +38,17 @@
       "mapy": "375837662"
     },
     {
+      "title": "눈나무집",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 20-8",
+      "roadAddress": "서울특별시 종로구 삼청로 136-1",
+      "mapx": "1269818766",
+      "mapy": "375874830"
+    },
+    {
       "title": "봉탁항아리바비큐 불쭈꾸미 삼청동 본점",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 104-3",
       "mapx": "1269824147",
       "mapy": "375845995"
-    },
-    {
-      "title": "부영도가니탕",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 27-14",
-      "roadAddress": "서울특별시 종로구 북촌로 141",
-      "mapx": "1269826884",
-      "mapy": "375872076"
-    },
-    {
-      "title": "편안한집",
-      "link": "https://ahome.imweb.me/",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 27-3",
-      "roadAddress": "서울특별시 종로구 북촌로 133",
-      "mapx": "1269833492",
-      "mapy": "375873030"
     }
   ]
 }

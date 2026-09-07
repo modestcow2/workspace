@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:15 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:11:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375684147"
     },
     {
-      "title": "오븐에빠진닭 서울역점",
-      "link": "https://oppadak.co.kr/main/main.php",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 63-20",
-      "roadAddress": "서울특별시 중구 세종대로 7",
-      "mapx": "1269727950",
-      "mapy": "375578300"
-    },
-    {
       "title": "니욤",
       "link": "",
       "category": "음식점>태국음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 178 . 지하1층 B109-6호",
       "mapx": "1269778819",
       "mapy": "375721535"
+    },
+    {
+      "title": "비어뱅크",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 63-16",
+      "roadAddress": "서울특별시 중구 세종대로 9",
+      "mapx": "1269728566",
+      "mapy": "375579308"
     }
   ]
 }

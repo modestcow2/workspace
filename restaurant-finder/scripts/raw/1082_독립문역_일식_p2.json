@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:37 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375737352"
     },
     {
-      "title": "독립술상",
-      "link": "https://blog.naver.com/eunsul_foodie",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 45-19 1층 1호",
-      "roadAddress": "서울특별시 종로구 통일로14길 6-3 1층 1호",
-      "mapx": "1269583035",
-      "mapy": "375748170"
-    },
-    {
       "title": "미스터빠삭 독립문점",
       "link": "",
       "category": "음식점>일식>돈가스",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 통일로 197 1층",
       "mapx": "1269612950",
       "mapy": "375709432"
+    },
+    {
+      "title": "청정해물샤브샤브",
+      "link": "",
+      "category": "음식점>일식>샤브샤브",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 교북동 55",
+      "roadAddress": "",
+      "mapx": "1269622456",
+      "mapy": "375707784"
     }
   ]
 }

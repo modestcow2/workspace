@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:13 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375764071"
     },
     {
-      "title": "꿀밥상",
+      "title": "다담정식",
       "link": "",
-      "category": "한식>한정식",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
+      "address": "서울특별시 종로구 서린동 88 관정빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
+      "mapx": "1269813961",
+      "mapy": "375694054"
+    },
+    {
+      "title": "행복한식탁",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 167 대우빌딩 지하 2층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30 대우빌딩 지하 2층",
+      "mapx": "1269735581",
+      "mapy": "375726319"
     },
     {
       "title": "전주풍남회관",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
       "mapx": "1269759995",
       "mapy": "375685854"
-    },
-    {
-      "title": "다담정식",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 서린동 88 관정빌딩 지하1층",
-      "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
-      "mapx": "1269813961",
-      "mapy": "375694054"
     }
   ]
 }

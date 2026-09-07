@@ -1,30 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:34 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "토속촌 <b>삼계탕</b>",
+      "title": "토속촌<b>삼계탕</b>",
       "link": "http://www.tosokchon.co.kr/",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 체부동 85-1 토속촌",
       "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
-      "mapx": "1269716148",
-      "mapy": "375776587"
-    },
-    {
-      "title": "흑궁흑염소 광화문직영점",
-      "link": "https://naver.me/5wWIpxPz",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 74 지하1층 103호, 104호",
-      "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층 103호, 104호",
-      "mapx": "1269731380",
-      "mapy": "375737740"
+      "mapx": "1269715865",
+      "mapy": "375776607"
     },
     {
       "title": "토담<b>삼계탕</b>",
@@ -38,6 +27,17 @@
       "mapy": "375762538"
     },
     {
+      "title": "흑궁흑염소 광화문직영점",
+      "link": "https://naver.me/5wWIpxPz",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 74 지하1층 103호, 104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층 103호, 104호",
+      "mapx": "1269731380",
+      "mapy": "375737740"
+    },
+    {
       "title": "통영굴밥 경복궁점",
       "link": "",
       "category": "한식>굴요리",
@@ -49,15 +49,15 @@
       "mapy": "375753857"
     },
     {
-      "title": "명작신의주찹쌀순대",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
-      "mapx": "1269686008",
-      "mapy": "375744035"
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
     }
   ]
 }

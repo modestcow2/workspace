@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:45 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375682184"
     },
     {
-      "title": "슬로우캘리 을지로점",
-      "link": "http://www.slowcali.co.kr",
+      "title": "<b>포케</b>로로 다동점",
+      "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 수하동 67 미래에셋센터원 지1층 118호",
-      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋센터원 지1층 118호",
-      "mapx": "1269850954",
-      "mapy": "375672787"
+      "address": "서울특별시 중구 다동 70 한외빌딩 1층 134호",
+      "roadAddress": "서울특별시 중구 다동길 43 한외빌딩 1층 134호",
+      "mapx": "1269816321",
+      "mapy": "375682205"
     }
   ]
 }

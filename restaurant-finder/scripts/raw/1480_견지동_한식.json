@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:43 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375727663"
     },
     {
-      "title": "삼봉도담",
-      "link": "https://sambongdodam.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-34 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
-      "mapx": "1269825289",
-      "mapy": "375729806"
-    },
-    {
       "title": "사찰음식 전문점 발우공양",
       "link": "http://balwoo.or.kr/",
       "category": "한식>사찰음식",
@@ -49,15 +38,26 @@
       "mapy": "375738365"
     },
     {
-      "title": "운종가",
-      "link": "https://app.catchtable.co.kr/ct/shop/Unjongga?from=share&type=DINING",
-      "category": "한식>한정식",
+      "title": "삼봉도담",
+      "link": "https://sambongdodam.com",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-34 2층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-5 2층",
-      "mapx": "1269825303",
-      "mapy": "375729523"
+      "address": "서울특별시 종로구 견지동 110-34 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
+      "mapx": "1269825289",
+      "mapy": "375729806"
+    },
+    {
+      "title": "의정부부대찌개&amp;돈까스",
+      "link": "",
+      "category": "한식>찌개,전골",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-44 2층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-7 2층",
+      "mapx": "1269823750",
+      "mapy": "375729033"
     }
   ]
 }

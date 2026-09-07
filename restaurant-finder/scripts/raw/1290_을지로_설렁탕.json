@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:14 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375666640"
     },
     {
-      "title": "이남장 명동점",
-      "link": "https://www.instagram.com/i.nam.jang.myeongdong/",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-63 1~2층 이남장 명동점",
-      "roadAddress": "서울특별시 중구 명동9길 39 1~2층 이남장 명동점",
-      "mapx": "1269840776",
-      "mapy": "375655402"
-    },
-    {
       "title": "우촌",
       "link": "",
       "category": "한식>소고기구이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 마른내로2길 23 1층",
       "mapx": "1269918749",
       "mapy": "375634545"
+    },
+    {
+      "title": "이남장 현대아울렛 동대문점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
+      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
+      "mapx": "1270078667",
+      "mapy": "375687211"
     }
   ]
 }

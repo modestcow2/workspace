@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:55 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375764860"
     },
     {
-      "title": "까이9",
-      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_kkai9",
-      "category": "음식점>태국음식",
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
+      "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 296-5",
-      "roadAddress": "서울특별시 중구 충무로5길 6",
-      "mapx": "1269924005",
-      "mapy": "375652206"
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
     }
   ]
 }

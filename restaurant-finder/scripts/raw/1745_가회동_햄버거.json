@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:46 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:28:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
     {
       "title": "다운타우너 안국",
       "link": "http://downtowner.co.kr/",
@@ -45,8 +34,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 원서동 94",
       "roadAddress": "서울특별시 종로구 창덕궁길 84",
-      "mapx": "1269893984",
-      "mapy": "375812331"
+      "mapx": "1269894245",
+      "mapy": "375812215"
     },
     {
       "title": "잭잭 안국점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
       "mapx": "1269845845",
       "mapy": "375765164"
+    },
+    {
+      "title": "벅벅 종로혜화점",
+      "link": "https://instagram.com/burg_burg_?igshid=t81zuyryusc3",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜1가 10-22 1층 벅벅 종로혜화점",
+      "roadAddress": "서울특별시 종로구 명륜길 22 1층 벅벅 종로혜화점",
+      "mapx": "1269957318",
+      "mapy": "375883658"
     }
   ]
 }

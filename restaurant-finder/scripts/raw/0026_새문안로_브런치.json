@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:14 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:08:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375706990"
     },
     {
-      "title": "엘 꾸비또",
-      "link": "https://www.instagram.com/el_cubito_official",
-      "category": "음식점>스페인음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 지하2층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 지하2층",
-      "mapx": "1269721401",
-      "mapy": "375696647"
-    },
-    {
       "title": "아티제 광화문에스타워점",
       "link": "https://www.cafeartisee.com/",
       "category": "카페,디저트>카페",
@@ -38,13 +27,13 @@
       "mapy": "375698838"
     },
     {
-      "title": "Poke all day 포케&amp;샐러드 광화문점",
-      "link": "https://www.instagram.com/pokeallday_official/",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "엘 꾸비또",
+      "link": "https://app.catchtable.co.kr/ct/shop/elcubito",
+      "category": "음식점>스페인음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 지하1층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
+      "address": "서울특별시 종로구 신문로1가 226 지하2층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하2층",
       "mapx": "1269721401",
       "mapy": "375696647"
     }

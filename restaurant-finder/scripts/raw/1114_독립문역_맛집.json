@@ -1,19 +1,52 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:51 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "소보로식당",
-      "link": "https://www.instagram.com/soboro_sikdang",
-      "category": "음식점>일식>일식당",
+      "title": "종로냉삼",
+      "link": "https://band.us/@jongnonaengsam",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 무악동 89 경희궁 롯데캐슬 상가 1층 118호",
-      "roadAddress": "서울특별시 종로구 통일로 230 경희궁 롯데캐슬 상가 1층 118호",
-      "mapx": "1269591683",
-      "mapy": "375737601"
+      "address": "서울특별시 종로구 무악동 45-19 1층 1호 종로냉삼",
+      "roadAddress": "서울특별시 종로구 통일로14길 6-3 1층 1호 종로냉삼",
+      "mapx": "1269583035",
+      "mapy": "375748170"
+    },
+    {
+      "title": "다솜 자연밥상",
+      "link": "",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 67-2",
+      "roadAddress": "서울특별시 종로구 통일로 262",
+      "mapx": "1269571106",
+      "mapy": "375754325"
+    },
+    {
+      "title": "이디야 <b>독립문역</b>점",
+      "link": "https://blog.naver.com/ediya-coffee",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 63-9",
+      "roadAddress": "서울특별시 종로구 통일로 266",
+      "mapx": "1269567829",
+      "mapy": "375757366"
+    },
+    {
+      "title": "피아이씨비",
+      "link": "https://www.instagram.com/pickerb_official/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 89 제지1층 제124호",
+      "roadAddress": "서울특별시 종로구 통일로 230 제지1층 제124호",
+      "mapx": "1269595884",
+      "mapy": "375733800"
     },
     {
       "title": "할리스 <b>독립문역</b>점",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 종로구 통일로 230",
       "mapx": "1269591351",
       "mapy": "375737939"
-    },
-    {
-      "title": "옛날순대",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 82 무악현대프라자 1층 옛날순대",
-      "roadAddress": "서울특별시 종로구 통일로 246-10 무악현대프라자 1층 옛날순대",
-      "mapx": "1269590672",
-      "mapy": "375744861"
-    },
-    {
-      "title": "고쿤스시",
-      "link": "",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 89 제지1층 121호",
-      "roadAddress": "서울특별시 종로구 통일로 230 제지1층 121호",
-      "mapx": "1269592729",
-      "mapy": "375736317"
-    },
-    {
-      "title": "커피가게동경 독립문",
-      "link": "https://smartstore.naver.com/coffeeshopdongkyung",
-      "category": "카페,디저트>카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 46-1746 1층",
-      "roadAddress": "서울특별시 종로구 통일로12길 16-1 1층",
-      "mapx": "1269604067",
-      "mapy": "375735229"
     }
   ]
 }

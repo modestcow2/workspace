@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:27 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    },
     {
       "title": "아리",
       "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
@@ -38,26 +49,15 @@
       "mapy": "375777930"
     },
     {
-      "title": "유앤피",
-      "link": "https://www.instagram.com/unp_sajik",
-      "category": "음식점>피자",
+      "title": "승grill",
+      "link": "https://www.instagram.com/seung_grill",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 262-1 3층",
-      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
-      "mapx": "1269655475",
-      "mapy": "375756345"
-    },
-    {
-      "title": "와인슈타인_서촌",
-      "link": "https://www.instagram.com/winestein_seochon",
-      "category": "술집>와인",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 108 3층",
-      "roadAddress": "서울특별시 종로구 필운대로 9-2 3층",
-      "mapx": "1269691223",
-      "mapy": "375771482"
+      "address": "서울특별시 종로구 필운동 155 1층 제1호 승grill",
+      "roadAddress": "서울특별시 종로구 자하문로1길 55 1층 제1호 승grill",
+      "mapx": "1269694153",
+      "mapy": "375769591"
     }
   ]
 }

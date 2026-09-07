@@ -1,19 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:48 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "서린낙지 견지점",
-      "link": "",
-      "category": "한식>낙지요리",
+      "title": "온미관 안국",
+      "link": "https://www.instagram.com/onmigwananguk/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 종로1가 대성 스카이렉스",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 종로1가 대성 스카이렉스",
-      "mapx": "1269825249",
-      "mapy": "375722311"
+      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
+      "mapx": "1269861071",
+      "mapy": "375780371"
+    },
+    {
+      "title": "우슴 광화문 직영점",
+      "link": "https://blog.naver.com/wusm-official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
     },
     {
       "title": "평양고깃집",
@@ -27,17 +38,6 @@
       "mapy": "375727819"
     },
     {
-      "title": "솥내음 종로인사동점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
-    },
-    {
       "title": "일품진진수라 광화문점",
       "link": "http://www.jinjinsura.com",
       "category": "한식>한정식",
@@ -49,15 +49,15 @@
       "mapy": "375706504"
     },
     {
-      "title": "온미관 안국",
-      "link": "https://www.instagram.com/onmigwananguk/",
+      "title": "솥내음 종로인사동점",
+      "link": "https://map.naver.com/p/entry/place/2017586094",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
-      "mapx": "1269861071",
-      "mapy": "375780371"
+      "address": "서울특별시 종로구 인사동 39 지상2층",
+      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
+      "mapx": "1269870311",
+      "mapy": "375721281"
     }
   ]
 }

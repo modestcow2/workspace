@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:41 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375710843"
     },
     {
-      "title": "오스테리아라디치",
-      "link": "",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 B1층 58호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 58호",
-      "mapx": "1269743109",
-      "mapy": "375720320"
-    },
-    {
       "title": "후라토식당 경복궁 본점",
       "link": "http://furato.co.kr/",
       "category": "음식점>일식>일식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 63호 후라토식당",
       "mapx": "1269740978",
       "mapy": "375720853"
+    },
+    {
+      "title": "포시즌스 호텔 서울 아키라 백",
+      "link": "https://www.fourseasons.com/kr/seoul/chat/?source=van_SKO_qr_chat",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 30 12층",
+      "roadAddress": "서울특별시 종로구 새문안로 97 12층",
+      "mapx": "1269753951",
+      "mapy": "375706979"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:36 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "전주콩나물해장국",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 1-3",
-      "roadAddress": "서울특별시 종로구 자하문로 3",
-      "mapx": "1269722639",
-      "mapy": "375765039"
-    },
     {
       "title": "백암박가네순대국",
       "link": "",
@@ -27,30 +16,41 @@
       "mapy": "375791821"
     },
     {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
-    {
-      "title": "인생소머리<b>국밥</b>",
+      "title": "전주콩나물해장국",
       "link": "",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 156 지하1층104호",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 28 지하1층104호",
-      "mapx": "1269736144",
-      "mapy": "375744582"
+      "address": "서울특별시 종로구 내자동 1-3",
+      "roadAddress": "서울특별시 종로구 자하문로 3",
+      "mapx": "1269722639",
+      "mapy": "375765039"
+    },
+    {
+      "title": "서촌 인왕식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 27-2 서촌인왕식당",
+      "roadAddress": "서울특별시 종로구 필운대로6길 17-1 서촌인왕식당",
+      "mapx": "1269696399",
+      "mapy": "375805097"
+    },
+    {
+      "title": "서촌전통순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 148-1",
+      "roadAddress": "서울특별시 종로구 사직로9가길 8",
+      "mapx": "1269690851",
+      "mapy": "375766782"
     },
     {
       "title": "사발",
-      "link": "https://m.booking.naver.com/booking/6/bizes/700305/items/5403470?area=pll",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",

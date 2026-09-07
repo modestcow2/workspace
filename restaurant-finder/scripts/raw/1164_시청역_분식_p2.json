@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:15 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375704544"
     },
     {
-      "title": "마포만두 시청점",
-      "link": "",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
-      "mapx": "1269795809",
-      "mapy": "375668511"
-    },
-    {
       "title": "남대문달님즉석떡볶이 서울역본점",
       "link": "",
       "category": "분식>떡볶이",
@@ -38,17 +27,6 @@
       "mapy": "375600347"
     },
     {
-      "title": "싸다김밥 <b>시청역</b>점",
-      "link": "https://ssadagb.com",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 70-5 해남빌딩 본관 1층 116호",
-      "roadAddress": "서울특별시 중구 세종대로 64 해남빌딩 본관 1층 116호",
-      "mapx": "1269765121",
-      "mapy": "375620705"
-    },
-    {
       "title": "허니떡볶이",
       "link": "https://blog.naver.com/honeybokki",
       "category": "분식>떡볶이",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 새문안로 103-1 일우빌딩 B1",
       "mapx": "1269762132",
       "mapy": "375705250"
+    },
+    {
+      "title": "유림면",
+      "link": "https://www.thingoolmarket.com",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 16",
+      "roadAddress": "서울특별시 중구 서소문로 139-1",
+      "mapx": "1269760935",
+      "mapy": "375642371"
+    },
+    {
+      "title": "장인라면 서울시청점",
+      "link": "https://the-mishik.com/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 21-1 1층",
+      "roadAddress": "서울특별시 중구 무교로 14 1층",
+      "mapx": "1269793845",
+      "mapy": "375671485"
     }
   ]
 }

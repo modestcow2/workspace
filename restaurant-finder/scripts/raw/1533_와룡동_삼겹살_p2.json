@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:07 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -18,7 +18,7 @@
     {
       "title": "고기꾼김춘배 종로직영점",
       "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
-      "category": "한식>돼지고기구이",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
@@ -34,8 +34,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 묘동 160-1 1층",
       "roadAddress": "서울특별시 종로구 돈화문로 53 1층",
-      "mapx": "1269911398",
-      "mapy": "375731869"
+      "mapx": "1269912075",
+      "mapy": "375731990"
     },
     {
       "title": "육즙당 종로본점",
@@ -49,15 +49,15 @@
       "mapy": "375712260"
     },
     {
-      "title": "촌놈",
-      "link": "https://blog.naver.com/chssha1029",
+      "title": "참돼짓간 종로본점",
+      "link": "https://www.instagram.com/cham_dwaejigan_jongno/",
       "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 동숭동 1-47",
-      "roadAddress": "서울특별시 종로구 대학로8가길 48",
-      "mapx": "1270023479",
-      "mapy": "375829574"
+      "address": "서울특별시 종로구 돈의동 137 피카디리 cgv극장 1층 1-89호",
+      "roadAddress": "서울특별시 종로구 돈화문로5가길 1 피카디리 cgv극장 1층 1-89호",
+      "mapx": "1269912405",
+      "mapy": "375710346"
     }
   ]
 }

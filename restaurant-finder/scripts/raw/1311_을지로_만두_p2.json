@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:24 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375649010"
     },
     {
-      "title": "꾸왁칼국수",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 주교동 153-2 꾸왁칼국수 1층",
-      "roadAddress": "서울특별시 중구 창경궁로 67-13 꾸왁칼국수 1층",
-      "mapx": "1269972173",
-      "mapy": "375682937"
-    },
-    {
       "title": "대엽 <b>을지로</b>",
       "link": "https://app.catchtable.co.kr/ct/shop/daeyeop_euljiro",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375661005"
     },
     {
-      "title": "안동장",
+      "title": "꾸왁칼국수",
       "link": "",
-      "category": "중식>중식당",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
+      "address": "서울특별시 중구 주교동 153-2 꾸왁칼국수 1층",
+      "roadAddress": "서울특별시 중구 창경궁로 67-13 꾸왁칼국수 1층",
+      "mapx": "1269972173",
+      "mapy": "375682937"
+    },
+    {
+      "title": "진진<b>만두</b> 시청점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
     }
   ]
 }

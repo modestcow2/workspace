@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:50 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:15:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375749172"
     },
     {
+      "title": "육회바른연어 경복궁점",
+      "link": "https://yby.co.kr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 66 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 1층",
+      "mapx": "1269722849",
+      "mapy": "375778015"
+    },
+    {
       "title": "<b>포케</b>로로 경희궁의아침점",
       "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침3단지 1층 120호",
       "mapx": "1269724983",
       "mapy": "375736137"
-    },
-    {
-      "title": "언더랩 샐러드&amp;<b>포케</b>",
-      "link": "https://www.instagram.com/under_lab_",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 167 지하1층 109호 언더랩",
-      "roadAddress": "서울특별시 종로구 새문안로3길 30 지하1층 109호 언더랩",
-      "mapx": "1269733705",
-      "mapy": "375727373"
     },
     {
       "title": "초록초록",
@@ -49,15 +49,15 @@
       "mapy": "375738930"
     },
     {
-      "title": "샐러드로우앤트라타 광화문점",
-      "link": "",
+      "title": "언더랩 샐러드&amp;<b>포케</b>",
+      "link": "https://www.instagram.com/under_lab_",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 도렴동 65 1층 104호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 31 1층 104호",
-      "mapx": "1269741944",
-      "mapy": "375731166"
+      "address": "서울특별시 종로구 내수동 167 지하1층 109호 언더랩",
+      "roadAddress": "서울특별시 종로구 새문안로3길 30 지하1층 109호 언더랩",
+      "mapx": "1269733705",
+      "mapy": "375727373"
     }
   ]
 }

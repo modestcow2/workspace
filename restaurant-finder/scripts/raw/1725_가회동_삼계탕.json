@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:37 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:28:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375806132"
     },
     {
-      "title": "호이식 종로 안국",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-7 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
-      "mapx": "1269863069",
-      "mapy": "375777908"
-    },
-    {
       "title": "황칠가 안국점",
       "link": "https://smartstore.naver.com/goodhealingshop",
       "category": "한식>육류,고기요리",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
       "mapx": "1269857055",
       "mapy": "375774305"
+    },
+    {
+      "title": "호이식 종로 안국",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-7 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
+      "mapx": "1269863069",
+      "mapy": "375777908"
     },
     {
       "title": "북촌<b>삼계탕</b>",

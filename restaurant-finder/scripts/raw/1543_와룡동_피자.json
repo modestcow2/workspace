@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:11 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375799156"
     },
     {
+      "title": "지오쿠치나익선",
+      "link": "https://blog.naver.com/ziocucina_ikseon",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-35",
+      "roadAddress": "서울특별시 종로구 수표로28길 33-11",
+      "mapx": "1269900907",
+      "mapy": "375737098"
+    },
+    {
       "title": "살롱순라 서순라길점",
       "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
       "category": "음식점>양식",
@@ -38,26 +49,15 @@
       "mapy": "375741979"
     },
     {
-      "title": "계동<b>피자</b>",
-      "link": "https://youtube.com/@kindk7985",
+      "title": "대장장이화덕<b>피자</b>",
+      "link": "http://pf.kakao.com/_Zscxmb",
       "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 82-1 1층 피자",
-      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
-      "mapx": "1269866587",
-      "mapy": "375801802"
-    },
-    {
-      "title": "옥수동화덕<b>피자</b> 종각",
-      "link": "https://www.instagram.com/oxoosourdoughpizza",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 19-1 7층 옥수동화덕피자 종각",
-      "roadAddress": "서울특별시 종로구 종로12길 14 7층 옥수동화덕피자 종각",
-      "mapx": "1269855994",
-      "mapy": "375694449"
+      "address": "서울특별시 종로구 가회동 202-1",
+      "roadAddress": "서울특별시 종로구 북촌로 42-4",
+      "mapx": "1269853702",
+      "mapy": "375805827"
     }
   ]
 }

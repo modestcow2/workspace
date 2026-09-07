@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:22 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375744663"
     },
     {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    },
+    {
       "title": "만가타",
       "link": "https://m.booking.naver.com/booking/6/bizes/289593",
       "category": "음식점>양식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼청로2길 40-5",
       "mapx": "1269809666",
       "mapy": "375801885"
-    },
-    {
-      "title": "퀴진 라끌레",
-      "link": "https://app.catchtable.co.kr/ct/shop/cuisine_lacle",
-      "category": "음식점>프랑스음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 135-2 1층 퀴진 라끌레",
-      "roadAddress": "서울특별시 종로구 자하문로7길 36 1층 퀴진 라끌레",
-      "mapx": "1269702487",
-      "mapy": "375792002"
     }
   ]
 }

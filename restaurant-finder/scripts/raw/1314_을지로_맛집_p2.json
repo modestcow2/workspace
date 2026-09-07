@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:25 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "페이퍼크레인",
-      "link": "https://www.instagram.com/papercrane_official",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 초동 61-1 1층",
-      "roadAddress": "서울특별시 중구 마른내로2길 14 1층",
-      "mapx": "1269921281",
-      "mapy": "375638701"
-    },
-    {
-      "title": "산청숯불가든 <b>을지로</b> 2호점",
-      "link": "https://www.instagram.com/sancheongin",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 302-1 별관 2층",
-      "roadAddress": "서울특별시 중구 을지로14길 12 별관 2층",
-      "mapx": "1269919844",
-      "mapy": "375656470"
-    },
-    {
-      "title": "도야집 <b>을지로</b>점",
-      "link": "https://www.instagram.com/doyajib_",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 초동 64-1 도야집",
-      "roadAddress": "서울특별시 중구 수표로12길 31 도야집",
-      "mapx": "1269920323",
-      "mapy": "375640360"
-    },
-    {
-      "title": "느루집 <b>을지로</b>점",
+      "title": "삐딱 <b>을지로</b>점",
       "link": "",
-      "category": "한식>닭갈비",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 107-1 지하 1층 104호(을지로 3가)",
-      "roadAddress": "서울특별시 중구 마른내로 27 지하 1층 104호(을지로 3가)",
-      "mapx": "1269913572",
-      "mapy": "375650245"
+      "address": "서울특별시 중구 을지로3가 334-20 1층",
+      "roadAddress": "서울특별시 중구 을지로 116-1 1층",
+      "mapx": "1269908151",
+      "mapy": "375660906"
     },
     {
-      "title": "산청숯불가든 <b>을지로</b>",
-      "link": "https://www.instagram.com/sancheongin/",
+      "title": "주도락 <b>을지로</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/judorak_euljiro",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-27 1층",
+      "roadAddress": "서울특별시 중구 을지로14길 13 1층",
+      "mapx": "1269922134",
+      "mapy": "375656382"
+    },
+    {
+      "title": "다케오 호르몬 데판야끼",
+      "link": "http://www.instagram.com/takeo_hormon",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 343-1 1층",
-      "roadAddress": "서울특별시 중구 을지로 114-6 1층",
-      "mapx": "1269906186",
-      "mapy": "375658389"
+      "address": "서울특별시 중구 을지로3가 322-1 1층 다케오 호르몬 데판야끼",
+      "roadAddress": "서울특별시 중구 을지로12길 14 1층 다케오 호르몬 데판야끼",
+      "mapx": "1269910268",
+      "mapy": "375656421"
+    },
+    {
+      "title": "천사곱창 명동점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-40 아르누보센텀 1F 천사곱창 명동점",
+      "roadAddress": "서울특별시 중구 명동7길 21 아르누보센텀 1F 천사곱창 명동점",
+      "mapx": "1269837534",
+      "mapy": "375645922"
+    },
+    {
+      "title": "<b>을지로</b> 회장님",
+      "link": "",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 296-15 1층",
+      "roadAddress": "서울특별시 중구 을지로14길 17 1층",
+      "mapx": "1269921704",
+      "mapy": "375654559"
     }
   ]
 }

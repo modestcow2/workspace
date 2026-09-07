@@ -1,9 +1,42 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:54 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "장인닭갈비 신촌점",
+      "link": "https://jangindak.co.kr/",
+      "category": "한식>닭갈비",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 33-18 지하1층, 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 10-4 지하1층, 1층",
+      "mapx": "1269364041",
+      "mapy": "375583119"
+    },
+    {
+      "title": "평안도식당 신촌점",
+      "link": "https://www.instagram.com/dldnwls3021/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 29-30 1층",
+      "roadAddress": "서울특별시 서대문구 연세로4길 12 1층",
+      "mapx": "1269377470",
+      "mapy": "375570469"
+    },
+    {
+      "title": "리정원 신촌점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 9-26 1층 리정원",
+      "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
+      "mapx": "1269392717",
+      "mapy": "375591233"
+    },
     {
       "title": "유닭스토리 닭한마리 신촌점",
       "link": "https://blog.naver.com/hotjazz22",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 서대문구 연세로4길 27 1층",
       "mapx": "1269382224",
       "mapy": "375575882"
-    },
-    {
-      "title": "등촌샤브칼국수 신촌점",
-      "link": "",
-      "category": "음식점>한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 4-77 1층 등촌샤브칼국수 신촌점",
-      "roadAddress": "서울특별시 서대문구 신촌역로 43 1층 등촌샤브칼국수 신촌점",
-      "mapx": "1269407741",
-      "mapy": "375589692"
-    },
-    {
-      "title": "돈뼈공방",
-      "link": "",
-      "category": "한식>감자탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 52-14 1층",
-      "roadAddress": "서울특별시 서대문구 연세로11길 30 1층",
-      "mapx": "1269351913",
-      "mapy": "375590167"
-    },
-    {
-      "title": "연희보리밥",
-      "link": "https://www.instagram.com/boribab_official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
-      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
-      "mapx": "1269306323",
-      "mapy": "375679590"
     }
   ]
 }

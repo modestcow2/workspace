@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:25 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "디디스피자펍 종로본점",
-      "link": "https://www.instagram.com/dds_pizzapub",
+      "link": "https://www.instagram.com/ddspizza_jongno",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -38,6 +38,17 @@
       "mapy": "375725008"
     },
     {
+      "title": "릴버거 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/lilburger_gwanghwamun?from=share&type=WAITING",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 156 1층 105호",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 1층 105호",
+      "mapx": "1269811142",
+      "mapy": "375726674"
+    },
+    {
       "title": "엘 샌드위치 종로점",
       "link": "http://elsandwich.co.kr",
       "category": "양식>샌드위치",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 14 1층",
       "mapx": "1269817979",
       "mapy": "375750480"
-    },
-    {
-      "title": "써브웨이 안국점",
-      "link": "http://www.subway.co.kr/",
-      "category": "음식점>샌드위치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 5 동일빌딩",
-      "roadAddress": "서울특별시 종로구 우정국로 69 동일빌딩",
-      "mapx": "1269824397",
-      "mapy": "375753052"
     }
   ]
 }

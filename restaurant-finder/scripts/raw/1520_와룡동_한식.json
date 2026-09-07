@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:01 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 종로구 와룡동 111",
       "roadAddress": "서울특별시 종로구 율곡로8길 18",
-      "mapx": "1269906137",
+      "mapx": "1269906138",
       "mapy": "375764792"
     },
     {
-      "title": "와룡집",
+      "title": "은행집",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 와룡동 171-1",
-      "roadAddress": "서울특별시 종로구 돈화문로11가길 46",
-      "mapx": "1269907000",
-      "mapy": "375745999"
+      "address": "서울특별시 종로구 와룡동 46",
+      "roadAddress": "서울특별시 종로구 율곡로8길 45",
+      "mapx": "1269910886",
+      "mapy": "375752779"
     }
   ]
 }

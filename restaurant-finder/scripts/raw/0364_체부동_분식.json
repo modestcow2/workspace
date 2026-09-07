@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:00 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "이삭토스트 경복궁역",
-      "link": "https://smartorder.beaverworksinc.com/brand/901216",
-      "category": "분식>토스트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 47-1",
-      "roadAddress": "서울특별시 종로구 자하문로 11",
-      "mapx": "1269721585",
-      "mapy": "375770339"
-    },
     {
       "title": "본김밥",
       "link": "",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4",
       "mapx": "1269689428",
       "mapy": "375744412"
+    },
+    {
+      "title": "본마켓",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 301동 B121-A, 121-B, 본마켓(사직동,풍림페이스본상가)",
+      "mapx": "1269686008",
+      "mapy": "375744035"
     },
     {
       "title": "다쯔",

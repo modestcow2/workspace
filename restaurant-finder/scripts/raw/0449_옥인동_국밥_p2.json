@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:40 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,37 +27,37 @@
       "mapy": "375717535"
     },
     {
-      "title": "아이노가든키친",
+      "title": "전주콩나물<b>국밥</b>",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>해장국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-9 2층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
-      "mapx": "1269712704",
-      "mapy": "375728324"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하 1층",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
-      "title": "대성집",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 행촌동 209-35",
-      "roadAddress": "서울특별시 종로구 사직로 5",
-      "mapx": "1269608828",
-      "mapy": "375727012"
-    },
-    {
-      "title": "광화문뚝감",
+      "title": "광화문24시감자탕",
       "link": "",
       "category": "한식>감자탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 128-14",
-      "roadAddress": "서울특별시 종로구 새문안로3길 21",
-      "mapx": "1269725919",
-      "mapy": "375720689"
+      "address": "서울특별시 종로구 청진동 204-1 지상1층",
+      "roadAddress": "서울특별시 종로구 종로3길 42 지상1층",
+      "mapx": "1269794117",
+      "mapy": "375722347"
+    },
+    {
+      "title": "광화문더덕순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 38-2",
+      "roadAddress": "서울특별시 종로구 새문안로5길 10",
+      "mapx": "1269750695",
+      "mapy": "375710722"
     }
   ]
 }

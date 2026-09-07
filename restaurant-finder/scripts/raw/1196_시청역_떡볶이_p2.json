@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:30 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "라밥 시청점",
-      "link": "http://kimbabpanda.co.kr/",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 69-2 1층",
-      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
-      "mapx": "1269768514",
-      "mapy": "375629403"
-    },
     {
       "title": "마포만두 시청점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
       "mapx": "1269795809",
       "mapy": "375668511"
+    },
+    {
+      "title": "라밥 시청점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
     },
     {
       "title": "청담동 마녀김밥 광화문점",

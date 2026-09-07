@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:48 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 통일로12길 10-18",
       "mapx": "1269606514",
       "mapy": "375727375"
+    },
+    {
+      "title": "카페미교",
+      "link": "https://www.instagram.com/cafe_migyo",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 69-20 지하1층 105호",
+      "roadAddress": "서울특별시 서대문구 독립문로 11 지하1층 105호",
+      "mapx": "1269602663",
+      "mapy": "375712138"
     },
     {
       "title": "르꽁두",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인왕산로 19 4층",
       "mapx": "1269655222",
       "mapy": "375755898"
-    },
-    {
-      "title": "아리",
-      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 137-5 아리",
-      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
-      "mapx": "1269686902",
-      "mapy": "375765067"
     }
   ]
 }

@@ -1,23 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:08 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "삭 수제튀김 전문점 이화본점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 56-33",
-      "roadAddress": "서울특별시 서대문구 이화여대3길 12",
-      "mapx": "1269451103",
-      "mapy": "375580656"
-    },
-    {
       "title": "평안도식당 신촌점",
-      "link": "https://www.instagram.com/leejin3020",
+      "link": "https://www.instagram.com/dldnwls3021/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 서대문구 연세로4길 12 1층",
       "mapx": "1269377470",
       "mapy": "375570469"
+    },
+    {
+      "title": "백암왕<b>순대</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 122-18 백암왕순대",
+      "roadAddress": "서울특별시 서대문구 증가로 13-6 백암왕순대",
+      "mapx": "1269310668",
+      "mapy": "375693945"
     },
     {
       "title": "철길떡볶기",
@@ -49,15 +49,15 @@
       "mapy": "375700014"
     },
     {
-      "title": "백<b>순대</b>본가새맛 신촌연대점",
-      "link": "https://blogdexreview.space/b/c607505c44",
-      "category": "음식점>한식",
+      "title": "엄마손떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 52-149 1층",
-      "roadAddress": "서울특별시 서대문구 연세로11길 12 1층",
-      "mapx": "1269361703",
-      "mapy": "375590135"
+      "address": "서울특별시 서대문구 남가좌동 324-46",
+      "roadAddress": "서울특별시 서대문구 증가로10길 37",
+      "mapx": "1269241615",
+      "mapy": "375789339"
     }
   ]
 }

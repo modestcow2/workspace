@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:17 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "광화문<b>국밥</b>",
-      "link": "",
+      "link": "https://gwanghwamungukbap.netlify.app/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -38,17 +38,6 @@
       "mapy": "375613997"
     },
     {
-      "title": "남파랑<b>국밥</b> 북창점",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 11-6 1층",
-      "roadAddress": "서울특별시 중구 세종대로16길 23 1층",
-      "mapx": "1269782549",
-      "mapy": "375633639"
-    },
-    {
       "title": "온점 을지로점",
       "link": "https://www.instagram.com/onjeom.seoul",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로 29 지1층",
       "mapx": "1269810422",
       "mapy": "375664910"
+    },
+    {
+      "title": "이문면옥 광화문",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 B108호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 B108호",
+      "mapx": "1269720469",
+      "mapy": "375687024"
     }
   ]
 }

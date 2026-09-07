@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:36 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "조조<b>칼국수</b> <b>시청</b>점",
-      "link": "https://youtube.com/jojostory",
-      "category": "음식점>한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-11 조조칼국수",
-      "roadAddress": "서울특별시 중구 세종대로11길 27 조조칼국수",
-      "mapx": "1269742849",
-      "mapy": "375621433"
-    },
     {
       "title": "북창동개성칼만두 서울<b>시청</b>역본점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 세종대로14길 34 지층 B1",
       "mapx": "1269785473",
       "mapy": "375627549"
+    },
+    {
+      "title": "조조<b>칼국수</b> <b>시청</b>점",
+      "link": "https://youtube.com/jojostory",
+      "category": "음식점>한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 120-11 조조칼국수",
+      "roadAddress": "서울특별시 중구 세종대로11길 27 조조칼국수",
+      "mapx": "1269742849",
+      "mapy": "375621433"
     },
     {
       "title": "탄백",
@@ -49,15 +49,15 @@
       "mapy": "375033455"
     },
     {
-      "title": "인계동 언니만두 &amp; <b>칼국수</b> 수원<b>시청</b>역본점",
-      "link": "https://www.instagram.com/sister.mandu",
+      "title": "밀본 그레이츠 숭례점",
+      "link": "https://mealbon.kr",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "경기도 수원시 팔달구 인계동 1034-3 101호",
-      "roadAddress": "경기도 수원시 팔달구 경수대로466번길 52 101호",
-      "mapx": "1270297003",
-      "mapy": "372664923"
+      "address": "서울특별시 중구 남대문로5가 6-1 지1층 8호",
+      "roadAddress": "서울특별시 중구 세종대로 17 지1층 8호",
+      "mapx": "1269732669",
+      "mapy": "375586299"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:33 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375666640"
     },
     {
-      "title": "이남장 <b>명동</b>점",
-      "link": "https://www.instagram.com/i.nam.jang.myeongdong/",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-63 1~2층 이남장 명동점",
-      "roadAddress": "서울특별시 중구 명동9길 39 1~2층 이남장 명동점",
-      "mapx": "1269840776",
-      "mapy": "375655402"
-    },
-    {
       "title": "갈비명가이상 <b>명동</b>점",
       "link": "",
       "category": "한식>소고기구이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 퇴계로 72 2층",
       "mapx": "1269806038",
       "mapy": "375591254"
+    },
+    {
+      "title": "신선설농탕 <b>명동</b>점",
+      "link": "https://www.shinsunseolnongtang.co.kr/",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 2-23 2층",
+      "roadAddress": "서울특별시 중구 명동길 56 2층",
+      "mapx": "1269854376",
+      "mapy": "375637745"
     }
   ]
 }

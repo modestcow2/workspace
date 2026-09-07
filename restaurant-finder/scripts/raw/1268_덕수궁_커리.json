@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:04 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "타와",
-      "link": "https://www.instagram.com/muwa__official",
+      "link": "https://www.instagram.com/tawa__official",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
@@ -27,17 +27,6 @@
       "mapy": "375678500"
     },
     {
-      "title": "카츠큐브",
-      "link": "https://www.instagram.com/katsucube_official",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 지하1층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
-      "mapx": "1269721401",
-      "mapy": "375696647"
-    },
-    {
       "title": "옴레스토랑 광화문점",
       "link": "https://www.instagram.com/om.restaurant",
       "category": "음식점>인도음식",
@@ -49,15 +38,26 @@
       "mapy": "375704856"
     },
     {
-      "title": "백소정 시청점",
-      "link": "https://baeksojeong.com/",
-      "category": "음식점>일식>일식당",
+      "title": "소코아 시청역점",
+      "link": "https://www.instagram.com/sokoa_official",
+      "category": "음식점>일식>카레",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 37 삼정아트테라스 1층 105호",
-      "roadAddress": "서울특별시 중구 서소문로 89-20 삼정아트테라스 1층 105호",
-      "mapx": "1269719301",
-      "mapy": "375631904"
+      "address": "서울특별시 중구 서소문동 49-2 1층 101호",
+      "roadAddress": "서울특별시 중구 서소문로 111 1층 101호",
+      "mapx": "1269733938",
+      "mapy": "375631115"
+    },
+    {
+      "title": "카츠큐브",
+      "link": "https://www.instagram.com/katsucube_official",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
     }
   ]
 }

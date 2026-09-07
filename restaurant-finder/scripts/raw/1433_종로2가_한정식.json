@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:20 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375704878"
     },
     {
-      "title": "솔솥 <b>종로</b>타워점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Solsotpotricehouse",
-      "category": "음식점>한식",
+      "title": "반궁 종각역점",
+      "link": "https://bangoong.kr/",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 지하1층 B108호",
-      "roadAddress": "서울특별시 종로구 종로 51 지하1층 B108호",
-      "mapx": "1269835822",
-      "mapy": "375707034"
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B202, 202-1, 214호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B202, 202-1, 214호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
     },
     {
       "title": "명동정",

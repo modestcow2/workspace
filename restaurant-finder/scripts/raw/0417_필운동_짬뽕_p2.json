@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:25 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "사직터널 그집",
+      "link": "https://www.instagram.com/gjib0408",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-16 한옥 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-12 한옥 1층",
+      "mapx": "1269649127",
+      "mapy": "375736159"
+    },
     {
       "title": "용궁",
       "link": "",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로7길 65",
       "mapx": "1269690130",
       "mapy": "375801579"
-    },
-    {
-      "title": "중국",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
     }
   ]
 }

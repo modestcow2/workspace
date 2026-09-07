@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:31 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:11:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "더솔키친",
+      "title": "더샌드위치",
       "link": "",
-      "category": "음식점>이탈리아음식",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 21 1층 더솔키친",
-      "roadAddress": "서울특별시 종로구 자하문로2길 16 1층 더솔키친",
-      "mapx": "1269735369",
-      "mapy": "375764552"
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
     },
     {
       "title": "유앤피",
@@ -27,19 +27,19 @@
       "mapy": "375756345"
     },
     {
-      "title": "더샌드위치",
+      "title": "더솔키친",
       "link": "",
-      "category": "음식점>양식",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
-      "mapx": "1269693501",
-      "mapy": "375748927"
+      "address": "서울특별시 종로구 적선동 21 1층 더솔키친",
+      "roadAddress": "서울특별시 종로구 자하문로2길 16 1층 더솔키친",
+      "mapx": "1269735369",
+      "mapy": "375764552"
     },
     {
       "title": "리브포나우",
-      "link": "",
+      "link": "https://www.instagram.com/livefornow.seasons",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",

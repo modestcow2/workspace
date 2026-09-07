@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:11 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375776536"
     },
     {
-      "title": "플러스84",
-      "link": "",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 106",
-      "roadAddress": "서울특별시 종로구 인사동16길 6",
-      "mapx": "1269841999",
-      "mapy": "375750122"
-    },
-    {
       "title": "호앙비엣 종각역점",
       "link": "https://hoang-viet.com/",
       "category": "음식점>베트남음식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 우정국로 43 1층",
       "mapx": "1269828093",
       "mapy": "375728773"
+    },
+    {
+      "title": "플러스84",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 106",
+      "roadAddress": "서울특별시 종로구 인사동16길 6",
+      "mapx": "1269841999",
+      "mapy": "375750122"
     },
     {
       "title": "얌얌스파이스",
@@ -49,15 +49,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "비엣 꽌",
-      "link": "",
-      "category": "음식점>베트남음식",
+      "title": "콘타이 안국점",
+      "link": "https://www.instagram.com/konthai.official",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 92",
-      "roadAddress": "서울특별시 종로구 북촌로 2",
-      "mapx": "1269861691",
-      "mapy": "375772481"
+      "address": "서울특별시 종로구 운니동 98-5 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로 88 지하1층",
+      "mapx": "1269889236",
+      "mapy": "375768074"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:48 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375780066"
     },
     {
-      "title": "오구반점",
-      "link": "",
+      "title": "초류향",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/cholyuhyang?from=share&type=DINING",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 5-9",
-      "roadAddress": "서울특별시 중구 수표로 60",
-      "mapx": "1269898496",
-      "mapy": "375665179"
+      "address": "서울특별시 중구 다동 164-2",
+      "roadAddress": "서울특별시 중구 다동길 24-10",
+      "mapx": "1269804186",
+      "mapy": "375674951"
     }
   ]
 }

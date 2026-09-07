@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:16 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    },
     {
       "title": "뚱낙원",
       "link": "",
@@ -16,15 +27,15 @@
       "mapy": "375765667"
     },
     {
-      "title": "봉피양 경복궁점",
-      "link": "http://www.bjgalbi.com",
-      "category": "음식점>한식",
+      "title": "본죽&amp;비빔밥cafe 경복궁역점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF102",
+      "category": "음식점>죽",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 67-2",
-      "roadAddress": "서울특별시 종로구 자하문로 20",
-      "mapx": "1269722429",
-      "mapy": "375779140"
+      "address": "서울특별시 종로구 통의동 35-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 1 1층",
+      "mapx": "1269727756",
+      "mapy": "375765833"
     },
     {
       "title": "남포면옥",
@@ -39,7 +50,7 @@
     },
     {
       "title": "광화문면옥",
-      "link": "",
+      "link": "https://www.instagram.com/gwanghwamun_myeonok/",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
       "mapx": "1269747363",
       "mapy": "375698520"
-    },
-    {
-      "title": "류경회관 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
-      "mapx": "1269818280",
-      "mapy": "375724939"
     }
   ]
 }

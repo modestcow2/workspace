@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:35 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375670959"
     },
     {
-      "title": "쭈담 <b>시청</b>직영점",
+      "title": "참숯골",
       "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 19 대한체육회관 2층, 참숯골",
+      "roadAddress": "서울특별시 중구 무교로 16 대한체육회관 2층, 참숯골",
+      "mapx": "1269793570",
+      "mapy": "375674240"
+    },
+    {
+      "title": "쭈담 <b>시청</b>북창점",
+      "link": "https://blog.naver.com/kbj7107_",
       "category": "한식>주꾸미요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 155 1층 113호",
-      "roadAddress": "서울특별시 중구 남대문로9길 40 1층 113호",
-      "mapx": "1269804939",
-      "mapy": "375672094"
-    },
-    {
-      "title": "전주다대기",
-      "link": "https://app.catchtable.co.kr/ct/shop/jeon_ju_dadeagi",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-14 1층 102호",
-      "roadAddress": "서울특별시 중구 세종대로11길 42 1층 102호",
-      "mapx": "1269736157",
-      "mapy": "375621806"
+      "address": "서울특별시 중구 북창동 11-4 1층",
+      "roadAddress": "서울특별시 중구 세종대로18길 16-5 1층",
+      "mapx": "1269782218",
+      "mapy": "375636020"
     }
   ]
 }

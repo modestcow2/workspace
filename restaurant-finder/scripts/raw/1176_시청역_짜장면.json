@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:20 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375696647"
     },
     {
-      "title": "복성각 덕수궁점",
-      "link": "https://www.instagram.com/boksung_meal",
+      "title": "복운각",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
       "address": "서울특별시 중구 태평로2가 366-1 오천회관빌딩 2층",
       "roadAddress": "서울특별시 중구 덕수궁길 7 오천회관빌딩 2층",
-      "mapx": "1269763352",
-      "mapy": "375646727"
+      "mapx": "1269763164",
+      "mapy": "375646653"
     },
     {
       "title": "더퍼스트 서래향 시청점",
@@ -38,26 +38,26 @@
       "mapy": "375613479"
     },
     {
-      "title": "원흥",
+      "title": "태양 시청점",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 92",
-      "roadAddress": "서울특별시 중구 다동길 46",
-      "mapx": "1269819007",
-      "mapy": "375678937"
+      "address": "서울특별시 중구 태평로2가 69-6 1,2층",
+      "roadAddress": "서울특별시 중구 세종대로 72-1 1,2층",
+      "mapx": "1269767160",
+      "mapy": "375625630"
     },
     {
-      "title": "진아춘 광화문점",
-      "link": "",
+      "title": "행화촌",
+      "link": "http://henghwachon.cityfood.co.kr/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
-      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
-      "mapx": "1269748850",
-      "mapy": "375697325"
+      "address": "서울특별시 중구 명동2가 107-1",
+      "roadAddress": "서울특별시 중구 남대문로 52-5",
+      "mapx": "1269817245",
+      "mapy": "375621053"
     }
   ]
 }

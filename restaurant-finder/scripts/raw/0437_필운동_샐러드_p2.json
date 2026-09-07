@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:34 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375752529"
     },
     {
+      "title": "세이지핀치",
+      "link": "http://instagram.com/_sagefinch",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 82-1 1층 sagefinch",
+      "roadAddress": "서울특별시 종로구 필운대로1길 8 1층 sagefinch",
+      "mapx": "1269689774",
+      "mapy": "375774485"
+    },
+    {
       "title": "와인슈타인",
       "link": "",
       "category": "음식점>카페,디저트",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 필운대로 9-2 301(3층)",
       "mapx": "1269691223",
       "mapy": "375771482"
-    },
-    {
-      "title": "클로셰",
-      "link": "",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 167-1 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 14 1층",
-      "mapx": "1269695034",
-      "mapy": "375774429"
     },
     {
       "title": "더샌드위치",

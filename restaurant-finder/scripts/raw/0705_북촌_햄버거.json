@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:40 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
       "mapx": "1269845845",
       "mapy": "375765164"
-    },
-    {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
     },
     {
       "title": "다운타우너 안국",
@@ -50,7 +39,7 @@
     },
     {
       "title": "미트볼라운지 X 아날로그키친 삼청점",
-      "link": "https://app.catchtable.co.kr/ct/shop/meatball_lounge_sj",
+      "link": "http://www.instagram.com/meatball_lounge",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
       "mapx": "1269816796",
       "mapy": "375833417"
+    },
+    {
+      "title": "베이킹 도우",
+      "link": "http://www.facebook.com/burgerbang156",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 원서동 156 창덕궁길 29",
+      "roadAddress": "서울특별시 종로구 창덕궁길 29 창덕궁길 29",
+      "mapx": "1269890960",
+      "mapy": "375788406"
     }
   ]
 }

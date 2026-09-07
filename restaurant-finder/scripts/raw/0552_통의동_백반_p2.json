@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:28 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375764071"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
+      "title": "종로반상회",
+      "link": "https://blog.naver.com/taekdaeri",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
+      "address": "서울특별시 종로구 관철동 260",
+      "roadAddress": "서울특별시 종로구 우정국로2길 8",
+      "mapx": "1269834885",
+      "mapy": "375694910"
     },
     {
-      "title": "전주풍남회관",
+      "title": "정독도서관 구내식당",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
+      "address": "서울특별시 종로구 화동 2",
+      "roadAddress": "서울특별시 종로구 북촌로5길 48",
+      "mapx": "1269838671",
+      "mapy": "375811536"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:31 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375699683"
     },
     {
-      "title": "<b>종로</b> 흥부가",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관수동 40 1층",
-      "roadAddress": "서울특별시 종로구 수표로20길 22 1층",
-      "mapx": "1269908525",
-      "mapy": "375699114"
-    },
-    {
-      "title": "인사동마늘<b>보쌈</b>",
-      "link": "https://insadonggarlicbossam.com",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-4",
-      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
-      "mapx": "1269861892",
-      "mapy": "375739819"
-    },
-    {
       "title": "손정<b>보쌈</b> <b>종로</b>점",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -49,15 +27,37 @@
       "mapy": "375688950"
     },
     {
-      "title": "<b>종로보쌈</b> 장군굴보쌈",
-      "link": "https://blog.naver.com/leews3313",
+      "title": "<b>종로</b> 흥부가",
+      "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관수동 40",
-      "roadAddress": "서울특별시 종로구 수표로20길 22",
-      "mapx": "1269908212",
-      "mapy": "375699147"
+      "address": "서울특별시 종로구 관수동 40 1층",
+      "roadAddress": "서울특별시 종로구 수표로20길 22 1층",
+      "mapx": "1269908525",
+      "mapy": "375699114"
+    },
+    {
+      "title": "<b>종로</b>도담",
+      "link": "https://jongnododam.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 46",
+      "roadAddress": "서울특별시 종로구 삼봉로 78",
+      "mapx": "1269813844",
+      "mapy": "375720658"
+    },
+    {
+      "title": "인사동마늘<b>보쌈</b>",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
     }
   ]
 }

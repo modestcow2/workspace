@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:58 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
       "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
-      "mapx": "1269756446",
-      "mapy": "375687260"
+      "mapx": "1269756182",
+      "mapy": "375686475"
     },
     {
       "title": "숭례도담",
@@ -39,7 +39,7 @@
     },
     {
       "title": "산채향 경희궁본점",
-      "link": "",
+      "link": "http://sanchehyang.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375708167"
     },
     {
-      "title": "종로<b>보쌈</b>",
+      "title": "조조순대 남도삼합",
       "link": "",
-      "category": "한식>족발,보쌈",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 충정로2가 124",
-      "roadAddress": "서울특별시 서대문구 충정로 73",
-      "mapx": "1269659572",
-      "mapy": "375653260"
+      "address": "서울특별시 중구 서소문동 101-1 조조순대",
+      "roadAddress": "서울특별시 중구 서소문로 134-6 조조순대",
+      "mapx": "1269759065",
+      "mapy": "375634497"
     }
   ]
 }

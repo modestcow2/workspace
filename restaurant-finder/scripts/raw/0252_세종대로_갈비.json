@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:07 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:11:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "관호 광화문점",
+      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-9 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
+      "mapx": "1269762626",
+      "mapy": "375684239"
+    },
     {
       "title": "이스트빌리지서울 광화문점",
       "link": "https://www.instagram.com/East_Village.seoul",
@@ -38,26 +49,15 @@
       "mapy": "375684009"
     },
     {
-      "title": "서경한우 남대문 장터본가점",
-      "link": "",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로4가 17-4 1층",
-      "roadAddress": "서울특별시 중구 세종대로 62 1층",
-      "mapx": "1269764527",
-      "mapy": "375617228"
-    },
-    {
-      "title": "관호 광화문점",
-      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
+      "title": "퇴근집",
+      "link": "https://www.youtube.com/@Egg.xactly",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-9 2층",
-      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
-      "mapx": "1269762626",
-      "mapy": "375684239"
+      "address": "서울특별시 종로구 공평동 125-1 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 98 1층",
+      "mapx": "1269825847",
+      "mapy": "375719457"
     }
   ]
 }

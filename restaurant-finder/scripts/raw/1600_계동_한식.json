@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:39 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "애호락 안국본점",
-      "link": "",
+      "link": "https://www.instagram.com/aehorock",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 창덕궁1길 38 진작카키 안국점",
       "mapx": "1269871165",
       "mapy": "375794798"
+    },
+    {
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
       "title": "정담은보쌈 북촌점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 창덕궁1길 32-1 1층",
       "mapx": "1269875023",
       "mapy": "375794104"
-    },
-    {
-      "title": "꽃밥에피다 북촌 친환경 그로서란트",
-      "link": "https://smartstore.naver.com/goodbab7",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 가회동 170-4 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
-      "mapx": "1269847797",
-      "mapy": "375802375"
     }
   ]
 }

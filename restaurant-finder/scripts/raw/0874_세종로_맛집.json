@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:58 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:18:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,37 +27,37 @@
       "mapy": "375721535"
     },
     {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
+      "title": "키보아츠아츠 광화문",
+      "link": "https://www.instagram.com/keebo.co",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 West동 지하1층 B108-1호",
       "mapx": "1269778819",
       "mapy": "375721535"
     },
     {
-      "title": "파이프그라운드 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/pipeground_gwanghwamun",
-      "category": "음식점>양식",
+      "title": "덴푸라감춘 광화문",
+      "link": "https://blog.naver.com/tenpuragamchun",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "address": "서울특별시 종로구 세종로 100 비108호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 비108호",
       "mapx": "1269778819",
       "mapy": "375721535"
     },
     {
-      "title": "오츠커피 광화문",
-      "link": "https://smartstore.naver.com/oatscoffee",
-      "category": "음식점>카페,디저트",
+      "title": "난포 광화문",
+      "link": "https://www.instagram.com/nanpo_official/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 2층 213-2호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 2층 213-2호",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 세종로 100 지층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지층",
+      "mapx": "1269780095",
+      "mapy": "375719377"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:46 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375637687"
     },
     {
+      "title": "100조맥주 <b>시청</b>점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-3 1층",
+      "roadAddress": "서울특별시 중구 남대문로1길 49 1층",
+      "mapx": "1269773608",
+      "mapy": "375632918"
+    },
+    {
       "title": "시티호프<b>치킨</b>",
       "link": "https://www.instagram.com/city_hof_chicken_1992",
       "category": "술집>맥주,호프",
@@ -38,26 +49,15 @@
       "mapy": "375622533"
     },
     {
-      "title": "누구나홀딱반한닭 <b>시청</b>역점",
-      "link": "https://www.instagram.com/nuguna_banhandak",
+      "title": "요기어때 성남<b>시청</b>점",
+      "link": "https://www.instagram.com/yunsongi40",
       "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-12",
-      "roadAddress": "서울특별시 중구 세종대로11길 30",
-      "mapx": "1269742920",
-      "mapy": "375622975"
-    },
-    {
-      "title": "100조맥주 <b>시청</b>점",
-      "link": "",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 68-3 1층",
-      "roadAddress": "서울특별시 중구 남대문로1길 49 1층",
-      "mapx": "1269773608",
-      "mapy": "375632918"
+      "address": "경기도 성남시 중원구 여수동 213 일부1층 103호",
+      "roadAddress": "경기도 성남시 중원구 성남대로997번길 25-11 일부1층 103호",
+      "mapx": "1271264327",
+      "mapy": "374181675"
     }
   ]
 }

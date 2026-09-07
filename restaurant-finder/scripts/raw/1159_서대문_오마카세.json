@@ -1,19 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:12 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "하늘초밥",
-      "link": "http://instagram.com/sorasky0616",
+      "title": "여우골초밥 신촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-11",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
+      "mapx": "1269349900",
+      "mapy": "375564975"
+    },
+    {
+      "title": "<b>오마카세</b> 오사이초밥 신촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sinchon?from=share&type=DINING",
       "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 45-17 1층 하늘초밥",
-      "roadAddress": "서울특별시 서대문구 이화여대2길 14 1층 하늘초밥",
-      "mapx": "1269467199",
-      "mapy": "375573422"
+      "address": "서울특별시 서대문구 창천동 57-25 4층",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 10 4층",
+      "mapx": "1269357319",
+      "mapy": "375570347"
     },
     {
       "title": "스에히로",
@@ -27,26 +38,15 @@
       "mapy": "375805203"
     },
     {
-      "title": "여우골초밥 신촌점",
+      "title": "신 부산스시",
       "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 62-11",
-      "roadAddress": "서울특별시 서대문구 연세로5다길 10",
-      "mapx": "1269349900",
-      "mapy": "375564975"
-    },
-    {
-      "title": "미동식당",
-      "link": "",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 미근동 215 서소문아파트 1층 6호",
-      "roadAddress": "서울특별시 서대문구 충정로6길 59 서소문아파트 1층 6호",
-      "mapx": "1269682141",
-      "mapy": "375629827"
+      "address": "서울특별시 서대문구 남가좌동 347-13 1층",
+      "roadAddress": "서울특별시 서대문구 가재울로12길 40 1층",
+      "mapx": "1269224103",
+      "mapy": "375772302"
     },
     {
       "title": "스미스미",

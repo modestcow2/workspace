@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:20 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,28 @@
       "mapy": "375661358"
     },
     {
+      "title": "더랜치브루잉 <b>을지로</b>3가점",
+      "link": "http://www.facebook.com/therancheuljiro",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 320 시어소호텔 1층 더랜치브루잉",
+      "roadAddress": "서울특별시 중구 을지로12길 11 시어소호텔 1층 더랜치브루잉",
+      "mapx": "1269911903",
+      "mapy": "375656314"
+    },
+    {
+      "title": "맥파이 <b>을지로</b>점",
+      "link": "https://www.facebook.com/magpiebrewingcompany",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 118-6 4층",
+      "roadAddress": "서울특별시 중구 을지로 127 4층",
+      "mapx": "1269920640",
+      "mapy": "375665014"
+    },
+    {
       "title": "20 어클락 모먼트",
       "link": "https://www.instagram.com/twenty_moment/",
       "category": "음식점>양식",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 창경궁로5길 5 은희네해장국 건물 2층 20어클락모먼트",
       "mapx": "1269977467",
       "mapy": "375670765"
-    },
-    {
-      "title": "레코드<b>피자</b> <b>을지로</b>3가점",
-      "link": "https://www.instagram.com/recordpizza_euljiro3",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 342-2 1층 레코드피자 점",
-      "roadAddress": "서울특별시 중구 을지로 114-2 1층 레코드피자 을지로3가점",
-      "mapx": "1269905889",
-      "mapy": "375660514"
-    },
-    {
-      "title": "라칸티나",
-      "link": "",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
-      "mapx": "1269800349",
-      "mapy": "375662396"
     }
   ]
 }

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:44 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "광화문나폴리 종각직영점",
+      "link": "https://blog.naver.com/gwanghwamun_napoli",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 205호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 205호",
+      "mapx": "1269824621",
+      "mapy": "375726226"
+    },
     {
       "title": "익선취향",
       "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
@@ -23,19 +34,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 권농동 189-2 2층",
       "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
-      "mapx": "1269921258",
-      "mapy": "375742436"
-    },
-    {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
+      "mapx": "1269921439",
+      "mapy": "375742047"
     },
     {
       "title": "콩카세 안국",
@@ -49,15 +49,15 @@
       "mapy": "375781862"
     },
     {
-      "title": "오늘그대와 익선",
-      "link": "https://app.catchtable.co.kr/ct/shop/todaywithyou",
-      "category": "이탈리아음식>스파게티,파스타전문",
+      "title": "심퍼티쿠시 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-48 1층 오늘그대와익선",
-      "roadAddress": "서울특별시 종로구 수표로28길 21-11 1층 오늘그대와익선",
-      "mapx": "1269897142",
-      "mapy": "375733855"
+      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
+      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
+      "mapx": "1269806761",
+      "mapy": "375755559"
     }
   ]
 }

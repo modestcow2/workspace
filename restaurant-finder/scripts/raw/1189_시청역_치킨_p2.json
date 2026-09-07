@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:27 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "레츠펍 시청점",
+      "link": "https://www.instagram.com/letspub_official",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 68-4 레츠펍",
+      "roadAddress": "서울특별시 중구 남대문로1길 47 레츠펍",
+      "mapx": "1269773060",
+      "mapy": "375631980"
+    },
     {
       "title": "북창<b>치킨</b> 서울시청본점",
       "link": "https://blog.naver.com/j03c",
@@ -27,37 +38,26 @@
       "mapy": "375677406"
     },
     {
-      "title": "레츠펍 시청점",
-      "link": "https://www.instagram.com/letspub_official",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 68-4 레츠펍",
-      "roadAddress": "서울특별시 중구 남대문로1길 47 레츠펍",
-      "mapx": "1269773060",
-      "mapy": "375631980"
-    },
-    {
-      "title": "JH텍사스바",
-      "link": "https://www.instagram.com/jhtexasbar_official",
+      "title": "국민맥주 북창점",
+      "link": "https://www.instagram.com/kookminbeer_bukchang1?igsh=ajV3Z2NxcjhvNHVq",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 1 효령빌딩 1층",
-      "roadAddress": "서울특별시 중구 무교로 32 효령빌딩 1층",
-      "mapx": "1269795080",
-      "mapy": "375688120"
+      "address": "서울특별시 중구 북창동 18-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 46",
+      "mapx": "1269774705",
+      "mapy": "375631508"
     },
     {
-      "title": "경성<b>치킨</b> 광화문스퀘어점",
+      "title": "무교광장호프",
       "link": "",
-      "category": "음식점>치킨,닭강정",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 135-2",
-      "roadAddress": "서울특별시 종로구 새문안로 96",
-      "mapx": "1269754434",
-      "mapy": "375699667"
+      "address": "서울특별시 중구 다동 169 1층",
+      "roadAddress": "서울특별시 중구 다동길 18 1층",
+      "mapx": "1269803226",
+      "mapy": "375676737"
     }
   ]
 }

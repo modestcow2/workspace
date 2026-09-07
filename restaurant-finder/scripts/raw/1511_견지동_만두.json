@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:57 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "이가네 종각점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 대성 스카이렉스 1117호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 대성 스카이렉스 1117호",
-      "mapx": "1269827899",
-      "mapy": "375722724"
-    },
     {
       "title": "삼봉도담",
       "link": "https://sambongdodam.com",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
       "mapx": "1269825289",
       "mapy": "375729806"
+    },
+    {
+      "title": "이가네 종각점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 대성 스카이렉스 1117호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 대성 스카이렉스 1117호",
+      "mapx": "1269827899",
+      "mapy": "375722724"
     },
     {
       "title": "만리장성",
@@ -38,26 +38,26 @@
       "mapy": "375728415"
     },
     {
-      "title": "명동교자 본점",
-      "link": "http://www.mdkj.co.kr/",
+      "title": "종가<b>만두</b>",
+      "link": "https://blog.naver.com/sgjongro55",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 25-2",
-      "roadAddress": "서울특별시 중구 명동10길 29",
-      "mapx": "1269856025",
-      "mapy": "375625491"
+      "address": "서울특별시 종로구 관수동 145-1 1층 종가만두",
+      "roadAddress": "서울특별시 종로구 수표로 88 1층 종가만두",
+      "mapx": "1269896787",
+      "mapy": "375689062"
     },
     {
-      "title": "잘빠진메밀 서순라길점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "title": "깡통<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 묘동 3-1 잘빠진메밀 서순라길점",
-      "roadAddress": "서울특별시 종로구 율곡로8길 73 잘빠진메밀 서순라길점",
-      "mapx": "1269915043",
-      "mapy": "375740448"
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
     }
   ]
 }

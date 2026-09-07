@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:49 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,19 +38,8 @@
       "mapy": "375622803"
     },
     {
-      "title": "보승회관 <b>시청</b>점",
-      "link": "https://www.boseunghall.com/",
-      "category": "음식점>한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 70-2",
-      "roadAddress": "서울특별시 중구 세종대로 66",
-      "mapx": "1269765651",
-      "mapy": "375621823"
-    },
-    {
       "title": "제주은희네<b>해장국</b> 인천<b>시청</b>점",
-      "link": "",
+      "link": "https://eunhee-cityhall.com/",
       "category": "한식>해장국",
       "description": "",
       "telephone": "",
@@ -58,6 +47,17 @@
       "roadAddress": "인천광역시 남동구 예술로192번길 39 우신빌딩 1층",
       "mapx": "1267036061",
       "mapy": "374511750"
+    },
+    {
+      "title": "수누리 감자탕 인천<b>시청</b>점",
+      "link": "https://www.instagram.com/sunuri2017",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 남동구 구월동 1142-17 파티마오피스텔 1층",
+      "roadAddress": "인천광역시 남동구 구월남로 146 파티마오피스텔 1층",
+      "mapx": "1267057043",
+      "mapy": "374529795"
     }
   ]
 }

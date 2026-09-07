@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:58 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
       "mapx": "1269725749",
       "mapy": "375825416"
-    },
-    {
-      "title": "덕이나루",
-      "link": "https://instagram.com/duginaru",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 27 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 65-6 1층",
-      "mapx": "1269688873",
-      "mapy": "375800240"
     },
     {
       "title": "서촌가락",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 16",
       "mapx": "1269715263",
       "mapy": "375765394"
+    },
+    {
+      "title": "명동<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-7 1층 명동칼국수",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
+      "mapx": "1269759250",
+      "mapy": "375686250"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:36 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375771878"
     },
     {
-      "title": "경복궁식당",
-      "link": "https://www.minarikorea.com/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 211 지하1층",
-      "roadAddress": "서울특별시 종로구 사직로 101 지하1층",
-      "mapx": "1269701158",
-      "mapy": "375762596"
-    },
-    {
       "title": "돌밭 메밀꽃",
       "link": "",
       "category": "한식>국수",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 효자로 31-1",
       "mapx": "1269737000",
       "mapy": "375788863"
+    },
+    {
+      "title": "경복궁식당",
+      "link": "https://www.minarikorea.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 211 지하1층",
+      "roadAddress": "서울특별시 종로구 사직로 101 지하1층",
+      "mapx": "1269701158",
+      "mapy": "375762596"
     }
   ]
 }

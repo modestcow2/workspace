@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:40 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375729551"
     },
     {
+      "title": "대성도가니탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 70 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 54 1층",
+      "mapx": "1269619676",
+      "mapy": "375699326"
+    },
+    {
       "title": "석교식당",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 서대문구 통일로 185",
       "mapx": "1269622884",
       "mapy": "375700014"
-    },
-    {
-      "title": "조선순대국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 영천동 70-4 1층, 102호",
-      "roadAddress": "서울특별시 서대문구 영천시장길 32 1층, 102호",
-      "mapx": "1269610565",
-      "mapy": "375706159"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:18 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375727026"
     },
     {
+      "title": "카츠쇼신 종각역센트로폴리스점",
+      "link": "https://www.instagram.com/katsu_shoshin?igsh=a2hhbXhqdWx2ZHQx",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 B201호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 B201호",
+      "mapx": "1269836590",
+      "mapy": "375714967"
+    },
+    {
       "title": "니르바나",
       "link": "http://nirvanaseoul.com",
       "category": "음식점>인도음식",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 인사동길 58 2층",
       "mapx": "1269837847",
       "mapy": "375751361"
-    },
-    {
-      "title": "힛더밥",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 1층 109호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 109호",
-      "mapx": "1269827936",
-      "mapy": "375723129"
     },
     {
       "title": "코코이찌방야 종로타워점",

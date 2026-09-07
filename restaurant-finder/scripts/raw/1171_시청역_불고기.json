@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:18 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375671396"
     },
     {
-      "title": "대보정 서울<b>시청역</b>점",
-      "link": "https://www.instagram.com/daebojung/",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
-      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
-      "mapx": "1269730165",
-      "mapy": "375613584"
-    },
-    {
-      "title": "모담다이닝 광화문점",
-      "link": "",
+      "title": "한가람 본점",
+      "link": "http://www.hangaramfood.co.kr/",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
-      "mapx": "1269720468",
-      "mapy": "375687024"
+      "address": "서울특별시 중구 북창동 93-35",
+      "roadAddress": "서울특별시 중구 남대문로5길 25",
+      "mapx": "1269789529",
+      "mapy": "375625240"
     },
     {
       "title": "오징어풍경 무교동점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 1층",
       "mapx": "1269797337",
       "mapy": "375680954"
+    },
+    {
+      "title": "애성회관한우곰탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 93-36 세창빌딩 1층",
+      "roadAddress": "서울특별시 중구 남대문로5길 23 세창빌딩 1층",
+      "mapx": "1269789891",
+      "mapy": "375624396"
     }
   ]
 }

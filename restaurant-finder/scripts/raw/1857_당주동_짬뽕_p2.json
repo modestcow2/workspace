@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:38 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375714159"
     },
     {
-      "title": "상인정신",
-      "link": "https://app.catchtable.co.kr/ct/shop/sang_in_jeongshin",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 41 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11-1 2층",
-      "mapx": "1269747172",
-      "mapy": "375712892"
-    },
-    {
       "title": "일일향 광화문",
       "link": "https://blog.naver.com/11hyang14",
       "category": "음식점>중식당",
@@ -49,15 +38,26 @@
       "mapy": "375718151"
     },
     {
-      "title": "혼미 광화문점",
-      "link": "https://www.honmi.kr",
-      "category": "술집>이자카야",
+      "title": "상인정신",
+      "link": "https://app.catchtable.co.kr/ct/shop/sang_in_jeongshin",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 43 2층 혼미 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로5길 12 2층 혼미 광화문점",
-      "mapx": "1269749938",
-      "mapy": "375713800"
+      "address": "서울특별시 종로구 당주동 41 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-1 2층",
+      "mapx": "1269747172",
+      "mapy": "375712892"
+    },
+    {
+      "title": "사직터널 그집",
+      "link": "https://www.instagram.com/gjib0408",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-16 한옥 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-12 한옥 1층",
+      "mapx": "1269649127",
+      "mapy": "375736159"
     }
   ]
 }

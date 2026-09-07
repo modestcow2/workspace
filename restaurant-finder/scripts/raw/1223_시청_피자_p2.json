@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:43 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -34,19 +34,8 @@
       "telephone": "",
       "address": "경기도 부천시 원미구 중동 1158-2 106호 ,107호",
       "roadAddress": "경기도 부천시 원미구 석천로184번길 16 106호 ,107호",
-      "mapx": "1267636706",
-      "mapy": "375036119"
-    },
-    {
-      "title": "노모어<b>피자</b> 서울<b>시청</b>점",
-      "link": "https://www.instagram.com/nomorepizza_official_",
-      "category": "음식점>양식>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 24-2 휘닉스빌딩 289",
-      "roadAddress": "서울특별시 중구 무교로 13 휘닉스빌딩 289",
-      "mapx": "1269790503",
-      "mapy": "375671361"
+      "mapx": "1267636816",
+      "mapy": "375035453"
     },
     {
       "title": "아워킬리바 덕수궁점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 102동 L120호",
       "mapx": "1269702356",
       "mapy": "375638607"
+    },
+    {
+      "title": "노모어<b>피자</b> 서울<b>시청</b>점",
+      "link": "https://www.instagram.com/nomorepizza.kr",
+      "category": "음식점>양식>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 24-2 휘닉스빌딩 289",
+      "roadAddress": "서울특별시 중구 무교로 13 휘닉스빌딩 289",
+      "mapx": "1269790503",
+      "mapy": "375671361"
     }
   ]
 }

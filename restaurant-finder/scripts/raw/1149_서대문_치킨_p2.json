@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:08 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 서대문구 창천동 53-94 1층",
       "roadAddress": "서울특별시 서대문구 연세로7안길 34-7 1층",
-      "mapx": "1269348463",
-      "mapy": "375584725"
+      "mapx": "1269348764",
+      "mapy": "375584292"
     },
     {
       "title": "브릭스5221맥주 신촌점",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 서대문구 연세로9길 10-3",
       "mapx": "1269362769",
       "mapy": "375587526"
-    },
-    {
-      "title": "수지상회 신촌점",
-      "link": "https://www.instagram.com/suji.store.sc",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 57-45 2층",
-      "roadAddress": "서울특별시 서대문구 연세로7길 13 2층",
-      "mapx": "1269360266",
-      "mapy": "375576071"
     },
     {
       "title": "네오<b>치킨</b> 신촌점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 세무서7길 13",
       "mapx": "1269460886",
       "mapy": "375914939"
+    },
+    {
+      "title": "수지상회 신촌점",
+      "link": "https://www.instagram.com/suji.store.sc",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-45 2층",
+      "roadAddress": "서울특별시 서대문구 연세로7길 13 2층",
+      "mapx": "1269360266",
+      "mapy": "375576071"
     }
   ]
 }

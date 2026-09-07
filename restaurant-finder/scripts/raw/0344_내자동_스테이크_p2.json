@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:50 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375752478"
     },
     {
+      "title": "아트만",
+      "link": "http://instagram.com/atman_seoul",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 101 아트만",
+      "roadAddress": "서울특별시 종로구 사직로12길 11 아트만",
+      "mapx": "1269710581",
+      "mapy": "375755031"
+    },
+    {
       "title": "오빈스",
       "link": "https://www.instagram.com/obins1000",
       "category": "음식점>이탈리아음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로 115",
       "mapx": "1269714822",
       "mapy": "375762373"
-    },
-    {
-      "title": "소박한집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 지하1층 124호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 지하1층 124호",
-      "mapx": "1269686008",
-      "mapy": "375744035"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:54 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:11:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765164"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
-    {
       "title": "버거드조선",
       "link": "http://www.instagram.com/burger_de_joseon",
       "category": "음식점>햄버거",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
       "mapx": "1269810897",
       "mapy": "375646669"
+    },
+    {
+      "title": "위트앤미트 서울역점",
+      "link": "https://litt.ly/wheat.n.meat",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 로비층 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 로비층 106호",
+      "mapx": "1269744164",
+      "mapy": "375575333"
     }
   ]
 }

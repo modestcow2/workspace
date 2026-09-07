@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:21 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "샤브가든 <b>종로</b>타워점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
-      "mapx": "1269836385",
-      "mapy": "375707534"
-    },
     {
       "title": "솔솥 <b>종로</b>타워점",
       "link": "https://app.catchtable.co.kr/ct/shop/Solsotpotricehouse",
@@ -27,15 +16,26 @@
       "mapy": "375707034"
     },
     {
-      "title": "애슐리퀸즈 종각역점",
-      "link": "https://www.instagram.com/your_ashley",
-      "category": "음식점>패밀리레스토랑",
+      "title": "프로티너 종각역점",
+      "link": "https://www.instagram.com/proteiner.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
-      "mapx": "1269836843",
-      "mapy": "375705758"
+      "address": "서울특별시 종로구 종로2가 11 1층, 2층",
+      "roadAddress": "서울특별시 종로구 종로 75-1 1층, 2층",
+      "mapx": "1269858486",
+      "mapy": "375703861"
+    },
+    {
+      "title": "곤트란쉐리에 <b>종로</b>타워점",
+      "link": "https://www.instagram.com/gontran_jongro/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 종로타워 1층",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 1층",
+      "mapx": "1269838845",
+      "mapy": "375706318"
     },
     {
       "title": "한양중식 <b>종로</b>점",
@@ -49,15 +49,15 @@
       "mapy": "375706386"
     },
     {
-      "title": "스타벅스 <b>종로</b>R점",
-      "link": "http://www.starbucks.co.kr/",
-      "category": "카페,디저트>카페",
+      "title": "반궁 종각역점",
+      "link": "https://bangoong.kr/",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6",
-      "roadAddress": "서울특별시 종로구 종로 51 (종로2가)",
-      "mapx": "1269834000",
-      "mapy": "375708000"
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B202, 202-1, 214호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B202, 202-1, 214호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
     }
   ]
 }

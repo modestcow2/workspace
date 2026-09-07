@@ -1,19 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:39 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "스미스가좋아하는한옥",
-      "link": "https://www.instagram.com/smith_hanok",
-      "category": "음식점>이탈리아음식",
+      "title": "로우파이브 안국",
+      "link": "https://www.instagram.com/lowfive_club",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사간동 62-1",
-      "roadAddress": "서울특별시 종로구 삼청로 22-7",
-      "mapx": "1269801792",
-      "mapy": "375779378"
+      "address": "서울특별시 종로구 재동 60 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
+      "mapx": "1269855733",
+      "mapy": "375786322"
+    },
+    {
+      "title": "미트볼라운지 X 아날로그키친 삼청점",
+      "link": "http://www.instagram.com/meatball_lounge",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 팔판동 27-5 미트볼라운지x아날로그키친 삼청점",
+      "roadAddress": "서울특별시 종로구 삼청로 89 미트볼라운지x아날로그키친 삼청점",
+      "mapx": "1269816796",
+      "mapy": "375833417"
     },
     {
       "title": "대장장이화덕피자",
@@ -27,28 +38,6 @@
       "mapy": "375805827"
     },
     {
-      "title": "계동피자",
-      "link": "https://youtube.com/@kindk7985",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 82-1 1층 피자",
-      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
-      "mapx": "1269866587",
-      "mapy": "375801802"
-    },
-    {
-      "title": "로우파이브 안국",
-      "link": "https://www.instagram.com/lowfive_club",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 60 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 20-3 1층",
-      "mapx": "1269855733",
-      "mapy": "375786322"
-    },
-    {
       "title": "비움안국",
       "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
       "category": "음식점>양식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
       "mapx": "1269856635",
       "mapy": "375791098"
+    },
+    {
+      "title": "테라스 꾸까",
+      "link": "https://instagram.com/terrace_kukka?igshid=MDM4ZDc5MmU=",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-3 2층 테라스꾸까",
+      "roadAddress": "서울특별시 종로구 율곡로 1 2층 테라스꾸까",
+      "mapx": "1269797919",
+      "mapy": "375761769"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:52 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375780371"
     },
     {
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
+    },
+    {
       "title": "청수정",
       "link": "http://www.instagram.com/cheongsoojung",
       "category": "음식점>한식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 91",
       "mapx": "1269816875",
       "mapy": "375835571"
-    },
-    {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
     },
     {
       "title": "청국장밥",

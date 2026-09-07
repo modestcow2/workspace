@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:16 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375756107"
     },
     {
-      "title": "키친온유",
+      "title": "옥이네밥집포차 서촌 본점",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
+      "address": "서울특별시 종로구 통의동 67-2 2층 옥이네",
+      "roadAddress": "서울특별시 종로구 자하문로 20 2층 옥이네",
+      "mapx": "1269722820",
+      "mapy": "375779035"
     },
     {
       "title": "본죽&amp;<b>비빔밥</b>cafe 경복궁역점",
@@ -38,26 +38,26 @@
       "mapy": "375765833"
     },
     {
-      "title": "옥이네밥집포차 서촌 본점",
+      "title": "수라재",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 67-2 2층 옥이네",
-      "roadAddress": "서울특별시 종로구 자하문로 20 2층 옥이네",
-      "mapx": "1269722820",
-      "mapy": "375779035"
+      "address": "서울특별시 종로구 통의동 66 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 2층",
+      "mapx": "1269723288",
+      "mapy": "375778157"
     },
     {
-      "title": "서래미소 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
-      "category": "한식>육류,고기요리",
+      "title": "활짝핀메밀 경복궁역점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-43 3~5층",
-      "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
-      "mapx": "1269726487",
-      "mapy": "375770180"
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
     }
   ]
 }

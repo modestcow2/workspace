@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:21 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375818165"
     },
     {
-      "title": "비스트로 친친",
-      "link": "https://app.catchtable.co.kr/ct/shop/Bistro_chin_chin",
-      "category": "음식점>이탈리아음식",
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 164-8 1층 비스트로친친",
-      "roadAddress": "서울특별시 종로구 효자로13길 54 1층 비스트로친친",
-      "mapx": "1269727901",
-      "mapy": "375821688"
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735439",
+      "mapy": "375777477"
     },
     {
-      "title": "두오모",
-      "link": "https://catchtable.co.kr/duomo",
-      "category": "음식점>이탈리아음식",
+      "title": "오베르쥬",
+      "link": "https://www.instagram.com/chef.zzo",
+      "category": "음식점>스테이크,립",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 40-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로16길 5 1층",
-      "mapx": "1269715675",
-      "mapy": "375816121"
+      "address": "서울특별시 종로구 체부동 136 지층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 11 지층",
+      "mapx": "1269711749",
+      "mapy": "375776411"
     }
   ]
 }

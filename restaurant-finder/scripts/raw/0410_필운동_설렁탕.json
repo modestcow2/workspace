@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:21 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "흥진옥",
-      "link": "",
-      "category": "한식>해장국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 142-1",
-      "roadAddress": "서울특별시 종로구 종로5길 19-12",
-      "mapx": "1269802523",
-      "mapy": "375713900"
-    },
     {
       "title": "풍년옥",
       "link": "",
@@ -38,6 +27,17 @@
       "mapy": "375737740"
     },
     {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    },
+    {
       "title": "체부동잔치집 별관",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -49,15 +49,15 @@
       "mapy": "375762475"
     },
     {
-      "title": "봉피양 경복궁점",
-      "link": "http://www.bjgalbi.com",
+      "title": "청담원",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 67-2",
-      "roadAddress": "서울특별시 종로구 자하문로 20",
-      "mapx": "1269722429",
-      "mapy": "375779140"
+      "address": "서울특별시 종로구 적선동 80 지하1층 33호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
     }
   ]
 }

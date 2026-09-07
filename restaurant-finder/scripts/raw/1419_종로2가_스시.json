@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:14 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "이춘복참치 종각점",
-      "link": "https://www.instagram.com/lcbtuna_official/",
+      "link": "http://lcbtuna.co.kr/",
       "category": "음식점>한식>해물,생선요리>생선회",
       "description": "",
       "telephone": "",
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
       "mapx": "1269794820",
       "mapy": "375684296"
+    },
+    {
+      "title": "코끼리초밥 광화문점",
+      "link": "https://blog.naver.com/kokirisushi",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     },
     {
       "title": "이안초밥 안녕인사동점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
       "mapx": "1269798606",
       "mapy": "375708344"
-    },
-    {
-      "title": "코끼리초밥 광화문점",
-      "link": "https://blog.naver.com/kokirisushi",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
-      "mapx": "1269778819",
-      "mapy": "375721535"
     }
   ]
 }

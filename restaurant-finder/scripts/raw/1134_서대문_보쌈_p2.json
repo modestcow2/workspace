@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:01 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "녹원쌈밥 연희점",
-      "link": "http://pf.kakao.com/_gGnqn",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 82-3",
-      "roadAddress": "서울특별시 서대문구 연희로25길 22",
-      "mapx": "1269341598",
-      "mapy": "375725288"
-    },
     {
       "title": "박만배아리랑<b>보쌈</b> 연희점",
       "link": "",
@@ -27,26 +16,15 @@
       "mapy": "375657431"
     },
     {
-      "title": "온방샤브칼국수",
-      "link": "https://catchtable.co.kr/OnbangShabu",
+      "title": "녹원쌈밥 연희점",
+      "link": "http://pf.kakao.com/_gGnqn",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 57-9 2층 온방샤브칼국수",
-      "roadAddress": "서울특별시 서대문구 연세로5나길 6 2층 온방샤브칼국수",
-      "mapx": "1269359239",
-      "mapy": "375570074"
-    },
-    {
-      "title": "종로<b>보쌈</b>",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 충정로2가 124",
-      "roadAddress": "서울특별시 서대문구 충정로 73",
-      "mapx": "1269659572",
-      "mapy": "375653260"
+      "address": "서울특별시 서대문구 연희동 82-3",
+      "roadAddress": "서울특별시 서대문구 연희로25길 22",
+      "mapx": "1269341598",
+      "mapy": "375725288"
     },
     {
       "title": "사조미가",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 서대문구 통일로 107-39 사조빌딩 2층",
       "mapx": "1269665726",
       "mapy": "375644100"
+    },
+    {
+      "title": "양은이네 가재울뉴타운점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 390 상가동 지3층 17, 18호",
+      "roadAddress": "서울특별시 서대문구 거북골로 100 상가동 지3층 17, 18호",
+      "mapx": "1269176753",
+      "mapy": "375752317"
+    },
+    {
+      "title": "온방샤브칼국수",
+      "link": "https://catchtable.co.kr/OnbangShabu",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-9 2층 온방샤브칼국수",
+      "roadAddress": "서울특별시 서대문구 연세로5나길 6 2층 온방샤브칼국수",
+      "mapx": "1269359240",
+      "mapy": "375570332"
     }
   ]
 }

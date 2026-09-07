@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:25 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
       "mapx": "1269813635",
       "mapy": "375730606"
-    },
-    {
-      "title": "스시미치루",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
-      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
-      "mapx": "1269789959",
-      "mapy": "375739044"
     },
     {
       "title": "VIP참치 종로구청점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 종로5길 58 석탄회관 지하1층",
       "mapx": "1269805012",
       "mapy": "375728786"
+    },
+    {
+      "title": "스시미치루",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
+      "mapx": "1269789959",
+      "mapy": "375739044"
     },
     {
       "title": "스시우미 광화문",

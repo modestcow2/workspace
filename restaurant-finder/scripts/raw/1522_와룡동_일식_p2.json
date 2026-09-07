@@ -1,11 +1,22 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:02 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "돈까스앤우찌",
+      "title": "푸노야 서순라점",
+      "link": "https://www.instagram.com/purring_seoul",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 171-1",
+      "roadAddress": "서울특별시 종로구 돈화문로 67",
+      "mapx": "1269907637",
+      "mapy": "375745114"
+    },
+    {
+      "title": "돈우찌",
       "link": "",
       "category": "음식점>일식>돈가스",
       "description": "",
@@ -39,25 +50,14 @@
     },
     {
       "title": "메종 아카이 혜화본점",
-      "link": "https://www.instagram.com/maison.akai/",
+      "link": "https://www.instagram.com/maison_akai_",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 명륜2가 181 2층",
       "roadAddress": "서울특별시 종로구 대명길 34 2층",
-      "mapx": "1269996390",
-      "mapy": "375832180"
-    },
-    {
-      "title": "동해도 광화문점",
-      "link": "https://www.instagram.com/donghaedo1987",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
-      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
-      "mapx": "1269794820",
-      "mapy": "375684296"
+      "mapx": "1269996686",
+      "mapy": "375832223"
     }
   ]
 }

@@ -1,30 +1,41 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:30 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:27:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "교촌<b>치킨</b> 안국점",
-      "link": "https://m.kyochon.com/",
+      "title": "꼬꼬잭<b>치킨</b> 광화문본점",
+      "link": "https://cocojack.co.kr/?sort=TIME",
       "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 화동 138-7",
-      "roadAddress": "서울특별시 종로구 북촌로5길 43",
-      "mapx": "1269825655",
-      "mapy": "375793487"
+      "address": "서울특별시 종로구 당주동 168 1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-27 1층",
+      "mapx": "1269746290",
+      "mapy": "375710047"
     },
     {
-      "title": "몽롱",
-      "link": "http://instagram.com/monglong_jongno",
+      "title": "왕초바베큐 종로점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-16 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 46 1층",
+      "mapx": "1269849531",
+      "mapy": "375692916"
+    },
+    {
+      "title": "수도원의 비밀 저장고",
+      "link": "https://www.instagram.com/monks_secret_cellar",
       "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 19-14 1~4층 몽롱",
-      "roadAddress": "서울특별시 종로구 삼일대로17길 42-1 1~4층 몽롱",
-      "mapx": "1269850798",
-      "mapy": "375693668"
+      "address": "서울특별시 종로구 관철동 175 지하1층",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 47-1 지하1층",
+      "mapx": "1269849246",
+      "mapy": "375690871"
     },
     {
       "title": "경성<b>치킨</b> 본점",
@@ -38,26 +49,15 @@
       "mapy": "375752174"
     },
     {
-      "title": "서울88맥주 본점",
-      "link": "https://www.instagram.com/seoul_88_beer_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 묘동 100 1층 서울88맥주",
-      "roadAddress": "서울특별시 종로구 율곡로8길 102 1층 서울88맥주",
-      "mapx": "1269916610",
-      "mapy": "375727672"
-    },
-    {
-      "title": "금성슈퍼 광화문본점",
+      "title": "재동맥주",
       "link": "",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 7-5 금성슈퍼 광화문본점 1F",
-      "roadAddress": "서울특별시 종로구 새문안로9길 9 금성슈퍼 광화문본점 1F",
-      "mapx": "1269759933",
-      "mapy": "375706901"
+      "address": "서울특별시 종로구 재동 45-2",
+      "roadAddress": "서울특별시 종로구 북촌로4길 4",
+      "mapx": "1269854916",
+      "mapy": "375790413"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:58 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375726226"
     },
     {
+      "title": "멘츠루 종로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/mentsurujn",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 111호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 111호",
+      "mapx": "1269827990",
+      "mapy": "375724459"
+    },
+    {
       "title": "이문설렁탕",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -27,37 +38,26 @@
       "mapy": "375727663"
     },
     {
-      "title": "삼봉도담",
-      "link": "https://sambongdodam.com",
-      "category": "한식>칼국수,만두",
+      "title": "호앙비엣 종각역점",
+      "link": "https://hoang-viet.com/",
+      "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-34 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
-      "mapx": "1269825289",
-      "mapy": "375729806"
+      "address": "서울특별시 종로구 견지동 110-43 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 43 1층",
+      "mapx": "1269828093",
+      "mapy": "375728773"
     },
     {
-      "title": "사찰음식 전문점 발우공양",
-      "link": "http://balwoo.or.kr/",
-      "category": "한식>사찰음식",
+      "title": "태양 종각점",
+      "link": "",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 71 템플스테이 통합정보센터 5층",
-      "roadAddress": "서울특별시 종로구 우정국로 56 템플스테이 통합정보센터 5층",
-      "mapx": "1269832147",
-      "mapy": "375738365"
-    },
-    {
-      "title": "오얏카츠 인사동",
-      "link": "https://www.instagram.com/oyatt_katsu",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
-      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
-      "mapx": "1269833422",
-      "mapy": "375735368"
+      "address": "서울특별시 종로구 견지동 100 태양",
+      "roadAddress": "서울특별시 종로구 우정국로 42-2 태양",
+      "mapx": "1269833740",
+      "mapy": "375728418"
     }
   ]
 }

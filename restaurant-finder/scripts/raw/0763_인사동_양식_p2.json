@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:07 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -18,7 +18,7 @@
     {
       "title": "녁",
       "link": "https://app.catchtable.co.kr/ct/shop/nyug1",
-      "category": "음식점>양식",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 관철동 260 4층 녁",
@@ -27,37 +27,37 @@
       "mapy": "375694491"
     },
     {
-      "title": "한옥파스타",
-      "link": "https://www.facebook.com/jenny.sung.3958?mibextid=ZbWKwL",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 84-10 1층",
-      "roadAddress": "서울특별시 종로구 인사동14길 24-4 1층",
-      "mapx": "1269854686",
-      "mapy": "375747420"
-    },
-    {
-      "title": "관훈맨션",
-      "link": "https://www.instagram.com/gwanhunmansion/",
+      "title": "빅러브토마토",
+      "link": "https://www.instagram.com/biglovetomato/",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 15-2",
-      "roadAddress": "서울특별시 종로구 인사동8길 6-3",
-      "mapx": "1269859565",
-      "mapy": "375737266"
+      "address": "서울특별시 종로구 공평동 17 지하2층",
+      "roadAddress": "서울특별시 종로구 우정국로 26 지하2층",
+      "mapx": "1269836590",
+      "mapy": "375714967"
     },
     {
-      "title": "써브웨이 종로점",
-      "link": "http://www.subwaykorea.co.kr/",
-      "category": "음식점>샌드위치",
+      "title": "비스트로 가마",
+      "link": "https://app.catchtable.co.kr/ct/shop/bistrogama",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 12 통일빌딩",
-      "roadAddress": "서울특별시 종로구 종로 77 통일빌딩",
-      "mapx": "1269859535",
-      "mapy": "375704080"
+      "address": "서울특별시 종로구 관훈동 118-2 2층",
+      "roadAddress": "서울특별시 종로구 인사동길 62-5 2층",
+      "mapx": "1269838699",
+      "mapy": "375754819"
+    },
+    {
+      "title": "르브와 종로점",
+      "link": "https://blog.naver.com/human4255",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 19-11 4층 르브와",
+      "roadAddress": "서울특별시 종로구 우정국로2길 42 4층 르브와",
+      "mapx": "1269853314",
+      "mapy": "375694017"
     }
   ]
 }

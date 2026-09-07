@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:52 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "우치야",
+      "link": "https://www.instagram.com/u_chiya105",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 29-2 지상1층 101호",
+      "roadAddress": "서울특별시 종로구 사직로 105 지상1층 101호",
+      "mapx": "1269706560",
+      "mapy": "375762452"
+    },
     {
       "title": "사직동 그 가게",
       "link": "http://www.rogpa.com",
@@ -27,15 +38,15 @@
       "mapy": "375728814"
     },
     {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
-      "category": "음식점>한식",
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "시카노이에",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
       "mapx": "1269692608",
       "mapy": "375725079"
-    },
-    {
-      "title": "두르가 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/durga",
-      "category": "음식점>인도음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운1 B1",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
-      "mapx": "1269797390",
-      "mapy": "375705681"
     }
   ]
 }

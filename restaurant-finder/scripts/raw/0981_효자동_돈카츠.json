@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:50 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:19:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "누하의 숲",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 175-2 1F",
-      "roadAddress": "서울특별시 종로구 필운대로 31-1 1F",
-      "mapx": "1269687592",
-      "mapy": "375787996"
-    },
     {
       "title": "우리집",
       "link": "",
@@ -25,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 옥인길 4",
       "mapx": "1269682800",
       "mapy": "375806128"
-    },
-    {
-      "title": "설야",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 10-3",
-      "roadAddress": "서울특별시 종로구 자하문로15길 18",
-      "mapx": "1269698004",
-      "mapy": "375806420"
     },
     {
       "title": "낭만 해장국",
@@ -49,6 +27,17 @@
       "mapy": "375807246"
     },
     {
+      "title": "설야",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269698004",
+      "mapy": "375806420"
+    },
+    {
       "title": "오봉카츠",
       "link": "https://www.instagram.com/aubonkatsu",
       "category": "음식점>일식>일식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
       "mapx": "1269704883",
       "mapy": "375777902"
+    },
+    {
+      "title": "키보아츠아츠 광화문",
+      "link": "https://www.instagram.com/keebo.co",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 West동 지하1층 B108-1호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     }
   ]
 }

@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:26 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "남이<b>분식</b>",
+      "title": "경춘자의라면땡기는날",
       "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-21",
+      "roadAddress": "서울특별시 종로구 율곡로3길 82",
+      "mapx": "1269822347",
+      "mapy": "375793111"
+    },
+    {
+      "title": "자하손만두",
+      "link": "https://app.catchtable.co.kr/ct/shop/jahasonmandoo",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 245-2",
+      "roadAddress": "서울특별시 종로구 백석동길 12",
+      "mapx": "1269660928",
+      "mapy": "375932163"
+    },
+    {
+      "title": "만나<b>분식</b>",
+      "link": "https://smartstore.naver.com/mannabunsik",
       "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로5가 281-2",
-      "roadAddress": "서울특별시 종로구 종로40가길 3",
-      "mapx": "1270065350",
-      "mapy": "375701990"
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
     },
     {
-      "title": "꼬소한부뚜막 광화문광장점",
+      "title": "두끼 대학로점",
       "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-60 3층 두끼",
+      "roadAddress": "서울특별시 종로구 대학로10길 5 3층 두끼",
+      "mapx": "1270025975",
+      "mapy": "375818620"
+    },
+    {
+      "title": "도산<b>분식</b> 도산공원점",
+      "link": "https://www.dosanbunsik.com",
       "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 도렴동 150-1 1층",
-      "roadAddress": "서울특별시 종로구 세종대로23길 15 1층",
-      "mapx": "1269756633",
-      "mapy": "375715135"
-    },
-    {
-      "title": "청담동 마녀김밥 광화문점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 204-1",
-      "roadAddress": "서울특별시 종로구 새문안로 105",
-      "mapx": "1269762542",
-      "mapy": "375704544"
-    },
-    {
-      "title": "뽁 현대아울렛 동대문점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로6가 17-2 지하2층",
-      "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
-      "mapx": "1270075065",
-      "mapy": "375688780"
-    },
-    {
-      "title": "신세계떡볶이",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 10-5",
-      "roadAddress": "서울특별시 중구 명동9길 10",
-      "mapx": "1269850160",
-      "mapy": "375642992"
+      "address": "서울특별시 강남구 신사동 652-7 젤로빌딩",
+      "roadAddress": "서울특별시 강남구 도산대로49길 10-6 젤로빌딩",
+      "mapx": "1270379130",
+      "mapy": "375237122"
     }
   ]
 }

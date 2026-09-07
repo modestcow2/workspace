@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:14 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "이테르",
-      "link": "https://www.itermyeongdong.com/",
+      "title": "올리페페 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ollipepe_gwanghwamun",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 117 지하1층",
-      "roadAddress": "서울특별시 중구 남대문로5길 39 지하1층",
-      "mapx": "1269786259",
-      "mapy": "375631361"
+      "address": "서울특별시 종로구 서린동 149 2층 올리페페",
+      "roadAddress": "서울특별시 종로구 청계천로 11 2층 올리페페",
+      "mapx": "1269789879",
+      "mapy": "375694150"
     },
     {
       "title": "라칸티나",
@@ -27,15 +27,15 @@
       "mapy": "375662396"
     },
     {
-      "title": "바리에가타 명동",
-      "link": "https://www.variegata.company/",
+      "title": "핏제리아 빠드레",
+      "link": "",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
-      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
+      "address": "서울특별시 종로구 당주동 165-1 지상1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
+      "mapx": "1269741385",
+      "mapy": "375710651"
     },
     {
       "title": "디라이프스타일키친 광화문점",
@@ -49,15 +49,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "오드하우스",
-      "link": "https://www.instagram.com/odd_haus",
-      "category": "음식점>양식",
+      "title": "데일리픽스 을지로",
+      "link": "https://www.instagram.com/daily.fix.seoul?igsh=ZXRxeHUwbDE2N2E3&utm_source=qr",
+      "category": "음식점>햄버거",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
-      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
-      "mapx": "1269721868",
-      "mapy": "375662530"
+      "address": "서울특별시 중구 다동 140 1층 103호, 104호",
+      "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
+      "mapx": "1269813054",
+      "mapy": "375670949"
     }
   ]
 }

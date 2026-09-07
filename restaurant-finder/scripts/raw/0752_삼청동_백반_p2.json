@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:02 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
     {
       "title": "동백식당",
       "link": "",
@@ -38,15 +27,15 @@
       "mapy": "375811536"
     },
     {
-      "title": "삼지",
-      "link": "https://blog.naver.com/samgimoon1000",
-      "category": "음식점>한식",
+      "title": "삼청로조개칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
-      "mapx": "1269860086",
-      "mapy": "375782908"
+      "address": "서울특별시 종로구 삼청동 28-19",
+      "roadAddress": "서울특별시 종로구 삼청로 124-2",
+      "mapx": "1269819297",
+      "mapy": "375863317"
     },
     {
       "title": "순남시래기 <b>삼청동</b>점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 110-3 1층 순남시래기",
       "mapx": "1269822738",
       "mapy": "375853038"
+    },
+    {
+      "title": "다락정",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 127",
+      "roadAddress": "서울특별시 종로구 삼청로 131-1",
+      "mapx": "1269815331",
+      "mapy": "375872638"
     }
   ]
 }

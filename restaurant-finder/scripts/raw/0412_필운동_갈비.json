@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:22 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375765504"
     },
     {
-      "title": "만가",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 206",
-      "roadAddress": "서울특별시 종로구 사직로 103-19",
-      "mapx": "1269703769",
-      "mapy": "375763740"
-    },
-    {
-      "title": "서촌 곳간",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 146-1 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
-      "mapx": "1269693165",
-      "mapy": "375766924"
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688434",
+      "mapy": "375768396"
     },
     {
       "title": "우직 경복궁점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
       "mapx": "1269701780",
       "mapy": "375750298"
+    },
+    {
+      "title": "소풍 독립문역점",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-15 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
+      "mapx": "1269649269",
+      "mapy": "375737152"
     }
   ]
 }

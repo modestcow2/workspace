@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:53 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
-    },
     {
       "title": "황칠가 안국점",
       "link": "https://smartstore.naver.com/goodhealingshop",
@@ -49,15 +38,26 @@
       "mapy": "375845995"
     },
     {
-      "title": "북촌쭈꾸미",
+      "title": "북촌김치재",
       "link": "",
-      "category": "한식>주꾸미요리",
+      "category": "한식>찌개,전골",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 150 2층 북촌쭈꾸미",
-      "roadAddress": "서울특별시 종로구 율곡로3길 73-1 2층 북촌쭈꾸미",
-      "mapx": "1269820472",
-      "mapy": "375789175"
+      "address": "서울특별시 종로구 재동 84-10",
+      "roadAddress": "서울특별시 종로구 북촌로2길 8",
+      "mapx": "1269861859",
+      "mapy": "375778300"
+    },
+    {
+      "title": "신의주찹쌀순대 안국역점",
+      "link": "http://www.bigsoondae.com/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 111-1",
+      "roadAddress": "서울특별시 종로구 율곡로 59",
+      "mapx": "1269857102",
+      "mapy": "375769015"
     }
   ]
 }

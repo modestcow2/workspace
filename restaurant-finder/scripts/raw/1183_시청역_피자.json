@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:24 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "라칸티나",
-      "link": "",
-      "category": "음식점>이탈리아음식",
+      "title": "스파게티가있는풍경 광화문점",
+      "link": "https://www.instagram.com/pomodori_park",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
-      "mapx": "1269800349",
-      "mapy": "375662396"
+      "address": "서울특별시 종로구 신문로1가 1-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
+      "mapx": "1269761832",
+      "mapy": "375704933"
     }
   ]
 }

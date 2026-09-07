@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:25 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375766782"
     },
     {
-      "title": "백암박가네<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-2 백암 박가네 순대국",
-      "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
-      "mapx": "1269710531",
-      "mapy": "375791821"
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "달막달막",
+      "link": "https://dalmakdalmak.com",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-20",
+      "roadAddress": "서울특별시 종로구 인사동16길 11-1",
+      "mapx": "1269841880",
+      "mapy": "375752280"
     },
     {
       "title": "동백식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
       "mapx": "1269842899",
       "mapy": "375765173"
-    },
-    {
-      "title": "만나분식",
-      "link": "https://smartstore.naver.com/mannabunsik",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
-      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
-      "mapx": "1269691188",
-      "mapy": "375773610"
     }
   ]
 }

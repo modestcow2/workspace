@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:37 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375765504"
     },
     {
-      "title": "뚱낙원",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "활짝핀메밀 <b>경복궁역</b>점",
+      "link": "http://hjpmemil.com/",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 41-1 뚱낙원",
-      "roadAddress": "서울특별시 종로구 자하문로2길 15 뚱낙원",
-      "mapx": "1269735625",
-      "mapy": "375765667"
-    },
-    {
-      "title": "삼정하누 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
-      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
-      "mapx": "1269701780",
-      "mapy": "375750298"
+      "address": "서울특별시 종로구 통의동 109",
+      "roadAddress": "서울특별시 종로구 자하문로 38",
+      "mapx": "1269716110",
+      "mapy": "375794011"
     },
     {
       "title": "서래미소 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
       "mapx": "1269726487",
       "mapy": "375770180"
+    },
+    {
+      "title": "삼정하누 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
+      "mapx": "1269701780",
+      "mapy": "375750298"
     }
   ]
 }

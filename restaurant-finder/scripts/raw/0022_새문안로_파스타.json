@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:12 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:08:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -28,7 +28,7 @@
     },
     {
       "title": "엘 꾸비또",
-      "link": "https://www.instagram.com/el_cubito_official",
+      "link": "https://app.catchtable.co.kr/ct/shop/elcubito",
       "category": "음식점>스페인음식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375679288"
     },
     {
-      "title": "리본레시피 광화문점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "피제리아호키포키 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/pizzeriahkpk",
+      "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 지하1층 109-1호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 109-1호",
-      "mapx": "1269749335",
-      "mapy": "375697325"
+      "address": "서울특별시 종로구 신문로1가 31 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 87 1층",
+      "mapx": "1269742556",
+      "mapy": "375703509"
     }
   ]
 }

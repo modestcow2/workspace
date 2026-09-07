@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:13 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,19 @@
       "telephone": "",
       "address": "서울특별시 중구 주교동 118-1",
       "roadAddress": "서울특별시 중구 창경궁로 62-29",
-      "mapx": "1269987029",
-      "mapy": "375682697"
+      "mapx": "1269987278",
+      "mapy": "375681693"
+    },
+    {
+      "title": "유천<b>냉면</b> 해늘찹쌀순대 명동점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-46 1층",
+      "roadAddress": "서울특별시 중구 명동3길 17 1층",
+      "mapx": "1269834280",
+      "mapy": "375645166"
     },
     {
       "title": "평래옥",
@@ -38,26 +49,15 @@
       "mapy": "375661005"
     },
     {
-      "title": "강남 돼지상회 무한리필 명동직영점",
-      "link": "",
+      "title": "진진만두 시청점",
+      "link": "https://www.instagram.com/jinjin_kr/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-22 3층",
-      "roadAddress": "서울특별시 중구 명동3길 44 3층",
-      "mapx": "1269836364",
-      "mapy": "375656305"
-    },
-    {
-      "title": "유천<b>냉면</b> 해늘찹쌀순대 명동점",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-46 1층",
-      "roadAddress": "서울특별시 중구 명동3길 17 1층",
-      "mapx": "1269834280",
-      "mapy": "375645166"
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
     }
   ]
 }

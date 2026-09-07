@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:38 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375814609"
     },
     {
+      "title": "슬렁슬렁",
+      "link": "https://www.instagram.com/seulleong_naeoejuga",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 2층",
+      "mapx": "1269712004",
+      "mapy": "375815886"
+    },
+    {
       "title": "효자동밥상",
       "link": "",
       "category": "음식점>한식",
@@ -27,15 +38,15 @@
       "mapy": "375816457"
     },
     {
-      "title": "서촌 국시한그릇",
-      "link": "http://instagram.com/soechongooksi",
+      "title": "국수돈가",
+      "link": "",
       "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 옥인동 41 2층",
-      "roadAddress": "서울특별시 종로구 필운대로 61 2층",
-      "mapx": "1269683514",
-      "mapy": "375814504"
+      "address": "서울특별시 종로구 효자동 60-3",
+      "roadAddress": "서울특별시 종로구 자하문로 74-1",
+      "mapx": "1269708581",
+      "mapy": "375826499"
     },
     {
       "title": "가진화랑",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 74",
       "mapx": "1269708940",
       "mapy": "375825459"
-    },
-    {
-      "title": "국수돈가",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 60-3",
-      "roadAddress": "서울특별시 종로구 자하문로 74-1",
-      "mapx": "1269708581",
-      "mapy": "375826499"
     }
   ]
 }

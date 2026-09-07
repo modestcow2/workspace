@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:51 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "레스피레베이커리 서촌",
-      "link": "https://instagram.com/___respirer",
+      "title": "레스피레베이커리카페 서촌",
+      "link": "https://www.instagram.com/respirerbakery",
       "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
@@ -16,15 +16,26 @@
       "mapy": "375827651"
     },
     {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
+      "title": "서울집시 퍼멘테리아 서촌",
+      "link": "https://www.instagram.com/seoulgypsyfermenteria",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
+      "address": "서울특별시 종로구 효자동 25 3층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 3층",
+      "mapx": "1269711126",
+      "mapy": "375816125"
+    },
+    {
+      "title": "모아늑",
+      "link": "https://www.instagram.com/mo_aneuk?igsh=c3F4YXR1NHZpcGJ5&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층1호(계단 옆 울타리문)",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층1호(계단 옆 울타리문)",
+      "mapx": "1269711126",
+      "mapy": "375816125"
     },
     {
       "title": "더숲 초소책방",
@@ -38,19 +49,8 @@
       "mapy": "375859414"
     },
     {
-      "title": "메종드소시송",
-      "link": "https://www.instagram.com/maison_de_saucisson",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 70-1 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 82 1층",
-      "mapx": "1269706242",
-      "mapy": "375833006"
-    },
-    {
-      "title": "아키비스트",
-      "link": "http://www.instagram.com/archivistcoffee",
+      "title": "아키비스트 커피",
+      "link": "https://smartstore.naver.com/archivistcoffee",
       "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",

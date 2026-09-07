@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:22 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375786629"
     },
     {
+      "title": "심퍼티쿠시 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
+      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
+      "mapx": "1269806761",
+      "mapy": "375755559"
+    },
+    {
       "title": "푸페또클럽",
       "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
       "category": "음식점>이탈리아음식",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 50-1",
       "mapx": "1269714513",
       "mapy": "375805566"
-    },
-    {
-      "title": "마음을담아내면 점심",
-      "link": "",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
-      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
-      "mapx": "1269821145",
-      "mapy": "375791937"
     },
     {
       "title": "아델라베일리",
@@ -49,15 +49,15 @@
       "mapy": "375952438"
     },
     {
-      "title": "심퍼티쿠시 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
-      "category": "음식점>양식",
+      "title": "타펠룬데 서울",
+      "link": "https://catchtable.co.kr/tafelrunde_seoul",
+      "category": "술집>와인",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
-      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
-      "mapx": "1269805312",
-      "mapy": "375755019"
+      "address": "서울특별시 종로구 내자동 132 1층 타펠룬데 서울",
+      "roadAddress": "서울특별시 종로구 사직로 108-5 1층 타펠룬데 서울",
+      "mapx": "1269708228",
+      "mapy": "375757053"
     }
   ]
 }

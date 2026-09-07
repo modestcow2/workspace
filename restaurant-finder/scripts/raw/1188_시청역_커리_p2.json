@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:26 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "타와",
-      "link": "https://www.instagram.com/muwa__official",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
-      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
-      "mapx": "1269736520",
-      "mapy": "375634157"
-    },
     {
       "title": "오제제 광화문",
       "link": "https://www.instagram.com/ojeje.seoul",
@@ -27,6 +16,39 @@
       "mapy": "375684118"
     },
     {
+      "title": "타와",
+      "link": "https://www.instagram.com/tawa__official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
+      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
+      "title": "왕건카레 시티스퀘어 시청점",
+      "link": "https://www.instagram.com/wanggeon_curry/",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 143 지하1층 104-4호",
+      "roadAddress": "서울특별시 중구 서소문로 124 지하1층 104-4호",
+      "mapx": "1269752236",
+      "mapy": "375631062"
+    },
+    {
+      "title": "SPICE HOUSE SARI",
+      "link": "",
+      "category": "음식점>인도음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 151 더샵 B동 2층",
+      "roadAddress": "서울특별시 중구 칠패로 27 순화동더샵 B동 2층",
+      "mapx": "1269725409",
+      "mapy": "375599496"
+    },
+    {
       "title": "두르가 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/durga",
       "category": "음식점>인도음식",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운1 B1",
       "mapx": "1269797390",
       "mapy": "375705681"
-    },
-    {
-      "title": "식사",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 33-1 지하",
-      "roadAddress": "서울특별시 중구 무교로 17 지하",
-      "mapx": "1269790721",
-      "mapy": "375673841"
-    },
-    {
-      "title": "스파이스 서울",
-      "link": "https://app.catchtable.co.kr/ct/shop/sambalchoisatayclub?from=share&type=DINING",
-      "category": "음식점>아시아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 북창동 111-1 브릴란테덕수궁 1층",
-      "roadAddress": "서울특별시 중구 남대문로1길 14-1 브릴란테덕수궁 1층",
-      "mapx": "1269778725",
-      "mapy": "375617271"
     }
   ]
 }

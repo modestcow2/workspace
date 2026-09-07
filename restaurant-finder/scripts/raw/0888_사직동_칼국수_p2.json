@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:05 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:18:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375771878"
     },
     {
-      "title": "바다한가득 광화문점",
+      "title": "대봉<b>칼국수</b>보쌈",
       "link": "",
-      "category": "한식>조개요리",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 15-3 2층,3층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 29 2층,3층",
-      "mapx": "1269754598",
-      "mapy": "375714726"
+      "address": "서울특별시 종로구 내수동 74 지하 112, 113호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하 112, 113호",
+      "mapx": "1269731379",
+      "mapy": "375737740"
     },
     {
-      "title": "경복궁식당",
-      "link": "https://www.minarikorea.com/",
-      "category": "음식점>한식",
+      "title": "돌밭 메밀꽃",
+      "link": "",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 211 지하1층",
-      "roadAddress": "서울특별시 종로구 사직로 101 지하1층",
-      "mapx": "1269701158",
-      "mapy": "375762596"
+      "address": "서울특별시 종로구 통의동 7-23",
+      "roadAddress": "서울특별시 종로구 효자로 31-1",
+      "mapx": "1269737000",
+      "mapy": "375788863"
     }
   ]
 }

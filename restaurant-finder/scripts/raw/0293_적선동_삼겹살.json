@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:26 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:11:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375764468"
     },
     {
-      "title": "평양고깃집",
-      "link": "",
+      "title": "도틔대가",
+      "link": "https://catchtable.co.kr/dottydaega",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
-      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
-      "mapx": "1269854482",
-      "mapy": "375727819"
+      "address": "서울특별시 종로구 체부동 54-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
+      "mapx": "1269720264",
+      "mapy": "375765472"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:06 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "화산",
-      "link": "https://app.catchtable.co.kr/ct/shop/hwasan",
+      "link": "",
       "category": "술집>요리주점",
       "description": "",
       "telephone": "",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 자하문로 13-1 2층",
       "mapx": "1269720404",
       "mapy": "375773299"
-    },
-    {
-      "title": "첫잔",
-      "link": "",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 201-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 28",
-      "mapx": "1269707822",
-      "mapy": "375765240"
     },
     {
       "title": "라향각 <b>마라탕</b>",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 1층",
       "mapx": "1269798224",
       "mapy": "375708585"
+    },
+    {
+      "title": "차알 광화문 디타워점",
+      "link": "https://char2012.com/",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 리플레이스 광화문 3층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 리플레이스 광화문 3층",
+      "mapx": "1269789145",
+      "mapy": "375709958"
     }
   ]
 }

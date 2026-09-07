@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:04 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "853",
-      "link": "http://www.instagram.com/bbq_853",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 84-23 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 16 1층",
-      "mapx": "1269850965",
-      "mapy": "375747440"
-    },
     {
       "title": "평양고깃집",
       "link": "",
@@ -25,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
       "mapx": "1269854482",
       "mapy": "375727819"
-    },
-    {
-      "title": "인사동쭈꾸미",
-      "link": "http://instagram.com/insadong_chungsik",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 46-1 1층 인사동쭈꾸미",
-      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층 인사동쭈꾸미",
-      "mapx": "1269858898",
-      "mapy": "375791440"
     },
     {
       "title": "익선끝집",
@@ -49,6 +27,17 @@
       "mapy": "375737625"
     },
     {
+      "title": "팔오삼",
+      "link": "http://www.instagram.com/bbq_853",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 84-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동12길 16 1층",
+      "mapx": "1269850965",
+      "mapy": "375747440"
+    },
+    {
       "title": "엄용백 돼지구이 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
       "category": "한식>돼지고기구이",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 51",
       "mapx": "1269812652",
       "mapy": "375733835"
+    },
+    {
+      "title": "최대감네",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 경운동 64-47",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-3",
+      "mapx": "1269861240",
+      "mapy": "375740750"
     }
   ]
 }

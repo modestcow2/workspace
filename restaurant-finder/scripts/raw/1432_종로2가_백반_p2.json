@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:20 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375728300"
     },
     {
-      "title": "잊지마식당",
-      "link": "",
-      "category": "한식>백반,가정식",
+      "title": "돈맛꿀",
+      "link": "https://blog.naver.com/pig_money_honey",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 인현동2가 192-17",
-      "roadAddress": "서울특별시 중구 퇴계로41길 47",
-      "mapx": "1269954730",
-      "mapy": "375639589"
+      "address": "서울특별시 종로구 낙원동 179 지상 1층",
+      "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
+      "mapx": "1269895649",
+      "mapy": "375710740"
     }
   ]
 }

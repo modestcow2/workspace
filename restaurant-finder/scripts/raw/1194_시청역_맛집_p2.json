@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:29 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "솔솥 <b>시청역</b>점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-12 2층 201호",
-      "roadAddress": "서울특별시 중구 세종대로11길 30 2층 201호",
-      "mapx": "1269742207",
-      "mapy": "375623476"
-    },
-    {
-      "title": "올리페페 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/ollipepe_gwanghwamun",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 서린동 149 2층 올리페페",
-      "roadAddress": "서울특별시 종로구 청계천로 11 2층 올리페페",
-      "mapx": "1269789879",
-      "mapy": "375694150"
-    },
-    {
-      "title": "센터커피 광화문점",
-      "link": "https://www.centercoffee.co.kr/",
-      "category": "카페,디저트>카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 B1층 105호",
-      "roadAddress": "서울특별시 중구 세종대로 136 B1층 105호",
-      "mapx": "1269782701",
-      "mapy": "375684246"
-    },
-    {
-      "title": "데일리픽스 을지로",
-      "link": "https://www.instagram.com/daily.fix.seoul?igsh=ZXRxeHUwbDE2N2E3&utm_source=qr",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 140 1층 103호, 104호",
-      "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
-      "mapx": "1269813054",
-      "mapy": "375670949"
-    },
-    {
-      "title": "온점 을지로점",
-      "link": "https://www.instagram.com/onjeom.seoul",
+      "title": "월가갈비 서울시청본점",
+      "link": "https://www.instagram.com/wallga_galbi",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 87 지1층",
-      "roadAddress": "서울특별시 중구 을지로 29 지1층",
-      "mapx": "1269810422",
-      "mapy": "375664910"
+      "address": "서울특별시 중구 북창동 11-7 1, 2, 3층",
+      "roadAddress": "서울특별시 중구 세종대로18길 22 1, 2, 3층",
+      "mapx": "1269783927",
+      "mapy": "375637074"
+    },
+    {
+      "title": "이가네양꼬치 무교점",
+      "link": "https://sites.google.com/view/iganemugyo/%ED%99%88",
+      "category": "음식점>중식>양꼬치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 142 이가네양꼬치무교점",
+      "roadAddress": "서울특별시 중구 을지로3길 17 이가네양꼬치무교점",
+      "mapx": "1269815253",
+      "mapy": "375669093"
+    },
+    {
+      "title": "타와",
+      "link": "https://www.instagram.com/tawa__official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
+      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
+      "title": "무탄 광화문점",
+      "link": "https://naver.me/5uc3NJV7",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
+      "title": "고우가 광화문점",
+      "link": "https://go.catchtable.co.kr/jrrhv4v",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     }
   ]
 }

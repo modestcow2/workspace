@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:33 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375794197"
     },
     {
-      "title": "동백식당",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
-      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
-      "mapx": "1269842899",
-      "mapy": "375765173"
-    },
-    {
       "title": "온6.5",
       "link": "https://app.catchtable.co.kr/ct/shop/on65",
       "category": "음식점>한식",
@@ -38,6 +27,28 @@
       "mapy": "375773758"
     },
     {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
+      "title": "사간원",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 59-1 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 22-15 1층",
+      "mapx": "1269803646",
+      "mapy": "375778892"
+    },
+    {
       "title": "부영도가니탕",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 141",
       "mapx": "1269826884",
       "mapy": "375872076"
-    },
-    {
-      "title": "대림국수 안국점",
-      "link": "http://app.catchtable.co.kr/ct/shop/daerimanguk",
-      "category": "음식점>한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-18 1층 대림국수",
-      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 대림국수",
-      "mapx": "1269862999",
-      "mapy": "375779441"
     }
   ]
 }

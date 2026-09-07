@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:00 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:19:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,26 @@
       "mapy": "375730606"
     },
     {
-      "title": "일월카츠 안국점",
-      "link": "https://www.instagram.com/ill_wall_katsu",
-      "category": "음식점>일식>돈가스",
+      "title": "푸노야 안국점",
+      "link": "https://smartstore.naver.com/purring_seoul",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 132 1층",
-      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
+      "address": "서울특별시 종로구 재동 49-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
+      "mapx": "1269854103",
+      "mapy": "375787578"
     },
     {
-      "title": "오얏카츠 인사동",
-      "link": "https://www.instagram.com/oyatt_katsu",
+      "title": "일월카츠 계동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ilwolkatsu",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
-      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
-      "mapx": "1269833422",
-      "mapy": "375735368"
+      "address": "서울특별시 종로구 계동 144-1 1층 일월카츠",
+      "roadAddress": "서울특별시 종로구 계동길 17 1층 일월카츠",
+      "mapx": "1269865352",
+      "mapy": "375781458"
     },
     {
       "title": "조금",
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 종로구 관훈동 123-4 크라운빌딩 1층 조금식당",
       "roadAddress": "서울특별시 종로구 인사동길 60 크라운빌딩 1층 조금식당",
-      "mapx": "1269836494",
-      "mapy": "375753395"
+      "mapx": "1269836360",
+      "mapy": "375753433"
     },
     {
-      "title": "쿄와우동",
-      "link": "",
-      "category": "음식점>일식>우동,소바",
+      "title": "라쿠엔",
+      "link": "https://www.instagram.com/lakuen_jongro?igsh=Z2l5c2dpem54OTVh&utm_source=qr",
+      "category": "술집>이자카야",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 144-1 지하1층",
-      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
-      "mapx": "1269866870",
-      "mapy": "375780953"
+      "address": "서울특별시 종로구 낙원동 6 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로 440 1층",
+      "mapx": "1269877604",
+      "mapy": "375739650"
     }
   ]
 }

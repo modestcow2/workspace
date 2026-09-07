@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:24 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "안국약방",
-      "link": "",
+      "link": "https://안국약방.kr",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 4 1층",
       "mapx": "1269861688",
       "mapy": "375773871"
-    },
-    {
-      "title": "대림국수 안국점",
-      "link": "http://app.catchtable.co.kr/ct/shop/daerimanguk",
-      "category": "음식점>한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-18 1층 대림국수",
-      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 대림국수",
-      "mapx": "1269862999",
-      "mapy": "375779441"
     },
     {
       "title": "북촌손만두 북촌점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 북촌로4길 10 1층 북촌손만두",
       "mapx": "1269857660",
       "mapy": "375791420"
+    },
+    {
+      "title": "호이식 종로 안국",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-7 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
+      "mapx": "1269863069",
+      "mapy": "375777908"
     },
     {
       "title": "남포면옥",

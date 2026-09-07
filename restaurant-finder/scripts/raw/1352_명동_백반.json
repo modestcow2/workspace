@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "전주풍남회관",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
-    },
     {
       "title": "<b>명동</b>쭈꾸미 회현역 남대문시장본점",
       "link": "https://www.instagram.com/myeongdong.jjukkumi/",
@@ -27,26 +16,15 @@
       "mapy": "375585424"
     },
     {
-      "title": "대지식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 수표동 11-4 4층 대지식당",
-      "roadAddress": "서울특별시 중구 수표로 72-13 4층 대지식당",
-      "mapx": "1269904883",
-      "mapy": "375677945"
-    },
-    {
-      "title": "정화네",
+      "title": "전주풍남회관",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 회현동3가 2-6 1층",
-      "roadAddress": "서울특별시 중구 퇴계로16길 8 1층",
-      "mapx": "1269844768",
-      "mapy": "375604079"
+      "address": "서울특별시 중구 태평로1가 62-7 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
+      "mapx": "1269759995",
+      "mapy": "375685854"
     },
     {
       "title": "김명숙아지매순대국",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 중구 퇴계로 62-2",
       "mapx": "1269791892",
       "mapy": "375590113"
+    },
+    {
+      "title": "1992덮밥&amp;짜글이 <b>명동</b>1호점",
+      "link": "https://1992덮밥짜글이.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 3-9 2층",
+      "roadAddress": "서울특별시 중구 명동10길 17-1 2층",
+      "mapx": "1269855388",
+      "mapy": "375629893"
+    },
+    {
+      "title": "삼호정",
+      "link": "https://www.instagram.com/myeongdong.samhojung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동3가 6-1",
+      "roadAddress": "서울특별시 중구 퇴계로16길 30 회현동3가",
+      "mapx": "1269843877",
+      "mapy": "375597256"
     }
   ]
 }

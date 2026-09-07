@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:27 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,37 +16,15 @@
       "mapy": "375662037"
     },
     {
-      "title": "지지타운",
-      "link": "https://catchtable.co.kr/ggtown",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 349-1 3층",
-      "roadAddress": "서울특별시 중구 수표로 52 3층",
-      "mapx": "1269899946",
-      "mapy": "375657753"
-    },
-    {
-      "title": "<b>을지로</b>화랑",
-      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_hwarang?from=share&type=DINING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 320-12 2층",
-      "roadAddress": "서울특별시 중구 을지로12길 17 2층",
-      "mapx": "1269910811",
-      "mapy": "375654607"
-    },
-    {
-      "title": "스시소라 <b>을지로</b>점",
+      "title": "스시이찌 <b>을지로</b>점",
       "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로4가 323 1층 105호",
-      "roadAddress": "서울특별시 중구 을지로 170 1층 105호",
-      "mapx": "1269973271",
-      "mapy": "375661387"
+      "address": "서울특별시 중구 저동2가 7-2 제이매크로타워 2층 203호",
+      "roadAddress": "서울특별시 중구 을지로12길 28 제이매크로타워 2층 203호",
+      "mapx": "1269905697",
+      "mapy": "375651798"
     },
     {
       "title": "니카이",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 중구 을지로 219 2층 201호",
       "mapx": "1270025647",
       "mapy": "375670875"
+    },
+    {
+      "title": "<b>을지로</b>화랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_hwarang?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 320-12 2층",
+      "roadAddress": "서울특별시 중구 을지로12길 17 2층",
+      "mapx": "1269910604",
+      "mapy": "375654525"
+    },
+    {
+      "title": "스시소라 <b>을지로</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로4가 323 1층 105호",
+      "roadAddress": "서울특별시 중구 을지로 170 1층 105호",
+      "mapx": "1269973271",
+      "mapy": "375661387"
     }
   ]
 }

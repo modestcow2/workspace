@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:38 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 97 12층",
       "mapx": "1269753951",
       "mapy": "375706979"
-    },
-    {
-      "title": "횟집 산이네 광화문",
-      "link": "https://www.facebook.com/san2ne",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 170-1 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 5-3 2층",
-      "mapx": "1269746126",
-      "mapy": "375708672"
     },
     {
       "title": "<b>스시</b>호센",
@@ -43,10 +32,21 @@
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 지하1층 44, 46호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 44, 46호",
+      "address": "서울특별시 종로구 당주동 5 지하1층 44호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 지하1층 44호",
       "mapx": "1269743109",
       "mapy": "375720320"
+    },
+    {
+      "title": "횟집 산이네 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/san2ne_gwanghwamun",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 170-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-3 2층",
+      "mapx": "1269746126",
+      "mapy": "375708672"
     },
     {
       "title": "양산도 광화문점",

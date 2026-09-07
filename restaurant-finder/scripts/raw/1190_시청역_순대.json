@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:27 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -28,7 +28,7 @@
     },
     {
       "title": "광화문국밥",
-      "link": "",
+      "link": "https://gwanghwamungukbap.netlify.app/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -39,7 +39,7 @@
     },
     {
       "title": "태진옥",
-      "link": "https://www.instagram.com/taejinoak_official/",
+      "link": "https://www.instagram.com/taejinoak",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",

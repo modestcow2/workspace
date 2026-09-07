@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:49 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
+    },
     {
       "title": "마그넷 서촌",
       "link": "https://instagram.com/magnettt_bar?igshid=ZDc4ODBmNjlmNQ==",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로 108-5 1층 타펠룬데 서울",
       "mapx": "1269708228",
       "mapy": "375757053"
-    },
-    {
-      "title": "아트만",
-      "link": "http://instagram.com/atman_seoul",
-      "category": "술집>와인",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 101 아트만",
-      "roadAddress": "서울특별시 종로구 사직로12길 11 아트만",
-      "mapx": "1269710581",
-      "mapy": "375755031"
     }
   ]
 }

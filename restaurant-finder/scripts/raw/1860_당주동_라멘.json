@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:39 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "멘탄",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 15-7 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 21 1층",
+      "mapx": "1269751765",
+      "mapy": "375715283"
+    },
     {
       "title": "사이토라",
       "link": "",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
       "mapx": "1269731249",
       "mapy": "375629944"
-    },
-    {
-      "title": "츠키<b>라멘</b>",
-      "link": "https://www.instagram.com/tsuki_ramen1",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 B1 108-1-3호",
-      "roadAddress": "서울특별시 종로구 종로 19 B1 108-1-3호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     },
     {
       "title": "멘노아지 종로점",

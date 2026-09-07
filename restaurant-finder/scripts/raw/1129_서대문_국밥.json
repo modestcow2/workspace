@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:58 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "평안도식당 신촌점",
-      "link": "https://www.instagram.com/leejin3020",
+      "link": "https://www.instagram.com/dldnwls3021/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
@@ -16,26 +16,26 @@
       "mapy": "375570469"
     },
     {
-      "title": "신의주찹쌀순대 신촌점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-33",
-      "roadAddress": "서울특별시 서대문구 연세로4길 19",
-      "mapx": "1269378344",
-      "mapy": "375573574"
-    },
-    {
-      "title": "24시 진선소고기<b>국밥</b> 신촌점",
-      "link": "",
+      "title": "태경이네 <b>국밥</b>",
+      "link": "https://www.instagram.com/taekyeong_ine_gugbab/?igsh=MXR0Z25tejlkOXA5ZQ%3D%3D&utm_source=qr",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-77 지상1층",
-      "roadAddress": "서울특별시 서대문구 명물길 36-4 지상1층",
-      "mapx": "1269386220",
-      "mapy": "375581583"
+      "address": "서울특별시 서대문구 충정로3가 255 1층",
+      "roadAddress": "서울특별시 서대문구 충정로4길 4 1층",
+      "mapx": "1269638084",
+      "mapy": "375611570"
+    },
+    {
+      "title": "온담<b>국밥</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 북가좌동 293-8 1층(좌측호)",
+      "roadAddress": "서울특별시 서대문구 응암로 100 1층(좌측호)",
+      "mapx": "1269128617",
+      "mapy": "375816120"
     },
     {
       "title": "오천집 신촌점",
@@ -49,15 +49,15 @@
       "mapy": "375561154"
     },
     {
-      "title": "소푸리콩나물<b>국밥</b>",
-      "link": "",
+      "title": "전정<b>국밥</b>",
+      "link": "https://www.instagram.com/jj_gukbob?igsh=MTlkbXFjNXk3d3lweg%3D%3D&utm_source=qr",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 431-3",
-      "roadAddress": "서울특별시 서대문구 성산로 331",
-      "mapx": "1269270716",
-      "mapy": "375662565"
+      "address": "서울특별시 서대문구 연희동 192-10 신관2층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 5 신관2층",
+      "mapx": "1269285311",
+      "mapy": "375660778"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:47 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,7 +27,7 @@
       "mapy": "375708585"
     },
     {
-      "title": "신룽푸<b>마라탕</b>",
+      "title": "신룽푸<b>마라탕</b> 명동점",
       "link": "http://shinrungpumara.cityfood.co.kr/",
       "category": "음식점>마라탕",
       "description": "",
@@ -38,26 +38,26 @@
       "mapy": "375644942"
     },
     {
-      "title": "동베이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/dong_bey",
-      "category": "중식>양꼬치",
+      "title": "차알 광화문 디타워점",
+      "link": "https://char2012.com/",
+      "category": "음식점>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 37-6 2층 동베이 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로5길 8-1 2층 동베이 광화문점",
-      "mapx": "1269750484",
-      "mapy": "375709890"
+      "address": "서울특별시 종로구 청진동 246 D타워 리플레이스 광화문 3층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 리플레이스 광화문 3층",
+      "mapx": "1269789145",
+      "mapy": "375709958"
     },
     {
-      "title": "성민양꼬치 서대문점",
-      "link": "",
-      "category": "중식>중식당",
+      "title": "마라공방 광화문점",
+      "link": "http://www.maragongbang.com",
+      "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 161-2 1층",
-      "roadAddress": "서울특별시 서대문구 통일로 143-7 1층",
-      "mapx": "1269648040",
-      "mapy": "375671795"
+      "address": "서울특별시 중구 태평로1가 76-1 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 55 2층",
+      "mapx": "1269759345",
+      "mapy": "375690541"
     }
   ]
 }

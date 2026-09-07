@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:14 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375684296"
     },
     {
+      "title": "멘츠루 시청점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
+      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
+      "mapx": "1269731249",
+      "mapy": "375629944"
+    },
+    {
+      "title": "타와",
+      "link": "https://www.instagram.com/tawa__official",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 47-2 한산빌딩 지하1층 102호 타와",
+      "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
+      "mapx": "1269736520",
+      "mapy": "375634157"
+    },
+    {
       "title": "배 수사",
       "link": "",
       "category": "음식점>일식>일식당",
@@ -27,17 +49,6 @@
       "mapy": "375668280"
     },
     {
-      "title": "신성<b>일식</b>",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 서린동 128-1 1,2층 신성일식",
-      "roadAddress": "서울특별시 종로구 무교로 42 1,2층 신성일식",
-      "mapx": "1269795017",
-      "mapy": "375696782"
-    },
-    {
       "title": "웨스틴 조선 서울 스시조",
       "link": "https://www.josunhotel.com/hotel/westinSeoul.do",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 소공로 106",
       "mapx": "1269805282",
       "mapy": "375646249"
-    },
-    {
-      "title": "분지로 한국본점",
-      "link": "https://www.instagram.com/bunjiro_kr",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 13층",
-      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 13층",
-      "mapx": "1269816120",
-      "mapy": "375646957"
     }
   ]
 }

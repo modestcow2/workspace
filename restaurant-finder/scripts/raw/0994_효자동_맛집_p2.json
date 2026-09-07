@@ -1,52 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:56 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:19:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "라파리나 서촌본점",
-      "link": "https://www.instagram.com/lafarina.bagel",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 140 라파리나",
-      "roadAddress": "서울특별시 종로구 자하문로 44 라파리나",
-      "mapx": "1269715365",
-      "mapy": "375799955"
-    },
-    {
-      "title": "서촌 금상고로케",
-      "link": "https://www.instagram.com/seochonkumsang",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 74",
-      "roadAddress": "서울특별시 종로구 자하문로9길 24",
-      "mapx": "1269697116",
-      "mapy": "375795180"
-    },
-    {
-      "title": "이도림 세종대왕 생가터 서촌 경복궁 본점",
+      "title": "이도림 세종대왕 생가터 광화문 서촌 본점",
       "link": "https://www.instagram.com/leedorim.seoul/",
       "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 118-2 이도림 세종대왕 생가터 서촌 경복궁 본점",
-      "roadAddress": "서울특별시 종로구 자하문로 43 이도림 세종대왕 생가터 서촌 경복궁 본점",
+      "address": "서울특별시 종로구 통인동 118-2 이도림 세종대왕 생가터 광화문 서촌 본점",
+      "roadAddress": "서울특별시 종로구 자하문로 43 이도림 세종대왕 생가터 광화문 서촌 본점",
       "mapx": "1269710879",
       "mapy": "375799483"
     },
     {
-      "title": "마사마드레",
-      "link": "",
-      "category": "카페,디저트>베이커리",
+      "title": "푸페또클럽",
+      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 1-7",
-      "roadAddress": "서울특별시 종로구 자하문로7길 68-3",
-      "mapx": "1269691233",
-      "mapy": "375804345"
+      "address": "서울특별시 종로구 창성동 98-6",
+      "roadAddress": "서울특별시 종로구 자하문로 50-1",
+      "mapx": "1269714513",
+      "mapy": "375805566"
     },
     {
       "title": "잘빠진메밀 서촌 본점",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 자하문로11길 4",
       "mapx": "1269709994",
       "mapy": "375796715"
+    },
+    {
+      "title": "레스피레베이커리카페 서촌",
+      "link": "https://www.instagram.com/respirerbakery",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
+    },
+    {
+      "title": "서울집시 퍼멘테리아 서촌",
+      "link": "https://www.instagram.com/seoulgypsyfermenteria",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 3층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 3층",
+      "mapx": "1269711126",
+      "mapy": "375816125"
     }
   ]
 }

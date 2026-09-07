@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:26 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "태성골뱅이신사 서촌점",
-      "link": "",
-      "category": "술집>맥주,호프",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 197-1 필운프라자 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 43 필운프라자 1층",
-      "mapx": "1269699726",
-      "mapy": "375766548"
-    },
     {
       "title": "돌솥추어탕",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 54",
       "mapx": "1269695627",
       "mapy": "375770174"
+    },
+    {
+      "title": "태성골뱅이신사 서촌점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 197-1 필운프라자 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 43 필운프라자 1층",
+      "mapx": "1269699726",
+      "mapy": "375766548"
     },
     {
       "title": "경성왕<b>돈카츠</b>",
@@ -38,6 +38,17 @@
       "mapy": "375744035"
     },
     {
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
       "title": "오봉카츠",
       "link": "https://www.instagram.com/aubonkatsu",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
       "mapx": "1269704883",
       "mapy": "375777902"
-    },
-    {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
     }
   ]
 }

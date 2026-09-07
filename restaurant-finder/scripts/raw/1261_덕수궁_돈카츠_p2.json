@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:01 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375670788"
     },
     {
-      "title": "카츠큐브",
-      "link": "https://www.instagram.com/katsucube_official",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 지하1층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 지하1층",
-      "mapx": "1269721401",
-      "mapy": "375696647"
-    },
-    {
       "title": "쟈란",
       "link": "https://app.catchtable.co.kr/ct/shop/zaran",
       "category": "음식점>일식>돈가스",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 92 제비층 116-1호",
       "mapx": "1269749335",
       "mapy": "375697325"
+    },
+    {
+      "title": "텐까",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 102동 로비층 B122호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 102동 로비층 B122호",
+      "mapx": "1269701462",
+      "mapy": "375637151"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:52 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:18:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -7,13 +7,24 @@
     {
       "title": "키보아츠아츠 광화문",
       "link": "https://www.instagram.com/keebo.co",
-      "category": "음식점>일식>일식당",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
       "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 West동 지하1층 B108-1호",
       "mapx": "1269778819",
       "mapy": "375721535"
+    },
+    {
+      "title": "광화문옥희",
+      "link": "https://www.instagram.com/gwanghwamun_okhee",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 B104호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 B104호",
+      "mapx": "1269777422",
+      "mapy": "375721797"
     },
     {
       "title": "을지돈가스 명동본점",
@@ -38,26 +49,15 @@
       "mapy": "375640263"
     },
     {
-      "title": "오봉카츠",
-      "link": "https://www.instagram.com/aubonkatsu",
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 125-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
-      "mapx": "1269704883",
-      "mapy": "375777902"
-    },
-    {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

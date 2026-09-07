@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:28 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375749172"
     },
     {
+      "title": "육회바른연어 경복궁점",
+      "link": "https://yby.co.kr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 66 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 1층",
+      "mapx": "1269722849",
+      "mapy": "375778015"
+    },
+    {
       "title": "초록초록",
       "link": "https://www.instagram.com/greengreensalad?igsh=MTA5d3IxZXN4ZDNjZg==",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -36,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층 107호",
       "mapx": "1269732666",
       "mapy": "375738930"
+    },
+    {
+      "title": "스미스가 좋아하는 테라스",
+      "link": "https://www.instagram.com/smith_terrace_official",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 11 1st Floor",
+      "roadAddress": "서울특별시 종로구 삼청로 135-3 1st Floor",
+      "mapx": "1269814009",
+      "mapy": "375876362"
     }
   ]
 }

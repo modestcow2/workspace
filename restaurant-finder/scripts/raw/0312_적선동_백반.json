@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:35 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "파루 닭한마리",
+      "link": "https://www.instagram.com/paru.seoul/",
+      "category": "한식>닭요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
+      "address": "서울특별시 종로구 적선동 13-1 1층",
+      "roadAddress": "서울특별시 종로구 사직로 137-11 1층",
+      "mapx": "1269737940",
+      "mapy": "375762594"
     },
     {
       "title": "순남시래기 광화문점",
@@ -27,6 +27,17 @@
       "mapy": "375744339"
     },
     {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
       "title": "무구옥",
       "link": "https://www.instagram.com/muguok_seoul",
       "category": "음식점>한식",
@@ -38,26 +49,15 @@
       "mapy": "375764071"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
+      "title": "종로반상회",
+      "link": "https://blog.naver.com/taekdaeri",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
-    {
-      "title": "동백식당",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
-      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
-      "mapx": "1269842899",
-      "mapy": "375765173"
+      "address": "서울특별시 종로구 관철동 260",
+      "roadAddress": "서울특별시 종로구 우정국로2길 8",
+      "mapx": "1269834885",
+      "mapy": "375694910"
     }
   ]
 }

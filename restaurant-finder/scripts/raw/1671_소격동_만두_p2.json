@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:12 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:27:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375872638"
     },
     {
+      "title": "북촌막국수제면소",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 지하 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 141 지하 1층",
+      "mapx": "1269815077",
+      "mapy": "375878351"
+    },
+    {
       "title": "눈나무집",
       "link": "",
       "category": "한식>국수",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 136-1",
       "mapx": "1269818766",
       "mapy": "375874830"
-    },
-    {
-      "title": "북촌막국수제면소",
-      "link": "",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 지하 1층.",
-      "roadAddress": "서울특별시 종로구 삼청로 141 지하 1층.",
-      "mapx": "1269815077",
-      "mapy": "375878351"
     },
     {
       "title": "삼청로조개칼국수",

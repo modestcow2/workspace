@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "영양센터 본점",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-32",
-      "roadAddress": "서울특별시 중구 명동2길 52",
-      "mapx": "1269831647",
-      "mapy": "375611197"
-    },
     {
       "title": "백제<b>삼계탕</b>",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 명동8길 8-10",
       "mapx": "1269841333",
       "mapy": "375633571"
+    },
+    {
+      "title": "영양센터 본점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 25-32",
+      "roadAddress": "서울특별시 중구 명동2길 52",
+      "mapx": "1269831647",
+      "mapy": "375611197"
     },
     {
       "title": "여의도<b>삼계탕</b> 파이낸스센터점",
@@ -38,26 +38,26 @@
       "mapy": "375682885"
     },
     {
-      "title": "을지<b>삼계탕</b>",
+      "title": "불탄왕뼈구이감자탕 <b>명동</b>점",
       "link": "",
-      "category": "한식>백숙,삼계탕",
+      "category": "한식>감자탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 101-12",
-      "roadAddress": "서울특별시 중구 을지로 99-1",
-      "mapx": "1269890869",
-      "mapy": "375663526"
+      "address": "서울특별시 중구 충무로1가 24-14 2층",
+      "roadAddress": "서울특별시 중구 명동8나길 29 2층",
+      "mapx": "1269834140",
+      "mapy": "375612027"
     },
     {
-      "title": "고봉<b>삼계탕</b> <b>명동</b>점",
+      "title": "기보감<b>삼계탕</b>앤호호미역",
       "link": "",
-      "category": "음식점>한식>육류,고기요리>백숙,삼계탕",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-40",
-      "roadAddress": "서울특별시 중구 명동7길 21",
-      "mapx": "1269837316",
-      "mapy": "375648216"
+      "address": "서울특별시 중구 회현동2가 87 106,107",
+      "roadAddress": "서울특별시 중구 소공로 46 106,107",
+      "mapx": "1269832410",
+      "mapy": "375594044"
     }
   ]
 }

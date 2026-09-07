@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:08 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "육전국밥 서소문점",
+      "link": "",
+      "category": "음식점>한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 57-9 1층 101호",
+      "roadAddress": "서울특별시 중구 서소문로 99 1층 101호",
+      "mapx": "1269722093",
+      "mapy": "375628296"
+    },
     {
       "title": "방일<b>해장국</b> 정동점",
       "link": "",
@@ -38,26 +49,15 @@
       "mapy": "375693429"
     },
     {
-      "title": "잼배옥",
+      "title": "함평집 서울시청점",
       "link": "",
-      "category": "한식>곰탕,설렁탕",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 64-4",
-      "roadAddress": "서울특별시 중구 세종대로9길 68-9",
-      "mapx": "1269737271",
-      "mapy": "375625022"
-    },
-    {
-      "title": "담원순대 시청본점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-21 1층",
-      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
-      "mapx": "1269731836",
-      "mapy": "375619522"
+      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
+      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
+      "mapx": "1269736340",
+      "mapy": "375622716"
     }
   ]
 }

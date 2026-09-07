@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:36 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "단상",
+      "link": "https://catchtable.co.kr/dansang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-5 1층 단상",
+      "roadAddress": "서울특별시 종로구 북촌로2길 11 1층 단상",
+      "mapx": "1269864234",
+      "mapy": "375779820"
+    },
     {
       "title": "큰기와집",
       "link": "https://blog.naver.com/keunkiwajip_0501",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 6-6 안집",
       "mapx": "1269863020",
       "mapy": "375775859"
-    },
-    {
-      "title": "단상",
-      "link": "https://catchtable.co.kr/dansang",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-5 1층 단상",
-      "roadAddress": "서울특별시 종로구 북촌로2길 11 1층 단상",
-      "mapx": "1269864234",
-      "mapy": "375779820"
     },
     {
       "title": "한뫼촌",

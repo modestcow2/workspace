@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:49 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375794954"
     },
     {
-      "title": "후스테이블",
-      "link": "",
-      "category": "이탈리아음식>스파게티,파스타전문",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 140-4 1층 후스테이블",
-      "roadAddress": "서울특별시 종로구 창덕궁1가길 8 1층 후스테이블",
-      "mapx": "1269881260",
-      "mapy": "375796303"
-    },
-    {
       "title": "진작 카키",
       "link": "https://naver.me/xWzWzIYt",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 창덕궁1길 38 진작카키 안국점",
       "mapx": "1269871165",
       "mapy": "375794798"
+    },
+    {
+      "title": "후스테이블",
+      "link": "",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-4 1층 후스테이블",
+      "roadAddress": "서울특별시 종로구 창덕궁1가길 8 1층 후스테이블",
+      "mapx": "1269880703",
+      "mapy": "375796147"
     }
   ]
 }

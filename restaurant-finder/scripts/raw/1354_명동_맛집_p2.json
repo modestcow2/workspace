@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:44 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "남산산채집",
+      "title": "페이홍러우 을지로점",
       "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 수표동 99 지하1층",
+      "roadAddress": "서울특별시 중구 청계천로 100 지하1층",
+      "mapx": "1269881203",
+      "mapy": "375674838"
+    },
+    {
+      "title": "천사곱창 <b>명동</b>점",
+      "link": "",
+      "category": "음식점>한식>육류,고기요리>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-40 아르누보센텀 1F 천사곱창 명동점",
+      "roadAddress": "서울특별시 중구 명동7길 21 아르누보센텀 1F 천사곱창 명동점",
+      "mapx": "1269837534",
+      "mapy": "375645922"
+    },
+    {
+      "title": "을지돈가스 <b>명동</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 예장동 8-38 1층",
-      "roadAddress": "서울특별시 중구 소파로 95 1층",
-      "mapx": "1269853930",
-      "mapy": "375567733"
+      "address": "서울특별시 중구 명동1가 10-5 1층",
+      "roadAddress": "서울특별시 중구 명동9길 10 1층",
+      "mapx": "1269849975",
+      "mapy": "375643266"
     },
     {
-      "title": "목멱산방 남산타워점",
-      "link": "http://instagram.com/m_horaeng",
-      "category": "음식점>한식",
+      "title": "손의손 <b>명동</b>점",
+      "link": "https://손의손.com/",
+      "category": "해물,생선요리>주꾸미요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 예장동 산5-6",
-      "roadAddress": "서울특별시 중구 남산공원길 627",
-      "mapx": "1269853285",
-      "mapy": "375553582"
+      "address": "서울특별시 중구 을지로2가 199-40 1층 105호",
+      "roadAddress": "서울특별시 중구 명동7길 21 1층 105호",
+      "mapx": "1269836799",
+      "mapy": "375646651"
     },
     {
-      "title": "육통령 <b>명동</b>본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
+      "title": "이가네양꼬치 무교점",
+      "link": "https://sites.google.com/view/iganemugyo/%ED%99%88",
+      "category": "음식점>중식>양꼬치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
-    },
-    {
-      "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
-      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
-      "mapx": "1269869447",
-      "mapy": "375581107"
-    },
-    {
-      "title": "청기와타운 을지로점",
-      "link": "https://catchtable.co.kr/bluerooftown5",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-21 1층 청기와타운 을지로점",
-      "roadAddress": "서울특별시 중구 을지로 54 1층 청기와타운 을지로점",
-      "mapx": "1269836749",
-      "mapy": "375659020"
+      "address": "서울특별시 중구 다동 142 이가네양꼬치무교점",
+      "roadAddress": "서울특별시 중구 을지로3길 17 이가네양꼬치무교점",
+      "mapx": "1269815253",
+      "mapy": "375669093"
     }
   ]
 }

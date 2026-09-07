@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:39 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "종가<b>만두</b>",
+      "link": "https://blog.naver.com/sgjongro55",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 145-1 1층 종가만두",
+      "roadAddress": "서울특별시 종로구 수표로 88 1층 종가만두",
+      "mapx": "1269896787",
+      "mapy": "375689062"
+    },
     {
       "title": "잘빠진메밀 서순라길점",
       "link": "https://smartstore.naver.com/jalppajin-mill",
@@ -28,7 +39,7 @@
     },
     {
       "title": "청화 우육도삭면",
-      "link": "",
+      "link": "https://cheonghwa-noodle.wywh.co.kr/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 118-1호 청화우육도삭면",
       "mapx": "1269798606",
       "mapy": "375708344"
-    },
-    {
-      "title": "남포면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 121-4",
-      "roadAddress": "서울특별시 중구 을지로3길 24",
-      "mapx": "1269815998",
-      "mapy": "375671396"
     },
     {
       "title": "잘빠진메밀 을지로직영점",

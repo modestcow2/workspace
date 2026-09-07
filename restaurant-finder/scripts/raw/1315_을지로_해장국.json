@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:26 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 중구 을지로6가 18-85 1층",
       "roadAddress": "서울특별시 중구 장충단로 249-20 1층",
-      "mapx": "1270077551",
-      "mapy": "375675754"
+      "mapx": "1270077650",
+      "mapy": "375675412"
     },
     {
       "title": "신동궁감자탕 명동직영점",
@@ -32,32 +32,32 @@
       "category": "한식>감자탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 296-16 1, 2층",
-      "roadAddress": "서울특별시 중구 을지로14길 19-3 1, 2층",
+      "address": "서울특별시 중구 을지로3가 296-16 1, 2층 을지로 골수",
+      "roadAddress": "서울특별시 중구 을지로14길 19-3 1, 2층 을지로 골수",
       "mapx": "1269923160",
       "mapy": "375654255"
     },
     {
-      "title": "팔팔너구리해장 <b>을지로</b>3가역점",
-      "link": "",
+      "title": "을지백탄뼈구이",
+      "link": "https://www.instagram.com/eulji_baektan",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 초동 17-4 1층",
-      "roadAddress": "서울특별시 중구 충무로 46-1 1층",
-      "mapx": "1269929866",
-      "mapy": "375651794"
+      "address": "서울특별시 중구 을지로3가 345-6 1층",
+      "roadAddress": "서울특별시 중구 을지로 110-2 1층",
+      "mapx": "1269902218",
+      "mapy": "375660916"
     },
     {
-      "title": "용대리황태<b>해장국</b>",
-      "link": "",
-      "category": "한식>해장국",
+      "title": "발해감자탕 <b>을지로</b>본점",
+      "link": "https://www.instagram.com/balhae_gam",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 101-2",
-      "roadAddress": "서울특별시 중구 을지로 105",
-      "mapx": "1269895586",
-      "mapy": "375664457"
+      "address": "서울특별시 중구 을지로3가 342-3 1층",
+      "roadAddress": "서울특별시 중구 을지로 114-1 1층",
+      "mapx": "1269905362",
+      "mapy": "375660514"
     }
   ]
 }

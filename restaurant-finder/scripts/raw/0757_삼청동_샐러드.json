@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:04 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375800959"
     },
     {
+      "title": "아메리칸 브런치 카페",
+      "link": "https://www.instagram.com/american.brunch.cafe",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 92 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 49-16 1층",
+      "mapx": "1269843728",
+      "mapy": "375767815"
+    },
+    {
       "title": "땡스오트 안국",
       "link": "https://www.thanksoat.co.kr/",
       "category": "음식점>카페,디저트",
@@ -43,21 +54,10 @@
       "category": "카페,디저트>베이커리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 28 유니온빌딩 지하1층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 5-5 유니온빌딩 지하1층",
+      "address": "서울특별시 종로구 재동 28 지하1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 5-5 지하1층",
       "mapx": "1269846562",
       "mapy": "375790291"
-    },
-    {
-      "title": "아메리칸 브런치 카페",
-      "link": "https://www.instagram.com/american.brunch.cafe",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 92 1층",
-      "roadAddress": "서울특별시 종로구 율곡로 49-16 1층",
-      "mapx": "1269843728",
-      "mapy": "375767815"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:22 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375750298"
     },
     {
-      "title": "만가",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 206",
-      "roadAddress": "서울특별시 종로구 사직로 103-19",
-      "mapx": "1269703769",
-      "mapy": "375763740"
-    },
-    {
       "title": "경복궁미역",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 필운대로 4 1층",
       "mapx": "1269692731",
       "mapy": "375764904"
+    },
+    {
+      "title": "만가",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 206",
+      "roadAddress": "서울특별시 종로구 사직로 103-19",
+      "mapx": "1269703769",
+      "mapy": "375763740"
     }
   ]
 }

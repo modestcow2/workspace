@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:23 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375771457"
     },
     {
-      "title": "원창식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 120",
-      "roadAddress": "서울특별시 종로구 사직로9가길 7",
-      "mapx": "1269689726",
-      "mapy": "375767115"
-    },
-    {
       "title": "서촌 곳간",
       "link": "",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
       "mapx": "1269693165",
       "mapy": "375766924"
+    },
+    {
+      "title": "원창식당",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 120",
+      "roadAddress": "서울특별시 종로구 사직로9가길 7",
+      "mapx": "1269689726",
+      "mapy": "375767115"
     },
     {
       "title": "만가",

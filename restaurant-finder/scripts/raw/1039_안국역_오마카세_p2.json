@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:17 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375746798"
     },
     {
-      "title": "구테이블 한정식",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 86",
-      "roadAddress": "서울특별시 종로구 인사동14길 41",
-      "mapx": "1269848521",
-      "mapy": "375751535"
-    },
-    {
-      "title": "스시미치루",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "title": "스시산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
       "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
-      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
-      "mapx": "1269789959",
-      "mapy": "375739044"
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
+    },
+    {
+      "title": "우솔",
+      "link": "https://app.catchtable.co.kr/ct/shop/woosol?type=DINING",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 129",
+      "roadAddress": "서울특별시 종로구 율곡로5길 14",
+      "mapx": "1269850136",
+      "mapy": "375771370"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:43 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375703324"
     },
     {
-      "title": "만냥<b>족발</b>",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 영천동 323",
-      "roadAddress": "서울특별시 서대문구 통일로 189-1",
-      "mapx": "1269618596",
-      "mapy": "375703388"
-    },
-    {
       "title": "독립문영천시장 양식이네<b>족발</b>",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 통일로 189-1 영천시장 B열 28호",
       "mapx": "1269618708",
       "mapy": "375703324"
+    },
+    {
+      "title": "만냥<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 323",
+      "roadAddress": "서울특별시 서대문구 통일로 189-1",
+      "mapx": "1269618596",
+      "mapy": "375703388"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:51 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하 1층",
       "mapx": "1269798606",
       "mapy": "375708344"
-    },
-    {
-      "title": "강창구찹쌀진순대 <b>종로</b>점",
-      "link": "https://www.instagram.com/jinsundae_jongno",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 113-2호, 114-1호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 113-2호, 114-1호",
-      "mapx": "1269796299",
-      "mapy": "375706974"
     },
     {
       "title": "대문곰탕",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 2층",
       "mapx": "1269798688",
       "mapy": "375706349"
+    },
+    {
+      "title": "강창구찹쌀진순대 <b>종로</b>점",
+      "link": "https://www.instagram.com/jinsundae_jongno",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 1층 113-2호, 114-1호",
+      "roadAddress": "서울특별시 종로구 종로 19 1층 113-2호, 114-1호",
+      "mapx": "1269796299",
+      "mapy": "375706974"
     },
     {
       "title": "안암",

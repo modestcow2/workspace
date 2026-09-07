@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:22 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "프로티너 종각역점",
+      "link": "https://www.instagram.com/proteiner.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 11 1층, 2층",
+      "roadAddress": "서울특별시 종로구 종로 75-1 1층, 2층",
+      "mapx": "1269858486",
+      "mapy": "375703861"
+    },
     {
       "title": "랄랄라클럽",
       "link": "http://instagram.com/lallalla_350",
@@ -27,28 +38,6 @@
       "mapy": "375715557"
     },
     {
-      "title": "도트블랭킷 안국점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
-      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
-      "mapx": "1269840927",
-      "mapy": "375770264"
-    },
-    {
-      "title": "슬로우캘리 종각역",
-      "link": "http://www.slowcali.co.kr",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 17 센트로폴리스 1층 Retail 1R-7호",
-      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 1층 Retail 1R-7호",
-      "mapx": "1269836590",
-      "mapy": "375714967"
-    },
-    {
       "title": "레스토랑 담",
       "link": "https://www.instagram.com/restaurant_dam",
       "category": "음식점>이탈리아음식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 30-7 1층",
       "mapx": "1269860243",
       "mapy": "375736433"
+    },
+    {
+      "title": "아메리칸 브런치 카페",
+      "link": "https://www.instagram.com/american.brunch.cafe",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 92 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 49-16 1층",
+      "mapx": "1269843728",
+      "mapy": "375767815"
     }
   ]
 }

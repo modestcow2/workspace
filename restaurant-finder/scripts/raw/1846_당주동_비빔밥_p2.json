@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:32 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "link": "https://blog.naver.com/wusm-official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -38,17 +38,6 @@
       "mapy": "375756107"
     },
     {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
-    {
       "title": "황금정",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5가길 5",
       "mapx": "1269742704",
       "mapy": "375726129"
+    },
+    {
+      "title": "광화문 화덕삼겹살 광화로",
+      "link": "https://app.catchtable.co.kr/ct/shop/gwang_hwaro",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 20-1 2층 광화로",
+      "roadAddress": "서울특별시 종로구 새문안로9길 25 2층 광화로",
+      "mapx": "1269754938",
+      "mapy": "375713547"
     }
   ]
 }

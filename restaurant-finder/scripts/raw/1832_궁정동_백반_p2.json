@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:25 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
       "mapx": "1269799066",
       "mapy": "375764071"
-    },
-    {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
     },
     {
       "title": "동백식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 45",
       "mapx": "1269698490",
       "mapy": "375767519"
+    },
+    {
+      "title": "별미곱창",
+      "link": "",
+      "category": "한식>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 187 별미곱창",
+      "roadAddress": "서울특별시 종로구 자하문로1길 50 별미곱창",
+      "mapx": "1269696746",
+      "mapy": "375769499"
     }
   ]
 }

@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:19 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "무구옥",
-      "link": "https://www.instagram.com/muguok_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 126-1 지상1층",
-      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
-      "mapx": "1269799066",
-      "mapy": "375764071"
-    },
-    {
-      "title": "토속촌 <b>삼계탕</b>",
+      "title": "토속촌<b>삼계탕</b>",
       "link": "http://www.tosokchon.co.kr/",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 체부동 85-1 토속촌",
       "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
-      "mapx": "1269716148",
-      "mapy": "375776587"
+      "mapx": "1269715865",
+      "mapy": "375776607"
     },
     {
-      "title": "백년토종<b>삼계탕</b>",
+      "title": "백세<b>삼계탕</b> 의정부점",
       "link": "",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 17-1 1, 2층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 3-8 1, 2층",
-      "mapx": "1269811516",
-      "mapy": "375812799"
+      "address": "경기도 의정부시 가능동 92-11",
+      "roadAddress": "경기도 의정부시 서부로 747",
+      "mapx": "1270413617",
+      "mapy": "377585620"
     },
     {
-      "title": "통영굴밥 <b>경복궁</b>점",
-      "link": "",
-      "category": "한식>굴요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지하1층 통영굴밥",
-      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 통영굴밥",
-      "mapx": "1269733152",
-      "mapy": "375753857"
-    },
-    {
-      "title": "정통<b>삼계탕</b>",
+      "title": "백세<b>삼계탕</b> 김포점",
       "link": "",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 129-1 2층 정통삼계탕",
-      "roadAddress": "서울특별시 종로구 종로5길 95 2층 정통삼계탕",
-      "mapx": "1269791540",
-      "mapy": "375741620"
+      "address": "경기도 김포시 걸포동 389-43",
+      "roadAddress": "경기도 김포시 홍도평로 7",
+      "mapx": "1267111125",
+      "mapy": "376312154"
+    },
+    {
+      "title": "백세<b>삼계탕</b> 수원고색점",
+      "link": "https://blog.naver.com/bsf0888",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 권선구 고색동 431-1 1~2층",
+      "roadAddress": "경기도 수원시 권선구 서부로 1533 1~2층",
+      "mapx": "1269775918",
+      "mapy": "372461059"
+    },
+    {
+      "title": "백세<b>삼계탕</b> 일산점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 고양시 일산동구 중산동 1668-3 1층",
+      "roadAddress": "경기도 고양시 일산동구 고양대로 746 1층",
+      "mapx": "1267788338",
+      "mapy": "376823977"
     }
   ]
 }

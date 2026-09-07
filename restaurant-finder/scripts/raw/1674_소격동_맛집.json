@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:14 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:27:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "봉이밥 삼청동점",
-      "link": "",
+      "link": "https://blog.naver.com/bong_ee_bab",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -27,6 +27,28 @@
       "mapy": "375847732"
     },
     {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 건물 앞뒤면 주차",
+      "roadAddress": "서울특별시 종로구 삼청로 141 건물 앞뒤면 주차",
+      "mapx": "1269816036",
+      "mapy": "375876136"
+    },
+    {
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
+    },
+    {
       "title": "삼청동수제비",
       "link": "http://www.삼청동수제비.kr",
       "category": "음식점>한식",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 101-1",
       "mapx": "1269819599",
       "mapy": "375845273"
-    },
-    {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
-    },
-    {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
     }
   ]
 }

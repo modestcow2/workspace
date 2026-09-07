@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:35 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375740791"
     },
     {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
-      "category": "음식점>양식",
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
-    },
-    {
-      "title": "반기다 익선",
-      "link": "http://www.instagram.com/bangida_ikseon",
-      "category": "음식점>퓨전음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-52 반기다",
-      "roadAddress": "",
-      "mapx": "1269892898",
-      "mapy": "375736887"
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
     },
     {
       "title": "디라이프스타일키친 광화문점",
@@ -49,15 +38,26 @@
       "mapy": "375684246"
     },
     {
-      "title": "익선잡방",
-      "link": "http://www.instagram.com/ikseon_jabbang",
-      "category": "음식점>브런치",
+      "title": "을지로 이멜다분식",
+      "link": "https://https//app.catchtable.co.kr/ct/shop/imeldafnb",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
-      "mapx": "1269894722",
-      "mapy": "375733980"
+      "address": "서울특별시 중구 산림동 207-1 청계세운상가 3층 바열 315호",
+      "roadAddress": "서울특별시 중구 청계천로 160 청계세운상가 3층 바열 315호",
+      "mapx": "1269955021",
+      "mapy": "375677499"
+    },
+    {
+      "title": "반기다 익선",
+      "link": "http://www.instagram.com/bangida_ikseon",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-52 반기다",
+      "roadAddress": "",
+      "mapx": "1269892898",
+      "mapy": "375736887"
     }
   ]
 }

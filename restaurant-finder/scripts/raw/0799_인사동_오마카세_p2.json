@@ -1,42 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:24 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "구테이블 한정식",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 86",
-      "roadAddress": "서울특별시 종로구 인사동14길 41",
-      "mapx": "1269848521",
-      "mapy": "375751535"
-    },
-    {
-      "title": "KUT Seoul",
-      "link": "https://app.catchtable.co.kr/ct/shop/KUT?from=share&type=DINING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 56-6 한올타워 3F KUT",
-      "roadAddress": "서울특별시 종로구 종로 96 한올타워 3F KUT",
-      "mapx": "1269882058",
-      "mapy": "375698597"
-    },
-    {
-      "title": "죽마고돈",
-      "link": "https://catchtable.co.kr/jukmagodon",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 산19-9 1~4층",
-      "roadAddress": "서울특별시 종로구 삼일대로17길 42-4 1~4층",
-      "mapx": "1269852372",
-      "mapy": "375693574"
-    },
     {
       "title": "스시소라 종로점",
       "link": "",
@@ -49,6 +16,28 @@
       "mapy": "375711867"
     },
     {
+      "title": "KUT Seoul",
+      "link": "https://kutseoul.com/ko/?utm_source=naver&utm_medium=place_organic&utm_campaign=naver_place_free",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-6 한올타워 3F KUT",
+      "roadAddress": "서울특별시 종로구 종로 96 한올타워 3F KUT",
+      "mapx": "1269882041",
+      "mapy": "375698190"
+    },
+    {
+      "title": "우솔",
+      "link": "https://app.catchtable.co.kr/ct/shop/woosol?type=DINING",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 129",
+      "roadAddress": "서울특별시 종로구 율곡로5길 14",
+      "mapx": "1269850136",
+      "mapy": "375771370"
+    },
+    {
       "title": "스시키마에",
       "link": "https://catchtable.co.kr/sushikimae",
       "category": "음식점>일식>일식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 141호",
       "mapx": "1269818155",
       "mapy": "375723952"
+    },
+    {
+      "title": "헝그리서울 <b>인사동</b>본점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-6",
+      "roadAddress": "서울특별시 종로구 인사동16길 8-3",
+      "mapx": "1269844185",
+      "mapy": "375751978"
     }
   ]
 }

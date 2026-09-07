@@ -1,52 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:28 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "목멱산방 남산타워점",
-      "link": "http://instagram.com/m_horaeng",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 예장동 산5-6",
-      "roadAddress": "서울특별시 중구 남산공원길 627",
-      "mapx": "1269853285",
-      "mapy": "375553582"
-    },
-    {
-      "title": "육통령 <b>명동</b>본점",
+      "title": "천사곱창 <b>명동</b>점",
       "link": "",
-      "category": "한식>육류,고기요리",
+      "category": "음식점>한식>육류,고기요리>곱창,막창,양",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
-    },
-    {
-      "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
-      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
-      "mapx": "1269869447",
-      "mapy": "375581107"
-    },
-    {
-      "title": "청기와타운 을지로점",
-      "link": "https://catchtable.co.kr/bluerooftown5",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-21 1층 청기와타운 을지로점",
-      "roadAddress": "서울특별시 중구 을지로 54 1층 청기와타운 을지로점",
-      "mapx": "1269836749",
-      "mapy": "375659020"
+      "address": "서울특별시 중구 을지로2가 199-40 아르누보센텀 1F 천사곱창 명동점",
+      "roadAddress": "서울특별시 중구 명동7길 21 아르누보센텀 1F 천사곱창 명동점",
+      "mapx": "1269837534",
+      "mapy": "375645922"
     },
     {
       "title": "손의손 <b>명동</b>점",
@@ -58,6 +25,39 @@
       "roadAddress": "서울특별시 중구 명동7길 21 1층 105호",
       "mapx": "1269836799",
       "mapy": "375646651"
+    },
+    {
+      "title": "서울시청 <b>명동</b>케이갈비 을지로입구역 본점",
+      "link": "https://www.instagram.com/myeongdong_k_galbi/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-20 2층, 3층",
+      "roadAddress": "서울특별시 중구 명동3길 5 2층, 3층",
+      "mapx": "1269833538",
+      "mapy": "375639593"
+    },
+    {
+      "title": "고우가 광화문점",
+      "link": "https://go.catchtable.co.kr/jrrhv4v",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "군자대한곱창 <b>명동</b>점",
+      "link": "https://www.siksinhot.com/P/1249514",
+      "category": "육류,고기요리>곱창,막창,양",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 42-2 1층",
+      "roadAddress": "서울특별시 중구 명동7길 18-1 1층",
+      "mapx": "1269844044",
+      "mapy": "375645891"
     }
   ]
 }

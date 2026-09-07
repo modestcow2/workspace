@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:48 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 지하1층 B113-2, B113-3호",
       "mapx": "1269798147",
       "mapy": "375710182"
+    },
+    {
+      "title": "어쩌다농부 광화문점",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층 비222호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층 비222호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "리나스 광화문점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 지하1층 샌디치하우스",
       "mapx": "1269798606",
       "mapy": "375708344"
-    },
-    {
-      "title": "익선취향",
-      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-70 1층",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
-      "mapx": "1269895934",
-      "mapy": "375735970"
     }
   ]
 }

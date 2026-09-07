@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:40 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "종로냉삼",
+      "link": "https://band.us/@jongnonaengsam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 45-19 1층 1호 종로냉삼",
+      "roadAddress": "서울특별시 종로구 통일로14길 6-3 1층 1호 종로냉삼",
+      "mapx": "1269583035",
+      "mapy": "375748170"
+    },
     {
       "title": "앗싸 복만두",
       "link": "",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 송월길 99 상가 2102호",
       "mapx": "1269621898",
       "mapy": "375707299"
-    },
-    {
-      "title": "독립문영천시장 영천만두",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 영천동 323 영천시장 B열 4호",
-      "roadAddress": "서울특별시 서대문구 통일로 189-1 영천시장 B열 4호",
-      "mapx": "1269618708",
-      "mapy": "375703324"
     }
   ]
 }

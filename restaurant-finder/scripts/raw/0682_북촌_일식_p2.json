@@ -1,30 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:29 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "일월카츠 안국점",
-      "link": "https://www.instagram.com/ill_wall_katsu",
-      "category": "음식점>일식>돈가스",
+      "title": "푸노야 안국점",
+      "link": "https://smartstore.naver.com/purring_seoul",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 132 1층",
-      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
-    },
-    {
-      "title": "쿄와우동",
-      "link": "",
-      "category": "음식점>일식>우동,소바",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 144-1 지하1층",
-      "roadAddress": "서울특별시 종로구 계동길 17 지하1층",
-      "mapx": "1269866870",
-      "mapy": "375780953"
+      "address": "서울특별시 종로구 재동 49-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
+      "mapx": "1269854103",
+      "mapy": "375787578"
     },
     {
       "title": "일월카츠 계동점",
@@ -38,26 +27,37 @@
       "mapy": "375781458"
     },
     {
-      "title": "프루",
-      "link": "https://www.instagram.com/fru.seoul?igsh=OTIyNzRjemxmeGVt",
-      "category": "술집>이자카야",
+      "title": "일월카츠 안국점",
+      "link": "https://www.instagram.com/ill_wall_katsu",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 32-4",
-      "roadAddress": "서울특별시 종로구 북촌로5길 10",
-      "mapx": "1269843767",
-      "mapy": "375794370"
+      "address": "서울특별시 종로구 안국동 132 1층",
+      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
+      "mapx": "1269851501",
+      "mapy": "375773083"
     },
     {
-      "title": "푸노야 안국점",
-      "link": "https://smartstore.naver.com/purring_seoul",
-      "category": "음식점>카페,디저트",
+      "title": "조금",
+      "link": "",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 49-6 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
-      "mapx": "1269854103",
-      "mapy": "375787578"
+      "address": "서울특별시 종로구 관훈동 123-4 크라운빌딩 1층 조금식당",
+      "roadAddress": "서울특별시 종로구 인사동길 60 크라운빌딩 1층 조금식당",
+      "mapx": "1269836360",
+      "mapy": "375753433"
+    },
+    {
+      "title": "진작 카키",
+      "link": "https://naver.me/xWzWzIYt",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-44 진작카키 안국점",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 38 진작카키 안국점",
+      "mapx": "1269871165",
+      "mapy": "375794798"
     }
   ]
 }

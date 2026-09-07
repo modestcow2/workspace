@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:11 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "평안도식당 신촌점",
-      "link": "https://www.instagram.com/leejin3020",
+      "link": "https://www.instagram.com/dldnwls3021/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
@@ -38,26 +38,26 @@
       "mapy": "375578309"
     },
     {
-      "title": "왕봉24시<b>해장국</b>",
+      "title": "대성도가니탕",
       "link": "",
-      "category": "한식>해장국",
+      "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 295-25",
-      "roadAddress": "서울특별시 서대문구 인왕시장길 46",
-      "mapx": "1269444222",
-      "mapy": "375915652"
+      "address": "서울특별시 서대문구 옥천동 70 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 54 1층",
+      "mapx": "1269619676",
+      "mapy": "375699326"
     },
     {
-      "title": "대가감자탕뼈<b>해장국</b>",
+      "title": "모래내설농탕본점",
       "link": "",
-      "category": "한식>감자탕",
+      "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 338-39",
-      "roadAddress": "서울특별시 서대문구 증가로 111",
-      "mapx": "1269249207",
-      "mapy": "375766479"
+      "address": "서울특별시 서대문구 홍은동 415-42",
+      "roadAddress": "서울특별시 서대문구 모래내로 271",
+      "mapx": "1269280632",
+      "mapy": "375771319"
     }
   ]
 }

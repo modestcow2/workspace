@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:41 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "마라붐 <b>시청</b>점",
-      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "link": "https://www.instagram.com/maraboom_official",
       "category": "중식>마라탕",
       "description": "",
       "telephone": "",
@@ -27,6 +27,17 @@
       "mapy": "372646583"
     },
     {
+      "title": "마라홀릭 <b>마라탕</b> 산본점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 군포시 산본동 1135",
+      "roadAddress": "경기도 군포시 산본로323번길 16-15",
+      "mapx": "1269316596",
+      "mapy": "373594942"
+    },
+    {
       "title": "신염천하<b>마라탕</b> 부천중동점",
       "link": "http://shinyeomcheonha.cityfood.co.kr/",
       "category": "중식>중식당",
@@ -38,26 +49,15 @@
       "mapy": "375017323"
     },
     {
-      "title": "마유유 <b>마라탕</b> 현대백화점 중동점",
-      "link": "https://www.instagram.com/sinae.u",
+      "title": "숑스<b>마라탕</b>",
+      "link": "",
       "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1164-1 지하1층",
-      "roadAddress": "경기도 부천시 원미구 길주로 180 지하1층",
-      "mapx": "1267618740",
-      "mapy": "375044455"
-    },
-    {
-      "title": "등초<b>마라탕</b> 오산점",
-      "link": "http://0313758323.tshome.co.kr/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 오산시 오산동 925-5 월드타워105호 등초마라탕",
-      "roadAddress": "경기도 오산시 성호대로 121 월드타워105호 등초마라탕",
-      "mapx": "1270746523",
-      "mapy": "371490400"
+      "address": "경기도 부천시 원미구 중동 1301 106동 1층 1013호",
+      "roadAddress": "경기도 부천시 원미구 길주로 234 106동 1층 1013호",
+      "mapx": "1267688948",
+      "mapy": "375035181"
     }
   ]
 }

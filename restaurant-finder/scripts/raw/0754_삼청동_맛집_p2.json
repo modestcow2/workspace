@@ -1,12 +1,23 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:03 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
+      "title": "북촌도담",
+      "link": "https://www.instagram.com/bukchondodam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 133",
+      "roadAddress": "서울특별시 종로구 북촌로1길 9",
+      "mapx": "1269852815",
+      "mapy": "375773690"
+    },
+    {
       "title": "봉이밥 <b>삼청동</b>점",
-      "link": "",
+      "link": "https://blog.naver.com/bong_ee_bab",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -16,26 +27,15 @@
       "mapy": "375842989"
     },
     {
-      "title": "잭잭 안국점",
-      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
-      "category": "음식점>햄버거",
+      "title": "콘웨이커피 안국점",
+      "link": "https://www.instagram.com/conway_coffee",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 159 101호, 201호",
-      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
-      "mapx": "1269845845",
-      "mapy": "375765164"
-    },
-    {
-      "title": "ETF베이커리",
-      "link": "https://app.catchtable.co.kr/ct/shop/etfbakery?from=share&type=WAITING",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 107-1 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 3 1층",
-      "mapx": "1269858052",
-      "mapy": "375772153"
+      "address": "서울특별시 종로구 안국동 175-61 1층",
+      "roadAddress": "서울특별시 종로구 윤보선길 27 1층",
+      "mapx": "1269837716",
+      "mapy": "375772768"
     },
     {
       "title": "포스톤즈 삼청점",
@@ -49,15 +49,15 @@
       "mapy": "375847732"
     },
     {
-      "title": "일월카츠 안국점",
-      "link": "https://www.instagram.com/ill_wall_katsu",
-      "category": "음식점>일식>돈가스",
+      "title": "카페 수달",
+      "link": "https://www.instagram.com/cafe_sudal",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 132 1층",
-      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
+      "address": "서울특별시 종로구 안국동 93",
+      "roadAddress": "서울특별시 종로구 율곡로 49-14",
+      "mapx": "1269844135",
+      "mapy": "375766924"
     }
   ]
 }

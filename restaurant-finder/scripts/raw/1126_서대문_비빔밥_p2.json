@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,26 @@
       "mapy": "375679590"
     },
     {
-      "title": "가미분식",
-      "link": "",
-      "category": "분식>종합분식",
+      "title": "엄마식탁",
+      "link": "https://www.instagram.com/mothers.table",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 54-1 무궁화상가아파트",
-      "roadAddress": "서울특별시 서대문구 이화여대8길 2 무궁화상가아파트",
-      "mapx": "1269460024",
-      "mapy": "375586996"
+      "address": "서울특별시 서대문구 연희동 189-4 엄마식탁",
+      "roadAddress": "서울특별시 서대문구 연희맛로 17-21 엄마식탁",
+      "mapx": "1269287752",
+      "mapy": "375666564"
+    },
+    {
+      "title": "고향전주<b>비빔밥</b> 현대백화점신촌점",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-33 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 10층",
+      "mapx": "1269357533",
+      "mapy": "375558490"
     },
     {
       "title": "단골손님 신촌점",
@@ -38,26 +49,15 @@
       "mapy": "375577864"
     },
     {
-      "title": "엄마식탁",
-      "link": "https://www.instagram.com/mothers.table",
+      "title": "마닐로우 이대점",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 189-4 엄마식탁",
-      "roadAddress": "서울특별시 서대문구 연희맛로 17-21 엄마식탁",
-      "mapx": "1269288278",
-      "mapy": "375666512"
-    },
-    {
-      "title": "무학바지락칼국수",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 158-29",
-      "roadAddress": "서울특별시 서대문구 통일로35길 6",
-      "mapx": "1269462280",
-      "mapy": "375863988"
+      "address": "서울특별시 서대문구 대현동 34-35 가동 2층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 78 가동 2층",
+      "mapx": "1269440636",
+      "mapy": "375592644"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:01 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375756107"
     },
     {
+      "title": "연잎한옥밥상 서촌점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 192 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 18 1층",
+      "mapx": "1269713829",
+      "mapy": "375765422"
+    },
+    {
       "title": "마지",
       "link": "http://templefood.com/",
       "category": "한식>사찰음식",
@@ -27,26 +38,15 @@
       "mapy": "375776553"
     },
     {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "샐러디 경복궁역점",
+      "link": "http://www.salady.com/",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
-    {
-      "title": "<b>체부동</b> 수제비와 보리밥",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 99 1층",
-      "roadAddress": "서울특별시 종로구 자하문로5길 16 1층",
-      "mapx": "1269710433",
-      "mapy": "375777698"
+      "address": "서울특별시 종로구 체부동 45-1",
+      "roadAddress": "서울특별시 종로구 자하문로 13-1",
+      "mapx": "1269720474",
+      "mapy": "375773082"
     },
     {
       "title": "옛날국수맛집",

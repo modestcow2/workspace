@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:08 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 종로 231-1 진향족발",
       "mapx": "1270035363",
       "mapy": "375712710"
+    },
+    {
+      "title": "대학로<b>족발</b>보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 혜화동 143-2",
+      "roadAddress": "서울특별시 종로구 대학로 149",
+      "mapx": "1270011367",
+      "mapy": "375845726"
     },
     {
       "title": "잭아저씨<b>족발</b>보쌈 종로본점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 수표로20길 16-15",
       "mapx": "1269909814",
       "mapy": "375699683"
-    },
-    {
-      "title": "족의한수 종로본점",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관수동 4-1 1층 족의한수",
-      "roadAddress": "서울특별시 종로구 수표로 93-1 1층 족의한수",
-      "mapx": "1269891620",
-      "mapy": "375696277"
     }
   ]
 }

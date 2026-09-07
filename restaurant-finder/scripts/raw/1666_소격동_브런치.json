@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:10 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:27:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375800959"
     },
     {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 건물 앞뒤면 주차",
+      "roadAddress": "서울특별시 종로구 삼청로 141 건물 앞뒤면 주차",
+      "mapx": "1269816036",
+      "mapy": "375876136"
+    },
+    {
+      "title": "북촌의뜰",
+      "link": "https://www.instagram.com/bookchontteul/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 149-1 1층-3층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 75-4 1층-3층",
+      "mapx": "1269818633",
+      "mapy": "375790615"
+    },
+    {
       "title": "스미스가 좋아하는 테라스",
       "link": "https://www.instagram.com/smith_terrace_official",
       "category": "음식점>양식",
@@ -27,17 +49,6 @@
       "mapy": "375876362"
     },
     {
-      "title": "슬로우파크",
-      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
-    },
-    {
       "title": "퀸즈베이커리 삼청점",
       "link": "https://blog.naver.com/queensbakery_cafe",
       "category": "카페,디저트>베이커리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 56",
       "mapx": "1269819210",
       "mapy": "375799089"
-    },
-    {
-      "title": "일사삼",
-      "link": "http://app.catchtable.co.kr/ct/shop/143",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 27-17",
-      "roadAddress": "서울특별시 종로구 북촌로 143",
-      "mapx": "1269823930",
-      "mapy": "375871094"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:55 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375710310"
     },
     {
+      "title": "광화문판초밥",
+      "link": "",
+      "category": "음식점>일식,초밥뷔페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 B129-1호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B129-1호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
       "title": "동해도 광화문점",
       "link": "https://www.instagram.com/donghaedo1987",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
       "mapx": "1269794820",
       "mapy": "375684296"
-    },
-    {
-      "title": "이안초밥 안녕인사동점",
-      "link": "https://www.instagram.com/sushi_ian.kr/?hl=ko",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 지상 M층 5,6번매장",
-      "roadAddress": "서울특별시 종로구 인사동길 49 지상 M층 5,6번매장",
-      "mapx": "1269835556",
-      "mapy": "375744663"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:21 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
     {
       "title": "서촌전통순대국",
       "link": "",
@@ -38,17 +27,6 @@
       "mapy": "375763740"
     },
     {
-      "title": "명작신의주찹쌀순대",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
-      "mapx": "1269686008",
-      "mapy": "375744035"
-    },
-    {
       "title": "이서방네순대국",
       "link": "",
       "category": "한식>순대,순댓국",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 45",
       "mapx": "1269698490",
       "mapy": "375767519"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
+    },
+    {
+      "title": "명작신의주찹쌀순대",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
     }
   ]
 }

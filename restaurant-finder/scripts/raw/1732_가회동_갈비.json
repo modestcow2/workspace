@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:40 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:28:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "안국약방",
+      "link": "https://안국약방.kr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 91 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
+      "mapx": "1269861688",
+      "mapy": "375773871"
+    },
     {
       "title": "율동칼국수",
       "link": "",
@@ -16,15 +27,26 @@
       "mapy": "375794433"
     },
     {
-      "title": "안국약방",
-      "link": "",
+      "title": "삼지",
+      "link": "https://blog.naver.com/samgimoon1000",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 91 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
-      "mapx": "1269861688",
-      "mapy": "375773871"
+      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
+      "mapx": "1269860086",
+      "mapy": "375782908"
+    },
+    {
+      "title": "단상",
+      "link": "https://catchtable.co.kr/dansang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-5 1층 단상",
+      "roadAddress": "서울특별시 종로구 북촌로2길 11 1층 단상",
+      "mapx": "1269864234",
+      "mapy": "375779820"
     },
     {
       "title": "큰기와집",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 22 1층",
       "mapx": "1269854307",
       "mapy": "375787275"
-    },
-    {
-      "title": "황칠가 안국점",
-      "link": "https://smartstore.naver.com/goodhealingshop",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 109 지하 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 5-1 지하 1층",
-      "mapx": "1269857055",
-      "mapy": "375774305"
-    },
-    {
-      "title": "삼지",
-      "link": "https://blog.naver.com/samgimoon1000",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
-      "mapx": "1269860086",
-      "mapy": "375782908"
     }
   ]
 }

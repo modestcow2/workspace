@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:33 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,26 @@
       "mapy": "375714726"
     },
     {
-      "title": "본가닭한마리 광화문점",
+      "title": "밀가랑 <b>칼국수</b> 광화문점",
       "link": "",
-      "category": "한식>닭요리",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 40 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11 2층",
-      "mapx": "1269747506",
-      "mapy": "375712149"
+      "address": "서울특별시 종로구 당주동 5 B1층 17호, 18호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 17호, 18호",
+      "mapx": "1269743108",
+      "mapy": "375720320"
     },
     {
-      "title": "안식당",
-      "link": "http://www.instagram.com/ahnsikdang_gwanghwamun",
-      "category": "한식>생선회",
+      "title": "착한코다리",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 지하1층 39호",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 지하1층 39호",
-      "mapx": "1269736228",
-      "mapy": "375717911"
+      "address": "서울특별시 종로구 당주동 2-2 1층 착한코다리",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 3-1 1층 착한코다리",
+      "mapx": "1269743240",
+      "mapy": "375725275"
     },
     {
       "title": "육대장 광화문점",
@@ -49,15 +49,15 @@
       "mapy": "375710027"
     },
     {
-      "title": "밀가랑 <b>칼국수</b> 광화문점",
+      "title": "본가닭한마리 광화문점",
       "link": "",
-      "category": "한식>칼국수,만두",
+      "category": "한식>닭요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 B1층 17호, 18호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 17호, 18호",
-      "mapx": "1269743108",
-      "mapy": "375720320"
+      "address": "서울특별시 종로구 당주동 40 2층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11 2층",
+      "mapx": "1269747506",
+      "mapy": "375712149"
     }
   ]
 }

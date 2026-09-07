@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:26 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "자하문로118 들풀",
+      "title": "콤포타블 커피 <b>궁정동</b>점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 궁정동 3-21 1층, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로26길 15 1층, 2층",
+      "mapx": "1269720487",
+      "mapy": "375847462"
     },
     {
       "title": "얼스어스",
@@ -38,17 +38,6 @@
       "mapy": "375862557"
     },
     {
-      "title": "중국",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
-    },
-    {
       "title": "시노라 서촌점",
       "link": "https://smartstore.naver.com/cafesinola",
       "category": "음식점>카페,디저트",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 116 카페 시노라 서촌점",
       "mapx": "1269701685",
       "mapy": "375861550"
+    },
+    {
+      "title": "자하문로118 들풀",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 69 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
+      "mapx": "1269700999",
+      "mapy": "375864487"
     }
   ]
 }

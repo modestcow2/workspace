@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:19 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:27:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "토속촌 <b>삼계탕</b>",
+      "title": "토속촌<b>삼계탕</b>",
       "link": "http://www.tosokchon.co.kr/",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 체부동 85-1 토속촌",
       "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
-      "mapx": "1269716148",
-      "mapy": "375776587"
+      "mapx": "1269715865",
+      "mapy": "375776607"
     },
     {
       "title": "무구옥",
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
       "mapx": "1269799066",
       "mapy": "375764071"
+    },
+    {
+      "title": "돈화문닭한마리",
+      "link": "https://blog.naver.com/dondak2015",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 95 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로9길 17 1층",
+      "mapx": "1269908133",
+      "mapy": "375716439"
     },
     {
       "title": "백년토종<b>삼계탕</b>",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 5-1",
       "mapx": "1269761163",
       "mapy": "375714982"
-    },
-    {
-      "title": "돈화문닭한마리",
-      "link": "https://blog.naver.com/dondak2015",
-      "category": "한식>닭요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 돈의동 95 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로9길 17 1층",
-      "mapx": "1269908133",
-      "mapy": "375716439"
     }
   ]
 }

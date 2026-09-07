@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:28 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:19:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "효자왕<b>족발</b>",
-      "link": "https://www.instagram.com/seochonhotpot",
+      "link": "https://www.instagram.com/hyojafnb/?hl=ko",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
@@ -38,6 +38,17 @@
       "mapy": "375695127"
     },
     {
+      "title": "종로족빨 종로본점",
+      "link": "http://027341222.bdp.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 257 1층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 14 1층",
+      "mapx": "1269837098",
+      "mapy": "375693280"
+    },
+    {
       "title": "서촌 곳간",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
       "mapx": "1269693165",
       "mapy": "375766924"
-    },
-    {
-      "title": "본가서대문<b>족발</b> 본점",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 미근동 31-14",
-      "roadAddress": "서울특별시 서대문구 충정로6안길 54",
-      "mapx": "1269668935",
-      "mapy": "375644552"
     }
   ]
 }

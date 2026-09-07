@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:54 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375869747"
     },
     {
-      "title": "인사동마늘보쌈",
-      "link": "https://insadonggarlicbossam.com",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-4",
-      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
-      "mapx": "1269861892",
-      "mapy": "375739819"
-    },
-    {
       "title": "콘타이 안국점",
       "link": "https://www.instagram.com/konthai.official",
       "category": "음식점>태국음식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 88 지하1층",
       "mapx": "1269889236",
       "mapy": "375768074"
+    },
+    {
+      "title": "인사동마늘보쌈",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
     },
     {
       "title": "장군<b>족발</b>보쌈 본관",

@@ -1,9 +1,42 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:53 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "광화문나폴리 종각직영점",
+      "link": "https://blog.naver.com/gwanghwamun_napoli",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 205호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 205호",
+      "mapx": "1269824621",
+      "mapy": "375726226"
+    },
+    {
+      "title": "지오쿠치나익선",
+      "link": "https://blog.naver.com/ziocucina_ikseon",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-35",
+      "roadAddress": "서울특별시 종로구 수표로28길 33-11",
+      "mapx": "1269900907",
+      "mapy": "375737098"
+    },
+    {
+      "title": "비텔로소띠",
+      "link": "http://catchtable.co.kr/vitellosotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
+      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
+      "mapx": "1269727845",
+      "mapy": "375769969"
+    },
     {
       "title": "살롱순라 서순라길점",
       "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
       "mapx": "1269722295",
       "mapy": "375789547"
-    },
-    {
-      "title": "까사 이태리아",
-      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
-      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
-      "mapx": "1269723542",
-      "mapy": "375787841"
-    },
-    {
-      "title": "비텔로소띠",
-      "link": "http://catchtable.co.kr/vitellosotti",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-44 1층 비텔로소띠",
-      "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
-      "mapx": "1269727845",
-      "mapy": "375769969"
-    },
-    {
-      "title": "계동<b>피자</b>",
-      "link": "https://youtube.com/@kindk7985",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 82-1 1층 피자",
-      "roadAddress": "서울특별시 종로구 계동길 63 1층 계동피자",
-      "mapx": "1269866587",
-      "mapy": "375801802"
     }
   ]
 }

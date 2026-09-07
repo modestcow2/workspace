@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:44 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:19:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375805097"
     },
     {
+      "title": "관북",
+      "link": "https://www.instagram.com/kwan_buk/",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 11-6 1,2층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
+      "mapx": "1269808546",
+      "mapy": "375719170"
+    },
+    {
       "title": "청진옥",
       "link": "http://www.cheongjinok.com/",
       "category": "한식>해장국",
@@ -38,26 +49,15 @@
       "mapy": "375717535"
     },
     {
-      "title": "신사동인동 안녕인사동점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
-    },
-    {
-      "title": "관북",
+      "title": "성가백암순대",
       "link": "",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 11-6 1,2층",
-      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
-      "mapx": "1269808546",
-      "mapy": "375719170"
+      "address": "서울특별시 종로구 수송동 58 두산위브 1층 성가백암순대",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브 1층 성가백암순대",
+      "mapx": "1269815061",
+      "mapy": "375725618"
     }
   ]
 }

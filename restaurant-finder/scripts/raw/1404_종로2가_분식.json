@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:07 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:24:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375699854"
     },
     {
-      "title": "김가네 종각역점",
-      "link": "https://blog.naver.com/gimkong7127",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 8-4",
-      "roadAddress": "서울특별시 종로구 종로 65",
-      "mapx": "1269845724",
-      "mapy": "375704283"
-    },
-    {
       "title": "푸드카페 김밥천국 <b>종로2가</b>",
       "link": "",
       "category": "음식점>분식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로 394 1층",
       "mapx": "1269880163",
       "mapy": "375697882"
+    },
+    {
+      "title": "김가네 종각역점",
+      "link": "https://blog.naver.com/gimkong7127",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 8-4",
+      "roadAddress": "서울특별시 종로구 종로 65",
+      "mapx": "1269845724",
+      "mapy": "375704283"
     },
     {
       "title": "와이<b>분식</b>",

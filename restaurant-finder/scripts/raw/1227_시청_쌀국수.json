@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:45 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375671662"
     },
     {
-      "title": "호아빈 서울<b>시청</b>점",
-      "link": "http://www.hoabinh.co.kr/",
+      "title": "남월 <b>쌀국수</b> 안산한양대 본점",
+      "link": "https://www.threads.com/@seams5021?igshid=NTc4MTIwNjQ2YQ==",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 14-2",
-      "roadAddress": "서울특별시 중구 서소문로 139",
-      "mapx": "1269762235",
-      "mapy": "375641009"
+      "address": "경기도 안산시 상록구 사동 1568-12 101호",
+      "roadAddress": "경기도 안산시 상록구 성안길 81 101호",
+      "mapx": "1268383579",
+      "mapy": "373013740"
     }
   ]
 }

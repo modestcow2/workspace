@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:59 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:18:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,28 @@
       "roadAddress": "서울특별시 종로구 새문안로 105",
       "mapx": "1269762542",
       "mapy": "375704544"
+    },
+    {
+      "title": "키보아츠아츠 광화문",
+      "link": "https://www.instagram.com/keebo.co",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 West동 지하1층 B108-1호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     },
     {
       "title": "철길떡볶기",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
       "mapx": "1269835740",
       "mapy": "375631401"
-    },
-    {
-      "title": "신세계<b>떡볶이</b>",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 10-5",
-      "roadAddress": "서울특별시 중구 명동9길 10",
-      "mapx": "1269850160",
-      "mapy": "375642992"
-    },
-    {
-      "title": "명화당 명동1호점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-3 2층",
-      "roadAddress": "서울특별시 중구 명동4길 30 2층",
-      "mapx": "1269837950",
-      "mapy": "375623945"
     }
   ]
 }

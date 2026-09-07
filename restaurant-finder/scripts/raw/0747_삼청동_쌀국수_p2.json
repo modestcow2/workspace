@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:59 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 윤보선길 34-1 1층",
       "mapx": "1269839227",
       "mapy": "375776536"
+    },
+    {
+      "title": "마나님 레시피",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 17-1",
+      "roadAddress": "서울특별시 종로구 윤보선길 65",
+      "mapx": "1269831077",
+      "mapy": "375788802"
     },
     {
       "title": "비엣 꽌",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 인사동16길 6",
       "mapx": "1269841999",
       "mapy": "375750122"
-    },
-    {
-      "title": "마나님 레시피",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 17-1",
-      "roadAddress": "서울특별시 종로구 윤보선길 65",
-      "mapx": "1269831077",
-      "mapy": "375788802"
     },
     {
       "title": "비어셰프냐항",

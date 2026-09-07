@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:11 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "돈까스앤우찌",
+      "title": "돈우찌",
       "link": "",
       "category": "음식점>일식>돈가스",
       "description": "",
@@ -27,17 +27,6 @@
       "mapy": "375820000"
     },
     {
-      "title": "정돈 대학로본점",
-      "link": "",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 107 지층",
-      "roadAddress": "서울특별시 종로구 대학로9길 12 지층",
-      "mapx": "1270011237",
-      "mapy": "375818016"
-    },
-    {
       "title": "을지돈가스 명동본점",
       "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
       "category": "음식점>일식>돈가스",
@@ -49,15 +38,26 @@
       "mapy": "375643266"
     },
     {
-      "title": "카산도 혜화대학로점",
-      "link": "https://www.instagram.com/kasando._.hyehwa/",
+      "title": "정돈 대학로본점",
+      "link": "https://jungdon.co.kr/",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 동숭동 1-145 1층 카산도 대학로점",
-      "roadAddress": "서울특별시 종로구 동숭길 55 1층 카산도 대학로점",
-      "mapx": "1270042262",
-      "mapy": "375808772"
+      "address": "서울특별시 종로구 명륜4가 107 지층",
+      "roadAddress": "서울특별시 종로구 대학로9길 12 지층",
+      "mapx": "1270011237",
+      "mapy": "375818016"
+    },
+    {
+      "title": "대학로고래",
+      "link": "https://www.instagram.com/gorae_katsu?igsh=azNxNDE5YmkxMXZi&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 176-1 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 46 1층",
+      "mapx": "1269994495",
+      "mapy": "375826149"
     }
   ]
 }

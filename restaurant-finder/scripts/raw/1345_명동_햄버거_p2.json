@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:39 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,28 @@
       "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
       "mapx": "1269813054",
       "mapy": "375670949"
+    },
+    {
+      "title": "세븐티포 <b>명동</b>성당본점",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 1-18 명동성당 파밀리아채플 1층",
+      "roadAddress": "서울특별시 중구 명동길 66 명동성당 파밀리아채플 1층",
+      "mapx": "1269861464",
+      "mapy": "375639182"
+    },
+    {
+      "title": "다운타우너 광화문",
+      "link": "http://downtowner.co.kr/info",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 SFC몰 B1층 다운타우너 광화문",
+      "roadAddress": "서울특별시 중구 세종대로 136 SFC몰 B1층 다운타우너 광화문",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     },
     {
       "title": "바스버거 광화문점",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
       "mapx": "1269793605",
       "mapy": "375668620"
-    },
-    {
-      "title": "세븐티포 <b>명동</b>성당본점",
-      "link": "https://www.instagram.com/74_myeongdong/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 1-18 명동성당 파밀리아채플 1층",
-      "roadAddress": "서울특별시 중구 명동길 66 명동성당 파밀리아채플 1층",
-      "mapx": "1269861464",
-      "mapy": "375639182"
-    },
-    {
-      "title": "다운타우너 광화문",
-      "link": "http://downtowner.co.kr/info",
-      "category": "음식점>양식>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 SFC몰 B1층 다운타우너 광화문",
-      "roadAddress": "서울특별시 중구 세종대로 136 SFC몰 B1층 다운타우너 광화문",
-      "mapx": "1269782701",
-      "mapy": "375684246"
     }
   ]
 }

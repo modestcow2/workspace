@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:19 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:11:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375628427"
     },
     {
-      "title": "김가네 서울역점",
-      "link": "https://blog.naver.com/gimkong7127",
-      "category": "음식점>분식",
+      "title": "키보아츠아츠 광화문",
+      "link": "https://www.instagram.com/keebo.co",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 20-1 청송빌딩 102호",
-      "roadAddress": "서울특별시 중구 세종대로 28 청송빌딩 102호",
-      "mapx": "1269745759",
-      "mapy": "375589157"
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 West동 지하1층 B108-1호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     }
   ]
 }

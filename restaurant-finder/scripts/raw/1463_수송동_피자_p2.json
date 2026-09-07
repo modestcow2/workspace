@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:34 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:25:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "디디스<b>피자</b>펍 종로본점",
-      "link": "https://www.instagram.com/dds_pizzapub",
+      "link": "https://www.instagram.com/ddspizza_jongno",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375796788"
     },
     {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
-      "category": "음식점>양식",
+      "title": "지오쿠치나익선",
+      "link": "https://blog.naver.com/ziocucina_ikseon",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
+      "address": "서울특별시 종로구 익선동 166-35",
+      "roadAddress": "서울특별시 종로구 수표로28길 33-11",
+      "mapx": "1269900907",
+      "mapy": "375737098"
     }
   ]
 }

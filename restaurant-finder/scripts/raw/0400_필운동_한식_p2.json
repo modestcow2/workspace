@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:16 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:13:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375767578"
     },
     {
-      "title": "인왕산호랭이주막",
-      "link": "https://www.instagram.com/horangejoomak",
-      "category": "음식점>한식",
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 262-1 1층",
-      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
-      "mapx": "1269655596",
-      "mapy": "375756107"
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688434",
+      "mapy": "375768396"
     },
     {
       "title": "서촌 곳간",
@@ -49,15 +49,15 @@
       "mapy": "375766924"
     },
     {
-      "title": "목포세발낙지",
+      "title": "별미곱창",
       "link": "",
-      "category": "한식>낙지요리",
+      "category": "한식>곱창,막창,양",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 168 목포세발낙지",
-      "roadAddress": "서울특별시 종로구 필운대로 16 목포세발낙지",
-      "mapx": "1269695153",
-      "mapy": "375775598"
+      "address": "서울특별시 종로구 필운동 187 별미곱창",
+      "roadAddress": "서울특별시 종로구 자하문로1길 50 별미곱창",
+      "mapx": "1269696746",
+      "mapy": "375769499"
     }
   ]
 }

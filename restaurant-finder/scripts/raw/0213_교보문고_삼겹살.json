@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:47 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:10:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "고기꾼김춘배 종로직영점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
-      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
-      "mapx": "1269864928",
-      "mapy": "375690679"
-    },
     {
       "title": "뼈탄집 서촌본점",
       "link": "http://www.bornpig.co.kr/index2.php",
@@ -25,6 +14,28 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 13",
       "mapx": "1269717062",
       "mapy": "375764468"
+    },
+    {
+      "title": "고기꾼김춘배 종로직영점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gogikkun_jongno",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-23 5층 고기꾼 김춘배",
+      "roadAddress": "서울특별시 종로구 삼일대로17길 17 5층 고기꾼 김춘배",
+      "mapx": "1269864928",
+      "mapy": "375690679"
+    },
+    {
+      "title": "도틔대가",
+      "link": "https://catchtable.co.kr/dottydaega",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 54-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
+      "mapx": "1269720264",
+      "mapy": "375765472"
     },
     {
       "title": "평양고깃집",
@@ -38,26 +49,15 @@
       "mapy": "375727819"
     },
     {
-      "title": "육통령 명동본점",
-      "link": "",
+      "title": "양탄집 서촌본점",
+      "link": "https://www.instagram.com/yangtanhouse/",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
-    },
-    {
-      "title": "육즙당 광화문점",
-      "link": "https://www.instagram.com/yukzupdang_official",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 42-2 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 10-1 2층",
-      "mapx": "1269750174",
-      "mapy": "375712635"
+      "address": "서울특별시 종로구 체부동 60-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
+      "mapx": "1269720601",
+      "mapy": "375766927"
     }
   ]
 }

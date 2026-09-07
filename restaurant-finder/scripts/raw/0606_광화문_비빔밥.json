@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:54 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:15:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-27 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6 1층",
+      "mapx": "1269840246",
+      "mapy": "375753027"
+    },
     {
       "title": "함평집 서울시청점",
       "link": "",
@@ -14,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
       "mapx": "1269736340",
       "mapy": "375622716"
+    },
+    {
+      "title": "꽃밥에피다 북촌 친환경 그로서란트",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 170-4 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 39 1층",
+      "mapx": "1269848089",
+      "mapy": "375802965"
     },
     {
       "title": "익선애뜻",
@@ -27,37 +49,15 @@
       "mapy": "375733641"
     },
     {
-      "title": "익선동연리지",
-      "link": "https://www.instagram.com/yeonliji",
+      "title": "사발",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 120 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 28-1 1층",
-      "mapx": "1269903405",
-      "mapy": "375739990"
-    },
-    {
-      "title": "뚝배기집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1",
-      "roadAddress": "서울특별시 종로구 종로16길 12",
-      "mapx": "1269885481",
-      "mapy": "375695483"
-    },
-    {
-      "title": "오치교반 종로본점",
-      "link": "https://www.instagram.com/ochigyoban/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관수동 3-5 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로20길 13 1층",
-      "mapx": "1269886511",
-      "mapy": "375698176"
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
+      "mapx": "1269724791",
+      "mapy": "375735857"
     }
   ]
 }

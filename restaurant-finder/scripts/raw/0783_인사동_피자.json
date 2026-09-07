@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:16 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375736433"
     },
     {
+      "title": "빅러브토마토",
+      "link": "https://www.instagram.com/biglovetomato/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 지하2층",
+      "roadAddress": "서울특별시 종로구 우정국로 26 지하2층",
+      "mapx": "1269836590",
+      "mapy": "375714967"
+    },
+    {
       "title": "한옥파스타",
       "link": "https://www.facebook.com/jenny.sung.3958?mibextid=ZbWKwL",
       "category": "음식점>이탈리아음식",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 인사동14길 24-4 1층",
       "mapx": "1269854686",
       "mapy": "375747420"
-    },
-    {
-      "title": "옥수동화덕<b>피자</b> 종각",
-      "link": "https://www.instagram.com/oxoosourdoughpizza",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 19-1 7층 옥수동화덕피자 종각",
-      "roadAddress": "서울특별시 종로구 종로12길 14 7층 옥수동화덕피자 종각",
-      "mapx": "1269855994",
-      "mapy": "375694449"
     },
     {
       "title": "애슐리퀸즈 종각역점",
@@ -49,15 +49,15 @@
       "mapy": "375705758"
     },
     {
-      "title": "브로스",
-      "link": "http://facebook.com/thepubbros",
-      "category": "음식점>이탈리아음식",
+      "title": "옥수동화덕<b>피자</b> 종각",
+      "link": "https://www.instagram.com/oxoosourdoughpizza",
+      "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 19-21",
-      "roadAddress": "서울특별시 종로구 종로10길 13",
-      "mapx": "1269845447",
-      "mapy": "375695207"
+      "address": "서울특별시 종로구 관철동 19-1 7층 옥수동화덕피자 종각",
+      "roadAddress": "서울특별시 종로구 종로12길 14 7층 옥수동화덕피자 종각",
+      "mapx": "1269855994",
+      "mapy": "375694449"
     }
   ]
 }

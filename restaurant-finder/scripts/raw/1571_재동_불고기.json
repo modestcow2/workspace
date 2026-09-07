@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:25 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -28,14 +28,25 @@
     },
     {
       "title": "꽃밥에피다 북촌 친환경 그로서란트",
-      "link": "https://smartstore.naver.com/goodbab7",
+      "link": "https://goodbabstory.imweb.me/?redirect=no",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 가회동 170-4 1층",
       "roadAddress": "서울특별시 종로구 북촌로 39 1층",
-      "mapx": "1269847797",
-      "mapy": "375802375"
+      "mapx": "1269848089",
+      "mapy": "375802965"
+    },
+    {
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
     },
     {
       "title": "삼지",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
       "mapx": "1269860086",
       "mapy": "375782908"
-    },
-    {
-      "title": "평양고깃집",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 198-31 2층 평양 고깃집",
-      "roadAddress": "서울특별시 종로구 인사동5길 14 2층 평양 고깃집",
-      "mapx": "1269854482",
-      "mapy": "375727819"
     }
   ]
 }

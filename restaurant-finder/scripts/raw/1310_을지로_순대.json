@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:23 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,26 @@
       "mapy": "375653833"
     },
     {
-      "title": "백염막창",
-      "link": "https://app.catchtable.co.kr/ct/shop/whitesalt",
-      "category": "한식>곱창,막창,양",
+      "title": "왕<b>순대</b>",
+      "link": "",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 344-15 1층",
-      "roadAddress": "서울특별시 중구 수표로 48-3 1층",
-      "mapx": "1269901385",
-      "mapy": "375656131"
+      "address": "서울특별시 중구 초동 54 왕순대",
+      "roadAddress": "서울특별시 중구 마른내로2길 19 왕순대",
+      "mapx": "1269920361",
+      "mapy": "375635768"
+    },
+    {
+      "title": "농가<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 17-2",
+      "roadAddress": "서울특별시 중구 충무로4길 5",
+      "mapx": "1269932444",
+      "mapy": "375651393"
     },
     {
       "title": "명품을지<b>순대</b>국",
@@ -38,26 +49,15 @@
       "mapy": "375650989"
     },
     {
-      "title": "경성<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "아따 중구 <b>을지로</b>",
+      "link": "https://www.instagram.com/adda.sagyopub",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 인현동1가 102-5 1층",
-      "roadAddress": "서울특별시 중구 마른내로 50-1 (인현동1가) 1층",
-      "mapx": "1269933919",
-      "mapy": "375642608"
-    },
-    {
-      "title": "농가<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 초동 17-2",
-      "roadAddress": "서울특별시 중구 충무로4길 5",
-      "mapx": "1269932444",
-      "mapy": "375651393"
+      "address": "서울특별시 중구 을지로3가 302-4 1층, 지하 아따 중구 을지로",
+      "roadAddress": "서울특별시 중구 충무로5길 14 1층, 지하 아따 중구 을지로",
+      "mapx": "1269919265",
+      "mapy": "375652795"
     }
   ]
 }

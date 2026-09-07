@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:10 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
       "mapx": "1269845845",
       "mapy": "375765164"
-    },
-    {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
     },
     {
       "title": "니즈버거 안국점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 창덕궁길 29 창덕궁길 29",
       "mapx": "1269890960",
       "mapy": "375788406"
+    },
+    {
+      "title": "만가타",
+      "link": "https://m.booking.naver.com/booking/6/bizes/289593",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 88-17",
+      "roadAddress": "서울특별시 종로구 삼청로2길 40-5",
+      "mapx": "1269809666",
+      "mapy": "375801885"
     }
   ]
 }

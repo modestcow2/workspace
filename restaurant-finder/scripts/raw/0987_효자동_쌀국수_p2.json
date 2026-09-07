@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:53 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:19:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375764402"
     },
     {
-      "title": "오이초이 서촌점",
-      "link": "",
+      "title": "호앙비엣 종각역점",
+      "link": "https://hoang-viet.com/",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 18-9 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 19 1층",
-      "mapx": "1269707126",
-      "mapy": "375786417"
+      "address": "서울특별시 종로구 견지동 110-43 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 43 1층",
+      "mapx": "1269828093",
+      "mapy": "375728773"
     }
   ]
 }

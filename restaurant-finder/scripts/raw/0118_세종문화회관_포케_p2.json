@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:01 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:09:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "365910595"
     },
     {
-      "title": "샐러드온 조치원점",
-      "link": "https://www.instagram.com/salad_on_jochiwon?igsh=MWl5ZGc0a2J2ZThyZQ%3D%3D&utm_source=qr",
-      "category": "음식점>카페,디저트",
+      "title": "육회바른연어 <b>세종</b>홍대점",
+      "link": "https://yby.co.kr",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "세종특별자치시 조치원읍 신흥리 77-7 1층 102호",
-      "roadAddress": "세종특별자치시 조치원읍 대첩로 19-1 1층 102호",
-      "mapx": "1272939620",
-      "mapy": "365953792"
+      "address": "세종특별자치시 조치원읍 신안리 341-15 1층 육회바른연어 세종홍대점",
+      "roadAddress": "세종특별자치시 조치원읍 섭골길 86-1 1층 육회바른연어 세종홍대점",
+      "mapx": "1272862499",
+      "mapy": "366177031"
     },
     {
       "title": "샐러디아 조치원점",
@@ -36,6 +36,17 @@
       "roadAddress": "세종특별자치시 조치원읍 모과나무길 15 1층",
       "mapx": "1272861642",
       "mapy": "366072464"
+    },
+    {
+      "title": "샐러드온 조치원점",
+      "link": "https://www.instagram.com/salad_on_jochiwon?igsh=MWl5ZGc0a2J2ZThyZQ%3D%3D&utm_source=qr",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "세종특별자치시 조치원읍 신흥리 77-7 1층 102호",
+      "roadAddress": "세종특별자치시 조치원읍 대첩로 19-1 1층 102호",
+      "mapx": "1272939620",
+      "mapy": "365953792"
     },
     {
       "title": "삼스",

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:56 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:12:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "샤브샵",
-      "link": "https://www.instagram.com/karacinikora77",
-      "category": "음식점>일식>샤브샤브",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 24 1, 2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
-      "mapx": "1269709557",
-      "mapy": "375763909"
-    },
     {
       "title": "이가덕장 서촌",
       "link": "https://www.instagram.com/mr.lee_pub_house/",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 지하1층 124호",
       "mapx": "1269686008",
       "mapy": "375744035"
+    },
+    {
+      "title": "소문난매운<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
     }
   ]
 }

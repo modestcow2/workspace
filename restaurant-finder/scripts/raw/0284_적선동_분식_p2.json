@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:22 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:11:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375764902"
     },
     {
-      "title": "본김밥",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 광화문 풍림스페이스본",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
-      "mapx": "1269699607",
-      "mapy": "375746116"
-    },
-    {
       "title": "명가김밥",
       "link": "",
       "category": "분식>김밥",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 사직로 130 적선현대빌딩 아케이드 17호",
       "mapx": "1269732696",
       "mapy": "375753675"
+    },
+    {
+      "title": "본김밥",
+      "link": "",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 광화문 풍림스페이스본",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 광화문 풍림스페이스본",
+      "mapx": "1269699607",
+      "mapy": "375746116"
     },
     {
       "title": "소담",
@@ -49,15 +49,15 @@
       "mapy": "375753957"
     },
     {
-      "title": "토스토리 서울적선1호점",
-      "link": "https://blog.naver.com/toastory_1",
-      "category": "분식>토스트",
+      "title": "모던키친",
+      "link": "",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지하1층 아케이드 59호",
-      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 아케이드 59호",
-      "mapx": "1269733436",
-      "mapy": "375753767"
+      "address": "서울특별시 종로구 사직동 9 B126호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 B126호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
     }
   ]
 }

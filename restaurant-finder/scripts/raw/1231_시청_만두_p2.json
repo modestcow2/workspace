@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:47 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "마포<b>만두</b> <b>시청</b>점",
-      "link": "",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
-      "mapx": "1269795809",
-      "mapy": "375668511"
-    },
     {
       "title": "진진<b>만두</b> <b>시청</b>점",
       "link": "https://www.instagram.com/jinjin_kr/",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
       "mapx": "1269792023",
       "mapy": "375653757"
+    },
+    {
+      "title": "마포<b>만두</b> <b>시청</b>점",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
     },
     {
       "title": "북창동개성칼<b>만두</b> 서울<b>시청</b>역본점",

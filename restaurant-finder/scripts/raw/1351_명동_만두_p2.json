@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -10,32 +10,21 @@
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 25-2",
-      "roadAddress": "서울특별시 중구 명동10길 29",
-      "mapx": "1269856025",
-      "mapy": "375625491"
+      "address": "서울특별시 중구 충무로2가 64-6",
+      "roadAddress": "서울특별시 중구 퇴계로 129",
+      "mapx": "1269860958",
+      "mapy": "375611840"
     },
     {
-      "title": "<b>명동</b>교자 신관<b>명동</b>역점",
-      "link": "https://www.mdkj.co.kr",
+      "title": "<b>명동</b>교자 1호점",
+      "link": "http://www.mdkj.co.kr/",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로2가 64-6 명동교자 신관명동역점",
-      "roadAddress": "서울특별시 중구 퇴계로 129 명동교자 신관명동역점",
-      "mapx": "1269861470",
-      "mapy": "375611312"
-    },
-    {
-      "title": "남포면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 121-4",
-      "roadAddress": "서울특별시 중구 을지로3길 24",
-      "mapx": "1269815998",
-      "mapy": "375671396"
+      "address": "서울특별시 중구 명동2가 33-4 명동교자",
+      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
+      "mapx": "1269851666",
+      "mapy": "375634828"
     },
     {
       "title": "효담칼국수 닭한마리 <b>명동</b>본점",
@@ -49,15 +38,26 @@
       "mapy": "375642444"
     },
     {
-      "title": "<b>명동</b>교자 1호점",
-      "link": "http://www.mdkj.co.kr/",
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
+    },
+    {
+      "title": "<b>명동</b>교자 후",
+      "link": "https://www.mdkj.co.kr",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 33-4 명동교자",
-      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
-      "mapx": "1269851666",
-      "mapy": "375634828"
+      "address": "서울특별시 중구 명동2가 25-2",
+      "roadAddress": "서울특별시 중구 명동10길 29",
+      "mapx": "1269855971",
+      "mapy": "375625473"
     }
   ]
 }

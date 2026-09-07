@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:42 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:20:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 통일로14길 5",
       "mapx": "1269579499",
       "mapy": "375749329"
+    },
+    {
+      "title": "종로냉삼",
+      "link": "https://band.us/@jongnonaengsam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 45-19 1층 1호 종로냉삼",
+      "roadAddress": "서울특별시 종로구 통일로14길 6-3 1층 1호 종로냉삼",
+      "mapx": "1269583035",
+      "mapy": "375748170"
     },
     {
       "title": "동영숯불갈비",
@@ -38,26 +49,15 @@
       "mapy": "375708443"
     },
     {
-      "title": "이판저판",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "브루어리304",
+      "link": "https://www.brewery304.com/",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 227",
-      "roadAddress": "서울특별시 서대문구 통일로 153-1",
-      "mapx": "1269645220",
-      "mapy": "375677311"
-    },
-    {
-      "title": "명지식당",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 39 1층 명지식당",
-      "roadAddress": "서울특별시 서대문구 독립문로14길 6 1층 명지식당",
-      "mapx": "1269637410",
-      "mapy": "375670500"
+      "address": "서울특별시 서대문구 천연동 10-2",
+      "roadAddress": "서울특별시 서대문구 통일로11길 7",
+      "mapx": "1269625958",
+      "mapy": "375692283"
     }
   ]
 }

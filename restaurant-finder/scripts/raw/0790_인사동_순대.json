@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:19 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "엄용백 돼지국밥",
+      "title": "엄용백 돼지국밥 종각점",
       "link": "https://www.instagram.com/umyongbaek_kr/",
       "category": "한식>국밥",
       "description": "",
@@ -27,6 +27,28 @@
       "mapy": "375726006"
     },
     {
+      "title": "달막달막",
+      "link": "https://dalmakdalmak.com",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-20",
+      "roadAddress": "서울특별시 종로구 인사동16길 11-1",
+      "mapx": "1269841880",
+      "mapy": "375752280"
+    },
+    {
+      "title": "산산옥 종각 본점",
+      "link": "https://www.instagram.com/_sansanok_",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 6-4 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로19길 6 1층",
+      "mapx": "1269872490",
+      "mapy": "375696366"
+    },
+    {
       "title": "합천돼지국밥",
       "link": "",
       "category": "한식>국밥",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼일대로 418-3",
       "mapx": "1269879701",
       "mapy": "375720097"
-    },
-    {
-      "title": "함박웃음<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 289-2",
-      "roadAddress": "서울특별시 종로구 삼일대로 422",
-      "mapx": "1269880132",
-      "mapy": "375723557"
-    },
-    {
-      "title": "응답한다1988 떡볶이 종로",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 1층",
-      "mapx": "1269879400",
-      "mapy": "375727435"
     }
   ]
 }

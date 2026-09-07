@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:05 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:21:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375592889"
     },
     {
-      "title": "이석덕생면파스타 신촌점",
-      "link": "https://www.instagram.com/lsd_pasta/",
-      "category": "음식점>이탈리아음식",
+      "title": "1987<b>피자</b> 신촌점",
+      "link": "",
+      "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-28 2층 이석덕생면파스타",
-      "roadAddress": "서울특별시 서대문구 명물길 16 2층 이석덕생면파스타",
-      "mapx": "1269378075",
-      "mapy": "375575919"
+      "address": "서울특별시 서대문구 창천동 52-12 지하1층",
+      "roadAddress": "서울특별시 서대문구 연세로11길 26 지하1층",
+      "mapx": "1269354328",
+      "mapy": "375589926"
     },
     {
       "title": "주인백 파스타",
@@ -49,15 +49,15 @@
       "mapy": "375795267"
     },
     {
-      "title": "역대급<b>피자</b> 남가좌점",
-      "link": "",
-      "category": "음식점>피자",
+      "title": "홍제파스타",
+      "link": "http://www.instagram.com/hongjepasta",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 351-2 1층",
-      "roadAddress": "서울특별시 서대문구 거북골로 71 1층",
-      "mapx": "1269208748",
-      "mapy": "375772671"
+      "address": "서울특별시 서대문구 홍제동 330-92 1층",
+      "roadAddress": "서울특별시 서대문구 통일로39가길 24 1층",
+      "mapx": "1269429508",
+      "mapy": "375891560"
     }
   ]
 }

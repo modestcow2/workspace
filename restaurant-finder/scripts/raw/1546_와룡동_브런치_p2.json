@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:13 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -7,13 +7,24 @@
     {
       "title": "노우즈 창덕",
       "link": "https://catchtable.co.kr/knows_changdeok",
-      "category": "음식점>브런치",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 와룡동 109-1 1층",
       "roadAddress": "서울특별시 종로구 돈화문로 88-1 1층",
       "mapx": "1269905898",
       "mapy": "375763638"
+    },
+    {
+      "title": "오뉴 창덕궁",
+      "link": "http://onew.life/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 97-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 84 1층",
+      "mapx": "1269907570",
+      "mapy": "375759485"
     },
     {
       "title": "익선잡방",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 퇴계로53길 6-17 지하1층",
       "mapx": "1270044290",
       "mapy": "375642474"
-    },
-    {
-      "title": "루시드 서울",
-      "link": "http://instagram.com/lucyd_seoul",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 운니동 62-1 1층 101호",
-      "roadAddress": "서울특별시 종로구 삼일대로32길 45 1층 101호",
-      "mapx": "1269895257",
-      "mapy": "375756045"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:08 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "신사동인동 안녕<b>인사동</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 종로구 관훈동 118-27 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6 1층",
+      "mapx": "1269840246",
+      "mapy": "375753027"
     },
     {
       "title": "인사도담",
@@ -27,17 +27,6 @@
       "mapy": "375751014"
     },
     {
-      "title": "꽃밥에피다",
-      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 118-27",
-      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
-      "mapx": "1269840246",
-      "mapy": "375753027"
-    },
-    {
       "title": "툇마루집된장예술",
       "link": "",
       "category": "한식>비빔밥",
@@ -49,15 +38,26 @@
       "mapy": "375733999"
     },
     {
-      "title": "샤브가든 종로타워점",
+      "title": "도마 <b>인사동</b>점",
+      "link": "https://www.instagram.com/doma_insa/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 15-1 1층 도마",
+      "roadAddress": "서울특별시 종로구 인사동8길 6-1 1층 도마",
+      "mapx": "1269858347",
+      "mapy": "375738125"
+    },
+    {
+      "title": "종각밥상",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하2층 B211-1호",
-      "mapx": "1269836385",
-      "mapy": "375707534"
+      "address": "서울특별시 종로구 인사동 241 1층 ~ 2층",
+      "roadAddress": "서울특별시 종로구 종로11길 9-10 1층 ~ 2층",
+      "mapx": "1269852353",
+      "mapy": "375709516"
     }
   ]
 }

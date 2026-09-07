@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:01 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:28:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375801579"
     },
     {
-      "title": "중국",
-      "link": "",
+      "title": "신승관",
+      "link": "https://m.blog.naver.com/wmedia77/223171955325",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
+      "address": "서울특별시 종로구 종로1가 24 217호",
+      "roadAddress": "서울특별시 종로구 종로 19 217호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     }
   ]
 }

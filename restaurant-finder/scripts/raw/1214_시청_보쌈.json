@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:39 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "박만배아리랑<b>보쌈</b> 부천중동점",
-      "link": "",
+      "link": "https://www.instagram.com/manbae_arirang_jungdong?igsi=NWNuNnlvZXpyeTMw",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
@@ -27,15 +27,15 @@
       "mapy": "375023616"
     },
     {
-      "title": "국보1호점",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "미쓰족발 서울명동점",
+      "link": "https://blog.naver.com/dogsmile",
+      "category": "육류,고기요리>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1301 203동 1층 1094호",
-      "roadAddress": "경기도 부천시 원미구 길주로 234 203동 1층 1094호",
-      "mapx": "1267681627",
-      "mapy": "375032053"
+      "address": "서울특별시 중구 을지로2가 199-45 미쓰족발 서울명동점",
+      "roadAddress": "서울특별시 중구 명동3길 21 미쓰족발 서울명동점",
+      "mapx": "1269834714",
+      "mapy": "375646640"
     },
     {
       "title": "통영돌문어<b>보쌈</b> 본점",
@@ -49,15 +49,15 @@
       "mapy": "372590579"
     },
     {
-      "title": "밥엔 청국장 성남<b>시청</b>점",
+      "title": "국보1호점",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "경기도 성남시 중원구 여수동 212 1층 102호",
-      "roadAddress": "경기도 성남시 중원구 성남대로997번길 25-13 1층 102호",
-      "mapx": "1271264382",
-      "mapy": "374179573"
+      "address": "경기도 부천시 원미구 중동 1301 203동 1층 1094호",
+      "roadAddress": "경기도 부천시 원미구 길주로 234 203동 1층 1094호",
+      "mapx": "1267679720",
+      "mapy": "375030268"
     }
   ]
 }

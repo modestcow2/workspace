@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:55 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:16:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,26 @@
       "mapy": "375744663"
     },
     {
-      "title": "떡상 인사동",
-      "link": "https://www.instagram.com/tteogsang__anguk?igsh=MTI4NXh3NjZiZ2tlag==",
+      "title": "헝그리서울 인사동본점",
+      "link": "",
       "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 89 1층 떡상",
-      "roadAddress": "서울특별시 종로구 인사동14길 43 1층 떡상",
-      "mapx": "1269848065",
-      "mapy": "375750243"
+      "address": "서울특별시 종로구 관훈동 118-6",
+      "roadAddress": "서울특별시 종로구 인사동16길 8-3",
+      "mapx": "1269844185",
+      "mapy": "375751978"
     },
     {
-      "title": "아키",
-      "link": "",
-      "category": "술집>이자카야",
+      "title": "인사동 화원",
+      "link": "http://instagram.com/choihun81",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 140-42 2층",
-      "roadAddress": "서울특별시 종로구 창덕궁1길 42 2층",
-      "mapx": "1269868677",
-      "mapy": "375794333"
+      "address": "서울특별시 종로구 관훈동 29-16 인사동 화원",
+      "roadAddress": "서울특별시 종로구 인사동8길 12 인사동 화원",
+      "mapx": "1269859642",
+      "mapy": "375738998"
     },
     {
       "title": "어부몽 인사점",

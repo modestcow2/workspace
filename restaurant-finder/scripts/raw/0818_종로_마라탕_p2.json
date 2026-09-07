@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:33 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:17:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375695065"
     },
     {
+      "title": "샹츠마라 <b>종로</b>점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-14 2층",
+      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
+      "mapx": "1269859110",
+      "mapy": "375686220"
+    },
+    {
       "title": "신룽푸<b>마라탕</b>두타몰점",
       "link": "",
       "category": "중식>중식당",
@@ -27,19 +38,8 @@
       "mapy": "375685686"
     },
     {
-      "title": "샹츠마라 <b>종로</b>점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 11-14 2층",
-      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
-      "mapx": "1269859110",
-      "mapy": "375686220"
-    },
-    {
       "title": "하우<b>마라탕</b> <b>종로</b>점",
-      "link": "",
+      "link": "https://www.instagram.com/hawoo_jongno?igsh=N3VkYzNlM3o5Z3lp",
       "category": "중식>마라탕",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375695603"
     },
     {
-      "title": "여의주훠궈관 을지로본점",
-      "link": "https://www.instagram.com/yeouijuhuoguo",
-      "category": "중식>중식당",
+      "title": "오라카이 대학로 호텔 탕초루",
+      "link": "https://dh.orakaihotels.com/kr/bar/TangChaoLou.asp?mCode=3",
+      "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 323 4층 403호",
-      "roadAddress": "서울특별시 중구 을지로12길 12 4층 403호",
-      "mapx": "1269910635",
-      "mapy": "375657466"
+      "address": "서울특별시 종로구 원남동 49-17 오라카이 대학로 호텔 3층",
+      "roadAddress": "서울특별시 종로구 율곡로 180 오라카이 대학로 호텔 3층",
+      "mapx": "1269987136",
+      "mapy": "375756401"
     }
   ]
 }

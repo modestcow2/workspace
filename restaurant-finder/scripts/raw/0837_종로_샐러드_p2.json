@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:42 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:18:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "익선잡방",
-      "link": "http://www.instagram.com/ikseon_jabbang",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
-      "mapx": "1269894722",
-      "mapy": "375733980"
-    },
     {
       "title": "신선식탁 광화문G타워점",
       "link": "",
@@ -27,8 +16,8 @@
       "mapy": "375727137"
     },
     {
-      "title": "파작",
-      "link": "https://store.tossplace.com/order/136462",
+      "title": "파작 청계천",
+      "link": "https://toss.place/_p/m5VmI2IFt",
       "category": "양식>샌드위치",
       "description": "",
       "telephone": "",
@@ -38,26 +27,37 @@
       "mapy": "375689410"
     },
     {
-      "title": "도트블랭킷 안국점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
       "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 83 1층 도트블랭킷 안국점",
-      "roadAddress": "서울특별시 종로구 윤보선길 22 1층 도트블랭킷 안국점",
-      "mapx": "1269840927",
-      "mapy": "375770264"
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
     },
     {
-      "title": "엘 샌드위치 <b>종로</b>점",
-      "link": "http://elsandwich.co.kr",
-      "category": "양식>샌드위치",
+      "title": "크리스피프레시 광화문점",
+      "link": "https://www.instagram.com/crispyfreshsalad",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 36-2 1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 14 1층",
-      "mapx": "1269817979",
-      "mapy": "375750480"
+      "address": "서울특별시 중구 다동 39 케이스퀘어시티 1층",
+      "roadAddress": "서울특별시 중구 청계천로 24 케이스퀘어시티 1층",
+      "mapx": "1269803445",
+      "mapy": "375686380"
+    },
+    {
+      "title": "해운대달맞이빵 청계천점",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 43-9 1층, 2층",
+      "roadAddress": "서울특별시 종로구 청계천로 59 1층, 2층",
+      "mapx": "1269841789",
+      "mapy": "375689151"
     }
   ]
 }

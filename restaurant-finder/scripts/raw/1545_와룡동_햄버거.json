@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:12 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,28 +14,6 @@
       "roadAddress": "서울특별시 중구 남대문로9길 24 1층 103호, 104호",
       "mapx": "1269813054",
       "mapy": "375670949"
-    },
-    {
-      "title": "잭잭 안국점",
-      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 159 101호, 201호",
-      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
-      "mapx": "1269845845",
-      "mapy": "375765164"
-    },
-    {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
     },
     {
       "title": "버거파크 혜화점",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 동숭3길 6-4 1층 혜화동버거",
       "mapx": "1270047525",
       "mapy": "375811462"
+    },
+    {
+      "title": "잭잭 안국점",
+      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 159 101호, 201호",
+      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
+      "mapx": "1269845845",
+      "mapy": "375765164"
+    },
+    {
+      "title": "니즈버거 을지로점",
+      "link": "https://www.instagram.com/needs_burger",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 84-4 1층 니즈버거",
+      "roadAddress": "서울특별시 중구 마른내로 13 1층 니즈버거",
+      "mapx": "1269893982",
+      "mapy": "375648615"
     }
   ]
 }

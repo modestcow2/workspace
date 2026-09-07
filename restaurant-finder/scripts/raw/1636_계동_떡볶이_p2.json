@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:56 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:27:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375825823"
     },
     {
-      "title": "순이네가게",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 146-2",
-      "roadAddress": "서울특별시 종로구 율곡로 67",
-      "mapx": "1269867152",
-      "mapy": "375773052"
-    },
-    {
       "title": "종로수제비 <b>계동</b>점",
       "link": "",
       "category": "음식점>한식",
@@ -49,15 +38,26 @@
       "mapy": "375778450"
     },
     {
-      "title": "배떡 로제<b>떡볶이</b> 종로점",
+      "title": "순이네가게",
       "link": "",
-      "category": "음식점>분식",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
-      "roadAddress": "서울특별시 종로구 북촌로 35-4",
-      "mapx": "1269847145",
-      "mapy": "375798137"
+      "address": "서울특별시 종로구 계동 146-2",
+      "roadAddress": "서울특별시 종로구 율곡로 67",
+      "mapx": "1269867152",
+      "mapy": "375773052"
+    },
+    {
+      "title": "명품삼청동<b>떡볶이</b>",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 165-2",
+      "roadAddress": "서울특별시 종로구 북촌로 33-2",
+      "mapx": "1269848818",
+      "mapy": "375798891"
     }
   ]
 }

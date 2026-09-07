@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:52 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:22:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,37 @@
       "mapy": "375696647"
     },
     {
-      "title": "복성각 <b>덕수궁</b>점",
-      "link": "https://www.instagram.com/boksung_meal",
+      "title": "후후관",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 54-2 2층",
+      "roadAddress": "서울특별시 중구 서소문로11길 2 2층",
+      "mapx": "1269731305",
+      "mapy": "375630265"
+    },
+    {
+      "title": "복운각",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
       "address": "서울특별시 중구 태평로2가 366-1 오천회관빌딩 2층",
       "roadAddress": "서울특별시 중구 덕수궁길 7 오천회관빌딩 2층",
-      "mapx": "1269763352",
-      "mapy": "375646727"
+      "mapx": "1269763164",
+      "mapy": "375646653"
+    },
+    {
+      "title": "열빈 광화문점",
+      "link": "https://blog.naver.com/yb_food",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 60-17",
+      "roadAddress": "서울특별시 중구 세종대로21길 22",
+      "mapx": "1269760497",
+      "mapy": "375675869"
     },
     {
       "title": "도원",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 9 서울적십자병원 별관 3층 도원",
       "mapx": "1269673413",
       "mapy": "375669224"
-    },
-    {
-      "title": "대상해",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
-      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
-      "mapx": "1269765840",
-      "mapy": "375683348"
-    },
-    {
-      "title": "유방녕의 웍",
-      "link": "https://www.instagram.com/liufangning_wok",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 52-7 2층",
-      "roadAddress": "서울특별시 중구 서소문로11길 8 2층",
-      "mapx": "1269730355",
-      "mapy": "375633273"
     }
   ]
 }

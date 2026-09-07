@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:14 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:23:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 중구 주교동 118-1",
       "roadAddress": "서울특별시 중구 창경궁로 62-29",
-      "mapx": "1269987029",
-      "mapy": "375682697"
+      "mapx": "1269987278",
+      "mapy": "375681693"
     },
     {
-      "title": "순우블랙",
-      "link": "https://Instagram.com/soonwoo_black",
-      "category": "한식>소고기구이",
+      "title": "대화정 진짜해장국",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-62",
-      "roadAddress": "서울특별시 중구 명동9길 37-3",
-      "mapx": "1269840365",
-      "mapy": "375654157"
+      "address": "서울특별시 중구 을지로6가 18-85 1층",
+      "roadAddress": "서울특별시 중구 장충단로 249-20 1층",
+      "mapx": "1270077650",
+      "mapy": "375675412"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:22 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:26:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375781862"
     },
     {
-      "title": "비움안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
-      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
-      "mapx": "1269856635",
-      "mapy": "375791098"
-    },
-    {
       "title": "로우파이브 안국",
       "link": "https://www.instagram.com/lowfive_club",
       "category": "음식점>양식",
@@ -38,6 +27,28 @@
       "mapy": "375786322"
     },
     {
+      "title": "비움안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
+      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
+      "mapx": "1269856635",
+      "mapy": "375791098"
+    },
+    {
+      "title": "갓잇 안국점",
+      "link": "https://app.catchtable.co.kr/ct/shop/godeat_anguk",
+      "category": "음식점>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-30 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-5 1층",
+      "mapx": "1269859643",
+      "mapy": "375781671"
+    },
+    {
       "title": "더타코부스 NYC 안국점",
       "link": "",
       "category": "음식점>양식>멕시코,남미음식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
       "mapx": "1269860399",
       "mapy": "375774613"
-    },
-    {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
     }
   ]
 }

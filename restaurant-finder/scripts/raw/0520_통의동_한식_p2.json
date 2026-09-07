@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:13 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:14:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375793735"
     },
     {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
+    },
+    {
       "title": "인왕산호랭이주막",
       "link": "https://www.instagram.com/horangejoomak",
       "category": "음식점>한식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
       "mapx": "1269655596",
       "mapy": "375756107"
-    },
-    {
-      "title": "강구미주구리",
-      "link": "",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 46-3",
-      "roadAddress": "서울특별시 종로구 자하문로2길 5",
-      "mapx": "1269730496",
-      "mapy": "375765781"
     },
     {
       "title": "대선칼국수",

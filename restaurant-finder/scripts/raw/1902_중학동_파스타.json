@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:58 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:30:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
       "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
-      "mapx": "1269805312",
-      "mapy": "375755019"
+      "mapx": "1269806761",
+      "mapy": "375755559"
     },
     {
       "title": "독립밀방 익선",
@@ -27,26 +27,26 @@
       "mapy": "375740791"
     },
     {
-      "title": "반기다 익선",
-      "link": "http://www.instagram.com/bangida_ikseon",
-      "category": "음식점>퓨전음식",
+      "title": "익선잡방",
+      "link": "http://www.instagram.com/ikseon_jabbang",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-52 반기다",
-      "roadAddress": "",
-      "mapx": "1269892898",
-      "mapy": "375736887"
+      "address": "서울특별시 종로구 익선동 166-80 익선잡방",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-21 익선잡방",
+      "mapx": "1269894722",
+      "mapy": "375733980"
     },
     {
-      "title": "정원레스토랑 어반가든",
-      "link": "http://urbangarden.co.kr",
-      "category": "음식점>양식",
+      "title": "스파게티가있는풍경 광화문점",
+      "link": "https://www.instagram.com/pomodori_park",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 28-2",
-      "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
+      "address": "서울특별시 종로구 신문로1가 1-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
+      "mapx": "1269761832",
+      "mapy": "375704933"
     },
     {
       "title": "디라이프스타일키친 광화문점",

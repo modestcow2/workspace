@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:34 +0900",
+  "lastBuildDate": "Mon, 07 Sep 2026 17:29:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375710027"
     },
     {
+      "title": "우슴 광화문 직영점",
+      "link": "https://blog.naver.com/wusm-official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
+    },
+    {
       "title": "이도곰탕 광화문 직영점",
       "link": "https://www.instagram.com/ido_gomtang_gh",
       "category": "음식점>한식>곰탕,설렁탕",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 우정국로 38-13",
       "mapx": "1269839047",
       "mapy": "375727663"
-    },
-    {
-      "title": "미성옥",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 54-6",
-      "roadAddress": "서울특별시 중구 명동길 25-11",
-      "mapx": "1269839596",
-      "mapy": "375641835"
     }
   ]
 }

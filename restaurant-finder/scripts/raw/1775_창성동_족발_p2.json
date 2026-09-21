@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:00 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:10:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "할매집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 108",
-      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
-      "mapx": "1269714754",
-      "mapy": "375756601"
-    },
-    {
-      "title": "효자왕<b>족발</b>",
-      "link": "https://www.instagram.com/seochonhotpot",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-12",
-      "roadAddress": "서울특별시 종로구 자하문로 31-2",
-      "mapx": "1269712642",
-      "mapy": "375787993"
-    },
     {
       "title": "종로족빨 종로본점",
       "link": "http://027341222.bdp.kr/",
@@ -38,15 +16,15 @@
       "mapy": "375693280"
     },
     {
-      "title": "서촌 곳간",
+      "title": "할매집",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 146-1 1층",
-      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
-      "mapx": "1269693165",
-      "mapy": "375766924"
+      "address": "서울특별시 종로구 내자동 108",
+      "roadAddress": "서울특별시 종로구 사직로12길 1-5",
+      "mapx": "1269714754",
+      "mapy": "375756601"
     },
     {
       "title": "장충가마솥한방<b>족발</b>",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 서대문구 영천시장길 31 1층",
       "mapx": "1269612443",
       "mapy": "375708161"
+    },
+    {
+      "title": "효자왕<b>족발</b>",
+      "link": "https://www.instagram.com/hyojafnb/?hl=ko",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
+    },
+    {
+      "title": "서촌 곳간",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 146-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 6-1 1층",
+      "mapx": "1269693165",
+      "mapy": "375766924"
     }
   ]
 }

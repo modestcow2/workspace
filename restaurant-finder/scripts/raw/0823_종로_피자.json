@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:35 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:57:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375741979"
     },
     {
+      "title": "지오쿠치나익선",
+      "link": "https://blog.naver.com/ziocucina_ikseon",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-35",
+      "roadAddress": "서울특별시 종로구 수표로28길 33-11",
+      "mapx": "1269900907",
+      "mapy": "375737098"
+    },
+    {
       "title": "옥수동화덕<b>피자</b> 종각",
       "link": "https://www.instagram.com/oxoosourdoughpizza",
       "category": "음식점>피자",
@@ -27,26 +38,15 @@
       "mapy": "375694449"
     },
     {
-      "title": "지오쿠치나익선",
-      "link": "https://www.instagram.com/ziocucina_ikseon/",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-35",
-      "roadAddress": "서울특별시 종로구 수표로28길 33-11",
-      "mapx": "1269900907",
-      "mapy": "375737098"
-    },
-    {
-      "title": "파이프그라운드 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/pipeground_gwanghwamun",
+      "title": "퍼블릭도원 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/publicdowon",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 권농동 189-2 2층",
+      "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
+      "mapx": "1269921439",
+      "mapy": "375742047"
     },
     {
       "title": "스파게티가있는풍경 광화문점",

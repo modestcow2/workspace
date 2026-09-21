@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:18 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:54:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 17-4 1층",
       "mapx": "1269738782",
       "mapy": "375766155"
-    },
-    {
-      "title": "만석꾼",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 43-3",
-      "roadAddress": "서울특별시 종로구 자하문로2길 9",
-      "mapx": "1269732552",
-      "mapy": "375765769"
     },
     {
       "title": "서래미소 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로 49-10 1층",
       "mapx": "1269649269",
       "mapy": "375737152"
+    },
+    {
+      "title": "온점 을지로점",
+      "link": "https://www.instagram.com/onjeom.seoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 87 지1층",
+      "roadAddress": "서울특별시 중구 을지로 29 지1층",
+      "mapx": "1269810422",
+      "mapy": "375664910"
     }
   ]
 }

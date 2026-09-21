@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:16 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:07:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375706504"
     },
     {
+      "title": "평해옥",
+      "link": "https://www.instagram.com/pyeonghaeok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 80-2",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 17",
+      "mapx": "1269889570",
+      "mapy": "375734036"
+    },
+    {
       "title": "어부몽 인사점",
       "link": "https://www.instagram.com/abumong.2024",
       "category": "음식점>한식",
@@ -27,15 +38,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "밥짓고티우림",
+      "title": "은성 <b>한정식</b>",
       "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 성북구 동소문동1가 45-1 2층",
-      "roadAddress": "서울특별시 성북구 성북로2길 15 2층",
-      "mapx": "1270066792",
-      "mapy": "375893178"
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
     },
     {
       "title": "동화고옥 을지로점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 을지로 170 1층 123호",
       "mapx": "1269978993",
       "mapy": "375659332"
-    },
-    {
-      "title": "은성 <b>한정식</b>",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
-      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
-      "mapx": "1269814980",
-      "mapy": "375729994"
     }
   ]
 }

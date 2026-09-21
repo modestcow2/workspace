@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:17 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:54:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -39,7 +39,7 @@
     },
     {
       "title": "광화문<b>국밥</b>",
-      "link": "",
+      "link": "https://gwanghwamungukbap.netlify.app/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375689749"
     },
     {
-      "title": "화목순대국전문 광화문1호점",
-      "link": "",
+      "title": "관북",
+      "link": "https://www.instagram.com/kwan_buk/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 40",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11",
-      "mapx": "1269747764",
-      "mapy": "375712514"
+      "address": "서울특별시 종로구 청진동 11-6 1,2층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
+      "mapx": "1269808546",
+      "mapy": "375719170"
     }
   ]
 }

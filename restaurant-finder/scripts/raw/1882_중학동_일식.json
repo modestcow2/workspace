@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:49 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:11:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "진가와 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/jinkawagwm",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 진가와",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 진가와",
-      "mapx": "1269790252",
-      "mapy": "375747276"
-    },
     {
       "title": "스시산원 궁",
       "link": "https://www.instagram.com/sushi_sanwongung/",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
       "mapx": "1269788207",
       "mapy": "375746201"
+    },
+    {
+      "title": "진가와 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinkawagwm",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 진가와",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 진가와",
+      "mapx": "1269790252",
+      "mapy": "375747276"
     },
     {
       "title": "계도 케이트윈타워",
@@ -38,15 +38,15 @@
       "mapy": "375746798"
     },
     {
-      "title": "동해도 광화문점",
-      "link": "https://www.instagram.com/donghaedo1987",
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
-      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
-      "mapx": "1269794820",
-      "mapy": "375684296"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "오레노 야끼 종로점",

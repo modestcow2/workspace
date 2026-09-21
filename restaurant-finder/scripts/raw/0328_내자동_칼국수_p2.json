@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:43 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:51:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375801317"
     },
     {
-      "title": "삼봉도담",
-      "link": "https://sambongdodam.com",
-      "category": "한식>칼국수,만두",
+      "title": "봉평 옹심이 막국수",
+      "link": "",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-34 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
-      "mapx": "1269825289",
-      "mapy": "375729806"
+      "address": "서울특별시 종로구 평동 164 2층 ( 164, 적십자 별관)",
+      "roadAddress": "서울특별시 종로구 새문안로 9 2층 (평동 164, 적십자 별관)",
+      "mapx": "1269673144",
+      "mapy": "375669020"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:46 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:09:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "비움안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
+      "title": "헤비<b>스테이크</b> 안국역점",
+      "link": "http://www.heavysteak.co.kr",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
-      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
-      "mapx": "1269856635",
-      "mapy": "375791098"
+      "address": "서울특별시 종로구 계동 146-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 67 1층",
+      "mapx": "1269866512",
+      "mapy": "375772781"
     },
     {
       "title": "콩카세 안국",
@@ -27,30 +27,8 @@
       "mapy": "375781862"
     },
     {
-      "title": "헤비<b>스테이크</b> 안국역점",
-      "link": "http://www.heavysteak.co.kr",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 146-2 1층",
-      "roadAddress": "서울특별시 종로구 율곡로 67 1층",
-      "mapx": "1269866512",
-      "mapy": "375772781"
-    },
-    {
-      "title": "르꼬숑",
-      "link": "https://www.instagram.com/lecochon.seoul",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 원서동 219 3층",
-      "roadAddress": "서울특별시 종로구 율곡로 83 3층",
-      "mapx": "1269883592",
-      "mapy": "375778205"
-    },
-    {
       "title": "콩지POT지",
-      "link": "https://blog.naver.com/konggpotg",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 북촌로 21-15 1,2층",
       "mapx": "1269843199",
       "mapy": "375788262"
+    },
+    {
+      "title": "비움안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
+      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
+      "mapx": "1269856635",
+      "mapy": "375791098"
+    },
+    {
+      "title": "르꼬숑",
+      "link": "https://litt.ly/lecochon",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 원서동 219 3층",
+      "roadAddress": "서울특별시 종로구 율곡로 83 3층",
+      "mapx": "1269883592",
+      "mapy": "375778205"
     }
   ]
 }

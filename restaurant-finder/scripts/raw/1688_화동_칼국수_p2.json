@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:21 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:09:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -10,21 +10,10 @@
       "category": "한식>막국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 지하 1층.",
-      "roadAddress": "서울특별시 종로구 삼청로 141 지하 1층.",
+      "address": "서울특별시 종로구 삼청동 15-2 지하 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 141 지하 1층",
       "mapx": "1269815077",
       "mapy": "375878351"
-    },
-    {
-      "title": "봉탁항아리바비큐 불쭈꾸미 삼청동 본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 61-4",
-      "roadAddress": "서울특별시 종로구 삼청로 104-3",
-      "mapx": "1269824147",
-      "mapy": "375845995"
     },
     {
       "title": "삼청로조개<b>칼국수</b>",
@@ -38,6 +27,17 @@
       "mapy": "375863317"
     },
     {
+      "title": "봉탁항아리바비큐 불쭈꾸미 삼청동 본점",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 61-4",
+      "roadAddress": "서울특별시 종로구 삼청로 104-3",
+      "mapx": "1269824147",
+      "mapy": "375845995"
+    },
+    {
       "title": "삼청동수제비",
       "link": "http://www.삼청동수제비.kr",
       "category": "음식점>한식",
@@ -49,15 +49,15 @@
       "mapy": "375845273"
     },
     {
-      "title": "봉이밥 삼청동점",
+      "title": "눈나무집",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>국수",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
+      "address": "서울특별시 종로구 삼청동 20-8",
+      "roadAddress": "서울특별시 종로구 삼청로 136-1",
+      "mapx": "1269818766",
+      "mapy": "375874830"
     }
   ]
 }

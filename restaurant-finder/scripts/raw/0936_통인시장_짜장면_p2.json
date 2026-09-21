@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:28 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:59:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375861990"
     },
     {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
+      "title": "뉴문",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
+      "address": "서울특별시 종로구 내수동 110-39 지상2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 6 지상2층",
+      "mapx": "1269709962",
+      "mapy": "375726484"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:59 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:03:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -28,7 +28,7 @@
     },
     {
       "title": "마라붐 시청점",
-      "link": "https://blog.naver.com/pheby8888/223943998865",
+      "link": "https://www.instagram.com/maraboom_official",
       "category": "중식>마라탕",
       "description": "",
       "telephone": "",
@@ -49,14 +49,14 @@
       "mapy": "375632968"
     },
     {
-      "title": "광화문미시엔",
+      "title": "춘리<b>마라탕</b> 신문로점",
       "link": "",
-      "category": "중식>중식당",
+      "category": "중식>마라탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 지하1층109-2",
-      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층109-2",
-      "mapx": "1269749335",
+      "address": "서울특별시 종로구 신문로1가 163 광화문오피시아",
+      "roadAddress": "서울특별시 종로구 새문안로 92 광화문오피시아",
+      "mapx": "1269748850",
       "mapy": "375697325"
     }
   ]

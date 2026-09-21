@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:37 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:51:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375753767"
     },
     {
-      "title": "<b>샐러드</b>하우스",
-      "link": "https://blog.naver.com/saladhouse",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 156 광화문플래티넘빌딩 B1층 119호",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 28 광화문플래티넘빌딩 B1층 119호",
-      "mapx": "1269736144",
-      "mapy": "375744582"
-    },
-    {
       "title": "슬로우캘리 경복궁점",
       "link": "http://www.slowcali.co.kr",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -38,15 +27,15 @@
       "mapy": "375749172"
     },
     {
-      "title": "쁄라샌드위치",
-      "link": "https://100원커피이벤트-선착순주문하기.com",
-      "category": "양식>샌드위치",
+      "title": "더샌드위치",
+      "link": "",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 지하1층 21호",
-      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 21호",
-      "mapx": "1269733437",
-      "mapy": "375753767"
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본201동 107-b호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본201동 107-b호",
+      "mapx": "1269693501",
+      "mapy": "375748927"
     },
     {
       "title": "더솔키친",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 16 1층 더솔키친",
       "mapx": "1269735369",
       "mapy": "375764552"
+    },
+    {
+      "title": "미라클샌드위치 샌드위치박스 컵과일샌드위치도시락단체주문",
+      "link": "",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 적선현대빌딩 B1 34호",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대빌딩 B1 34호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
     }
   ]
 }

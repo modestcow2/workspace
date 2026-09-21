@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:29 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:11:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "link": "https://blog.naver.com/wusm-official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -38,17 +38,6 @@
       "mapy": "375720689"
     },
     {
-      "title": "광화문정육",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 1층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 1층",
-      "mapx": "1269756171",
-      "mapy": "375712733"
-    },
-    {
       "title": "육즙당 광화문점",
       "link": "https://www.instagram.com/yukzupdang_official",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 10-1 2층",
       "mapx": "1269750174",
       "mapy": "375712635"
+    },
+    {
+      "title": "나무향기",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 145 1층 108호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 47 1층 108호",
+      "mapx": "1269735239",
+      "mapy": "375714607"
     }
   ]
 }

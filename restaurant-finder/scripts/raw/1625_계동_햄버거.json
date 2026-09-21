@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:51 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:08:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375765164"
     },
     {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
-    {
       "title": "벅벅 종로혜화점",
       "link": "https://instagram.com/burg_burg_?igshid=t81zuyryusc3",
       "category": "음식점>햄버거",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로4길 37 5-6층",
       "mapx": "1269943853",
       "mapy": "375701678"
+    },
+    {
+      "title": "버거옥 종로점",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 56-24 1층~4층",
+      "roadAddress": "서울특별시 종로구 삼일대로 396 1층~4층",
+      "mapx": "1269879939",
+      "mapy": "375698705"
     }
   ]
 }

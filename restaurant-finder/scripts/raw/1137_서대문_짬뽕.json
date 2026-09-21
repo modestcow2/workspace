@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:02 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:02:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 서대문구 연희로15길 21",
       "mapx": "1269304986",
       "mapy": "375683712"
-    },
-    {
-      "title": "락희안 가좌본점",
-      "link": "https://www.instagram.com/the_lexian/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 336-20 1, 2층",
-      "roadAddress": "서울특별시 서대문구 가재울로4길 53 1, 2층",
-      "mapx": "1269241681",
-      "mapy": "375760987"
     },
     {
       "title": "댄싱홍콩 신촌점",
@@ -49,15 +38,26 @@
       "mapy": "375675500"
     },
     {
-      "title": "라이빈",
-      "link": "https://youtu.be/ziX46kfwnJQ?si=vUSOHDGuxKmAS_74",
+      "title": "무궁화반점 신촌점",
+      "link": "https://www.instagram.com/mugunghwabanjum_com",
+      "category": "음식점>중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 20-44",
+      "roadAddress": "서울특별시 서대문구 신촌로 117",
+      "mapx": "1269389936",
+      "mapy": "375559862"
+    },
+    {
+      "title": "복성각",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 옥천동 15 1층",
-      "roadAddress": "서울특별시 서대문구 영천시장길 66 1층",
-      "mapx": "1269624726",
-      "mapy": "375696654"
+      "address": "서울특별시 서대문구 충정로2가 2-2 충정빌딩 지하1층 복성각",
+      "roadAddress": "서울특별시 서대문구 통일로 135 충정빌딩 지하1층 복성각",
+      "mapx": "1269655521",
+      "mapy": "375664102"
     }
   ]
 }

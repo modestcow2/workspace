@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:50 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:54:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "스시누하",
-      "link": "https://catchtable.co.kr/sushi_nuha",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 146-3 스시누하",
-      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
-      "mapx": "1269686694",
-      "mapy": "375791432"
-    },
     {
       "title": "스시호센",
       "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
@@ -27,15 +16,15 @@
       "mapy": "375748513"
     },
     {
-      "title": "오카즈",
-      "link": "http://catchtable.co.kr/ohkaz",
+      "title": "스시누하",
+      "link": "https://catchtable.co.kr/sushi_nuha",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 112 1층 오카즈",
-      "roadAddress": "서울특별시 종로구 자하문로 49-1 1층 오카즈",
-      "mapx": "1269709630",
-      "mapy": "375804953"
+      "address": "서울특별시 종로구 누하동 146-3 스시누하",
+      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
+      "mapx": "1269686694",
+      "mapy": "375791432"
     },
     {
       "title": "우직 경복궁점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
       "mapx": "1269708497",
       "mapy": "375766102"
+    },
+    {
+      "title": "스시이찌 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushiichi_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 75 용비어천가 지하1층 120호",
+      "roadAddress": "서울특별시 종로구 새문안로3길 36 용비어천가 지하1층 120호",
+      "mapx": "1269732813",
+      "mapy": "375734105"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:16 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375770264"
     },
     {
-      "title": "소금집델리 안국",
-      "link": "https://www.salthousekorea.com",
-      "category": "양식>샌드위치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 101-12 1층",
-      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
-      "mapx": "1269863175",
-      "mapy": "375794136"
-    },
-    {
       "title": "엘 샌드위치 종로점",
       "link": "http://elsandwich.co.kr",
       "category": "양식>샌드위치",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 14 1층",
       "mapx": "1269817979",
       "mapy": "375750480"
+    },
+    {
+      "title": "소금집델리 안국",
+      "link": "https://www.salthousekorea.com",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 101-12 1층",
+      "roadAddress": "서울특별시 종로구 북촌로4길 19 1층",
+      "mapx": "1269863175",
+      "mapy": "375794136"
     },
     {
       "title": "도트블랭킷 삼청한옥점",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:41 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:08:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375716439"
     },
     {
-      "title": "장수<b>삼계탕</b>",
+      "title": "성북동누룽지백숙",
       "link": "",
-      "category": "한식>백숙,삼계탕",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 236-1 낙원빌딩 2층 장수삼계탕",
-      "roadAddress": "서울특별시 종로구 종로17길 52 낙원빌딩 2층 장수삼계탕",
-      "mapx": "1269885250",
-      "mapy": "375724917"
+      "address": "서울특별시 성북구 성북동 281-1",
+      "roadAddress": "서울특별시 성북구 성북로31길 9",
+      "mapx": "1269905008",
+      "mapy": "375945857"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:29 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:07:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -18,7 +18,7 @@
     {
       "title": "샹츠마라 종로점",
       "link": "",
-      "category": "중식>중식당",
+      "category": "중식>마라탕",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 관철동 11-14 2층",
@@ -28,7 +28,7 @@
     },
     {
       "title": "하우<b>마라탕</b> 종로점",
-      "link": "",
+      "link": "https://www.instagram.com/hawoo_jongno?igsh=N3VkYzNlM3o5Z3lp",
       "category": "중식>마라탕",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375692879"
     },
     {
-      "title": "마라공방 종각2호점",
-      "link": "http://www.maragongbang.com",
-      "category": "중식>마라탕",
+      "title": "탕화쿵푸<b>마라탕</b> 종각점",
+      "link": "",
+      "category": "음식점>마라탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층",
-      "roadAddress": "서울특별시 종로구 종로 19 1층",
-      "mapx": "1269798224",
-      "mapy": "375708585"
+      "address": "서울특별시 종로구 종로2가 84-5 2층",
+      "roadAddress": "서울특별시 종로구 종로 70-1 2층",
+      "mapx": "1269852964",
+      "mapy": "375700049"
     }
   ]
 }

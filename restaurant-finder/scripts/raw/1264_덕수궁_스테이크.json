@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:02 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:03:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 중구 정동 28-2",
       "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
+      "mapx": "1269692007",
+      "mapy": "375674315"
     },
     {
       "title": "오드하우스",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
       "mapx": "1269721868",
       "mapy": "375662530"
-    },
-    {
-      "title": "퍼스트플로어 센트럴",
-      "link": "http://fpcs.co.kr/dining-bar/first-floor",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 순화동 214 프레이저플레이스 호텔 1층",
-      "roadAddress": "서울특별시 중구 통일로 78 프레이저플레이스 호텔 1층",
-      "mapx": "1269697479",
-      "mapy": "375624505"
     },
     {
       "title": "울프강 <b>스테이크</b>하우스 광화문점",
@@ -56,8 +45,19 @@
       "telephone": "",
       "address": "서울특별시 중구 정동 34-5 LL층 1946",
       "roadAddress": "서울특별시 중구 서소문로11길 19 LL층 정동1946",
-      "mapx": "1269728071",
-      "mapy": "375633419"
+      "mapx": "1269728074",
+      "mapy": "375633823"
+    },
+    {
+      "title": "엘 꾸비또",
+      "link": "https://app.catchtable.co.kr/ct/shop/elcubito",
+      "category": "음식점>스페인음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하2층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하2층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
     }
   ]
 }

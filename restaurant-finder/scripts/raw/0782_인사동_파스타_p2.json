@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:16 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:57:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "레스토랑 담",
-      "link": "https://www.instagram.com/restaurant_dam",
-      "category": "음식점>이탈리아음식",
+      "title": "빅러브토마토",
+      "link": "https://www.instagram.com/biglovetomato/",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 12-2 1층",
-      "roadAddress": "서울특별시 종로구 인사동길 30-7 1층",
-      "mapx": "1269860243",
-      "mapy": "375736433"
+      "address": "서울특별시 종로구 공평동 17 지하2층",
+      "roadAddress": "서울특별시 종로구 우정국로 26 지하2층",
+      "mapx": "1269836590",
+      "mapy": "375714967"
     },
     {
       "title": "비스트로 가마",
@@ -27,15 +27,15 @@
       "mapy": "375754819"
     },
     {
-      "title": "관훈맨션",
-      "link": "https://www.instagram.com/gwanhunmansion/",
-      "category": "음식점>양식",
+      "title": "레스토랑 담",
+      "link": "https://www.instagram.com/restaurant_dam",
+      "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 15-2",
-      "roadAddress": "서울특별시 종로구 인사동8길 6-3",
-      "mapx": "1269859565",
-      "mapy": "375737266"
+      "address": "서울특별시 종로구 관훈동 12-2 1층",
+      "roadAddress": "서울특별시 종로구 인사동길 30-7 1층",
+      "mapx": "1269860243",
+      "mapy": "375736433"
     },
     {
       "title": "한옥<b>파스타</b>",
@@ -49,15 +49,15 @@
       "mapy": "375747420"
     },
     {
-      "title": "애슐리퀸즈 종각역점",
-      "link": "https://www.instagram.com/your_ashley",
-      "category": "음식점>패밀리레스토랑",
+      "title": "광화문나폴리 종각직영점",
+      "link": "https://blog.naver.com/gwanghwamun_napoli",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
-      "mapx": "1269836843",
-      "mapy": "375705758"
+      "address": "서울특별시 종로구 견지동 110 205호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 205호",
+      "mapx": "1269827635",
+      "mapy": "375722493"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:49 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:06:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -39,7 +39,7 @@
     },
     {
       "title": "애호락 안국본점",
-      "link": "",
+      "link": "https://www.instagram.com/aehorock",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375791838"
     },
     {
-      "title": "인사동마늘<b>보쌈</b>",
-      "link": "https://insadonggarlicbossam.com",
-      "category": "한식>족발,보쌈",
+      "title": "종로도담",
+      "link": "https://jongnododam.com",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-4",
-      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
-      "mapx": "1269861892",
-      "mapy": "375739819"
+      "address": "서울특별시 종로구 청진동 46",
+      "roadAddress": "서울특별시 종로구 삼봉로 78",
+      "mapx": "1269813844",
+      "mapy": "375720658"
     }
   ]
 }

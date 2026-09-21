@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:23 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "달맞이광장바베큐",
+      "title": "달맞이광장바베큐 본점",
       "link": "https://app.catchtable.co.kr/ct/shop/dalmajiplaza_bbq?from=share&type=WAITING",
       "category": "술집>맥주,호프",
       "description": "",
@@ -56,8 +56,8 @@
       "telephone": "",
       "address": "서울특별시 중구 을지로3가 5-16",
       "roadAddress": "서울특별시 중구 충무로9길 39",
-      "mapx": "1269902201",
-      "mapy": "375667241"
+      "mapx": "1269902788",
+      "mapy": "375667370"
     }
   ]
 }

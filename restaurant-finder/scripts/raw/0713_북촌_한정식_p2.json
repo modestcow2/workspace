@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:44 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:56:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "소선재",
-      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
+      "title": "꽃누리들밥 경복궁점",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 113-3 소선재",
-      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
-      "mapx": "1269818029",
-      "mapy": "375855480"
+      "address": "서울특별시 종로구 사간동 112 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 31 지하1층",
+      "mapx": "1269804337",
+      "mapy": "375772562"
     },
     {
       "title": "편안한집",
@@ -27,28 +27,6 @@
       "mapy": "375873030"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
-    {
-      "title": "꽃누리들밥 경복궁점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 112 지하1층",
-      "roadAddress": "서울특별시 종로구 율곡로1길 31 지하1층",
-      "mapx": "1269804337",
-      "mapy": "375772562"
-    },
-    {
       "title": "목석정",
       "link": "https://app.catchtable.co.kr/ct/shop/mokseokjung?from=share&type=DINING",
       "category": "한식>한정식",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 팔판길 29 목석정 1층",
       "mapx": "1269810943",
       "mapy": "375831133"
+    },
+    {
+      "title": "소선재",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 113-3 소선재",
+      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
+      "mapx": "1269818029",
+      "mapy": "375855480"
+    },
+    {
+      "title": "두레 국립현대미술관서울점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 165",
+      "roadAddress": "서울특별시 종로구 삼청로 30",
+      "mapx": "1269802875",
+      "mapy": "375793735"
     }
   ]
 }

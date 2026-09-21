@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:44 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:11:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "link": "https://blog.naver.com/wusm-official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
       "mapx": "1269730094",
       "mapy": "375717610"
-    },
-    {
-      "title": "문화수제비",
-      "link": "https://www.instagram.com/munhwa5/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 로얄빌딩 지하1층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 지하1층",
-      "mapx": "1269743109",
-      "mapy": "375720320"
     },
     {
       "title": "평가옥 광화문점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19",
       "mapx": "1269744472",
       "mapy": "375721028"
+    },
+    {
+      "title": "문화수제비",
+      "link": "https://www.instagram.com/munhwa5/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 지하1층",
+      "mapx": "1269743109",
+      "mapy": "375720320"
     },
     {
       "title": "가봉루",

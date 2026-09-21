@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:35 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:02:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "374541093"
     },
     {
-      "title": "여러분면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 고양시 덕양구 주교동 250-11",
-      "roadAddress": "경기도 고양시 덕양구 원당로33번길 66",
-      "mapx": "1268291225",
-      "mapy": "376579138"
-    },
-    {
       "title": "팔당<b>냉면</b> 용인<b>시청</b>점",
       "link": "",
       "category": "한식>냉면",
@@ -49,15 +38,26 @@
       "mapy": "372389931"
     },
     {
-      "title": "진주<b>냉면</b>산홍 진주<b>시청</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sanhong_jinjusicheong",
+      "title": "진진만두 <b>시청</b>점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
+    },
+    {
+      "title": "여러분면옥",
+      "link": "",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "경상남도 진주시 상대동 238-1 1층",
-      "roadAddress": "경상남도 진주시 도동천로 157 1층",
-      "mapx": "1281155483",
-      "mapy": "351840959"
+      "address": "경기도 고양시 덕양구 주교동 250-11",
+      "roadAddress": "경기도 고양시 덕양구 원당로33번길 66",
+      "mapx": "1268291225",
+      "mapy": "376579138"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:08 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375735368"
     },
     {
+      "title": "키세카츠 <b>안국역</b>점",
+      "link": "https://www.instagram.com/kise.katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 운니동 98-5 2층 205호",
+      "roadAddress": "서울특별시 종로구 율곡로 88 2층 205호",
+      "mapx": "1269889420",
+      "mapy": "375768090"
+    },
+    {
       "title": "일월카츠 안국점",
       "link": "https://www.instagram.com/ill_wall_katsu",
       "category": "음식점>일식>돈가스",
@@ -23,8 +34,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 안국동 132 1층",
       "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
+      "mapx": "1269851329",
+      "mapy": "375773417"
     },
     {
       "title": "일월카츠 계동점",
@@ -38,26 +49,15 @@
       "mapy": "375781458"
     },
     {
-      "title": "키세카츠 <b>안국역</b>점",
+      "title": "유카츠",
       "link": "",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 운니동 98-5 2층 205호",
-      "roadAddress": "서울특별시 종로구 율곡로 88 2층 205호",
-      "mapx": "1269889420",
-      "mapy": "375768090"
-    },
-    {
-      "title": "인사동제면소 안녕인사동점",
-      "link": "",
-      "category": "음식점>일식>덮밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 3층 303호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 3층 303호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 종로구 재동 32-18 1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 19-7 1층",
+      "mapx": "1269842361",
+      "mapy": "375791334"
     }
   ]
 }

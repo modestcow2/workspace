@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:38 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:59:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375806564"
     },
     {
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "소풍가는날 경복궁점",
+      "link": "https://www.instagram.com/_picnicday",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-2 소풍가는날",
+      "roadAddress": "서울특별시 종로구 자하문로 35-2 소풍가는날",
+      "mapx": "1269712387",
+      "mapy": "375792154"
+    },
+    {
       "title": "원조할머니 기름<b>떡볶이</b>",
       "link": "",
       "category": "분식>떡볶이",
@@ -25,28 +47,6 @@
       "roadAddress": "서울특별시 종로구 자하문로15길 13",
       "mapx": "1269703204",
       "mapy": "375806957"
-    },
-    {
-      "title": "청담동 마녀김밥 광화문점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 204-1",
-      "roadAddress": "서울특별시 종로구 새문안로 105",
-      "mapx": "1269762542",
-      "mapy": "375704544"
-    },
-    {
-      "title": "교남김밥",
-      "link": "http://instagram.com/gyonamgimbap012",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 평동 233 경희궁자이 3단지 상가 1층 3116호 교남김밥",
-      "roadAddress": "서울특별시 종로구 경교장길 35 경희궁자이 3단지 상가 1층 3116호 교남김밥",
-      "mapx": "1269652933",
-      "mapy": "375683803"
     },
     {
       "title": "허니<b>떡볶이</b>",

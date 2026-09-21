@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:31 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:06:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 율곡로2길 25 연합뉴스 빌딩 지하 1층",
       "mapx": "1269802390",
       "mapy": "375745591"
+    },
+    {
+      "title": "크리스탈제이드 광화문상하이팰리스점",
+      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
+      "mapx": "1269814479",
+      "mapy": "375750528"
     },
     {
       "title": "백년가<b>짬뽕</b> 광화문점",
@@ -38,18 +49,7 @@
       "mapy": "375725618"
     },
     {
-      "title": "크리스탈제이드 광화문상하이팰리스점",
-      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
-      "category": "음식점>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
-      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
-      "mapx": "1269814479",
-      "mapy": "375750528"
-    },
-    {
-      "title": "금문도",
+      "title": "금문도 <b>수송동</b>점",
       "link": "",
       "category": "중식>중식당",
       "description": "",

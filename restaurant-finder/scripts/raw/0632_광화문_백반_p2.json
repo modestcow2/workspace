@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:06 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:55:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -39,7 +39,7 @@
     },
     {
       "title": "돈맛꿀",
-      "link": "https://youtube.com/@pig_honey",
+      "link": "https://blog.naver.com/pig_money_honey",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375710740"
     },
     {
-      "title": "뚝배기집",
+      "title": "동백식당",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1",
-      "roadAddress": "서울특별시 종로구 종로16길 12",
-      "mapx": "1269885481",
-      "mapy": "375695483"
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
     }
   ]
 }

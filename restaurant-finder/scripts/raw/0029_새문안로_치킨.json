@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:15 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:47:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "경성<b>치킨</b> 광화문스퀘어점",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
+      "title": "옴레스토랑 광화문점",
+      "link": "https://www.instagram.com/om.restaurant",
+      "category": "음식점>인도음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 135-2",
-      "roadAddress": "서울특별시 종로구 새문안로 96",
-      "mapx": "1269754434",
-      "mapy": "375699667"
+      "address": "서울특별시 종로구 신문로1가 2 지하",
+      "roadAddress": "서울특별시 종로구 새문안로 103 지하",
+      "mapx": "1269760717",
+      "mapy": "375704856"
     },
     {
       "title": "또래오래 정동점",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 새문안로 38 지하1층",
       "mapx": "1269696735",
       "mapy": "375682905"
-    },
-    {
-      "title": "옴레스토랑 광화문점",
-      "link": "https://www.instagram.com/om.restaurant",
-      "category": "음식점>인도음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 2 지하",
-      "roadAddress": "서울특별시 종로구 새문안로 103 지하",
-      "mapx": "1269760717",
-      "mapy": "375704856"
     },
     {
       "title": "파파이스 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 105 1층",
       "mapx": "1269763278",
       "mapy": "375704497"
+    },
+    {
+      "title": "써브웨이 정동점",
+      "link": "http://www.subway.co.kr/",
+      "category": "음식점>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 51-7",
+      "roadAddress": "서울특별시 중구 새문안로 30",
+      "mapx": "1269690223",
+      "mapy": "375678208"
     }
   ]
 }

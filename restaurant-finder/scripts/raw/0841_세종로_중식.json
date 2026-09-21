@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:43 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:58:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "한양<b>중식</b> 종로점",
-      "link": "http://www.instagram.com/haanyang/",
+      "title": "도원S",
+      "link": "https://app.catchtable.co.kr/ct/shop/taoyuens",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
-      "mapx": "1269836975",
-      "mapy": "375706386"
-    },
-    {
-      "title": "란주칼면",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-9 1층 란주칼면",
-      "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
-      "mapx": "1269821083",
-      "mapy": "375609724"
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 WEST, 15층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 WEST, 15층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     },
     {
       "title": "무탄 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
       "mapx": "1269721401",
       "mapy": "375696647"
+    },
+    {
+      "title": "영화루",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 25-1",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65",
+      "mapx": "1269690130",
+      "mapy": "375801579"
     }
   ]
 }

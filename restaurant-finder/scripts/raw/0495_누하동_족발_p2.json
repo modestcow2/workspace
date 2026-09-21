@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:01 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:53:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,8 +16,19 @@
       "mapy": "375756601"
     },
     {
+      "title": "장충가마솥한방<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 301 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 31 1층",
+      "mapx": "1269612443",
+      "mapy": "375708161"
+    },
+    {
       "title": "효자왕<b>족발</b>",
-      "link": "https://www.instagram.com/seochonhotpot",
+      "link": "https://www.instagram.com/hyojafnb/?hl=ko",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
@@ -38,26 +49,15 @@
       "mapy": "375766924"
     },
     {
-      "title": "장충가마솥한방<b>족발</b>",
+      "title": "오양식관",
       "link": "",
-      "category": "한식>족발,보쌈",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 영천동 301 1층",
-      "roadAddress": "서울특별시 서대문구 영천시장길 31 1층",
-      "mapx": "1269612443",
-      "mapy": "375708161"
-    },
-    {
-      "title": "<b>족발</b>야시장&amp;무청감자탕 광화문점",
-      "link": "https://go.catchtable.co.kr/zyn34t",
-      "category": "육류,고기요리>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 지상1층 101호",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 지상1층 101호",
-      "mapx": "1269728682",
-      "mapy": "375719236"
+      "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
+      "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
+      "mapx": "1269756182",
+      "mapy": "375686475"
     }
   ]
 }

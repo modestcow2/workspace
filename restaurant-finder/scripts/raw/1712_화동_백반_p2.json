@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:31 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:09:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
     {
       "title": "정독도서관 구내식당",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 48",
       "mapx": "1269838671",
       "mapy": "375811536"
+    },
+    {
+      "title": "삼청로조개칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 28-19",
+      "roadAddress": "서울특별시 종로구 삼청로 124-2",
+      "mapx": "1269819297",
+      "mapy": "375863317"
     },
     {
       "title": "다락정",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:59 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:10:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375720658"
     },
     {
-      "title": "효자왕족발",
-      "link": "https://www.instagram.com/seochonhotpot",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-12",
-      "roadAddress": "서울특별시 종로구 자하문로 31-2",
-      "mapx": "1269712642",
-      "mapy": "375787993"
-    },
-    {
       "title": "일품진진수라 광화문점",
       "link": "http://www.jinjinsura.com",
       "category": "한식>한정식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
       "mapx": "1269818029",
       "mapy": "375855480"
+    },
+    {
+      "title": "종로족빨 종로본점",
+      "link": "http://027341222.bdp.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 257 1층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 14 1층",
+      "mapx": "1269837098",
+      "mapy": "375693280"
     }
   ]
 }

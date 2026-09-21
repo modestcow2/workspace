@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:55 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:50:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375710184"
     },
     {
+      "title": "깐깐 스타필드애비뉴 그랑서울점",
+      "link": "https://app.catchtable.co.kr/ct/shop/canhcanhgranseoul?from=share&type=DINING",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 70 지하1층,지하116호",
+      "roadAddress": "서울특별시 종로구 종로 33 지하1층,지하116호",
+      "mapx": "1269814392",
+      "mapy": "375709600"
+    },
+    {
       "title": "을지깐깐",
       "link": "https://app.catchtable.co.kr/ct/shop/euljicanhcanh?from=share&type=WAITING",
       "category": "음식점>베트남음식",
@@ -27,15 +38,15 @@
       "mapy": "375657466"
     },
     {
-      "title": "대성성 서순라길",
-      "link": "https://app.catchtable.co.kr/ct/shop/daeseongseong",
+      "title": "서촌 깜온 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 160 1층",
-      "roadAddress": "서울특별시 종로구 율곡로10길 25-3 1층(권농동)",
-      "mapx": "1269912236",
-      "mapy": "375764860"
+      "address": "서울특별시 종로구 적선동 20 지하1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
+      "mapx": "1269736913",
+      "mapy": "375764402"
     },
     {
       "title": "띤띤 SFC",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
       "mapx": "1269782820",
       "mapy": "375684612"
-    },
-    {
-      "title": "서촌 깜온 본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Camon",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 20 지하1층",
-      "roadAddress": "서울특별시 종로구 자하문로2길 18 지하1층",
-      "mapx": "1269736913",
-      "mapy": "375764402"
     }
   ]
 }

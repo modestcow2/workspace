@@ -1,12 +1,23 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:25 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:47:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
+      "title": "엄용백 돼지<b>국밥</b> 종각점",
+      "link": "https://www.instagram.com/umyongbaek_kr/",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 194-28",
+      "roadAddress": "서울특별시 종로구 인사동3길 20",
+      "mapx": "1269858222",
+      "mapy": "375718777"
+    },
+    {
       "title": "<b>광화문</b><b>국밥</b>",
-      "link": "",
+      "link": "https://gwanghwamungukbap.netlify.app/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -27,17 +38,6 @@
       "mapy": "375794197"
     },
     {
-      "title": "엄용백 돼지<b>국밥</b>",
-      "link": "https://www.instagram.com/umyongbaek_kr/",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 194-28",
-      "roadAddress": "서울특별시 종로구 인사동3길 20",
-      "mapx": "1269858222",
-      "mapy": "375718777"
-    },
-    {
       "title": "북촌무궁화",
       "link": "",
       "category": "음식점>한식",
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 종로구 낙원동 137",
       "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
+      "mapx": "1269889328",
       "mapy": "375723618"
     },
     {
-      "title": "화목순대국전문 <b>광화문</b>1호점",
-      "link": "",
+      "title": "관북",
+      "link": "https://www.instagram.com/kwan_buk/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 40",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11",
-      "mapx": "1269747764",
-      "mapy": "375712514"
+      "address": "서울특별시 종로구 청진동 11-6 1,2층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
+      "mapx": "1269808546",
+      "mapy": "375719170"
     }
   ]
 }

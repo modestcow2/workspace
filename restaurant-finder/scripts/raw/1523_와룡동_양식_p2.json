@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:02 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:07:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "노우즈 창덕",
-      "link": "https://catchtable.co.kr/knows_changdeok",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 와룡동 109-1 1층",
-      "roadAddress": "서울특별시 종로구 돈화문로 88-1 1층",
-      "mapx": "1269905898",
-      "mapy": "375763638"
-    },
     {
       "title": "서양면옥 서순라길점",
       "link": "https://www.instagram.com/seoyangmyunok.seoul",
@@ -27,15 +16,26 @@
       "mapy": "375752912"
     },
     {
-      "title": "익선취향",
-      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
+      "title": "팀포카치아 익선",
+      "link": "",
+      "category": "양식>샌드위치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 와룡동 147-1 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로 81-1 1층",
+      "mapx": "1269903837",
+      "mapy": "375757492"
+    },
+    {
+      "title": "엘 레스토랑",
+      "link": "",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-70 1층",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
-      "mapx": "1269895934",
-      "mapy": "375735970"
+      "address": "서울특별시 종로구 와룡동 49-1 1층 101호, 102호",
+      "roadAddress": "서울특별시 종로구 율곡로10길 56 1층 101호, 102호",
+      "mapx": "1269912996",
+      "mapy": "375750728"
     },
     {
       "title": "퍼블릭도원 서순라길점",
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 종로구 권농동 189-2 2층",
       "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
-      "mapx": "1269921258",
-      "mapy": "375742436"
+      "mapx": "1269921439",
+      "mapy": "375742047"
     },
     {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "title": "익선취향",
+      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
+      "address": "서울특별시 종로구 익선동 166-70 1층",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
+      "mapx": "1269895934",
+      "mapy": "375735970"
     }
   ]
 }

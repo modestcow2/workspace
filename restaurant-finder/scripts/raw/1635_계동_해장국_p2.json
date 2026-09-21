@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:56 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:08:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청진옥",
-      "link": "http://www.cheongjinok.com/",
-      "category": "한식>해장국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 183-1",
-      "roadAddress": "서울특별시 종로구 종로3길 32",
-      "mapx": "1269794207",
-      "mapy": "375717535"
-    },
     {
       "title": "이복희해장 종로직영점",
       "link": "",
@@ -38,6 +27,17 @@
       "mapy": "375677548"
     },
     {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
       "title": "영춘옥",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -49,15 +49,15 @@
       "mapy": "375713727"
     },
     {
-      "title": "소문난집",
+      "title": "청진동장터순대국",
       "link": "",
-      "category": "한식>국밥",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 241-12",
-      "roadAddress": "서울특별시 종로구 수표로 131",
-      "mapx": "1269882933",
-      "mapy": "375725190"
+      "address": "서울특별시 종로구 청진동 3-3",
+      "roadAddress": "서울특별시 종로구 종로5길 40",
+      "mapx": "1269804455",
+      "mapy": "375720966"
     }
   ]
 }

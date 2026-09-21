@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:20 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 22-9 1층",
       "mapx": "1269802214",
       "mapy": "375778524"
+    },
+    {
+      "title": "수라재",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 66 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 2층",
+      "mapx": "1269723288",
+      "mapy": "375778157"
     },
     {
       "title": "본죽&amp;<b>비빔밥</b>cafe <b>경복궁</b>역점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워",
       "mapx": "1269789484",
       "mapy": "375745601"
-    },
-    {
-      "title": "시래기담은",
-      "link": "https://www.instagram.com/siraegidameun",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 팔판동 71 시래기담은",
-      "roadAddress": "서울특별시 종로구 삼청로 65-2 시래기담은",
-      "mapx": "1269809917",
-      "mapy": "375815898"
     }
   ]
 }

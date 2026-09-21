@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:05 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375734297"
     },
     {
-      "title": "인사동마늘보쌈",
-      "link": "https://insadonggarlicbossam.com",
-      "category": "한식>족발,보쌈",
+      "title": "콘타이 안국점",
+      "link": "https://www.instagram.com/konthai.official",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-4",
-      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
-      "mapx": "1269861892",
-      "mapy": "375739819"
+      "address": "서울특별시 종로구 운니동 98-5 지하1층",
+      "roadAddress": "서울특별시 종로구 율곡로 88 지하1층",
+      "mapx": "1269889236",
+      "mapy": "375768074"
     },
     {
       "title": "정담은보쌈 북촌점",
@@ -49,15 +49,15 @@
       "mapy": "375788056"
     },
     {
-      "title": "콘타이 안국점",
-      "link": "https://www.instagram.com/konthai.official",
-      "category": "음식점>태국음식",
+      "title": "인사동마늘보쌈",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 운니동 98-5 지하1층",
-      "roadAddress": "서울특별시 종로구 율곡로 88 지하1층",
-      "mapx": "1269889236",
-      "mapy": "375768074"
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
     }
   ]
 }

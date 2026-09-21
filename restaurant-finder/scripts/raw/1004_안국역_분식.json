@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:00 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375786507"
     },
     {
-      "title": "경춘자의라면땡기는날",
-      "link": "",
-      "category": "분식>라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 화동 138-21",
-      "roadAddress": "서울특별시 종로구 율곡로3길 82",
-      "mapx": "1269822347",
-      "mapy": "375793111"
-    },
-    {
       "title": "깡통만두",
       "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
       "category": "분식>만두",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동10길 11-3",
       "mapx": "1269853889",
       "mapy": "375742917"
+    },
+    {
+      "title": "경춘자의라면땡기는날",
+      "link": "",
+      "category": "분식>라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-21",
+      "roadAddress": "서울특별시 종로구 율곡로3길 82",
+      "mapx": "1269822347",
+      "mapy": "375793111"
     }
   ]
 }

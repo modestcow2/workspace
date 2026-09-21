@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:55 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:51:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375758311"
     },
     {
+      "title": "소야원",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 151-2",
+      "roadAddress": "서울특별시 종로구 사직로10길 9-7",
+      "mapx": "1269707447",
+      "mapy": "375755375"
+    },
+    {
       "title": "지혜",
       "link": "http://www.instagram.com/wisdom_jihye_koreanfood",
       "category": "한식>한정식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 사직로10길 9-1",
       "mapx": "1269705357",
       "mapy": "375755229"
-    },
-    {
-      "title": "향연",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 160 1층",
-      "roadAddress": "서울특별시 종로구 사직로10길 9-6 1층",
-      "mapx": "1269706412",
-      "mapy": "375754119"
     },
     {
       "title": "중원<b>한정식</b>",

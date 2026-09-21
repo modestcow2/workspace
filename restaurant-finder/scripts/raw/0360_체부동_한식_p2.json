@@ -1,30 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:58 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:51:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "토속촌 삼계탕",
-      "link": "http://www.tosokchon.co.kr/",
-      "category": "한식>백숙,삼계탕",
+      "title": "도틔대가",
+      "link": "https://catchtable.co.kr/dottydaega",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 85-1 토속촌",
-      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
-      "mapx": "1269716148",
-      "mapy": "375776587"
+      "address": "서울특별시 종로구 체부동 54-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
+      "mapx": "1269720264",
+      "mapy": "375765472"
     },
     {
-      "title": "경복궁풍천장어",
+      "title": "연잎한옥밥상 서촌점",
       "link": "",
-      "category": "한식>장어,먹장어요리",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 54-1 1, 2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 6 1, 2층",
-      "mapx": "1269720371",
-      "mapy": "375766003"
+      "address": "서울특별시 종로구 체부동 192 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 18 1층",
+      "mapx": "1269713829",
+      "mapy": "375765422"
     },
     {
       "title": "서촌뜰애우곱창타운",
@@ -49,15 +49,15 @@
       "mapy": "375765394"
     },
     {
-      "title": "인왕산호랭이주막",
-      "link": "https://www.instagram.com/horangejoomak",
+      "title": "드밑 De Mitt",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 262-1 1층",
-      "roadAddress": "서울특별시 종로구 인왕산로 19 1층",
-      "mapx": "1269655596",
-      "mapy": "375756107"
+      "address": "서울특별시 종로구 체부동 120-14 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 18-13 1층",
+      "mapx": "1269701612",
+      "mapy": "375779177"
     }
   ]
 }

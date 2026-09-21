@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:12 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375790413"
     },
     {
-      "title": "47번가찻집",
-      "link": "https://www.instagram.com/47th.avenue.teahouse?igsh=MXRpNTIwandydW5iNA%3D%3D&utm_source=qr",
-      "category": "카페,디저트>차",
+      "title": "CAFE1993",
+      "link": "",
+      "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 72 2층 47번가찻집",
-      "roadAddress": "서울특별시 종로구 인사동길 50 2층 47번가찻집",
-      "mapx": "1269844234",
-      "mapy": "375744917"
-    },
-    {
-      "title": "무화서울 안국점",
-      "link": "https://www.instagram.com/bouquet_seoul_anguk",
-      "category": "술집>요리주점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 47 1층 무화서울 안국점",
-      "roadAddress": "서울특별시 종로구 북촌로 24 1층 무화서울 안국점",
-      "mapx": "1269854413",
-      "mapy": "375788712"
+      "address": "서울특별시 종로구 익선동 131-2 1.2층",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 34 1.2층",
+      "mapx": "1269895043",
+      "mapy": "375741954"
     },
     {
       "title": "니르바나",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동길 58 2층",
       "mapx": "1269837847",
       "mapy": "375751361"
+    },
+    {
+      "title": "무화서울 안국점",
+      "link": "https://www.instagram.com/bouquet_seoul_anguk",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 47 1층 무화서울 안국점",
+      "roadAddress": "서울특별시 종로구 북촌로 24 1층 무화서울 안국점",
+      "mapx": "1269854025",
+      "mapy": "375788544"
     }
   ]
 }

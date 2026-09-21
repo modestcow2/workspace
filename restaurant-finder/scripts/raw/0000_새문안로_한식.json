@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:01 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:47:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "광화문면옥",
-      "link": "",
+      "link": "https://www.instagram.com/gwanghwamun_myeonok/",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
@@ -27,24 +27,13 @@
       "mapy": "375697325"
     },
     {
-      "title": "덕담",
-      "link": "",
+      "title": "해물솥밥모랑 오피시아점",
+      "link": "http://www.morang.co.kr/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163",
-      "roadAddress": "서울특별시 종로구 새문안로 92",
-      "mapx": "1269750593",
-      "mapy": "375698043"
-    },
-    {
-      "title": "고다",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163",
-      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "address": "서울특별시 종로구 신문로1가 163 지하1층 5, 6호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 5, 6호",
       "mapx": "1269749335",
       "mapy": "375697325"
     },
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 제02호",
       "mapx": "1269746331",
       "mapy": "375697325"
+    },
+    {
+      "title": "덕담",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163",
+      "roadAddress": "서울특별시 종로구 새문안로 92",
+      "mapx": "1269750593",
+      "mapy": "375698043"
     }
   ]
 }

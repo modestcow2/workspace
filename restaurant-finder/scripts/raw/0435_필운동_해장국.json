@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:33 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:52:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375744035"
     },
     {
-      "title": "청진옥",
-      "link": "http://www.cheongjinok.com/",
-      "category": "한식>해장국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 183-1",
-      "roadAddress": "서울특별시 종로구 종로3길 32",
-      "mapx": "1269794207",
-      "mapy": "375717535"
-    },
-    {
       "title": "무교동북어국집",
       "link": "",
       "category": "한식>해장국",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 을지로1길 38",
       "mapx": "1269798583",
       "mapy": "375677548"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
     }
   ]
 }

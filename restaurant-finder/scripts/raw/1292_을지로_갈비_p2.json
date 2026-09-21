@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:15 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,26 @@
       "mapy": "375664910"
     },
     {
-      "title": "금돈옥 <b>을지로</b>점",
-      "link": "https://blog.naver.com/goldporkog",
+      "title": "<b>을지로</b> 전주옥",
+      "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 342-7 1~2층",
-      "roadAddress": "서울특별시 중구 을지로 112 1~2층",
-      "mapx": "1269903382",
-      "mapy": "375660403"
+      "address": "서울특별시 중구 을지로2가 101-11 1층",
+      "roadAddress": "서울특별시 중구 을지로 101 1층",
+      "mapx": "1269891709",
+      "mapy": "375663605"
+    },
+    {
+      "title": "우래옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 주교동 118-1",
+      "roadAddress": "서울특별시 중구 창경궁로 62-29",
+      "mapx": "1269987278",
+      "mapy": "375681693"
     },
     {
       "title": "난로은회 <b>을지로</b>",
@@ -38,26 +49,15 @@
       "mapy": "375658847"
     },
     {
-      "title": "<b>을지로</b> 전주옥",
+      "title": "경상도식당",
       "link": "",
-      "category": "한식>육류,고기요리",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 101-11 1층",
-      "roadAddress": "서울특별시 중구 을지로 101 1층",
-      "mapx": "1269891709",
-      "mapy": "375663605"
-    },
-    {
-      "title": "조선옥",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 229-1",
-      "roadAddress": "서울특별시 중구 을지로15길 6-5",
-      "mapx": "1269934389",
-      "mapy": "375667917"
+      "address": "서울특별시 중구 을지로6가 1-1",
+      "roadAddress": "",
+      "mapx": "1270054617",
+      "mapy": "375686875"
     }
   ]
 }

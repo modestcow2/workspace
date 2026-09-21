@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:04 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:02:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375575919"
     },
     {
-      "title": "주인백 <b>파스타</b>",
-      "link": "http://instagram.com/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 324-11",
-      "roadAddress": "서울특별시 서대문구 증가로10길 57",
-      "mapx": "1269249226",
-      "mapy": "375795267"
-    },
-    {
       "title": "신촌칼",
       "link": "https://instagram.com/shinchon_kal",
       "category": "음식점>양식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 서대문구 연세로4길 42-3 1층",
       "mapx": "1269390887",
       "mapy": "375578967"
+    },
+    {
+      "title": "주인백 <b>파스타</b>",
+      "link": "http://instagram.com/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 324-11",
+      "roadAddress": "서울특별시 서대문구 증가로10길 57",
+      "mapx": "1269249226",
+      "mapy": "375795267"
     },
     {
       "title": "비아37 신촌본점",
@@ -49,15 +49,15 @@
       "mapy": "375592889"
     },
     {
-      "title": "초원<b>파스타</b>운",
-      "link": "https://catchtable.co.kr/prairie",
+      "title": "마우디",
+      "link": "https://www.instagram.com/maudie_dining",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 330-156 1층",
-      "roadAddress": "서울특별시 서대문구 통일로39나길 25 1층",
-      "mapx": "1269423970",
-      "mapy": "375890575"
+      "address": "서울특별시 서대문구 연희동 132-18",
+      "roadAddress": "서울특별시 서대문구 연희로11길 18",
+      "mapx": "1269301258",
+      "mapy": "375674593"
     }
   ]
 }

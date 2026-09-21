@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:24 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 창경궁로5길 7 1층",
       "mapx": "1269975838",
       "mapy": "375671481"
-    },
-    {
-      "title": "평래옥",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 18-1",
-      "roadAddress": "서울특별시 중구 마른내로 21-1",
-      "mapx": "1269903879",
-      "mapy": "375649010"
     },
     {
       "title": "꾸왁칼국수",
@@ -49,15 +38,26 @@
       "mapy": "375661005"
     },
     {
-      "title": "안동장",
-      "link": "",
-      "category": "중식>중식당",
+      "title": "진진<b>만두</b> 시청점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
+    },
+    {
+      "title": "평래옥",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 18-1",
+      "roadAddress": "서울특별시 중구 마른내로 21-1",
+      "mapx": "1269903879",
+      "mapy": "375649010"
     }
   ]
 }

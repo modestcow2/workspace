@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:09 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:07:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "<b>스시</b>사소우 초밥 &amp; 도시락",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 183 2층 스시사소우",
+      "roadAddress": "서울특별시 종로구 대명길 45 2층 스시사소우",
+      "mapx": "1269991973",
+      "mapy": "375828021"
+    },
     {
       "title": "동해도 광화문점",
       "link": "https://www.instagram.com/donghaedo1987",
@@ -16,15 +27,15 @@
       "mapy": "375684296"
     },
     {
-      "title": "연하동 대학로점",
-      "link": "",
-      "category": "음식점>일식>일식당",
+      "title": "코끼리초밥 광화문점",
+      "link": "https://blog.naver.com/kokirisushi",
+      "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 171 1층",
-      "roadAddress": "서울특별시 종로구 대학로11길 43 1층",
-      "mapx": "1269993048",
-      "mapy": "375824805"
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     },
     {
       "title": "이안초밥 안녕인사동점",
@@ -38,26 +49,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "<b>스시</b>사소우 초밥 &amp; 도시락",
+      "title": "연하동 대학로점",
       "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 명륜4가 183 2층 스시사소우",
-      "roadAddress": "서울특별시 종로구 대명길 45 2층 스시사소우",
-      "mapx": "1269991973",
-      "mapy": "375828021"
-    },
-    {
-      "title": "일품 광화문점",
-      "link": "https://www.instagram.com/ilpum0200",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
-      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 종로구 명륜4가 171 1층",
+      "roadAddress": "서울특별시 종로구 대학로11길 43 1층",
+      "mapx": "1269993048",
+      "mapy": "375824805"
     }
   ]
 }

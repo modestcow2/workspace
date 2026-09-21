@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:42 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:56:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
-    },
     {
       "title": "일월카츠 안국점",
       "link": "https://www.instagram.com/ill_wall_katsu",
@@ -23,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 안국동 132 1층",
       "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
+      "mapx": "1269851329",
+      "mapy": "375773417"
     },
     {
       "title": "일월카츠 계동점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 계동길 73-1 지하1층",
       "mapx": "1269866829",
       "mapy": "375805539"
+    },
+    {
+      "title": "도라보울",
+      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 144-8 1층 도라보울",
+      "roadAddress": "서울특별시 종로구 북촌로5길 54 1층 도라보울",
+      "mapx": "1269820194",
+      "mapy": "375797319"
     },
     {
       "title": "온센 안국점",

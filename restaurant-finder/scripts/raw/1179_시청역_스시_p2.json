@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:22 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:02:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375677739"
     },
     {
-      "title": "<b>스시</b>카세 롯데백화점본점",
-      "link": "",
-      "category": "음식점>일식>초밥,롤",
+      "title": "VIP참치 코리아나호텔점",
+      "link": "https://smartstore.naver.com/viptuna_ko",
+      "category": "한식>생선회",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
-      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
-      "mapx": "1269811847",
-      "mapy": "375649963"
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 3층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 3층",
+      "mapx": "1269767357",
+      "mapy": "375679986"
     },
     {
-      "title": "신성일식",
-      "link": "",
+      "title": "더그랜드롯데 서울 모모야마",
+      "link": "https://www.lottehotel.com/seoul-hotel/ko/dining/restaurant-momoyama",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 서린동 128-1 1,2층 신성일식",
-      "roadAddress": "서울특별시 종로구 무교로 42 1,2층 신성일식",
-      "mapx": "1269795017",
-      "mapy": "375696782"
+      "address": "서울특별시 중구 소공동 1",
+      "roadAddress": "서울특별시 중구 을지로 30",
+      "mapx": "1269810045",
+      "mapy": "375653498"
     }
   ]
 }

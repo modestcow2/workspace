@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:56 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:05:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375708344"
     },
     {
+      "title": "어쩌다농부 광화문점",
+      "link": "",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하2층 비222호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하2층 비222호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
       "title": "독립밀방 익선",
       "link": "http://www.instagram.com/dongnip_millbang",
       "category": "음식점>양식",
@@ -27,15 +38,15 @@
       "mapy": "375740791"
     },
     {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "title": "정원레스토랑 어반가든",
+      "link": "http://urbangarden.co.kr",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
+      "address": "서울특별시 중구 정동 28-2",
+      "roadAddress": "서울특별시 중구 정동길 12-15",
+      "mapx": "1269692007",
+      "mapy": "375674315"
     },
     {
       "title": "반기다 익선",
@@ -47,17 +58,6 @@
       "roadAddress": "",
       "mapx": "1269892898",
       "mapy": "375736887"
-    },
-    {
-      "title": "정원레스토랑 어반가든",
-      "link": "http://urbangarden.co.kr",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 28-2",
-      "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
     }
   ]
 }

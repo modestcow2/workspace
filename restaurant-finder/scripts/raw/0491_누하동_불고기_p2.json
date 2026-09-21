@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:59 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:53:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375785770"
     },
     {
-      "title": "자하문로118 들풀",
-      "link": "",
+      "title": "우슴 광화문 직영점",
+      "link": "https://blog.naver.com/wusm-official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
+    },
+    {
+      "title": "모담다이닝 광화문점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "mapx": "1269720468",
+      "mapy": "375687024"
     },
     {
       "title": "고우가 광화문점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
       "mapx": "1269782701",
       "mapy": "375684246"
-    },
-    {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
     }
   ]
 }

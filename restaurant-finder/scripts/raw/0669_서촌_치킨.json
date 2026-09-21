@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:23 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:55:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375764695"
     },
     {
-      "title": "세종마을<b>치킨</b>",
-      "link": "",
-      "category": "음식점>치킨,닭강정",
+      "title": "홈보이서울",
+      "link": "http://www.instagram.com/homeboy_seoul",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 195",
-      "roadAddress": "서울특별시 종로구 자하문로1길 24-1",
-      "mapx": "1269709631",
-      "mapy": "375765085"
+      "address": "서울특별시 종로구 적선동 94 1층 홈보이서울",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
+      "mapx": "1269730709",
+      "mapy": "375762354"
     },
     {
-      "title": "이가덕장 <b>서촌</b>",
-      "link": "https://www.instagram.com/mr.lee_pub_house/",
-      "category": "술집>맥주,호프",
+      "title": "<b>서촌</b>주점",
+      "link": "",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 4 1F",
-      "roadAddress": "서울특별시 종로구 자하문로1길 9 1F",
-      "mapx": "1269718557",
-      "mapy": "375764695"
+      "address": "서울특별시 종로구 누하동 31 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 59 1층",
+      "mapx": "1269692323",
+      "mapy": "375799084"
     }
   ]
 }

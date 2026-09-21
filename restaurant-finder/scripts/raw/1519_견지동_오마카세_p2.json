@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:00 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:06:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "운종가",
-      "link": "https://app.catchtable.co.kr/ct/shop/Unjongga?from=share&type=DINING",
-      "category": "한식>한정식",
+      "title": "스시산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-34 2층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-5 2층",
-      "mapx": "1269825303",
-      "mapy": "375729523"
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
     },
     {
       "title": "<b>오마카세</b> 오사이초밥 광화문점",
@@ -27,17 +27,6 @@
       "mapy": "375708344"
     },
     {
-      "title": "스시산원 궁",
-      "link": "https://www.instagram.com/sushi_sanwongung/",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
-      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
-      "mapx": "1269788207",
-      "mapy": "375746201"
-    },
-    {
       "title": "우아라 광화문점",
       "link": "https://www.instagram.com/wooara__",
       "category": "한식>소고기구이",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 우아라 광화문",
       "mapx": "1269791966",
       "mapy": "375746798"
+    },
+    {
+      "title": "스시미치루",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
+      "mapx": "1269789959",
+      "mapy": "375739044"
     },
     {
       "title": "고우가 광화문점",

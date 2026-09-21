@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:53 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:48:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375643266"
     },
     {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
-    },
-    {
-      "title": "명동돈가스",
-      "link": "http://mddongas.co.kr/",
-      "category": "음식점>일식>돈가스",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-13",
-      "roadAddress": "서울특별시 중구 명동3길 8",
-      "mapx": "1269835560",
-      "mapy": "375640263"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "오봉카츠",
@@ -49,15 +38,26 @@
       "mapy": "375777902"
     },
     {
-      "title": "남산산채집",
-      "link": "",
+      "title": "코돈부르 광화문본점",
+      "link": "https://www.instagram.com/1999codonbur/",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 예장동 8-38 1층",
-      "roadAddress": "서울특별시 중구 소파로 95 1층",
-      "mapx": "1269853930",
-      "mapy": "375567733"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 종로타운 2층 215호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 종로타운 2층 215호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "명동돈가스",
+      "link": "http://mddongas.co.kr/",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-13",
+      "roadAddress": "서울특별시 중구 명동3길 8",
+      "mapx": "1269835560",
+      "mapy": "375640263"
     }
   ]
 }

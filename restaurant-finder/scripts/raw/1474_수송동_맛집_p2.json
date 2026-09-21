@@ -1,42 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:40 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:06:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "엄용백 돼지구이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-13",
-      "roadAddress": "서울특별시 종로구 율곡로4길 51",
-      "mapx": "1269812652",
-      "mapy": "375733835"
-    },
-    {
-      "title": "은성 한정식",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
-      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
-      "mapx": "1269814980",
-      "mapy": "375729994"
-    },
-    {
-      "title": "더 키친 일뽀르노 광화문점",
-      "link": "https://thekitchenilforno.co.kr/index.do",
-      "category": "음식점>양식>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
-      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
-      "mapx": "1269812442",
-      "mapy": "375750348"
-    },
     {
       "title": "오레노 야끼 종로점",
       "link": "https://catchtable.co.kr/orenoyakki",
@@ -54,10 +21,43 @@
       "category": "음식점>한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
       "mapx": "1269807361",
       "mapy": "375727720"
+    },
+    {
+      "title": "더 키친 일뽀르노 광화문점",
+      "link": "https://thekitchenilforno.co.kr/index.do",
+      "category": "음식점>양식>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
+      "mapx": "1269812442",
+      "mapy": "375750348"
+    },
+    {
+      "title": "은성 한정식",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
+    },
+    {
+      "title": "크리스탈제이드 광화문상하이팰리스점",
+      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
+      "mapx": "1269814479",
+      "mapy": "375750528"
     }
   ]
 }

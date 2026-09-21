@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:40 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:53:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "흥진옥",
-      "link": "",
-      "category": "한식>해장국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 142-1",
-      "roadAddress": "서울특별시 종로구 종로5길 19-12",
-      "mapx": "1269802523",
-      "mapy": "375713900"
-    },
     {
       "title": "풍년옥",
       "link": "",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 20",
       "mapx": "1269722429",
       "mapy": "375779140"
+    },
+    {
+      "title": "청담원",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 33호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 33호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
     }
   ]
 }

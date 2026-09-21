@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:56 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:11:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375706386"
     },
     {
-      "title": "영화루",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 25-1",
-      "roadAddress": "서울특별시 종로구 자하문로7길 65",
-      "mapx": "1269690130",
-      "mapy": "375801579"
-    },
-    {
       "title": "차이들 안녕인사동점",
       "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
       "category": "중식>중식당",
@@ -49,15 +38,26 @@
       "mapy": "375744663"
     },
     {
-      "title": "도량",
-      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "title": "영화루",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
-      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
-      "mapx": "1269724921",
-      "mapy": "375780066"
+      "address": "서울특별시 종로구 누하동 25-1",
+      "roadAddress": "서울특별시 종로구 자하문로7길 65",
+      "mapx": "1269690130",
+      "mapy": "375801579"
+    },
+    {
+      "title": "복운각",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로2가 366-1 오천회관빌딩 2층",
+      "roadAddress": "서울특별시 중구 덕수궁길 7 오천회관빌딩 2층",
+      "mapx": "1269763164",
+      "mapy": "375646653"
     }
   ]
 }

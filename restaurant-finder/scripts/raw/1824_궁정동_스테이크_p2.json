@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:22 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:10:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375786629"
     },
     {
-      "title": "푸페또클럽",
-      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 98-6",
-      "roadAddress": "서울특별시 종로구 자하문로 50-1",
-      "mapx": "1269714513",
-      "mapy": "375805566"
-    },
-    {
-      "title": "마음을담아내면 점심",
-      "link": "",
+      "title": "심퍼티쿠시 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 148-2 마음을담아내면",
-      "roadAddress": "서울특별시 종로구 율곡로3길 79 마음을담아내면",
-      "mapx": "1269821145",
-      "mapy": "375791937"
+      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
+      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
+      "mapx": "1269806761",
+      "mapy": "375755559"
     },
     {
       "title": "아델라베일리",
@@ -49,15 +38,26 @@
       "mapy": "375952438"
     },
     {
-      "title": "심퍼티쿠시 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/szimpatikus_gwanghwamun?from=share&type=DINING",
+      "title": "푸페또클럽",
+      "link": "https://www.instagram.com/pupettoclub?igsh=MWJ2OHBqaGFocjI5YQ%3D%3D&utm_source=qr",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창성동 98-6",
+      "roadAddress": "서울특별시 종로구 자하문로 50-1",
+      "mapx": "1269714513",
+      "mapy": "375805566"
+    },
+    {
+      "title": "PKM가든 레스토랑",
+      "link": "https://catchtable.co.kr/pkm_restaurant",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
-      "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
-      "mapx": "1269805312",
-      "mapy": "375755019"
+      "address": "서울특별시 종로구 삼청동 157-83 피케이엠갤러리 2층",
+      "roadAddress": "서울특별시 종로구 삼청로7길 40 피케이엠갤러리 2층",
+      "mapx": "1269801406",
+      "mapy": "375841122"
     }
   ]
 }

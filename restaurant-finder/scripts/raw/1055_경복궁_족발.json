@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:24 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "효자왕<b>족발</b>",
-      "link": "https://www.instagram.com/seochonhotpot",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-12",
-      "roadAddress": "서울특별시 종로구 자하문로 31-2",
-      "mapx": "1269712642",
-      "mapy": "375787993"
-    },
     {
       "title": "귀한<b>족발</b> <b>경복궁</b>역점",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 7 1층 귀한족발 경복궁역점",
       "mapx": "1269731657",
       "mapy": "375765721"
+    },
+    {
+      "title": "효자왕<b>족발</b>",
+      "link": "https://www.instagram.com/hyojafnb/?hl=ko",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
     },
     {
       "title": "할매집",
@@ -49,8 +49,8 @@
       "mapy": "375765766"
     },
     {
-      "title": "서촌돌솥",
-      "link": "https://www.instagram.com/seochonhotpot",
+      "title": "효자에프앤비",
+      "link": "https://www.instagram.com/hyojafnb/?hl=ko",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",

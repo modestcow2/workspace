@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:12 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:52:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375782778"
     },
     {
+      "title": "드밑 De Mitt",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 120-14 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 18-13 1층",
+      "mapx": "1269701612",
+      "mapy": "375779177"
+    },
+    {
       "title": "명작신의주찹쌀순대",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4",
       "mapx": "1269689428",
       "mapy": "375744412"
-    },
-    {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:12 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:02:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,28 +14,6 @@
       "roadAddress": "서울특별시 서대문구 연희로4길 10 1층,2층 베어스덴",
       "mapx": "1269278323",
       "mapy": "375616125"
-    },
-    {
-      "title": "초식곳간 이대본점",
-      "link": "https://blog.naver.com/vege_save",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 54-28 1층",
-      "roadAddress": "서울특별시 서대문구 이화여대2가길 19 1층",
-      "mapx": "1269460708",
-      "mapy": "375582700"
-    },
-    {
-      "title": "카페 블랙번즈 신촌점",
-      "link": "https://www.instagram.com/blackburns_main",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 53-91 2층 블랙번즈",
-      "roadAddress": "서울특별시 서대문구 연세로7안길 42 2층 블랙번즈",
-      "mapx": "1269345166",
-      "mapy": "375584052"
     },
     {
       "title": "그린보이즈 <b>샐러드</b>&amp;포케 신촌직영점",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 서대문구 연희로25길 95 오트",
       "mapx": "1269322656",
       "mapy": "375695395"
+    },
+    {
+      "title": "니바하우스",
+      "link": "https://www.instagram.com/nivahouse_?igsh=MWZ2eGF0bTlrbTl5MA==",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 133-26 1층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 41 1층",
+      "mapx": "1269310657",
+      "mapy": "375684526"
+    },
+    {
+      "title": "프로티너 연세대정문앞 신촌세브란스점",
+      "link": "https://www.instagram.com/proteiner.kr",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 신촌동 134 B1층 2호",
+      "roadAddress": "서울특별시 서대문구 연세로 50-1 B1층 2호",
+      "mapx": "1269374104",
+      "mapy": "375603458"
     }
   ]
 }

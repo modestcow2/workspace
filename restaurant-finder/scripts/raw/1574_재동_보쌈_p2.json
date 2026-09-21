@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:27 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:07:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
       "mapx": "1269861071",
       "mapy": "375780371"
-    },
-    {
-      "title": "큰기와집",
-      "link": "https://blog.naver.com/keunkiwajip_0501",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 49-6 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 22 1층",
-      "mapx": "1269854307",
-      "mapy": "375787275"
     },
     {
       "title": "삼해집 종로점",
@@ -50,7 +39,7 @@
     },
     {
       "title": "애호락 안국본점",
-      "link": "",
+      "link": "https://www.instagram.com/aehorock",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
       "mapx": "1269866350",
       "mapy": "375791838"
+    },
+    {
+      "title": "종로도담",
+      "link": "https://jongnododam.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 46",
+      "roadAddress": "서울특별시 종로구 삼봉로 78",
+      "mapx": "1269813844",
+      "mapy": "375720658"
     }
   ]
 }

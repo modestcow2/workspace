@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:37 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "남산산채집",
-      "link": "",
+      "link": "https://www.sanchaizip.com/",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375684118"
     },
     {
-      "title": "원조남산왕돈까스",
-      "link": "",
+      "title": "밀피유",
+      "link": "https://s.baemin.com/AK000gH7l9ZRF",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 예장동 8-53",
-      "roadAddress": "서울특별시 중구 소파로 107",
-      "mapx": "1269861165",
-      "mapy": "375573938"
+      "address": "서울특별시 중구 명동2가 33-5 2,3층 밀피유",
+      "roadAddress": "서울특별시 중구 명동10길 10-1 2,3층 밀피유",
+      "mapx": "1269852221",
+      "mapy": "375633767"
     }
   ]
 }

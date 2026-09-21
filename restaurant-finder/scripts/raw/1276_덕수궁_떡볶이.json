@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:08 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:03:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375688274"
     },
     {
-      "title": "정든다락",
+      "title": "이가네 정동점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 367-1 현진빌딩 2층",
-      "roadAddress": "서울특별시 중구 덕수궁길 9 현진빌딩 2층",
-      "mapx": "1269762131",
-      "mapy": "375648101"
+      "address": "서울특별시 중구 정동 23-8 1층",
+      "roadAddress": "서울특별시 중구 정동길 2-1 1층",
+      "mapx": "1269693457",
+      "mapy": "375680020"
     }
   ]
 }

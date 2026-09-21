@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:58 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:58:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "카페 아이갓에브리씽 대한민국역사박물관점",
+      "link": "https://www.instagram.com/igoteverything_much?igsh=Y2hpODF6bGJvMzdx",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 82-1 3층",
+      "roadAddress": "서울특별시 종로구 세종대로 198 3층",
+      "mapx": "1269778315",
+      "mapy": "375741088"
+    },
     {
       "title": "보보식당 광화문",
       "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
@@ -16,6 +27,28 @@
       "mapy": "375721535"
     },
     {
+      "title": "난포 광화문",
+      "link": "https://www.instagram.com/nanpo_official/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지층",
+      "mapx": "1269780095",
+      "mapy": "375719377"
+    },
+    {
+      "title": "파블로 그릴앤바",
+      "link": "https://app.catchtable.co.kr/ct/shop/pavlogrillbar",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩WEST 15층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩WEST 15층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
       "title": "코끼리초밥 광화문점",
       "link": "https://blog.naver.com/kokirisushi",
       "category": "음식점>일식>초밥,롤",
@@ -23,39 +56,6 @@
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
       "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
-      "title": "파이프그라운드 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/pipeground_gwanghwamun",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
-      "title": "오츠커피 광화문",
-      "link": "https://smartstore.naver.com/oatscoffee",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 2층 213-2호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 2층 213-2호",
       "mapx": "1269778819",
       "mapy": "375721535"
     }

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:38 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:48:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "모담다이닝 <b>광화문</b>점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
     {
       "title": "일품진진수라 <b>광화문</b>점",
       "link": "http://www.jinjinsura.com",
@@ -27,28 +38,6 @@
       "mapy": "375678521"
     },
     {
-      "title": "모담다이닝 <b>광화문</b>점",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
-      "mapx": "1269720468",
-      "mapy": "375687024"
-    },
-    {
-      "title": "어부몽 인사점",
-      "link": "https://www.instagram.com/abumong.2024",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 3층",
-      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
-      "mapx": "1269835556",
-      "mapy": "375744663"
-    },
-    {
       "title": "설가온",
       "link": "https://blog.naver.com/mdinc6",
       "category": "한식>한정식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하1층 설가온",
       "mapx": "1269759463",
       "mapy": "375726222"
+    },
+    {
+      "title": "은성 <b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
     }
   ]
 }

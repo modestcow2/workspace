@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:01 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:48:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "세종특별자치시 조치원읍 세종로 2282 2층 222호 (럭스 스퀘어)",
       "mapx": "1272921118",
       "mapy": "365910595"
+    },
+    {
+      "title": "육회바른연어 <b>세종</b>홍대점",
+      "link": "https://yby.co.kr",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "세종특별자치시 조치원읍 신안리 341-15 1층 육회바른연어 세종홍대점",
+      "roadAddress": "세종특별자치시 조치원읍 섭골길 86-1 1층 육회바른연어 세종홍대점",
+      "mapx": "1272862499",
+      "mapy": "366177031"
     },
     {
       "title": "샐러드온 조치원점",

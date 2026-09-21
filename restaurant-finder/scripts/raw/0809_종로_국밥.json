@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:28 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:57:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "엄용백 돼지<b>국밥</b>",
+      "title": "엄용백 돼지<b>국밥</b> 종각점",
       "link": "https://www.instagram.com/umyongbaek_kr/",
       "category": "한식>국밥",
       "description": "",
@@ -23,12 +23,12 @@
       "telephone": "",
       "address": "서울특별시 종로구 낙원동 137",
       "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
+      "mapx": "1269889328",
       "mapy": "375723618"
     },
     {
       "title": "광화문<b>국밥</b>",
-      "link": "",
+      "link": "https://gwanghwamungukbap.netlify.app/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -38,19 +38,8 @@
       "mapy": "375689749"
     },
     {
-      "title": "합천돼지<b>국밥</b>",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 290-1",
-      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
-      "mapx": "1269879701",
-      "mapy": "375720097"
-    },
-    {
       "title": "돈맛꿀",
-      "link": "https://youtube.com/@pig_honey",
+      "link": "https://blog.naver.com/pig_money_honey",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
       "mapx": "1269895649",
       "mapy": "375710740"
+    },
+    {
+      "title": "육결 <b>종로</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yuggyeol_jonglo",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 12-9 지상1층~지상2층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 22 지상1층~지상2층",
+      "mapx": "1269862797",
+      "mapy": "375688942"
     }
   ]
 }

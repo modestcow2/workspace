@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:58 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:53:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "광화문<b>국밥</b>",
-      "link": "",
+      "link": "https://gwanghwamungukbap.netlify.app/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -27,6 +27,17 @@
       "mapy": "375712514"
     },
     {
+      "title": "이문면옥 광화문",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 B108호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 B108호",
+      "mapx": "1269720469",
+      "mapy": "375687024"
+    },
+    {
       "title": "청진옥",
       "link": "http://www.cheongjinok.com/",
       "category": "한식>해장국",
@@ -38,26 +49,15 @@
       "mapy": "375717535"
     },
     {
-      "title": "태평순대 광화문본점",
+      "title": "대성집",
       "link": "",
-      "category": "한식>순대,순댓국",
+      "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 76-1 1층 태평순대 광화문본점",
-      "roadAddress": "서울특별시 중구 세종대로21길 55 1층 태평순대 광화문본점",
-      "mapx": "1269760122",
-      "mapy": "375690306"
-    },
-    {
-      "title": "아이노가든키친",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-9 2층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 10 2층",
-      "mapx": "1269712704",
-      "mapy": "375728324"
+      "address": "서울특별시 종로구 행촌동 209-35",
+      "roadAddress": "서울특별시 종로구 사직로 5",
+      "mapx": "1269608828",
+      "mapy": "375727012"
     }
   ]
 }

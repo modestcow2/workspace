@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:16 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:50:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "백암왕<b>순대</b><b>순대</b>국 와이티엔점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 63-16",
-      "roadAddress": "서울특별시 중구 세종대로 9",
-      "mapx": "1269728863",
-      "mapy": "375579182"
-    },
     {
       "title": "보승회관 시청점",
       "link": "https://www.boseunghall.com/",
@@ -36,17 +25,6 @@
       "roadAddress": "서울특별시 중구 세종대로 62 2층 엽기떡볶이",
       "mapx": "1269764527",
       "mapy": "375617228"
-    },
-    {
-      "title": "왕십리<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 17-3",
-      "roadAddress": "서울특별시 중구 세종대로 22",
-      "mapx": "1269743210",
-      "mapy": "375585070"
     }
   ]
 }

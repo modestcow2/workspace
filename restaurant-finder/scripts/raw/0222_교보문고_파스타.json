@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:52 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:50:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375684246"
     },
     {
-      "title": "독립밀방 익선",
-      "link": "http://www.instagram.com/dongnip_millbang",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
-      "mapx": "1269902619",
-      "mapy": "375740791"
-    },
-    {
       "title": "정원레스토랑 어반가든",
       "link": "http://urbangarden.co.kr",
       "category": "음식점>양식",
@@ -45,8 +34,8 @@
       "telephone": "",
       "address": "서울특별시 중구 정동 28-2",
       "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
+      "mapx": "1269692007",
+      "mapy": "375674315"
     },
     {
       "title": "루뽀",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
       "mapx": "1269743036",
       "mapy": "375730456"
+    },
+    {
+      "title": "핏제리아 빠드레",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 165-1 지상1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
+      "mapx": "1269741385",
+      "mapy": "375710651"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:01:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 서대문구 연희맛로 6",
       "mapx": "1269287944",
       "mapy": "375659401"
+    },
+    {
+      "title": "천수<b>냉면</b> 이대점",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 대현동 34-24 1층",
+      "roadAddress": "서울특별시 서대문구 이화여대길 72-10 1층",
+      "mapx": "1269445084",
+      "mapy": "375594958"
     },
     {
       "title": "이설면옥 남가좌점",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 서대문구 연희로 81-9",
       "mapx": "1269292870",
       "mapy": "375657029"
-    },
-    {
-      "title": "천수<b>냉면</b> 이대점",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 34-24 1층",
-      "roadAddress": "서울특별시 서대문구 이화여대길 72-10 1층",
-      "mapx": "1269445084",
-      "mapy": "375594958"
     },
     {
       "title": "우리<b>냉면</b> 홍제점",

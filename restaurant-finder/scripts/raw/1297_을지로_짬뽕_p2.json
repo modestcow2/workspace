@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:18 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375665179"
     },
     {
+      "title": "파친코 <b>을지로</b>점",
+      "link": "https://www.instagram.com/pachinko.euljiro",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로3가 344-1 103호",
+      "roadAddress": "서울특별시 중구 수표로 48-1 103호",
+      "mapx": "1269901812",
+      "mapy": "375657043"
+    },
+    {
       "title": "가야성",
       "link": "",
       "category": "중식>중식당",
@@ -39,25 +50,14 @@
     },
     {
       "title": "무궁화반점 던던동대문점",
-      "link": "",
-      "category": "중식>중식당",
+      "link": "https://www.instagram.com/mugunghwabanjum_com",
+      "category": "음식점>중식>중식당",
       "description": "",
       "telephone": "",
       "address": "서울특별시 중구 을지로6가 21-31 던던 백화점 8층 1호",
       "roadAddress": "서울특별시 중구 을지로 264 던던 백화점 8층 1호",
       "mapx": "1270070531",
       "mapy": "375657367"
-    },
-    {
-      "title": "송탄영빈루 을지타워점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로4가 323 지하1층",
-      "roadAddress": "서울특별시 중구 을지로 170 지하1층",
-      "mapx": "1269972993",
-      "mapy": "375660987"
     }
   ]
 }

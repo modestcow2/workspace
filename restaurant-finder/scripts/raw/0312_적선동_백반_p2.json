@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:35 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:51:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "파루 닭한마리",
+      "link": "https://www.instagram.com/paru.seoul/",
+      "category": "한식>닭요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 13-1 1층",
+      "roadAddress": "서울특별시 종로구 사직로 137-11 1층",
+      "mapx": "1269737766",
+      "mapy": "375762128"
+    },
     {
       "title": "키친온유",
       "link": "",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
       "mapx": "1269799066",
       "mapy": "375764071"
-    },
-    {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
     },
     {
       "title": "동백식당",

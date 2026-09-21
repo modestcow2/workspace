@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:37 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:07:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 59",
       "mapx": "1269857102",
       "mapy": "375769015"
-    },
-    {
-      "title": "청진옥",
-      "link": "http://www.cheongjinok.com/",
-      "category": "한식>해장국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 183-1",
-      "roadAddress": "서울특별시 종로구 종로3길 32",
-      "mapx": "1269794207",
-      "mapy": "375717535"
     },
     {
       "title": "이복희해장 종로직영점",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 을지로1길 38",
       "mapx": "1269798583",
       "mapy": "375677548"
+    },
+    {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
     },
     {
       "title": "영춘옥",

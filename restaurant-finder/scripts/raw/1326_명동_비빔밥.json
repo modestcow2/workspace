@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:31 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
+      "link": "https://www.instagram.com/mmsb___official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
       "mapx": "1269869447",
       "mapy": "375581107"
-    },
-    {
-      "title": "오공일 <b>명동</b>점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 2층",
-      "roadAddress": "서울특별시 중구 남대문로 55 2층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
     },
     {
       "title": "해밀가 종각점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 명동7길 21 지하1층 B101호",
       "mapx": "1269836829",
       "mapy": "375645725"
+    },
+    {
+      "title": "이스트빌리지서울 광화문점",
+      "link": "https://www.instagram.com/East_Village.seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하 1층",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하 1층",
+      "mapx": "1269782820",
+      "mapy": "375684612"
     }
   ]
 }

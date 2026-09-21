@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:06 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375745591"
     },
     {
+      "title": "태양 종각점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 100 태양",
+      "roadAddress": "서울특별시 종로구 우정국로 42-2 태양",
+      "mapx": "1269833740",
+      "mapy": "375728418"
+    },
+    {
       "title": "리향",
       "link": "",
       "category": "중식>중식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동7길 37 2층",
       "mapx": "1269847195",
       "mapy": "375726429"
-    },
-    {
-      "title": "크리스탈제이드 광화문상하이팰리스점",
-      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
-      "category": "음식점>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
-      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
-      "mapx": "1269814479",
-      "mapy": "375750528"
     }
   ]
 }

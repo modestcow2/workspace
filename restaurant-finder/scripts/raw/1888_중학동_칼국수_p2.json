@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:52 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:11:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "명동<b>칼국수</b>",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 110-2",
-      "roadAddress": "서울특별시 종로구 종로1길 57",
-      "mapx": "1269789571",
-      "mapy": "375754362"
-    },
     {
       "title": "모도우 광화문점",
       "link": "https://openine.com/PARTY",
@@ -38,6 +27,17 @@
       "mapy": "375801317"
     },
     {
+      "title": "종가만두",
+      "link": "https://blog.naver.com/sgjongro55",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 145-1 1층 종가만두",
+      "roadAddress": "서울특별시 종로구 수표로 88 1층 종가만두",
+      "mapx": "1269896787",
+      "mapy": "375689062"
+    },
+    {
       "title": "대련집",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -50,7 +50,7 @@
     },
     {
       "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "link": "https://www.k-delicious.kr/",
       "category": "한식>국수",
       "description": "",
       "telephone": "",

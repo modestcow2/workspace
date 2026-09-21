@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:28 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:57:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "명동교자 본점",
+      "link": "http://www.mdkj.co.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 64-6",
+      "roadAddress": "서울특별시 중구 퇴계로 129",
+      "mapx": "1269861471",
+      "mapy": "375611325"
+    },
+    {
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
+    },
     {
       "title": "대련집",
       "link": "",
@@ -16,48 +38,26 @@
       "mapy": "375683895"
     },
     {
-      "title": "삼봉도담",
-      "link": "https://sambongdodam.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-34 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
-      "mapx": "1269825289",
-      "mapy": "375729806"
-    },
-    {
-      "title": "진옥화할매원조닭한마리",
-      "link": "http://www.darkhanmari.co.kr/",
-      "category": "한식>닭요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로5가 265-22",
-      "roadAddress": "서울특별시 종로구 종로40가길 18",
-      "mapx": "1270057389",
-      "mapy": "375703500"
-    },
-    {
-      "title": "꾸왁<b>칼국수</b>",
+      "title": "설이동",
       "link": "",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 주교동 153-2 꾸왁칼국수 1층",
-      "roadAddress": "서울특별시 중구 창경궁로 67-13 꾸왁칼국수 1층",
-      "mapx": "1269972173",
-      "mapy": "375682937"
+      "address": "서울특별시 종로구 청진동 179-1 1층",
+      "roadAddress": "서울특별시 종로구 종로3길 24-17 1층",
+      "mapx": "1269797289",
+      "mapy": "375717410"
     },
     {
-      "title": "손정보쌈 <b>종로</b>점",
-      "link": "",
-      "category": "한식>족발,보쌈",
+      "title": "종가만두",
+      "link": "https://blog.naver.com/sgjongro55",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-11 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로15길 24 1층",
-      "mapx": "1269861610",
-      "mapy": "375688950"
+      "address": "서울특별시 종로구 관수동 145-1 1층 종가만두",
+      "roadAddress": "서울특별시 종로구 수표로 88 1층 종가만두",
+      "mapx": "1269896787",
+      "mapy": "375689062"
     }
   ]
 }

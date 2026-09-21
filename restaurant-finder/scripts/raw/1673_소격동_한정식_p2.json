@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:14 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:08:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "소선재",
-      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 113-3 소선재",
-      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
-      "mapx": "1269818029",
-      "mapy": "375855480"
-    },
     {
       "title": "편안한집",
       "link": "https://ahome.imweb.me/",
@@ -27,15 +16,15 @@
       "mapy": "375873030"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
+      "title": "소선재",
+      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
+      "address": "서울특별시 종로구 삼청동 113-3 소선재",
+      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
+      "mapx": "1269818029",
+      "mapy": "375855480"
     },
     {
       "title": "두레 국립현대미술관서울점",
@@ -45,19 +34,30 @@
       "telephone": "",
       "address": "서울특별시 종로구 소격동 165",
       "roadAddress": "서울특별시 종로구 삼청로 30",
-      "mapx": "1269800493",
-      "mapy": "375787818"
+      "mapx": "1269802875",
+      "mapy": "375793735"
     },
     {
-      "title": "봉이밥 삼청동점",
+      "title": "청수정",
+      "link": "http://www.instagram.com/cheongsoojung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 80-6",
+      "roadAddress": "서울특별시 종로구 삼청로 91",
+      "mapx": "1269816875",
+      "mapy": "375835571"
+    },
+    {
+      "title": "만수의정원",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
+      "address": "서울특별시 종로구 소격동 24-1",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 35-2",
+      "mapx": "1269814047",
+      "mapy": "375810569"
     }
   ]
 }

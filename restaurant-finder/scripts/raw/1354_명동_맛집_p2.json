@@ -1,12 +1,45 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:44 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "남산산채집",
+      "title": "보배반점 <b>명동</b>점",
       "link": "",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25 1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 1층",
+      "mapx": "1269835917",
+      "mapy": "375642249"
+    },
+    {
+      "title": "윤슬 숯불구이 <b>명동</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sunshine",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 3-3 1층",
+      "roadAddress": "서울특별시 중구 명동10길 19-3 1층",
+      "mapx": "1269856450",
+      "mapy": "375630223"
+    },
+    {
+      "title": "삼호정",
+      "link": "https://www.instagram.com/myeongdong.samhojung",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동3가 6-1",
+      "roadAddress": "서울특별시 중구 퇴계로16길 26",
+      "mapx": "1269844279",
+      "mapy": "375597128"
+    },
+    {
+      "title": "남산산채집",
+      "link": "https://www.sanchaizip.com/",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
@@ -16,48 +49,15 @@
       "mapy": "375567733"
     },
     {
-      "title": "목멱산방 남산타워점",
-      "link": "http://instagram.com/m_horaeng",
-      "category": "음식점>한식",
+      "title": "을지돈가스 <b>명동</b>본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/EuljiDonkas",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 예장동 산5-6",
-      "roadAddress": "서울특별시 중구 남산공원길 627",
-      "mapx": "1269853285",
-      "mapy": "375553582"
-    },
-    {
-      "title": "육통령 <b>명동</b>본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
-    },
-    {
-      "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
-      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
-      "mapx": "1269869447",
-      "mapy": "375581107"
-    },
-    {
-      "title": "청기와타운 을지로점",
-      "link": "https://catchtable.co.kr/bluerooftown5",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-21 1층 청기와타운 을지로점",
-      "roadAddress": "서울특별시 중구 을지로 54 1층 청기와타운 을지로점",
-      "mapx": "1269836749",
-      "mapy": "375659020"
+      "address": "서울특별시 중구 명동1가 10-5 1층",
+      "roadAddress": "서울특별시 중구 명동9길 10 1층",
+      "mapx": "1269849975",
+      "mapy": "375643266"
     }
   ]
 }

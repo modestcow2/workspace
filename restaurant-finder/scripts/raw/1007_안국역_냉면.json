@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:02 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:00:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 낙원동 55-1",
       "roadAddress": "서울특별시 종로구 삼일대로30길 12",
-      "mapx": "1269886066",
-      "mapy": "375736812"
+      "mapx": "1269885837",
+      "mapy": "375737257"
     },
     {
       "title": "류경회관 광화문점",
@@ -38,26 +38,26 @@
       "mapy": "375780371"
     },
     {
-      "title": "사찰음식 전문점 발우공양",
-      "link": "http://balwoo.or.kr/",
-      "category": "한식>사찰음식",
+      "title": "일월카츠 안국점",
+      "link": "https://www.instagram.com/ill_wall_katsu",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 71 템플스테이 통합정보센터 5층",
-      "roadAddress": "서울특별시 종로구 우정국로 56 템플스테이 통합정보센터 5층",
-      "mapx": "1269832147",
-      "mapy": "375738365"
+      "address": "서울특별시 종로구 안국동 132 1층",
+      "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
+      "mapx": "1269851329",
+      "mapy": "375773417"
     },
     {
-      "title": "콩뼈숯뼈감자탕",
-      "link": "",
+      "title": "안국약방",
+      "link": "https://안국약방.kr",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 42 콩뼈숯뼈감자탕",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 6 콩뼈숯뼈감자탕",
-      "mapx": "1269881876",
-      "mapy": "375737037"
+      "address": "서울특별시 종로구 재동 91 1층",
+      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
+      "mapx": "1269861688",
+      "mapy": "375773871"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:40 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
       "mapx": "1269782820",
       "mapy": "375684612"
-    },
-    {
-      "title": "타이24",
-      "link": "",
-      "category": "음식점>태국음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-64 3층",
-      "roadAddress": "서울특별시 중구 명동9길 33 3층",
-      "mapx": "1269841157",
-      "mapy": "375652430"
     },
     {
       "title": "꾸에흐엉",
@@ -49,15 +38,26 @@
       "mapy": "375670959"
     },
     {
-      "title": "리틀하노이",
+      "title": "타이24",
       "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 199-64 3층",
+      "roadAddress": "서울특별시 중구 명동9길 33 3층",
+      "mapx": "1269841157",
+      "mapy": "375652430"
+    },
+    {
+      "title": "반포식스 서울시청점",
+      "link": "http://www.banhpho6.com",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 32-27 해암빌딩 3층",
-      "roadAddress": "서울특별시 중구 명동8길 21-5 해암빌딩 3층",
-      "mapx": "1269851056",
-      "mapy": "375628354"
+      "address": "서울특별시 중구 무교동 24-2 휘닉스빌딩 3층",
+      "roadAddress": "서울특별시 중구 무교로 13 휘닉스빌딩 3층",
+      "mapx": "1269790515",
+      "mapy": "375671662"
     }
   ]
 }

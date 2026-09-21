@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:24 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:10:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
-    },
     {
       "title": "맘스키친",
       "link": "https://app.catchtable.co.kr/ct/shop/momskitchen",
@@ -38,6 +27,17 @@
       "mapy": "375777902"
     },
     {
+      "title": "공기식당",
+      "link": "",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 46-5 1층",
+      "roadAddress": "서울특별시 종로구 필운대로6길 20-1 1층",
+      "mapx": "1269695266",
+      "mapy": "375803365"
+    },
+    {
       "title": "데미타스 부암동본점",
       "link": "https://www.instagram.com/_demitasse/",
       "category": "음식점>한식",
@@ -49,15 +49,15 @@
       "mapy": "375924488"
     },
     {
-      "title": "공기식당",
-      "link": "",
-      "category": "음식점>일식>카레",
+      "title": "찡짜이타이푸드",
+      "link": "https://www.instagram.com/jingjai_thaifood?igsh=MWhwY3BvN3kwcHNkbg==",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 46-5 1층",
-      "roadAddress": "서울특별시 종로구 필운대로6길 20-1 1층",
-      "mapx": "1269695266",
-      "mapy": "375803365"
+      "address": "서울특별시 종로구 도렴동 60 지하1층 53-1호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 37 지하1층 53-1호",
+      "mapx": "1269742286",
+      "mapy": "375736565"
     }
   ]
 }

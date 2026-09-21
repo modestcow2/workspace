@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:54 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:51:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,26 @@
       "mapy": "375764071"
     },
     {
-      "title": "꿀밥상",
+      "title": "밥순이 연탄불고기",
       "link": "",
-      "category": "한식>한정식",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
+      "address": "서울특별시 서대문구 미근동 27 밥순이 연탄불고기",
+      "roadAddress": "서울특별시 서대문구 충정로6안길 50 밥순이 연탄불고기",
+      "mapx": "1269667105",
+      "mapy": "375642239"
+    },
+    {
+      "title": "한옥그레이스",
+      "link": "https://www.instagram.com/hanok_grace",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로2가 16-20",
+      "roadAddress": "서울특별시 서대문구 통일로9안길 28-5",
+      "mapx": "1269651519",
+      "mapy": "375660199"
     },
     {
       "title": "전주풍남회관",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
       "mapx": "1269759995",
       "mapy": "375685854"
-    },
-    {
-      "title": "다담정식",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 서린동 88 관정빌딩 지하1층",
-      "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
-      "mapx": "1269813961",
-      "mapy": "375694054"
     }
   ]
 }

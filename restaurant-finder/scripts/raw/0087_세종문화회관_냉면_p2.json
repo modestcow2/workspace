@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:46 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:48:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "광화문면옥",
-      "link": "",
+      "link": "https://www.instagram.com/gwanghwamun_myeonok/",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
@@ -27,37 +27,37 @@
       "mapy": "375698520"
     },
     {
-      "title": "서령 본점",
-      "link": "https://www.instagram.com/seoryung_seoul",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 120 1층",
-      "roadAddress": "서울특별시 중구 소월로 10 1층",
-      "mapx": "1269754231",
-      "mapy": "375585380"
-    },
-    {
-      "title": "류경<b>회관</b> 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
-      "mapx": "1269818280",
-      "mapy": "375724939"
-    },
-    {
-      "title": "부원면옥",
+      "title": "능라도 광화문점",
       "link": "",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남창동 47-10 부원상가 2층",
-      "roadAddress": "서울특별시 중구 남대문시장4길 41-6 부원상가 2층",
-      "mapx": "1269775990",
-      "mapy": "375584294"
+      "address": "서울특별시 종로구 당주동 128-27 3층",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 3층",
+      "mapx": "1269722833",
+      "mapy": "375717008"
+    },
+    {
+      "title": "유진식당",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 221",
+      "roadAddress": "서울특별시 종로구 종로17길 40",
+      "mapx": "1269882793",
+      "mapy": "375720328"
+    },
+    {
+      "title": "서관면옥 신세계백화점 본점",
+      "link": "https://www.instagram.com/seogwanmyenog",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로1가 54 디 에스테이트 14층",
+      "roadAddress": "서울특별시 중구 퇴계로 77 디 에스테이트 14층",
+      "mapx": "1269806346",
+      "mapy": "375603977"
     }
   ]
 }

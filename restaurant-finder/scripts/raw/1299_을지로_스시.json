@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:18 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375653900"
     },
     {
-      "title": "에비스야 우동&amp;오뎅 <b>을지로</b>점",
-      "link": "https://www.instagram.com/ebisuyaudon_kr/",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 3-1 1층",
-      "roadAddress": "서울특별시 중구 수표로 46-2 1층",
-      "mapx": "1269900805",
-      "mapy": "375653395"
-    },
-    {
-      "title": "<b>스시</b> 소우카이",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushi_soukai",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로5가 274-1 지하1층",
-      "roadAddress": "서울특별시 중구 동호로35길 5 지하1층",
-      "mapx": "1270019924",
-      "mapy": "375662037"
-    },
-    {
       "title": "이대헌 <b>스시</b>",
       "link": "",
       "category": "한식>생선회",
@@ -49,6 +27,17 @@
       "mapy": "375655239"
     },
     {
+      "title": "<b>스시</b>이찌 <b>을지로</b>점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 저동2가 7-2 제이매크로타워 2층 203호",
+      "roadAddress": "서울특별시 중구 을지로12길 28 제이매크로타워 2층 203호",
+      "mapx": "1269905697",
+      "mapy": "375651798"
+    },
+    {
       "title": "<b>스시</b>덴고쿠 동대문현대아울렛점",
       "link": "",
       "category": "음식점>일식>초밥,롤",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 장충단로13길 20 지하2층",
       "mapx": "1270075370",
       "mapy": "375683018"
+    },
+    {
+      "title": "심지<b>스시</b>",
+      "link": "https://www.instagram.com/euljiro_shimjee",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 155-7 1층",
+      "roadAddress": "서울특별시 중구 수표로12길 28 1층",
+      "mapx": "1269917078",
+      "mapy": "375640182"
     }
   ]
 }

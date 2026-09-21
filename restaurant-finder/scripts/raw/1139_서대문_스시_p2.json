@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:03 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:02:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>스시</b>도쿠 현대백화점 신촌점",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 30-33 신촌점 10층",
-      "roadAddress": "서울특별시 서대문구 신촌로 83 신촌점 10층",
-      "mapx": "1269356172",
-      "mapy": "375559008"
-    },
     {
       "title": "<b>스시</b>하나에",
       "link": "",
@@ -28,7 +17,7 @@
     },
     {
       "title": "으뜸<b>스시</b> 신촌점",
-      "link": "https://euddeumsushi.com/",
+      "link": "https://으뜸스시.com",
       "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 서대문구 연세로9길 37 102호 김판석초밥",
       "mapx": "1269346765",
       "mapy": "375585501"
+    },
+    {
+      "title": "<b>스시</b>도쿠 현대백화점 신촌점",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-33 신촌점 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 신촌점 10층",
+      "mapx": "1269356172",
+      "mapy": "375559008"
     },
     {
       "title": "여우골초밥 신촌점",

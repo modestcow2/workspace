@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:06 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:07:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 중구 주교동 118-1",
       "roadAddress": "서울특별시 중구 창경궁로 62-29",
-      "mapx": "1269987029",
-      "mapy": "375682697"
+      "mapx": "1269987278",
+      "mapy": "375681693"
     },
     {
       "title": "고궁의아침 서울대병원",
@@ -38,15 +38,15 @@
       "mapy": "375727819"
     },
     {
-      "title": "솥내음 종로인사동점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
+      "title": "온미관 안국",
+      "link": "https://www.instagram.com/onmigwananguk/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
+      "address": "서울특별시 종로구 재동 84-21 온미관 안국",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-4 온미관 안국",
+      "mapx": "1269861071",
+      "mapy": "375780371"
     },
     {
       "title": "일품진진수라 광화문점",

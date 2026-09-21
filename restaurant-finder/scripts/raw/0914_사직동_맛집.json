@@ -1,34 +1,23 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:18 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:59:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "고가빈커리하우스 광화문본점",
-      "link": "http://instagram.com/gogabin_curryhouse",
-      "category": "음식점>일식>카레",
+      "title": "옹시미 경복궁점",
+      "link": "https://blog.naver.com/omgseemegbg",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-48 3층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
-      "mapx": "1269709645",
-      "mapy": "375728814"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
+      "address": "서울특별시 종로구 내자동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 사직로 105 1층",
+      "mapx": "1269705376",
+      "mapy": "375762516"
     },
     {
       "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "link": "https://blog.naver.com/wusm-official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -38,26 +27,37 @@
       "mapy": "375717610"
     },
     {
-      "title": "칸다소바 경복궁점",
-      "link": "https://litt.ly/kandasoba",
-      "category": "음식점>일식>일본식라면",
+      "title": "홈보이서울",
+      "link": "http://www.instagram.com/homeboy_seoul",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 28-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
-      "mapx": "1269712623",
-      "mapy": "375782119"
+      "address": "서울특별시 종로구 적선동 94 1층 홈보이서울",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
+      "mapx": "1269730709",
+      "mapy": "375762354"
     },
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
+      "title": "모담다이닝 광화문점",
+      "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
       "mapx": "1269720468",
       "mapy": "375687024"
+    },
+    {
+      "title": "무탄 광화문점",
+      "link": "https://naver.me/5uc3NJV7",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
     }
   ]
 }

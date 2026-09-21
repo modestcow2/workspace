@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:10 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:03:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "안동장",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
-    },
     {
       "title": "오구반점",
       "link": "",
@@ -27,15 +16,15 @@
       "mapy": "375665179"
     },
     {
-      "title": "바오차이",
+      "title": "안동장",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 203 파인에비뉴 B동 지하1층",
-      "roadAddress": "서울특별시 중구 을지로 100 파인에비뉴 B동 지하1층",
-      "mapx": "1269887946",
-      "mapy": "375659307"
+      "address": "서울특별시 중구 을지로3가 315-1",
+      "roadAddress": "서울특별시 중구 을지로 124",
+      "mapx": "1269915576",
+      "mapy": "375661354"
     },
     {
       "title": "지유켄",
@@ -49,15 +38,26 @@
       "mapy": "375652629"
     },
     {
-      "title": "여의주훠궈관 <b>을지로</b>본점",
-      "link": "https://www.instagram.com/yeouijuhuoguo",
+      "title": "바오차이",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 323 4층 403호",
-      "roadAddress": "서울특별시 중구 을지로12길 12 4층 403호",
-      "mapx": "1269910635",
-      "mapy": "375657466"
+      "address": "서울특별시 중구 을지로2가 203 파인에비뉴 B동 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 100 파인에비뉴 B동 지하1층",
+      "mapx": "1269887946",
+      "mapy": "375659307"
+    },
+    {
+      "title": "촨촨지우바",
+      "link": "https://www.instagram.com/chuanchuanjiubar.euljiro?igshid=OGQ5ZDc2ODk2ZA==",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 산림동 207-2 대림상가 3층 가358,359",
+      "roadAddress": "서울특별시 중구 을지로 157 대림상가 3층 가358,359",
+      "mapx": "1269954936",
+      "mapy": "375670649"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:24 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:11:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375776453"
     },
     {
-      "title": "이주당",
-      "link": "",
+      "title": "몰림",
+      "link": "https://app.catchtable.co.kr/ct/shop/mollim",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 189",
-      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
-      "mapx": "1269716059",
-      "mapy": "375765372"
+      "address": "서울특별시 종로구 내자동 146 몰림",
+      "roadAddress": "서울특별시 종로구 사직로10길 5 몰림",
+      "mapx": "1269705040",
+      "mapy": "375756787"
     }
   ]
 }

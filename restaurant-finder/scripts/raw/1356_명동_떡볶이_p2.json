@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:45 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 18:04:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
+    },
     {
       "title": "영차<b>떡볶이</b> <b>명동</b>점",
       "link": "",
@@ -38,26 +49,15 @@
       "mapy": "375623945"
     },
     {
-      "title": "현선이네 청계즉석점",
-      "link": "https://smartstore.naver.com/hyunsunine",
-      "category": "분식>떡볶이",
+      "title": "병아리김밥 <b>명동</b>점",
+      "link": "https://chickgimbapmd.com/",
+      "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
-      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
-      "mapx": "1269830312",
-      "mapy": "375671291"
-    },
-    {
-      "title": "원조 곱창<b>떡볶이</b> 화떡 <b>명동</b>본점",
-      "link": "http://www.facebook.com/hwatteok",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 54-26",
-      "roadAddress": "서울특별시 중구 명동4길 15",
-      "mapx": "1269838037",
-      "mapy": "375630132"
+      "address": "서울특별시 중구 명동2가 3-3 지하1층",
+      "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
+      "mapx": "1269855893",
+      "mapy": "375629999"
     }
   ]
 }

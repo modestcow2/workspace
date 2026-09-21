@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:35 +0900",
+  "lastBuildDate": "Mon, 21 Sep 2026 17:51:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "부산집막국수",
-      "link": "",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 26 1층",
-      "roadAddress": "서울특별시 종로구 사직로 133-8 1층",
-      "mapx": "1269734310",
-      "mapy": "375762754"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
     {
       "title": "나주소나주곰탕 경복궁점",
       "link": "",
@@ -38,6 +16,17 @@
       "mapy": "375764713"
     },
     {
+      "title": "부산집막국수",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 26 1층",
+      "roadAddress": "서울특별시 종로구 사직로 133-8 1층",
+      "mapx": "1269734310",
+      "mapy": "375762754"
+    },
+    {
       "title": "153구포국수 경복궁점",
       "link": "",
       "category": "음식점>한식>국수",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로 127-6 1층",
       "mapx": "1269732078",
       "mapy": "375760801"
+    },
+    {
+      "title": "천궁 경복궁점",
+      "link": "https://blog.naver.com/rhkrejrrms",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 광화문플래티넘빌딩 지하 118호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 광화문플래티넘빌딩 지하 118호",
+      "mapx": "1269736144",
+      "mapy": "375744582"
     },
     {
       "title": "명작신의주찹쌀순대",

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:43 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:25:25 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
-    },
     {
       "title": "보보식당 광화문",
       "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
@@ -27,26 +16,26 @@
       "mapy": "375721535"
     },
     {
-      "title": "한양<b>중식</b> 종로점",
-      "link": "http://www.instagram.com/haanyang/",
+      "title": "친니",
+      "link": "http://www.chinee.co.kr/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
-      "mapx": "1269836975",
-      "mapy": "375706386"
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
+      "mapx": "1269762577",
+      "mapy": "375724523"
     },
     {
-      "title": "란주칼면",
-      "link": "",
+      "title": "도원S",
+      "link": "https://app.catchtable.co.kr/ct/shop/taoyuens",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-9 1층 란주칼면",
-      "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
-      "mapx": "1269821083",
-      "mapy": "375609724"
+      "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 WEST, 15층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT광화문빌딩 WEST, 15층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     },
     {
       "title": "무탄 광화문점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
       "mapx": "1269721401",
       "mapy": "375696647"
+    },
+    {
+      "title": "차이들 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층 307, 308호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
     }
   ]
 }

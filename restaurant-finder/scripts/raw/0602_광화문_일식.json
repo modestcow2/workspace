@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:52 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:22:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "진작",
-      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 46-27 1층",
-      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
-      "mapx": "1269908216",
-      "mapy": "375640300"
-    },
     {
       "title": "동해도 <b>광화문</b>점",
       "link": "https://www.instagram.com/donghaedo1987",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
       "mapx": "1269794820",
       "mapy": "375684296"
+    },
+    {
+      "title": "이치규 <b>광화문</b>점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "오레노 야끼 종로점",
@@ -49,15 +49,15 @@
       "mapy": "375729254"
     },
     {
-      "title": "도우또 을지로",
-      "link": "https://www.instagram.com/dowuddo_euljiro/",
+      "title": "누하의 숲",
+      "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 인현동1가 60 1층, 2층",
-      "roadAddress": "서울특별시 중구 을지로18길 42 1층, 2층",
-      "mapx": "1269940415",
-      "mapy": "375647071"
+      "address": "서울특별시 종로구 누하동 175-2 1F",
+      "roadAddress": "서울특별시 종로구 필운대로 31-1 1F",
+      "mapx": "1269687592",
+      "mapy": "375787996"
     }
   ]
 }

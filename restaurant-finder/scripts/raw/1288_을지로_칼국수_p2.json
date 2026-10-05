@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:13 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,26 @@
       "mapy": "375682937"
     },
     {
-      "title": "계화정 동대문현대시티아울렛점",
-      "link": "",
-      "category": "한식>닭요리",
+      "title": "대동옥 <b>을지로</b>본점",
+      "link": "https://www.instagram.com/daedongok",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로6가 17-2 현대시티아울렛 지하2층 계화정",
-      "roadAddress": "서울특별시 중구 장충단로13길 20 현대시티아울렛 지하2층 계화정",
-      "mapx": "1270074175",
-      "mapy": "375683116"
+      "address": "서울특별시 중구 을지로3가 334-8 1층",
+      "roadAddress": "서울특별시 중구 을지로12길 8 1층",
+      "mapx": "1269910616",
+      "mapy": "375659680"
+    },
+    {
+      "title": "조개와",
+      "link": "",
+      "category": "한식>조개요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 200 1층",
+      "roadAddress": "서울특별시 중구 명동7길 17 1층",
+      "mapx": "1269842955",
+      "mapy": "375645484"
     },
     {
       "title": "본가원조닭한마리",
@@ -38,26 +49,15 @@
       "mapy": "375635413"
     },
     {
-      "title": "대동옥 <b>을지로</b>본점",
-      "link": "https://www.instagram.com/daedongok",
-      "category": "음식점>한식",
+      "title": "청담이수육애<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 334-8 1층",
-      "roadAddress": "서울특별시 중구 을지로12길 8 1층",
-      "mapx": "1269910616",
-      "mapy": "375659680"
-    },
-    {
-      "title": "을지수제비",
-      "link": "http://www.수제비.kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 291-14",
-      "roadAddress": "서울특별시 중구 충무로 50-1",
-      "mapx": "1269930161",
-      "mapy": "375656952"
+      "address": "서울특별시 중구 을지로7가 143 지하2층 D7호",
+      "roadAddress": "서울특별시 중구 을지로 281 지하2층 D7호",
+      "mapx": "1270099323",
+      "mapy": "375675466"
     }
   ]
 }

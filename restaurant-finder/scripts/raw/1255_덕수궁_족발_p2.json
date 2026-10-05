@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:58 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:30:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "오양식관",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
+      "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
+      "mapx": "1269756182",
+      "mapy": "375686475"
+    },
     {
       "title": "만족오향<b>족발</b> 시청점",
       "link": "https://blog.naver.com/manchum4755",
@@ -16,28 +27,6 @@
       "mapy": "375632554"
     },
     {
-      "title": "오양식관",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
-      "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
-      "mapx": "1269756446",
-      "mapy": "375687260"
-    },
-    {
-      "title": "본가서대문<b>족발</b> 본점",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 미근동 31-14",
-      "roadAddress": "서울특별시 서대문구 충정로6안길 54",
-      "mapx": "1269668935",
-      "mapy": "375644552"
-    },
-    {
       "title": "만족오향<b>족발</b> 시청점 별관",
       "link": "",
       "category": "육류,고기요리>족발,보쌈",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 서소문로 136 유풍빌딩 1-2층",
       "mapx": "1269760425",
       "mapy": "375635600"
+    },
+    {
+      "title": "나이스호프",
+      "link": "https://www.instagram.com/nicehope87",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 미근동 193 지하1층",
+      "roadAddress": "서울특별시 서대문구 통일로 107 지하1층",
+      "mapx": "1269675065",
+      "mapy": "375644700"
     },
     {
       "title": "종로보쌈",

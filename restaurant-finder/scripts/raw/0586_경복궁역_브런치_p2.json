@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:44 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:22:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 통의동 35-21",
       "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
+      "mapx": "1269735439",
+      "mapy": "375777477"
     },
     {
       "title": "애즈라이크 서촌",
@@ -38,6 +38,17 @@
       "mapy": "375774485"
     },
     {
+      "title": "고트델리 서촌",
+      "link": "https://www.instagram.com/goattdeli",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 100 1층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
+      "mapx": "1269682499",
+      "mapy": "375799314"
+    },
+    {
       "title": "데케드",
       "link": "https://www.instagram.com/dekad.kafeteria/",
       "category": "음식점>양식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로7길 43 1층 101호,102호(누하동)",
       "mapx": "1269696650",
       "mapy": "375793249"
-    },
-    {
-      "title": "아리",
-      "link": "https://app.catchtable.co.kr/ct/shop/ari?from=share&type=DINING",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 137-5 아리",
-      "roadAddress": "서울특별시 종로구 사직로9길 6-1 아리",
-      "mapx": "1269686902",
-      "mapy": "375765067"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:32 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:34:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "대장장이화덕<b>피자</b>",
-      "link": "http://pf.kakao.com/_Zscxmb",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 가회동 202-1",
-      "roadAddress": "서울특별시 종로구 북촌로 42-4",
-      "mapx": "1269853702",
-      "mapy": "375805827"
-    },
     {
       "title": "플롭 안국",
       "link": "https://www.instagram.com/plop_pizza",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5",
       "mapx": "1269860684",
       "mapy": "375779283"
+    },
+    {
+      "title": "대장장이화덕<b>피자</b>",
+      "link": "http://pf.kakao.com/_Zscxmb",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 202-1",
+      "roadAddress": "서울특별시 종로구 북촌로 42-4",
+      "mapx": "1269853702",
+      "mapy": "375805827"
     },
     {
       "title": "로우파이브 안국",
@@ -39,7 +39,7 @@
     },
     {
       "title": "콩지POT지",
-      "link": "https://blog.naver.com/konggpotg",
+      "link": "https://go.catchtable.co.kr/3zkxe1",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375788262"
     },
     {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
-      "category": "음식점>양식",
+      "title": "스파게티가있는풍경 광화문점",
+      "link": "https://www.instagram.com/pomodori_park",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
+      "address": "서울특별시 종로구 신문로1가 1-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
+      "mapx": "1269761832",
+      "mapy": "375704933"
     }
   ]
 }

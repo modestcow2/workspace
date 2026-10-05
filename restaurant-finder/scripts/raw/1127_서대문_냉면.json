@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375708805"
     },
     {
-      "title": "평택고여사집<b>냉면</b>",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 193-13",
-      "roadAddress": "서울특별시 서대문구 연희로 81-9",
-      "mapx": "1269292870",
-      "mapy": "375657029"
-    },
-    {
       "title": "천수<b>냉면</b> 이대점",
       "link": "",
       "category": "한식>냉면",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 서대문구 이화여대길 72-10 1층",
       "mapx": "1269445084",
       "mapy": "375594958"
+    },
+    {
+      "title": "평택고여사집<b>냉면</b>",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 193-13",
+      "roadAddress": "서울특별시 서대문구 연희로 81-9",
+      "mapx": "1269292870",
+      "mapy": "375657029"
     },
     {
       "title": "우리<b>냉면</b> 홍제점",

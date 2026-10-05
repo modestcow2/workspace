@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:19 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:19:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375766355"
     },
     {
+      "title": "고양이부엌",
+      "link": "https://www.instagram.com/goyangibueok.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 167-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 14 1층",
+      "mapx": "1269695035",
+      "mapy": "375774430"
+    },
+    {
       "title": "동혁이네",
       "link": "",
       "category": "분식>종합분식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 필운대로1길 5",
       "mapx": "1269689493",
       "mapy": "375773312"
-    },
-    {
-      "title": "봉구스밥버거 배화여대점",
-      "link": "http://www.bongousse.com",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 154",
-      "roadAddress": "서울특별시 종로구 자하문로1길 51",
-      "mapx": "1269696320",
-      "mapy": "375768854"
     },
     {
       "title": "본김밥",

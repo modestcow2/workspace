@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:28 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:24:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "대련집",
-      "link": "",
+      "title": "명동교자 본점",
+      "link": "http://www.mdkj.co.kr/",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관수동 163",
-      "roadAddress": "서울특별시 종로구 종로16길 37",
-      "mapx": "1269889029",
-      "mapy": "375683895"
+      "address": "서울특별시 중구 충무로2가 64-6",
+      "roadAddress": "서울특별시 중구 퇴계로 129",
+      "mapx": "1269861471",
+      "mapy": "375611325"
     },
     {
       "title": "삼봉도담",
@@ -27,37 +27,37 @@
       "mapy": "375729806"
     },
     {
-      "title": "진옥화할매원조닭한마리",
-      "link": "http://www.darkhanmari.co.kr/",
-      "category": "한식>닭요리",
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로5가 265-22",
-      "roadAddress": "서울특별시 종로구 종로40가길 18",
-      "mapx": "1270057389",
-      "mapy": "375703500"
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
     },
     {
-      "title": "꾸왁<b>칼국수</b>",
+      "title": "호이식 <b>종로</b> 안국",
       "link": "",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 주교동 153-2 꾸왁칼국수 1층",
-      "roadAddress": "서울특별시 중구 창경궁로 67-13 꾸왁칼국수 1층",
-      "mapx": "1269972173",
-      "mapy": "375682937"
+      "address": "서울특별시 종로구 재동 84-7 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
+      "mapx": "1269863069",
+      "mapy": "375777908"
     },
     {
-      "title": "손정보쌈 <b>종로</b>점",
-      "link": "",
-      "category": "한식>족발,보쌈",
+      "title": "종가만두",
+      "link": "https://blog.naver.com/sgjongro55",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-11 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로15길 24 1층",
-      "mapx": "1269861610",
-      "mapy": "375688950"
+      "address": "서울특별시 종로구 관수동 145-1 1층 종가만두",
+      "roadAddress": "서울특별시 종로구 수표로 88 1층 종가만두",
+      "mapx": "1269896787",
+      "mapy": "375689062"
     }
   ]
 }

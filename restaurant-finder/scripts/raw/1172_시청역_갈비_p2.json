@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:18 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375637074"
     },
     {
-      "title": "전설의우대<b>갈비</b> 서울시청직영점",
-      "link": "https://www.instagram.com/udaegalbioflegend",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 155 2층 206~209호",
-      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
-      "mapx": "1269804297",
-      "mapy": "375669879"
-    },
-    {
       "title": "온점 을지로점",
       "link": "https://www.instagram.com/onjeom.seoul",
       "category": "한식>육류,고기요리",
@@ -49,15 +38,26 @@
       "mapy": "375664910"
     },
     {
-      "title": "대보정 서울<b>시청역</b>점",
-      "link": "https://www.instagram.com/daebojung/",
+      "title": "전설의우대<b>갈비</b> 서울시청직영점",
+      "link": "https://www.instagram.com/udaegalbioflegend",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
-      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
-      "mapx": "1269730165",
-      "mapy": "375613584"
+      "address": "서울특별시 중구 다동 155 2층 206~209호",
+      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
+      "mapx": "1269804297",
+      "mapy": "375669879"
+    },
+    {
+      "title": "아리랑",
+      "link": "https://catchtable.co.kr/ariranginseoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 72-2 전통한국식당",
+      "roadAddress": "서울특별시 중구 남대문로7길 23 전통한국식당",
+      "mapx": "1269806000",
+      "mapy": "375639380"
     }
   ]
 }

@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:13 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:22:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "밥+",
+      "link": "https://www.instagram.com/seochon_bob_plus",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 77-15",
+      "roadAddress": "서울특별시 종로구 옥인길 9",
+      "mapx": "1269680075",
+      "mapy": "375804706"
+    },
+    {
+      "title": "연잎한옥밥상 <b>서촌</b>점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 192 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 18 1층",
+      "mapx": "1269713829",
+      "mapy": "375765422"
+    },
     {
       "title": "<b>서촌</b>북촌",
       "link": "",
@@ -14,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 자하문로7길 10 1층(북촌)",
       "mapx": "1269711537",
       "mapy": "375783804"
-    },
-    {
-      "title": "마지",
-      "link": "http://templefood.com/",
-      "category": "한식>사찰음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 132-1",
-      "roadAddress": "서울특별시 종로구 자하문로5길 19",
-      "mapx": "1269708015",
-      "mapy": "375776553"
     },
     {
       "title": "세종식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로17길 12",
       "mapx": "1269699906",
       "mapy": "375814609"
-    },
-    {
-      "title": "밥+",
-      "link": "https://www.instagram.com/seochon_bob_plus",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 77-15",
-      "roadAddress": "서울특별시 종로구 옥인길 9",
-      "mapx": "1269680075",
-      "mapy": "375804706"
     }
   ]
 }

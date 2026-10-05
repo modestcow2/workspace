@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:18 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:24:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,30 @@
       "telephone": "",
       "address": "서울특별시 종로구 관훈동 198-36 2층",
       "roadAddress": "서울특별시 종로구 인사동5길 20 2층",
-      "mapx": "1269852435",
-      "mapy": "375727026"
+      "mapx": "1269852630",
+      "mapy": "375726512"
+    },
+    {
+      "title": "카츠쇼신 종각역센트로폴리스점",
+      "link": "https://www.instagram.com/katsu_shoshin?igsh=a2hhbXhqdWx2ZHQx",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 B201호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 B201호",
+      "mapx": "1269836590",
+      "mapy": "375714967"
+    },
+    {
+      "title": "오얏카츠 <b>인사동</b>",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
     },
     {
       "title": "니르바나",
@@ -27,17 +49,6 @@
       "mapy": "375751361"
     },
     {
-      "title": "힛더밥",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 1층 109호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 109호",
-      "mapx": "1269827936",
-      "mapy": "375723129"
-    },
-    {
       "title": "코코이찌방야 종로타워점",
       "link": "http://www.cocoichibanya.com",
       "category": "음식점>일식>카레",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 종로 51 지하2층",
       "mapx": "1269836331",
       "mapy": "375706119"
-    },
-    {
-      "title": "얌얌스파이스",
-      "link": "",
-      "category": "음식점>태국음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 '안녕인사동' 3층 4호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 '안녕인사동' 3층 4호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
     }
   ]
 }

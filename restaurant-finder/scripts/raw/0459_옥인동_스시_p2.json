@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:44 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:20:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -10,8 +10,8 @@
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 25 1층1호(계단 옆 울타리문)",
-      "roadAddress": "서울특별시 종로구 자하문로 62 1층1호(계단 옆 울타리문)",
+      "address": "서울특별시 종로구 효자동 25 1층 1호",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층 1호",
       "mapx": "1269711126",
       "mapy": "375816125"
     },

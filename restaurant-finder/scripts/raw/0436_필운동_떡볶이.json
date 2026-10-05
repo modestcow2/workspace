@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:33 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:20:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375766924"
     },
     {
-      "title": "태성골뱅이신사 서촌점",
-      "link": "",
-      "category": "술집>맥주,호프",
+      "title": "고양이부엌",
+      "link": "https://www.instagram.com/goyangibueok.kr",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 197-1 필운프라자 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 43 필운프라자 1층",
-      "mapx": "1269699726",
-      "mapy": "375766548"
-    },
-    {
-      "title": "소박한집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 지하1층 124호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 지하1층 124호",
-      "mapx": "1269686008",
-      "mapy": "375744035"
+      "address": "서울특별시 종로구 필운동 167-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 14 1층",
+      "mapx": "1269695035",
+      "mapy": "375774430"
     },
     {
       "title": "승grill",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 55 1층 제1호 승grill",
       "mapx": "1269694153",
       "mapy": "375769591"
+    },
+    {
+      "title": "태성골뱅이신사 서촌점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 197-1 필운프라자 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 43 필운프라자 1층",
+      "mapx": "1269699726",
+      "mapy": "375766548"
     }
   ]
 }

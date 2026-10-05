@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:34 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:21:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -39,7 +39,7 @@
     },
     {
       "title": "통인시장",
-      "link": "https://www.instagram.com/tongin_official/",
+      "link": "https://smartstore.naver.com/tonginmaket",
       "category": "쇼핑,유통>시장",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375807396"
     },
     {
-      "title": "연희김밥 경복궁점",
+      "title": "원조정할머니기름떡볶이",
       "link": "",
-      "category": "분식>김밥",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 55 연희김밥",
-      "roadAddress": "서울특별시 종로구 자하문로 12 연희김밥",
-      "mapx": "1269725615",
-      "mapy": "375770729"
+      "address": "서울특별시 종로구 통인동 10-3",
+      "roadAddress": "서울특별시 종로구 자하문로15길 18",
+      "mapx": "1269700183",
+      "mapy": "375806564"
     }
   ]
 }

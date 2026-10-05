@@ -1,42 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:42 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:25:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>오마카세</b> 오사이초밥 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "고우가 광화문점",
-      "link": "https://go.catchtable.co.kr/jrrhv4v",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "mapx": "1269782701",
-      "mapy": "375684246"
-    },
-    {
-      "title": "고청담 광화문 디타워점",
-      "link": "https://app.catchtable.co.kr/ct/shop/gocheongdam_gwm",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 5층",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 5층",
-      "mapx": "1269789694",
-      "mapy": "375710184"
-    },
     {
       "title": "스시산원 궁",
       "link": "https://www.instagram.com/sushi_sanwongung/",
@@ -49,15 +16,48 @@
       "mapy": "375746201"
     },
     {
-      "title": "스시미치루",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "title": "<b>오마카세</b> 오사이초밥 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
       "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
-      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
-      "mapx": "1269789959",
-      "mapy": "375739044"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "서울 <b>오마카세</b> 우미마토 마곡본점",
+      "link": "https://catchtable.co.kr/umimato",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강서구 마곡동 774-3 센테니아 114호",
+      "roadAddress": "서울특별시 강서구 공항대로 219 센테니아 114호",
+      "mapx": "1268323103",
+      "mapy": "375594735"
+    },
+    {
+      "title": "<b>오마카세</b>오사이초밥 대학로점",
+      "link": "https://www.instagram.com/542sushi_daehakro",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 50-42 2층",
+      "roadAddress": "서울특별시 종로구 동숭길 76 2층",
+      "mapx": "1270042721",
+      "mapy": "375816581"
+    },
+    {
+      "title": "스시호센",
+      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
+      "mapx": "1269697736",
+      "mapy": "375748513"
     }
   ]
 }

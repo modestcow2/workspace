@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:57 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:35:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
+      "title": "와이스타브 다이어트 광화문점",
+      "link": "https://www.instagram.com/whystarve.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "샐러링 광화문점",
@@ -27,6 +27,28 @@
       "mapy": "375682184"
     },
     {
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "온히어 온샐러드앤<b>포케</b> 광화문점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 67-1 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 53 1층",
+      "mapx": "1269802692",
+      "mapy": "375725677"
+    },
+    {
       "title": "라이크샐러드",
       "link": "https://www.instagram.com/like_salad_SKKU",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 명륜길 44 1층 LIKE SALAD",
       "mapx": "1269949025",
       "mapy": "375890462"
-    },
-    {
-      "title": "슬로우캘리 광화문",
-      "link": "http://www.slowcali.co.kr",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 제1층 121-1호",
-      "roadAddress": "서울특별시 종로구 종로 19 제1층 121-1호",
-      "mapx": "1269801711",
-      "mapy": "375708095"
-    },
-    {
-      "title": "점점점 샐러드",
-      "link": "https://youtube.com/@_jum_2023",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     }
   ]
 }

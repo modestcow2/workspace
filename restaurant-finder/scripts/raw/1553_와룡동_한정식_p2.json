@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:16 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:34:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "밥짓고티우림",
-      "link": "",
-      "category": "한식>한정식",
+      "title": "평해옥",
+      "link": "https://www.instagram.com/pyeonghaeok",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 성북구 동소문동1가 45-1 2층",
-      "roadAddress": "서울특별시 성북구 성북로2길 15 2층",
-      "mapx": "1270066792",
-      "mapy": "375893178"
-    },
-    {
-      "title": "동화고옥 을지로점",
-      "link": "https://openine.com/동화고옥",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로4가 323 1층 123호",
-      "roadAddress": "서울특별시 중구 을지로 170 1층 123호",
-      "mapx": "1269978993",
-      "mapy": "375659332"
+      "address": "서울특별시 종로구 낙원동 80-2",
+      "roadAddress": "서울특별시 종로구 삼일대로26길 17",
+      "mapx": "1269889570",
+      "mapy": "375734036"
     },
     {
       "title": "은성 <b>한정식</b>",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
       "mapx": "1269814980",
       "mapy": "375729994"
+    },
+    {
+      "title": "인사동 촌",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 84-17",
+      "roadAddress": "서울특별시 종로구 인사동14길 19",
+      "mapx": "1269851231",
+      "mapy": "375750012"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:11 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:22:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375787996"
     },
     {
-      "title": "해목 <b>서촌</b>점",
+      "title": "진심",
       "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 72",
-      "roadAddress": "서울특별시 종로구 자하문로 26-1",
-      "mapx": "1269720065",
-      "mapy": "375784252"
-    },
-    {
-      "title": "쇼쿠도 합",
-      "link": "https://app.catchtable.co.kr/ct/shop/shokudo_hab",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 15 1층",
-      "roadAddress": "서울특별시 종로구 사직로 137-17 1층",
-      "mapx": "1269735847",
-      "mapy": "375763322"
+      "address": "서울특별시 종로구 누하동 44 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
+      "mapx": "1269688129",
+      "mapy": "375798487"
     },
     {
       "title": "오봉카츠",
@@ -49,15 +38,26 @@
       "mapy": "375777902"
     },
     {
-      "title": "거북이의꿈 <b>서촌</b>점",
+      "title": "해목 <b>서촌</b>점",
       "link": "",
-      "category": "음식점>일식>일본식라면",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-15 1층 거북이의꿈 서촌점",
-      "roadAddress": "서울특별시 종로구 자하문로 31-6 1층 거북이의꿈 서촌점",
-      "mapx": "1269710606",
-      "mapy": "375787714"
+      "address": "서울특별시 종로구 통의동 72",
+      "roadAddress": "서울특별시 종로구 자하문로 26-1",
+      "mapx": "1269720065",
+      "mapy": "375784252"
+    },
+    {
+      "title": "모아늑",
+      "link": "https://www.instagram.com/mo_aneuk?igsh=c3F4YXR1NHZpcGJ5&utm_source=qr",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층 1호",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층 1호",
+      "mapx": "1269711126",
+      "mapy": "375816125"
     }
   ]
 }

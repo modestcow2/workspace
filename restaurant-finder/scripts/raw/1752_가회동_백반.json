@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:49 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:36:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375794104"
     },
     {
-      "title": "삼지",
-      "link": "https://blog.naver.com/samgimoon1000",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
-      "mapx": "1269860086",
-      "mapy": "375782908"
-    },
-    {
       "title": "천하보쌈",
       "link": "http://instagram.com/chunhabs_official",
       "category": "한식>족발,보쌈",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 창덕궁1길 8 천하보쌈",
       "mapx": "1269888545",
       "mapy": "375794396"
+    },
+    {
+      "title": "삼지",
+      "link": "https://blog.naver.com/samgimoon1000",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-28 헌법재판소 정문맞은편 세탁소골목안",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-7 헌법재판소 정문맞은편 세탁소골목안",
+      "mapx": "1269860086",
+      "mapy": "375782908"
     },
     {
       "title": "돌담집",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:18 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:34:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -34,8 +34,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 명륜2가 225",
       "roadAddress": "서울특별시 종로구 성균관로 9-1",
-      "mapx": "1269979068",
-      "mapy": "375837668"
+      "mapx": "1269979360",
+      "mapy": "375837519"
     },
     {
       "title": "강가네 <b>떡볶이</b>",
@@ -49,15 +49,15 @@
       "mapy": "375706380"
     },
     {
-      "title": "모녀김밥",
+      "title": "신세계<b>떡볶이</b>",
       "link": "",
-      "category": "분식>김밥",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로5가 395-4",
-      "roadAddress": "서울특별시 종로구 동호로 403-23",
-      "mapx": "1270011008",
-      "mapy": "375702936"
+      "address": "서울특별시 중구 명동1가 10-5",
+      "roadAddress": "서울특별시 중구 명동9길 10",
+      "mapx": "1269850160",
+      "mapy": "375642992"
     }
   ]
 }

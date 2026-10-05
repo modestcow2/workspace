@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:46 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:23:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "더타코부스 NYC 안국점",
-      "link": "",
-      "category": "음식점>양식>멕시코,남미음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 86 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
-      "mapx": "1269860399",
-      "mapy": "375774613"
-    },
-    {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
-      "title": "알라보 종각센트로폴리스점",
-      "link": "",
-      "category": "음식점>도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 공평동 17 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 지하2층 알라보 종각센트로폴리스점",
-      "mapx": "1269836537",
-      "mapy": "375715557"
-    },
-    {
-      "title": "샐러드로우 앤 트라타 익선점",
-      "link": "https://www.instagram.com/saladlowtratar_iksun",
+      "title": "폴인<b>포케</b> 강남역점",
+      "link": "https://www.instagram.com/fallinpoke_official/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 와룡동 173 1층 샐러드로우앤트라타",
-      "roadAddress": "서울특별시 종로구 돈화문로 65 1층 샐러드로우앤트라타",
-      "mapx": "1269907696",
-      "mapy": "375742407"
+      "address": "서울특별시 강남구 역삼동 817-6 2층 1호",
+      "roadAddress": "서울특별시 강남구 테헤란로1길 32 2층 1호",
+      "mapx": "1270274721",
+      "mapy": "375004154"
     },
     {
-      "title": "사랑해베이글 종로 94빌딩점",
-      "link": "https://100원커피이벤트-선착순주문하기.com",
-      "category": "카페,디저트",
+      "title": "그리너 남대문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 공평동 144 94빌딩, 1층 103호",
-      "roadAddress": "서울특별시 종로구 삼봉로 94 94빌딩, 1층 103호",
-      "mapx": "1269822393",
-      "mapy": "375717780"
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
+    {
+      "title": "올라<b>포케</b> 문정본점",
+      "link": "https://holapoke.imweb.me/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 송파구 문정동 651 테라타워 A동 지하1층 G185호",
+      "roadAddress": "서울특별시 송파구 송파대로 167 테라타워 A동 지하1층 G185호",
+      "mapx": "1271210395",
+      "mapy": "374848354"
+    },
+    {
+      "title": "올라<b>포케</b> 삼성점",
+      "link": "https://holapoke.imweb.me/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강남구 대치동 944-21 102호",
+      "roadAddress": "서울특별시 강남구 영동대로85길 34 102호",
+      "mapx": "1270607888",
+      "mapy": "375066586"
+    },
+    {
+      "title": "<b>포케</b>타임 신진주역점",
+      "link": "http://instagram.com/poketime.korea",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "경상남도 진주시 가좌동 2064-2 율곡스퀘어 프런티어 133호",
+      "roadAddress": "경상남도 진주시 관문로 7 율곡스퀘어 프런티어 133호",
+      "mapx": "1281165665",
+      "mapy": "351522914"
     }
   ]
 }

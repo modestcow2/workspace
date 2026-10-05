@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:42 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:36:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "미성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-18 1층 미성",
+      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 미성",
+      "mapx": "1269863079",
+      "mapy": "375779497"
+    },
     {
       "title": "한양중식 종로점",
       "link": "http://www.instagram.com/haanyang/",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 인사동8길 12 인사동 화원",
       "mapx": "1269859642",
       "mapy": "375738998"
-    },
-    {
-      "title": "당대일품",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 128 타워8 1층 102,103,104,105호",
-      "roadAddress": "서울특별시 종로구 종로5길 7 타워8 1층 102,103,104,105호",
-      "mapx": "1269805518",
-      "mapy": "375706324"
     }
   ]
 }

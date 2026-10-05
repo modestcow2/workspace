@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:20 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
       "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
-      "mapx": "1269756446",
-      "mapy": "375687260"
+      "mapx": "1269756182",
+      "mapy": "375686475"
     },
     {
-      "title": "비어할레 본점",
-      "link": "https://www.instagram.com/bierhalle_1986",
-      "category": "술집>맥주,호프",
+      "title": "중앙왕<b>족발</b>",
+      "link": "http://jungangwangjokbal.cityfood.co.kr/",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 97 산다빌딩 1층, 2층",
-      "roadAddress": "서울특별시 중구 을지로3길 34 산다빌딩 1층, 2층",
-      "mapx": "1269814769",
-      "mapy": "375675489"
+      "address": "서울특별시 중구 남창동 34-120",
+      "roadAddress": "서울특별시 중구 남대문시장4길 10-1",
+      "mapx": "1269772061",
+      "mapy": "375597406"
     }
   ]
 }

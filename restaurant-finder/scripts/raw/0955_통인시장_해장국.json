@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:38 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:26:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375720689"
     },
     {
-      "title": "대성집",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 행촌동 209-35",
-      "roadAddress": "서울특별시 종로구 사직로 5",
-      "mapx": "1269608828",
-      "mapy": "375727012"
-    },
-    {
       "title": "무교동북어국집",
       "link": "",
       "category": "한식>해장국",
@@ -49,15 +38,26 @@
       "mapy": "375677548"
     },
     {
-      "title": "서촌전통순대국",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "한사리감자탕&amp;뼈구이 종로점",
+      "link": "https://www.instagram.com/hansari_jongno",
+      "category": "음식점>한식>감자탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 148-1",
-      "roadAddress": "서울특별시 종로구 사직로9가길 8",
-      "mapx": "1269690851",
-      "mapy": "375766782"
+      "address": "서울특별시 종로구 관철동 13-3 1층",
+      "roadAddress": "서울특별시 종로구 종로14길 18 1층",
+      "mapx": "1269868356",
+      "mapy": "375692399"
+    },
+    {
+      "title": "본가왕뼈감자탕 종로송해길점",
+      "link": "",
+      "category": "음식점>한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 146 1층",
+      "roadAddress": "서울특별시 종로구 수표로 118 1층",
+      "mapx": "1269892851",
+      "mapy": "375716854"
     }
   ]
 }

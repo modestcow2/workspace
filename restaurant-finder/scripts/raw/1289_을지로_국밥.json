@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:14 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375660827"
     },
     {
-      "title": "우래옥",
-      "link": "",
-      "category": "한식>냉면",
+      "title": "육즙관리소 더룸 <b>을지로</b>",
+      "link": "https://www.yukjeup.com/",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 주교동 118-1",
-      "roadAddress": "서울특별시 중구 창경궁로 62-29",
-      "mapx": "1269987029",
-      "mapy": "375682697"
+      "address": "서울특별시 중구 을지로6가 18-53 1층, 2층",
+      "roadAddress": "서울특별시 중구 을지로43길 7 1층, 2층",
+      "mapx": "1270068063",
+      "mapy": "375666473"
     },
     {
-      "title": "순우블랙",
-      "link": "https://Instagram.com/soonwoo_black",
-      "category": "한식>소고기구이",
+      "title": "이소 돼지<b>국밥</b>",
+      "link": "",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-62",
-      "roadAddress": "서울특별시 중구 명동9길 37-3",
-      "mapx": "1269840365",
-      "mapy": "375654157"
+      "address": "서울특별시 중구 을지로1가 32 2층",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 2층",
+      "mapx": "1269795087",
+      "mapy": "375668152"
     }
   ]
 }

@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:20 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:26:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "잘빠진메밀 서촌 본점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 120",
-      "roadAddress": "서울특별시 종로구 자하문로11길 4",
-      "mapx": "1269709994",
-      "mapy": "375796715"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
     },
     {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "title": "삼청동수제비",
+      "link": "http://www.삼청동수제비.kr",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
+      "address": "서울특별시 종로구 삼청동 99",
+      "roadAddress": "서울특별시 종로구 삼청로 101-1",
+      "mapx": "1269819599",
+      "mapy": "375845273"
     },
     {
-      "title": "자하문로118 들풀",
+      "title": "미옥안국",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 소격동 148-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 79 1층",
+      "mapx": "1269821228",
+      "mapy": "375791773"
     },
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
+      "title": "경성장어 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gyeongseong_jangeo?from=share&type=DINING",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
+      "address": "서울특별시 중구 태평로1가 84 지하2층 212호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하2층 212호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
+      "title": "신라제면 안국점",
+      "link": "https://www.k-delicious.kr/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
+      "mapx": "1269862338",
+      "mapy": "375782217"
     }
   ]
 }

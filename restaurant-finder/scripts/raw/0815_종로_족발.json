@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:31 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:25:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,48 +16,48 @@
       "mapy": "375712710"
     },
     {
-      "title": "잭아저씨<b>족발</b>보쌈 <b>종로</b>본점",
-      "link": "https://blog.naver.com/mr_jack-jogbalbossam",
+      "title": "인사동마늘보쌈",
+      "link": "https://insadonggarlicbossam.com",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 19-23 1층 잭아저씨족발보쌈",
-      "roadAddress": "서울특별시 종로구 우정국로2길 34 1층 잭아저씨족발보쌈",
-      "mapx": "1269850023",
-      "mapy": "375695127"
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
     },
     {
-      "title": "연남<b>족발</b>1987 종각점",
+      "title": "평안도집",
       "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-12 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로15길 26 1층",
-      "mapx": "1269860922",
-      "mapy": "375689059"
+      "address": "서울특별시 중구 장충동1가 62-16",
+      "roadAddress": "서울특별시 중구 장충단로 174-6",
+      "mapx": "1270060685",
+      "mapy": "375602862"
     },
     {
-      "title": "삼해집 <b>종로</b>점",
-      "link": "http://www.samhae1.kr",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관수동 42",
-      "roadAddress": "서울특별시 종로구 수표로20길 16-15",
-      "mapx": "1269909814",
-      "mapy": "375699683"
-    },
-    {
-      "title": "족의한수 <b>종로</b>본점",
+      "title": "창신동매운<b>족발</b>",
       "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관수동 4-1 1층 족의한수",
-      "roadAddress": "서울특별시 종로구 수표로 93-1 1층 족의한수",
-      "mapx": "1269891620",
-      "mapy": "375696277"
+      "address": "서울특별시 종로구 창신동 581-5 1층 매운족발",
+      "roadAddress": "서울특별시 종로구 종로51길 23 1층 창신동매운족발",
+      "mapx": "1270115220",
+      "mapy": "375730483"
+    },
+    {
+      "title": "옥천매운<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 창신동 142-27 1층",
+      "roadAddress": "서울특별시 종로구 종로51나길 23 1층",
+      "mapx": "1270115756",
+      "mapy": "375731491"
     }
   ]
 }

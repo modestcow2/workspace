@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:58 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:17:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "이치규 광화문점",
+      "link": "https://www.instagram.com/ichigyu_gwanghwa_official/",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 지하1층 B123호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 지하1층 B123호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "고청담 광화문 디타워점",
+      "link": "https://app.catchtable.co.kr/ct/shop/gocheongdam_gwm",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 246 D타워 5층",
+      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 5층",
+      "mapx": "1269789694",
+      "mapy": "375710184"
+    },
     {
       "title": "정백어가 광화문 피맛골본점",
       "link": "",
@@ -16,48 +38,26 @@
       "mapy": "375708344"
     },
     {
-      "title": "일품 광화문점",
-      "link": "https://www.instagram.com/ilpum0200",
-      "category": "음식점>일식>일식당",
+      "title": "광화문면옥",
+      "link": "https://www.instagram.com/gwanghwamun_myeonok/",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하2층 223호 일품 광화문점",
-      "roadAddress": "서울특별시 종로구 종로 19 지하2층 223호 일품 광화문점",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
+      "mapx": "1269747363",
+      "mapy": "375698520"
     },
     {
-      "title": "타마린드 디타워점",
-      "link": "https://catchtable.co.kr/tamarinddt",
-      "category": "음식점>베트남음식",
+      "title": "스파게티가있는풍경 광화문점",
+      "link": "https://www.instagram.com/pomodori_park",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 광화문 D타워 5층 504호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 광화문 D타워 5층 504호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
-    },
-    {
-      "title": "광화문석갈비 D타워점",
-      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
-    },
-    {
-      "title": "올리페페 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/ollipepe_gwanghwamun",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 서린동 149 2층 올리페페",
-      "roadAddress": "서울특별시 종로구 청계천로 11 2층 올리페페",
-      "mapx": "1269789879",
-      "mapy": "375694150"
+      "address": "서울특별시 종로구 신문로1가 1-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
+      "mapx": "1269761832",
+      "mapy": "375704933"
     }
   ]
 }

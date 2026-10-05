@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:46 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:27:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "효자왕족발",
-      "link": "https://www.instagram.com/seochonhotpot",
+      "link": "https://www.instagram.com/hyojafnb/?hl=ko",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
@@ -27,8 +27,8 @@
       "mapy": "375819609"
     },
     {
-      "title": "서촌돌솥",
-      "link": "https://www.instagram.com/seochonhotpot",
+      "title": "효자에프앤비",
+      "link": "https://www.instagram.com/hyojafnb/?hl=ko",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375720658"
     },
     {
-      "title": "소선재",
-      "link": "https://app.catchtable.co.kr/ct/shop/sosonjae",
-      "category": "음식점>한식",
+      "title": "대봉칼국수<b>보쌈</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 113-3 소선재",
-      "roadAddress": "서울특별시 종로구 삼청로 113-1 소선재",
-      "mapx": "1269818029",
-      "mapy": "375855480"
+      "address": "서울특별시 종로구 내수동 74 지하 112, 113호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하 112, 113호",
+      "mapx": "1269731379",
+      "mapy": "375737740"
     }
   ]
 }

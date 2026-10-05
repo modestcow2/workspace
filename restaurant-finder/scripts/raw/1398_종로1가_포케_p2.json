@@ -1,52 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:04 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:32:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "슬로우캘리 광화문",
-      "link": "http://www.slowcali.co.kr",
+      "title": "폴인<b>포케</b> 강남역점",
+      "link": "https://www.instagram.com/fallinpoke_official/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 제1층 121-1호",
-      "roadAddress": "서울특별시 종로구 종로 19 제1층 121-1호",
-      "mapx": "1269801711",
-      "mapy": "375708095"
-    },
-    {
-      "title": "점점점 샐러드",
-      "link": "https://youtube.com/@_jum_2023",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "스프링어텀",
-      "link": "https://www.instagram.com/spring.a_salad",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 1층 110-1-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 110-1-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "와이스타브 다이어트 광화문점",
-      "link": "",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 강남구 역삼동 817-6 2층 1호",
+      "roadAddress": "서울특별시 강남구 테헤란로1길 32 2층 1호",
+      "mapx": "1270274721",
+      "mapy": "375004154"
     },
     {
       "title": "그리너 남대문점",
@@ -58,6 +25,39 @@
       "roadAddress": "서울특별시 중구 남대문로 6 1층",
       "mapx": "1269764084",
       "mapy": "375603412"
+    },
+    {
+      "title": "와이스타브 다이어트 광화문점",
+      "link": "https://www.instagram.com/whystarve.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "올라<b>포케</b> 문정본점",
+      "link": "https://holapoke.imweb.me/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 송파구 문정동 651 테라타워 A동 지하1층 G185호",
+      "roadAddress": "서울특별시 송파구 송파대로 167 테라타워 A동 지하1층 G185호",
+      "mapx": "1271210395",
+      "mapy": "374848354"
+    },
+    {
+      "title": "올라<b>포케</b> 삼성점",
+      "link": "https://holapoke.imweb.me/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강남구 대치동 944-21 102호",
+      "roadAddress": "서울특별시 강남구 영동대로85길 34 102호",
+      "mapx": "1270607888",
+      "mapy": "375066586"
     }
   ]
 }

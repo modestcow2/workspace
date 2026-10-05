@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:04 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:19:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "양탄집 서촌본점",
-      "link": "https://www.instagram.com/yangtanhouse/",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 60-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
-      "mapx": "1269720601",
-      "mapy": "375766927"
-    },
     {
       "title": "도틔대가",
       "link": "https://catchtable.co.kr/dottydaega",
@@ -27,15 +16,26 @@
       "mapy": "375765472"
     },
     {
-      "title": "고기연",
-      "link": "https://www.instagram.com/gogiyeon.kr",
+      "title": "양탄집 서촌본점",
+      "link": "https://www.instagram.com/yangtanhouse/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 60-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
+      "mapx": "1269720601",
+      "mapy": "375766927"
+    },
+    {
+      "title": "대하식당",
+      "link": "",
       "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 80 1층 고기연",
-      "roadAddress": "서울특별시 종로구 자하문로1가길 17 1층 고기연",
-      "mapx": "1269718518",
-      "mapy": "375773126"
+      "address": "서울특별시 종로구 체부동 17",
+      "roadAddress": "서울특별시 종로구 자하문로7길 27",
+      "mapx": "1269704730",
+      "mapy": "375789539"
     },
     {
       "title": "김진목삼 2호점",
@@ -49,15 +49,15 @@
       "mapy": "375769255"
     },
     {
-      "title": "대하식당",
+      "title": "<b>체부동</b>잔치집돼지갈비",
       "link": "",
       "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 17",
-      "roadAddress": "서울특별시 종로구 자하문로7길 27",
-      "mapx": "1269704730",
-      "mapy": "375789539"
+      "address": "서울특별시 종로구 체부동 194-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 24",
+      "mapx": "1269710530",
+      "mapy": "375765468"
     }
   ]
 }

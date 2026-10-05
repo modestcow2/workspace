@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:18 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:18:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "스타벅스 <b>세종대로</b>점",
-      "link": "http://www.starbucks.co.kr/",
-      "category": "카페,디저트>카페",
+      "title": "붓처스컷 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/butcherscut_ghm?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>스테이크,립",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-12",
-      "roadAddress": "서울특별시 중구 세종대로 135-5 (태평로1가)",
-      "mapx": "1269764930",
-      "mapy": "375686780"
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하2층",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하2층",
+      "mapx": "1269780574",
+      "mapy": "375684428"
     },
     {
-      "title": "아재커피 <b>세종대로</b>점",
-      "link": "https://100원커피이벤트-선착순주문하기.com",
-      "category": "카페,디저트>카페",
+      "title": "고우가 광화문점",
+      "link": "https://gowoofnb.com/",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 75 1층 AZE커피 세종대로점",
-      "roadAddress": "서울특별시 중구 세종대로21길 61 1층 AZE커피 세종대로점",
-      "mapx": "1269758861",
-      "mapy": "375691203"
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     },
     {
-      "title": "마이쥬스 <b>세종대로</b>점",
-      "link": "https://www.instagram.com/myjuice_official",
-      "category": "카페,디저트>과일,주스전문점",
+      "title": "콘피에르",
+      "link": "https://www.confier.kr/",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 25-3 G스퀘어 1층",
-      "roadAddress": "서울특별시 중구 세종대로22길 12 G스퀘어 1층",
-      "mapx": "1269779806",
-      "mapy": "375681139"
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하 2층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하 2층",
+      "mapx": "1269744151",
+      "mapy": "375578385"
     },
     {
-      "title": "매머드익스프레스 <b>세종대로</b>점",
-      "link": "",
-      "category": "카페,디저트>카페",
+      "title": "미도인 그랜드센트럴",
+      "link": "https://youtube.com/channel/UCxRWfLoFdwXyIU6_yq38uig?si=tpSW48w87J2hWl1f",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 1-1 1층",
-      "roadAddress": "서울특별시 중구 세종대로 23 1층",
-      "mapx": "1269738833",
-      "mapy": "375590470"
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 1층 105, 106호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 1층 105, 106호",
+      "mapx": "1269743613",
+      "mapy": "375579375"
     },
     {
-      "title": "커피살롱 광화문점",
-      "link": "https://www.instagram.com/coffeesalon2012",
-      "category": "카페,디저트>테이크아웃커피",
+      "title": "도우룸 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/doughroom?type=DINING",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 72-2 1층",
-      "roadAddress": "서울특별시 중구 세종대로21길 67 1층",
-      "mapx": "1269757630",
-      "mapy": "375692467"
+      "address": "서울특별시 종로구 세종로 100 2층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 2층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     }
   ]
 }

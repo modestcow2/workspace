@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:39 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:26:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "H라운지",
-      "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>양식",
+      "title": "고트델리 서촌",
+      "link": "https://www.instagram.com/goattdeli",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-21",
-      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
+      "address": "서울특별시 종로구 누하동 100 1층",
+      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
+      "mapx": "1269682499",
+      "mapy": "375799314"
     },
     {
       "title": "애즈라이크 서촌",
@@ -49,15 +49,15 @@
       "mapy": "375770264"
     },
     {
-      "title": "고트델리 서촌",
-      "link": "https://www.instagram.com/goattdeli",
-      "category": "양식>샌드위치",
+      "title": "레스피레베이커리카페 서촌",
+      "link": "https://www.instagram.com/respirerbakery",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 100 1층",
-      "roadAddress": "서울특별시 종로구 필운대로5가길 13 1층",
-      "mapx": "1269682499",
-      "mapy": "375799314"
+      "address": "서울특별시 종로구 효자동 104-1 레스피레",
+      "roadAddress": "서울특별시 종로구 효자로13길 40-7 레스피레",
+      "mapx": "1269721449",
+      "mapy": "375827651"
     }
   ]
 }

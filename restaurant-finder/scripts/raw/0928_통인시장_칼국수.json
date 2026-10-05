@@ -1,42 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:24 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:26:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "황생가<b>칼국수</b>",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
-    },
-    {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
-    },
-    {
-      "title": "체부동잔치집",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 190",
-      "roadAddress": "서울특별시 종로구 자하문로1길 16",
-      "mapx": "1269715263",
-      "mapy": "375765394"
-    },
     {
       "title": "대선<b>칼국수</b>",
       "link": "",
@@ -49,15 +16,48 @@
       "mapy": "375771878"
     },
     {
-      "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
-      "category": "한식>국수",
+      "title": "삼봉도담",
+      "link": "https://sambongdodam.com",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-1 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
-      "mapx": "1269862338",
-      "mapy": "375782217"
+      "address": "서울특별시 종로구 견지동 110-34 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
+      "mapx": "1269825289",
+      "mapy": "375729806"
+    },
+    {
+      "title": "황생가<b>칼국수</b>",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    },
+    {
+      "title": "깡통만두",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
+    },
+    {
+      "title": "찬양집",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 27",
+      "roadAddress": "서울특별시 종로구 돈화문로11다길 5",
+      "mapx": "1269903224",
+      "mapy": "375727548"
     }
   ]
 }

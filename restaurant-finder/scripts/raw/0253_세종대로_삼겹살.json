@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:08 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:18:02 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 세종대로 28 3층",
       "mapx": "1269745997",
       "mapy": "375588942"
-    },
-    {
-      "title": "북창동냉삼집",
-      "link": "",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 68-1 1층 북창동냉삼집",
-      "roadAddress": "서울특별시 중구 세종대로 82 1층 북창동냉삼집",
-      "mapx": "1269770537",
-      "mapy": "375634062"
     },
     {
       "title": "쪽삼상회",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 세종대로 30",
       "mapx": "1269750266",
       "mapy": "375589599"
+    },
+    {
+      "title": "푸에르코 숭례문 센트럴",
+      "link": "http://catchtable.co.kr/puerco_sungnyemun",
+      "category": "음식점>한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드 센트럴 2층 201호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드 센트럴 2층 201호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
     },
     {
       "title": "숭례회관",

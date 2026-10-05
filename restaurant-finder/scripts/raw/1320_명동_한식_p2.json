@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:28 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "서울시청 <b>명동</b>케이갈비 을지로입구역 본점",
+      "link": "https://www.instagram.com/myeongdong_k_galbi/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-20 2층, 3층",
+      "roadAddress": "서울특별시 중구 명동3길 5 2층, 3층",
+      "mapx": "1269833538",
+      "mapy": "375639593"
+    },
     {
       "title": "목멱산방 남산타워점",
       "link": "http://instagram.com/m_horaeng",
@@ -14,28 +25,6 @@
       "roadAddress": "서울특별시 중구 남산공원길 627",
       "mapx": "1269853285",
       "mapy": "375553582"
-    },
-    {
-      "title": "육통령 <b>명동</b>본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
-    },
-    {
-      "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
-      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
-      "mapx": "1269869447",
-      "mapy": "375581107"
     },
     {
       "title": "청기와타운 을지로점",
@@ -49,15 +38,26 @@
       "mapy": "375659020"
     },
     {
-      "title": "손의손 <b>명동</b>점",
-      "link": "https://손의손.com/",
-      "category": "해물,생선요리>주꾸미요리",
+      "title": "진진만두 시청점",
+      "link": "https://www.instagram.com/jinjin_kr/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-40 1층 105호",
-      "roadAddress": "서울특별시 중구 명동7길 21 1층 105호",
-      "mapx": "1269836799",
-      "mapy": "375646651"
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
+    },
+    {
+      "title": "온점 을지로점",
+      "link": "https://www.instagram.com/onjeom.seoul",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 87 지1층",
+      "roadAddress": "서울특별시 중구 을지로 29 지1층",
+      "mapx": "1269810422",
+      "mapy": "375664910"
     }
   ]
 }

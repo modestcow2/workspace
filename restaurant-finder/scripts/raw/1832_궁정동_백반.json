@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:25 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:37:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
       "mapx": "1269799066",
       "mapy": "375764071"
-    },
-    {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
     },
     {
       "title": "동백식당",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 48",
       "mapx": "1269838671",
       "mapy": "375811536"
+    },
+    {
+      "title": "효자동밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층",
+      "mapx": "1269710519",
+      "mapy": "375816457"
     },
     {
       "title": "이서방네순대국",

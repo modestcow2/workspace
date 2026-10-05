@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:09 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:24:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "인사샤브정",
-      "link": "https://blog.naver.com/insa-shabushabu",
-      "category": "음식점>한식",
+      "title": "삼봉도담",
+      "link": "https://sambongdodam.com",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 인사동 7 1층",
-      "roadAddress": "서울특별시 종로구 인사동6길 14 1층",
-      "mapx": "1269866792",
-      "mapy": "375735491"
+      "address": "서울특별시 종로구 견지동 110-34 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
+      "mapx": "1269825289",
+      "mapy": "375729806"
     },
     {
-      "title": "북촌<b>칼국수</b>",
+      "title": "명동교자 본점",
+      "link": "http://www.mdkj.co.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 64-6",
+      "roadAddress": "서울특별시 중구 퇴계로 129",
+      "mapx": "1269861471",
+      "mapy": "375611325"
+    },
+    {
+      "title": "호이식 종로 안국",
       "link": "",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 72",
-      "roadAddress": "서울특별시 종로구 인사동길 50",
-      "mapx": "1269843355",
-      "mapy": "375745744"
+      "address": "서울특별시 종로구 재동 84-7 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
+      "mapx": "1269863069",
+      "mapy": "375777908"
     },
     {
-      "title": "황생가<b>칼국수</b> 종로타워점",
-      "link": "",
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 지하2층 B206,B207호",
-      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206,B207호",
-      "mapx": "1269836385",
-      "mapy": "375707534"
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
     },
     {
-      "title": "광희<b>칼국수</b>",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "배터지는집 동막손<b>칼국수</b>명가",
+      "link": "https://www.bluer.co.kr/restaurants/56177",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 88-8",
-      "roadAddress": "서울특별시 종로구 우정국로 38-18",
-      "mapx": "1269840306",
-      "mapy": "375728091"
-    },
-    {
-      "title": "메밀란",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 176",
-      "roadAddress": "서울특별시 종로구 인사동11길 16-4",
-      "mapx": "1269838219",
-      "mapy": "375740182"
+      "address": "인천광역시 강화군 화도면 사기리 481-17 1층",
+      "roadAddress": "인천광역시 강화군 화도면 해안남로 1279 1층",
+      "mapx": "1264579664",
+      "mapy": "376022549"
     }
   ]
 }

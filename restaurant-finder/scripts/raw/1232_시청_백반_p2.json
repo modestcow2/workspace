@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:47 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:30:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "소문밥상",
+      "link": "https://blog.naver.com/4043sy",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 143 B1층 B104-6호",
+      "roadAddress": "서울특별시 중구 서소문로 124 B1층 B104-6호",
+      "mapx": "1269752236",
+      "mapy": "375631062"
+    },
     {
       "title": "집밥청보리",
       "link": "http://www.instagram.com/chungborinuna",
@@ -21,21 +32,10 @@
       "category": "한식>백반,가정식",
       "description": "",
       "telephone": "",
-      "address": "전라남도 순천시 저전동 206-33",
-      "roadAddress": "전라남도 순천시 저전길 15",
+      "address": "전남광주통합특별시 순천시 저전동 206-33",
+      "roadAddress": "전남광주통합특별시 순천시 저전길 15",
       "mapx": "1274839062",
       "mapy": "349500927"
-    },
-    {
-      "title": "소문밥상",
-      "link": "https://blog.naver.com/4043sy",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 143 B1층 B104-6호",
-      "roadAddress": "서울특별시 중구 서소문로 124 B1층 B104-6호",
-      "mapx": "1269752236",
-      "mapy": "375631062"
     },
     {
       "title": "남파랑국밥 북창점",

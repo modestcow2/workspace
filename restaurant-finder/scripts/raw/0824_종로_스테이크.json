@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:35 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:25:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
       "mapx": "1269902619",
       "mapy": "375740791"
+    },
+    {
+      "title": "헤비<b>스테이크</b> <b>종로</b>구청점",
+      "link": "http://www.heavysteak.co.kr",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 216-1 2층 헤비스테이크",
+      "roadAddress": "서울특별시 종로구 삼봉로 42 2층 헤비스테이크",
+      "mapx": "1269795751",
+      "mapy": "375723837"
     },
     {
       "title": "디라이프스타일키친 광화문점",
@@ -38,26 +49,15 @@
       "mapy": "375741979"
     },
     {
-      "title": "헤비<b>스테이크</b> <b>종로</b>구청점",
-      "link": "http://www.heavysteak.co.kr",
+      "title": "서양면옥 서순라길점",
+      "link": "https://www.instagram.com/seoyangmyunok.seoul",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 216-1 2층 헤비스테이크",
-      "roadAddress": "서울특별시 종로구 삼봉로 42 2층 헤비스테이크",
-      "mapx": "1269795751",
-      "mapy": "375723837"
-    },
-    {
-      "title": "익선취향",
-      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-70 1층",
-      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
-      "mapx": "1269895934",
-      "mapy": "375735970"
+      "address": "서울특별시 종로구 와룡동 46 1층",
+      "roadAddress": "서울특별시 종로구 율곡로8길 45 1층",
+      "mapx": "1269911611",
+      "mapy": "375752912"
     }
   ]
 }

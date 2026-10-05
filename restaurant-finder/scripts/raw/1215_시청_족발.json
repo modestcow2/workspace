@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:39 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:30:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375632554"
     },
     {
-      "title": "오밤족 세종<b>시청</b>점",
-      "link": "",
-      "category": "한식>족발,보쌈",
+      "title": "미쓰<b>족발</b> 서울명동점",
+      "link": "https://blog.naver.com/dogsmile",
+      "category": "육류,고기요리>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "세종특별자치시 보람동 738 대방디엠시티상가 b동 128-131호",
-      "roadAddress": "세종특별자치시 한누리대로 2165 대방디엠시티상가 b동 128-131호",
-      "mapx": "1272870901",
-      "mapy": "364773089"
-    },
-    {
-      "title": "허니<b>족발</b> 남양본점",
-      "link": "https://www.instagram.com/honey_jokbal",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 화성시 만세구 남양읍 남양리 2025-1 1층 허니족발",
-      "roadAddress": "경기도 화성시 만세구 남양읍 역골로60번길 2 1층 허니족발",
-      "mapx": "1268252482",
-      "mapy": "372044075"
+      "address": "서울특별시 중구 을지로2가 199-45 미쓰족발 서울명동점",
+      "roadAddress": "서울특별시 중구 명동3길 21 미쓰족발 서울명동점",
+      "mapx": "1269834714",
+      "mapy": "375646640"
     },
     {
       "title": "라라<b>족발</b>",
@@ -49,15 +38,26 @@
       "mapy": "375040063"
     },
     {
-      "title": "부평장모<b>족발</b>",
+      "title": "오밤족 세종<b>시청</b>점",
+      "link": "https://www.instagram.com/obamjok.official/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "세종특별자치시 보람동 738 대방디엠시티상가 b동 128-131호",
+      "roadAddress": "세종특별자치시 한누리대로 2165 대방디엠시티상가 b동 128-131호",
+      "mapx": "1272870226",
+      "mapy": "364774567"
+    },
+    {
+      "title": "반한<b>족발</b>",
       "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "인천광역시 남동구 간석동 458-1 1층",
-      "roadAddress": "인천광역시 남동구 석산로 110 1층",
-      "mapx": "1267039866",
-      "mapy": "374602190"
+      "address": "경기도 수원시 권선구 세류동 854-1 창원빌딩 1층 반한족발",
+      "roadAddress": "경기도 수원시 권선구 세지로 85 창원빌딩 1층 반한족발",
+      "mapx": "1270179797",
+      "mapy": "372594828"
     }
   ]
 }

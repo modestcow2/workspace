@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:39 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:18:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375762516"
     },
     {
-      "title": "서촌계단집",
-      "link": "",
-      "category": "한식>해물,생선요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 11-1",
-      "roadAddress": "서울특별시 종로구 자하문로1길 15",
-      "mapx": "1269714587",
-      "mapy": "375764305"
-    },
-    {
       "title": "뼈탄집 서촌본점",
       "link": "http://www.bornpig.co.kr/index2.php",
       "category": "한식>육류,고기요리",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 13",
       "mapx": "1269717062",
       "mapy": "375764468"
+    },
+    {
+      "title": "영삼이네 우정소갈비 서촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 20 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
+      "mapx": "1269712072",
+      "mapy": "375763691"
     },
     {
       "title": "인왕산호랭이주막",
@@ -49,15 +49,15 @@
       "mapy": "375756107"
     },
     {
-      "title": "영삼이네 우정소갈비 서촌점",
-      "link": "https://app.catchtable.co.kr/ct/shop/woojeongsoseochon",
-      "category": "한식>소고기구이",
+      "title": "서촌계단집",
+      "link": "",
+      "category": "한식>해물,생선요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 20 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 21 1층",
-      "mapx": "1269712072",
-      "mapy": "375763691"
+      "address": "서울특별시 종로구 내자동 11-1",
+      "roadAddress": "서울특별시 종로구 자하문로1길 15",
+      "mapx": "1269714587",
+      "mapy": "375764305"
     }
   ]
 }

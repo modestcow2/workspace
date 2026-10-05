@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:56 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:24:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "키즈나",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 159",
-      "roadAddress": "서울특별시 종로구 율곡로1길 78",
-      "mapx": "1269816146",
-      "mapy": "375788338"
-    },
     {
       "title": "온재",
       "link": "https://app.catchtable.co.kr/ct/shop/Onjae",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 북촌로5길 54 2층",
       "mapx": "1269820563",
       "mapy": "375797533"
+    },
+    {
+      "title": "키즈나",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 159",
+      "roadAddress": "서울특별시 종로구 율곡로1길 78",
+      "mapx": "1269816146",
+      "mapy": "375788338"
     },
     {
       "title": "이안초밥 안녕인사동점",

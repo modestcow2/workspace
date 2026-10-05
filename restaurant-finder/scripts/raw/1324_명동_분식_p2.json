@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "도산<b>분식</b> 도산공원점",
+      "link": "https://www.dosanbunsik.com",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강남구 신사동 652-7 젤로빌딩",
+      "roadAddress": "서울특별시 강남구 도산대로49길 10-6 젤로빌딩",
+      "mapx": "1270379130",
+      "mapy": "375237122"
+    },
+    {
+      "title": "영차떡볶이 <b>명동</b>점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 55-10 2~4층",
+      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
+      "mapx": "1269835740",
+      "mapy": "375631401"
+    },
     {
       "title": "명화당 <b>명동</b>1호점",
       "link": "",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 명동10길 19-3 지하1층",
       "mapx": "1269855893",
       "mapy": "375629999"
-    },
-    {
-      "title": "영차떡볶이 <b>명동</b>점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-10 2~4층",
-      "roadAddress": "서울특별시 중구 명동4길 12 2~4층",
-      "mapx": "1269835740",
-      "mapy": "375631401"
-    },
-    {
-      "title": "마포만두 시청점",
-      "link": "",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
-      "mapx": "1269795809",
-      "mapy": "375668511"
     }
   ]
 }

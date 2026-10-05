@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:38 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "남산산채집",
-      "link": "",
+      "link": "https://www.sanchaizip.com/",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
@@ -38,26 +38,26 @@
       "mapy": "375640263"
     },
     {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
+      "title": "알돈 본점",
+      "link": "https://www.instagram.com/r_don22",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
+      "address": "서울특별시 중구 다동 70 지하1층, 11호",
+      "roadAddress": "서울특별시 중구 다동길 43 지하1층, 11호",
+      "mapx": "1269818391",
+      "mapy": "375682023"
     },
     {
-      "title": "원조남산왕돈까스",
-      "link": "",
+      "title": "밀피유",
+      "link": "https://s.baemin.com/AK000gH7l9ZRF",
       "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 예장동 8-53",
-      "roadAddress": "서울특별시 중구 소파로 107",
-      "mapx": "1269861165",
-      "mapy": "375573938"
+      "address": "서울특별시 중구 명동2가 33-5 2,3층 밀피유",
+      "roadAddress": "서울특별시 중구 명동10길 10-1 2,3층 밀피유",
+      "mapx": "1269852221",
+      "mapy": "375633767"
     }
   ]
 }

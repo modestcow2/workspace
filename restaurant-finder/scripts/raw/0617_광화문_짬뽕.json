@@ -1,19 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:59 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:22:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "한양중식 종로점",
-      "link": "http://www.instagram.com/haanyang/",
+      "title": "공푸 성신여대본점",
+      "link": "https://blog.naver.com/gongpu2014",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하 2층 한양중식",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하 2층 한양중식",
-      "mapx": "1269836975",
-      "mapy": "375706386"
+      "address": "서울특별시 성북구 삼선동5가 299-10",
+      "roadAddress": "서울특별시 성북구 삼선교로24길 29",
+      "mapx": "1270161214",
+      "mapy": "375888146"
+    },
+    {
+      "title": "을왕리양자강 영종도본점",
+      "link": "https://catchtable.co.kr/yangjagang",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 영종구 을왕동 860 을왕리양자강 영종도본점",
+      "roadAddress": "인천광역시 영종구 용유서로 494 을왕리양자강 영종도본점",
+      "mapx": "1263720009",
+      "mapy": "374620113"
     },
     {
       "title": "도량",
@@ -27,37 +38,26 @@
       "mapy": "375780066"
     },
     {
-      "title": "무탄 <b>광화문</b>점",
-      "link": "https://naver.me/5uc3NJV7",
+      "title": "차이들 안녕인사동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/chaidle_insa",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
-      "mapx": "1269721401",
-      "mapy": "375696647"
+      "address": "서울특별시 종로구 관훈동 155-2 3층 307, 308호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 307, 308호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
     },
     {
-      "title": "안동장",
+      "title": "뉴문",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
-    },
-    {
-      "title": "영화루",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 25-1",
-      "roadAddress": "서울특별시 종로구 자하문로7길 65",
-      "mapx": "1269690130",
-      "mapy": "375801579"
+      "address": "서울특별시 종로구 내수동 110-39 지상2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 6 지상2층",
+      "mapx": "1269709962",
+      "mapy": "375726484"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:39 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:23:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375801802"
     },
     {
-      "title": "대장장이화덕<b>피자</b>",
-      "link": "http://pf.kakao.com/_Zscxmb",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 가회동 202-1",
-      "roadAddress": "서울특별시 종로구 북촌로 42-4",
-      "mapx": "1269853702",
-      "mapy": "375805827"
-    },
-    {
       "title": "플롭 안국",
       "link": "https://www.instagram.com/plop_pizza",
       "category": "음식점>피자",
@@ -38,26 +27,37 @@
       "mapy": "375779283"
     },
     {
+      "title": "대장장이화덕<b>피자</b>",
+      "link": "http://pf.kakao.com/_Zscxmb",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 가회동 202-1",
+      "roadAddress": "서울특별시 종로구 북촌로 42-4",
+      "mapx": "1269853702",
+      "mapy": "375805827"
+    },
+    {
       "title": "스미스가좋아하는한옥",
       "link": "https://www.instagram.com/smith_hanok",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사간동 62-1",
-      "roadAddress": "서울특별시 종로구 삼청로 22-7",
+      "address": "서울특별시 종로구 사간동 62-1 스미스가좋아하는한옥 삼청동맛집",
+      "roadAddress": "서울특별시 종로구 삼청로 22-7 스미스가좋아하는한옥 삼청동맛집",
       "mapx": "1269801792",
       "mapy": "375779378"
     },
     {
-      "title": "베테카텐",
-      "link": "http://m.cafe.naver.com/vetekatten",
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 147-20 1층 베테카텐",
-      "roadAddress": "서울특별시 종로구 삼청로7길 7 1층 베테카텐",
-      "mapx": "1269812932",
-      "mapy": "375837523"
+      "address": "서울특별시 종로구 삼청동 15-2 건물 앞뒤면 주차",
+      "roadAddress": "서울특별시 종로구 삼청로 141 건물 앞뒤면 주차",
+      "mapx": "1269815122",
+      "mapy": "375879036"
     }
   ]
 }

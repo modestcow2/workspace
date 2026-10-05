@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:11 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:37:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375871066"
     },
     {
-      "title": "독립식당",
-      "link": "",
+      "title": "서촌명가",
+      "link": "https://blog.naver.com/blueui87",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-5",
-      "roadAddress": "서울특별시 종로구 자하문로33길 10",
-      "mapx": "1269693356",
-      "mapy": "375862144"
+      "address": "서울특별시 종로구 청운동 75 지하 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 112 지하 1층",
+      "mapx": "1269702234",
+      "mapy": "375860338"
     },
     {
-      "title": "청기와식당",
+      "title": "풍면칼국수",
       "link": "",
-      "category": "한식>한정식",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 궁정동 13-31",
-      "roadAddress": "서울특별시 종로구 자하문로 86",
-      "mapx": "1269705907",
-      "mapy": "375836188"
+      "address": "서울특별시 종로구 청운동 111-1",
+      "roadAddress": "서울특별시 종로구 자하문로 104",
+      "mapx": "1269704069",
+      "mapy": "375852720"
     }
   ]
 }

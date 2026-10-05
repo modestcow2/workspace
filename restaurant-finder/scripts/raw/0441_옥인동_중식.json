@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:36 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:20:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375861990"
     },
     {
-      "title": "친니",
-      "link": "http://www.chinee.co.kr/",
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 지하 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
-      "mapx": "1269762577",
-      "mapy": "375724523"
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     },
     {
       "title": "덕후선생 광화문디타워점",

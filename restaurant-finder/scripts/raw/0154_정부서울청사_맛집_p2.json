@@ -1,30 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:18 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:16:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "스타벅스 <b>정부서울청사</b>R점",
-      "link": "http://www.starbucks.co.kr/",
-      "category": "카페,디저트>카페",
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 156",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 28 (적선동)",
-      "mapx": "1269736776",
-      "mapy": "375746212"
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
     },
     {
-      "title": "아이엠베이글 광화문점",
-      "link": "https://blog.naver.com/kyundotcom",
-      "category": "음식점>브런치",
+      "title": "안주마을",
+      "link": "",
+      "category": "술집>포장마차",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-48 1층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 7 1층",
-      "mapx": "1269709765",
-      "mapy": "375728521"
+      "address": "서울특별시 종로구 내자동 1-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 3",
+      "mapx": "1269721722",
+      "mapy": "375764582"
+    },
+    {
+      "title": "더바움 경복궁점",
+      "link": "https://www.instagram.com/the_baum_gyeongbokgung",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 44 1층, 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 13-2 1층, 2층",
+      "mapx": "1269719531",
+      "mapy": "375773782"
+    },
+    {
+      "title": "본지르르 베이커리 서촌",
+      "link": "https://www.instagram.com/vonzrr_bakery",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 296 1층~3층",
+      "roadAddress": "서울특별시 종로구 사직로8길 9-1 1층~3층",
+      "mapx": "1269701914",
+      "mapy": "375752318"
+    },
+    {
+      "title": "테일러커피 서촌 경복궁점",
+      "link": "https://tailorcoffee.com",
+      "category": "음식점>카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-34 1층",
+      "roadAddress": "서울특별시 종로구 효자로 15 1층",
+      "mapx": "1269739512",
+      "mapy": "375770510"
     }
   ]
 }

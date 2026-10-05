@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:58 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375819180"
     },
     {
-      "title": "김광석신촌<b>칼국수</b> 이대직영점",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 5-11 1층",
-      "roadAddress": "서울특별시 서대문구 명물길 70 1층",
-      "mapx": "1269400794",
-      "mapy": "375589432"
-    },
-    {
       "title": "박만배아리랑보쌈 연희점",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 서대문구 연희맛로 2-3 1층좌측호",
       "mapx": "1269285120",
       "mapy": "375657431"
+    },
+    {
+      "title": "김광석신촌<b>칼국수</b> 이대직영점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 5-11 1층",
+      "roadAddress": "서울특별시 서대문구 명물길 70 1층",
+      "mapx": "1269400794",
+      "mapy": "375589432"
     }
   ]
 }

@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:54 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:28:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "요로꼬비야",
-      "link": "",
+      "title": "서울 <b>오마카세</b> 우미마토 마곡본점",
+      "link": "https://catchtable.co.kr/umimato",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 냉천동 204 1F",
-      "roadAddress": "서울특별시 서대문구 통일로 161 1F",
-      "mapx": "1269640217",
-      "mapy": "375682675"
+      "address": "서울특별시 강서구 마곡동 774-3 센테니아 114호",
+      "roadAddress": "서울특별시 강서구 공항대로 219 센테니아 114호",
+      "mapx": "1268323103",
+      "mapy": "375594735"
     },
     {
-      "title": "스시호센",
-      "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 상가 지하 1층",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 상가 지하 1층",
-      "mapx": "1269697736",
-      "mapy": "375748513"
-    },
-    {
-      "title": "스시누하",
-      "link": "https://catchtable.co.kr/sushi_nuha",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 146-3 스시누하",
-      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
-      "mapx": "1269686694",
-      "mapy": "375791432"
-    },
-    {
-      "title": "설우 서대문점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 평동 222 NH농협 타워 지하 1층 104호 설우 서대문점",
-      "roadAddress": "서울특별시 종로구 통일로 134 NH농협 타워 지하 1층 104호 설우 서대문점",
-      "mapx": "1269662598",
-      "mapy": "375667937"
-    },
-    {
-      "title": "우직 경복궁점",
-      "link": "https://app.catchtable.co.kr/ct/shop/xuzikx_kbg",
+      "title": "스무고개 해운대점",
+      "link": "https://www.instagram.com/smugogae_haeundae/reels/?__d=1%2F",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 153-1 1층 우직",
-      "roadAddress": "서울특별시 종로구 자하문로1길 49-4 1층 우직",
-      "mapx": "1269695885",
-      "mapy": "375767578"
+      "address": "부산광역시 해운대구 중동 742-4 1층, 2층",
+      "roadAddress": "부산광역시 해운대구 좌동순환로468번가길 81 1층, 2층",
+      "mapx": "1291750243",
+      "mapy": "351645962"
+    },
+    {
+      "title": "스시산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
+    },
+    {
+      "title": "라라스시 광명하안본점",
+      "link": "https://blog.naver.com/rara_table",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 광명시 하안동 37-2 103호",
+      "roadAddress": "경기도 광명시 하안로 293-12 103호",
+      "mapx": "1268791909",
+      "mapy": "374615059"
+    },
+    {
+      "title": "송정호 일식",
+      "link": "https://www.instagram.com/omakase.song",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 부산진구 부전동 485-25",
+      "roadAddress": "부산광역시 부산진구 서면문화로5번길 33",
+      "mapx": "1290557511",
+      "mapy": "351582290"
     }
   ]
 }

@@ -1,53 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:36 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:26:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "잘빠진메밀 서촌 본점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 120",
-      "roadAddress": "서울특별시 종로구 자하문로11길 4",
-      "mapx": "1269709994",
-      "mapy": "375796715"
-    },
-    {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
-    },
-    {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
-    },
-    {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
-    },
     {
       "title": "깡통<b>만두</b>",
       "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
@@ -58,6 +14,50 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
       "mapx": "1269860918",
       "mapy": "375781763"
+    },
+    {
+      "title": "개성<b>만두</b> 궁",
+      "link": "http://www.koong.co.kr/",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 30-11",
+      "roadAddress": "서울특별시 종로구 인사동10길 11-3",
+      "mapx": "1269853889",
+      "mapy": "375742917"
+    },
+    {
+      "title": "밀양손<b>만두</b>",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 41 1층",
+      "mapx": "1269866713",
+      "mapy": "375791625"
+    },
+    {
+      "title": "자하손<b>만두</b>",
+      "link": "https://app.catchtable.co.kr/ct/shop/jahasonmandoo",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 부암동 245-2",
+      "roadAddress": "서울특별시 종로구 백석동길 12",
+      "mapx": "1269660928",
+      "mapy": "375932163"
+    },
+    {
+      "title": "찬양집",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 돈의동 27",
+      "roadAddress": "서울특별시 종로구 돈화문로11다길 5",
+      "mapx": "1269903224",
+      "mapy": "375727548"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:58 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "평안도식당 신촌점",
-      "link": "https://www.instagram.com/leejin3020",
+      "link": "https://www.instagram.com/dldnwls3021/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
@@ -16,26 +16,15 @@
       "mapy": "375570469"
     },
     {
-      "title": "신의주찹쌀순대 신촌점",
+      "title": "산해정",
       "link": "",
-      "category": "한식>순대,순댓국",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-33",
-      "roadAddress": "서울특별시 서대문구 연세로4길 19",
-      "mapx": "1269378344",
-      "mapy": "375573574"
-    },
-    {
-      "title": "24시 진선소고기<b>국밥</b> 신촌점",
-      "link": "",
-      "category": "한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 13-77 지상1층",
-      "roadAddress": "서울특별시 서대문구 명물길 36-4 지상1층",
-      "mapx": "1269386220",
-      "mapy": "375581583"
+      "address": "서울특별시 서대문구 남가좌동 102-14",
+      "roadAddress": "서울특별시 서대문구 수색로2길 10",
+      "mapx": "1269162161",
+      "mapy": "375692785"
     },
     {
       "title": "오천집 신촌점",
@@ -49,15 +38,26 @@
       "mapy": "375561154"
     },
     {
-      "title": "소푸리콩나물<b>국밥</b>",
+      "title": "우자매순대국",
       "link": "",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 431-3",
-      "roadAddress": "서울특별시 서대문구 성산로 331",
-      "mapx": "1269270716",
-      "mapy": "375662565"
+      "address": "서울특별시 서대문구 북가좌동 345-39 1층",
+      "roadAddress": "서울특별시 서대문구 거북골로24길 65 1층",
+      "mapx": "1269094798",
+      "mapy": "375819558"
+    },
+    {
+      "title": "대성도가니탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 70 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 54 1층",
+      "mapx": "1269619676",
+      "mapy": "375699326"
     }
   ]
 }

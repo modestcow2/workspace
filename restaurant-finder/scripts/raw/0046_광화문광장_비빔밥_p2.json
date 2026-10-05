@@ -1,45 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:24 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:15:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "사발",
-      "link": "https://m.booking.naver.com/booking/6/bizes/700305/items/5403470?area=pll",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
-      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
-      "mapx": "1269724791",
-      "mapy": "375735857"
-    },
-    {
-      "title": "함평집 서울시청점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
-      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
-      "mapx": "1269736340",
-      "mapy": "375622716"
-    },
-    {
-      "title": "신사동인동 안녕인사동점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
-    },
-    {
       "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
+      "link": "https://www.instagram.com/mmsb___official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -47,6 +14,17 @@
       "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
       "mapx": "1269869447",
       "mapy": "375581107"
+    },
+    {
+      "title": "익선애뜻",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 163 1층 익선애뜻",
+      "roadAddress": "서울특별시 종로구 돈화문로11다길 24 1층 익선애뜻",
+      "mapx": "1269905479",
+      "mapy": "375733641"
     },
     {
       "title": "인사도담",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
       "mapx": "1269841610",
       "mapy": "375751014"
+    },
+    {
+      "title": "사발",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
+      "mapx": "1269724791",
+      "mapy": "375735857"
+    },
+    {
+      "title": "툇마루집된장예술",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 4 중원빌딩 2층",
+      "roadAddress": "서울특별시 종로구 인사동4길 5-26 중원빌딩 2층",
+      "mapx": "1269864249",
+      "mapy": "375733999"
     }
   ]
 }

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:36 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "공푸 성신여대본점",
+      "link": "https://blog.naver.com/gongpu2014",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성북구 삼선동5가 299-10",
+      "roadAddress": "서울특별시 성북구 삼선교로24길 29",
+      "mapx": "1270161214",
+      "mapy": "375888146"
+    },
     {
       "title": "란주칼면",
       "link": "",
@@ -16,37 +27,26 @@
       "mapy": "375609724"
     },
     {
-      "title": "유가",
-      "link": "",
+      "title": "을왕리양자강 영종도본점",
+      "link": "https://catchtable.co.kr/yangjagang",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 회현동1가 117-5",
-      "roadAddress": "서울특별시 중구 퇴계로12길 68",
-      "mapx": "1269814671",
-      "mapy": "375566901"
+      "address": "인천광역시 영종구 을왕동 860 을왕리양자강 영종도본점",
+      "roadAddress": "인천광역시 영종구 용유서로 494 을왕리양자강 영종도본점",
+      "mapx": "1263720009",
+      "mapy": "374620113"
     },
     {
-      "title": "일품향",
-      "link": "",
+      "title": "차이나타운 연경 신관",
+      "link": "https://smartstore.naver.com/1884chinatown",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 105",
-      "roadAddress": "서울특별시 중구 남대문로 52-13",
-      "mapx": "1269821940",
-      "mapy": "375621200"
-    },
-    {
-      "title": "개화 <b>명동</b>점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 107-1 대한문화예술공사",
-      "roadAddress": "서울특별시 중구 남대문로 52-5 대한문화예술공사",
-      "mapx": "1269818497",
-      "mapy": "375621168"
+      "address": "인천광역시 제물포구 송월동2가 5-9",
+      "roadAddress": "인천광역시 제물포구 차이나타운로 8",
+      "mapx": "1266192048",
+      "mapy": "374776580"
     },
     {
       "title": "호경전 신세계백화점 본점",

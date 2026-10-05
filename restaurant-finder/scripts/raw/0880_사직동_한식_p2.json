@@ -1,56 +1,34 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:01 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:25:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
+      "title": "도틔대가",
+      "link": "https://catchtable.co.kr/dottydaega",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
+      "address": "서울특별시 종로구 체부동 54-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
+      "mapx": "1269720264",
+      "mapy": "375765472"
     },
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
-    },
-    {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
+      "title": "모담다이닝 광화문점",
+      "link": "",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
       "mapx": "1269720468",
       "mapy": "375687024"
     },
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
-    },
-    {
       "title": "광화문면옥",
-      "link": "",
+      "link": "https://www.instagram.com/gwanghwamun_myeonok/",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
       "mapx": "1269747363",
       "mapy": "375698520"
+    },
+    {
+      "title": "이문면옥 광화문",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 B108호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 B108호",
+      "mapx": "1269720469",
+      "mapy": "375687024"
+    },
+    {
+      "title": "우슴 광화문 직영점",
+      "link": "https://blog.naver.com/wusm-official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
     }
   ]
 }

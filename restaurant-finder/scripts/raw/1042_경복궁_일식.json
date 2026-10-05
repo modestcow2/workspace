@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:18 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:27:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375763322"
     },
     {
-      "title": "진가와 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/jinkawagwm",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 진가와",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 진가와",
-      "mapx": "1269790252",
-      "mapy": "375747276"
-    },
-    {
       "title": "스시산원 궁",
       "link": "https://www.instagram.com/sushi_sanwongung/",
       "category": "음식점>일식>초밥,롤",
@@ -49,15 +38,26 @@
       "mapy": "375746201"
     },
     {
-      "title": "거북이의꿈 서촌점",
-      "link": "",
+      "title": "진가와 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinkawagwm",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 진가와",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 진가와",
+      "mapx": "1269790252",
+      "mapy": "375747276"
+    },
+    {
+      "title": "칸다소바 <b>경복궁</b>점",
+      "link": "https://litt.ly/kandasoba",
       "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-15 1층 거북이의꿈 서촌점",
-      "roadAddress": "서울특별시 종로구 자하문로 31-6 1층 거북이의꿈 서촌점",
-      "mapx": "1269710606",
-      "mapy": "375787714"
+      "address": "서울특별시 종로구 체부동 28-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 5 1층",
+      "mapx": "1269712623",
+      "mapy": "375782119"
     }
   ]
 }

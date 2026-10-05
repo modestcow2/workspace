@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:39 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:25:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 율곡로29길 4",
       "mapx": "1270069119",
       "mapy": "375739033"
-    },
-    {
-      "title": "일미식당",
-      "link": "http://cafe.naver.com/ilmicafe",
-      "category": "한식>백반,가정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
-      "mapx": "1269876939",
-      "mapy": "375728300"
     },
     {
       "title": "전주집",
@@ -49,15 +38,26 @@
       "mapy": "375702732"
     },
     {
-      "title": "승우네식당",
-      "link": "",
+      "title": "일미식당",
+      "link": "http://cafe.naver.com/ilmicafe",
       "category": "한식>백반,가정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로4가 143 지상1층 승우네식당",
-      "roadAddress": "서울특별시 종로구 종로 190-4 지상1층 승우네식당",
-      "mapx": "1269988221",
-      "mapy": "375704887"
+      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
+      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
+      "mapx": "1269876939",
+      "mapy": "375728300"
+    },
+    {
+      "title": "돈맛꿀",
+      "link": "https://blog.naver.com/pig_money_honey",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 179 지상 1층",
+      "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
+      "mapx": "1269895649",
+      "mapy": "375710740"
     }
   ]
 }

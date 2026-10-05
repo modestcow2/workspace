@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:40 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:22:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375782778"
     },
     {
-      "title": "서촌181",
-      "link": "https://www.instagram.com/181kitchen/",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 181 서촌181",
-      "roadAddress": "서울특별시 종로구 자하문로1라길 8 서촌181",
-      "mapx": "1269708275",
-      "mapy": "375768229"
-    },
-    {
       "title": "이주당",
       "link": "",
       "category": "술집>맥주,호프",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1나길 1",
       "mapx": "1269716059",
       "mapy": "375765372"
+    },
+    {
+      "title": "유식당",
+      "link": "https://www.instagram.com/youtube_diner",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 95 1층 상가 120호",
+      "roadAddress": "서울특별시 종로구 사직로8길 20 1층 상가 120호",
+      "mapx": "1269704151",
+      "mapy": "375744848"
     }
   ]
 }

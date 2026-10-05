@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:31 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375603412"
     },
     {
+      "title": "슬로우캘리 서울<b>시청역</b>점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 97-2 1층",
+      "roadAddress": "서울특별시 중구 서소문로 134 1층",
+      "mapx": "1269758636",
+      "mapy": "375635964"
+    },
+    {
+      "title": "폴인<b>포케</b> 강남역점",
+      "link": "https://www.instagram.com/fallinpoke_official/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강남구 역삼동 817-6 2층 1호",
+      "roadAddress": "서울특별시 강남구 테헤란로1길 32 2층 1호",
+      "mapx": "1270274721",
+      "mapy": "375004154"
+    },
+    {
       "title": "폴인<b>포케</b> 서울시청점",
       "link": "https://fallinpoke.com",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -23,41 +45,19 @@
       "telephone": "",
       "address": "서울특별시 중구 북창동 71-2 2층",
       "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
-      "mapx": "1269775175",
-      "mapy": "375623578"
+      "mapx": "1269775280",
+      "mapy": "375623366"
     },
     {
-      "title": "어쩌다농부 팬트리 소공점",
-      "link": "https://www.instagram.com/oopspantry",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 79-2 1층 어쩌다농부 팬트리 소공점",
-      "roadAddress": "서울특별시 중구 소공로 96 1층 어쩌다농부 팬트리 소공점",
-      "mapx": "1269801180",
-      "mapy": "375635658"
-    },
-    {
-      "title": "르베지왕 을지공간",
-      "link": "http://www.levegiwang.com/",
+      "title": "올라<b>포케</b> 문정본점",
+      "link": "https://holapoke.imweb.me/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 116 2층",
-      "roadAddress": "서울특별시 중구 남대문로9길 10 2층",
-      "mapx": "1269818830",
-      "mapy": "375668000"
-    },
-    {
-      "title": "훅트<b>포케</b> 광화문점",
-      "link": "https://www.instagram.com/hookedpoke_official",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 지하1층 105호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 105호",
-      "mapx": "1269749335",
-      "mapy": "375697325"
+      "address": "서울특별시 송파구 문정동 651 테라타워 A동 지하1층 G185호",
+      "roadAddress": "서울특별시 송파구 송파대로 167 테라타워 A동 지하1층 G185호",
+      "mapx": "1271210395",
+      "mapy": "374848354"
     }
   ]
 }

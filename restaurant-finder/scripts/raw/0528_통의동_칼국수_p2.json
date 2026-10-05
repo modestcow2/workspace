@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:16 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:21:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375788863"
     },
     {
-      "title": "국수명가",
-      "link": "",
-      "category": "한식>국수",
+      "title": "본죽&amp;비빔밥cafe 경복궁역점",
+      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF102",
+      "category": "음식점>죽",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 49-1 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 6 1층",
-      "mapx": "1269726940",
-      "mapy": "375766793"
+      "address": "서울특별시 종로구 통의동 35-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로2길 1 1층",
+      "mapx": "1269727756",
+      "mapy": "375765833"
     },
     {
       "title": "백남옥달인손만두 경복궁점",

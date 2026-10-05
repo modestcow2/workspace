@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:45 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:35:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "중경삼림",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "<b>갈비</b>1987 포천이동본점",
+      "link": "http://instagram.com/galbi_1987",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 79-6",
-      "roadAddress": "서울특별시 종로구 계동길 71",
-      "mapx": "1269866761",
-      "mapy": "375804749"
+      "address": "경기도 포천시 이동면 장암리 242-4 갈비1987 포천이동본점",
+      "roadAddress": "경기도 포천시 이동면 화동로 2065-1 갈비1987 포천이동본점",
+      "mapx": "1273662040",
+      "mapy": "380321533"
     },
     {
       "title": "미도<b>갈비</b>",
@@ -27,37 +27,37 @@
       "mapy": "375687918"
     },
     {
-      "title": "전설의우대<b>갈비</b> 서울시청직영점",
-      "link": "https://www.instagram.com/udaegalbioflegend",
+      "title": "대릉<b>갈비</b>",
+      "link": "http://instagram.com/daerunggb_?utm_medium=copy_link",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 155 2층 206~209호",
-      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
-      "mapx": "1269804297",
-      "mapy": "375669879"
+      "address": "경상북도 경주시 황남동 231 1층",
+      "roadAddress": "경상북도 경주시 포석로1068번길 27 1층",
+      "mapx": "1292124072",
+      "mapy": "358358799"
     },
     {
-      "title": "심경희라라랜드 광화문",
-      "link": "",
-      "category": "한식>소고기구이",
+      "title": "백제<b>갈비</b> 본점",
+      "link": "https://baekje-galbi.wywh.co.kr/",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 1층 113~116호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
-      "mapx": "1269824621",
-      "mapy": "375726226"
+      "address": "경기도 안성시 원곡면 외가천리 248-8 백제갈비",
+      "roadAddress": "경기도 안성시 원곡면 만세로 1443-8 백제갈비",
+      "mapx": "1271277471",
+      "mapy": "370344617"
     },
     {
-      "title": "광화문석<b>갈비</b> D타워점",
-      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
+      "title": "해운대암소<b>갈비</b>집",
+      "link": "https://app.catchtable.co.kr/ct/shop/hgh",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
+      "address": "부산광역시 해운대구 중동 1225-1 해운대암소갈비집",
+      "roadAddress": "부산광역시 해운대구 해운대해변로 333 해운대암소갈비집",
+      "mapx": "1291664355",
+      "mapy": "351632313"
     }
   ]
 }

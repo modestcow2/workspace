@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -10,54 +10,54 @@
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 25-2",
-      "roadAddress": "서울특별시 중구 명동10길 29",
-      "mapx": "1269856025",
-      "mapy": "375625491"
+      "address": "서울특별시 중구 충무로2가 64-6",
+      "roadAddress": "서울특별시 중구 퇴계로 129",
+      "mapx": "1269861471",
+      "mapy": "375611325"
     },
     {
-      "title": "<b>명동</b>교자 신관<b>명동</b>역점",
-      "link": "https://www.mdkj.co.kr",
-      "category": "한식>칼국수,만두",
+      "title": "가메골손왕<b>만두</b> 남대문본점",
+      "link": "http://smartstore.naver.com/gamegol",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로2가 64-6 명동교자 신관명동역점",
-      "roadAddress": "서울특별시 중구 퇴계로 129 명동교자 신관명동역점",
-      "mapx": "1269861470",
-      "mapy": "375611312"
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
     },
     {
-      "title": "남포면옥",
+      "title": "동이손<b>만두</b> 포천 본점",
       "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 121-4",
-      "roadAddress": "서울특별시 중구 을지로3길 24",
-      "mapx": "1269815998",
-      "mapy": "375671396"
-    },
-    {
-      "title": "효담칼국수 닭한마리 <b>명동</b>본점",
-      "link": "https://www.instagram.com/hyodam_dakkal",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-25 B1층",
-      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
-      "mapx": "1269836320",
-      "mapy": "375642444"
-    },
-    {
-      "title": "<b>명동</b>교자 1호점",
-      "link": "http://www.mdkj.co.kr/",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 33-4 명동교자",
-      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
-      "mapx": "1269851666",
-      "mapy": "375634828"
+      "address": "경기도 포천시 소흘읍 직동리 376-2",
+      "roadAddress": "경기도 포천시 소흘읍 광릉수목원로 700-5",
+      "mapx": "1271583971",
+      "mapy": "377737373"
+    },
+    {
+      "title": "뼉따구아지매육칼 향남본점",
+      "link": "https://www.instagram.com/guksu_son/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 화성시 만세구 향남읍 행정리 431-3 101호",
+      "roadAddress": "경기도 화성시 만세구 향남읍 행정서로3길 22-6 101호",
+      "mapx": "1269174622",
+      "mapy": "371309455"
+    },
+    {
+      "title": "종가<b>만두</b>",
+      "link": "https://blog.naver.com/sgjongro55",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관수동 145-1 1층 종가만두",
+      "roadAddress": "서울특별시 종로구 수표로 88 1층 종가만두",
+      "mapx": "1269896787",
+      "mapy": "375689062"
     }
   ]
 }

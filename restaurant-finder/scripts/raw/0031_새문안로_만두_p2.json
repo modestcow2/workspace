@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:16 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:15:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "광화문면옥",
-      "link": "",
+      "link": "https://www.instagram.com/gwanghwamun_myeonok/",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
@@ -38,6 +38,17 @@
       "mapy": "375669020"
     },
     {
+      "title": "메밀영글",
+      "link": "https://www.instagram.com/memil_yeonggeul",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 226 지하 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 68 지하 2층",
+      "mapx": "1269721401",
+      "mapy": "375696647"
+    },
+    {
       "title": "새봄 서대문점",
       "link": "",
       "category": "한식>국수",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 새문안로 24",
       "mapx": "1269685725",
       "mapy": "375674131"
-    },
-    {
-      "title": "나주소나주곰탕 신문로1가점",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 31",
-      "roadAddress": "서울특별시 종로구 새문안로 87",
-      "mapx": "1269744139",
-      "mapy": "375703667"
     }
   ]
 }

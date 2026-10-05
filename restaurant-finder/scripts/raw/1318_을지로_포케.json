@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:27 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,15 @@
       "mapy": "375666400"
     },
     {
-      "title": "살라아띠 두타점",
-      "link": "https://www.instagram.com/salaatti_",
+      "title": "폴인<b>포케</b> 강남역점",
+      "link": "https://www.instagram.com/fallinpoke_official/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로6가 18-12 두산타워빌딩 B2층 FB104호",
-      "roadAddress": "서울특별시 중구 장충단로 275 두산타워빌딩 B2층 FB104호",
-      "mapx": "1270087832",
-      "mapy": "375688912"
-    },
-    {
-      "title": "슬로우캘리 을지트윈타워점",
-      "link": "http://www.slowcali.co.kr",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로4가 323 1층 120호",
-      "roadAddress": "서울특별시 중구 을지로 170 1층 120호",
-      "mapx": "1269973271",
-      "mapy": "375661387"
+      "address": "서울특별시 강남구 역삼동 817-6 2층 1호",
+      "roadAddress": "서울특별시 강남구 테헤란로1길 32 2층 1호",
+      "mapx": "1270274721",
+      "mapy": "375004154"
     },
     {
       "title": "더타코부스 X 잭 다니엘 <b>을지로</b>점",
@@ -49,15 +38,26 @@
       "mapy": "375658415"
     },
     {
-      "title": "늘보카페",
-      "link": "https://100원커피이벤트-선착순주문하기.com",
-      "category": "음식점>카페,디저트",
+      "title": "그리너 남대문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 인현동1가 64 1층",
-      "roadAddress": "서울특별시 중구 을지로18길 34 1층",
-      "mapx": "1269942199",
-      "mapy": "375649687"
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
+    {
+      "title": "올라<b>포케</b> 문정본점",
+      "link": "https://holapoke.imweb.me/",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 송파구 문정동 651 테라타워 A동 지하1층 G185호",
+      "roadAddress": "서울특별시 송파구 송파대로 167 테라타워 A동 지하1층 G185호",
+      "mapx": "1271210395",
+      "mapy": "374848354"
     }
   ]
 }

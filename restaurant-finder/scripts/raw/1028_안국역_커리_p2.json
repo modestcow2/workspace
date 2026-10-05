@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:11 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:27:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
-    },
     {
       "title": "일월카츠 안국점",
       "link": "https://www.instagram.com/ill_wall_katsu",
@@ -23,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 안국동 132 1층",
       "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
+      "mapx": "1269851329",
+      "mapy": "375773417"
     },
     {
       "title": "일월카츠 계동점",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 계동길 17 1층 일월카츠",
       "mapx": "1269865352",
       "mapy": "375781458"
+    },
+    {
+      "title": "오얏카츠 인사동",
+      "link": "https://www.instagram.com/oyatt_katsu",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 68-14 1층 오얏카츠",
+      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층 오얏카츠",
+      "mapx": "1269833422",
+      "mapy": "375735368"
     },
     {
       "title": "니르바나",
@@ -56,8 +56,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 관훈동 198-36 2층",
       "roadAddress": "서울특별시 종로구 인사동5길 20 2층",
-      "mapx": "1269852435",
-      "mapy": "375727026"
+      "mapx": "1269852630",
+      "mapy": "375726512"
     }
   ]
 }

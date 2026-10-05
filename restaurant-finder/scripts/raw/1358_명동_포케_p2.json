@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:45 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,37 +27,37 @@
       "mapy": "375593277"
     },
     {
-      "title": "르베지왕 을지공간",
-      "link": "http://www.levegiwang.com/",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "비건키친",
+      "link": "",
+      "category": "뷔페>채식,샐러드뷔페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 116 2층",
-      "roadAddress": "서울특별시 중구 남대문로9길 10 2층",
-      "mapx": "1269818830",
-      "mapy": "375668000"
+      "address": "서울특별시 중구 남산동2가 15-11 1층",
+      "roadAddress": "서울특별시 중구 퇴계로20길 21 1층",
+      "mapx": "1269859469",
+      "mapy": "375592631"
     },
     {
-      "title": "샐러링 광화문점",
-      "link": "https://salaring.com/",
+      "title": "폴인<b>포케</b> 강남역점",
+      "link": "https://www.instagram.com/fallinpoke_official/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 85 1층 101호",
-      "roadAddress": "서울특별시 중구 남대문로 125 다동 1층 101호",
-      "mapx": "1269822027",
-      "mapy": "375682184"
+      "address": "서울특별시 강남구 역삼동 817-6 2층 1호",
+      "roadAddress": "서울특별시 강남구 테헤란로1길 32 2층 1호",
+      "mapx": "1270274721",
+      "mapy": "375004154"
     },
     {
-      "title": "슬로우캘리 을지로점",
-      "link": "http://www.slowcali.co.kr",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "더타코부스 남산점",
+      "link": "",
+      "category": "음식점>양식>멕시코,남미음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 수하동 67 미래에셋센터원 지1층 118호",
-      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋센터원 지1층 118호",
-      "mapx": "1269850954",
-      "mapy": "375672787"
+      "address": "서울특별시 중구 남산동2가 49-32 1층 (남산동 2가)",
+      "roadAddress": "서울특별시 중구 소파로 103-1 1층 (남산동 2가)",
+      "mapx": "1269858709",
+      "mapy": "375571988"
     }
   ]
 }

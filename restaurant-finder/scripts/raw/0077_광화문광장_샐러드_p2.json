@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:41 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:15:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "그리너 남대문점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로4가 20-15 1층",
+      "roadAddress": "서울특별시 중구 남대문로 6 1층",
+      "mapx": "1269764084",
+      "mapy": "375603412"
+    },
     {
       "title": "도트블랭킷 안국점",
       "link": "https://app.catchtable.co.kr/ct/shop/gotblanket_anguk",
@@ -27,37 +38,26 @@
       "mapy": "375727137"
     },
     {
-      "title": "H라운지",
-      "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>양식",
+      "title": "르풀",
+      "link": "https://www.instagram.com/lepul/",
+      "category": "카페,디저트>카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-21",
-      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
+      "address": "서울특별시 중구 정동 1-28 신아일보",
+      "roadAddress": "서울특별시 중구 정동길 33 신아일보",
+      "mapx": "1269722338",
+      "mapy": "375660943"
     },
     {
-      "title": "도트블랭킷 삼청한옥점",
-      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
-      "category": "음식점>브런치",
+      "title": "크리스피프레시 <b>광화문</b>점",
+      "link": "https://www.instagram.com/crispyfreshsalad",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 95 1층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
-      "mapx": "1269812371",
-      "mapy": "375800959"
-    },
-    {
-      "title": "엘 샌드위치 종로점",
-      "link": "http://elsandwich.co.kr",
-      "category": "양식>샌드위치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 36-2 1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 14 1층",
-      "mapx": "1269817979",
-      "mapy": "375750480"
+      "address": "서울특별시 중구 다동 39 케이스퀘어시티 1층",
+      "roadAddress": "서울특별시 중구 청계천로 24 케이스퀘어시티 1층",
+      "mapx": "1269803445",
+      "mapy": "375686380"
     }
   ]
 }

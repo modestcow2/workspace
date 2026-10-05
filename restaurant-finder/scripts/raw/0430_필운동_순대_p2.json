@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:31 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:20:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375767519"
     },
     {
+      "title": "고양이부엌",
+      "link": "https://www.instagram.com/goyangibueok.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 167-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 14 1층",
+      "mapx": "1269695035",
+      "mapy": "375774430"
+    },
+    {
       "title": "명작신의주찹쌀<b>순대</b>",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
       "mapx": "1269686008",
       "mapy": "375744035"
-    },
-    {
-      "title": "화목<b>순대</b>국전문 광화문1호점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 40",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11",
-      "mapx": "1269747764",
-      "mapy": "375712514"
     }
   ]
 }

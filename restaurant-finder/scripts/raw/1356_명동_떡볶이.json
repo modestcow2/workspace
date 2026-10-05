@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:44 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375642992"
     },
     {
-      "title": "명화당 <b>명동</b>1호점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-3 2층",
-      "roadAddress": "서울특별시 중구 명동4길 30 2층",
-      "mapx": "1269837950",
-      "mapy": "375623945"
-    },
-    {
       "title": "현선이네 청계즉석점",
       "link": "https://smartstore.naver.com/hyunsunine",
       "category": "분식>떡볶이",
@@ -49,15 +38,26 @@
       "mapy": "375671291"
     },
     {
-      "title": "원조 곱창<b>떡볶이</b> 화떡 <b>명동</b>본점",
-      "link": "http://www.facebook.com/hwatteok",
-      "category": "분식>떡볶이",
+      "title": "명화당 <b>명동</b>1호점",
+      "link": "",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 54-26",
-      "roadAddress": "서울특별시 중구 명동4길 15",
-      "mapx": "1269838037",
-      "mapy": "375630132"
+      "address": "서울특별시 중구 명동2가 55-3 2층",
+      "roadAddress": "서울특별시 중구 명동4길 30 2층",
+      "mapx": "1269837950",
+      "mapy": "375623945"
+    },
+    {
+      "title": "라밥 회현점",
+      "link": "https://www.instagram.com/lababkimbab",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 회현동1가 94-4 1층",
+      "roadAddress": "서울특별시 중구 퇴계로10길 6 1층",
+      "mapx": "1269800851",
+      "mapy": "375590643"
     }
   ]
 }

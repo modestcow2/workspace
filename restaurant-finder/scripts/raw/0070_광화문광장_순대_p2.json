@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:37 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:15:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "화목<b>순대</b>국전문 <b>광화문</b>1호점",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 40",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11",
-      "mapx": "1269747764",
-      "mapy": "375712514"
-    },
     {
       "title": "농민백암<b>순대</b> 시청직영점",
       "link": "",
@@ -27,26 +16,26 @@
       "mapy": "375626099"
     },
     {
-      "title": "청진동장터<b>순대</b>국",
+      "title": "화목<b>순대</b>국전문 <b>광화문</b>1호점",
       "link": "",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 3-3",
-      "roadAddress": "서울특별시 종로구 종로5길 40",
-      "mapx": "1269804455",
-      "mapy": "375720966"
+      "address": "서울특별시 종로구 당주동 40",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11",
+      "mapx": "1269747764",
+      "mapy": "375712514"
     },
     {
-      "title": "관북",
+      "title": "산수갑산",
       "link": "",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 11-6 1,2층",
-      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
-      "mapx": "1269808546",
-      "mapy": "375719170"
+      "address": "서울특별시 중구 인현동1가 15-4",
+      "roadAddress": "서울특별시 중구 을지로20길 24",
+      "mapx": "1269953138",
+      "mapy": "375653833"
     },
     {
       "title": "이경문<b>순대</b>곱창",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
       "mapx": "1269908574",
       "mapy": "375730931"
+    },
+    {
+      "title": "철길떡볶기",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 충정로3가 150-1",
+      "roadAddress": "서울특별시 서대문구 충정로5길 11",
+      "mapx": "1269634943",
+      "mapy": "375626500"
     }
   ]
 }

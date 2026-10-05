@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:58 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:19:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375784692"
     },
     {
-      "title": "용궁",
+      "title": "화산",
       "link": "",
-      "category": "중식>중식당",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9",
-      "roadAddress": "서울특별시 종로구 사직로8길 4",
-      "mapx": "1269695378",
-      "mapy": "375746229"
+      "address": "서울특별시 종로구 체부동 45-1 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 13-1 2층",
+      "mapx": "1269720404",
+      "mapy": "375773299"
     },
     {
       "title": "김쉐프",

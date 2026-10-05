@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:01 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:27:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "신사동인동 안녕인사동점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
-    },
     {
       "title": "인사도담",
       "link": "https://insadodam.com/",
@@ -32,21 +21,10 @@
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 118-27",
-      "roadAddress": "서울특별시 종로구 인사동16길 3-6",
+      "address": "서울특별시 종로구 관훈동 118-27 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6 1층",
       "mapx": "1269840246",
       "mapy": "375753027"
-    },
-    {
-      "title": "툇마루집된장예술",
-      "link": "",
-      "category": "한식>비빔밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 인사동 4 중원빌딩 2층",
-      "roadAddress": "서울특별시 종로구 인사동4길 5-26 중원빌딩 2층",
-      "mapx": "1269864249",
-      "mapy": "375733999"
     },
     {
       "title": "도마 인사동점",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 인사동8길 6-1 1층 도마",
       "mapx": "1269858347",
       "mapy": "375738125"
+    },
+    {
+      "title": "홈코리안퀴진",
+      "link": "https://www.instagram.com/home.korean.cuisine/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 60 1층",
+      "roadAddress": "서울특별시 종로구 삼청로 22-9 1층",
+      "mapx": "1269802214",
+      "mapy": "375778524"
+    },
+    {
+      "title": "툇마루집된장예술",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 인사동 4 중원빌딩 2층",
+      "roadAddress": "서울특별시 종로구 인사동4길 5-26 중원빌딩 2층",
+      "mapx": "1269864249",
+      "mapy": "375733999"
     }
   ]
 }

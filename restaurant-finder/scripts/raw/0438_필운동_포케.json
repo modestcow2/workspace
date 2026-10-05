@@ -1,30 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:34 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:20:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
-      "title": "훅트<b>포케</b> 광화문점",
-      "link": "https://www.instagram.com/hookedpoke_official",
+      "title": "와이스타브 다이어트 광화문점",
+      "link": "https://www.instagram.com/whystarve.kr/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 지하1층 105호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 지하1층 105호",
-      "mapx": "1269749335",
-      "mapy": "375697325"
+      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "올라<b>포케</b> 광화문점",
@@ -49,15 +38,26 @@
       "mapy": "375727373"
     },
     {
-      "title": "<b>포케</b>로로 경희궁의아침점",
-      "link": "",
+      "title": "TWG Tea 광화문점",
+      "link": "https://brand.naver.com/twgtea_official",
+      "category": "카페,디저트>홍차전문점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "온히어 온샐러드앤<b>포케</b> 광화문점",
+      "link": "https://100원커피이벤트-선착순주문하기.com",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 72 경희궁의아침3단지 1층 120호",
-      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침3단지 1층 120호",
-      "mapx": "1269724983",
-      "mapy": "375736137"
+      "address": "서울특별시 종로구 수송동 67-1 1층",
+      "roadAddress": "서울특별시 종로구 삼봉로 53 1층",
+      "mapx": "1269802692",
+      "mapy": "375725677"
     }
   ]
 }

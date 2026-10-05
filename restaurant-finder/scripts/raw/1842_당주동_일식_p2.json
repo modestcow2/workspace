@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:30 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:37:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375706979"
     },
     {
-      "title": "양산도 광화문점",
-      "link": "https://www.yangsando.com",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 로얄빌딩 지하1층 57호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 지하1층 57호",
-      "mapx": "1269743362",
-      "mapy": "375720961"
-    },
-    {
       "title": "후라토식당 경복궁 본점",
       "link": "http://furato.co.kr/",
       "category": "음식점>일식>일식당",
@@ -38,26 +27,37 @@
       "mapy": "375720853"
     },
     {
-      "title": "일품당 광화문점",
-      "link": "https://blog.naver.com/ilpumdang",
-      "category": "음식점>일식>샤브샤브",
+      "title": "멘탄",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 16-1 1~5층",
-      "roadAddress": "서울특별시 종로구 세종대로23길 25 1~5층",
-      "mapx": "1269750250",
-      "mapy": "375715417"
+      "address": "서울특별시 종로구 당주동 15-7 1층",
+      "roadAddress": "서울특별시 종로구 세종대로23길 21 1층",
+      "mapx": "1269751765",
+      "mapy": "375715283"
     },
     {
-      "title": "일일주",
-      "link": "",
-      "category": "술집>이자카야",
+      "title": "양산도 광화문점",
+      "link": "https://www.yangsando.com",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 201동 108호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 201동 108호",
-      "mapx": "1269694864",
-      "mapy": "375749128"
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩 지하1층 57호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 지하1층 57호",
+      "mapx": "1269743362",
+      "mapy": "375720961"
+    },
+    {
+      "title": "사이토라",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 지하 115, 116호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 지하 115, 116호",
+      "mapx": "1269736905",
+      "mapy": "375717811"
     }
   ]
 }

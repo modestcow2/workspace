@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:58 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:16:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "무구옥",
-      "link": "https://www.instagram.com/muguok_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 126-1 지상1층",
-      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
-      "mapx": "1269799066",
-      "mapy": "375764071"
-    },
     {
       "title": "일미식당",
       "link": "http://cafe.naver.com/ilmicafe",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
       "mapx": "1269876939",
       "mapy": "375728300"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
     },
     {
       "title": "사랑방칼국수",
@@ -38,26 +38,26 @@
       "mapy": "375632872"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
+      "title": "보돌미역 종로타워점",
+      "link": "http://bodolfood.com",
+      "category": "한식>백반,가정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
+      "address": "서울특별시 종로구 종로2가 6",
+      "roadAddress": "서울특별시 종로구 종로 51",
+      "mapx": "1269836223",
+      "mapy": "375707628"
     },
     {
-      "title": "전주풍남<b>회관</b>",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "돈맛꿀",
+      "link": "https://blog.naver.com/pig_money_honey",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
+      "address": "서울특별시 종로구 낙원동 179 지상 1층",
+      "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
+      "mapx": "1269895649",
+      "mapy": "375710740"
     }
   ]
 }

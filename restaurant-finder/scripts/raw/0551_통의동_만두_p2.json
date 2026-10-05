@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:27 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:21:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375779140"
     },
     {
-      "title": "돌밭 메밀꽃",
+      "title": "백남옥달인손<b>만두</b> 경복궁점",
       "link": "",
-      "category": "한식>국수",
+      "category": "음식점>한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 7-23",
-      "roadAddress": "서울특별시 종로구 효자로 31-1",
-      "mapx": "1269737000",
-      "mapy": "375788863"
+      "address": "서울특별시 종로구 통의동 49-1 백남옥달인손만두 경복궁점",
+      "roadAddress": "서울특별시 종로구 자하문로 6 백남옥달인손만두 경복궁점",
+      "mapx": "1269726685",
+      "mapy": "375767126"
     }
   ]
 }

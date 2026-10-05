@@ -1,30 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:05 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:26:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
+      "title": "명동교자 본점",
+      "link": "http://www.mdkj.co.kr/",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
-    },
-    {
-      "title": "체부동잔치집",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 190",
-      "roadAddress": "서울특별시 종로구 자하문로1길 16",
-      "mapx": "1269715263",
-      "mapy": "375765394"
+      "address": "서울특별시 중구 충무로2가 64-6",
+      "roadAddress": "서울특별시 중구 퇴계로 129",
+      "mapx": "1269861471",
+      "mapy": "375611325"
     },
     {
       "title": "대선<b>칼국수</b>",
@@ -38,26 +27,37 @@
       "mapy": "375771878"
     },
     {
-      "title": "바다한가득 광화문점",
-      "link": "",
-      "category": "한식>조개요리",
+      "title": "옹시미 경복궁점",
+      "link": "https://blog.naver.com/omgseemegbg",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 15-3 2층,3층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 29 2층,3층",
-      "mapx": "1269754598",
-      "mapy": "375714726"
+      "address": "서울특별시 종로구 내자동 29-2 1층",
+      "roadAddress": "서울특별시 종로구 사직로 105 1층",
+      "mapx": "1269705376",
+      "mapy": "375762516"
     },
     {
-      "title": "경복궁식당",
-      "link": "https://www.minarikorea.com/",
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 211 지하1층",
-      "roadAddress": "서울특별시 종로구 사직로 101 지하1층",
-      "mapx": "1269701158",
-      "mapy": "375762596"
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
+    },
+    {
+      "title": "배터지는집 동막손<b>칼국수</b>명가",
+      "link": "https://www.bluer.co.kr/restaurants/56177",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 강화군 화도면 사기리 481-17 1층",
+      "roadAddress": "인천광역시 강화군 화도면 해안남로 1279 1층",
+      "mapx": "1264579664",
+      "mapy": "376022549"
     }
   ]
 }

@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:34 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "전설의우대<b>갈비</b> 서울시청직영점",
-      "link": "https://www.instagram.com/udaegalbioflegend",
+      "title": "<b>갈비</b>1987 포천이동본점",
+      "link": "http://instagram.com/galbi_1987",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 155 2층 206~209호",
-      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
-      "mapx": "1269804297",
-      "mapy": "375669879"
+      "address": "경기도 포천시 이동면 장암리 242-4 갈비1987 포천이동본점",
+      "roadAddress": "경기도 포천시 이동면 화동로 2065-1 갈비1987 포천이동본점",
+      "mapx": "1273662040",
+      "mapy": "380321533"
     },
     {
-      "title": "온점 을지로점",
-      "link": "https://www.instagram.com/onjeom.seoul",
+      "title": "미도<b>갈비</b>",
+      "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 87 지1층",
-      "roadAddress": "서울특별시 중구 을지로 29 지1층",
-      "mapx": "1269810422",
-      "mapy": "375664910"
+      "address": "서울특별시 종로구 관철동 11-13 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
+      "mapx": "1269861462",
+      "mapy": "375687918"
     },
     {
-      "title": "육통령 <b>명동</b>본점",
+      "title": "대릉<b>갈비</b>",
+      "link": "http://instagram.com/daerunggb_?utm_medium=copy_link",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경상북도 경주시 황남동 231 1층",
+      "roadAddress": "경상북도 경주시 포석로1068번길 27 1층",
+      "mapx": "1292124072",
+      "mapy": "358358799"
+    },
+    {
+      "title": "백제<b>갈비</b> 본점",
+      "link": "https://baekje-galbi.wywh.co.kr/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 안성시 원곡면 외가천리 248-8 백제갈비",
+      "roadAddress": "경기도 안성시 원곡면 만세로 1443-8 백제갈비",
+      "mapx": "1271277471",
+      "mapy": "370344617"
+    },
+    {
+      "title": "<b>명동</b>서서<b>갈비</b>",
       "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-36",
-      "roadAddress": "서울특별시 중구 명동8나길 37-2",
-      "mapx": "1269828439",
-      "mapy": "375611991"
-    },
-    {
-      "title": "난로은회 을지로",
-      "link": "https://app.catchtable.co.kr/ct/shop/nanroeunhoi_euljiro",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 203 파인에비뉴 B동 지하1층",
-      "roadAddress": "서울특별시 중구 을지로 100 파인에비뉴 B동 지하1층",
-      "mapx": "1269889089",
-      "mapy": "375658847"
-    },
-    {
-      "title": "오는정쪽<b>갈비</b> 본점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 138 오는정본점",
-      "roadAddress": "서울특별시 중구 을지로3길 29 오는정본점",
-      "mapx": "1269813695",
-      "mapy": "375673512"
+      "address": "서울특별시 중구 을지로2가 199-61",
+      "roadAddress": "서울특별시 중구 명동7가길 20-8",
+      "mapx": "1269832873",
+      "mapy": "375647627"
     }
   ]
 }

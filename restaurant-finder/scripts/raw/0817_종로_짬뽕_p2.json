@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:32 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:25:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375724523"
     },
     {
-      "title": "안동장",
-      "link": "",
+      "title": "인사동 화원",
+      "link": "http://instagram.com/choihun81",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
+      "address": "서울특별시 종로구 관훈동 29-16 인사동 화원",
+      "roadAddress": "서울특별시 종로구 인사동8길 12 인사동 화원",
+      "mapx": "1269859642",
+      "mapy": "375738998"
     }
   ]
 }

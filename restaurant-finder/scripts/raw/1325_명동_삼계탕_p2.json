@@ -1,19 +1,41 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "영양센터 본점",
+      "title": "토속촌<b>삼계탕</b>",
+      "link": "http://www.tosokchon.co.kr/",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 85-1 토속촌",
+      "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
+      "mapx": "1269715865",
+      "mapy": "375776607"
+    },
+    {
+      "title": "백세<b>삼계탕</b> 의정부점",
       "link": "",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 25-32",
-      "roadAddress": "서울특별시 중구 명동2길 52",
-      "mapx": "1269831647",
-      "mapy": "375611197"
+      "address": "경기도 의정부시 가능동 92-11",
+      "roadAddress": "경기도 의정부시 서부로 747",
+      "mapx": "1270413617",
+      "mapy": "377585620"
+    },
+    {
+      "title": "백세<b>삼계탕</b> 김포점",
+      "link": "",
+      "category": "한식>백숙,삼계탕",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 김포시 걸포동 389-43",
+      "roadAddress": "경기도 김포시 홍도평로 7",
+      "mapx": "1267111125",
+      "mapy": "376312154"
     },
     {
       "title": "백제<b>삼계탕</b>",
@@ -27,37 +49,15 @@
       "mapy": "375633571"
     },
     {
-      "title": "여의도<b>삼계탕</b> 파이낸스센터점",
-      "link": "https://blog.naver.com/dreamingmoom",
+      "title": "누룩골 계양점",
+      "link": "http://borigolfood.com",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 파이낸스센터 sfc몰 지하1층 103호 여의도 삼계탕",
-      "roadAddress": "서울특별시 중구 세종대로 136 파이낸스센터 sfc몰 지하1층 103호 여의도 삼계탕",
-      "mapx": "1269788924",
-      "mapy": "375682885"
-    },
-    {
-      "title": "을지<b>삼계탕</b>",
-      "link": "",
-      "category": "한식>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 101-12",
-      "roadAddress": "서울특별시 중구 을지로 99-1",
-      "mapx": "1269890869",
-      "mapy": "375663526"
-    },
-    {
-      "title": "고봉<b>삼계탕</b> <b>명동</b>점",
-      "link": "",
-      "category": "음식점>한식>육류,고기요리>백숙,삼계탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-40",
-      "roadAddress": "서울특별시 중구 명동7길 21",
-      "mapx": "1269837316",
-      "mapy": "375648216"
+      "address": "인천광역시 계양구 계산동 730",
+      "roadAddress": "인천광역시 계양구 경명대로 985",
+      "mapx": "1267164408",
+      "mapy": "375442763"
     }
   ]
 }

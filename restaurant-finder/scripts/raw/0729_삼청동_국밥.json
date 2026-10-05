@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:51 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:23:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,48 +16,48 @@
       "mapy": "375794197"
     },
     {
-      "title": "동백식당",
+      "title": "광화문<b>국밥</b>",
+      "link": "https://gwanghwamungukbap.netlify.app/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    },
+    {
+      "title": "정짓간 부산역점",
+      "link": "https://menu.busan.go.kr/shop/info/CD_SHP_002389",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 동구 초량동 470-1 1층, 2층",
+      "roadAddress": "부산광역시 동구 중앙대로209번길 11 1층, 2층",
+      "mapx": "1290391100",
+      "mapy": "351160220"
+    },
+    {
+      "title": "정짓간 신평본점",
+      "link": "https://menu.busan.go.kr/shop/info/CD_SHP_002355",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 사하구 신평동 408-2 1층 정짓간",
+      "roadAddress": "부산광역시 사하구 비봉로 6 1층 정짓간",
+      "mapx": "1289624388",
+      "mapy": "350957150"
+    },
+    {
+      "title": "합천일류돼지<b>국밥</b>",
       "link": "",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
-      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
-      "mapx": "1269842899",
-      "mapy": "375765173"
-    },
-    {
-      "title": "온6.5",
-      "link": "https://app.catchtable.co.kr/ct/shop/on65",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 75-5 지상1층 온6.5",
-      "roadAddress": "서울특별시 종로구 북촌로1길 28 지상1층 온6.5",
-      "mapx": "1269842814",
-      "mapy": "375773758"
-    },
-    {
-      "title": "신의주찹쌀순대 안국역점",
-      "link": "http://www.bigsoondae.com/",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 111-1",
-      "roadAddress": "서울특별시 종로구 율곡로 59",
-      "mapx": "1269857102",
-      "mapy": "375769015"
-    },
-    {
-      "title": "대림국수 안국점",
-      "link": "http://app.catchtable.co.kr/ct/shop/daerimanguk",
-      "category": "음식점>한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-18 1층 대림국수",
-      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 대림국수",
-      "mapx": "1269862999",
-      "mapy": "375779441"
+      "address": "부산광역시 사상구 괘법동 565-6 윌로펌프",
+      "roadAddress": "부산광역시 사상구 광장로 34 윌로펌프",
+      "mapx": "1289801206",
+      "mapy": "351621833"
     }
   ]
 }

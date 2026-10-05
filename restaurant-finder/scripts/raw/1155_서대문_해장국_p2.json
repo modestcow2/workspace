@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:11 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "평안도식당 신촌점",
-      "link": "https://www.instagram.com/leejin3020",
+      "link": "https://www.instagram.com/dldnwls3021/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
@@ -27,6 +27,28 @@
       "mapy": "375590167"
     },
     {
+      "title": "대성도가니탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 70 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 54 1층",
+      "mapx": "1269619676",
+      "mapy": "375699326"
+    },
+    {
+      "title": "서부청기와감자탕 남가좌점",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 336-22 .2층",
+      "roadAddress": "서울특별시 서대문구 가재울로4길 47 .2층",
+      "mapx": "1269239631",
+      "mapy": "375759847"
+    },
+    {
       "title": "북성<b>해장국</b>",
       "link": "",
       "category": "음식점>한식",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 서대문구 신촌로35길 7",
       "mapx": "1269551282",
       "mapy": "375578309"
-    },
-    {
-      "title": "왕봉24시<b>해장국</b>",
-      "link": "",
-      "category": "한식>해장국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 295-25",
-      "roadAddress": "서울특별시 서대문구 인왕시장길 46",
-      "mapx": "1269444222",
-      "mapy": "375915652"
-    },
-    {
-      "title": "대가감자탕뼈<b>해장국</b>",
-      "link": "",
-      "category": "한식>감자탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 338-39",
-      "roadAddress": "서울특별시 서대문구 증가로 111",
-      "mapx": "1269249207",
-      "mapy": "375766479"
     }
   ]
 }

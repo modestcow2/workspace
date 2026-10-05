@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:42 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:20:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375756601"
     },
     {
-      "title": "족삼리",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 115-5 1층",
-      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
-      "mapx": "1269483970",
-      "mapy": "375854364"
-    },
-    {
-      "title": "효자왕<b>족발</b>",
-      "link": "https://www.instagram.com/seochonhotpot",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-12",
-      "roadAddress": "서울특별시 종로구 자하문로 31-2",
-      "mapx": "1269712642",
-      "mapy": "375787993"
-    },
-    {
       "title": "서대문영양<b>족발</b> 본점",
       "link": "",
       "category": "한식>족발,보쌈",
@@ -47,6 +25,28 @@
       "roadAddress": "서울특별시 서대문구 통일로 377 1층",
       "mapx": "1269491514",
       "mapy": "375837552"
+    },
+    {
+      "title": "장충가마솥한방<b>족발</b>",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 영천동 301 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 31 1층",
+      "mapx": "1269612443",
+      "mapy": "375708161"
+    },
+    {
+      "title": "효자왕<b>족발</b>",
+      "link": "https://www.instagram.com/hyojafnb/?hl=ko",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통인동 147-12",
+      "roadAddress": "서울특별시 종로구 자하문로 31-2",
+      "mapx": "1269712642",
+      "mapy": "375787993"
     },
     {
       "title": "서촌 곳간",

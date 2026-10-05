@@ -1,9 +1,42 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:28 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:23:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "삼청동수제비",
+      "link": "http://www.삼청동수제비.kr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 99",
+      "roadAddress": "서울특별시 종로구 삼청로 101-1",
+      "mapx": "1269819599",
+      "mapy": "375845273"
+    },
+    {
+      "title": "<b>북촌</b>도담",
+      "link": "https://www.instagram.com/bukchondodam",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 133",
+      "roadAddress": "서울특별시 종로구 북촌로1길 9",
+      "mapx": "1269852649",
+      "mapy": "375773759"
+    },
+    {
+      "title": "진작 카키",
+      "link": "https://naver.me/xWzWzIYt",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 140-44 진작카키 안국점",
+      "roadAddress": "서울특별시 종로구 창덕궁1길 38 진작카키 안국점",
+      "mapx": "1269871165",
+      "mapy": "375794798"
+    },
     {
       "title": "호이식 종로 안국",
       "link": "",
@@ -17,7 +50,7 @@
     },
     {
       "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "link": "https://www.k-delicious.kr/",
       "category": "한식>국수",
       "description": "",
       "telephone": "",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
       "mapx": "1269862338",
       "mapy": "375782217"
-    },
-    {
-      "title": "<b>북촌</b>도담",
-      "link": "https://www.instagram.com/bukchondodam",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 133",
-      "roadAddress": "서울특별시 종로구 북촌로1길 9",
-      "mapx": "1269854316",
-      "mapy": "375772856"
-    },
-    {
-      "title": "애호락 안국본점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
-      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
-      "mapx": "1269866350",
-      "mapy": "375791838"
-    },
-    {
-      "title": "꽃누리들밥 경복궁점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 112 지하1층",
-      "roadAddress": "서울특별시 종로구 율곡로1길 31 지하1층",
-      "mapx": "1269804337",
-      "mapy": "375772562"
     }
   ]
 }

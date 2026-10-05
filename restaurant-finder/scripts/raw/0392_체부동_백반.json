@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:13 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:19:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375764071"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
-    {
       "title": "전주풍남회관",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 청계천로 35 관정빌딩 지하1층",
       "mapx": "1269813961",
       "mapy": "375694054"
+    },
+    {
+      "title": "효자동밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층",
+      "mapx": "1269710519",
+      "mapy": "375816457"
     }
   ]
 }

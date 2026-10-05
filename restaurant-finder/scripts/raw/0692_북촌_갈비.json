@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:34 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:23:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "율동칼국수",
-      "link": "",
+      "title": "<b>갈비</b>1987 포천이동본점",
+      "link": "http://instagram.com/galbi_1987",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 포천시 이동면 장암리 242-4 갈비1987 포천이동본점",
+      "roadAddress": "경기도 포천시 이동면 화동로 2065-1 갈비1987 포천이동본점",
+      "mapx": "1273662040",
+      "mapy": "380321533"
+    },
+    {
+      "title": "미도<b>갈비</b>",
+      "link": "https://www.youtube.com/watch?v=IyidpeOR-UM",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-13 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로15길 25 1층",
+      "mapx": "1269861462",
+      "mapy": "375687918"
+    },
+    {
+      "title": "대릉<b>갈비</b>",
+      "link": "http://instagram.com/daerunggb_?utm_medium=copy_link",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "경상북도 경주시 황남동 231 1층",
+      "roadAddress": "경상북도 경주시 포석로1068번길 27 1층",
+      "mapx": "1292124072",
+      "mapy": "358358799"
+    },
+    {
+      "title": "백제<b>갈비</b> 본점",
+      "link": "https://baekje-galbi.wywh.co.kr/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 9 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
-      "mapx": "1269846160",
-      "mapy": "375794433"
+      "address": "경기도 안성시 원곡면 외가천리 248-8 백제갈비",
+      "roadAddress": "경기도 안성시 원곡면 만세로 1443-8 백제갈비",
+      "mapx": "1271277471",
+      "mapy": "370344617"
     },
     {
-      "title": "안국약방",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "해운대암소<b>갈비</b>집",
+      "link": "https://app.catchtable.co.kr/ct/shop/hgh",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 91 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 4 1층",
-      "mapx": "1269861688",
-      "mapy": "375773871"
-    },
-    {
-      "title": "우솔",
-      "link": "https://app.catchtable.co.kr/ct/shop/woosol?type=DINING",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 129",
-      "roadAddress": "서울특별시 종로구 율곡로5길 14",
-      "mapx": "1269850136",
-      "mapy": "375771370"
-    },
-    {
-      "title": "봉이밥 삼청동점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
-    },
-    {
-      "title": "룻 안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/ROOTroot?from=share&type=NONE",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 9",
-      "roadAddress": "서울특별시 종로구 율곡로1길 54-1",
-      "mapx": "1269809760",
-      "mapy": "375782906"
+      "address": "부산광역시 해운대구 중동 1225-1 해운대암소갈비집",
+      "roadAddress": "부산광역시 해운대구 해운대해변로 333 해운대암소갈비집",
+      "mapx": "1291664355",
+      "mapy": "351632313"
     }
   ]
 }

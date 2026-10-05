@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:16 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 정동길 37",
       "mapx": "1269724678",
       "mapy": "375659578"
-    },
-    {
-      "title": "베테랑<b>칼국수</b> 롯데본점",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 B1F",
-      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 B1F",
-      "mapx": "1269809861",
-      "mapy": "375646815"
     },
     {
       "title": "인천집",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
       "mapx": "1269759250",
       "mapy": "375686250"
+    },
+    {
+      "title": "베테랑<b>칼국수</b> 롯데본점",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 B1F",
+      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 B1F",
+      "mapx": "1269809861",
+      "mapy": "375646815"
     },
     {
       "title": "현대<b>칼국수</b>",

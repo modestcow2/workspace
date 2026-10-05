@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:30 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:54 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375622716"
     },
     {
-      "title": "신가원 설렁탕",
+      "title": "잼배옥",
       "link": "",
       "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 141 신가원설렁탕",
-      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
-      "mapx": "1269815002",
-      "mapy": "375670246"
+      "address": "서울특별시 중구 서소문동 64-4",
+      "roadAddress": "서울특별시 중구 세종대로9길 68-9",
+      "mapx": "1269737271",
+      "mapy": "375625022"
     }
   ]
 }

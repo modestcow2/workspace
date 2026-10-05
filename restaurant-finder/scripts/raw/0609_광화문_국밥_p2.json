@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:55 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:22:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "<b>광화문국밥</b>",
+      "link": "https://gwanghwamungukbap.netlify.app/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-48",
+      "roadAddress": "서울특별시 중구 세종대로21길 53",
+      "mapx": "1269754124",
+      "mapy": "375689749"
+    },
     {
       "title": "안암",
       "link": "http://instagram.com/anam_inanguk",
@@ -16,18 +27,7 @@
       "mapy": "375794197"
     },
     {
-      "title": "<b>광화문국밥</b>",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 1-48",
-      "roadAddress": "서울특별시 중구 세종대로21길 53",
-      "mapx": "1269754124",
-      "mapy": "375689749"
-    },
-    {
-      "title": "엄용백 돼지<b>국밥</b>",
+      "title": "엄용백 돼지<b>국밥</b> 종각점",
       "link": "https://www.instagram.com/umyongbaek_kr/",
       "category": "한식>국밥",
       "description": "",
@@ -38,26 +38,26 @@
       "mapy": "375718777"
     },
     {
-      "title": "북촌무궁화",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 137",
-      "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
-      "mapy": "375723618"
-    },
-    {
-      "title": "합천돼지<b>국밥</b>",
-      "link": "",
+      "title": "정짓간 부산역점",
+      "link": "https://menu.busan.go.kr/shop/info/CD_SHP_002389",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 290-1",
-      "roadAddress": "서울특별시 종로구 삼일대로 418-3",
-      "mapx": "1269879701",
-      "mapy": "375720097"
+      "address": "부산광역시 동구 초량동 470-1 1층, 2층",
+      "roadAddress": "부산광역시 동구 중앙대로209번길 11 1층, 2층",
+      "mapx": "1290391100",
+      "mapy": "351160220"
+    },
+    {
+      "title": "정짓간 신평본점",
+      "link": "https://menu.busan.go.kr/shop/info/CD_SHP_002355",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 사하구 신평동 408-2 1층 정짓간",
+      "roadAddress": "부산광역시 사하구 비봉로 6 1층 정짓간",
+      "mapx": "1289624388",
+      "mapy": "350957150"
     }
   ]
 }

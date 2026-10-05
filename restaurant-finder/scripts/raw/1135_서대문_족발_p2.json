@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:01 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:29:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "대현매운<b>족발</b> 본점",
+      "title": "연남<b>족발</b>1987 연남점",
       "link": "",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 104-25 1층",
-      "roadAddress": "서울특별시 서대문구 연세로2길 95 1층",
-      "mapx": "1269421576",
-      "mapy": "375571933"
+      "address": "서울특별시 마포구 동교동 152-23 1층",
+      "roadAddress": "서울특별시 마포구 동교로 222 1층",
+      "mapx": "1269239621",
+      "mapy": "375597891"
     },
     {
-      "title": "본가<b>서대문족발</b> 본점",
-      "link": "",
+      "title": "팔당<b>족발</b>",
+      "link": "http://paldangjokbal.jalib.site/",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 미근동 31-14",
-      "roadAddress": "서울특별시 서대문구 충정로6안길 54",
-      "mapx": "1269668935",
-      "mapy": "375644552"
+      "address": "서울특별시 강남구 논현동 116-3 201호",
+      "roadAddress": "서울특별시 강남구 학동로45길 7 201호",
+      "mapx": "1270378859",
+      "mapy": "375167428"
     },
     {
-      "title": "족삼리",
-      "link": "",
+      "title": "럭키<b>족발</b> 본점",
+      "link": "https://app.catchtable.co.kr/ct/shop/luckyjokbal?from=share&type=WAITING",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 115-5 1층",
-      "roadAddress": "서울특별시 서대문구 통일로 396-5 1층",
-      "mapx": "1269483970",
-      "mapy": "375854364"
+      "address": "인천광역시 미추홀구 용현동 629-100 1층",
+      "roadAddress": "인천광역시 미추홀구 토금중로 22 1층",
+      "mapx": "1266358644",
+      "mapy": "374534362"
     },
     {
-      "title": "<b>서대문</b>영양<b>족발</b> 본점",
-      "link": "",
+      "title": "양재<b>족발</b> 참족",
+      "link": "https://tiktok.com/@freeman3030",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 90-53 1층",
-      "roadAddress": "서울특별시 서대문구 통일로 377 1층",
-      "mapx": "1269491514",
-      "mapy": "375837552"
+      "address": "서울특별시 강남구 도곡동 946-10 1층",
+      "roadAddress": "서울특별시 강남구 도곡로2길 14 1층",
+      "mapx": "1270331974",
+      "mapy": "374887831"
     },
     {
-      "title": "신촌정직한<b>족발</b>",
-      "link": "https://app.catchtable.co.kr/ct/shop/shinchonhonestjokbal",
+      "title": "<b>족발</b>의격 율량점",
+      "link": "https://www.instagram.com/quality_of_jockbal/",
       "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 53-33 1층",
-      "roadAddress": "서울특별시 서대문구 연세로7안길 51 1층",
-      "mapx": "1269340235",
-      "mapy": "375583477"
+      "address": "충청북도 청주시 청원구 율량동 2072 1층",
+      "roadAddress": "충청북도 청주시 청원구 1순환로 136 1층",
+      "mapx": "1274973771",
+      "mapy": "366643926"
     }
   ]
 }

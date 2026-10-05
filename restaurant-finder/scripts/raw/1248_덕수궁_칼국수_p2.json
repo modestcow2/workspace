@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:55 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:30:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,39 @@
       "mapy": "375659578"
     },
     {
+      "title": "명동교자 본점",
+      "link": "http://www.mdkj.co.kr/",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 64-6",
+      "roadAddress": "서울특별시 중구 퇴계로 129",
+      "mapx": "1269861471",
+      "mapy": "375611325"
+    },
+    {
+      "title": "효담<b>칼국수</b> 닭한마리 명동본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25 B1층",
+      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "mapx": "1269836320",
+      "mapy": "375642444"
+    },
+    {
+      "title": "배터지는집 동막손<b>칼국수</b>명가",
+      "link": "https://www.bluer.co.kr/restaurants/56177",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "인천광역시 강화군 화도면 사기리 481-17 1층",
+      "roadAddress": "인천광역시 강화군 화도면 해안남로 1279 1층",
+      "mapx": "1264579664",
+      "mapy": "376022549"
+    },
+    {
       "title": "명동<b>칼국수</b>",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
       "mapx": "1269759250",
       "mapy": "375686250"
-    },
-    {
-      "title": "봉평 옹심이 막국수",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 평동 164 2층 ( 164, 적십자 별관)",
-      "roadAddress": "서울특별시 종로구 새문안로 9 2층 (평동 164, 적십자 별관)",
-      "mapx": "1269673144",
-      "mapy": "375669020"
-    },
-    {
-      "title": "승환네닭한마리",
-      "link": "https://instagram.com/seunghwan_dakhanmari?igshid=6omq6gljx2oa",
-      "category": "한식>닭요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 서소문동 52-2",
-      "roadAddress": "서울특별시 중구 서소문로 109-7",
-      "mapx": "1269731209",
-      "mapy": "375633462"
-    },
-    {
-      "title": "졍동국시",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 22-2 지층",
-      "roadAddress": "서울특별시 중구 정동길 5 지층",
-      "mapx": "1269699299",
-      "mapy": "375678727"
     }
   ]
 }

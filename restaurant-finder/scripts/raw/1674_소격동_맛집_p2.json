@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:14 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:35:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "봉이밥 삼청동점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
-    },
-    {
-      "title": "포스톤즈 삼청점",
-      "link": "https://smartstore.naver.com/fourstones/",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 105-10 수제비 옆 골목",
-      "roadAddress": "서울특별시 종로구 삼청로 103-4 삼청동 수제비 옆 골목",
-      "mapx": "1269816589",
-      "mapy": "375847732"
-    },
     {
       "title": "삼청동수제비",
       "link": "http://www.삼청동수제비.kr",
@@ -38,26 +16,48 @@
       "mapy": "375845273"
     },
     {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
+      "title": "포스톤즈 삼청",
+      "link": "https://smartstore.naver.com/fourstones/",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
+      "address": "서울특별시 종로구 삼청동 105-10 수제비 옆 골목",
+      "roadAddress": "서울특별시 종로구 삼청로 103-4 삼청동 수제비 옆 골목",
+      "mapx": "1269816589",
+      "mapy": "375847732"
     },
     {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
+      "title": "봉이밥 삼청동점",
+      "link": "https://www.instagram.com/bong_ee_bab",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
+      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
+      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
+      "mapx": "1269822067",
+      "mapy": "375842989"
+    },
+    {
+      "title": "서울서둘째로잘하는집",
+      "link": "",
+      "category": "카페,디저트>차",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 28-21",
+      "roadAddress": "서울특별시 종로구 삼청로 122-1",
+      "mapx": "1269818065",
+      "mapy": "375862618"
+    },
+    {
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
     }
   ]
 }

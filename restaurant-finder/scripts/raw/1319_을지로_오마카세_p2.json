@@ -1,41 +1,52 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:28 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:31:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "스시 소우카이",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushi_soukai",
+      "title": "서울 <b>오마카세</b> 우미마토 마곡본점",
+      "link": "https://catchtable.co.kr/umimato",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로5가 274-1 지하1층",
-      "roadAddress": "서울특별시 중구 동호로35길 5 지하1층",
-      "mapx": "1270019924",
-      "mapy": "375662037"
+      "address": "서울특별시 강서구 마곡동 774-3 센테니아 114호",
+      "roadAddress": "서울특별시 강서구 공항대로 219 센테니아 114호",
+      "mapx": "1268323103",
+      "mapy": "375594735"
     },
     {
-      "title": "지지타운",
-      "link": "https://catchtable.co.kr/ggtown",
-      "category": "술집>이자카야",
+      "title": "스시산원 궁",
+      "link": "https://www.instagram.com/sushi_sanwongung/",
+      "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 349-1 3층",
-      "roadAddress": "서울특별시 중구 수표로 52 3층",
-      "mapx": "1269899946",
-      "mapy": "375657753"
+      "address": "서울특별시 종로구 중학동 19 케이트윈타워 지하 1층 제14호",
+      "roadAddress": "서울특별시 종로구 종로1길 50 케이트윈타워 지하 1층 제14호",
+      "mapx": "1269788207",
+      "mapy": "375746201"
     },
     {
-      "title": "<b>을지로</b>화랑",
-      "link": "https://app.catchtable.co.kr/ct/shop/euljiro_hwarang?from=share&type=DINING",
-      "category": "음식점>한식",
+      "title": "<b>오마카세</b> 오사이초밥 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
+      "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 320-12 2층",
-      "roadAddress": "서울특별시 중구 을지로12길 17 2층",
-      "mapx": "1269910811",
-      "mapy": "375654607"
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "스무고개 해운대점",
+      "link": "https://www.instagram.com/smugogae_haeundae/reels/?__d=1%2F",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 해운대구 중동 742-4 1층, 2층",
+      "roadAddress": "부산광역시 해운대구 좌동순환로468번가길 81 1층, 2층",
+      "mapx": "1291750243",
+      "mapy": "351645962"
     },
     {
       "title": "스시소라 <b>을지로</b>점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 을지로 170 1층 105호",
       "mapx": "1269973271",
       "mapy": "375661387"
-    },
-    {
-      "title": "니카이",
-      "link": "https://www.instagram.com/nikai_eulji",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로5가 35-1 2층 201호",
-      "roadAddress": "서울특별시 중구 을지로 219 2층 201호",
-      "mapx": "1270025647",
-      "mapy": "375670875"
     }
   ]
 }

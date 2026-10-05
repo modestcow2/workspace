@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:03 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:34:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375812929"
     },
     {
+      "title": "나누미떡볶이 성대본점",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 225",
+      "roadAddress": "서울특별시 종로구 성균관로 9-1",
+      "mapx": "1269979360",
+      "mapy": "375837519"
+    },
+    {
       "title": "신세계떡볶이",
       "link": "",
       "category": "분식>떡볶이",
@@ -27,37 +38,26 @@
       "mapy": "375642992"
     },
     {
-      "title": "나누미떡볶이 성대본점",
+      "title": "자매<b>분식</b>",
       "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로5가 274-12",
+      "roadAddress": "서울특별시 중구 을지로36길 23",
+      "mapx": "1270017035",
+      "mapy": "375655379"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
       "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 명륜2가 225",
-      "roadAddress": "서울특별시 종로구 성균관로 9-1",
-      "mapx": "1269979068",
-      "mapy": "375837668"
-    },
-    {
-      "title": "남이<b>분식</b>",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로5가 281-2",
-      "roadAddress": "서울특별시 종로구 종로40가길 3",
-      "mapx": "1270065350",
-      "mapy": "375701990"
-    },
-    {
-      "title": "둘리네<b>분식</b>",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 혜화동 144",
-      "roadAddress": "서울특별시 종로구 창경궁로34길 15",
-      "mapx": "1270011471",
-      "mapy": "375843779"
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:23 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:20:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375763740"
     },
     {
-      "title": "뼈탄집 서촌본점",
-      "link": "http://www.bornpig.co.kr/index2.php",
+      "title": "도틔대가",
+      "link": "https://catchtable.co.kr/dottydaega",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 9-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 13",
-      "mapx": "1269717062",
-      "mapy": "375764468"
+      "address": "서울특별시 종로구 체부동 54-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
+      "mapx": "1269720264",
+      "mapy": "375765472"
     }
   ]
 }

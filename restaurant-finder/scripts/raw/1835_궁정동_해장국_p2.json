@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:27 +0900",
+  "lastBuildDate": "Mon, 05 Oct 2026 19:37:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375750276"
     },
     {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
-    {
       "title": "대장금",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 35-2 백암 박가네 순대국",
       "mapx": "1269710531",
       "mapy": "375791821"
+    },
+    {
+      "title": "이서방네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
     }
   ]
 }

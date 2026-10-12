@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:33 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:49:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
-      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
-      "mapx": "1269869447",
-      "mapy": "375581107"
-    },
-    {
-      "title": "고우가 광화문점",
-      "link": "https://go.catchtable.co.kr/jrrhv4v",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "mapx": "1269782701",
-      "mapy": "375684246"
-    },
     {
       "title": "남포면옥",
       "link": "",
@@ -38,6 +16,17 @@
       "mapy": "375671396"
     },
     {
+      "title": "고우가 광화문점",
+      "link": "https://gowoofnb.com/",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
+      "mapx": "1269782701",
+      "mapy": "375684246"
+    },
+    {
       "title": "목멱산방 남산타워점",
       "link": "http://instagram.com/m_horaeng",
       "category": "음식점>한식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 중구 남산공원길 627",
       "mapx": "1269853285",
       "mapy": "375553582"
+    },
+    {
+      "title": "목멱산방",
+      "link": "https://www.instagram.com/mmsb___official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
+      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
+      "mapx": "1269869447",
+      "mapy": "375581107"
     },
     {
       "title": "오징어풍경 무교동점",

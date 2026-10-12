@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:52 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:35:52 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375684246"
     },
     {
-      "title": "독립밀방 익선",
-      "link": "http://www.instagram.com/dongnip_millbang",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
-      "mapx": "1269902619",
-      "mapy": "375740791"
-    },
-    {
       "title": "정원레스토랑 어반가든",
       "link": "http://urbangarden.co.kr",
       "category": "음식점>양식",
@@ -45,19 +34,30 @@
       "telephone": "",
       "address": "서울특별시 중구 정동 28-2",
       "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
+      "mapx": "1269692007",
+      "mapy": "375674315"
     },
     {
-      "title": "루뽀",
-      "link": "https://app.catchtable.co.kr/ct/shop/luposeoul?from=share&type=DINING",
+      "title": "광화문나폴리 본점",
+      "link": "https://www.instagram.com/gwanghwamun_napoli?igsh=MWcycXBpbXZnaDF3dg%3D%3D&utm_source=qr",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 도렴동 65 센터포인트 빌딩 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
-      "mapx": "1269743036",
-      "mapy": "375730456"
+      "address": "서울특별시 종로구 세종로 173-1 1층, 2층",
+      "roadAddress": "서울특별시 종로구 새문안로9길 24-4 1층, 2층",
+      "mapx": "1269759158",
+      "mapy": "375714544"
+    },
+    {
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
     }
   ]
 }

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:18 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:42:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "플러스84",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 106",
+      "roadAddress": "서울특별시 종로구 인사동16길 6",
+      "mapx": "1269841999",
+      "mapy": "375750122"
+    },
     {
       "title": "포브라더스 종로점",
       "link": "http://4brothers.kr/",
@@ -16,15 +27,15 @@
       "mapy": "375707628"
     },
     {
-      "title": "플러스84",
-      "link": "",
+      "title": "호앙비엣 종각역점",
+      "link": "https://hoang-viet.com/",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 106",
-      "roadAddress": "서울특별시 종로구 인사동16길 6",
-      "mapx": "1269841999",
-      "mapy": "375750122"
+      "address": "서울특별시 종로구 견지동 110-43 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 43 1층",
+      "mapx": "1269828093",
+      "mapy": "375728773"
     },
     {
       "title": "얌얌스파이스",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 우정국로 26 지하2층 비203호",
       "mapx": "1269836590",
       "mapy": "375714967"
-    },
-    {
-      "title": "호앙비엣 종각역점",
-      "link": "https://hoang-viet.com/",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-43 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 43 1층",
-      "mapx": "1269828093",
-      "mapy": "375728773"
     }
   ]
 }

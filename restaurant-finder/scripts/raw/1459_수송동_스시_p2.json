@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:33 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:51:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>스시</b>미치루",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
-      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
-      "mapx": "1269789959",
-      "mapy": "375739044"
-    },
     {
       "title": "<b>스시</b>키마에",
       "link": "https://catchtable.co.kr/sushikimae",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 141호",
       "mapx": "1269818155",
       "mapy": "375723952"
+    },
+    {
+      "title": "<b>스시</b>미치루",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
+      "mapx": "1269789959",
+      "mapy": "375739044"
     },
     {
       "title": "VIP참치 종로구청점",
@@ -49,15 +49,15 @@
       "mapy": "375728786"
     },
     {
-      "title": "<b>스시</b>우미 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushiumi_ghm",
-      "category": "음식점>일식>초밥,롤",
+      "title": "동해도 광화문점",
+      "link": "https://www.instagram.com/donghaedo1987",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B113",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B113",
-      "mapx": "1269815061",
-      "mapy": "375725618"
+      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
+      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
+      "mapx": "1269794820",
+      "mapy": "375684296"
     }
   ]
 }

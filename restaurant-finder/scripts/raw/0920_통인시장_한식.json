@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:20 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:44:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "잘빠진메밀 서촌 본점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 120",
-      "roadAddress": "서울특별시 종로구 자하문로11길 4",
-      "mapx": "1269709994",
-      "mapy": "375796715"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
-    {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
-    },
-    {
-      "title": "자하문로118 들풀",
+      "title": "봉혜자네주방 종로타워점",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B206, B207호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206, B207호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
     },
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
+      "title": "신라제면 안국점",
+      "link": "https://www.k-delicious.kr/",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
+      "mapx": "1269862338",
+      "mapy": "375782217"
+    },
+    {
+      "title": "고씨네동해막국수 종로직영점",
+      "link": "https://blog.naver.com/hjwm0116",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 68 1층",
+      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
+      "mapx": "1269846887",
+      "mapy": "375744624"
+    },
+    {
+      "title": "삼청동수제비",
+      "link": "http://www.삼청동수제비.kr",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 99",
+      "roadAddress": "서울특별시 종로구 삼청로 101-1",
+      "mapx": "1269819599",
+      "mapy": "375845273"
+    },
+    {
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
     }
   ]
 }

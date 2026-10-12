@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:33 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:54:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,26 +27,26 @@
       "mapy": "375837523"
     },
     {
+      "title": "연남토마 북촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yntm_bc",
+      "category": "음식점>퓨전음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 화동 138-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39 1층",
+      "mapx": "1269827234",
+      "mapy": "375793518"
+    },
+    {
       "title": "슬로우파크",
       "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
-    },
-    {
-      "title": "편안한집",
-      "link": "https://ahome.imweb.me/",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 27-3",
-      "roadAddress": "서울특별시 종로구 북촌로 133",
-      "mapx": "1269833492",
-      "mapy": "375873030"
+      "address": "서울특별시 종로구 삼청동 15-2 건물 앞뒤면 주차",
+      "roadAddress": "서울특별시 종로구 삼청로 141 건물 앞뒤면 주차",
+      "mapx": "1269815122",
+      "mapy": "375879036"
     },
     {
       "title": "스미스가 좋아하는 테라스",

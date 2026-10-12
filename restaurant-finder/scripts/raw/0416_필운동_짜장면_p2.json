@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:24 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:38:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375801579"
     },
     {
-      "title": "도원",
+      "title": "뉴문",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 평동 164 서울적십자병원 별관 3층 도원",
-      "roadAddress": "서울특별시 종로구 새문안로 9 서울적십자병원 별관 3층 도원",
-      "mapx": "1269673413",
-      "mapy": "375669224"
+      "address": "서울특별시 종로구 내수동 110-39 지상2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 6 지상2층",
+      "mapx": "1269709962",
+      "mapy": "375726484"
     }
   ]
 }

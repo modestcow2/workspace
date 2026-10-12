@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:27 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:49:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375647060"
     },
     {
+      "title": "그라츠과자점",
+      "link": "http://www.graz.co.kr/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로2가 149-10 을지로지하쇼핑센터2구역 374",
+      "roadAddress": "서울특별시 중구 을지로 88 을지로지하쇼핑센터2구역 374",
+      "mapx": "1269868693",
+      "mapy": "375661527"
+    },
+    {
       "title": "훅트포케 <b>을지로</b>점",
       "link": "https://www.hookedpoke.co.kr/",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -27,6 +38,17 @@
       "mapy": "375666400"
     },
     {
+      "title": "프로티너 <b>을지로</b>3가역점",
+      "link": "https://www.instagram.com/proteiner_euljiro3",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 107-1 타워 107 지하1층 B103호",
+      "roadAddress": "서울특별시 중구 마른내로 27 타워 107 지하1층 B103호",
+      "mapx": "1269912315",
+      "mapy": "375647203"
+    },
+    {
       "title": "살라아띠 두타점",
       "link": "https://www.instagram.com/salaatti_",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -34,30 +56,8 @@
       "telephone": "",
       "address": "서울특별시 중구 을지로6가 18-12 두산타워빌딩 B2층 FB104호",
       "roadAddress": "서울특별시 중구 장충단로 275 두산타워빌딩 B2층 FB104호",
-      "mapx": "1270087832",
-      "mapy": "375688912"
-    },
-    {
-      "title": "잇츠크리스피",
-      "link": "",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 204 삼화타워",
-      "roadAddress": "서울특별시 중구 을지로5길 16 삼화타워",
-      "mapx": "1269846906",
-      "mapy": "375670014"
-    },
-    {
-      "title": "그라츠과자점",
-      "link": "http://www.graz.co.kr/",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 149-10 을지로지하쇼핑센터2구역 374",
-      "roadAddress": "서울특별시 중구 을지로 88 을지로지하쇼핑센터2구역 374",
-      "mapx": "1269868693",
-      "mapy": "375661527"
+      "mapx": "1270090817",
+      "mapy": "375685244"
     }
   ]
 }

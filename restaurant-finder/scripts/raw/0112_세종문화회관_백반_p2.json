@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:58 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:34:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375632872"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
-    {
-      "title": "전주풍남<b>회관</b>",
-      "link": "",
+      "title": "도마 인사동점",
+      "link": "https://www.instagram.com/doma_insa/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
+      "address": "서울특별시 종로구 관훈동 15-1 1층 도마",
+      "roadAddress": "서울특별시 종로구 인사동8길 6-1 1층 도마",
+      "mapx": "1269858347",
+      "mapy": "375738125"
+    },
+    {
+      "title": "돈맛꿀",
+      "link": "https://blog.naver.com/pig_money_honey",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 179 지상 1층",
+      "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
+      "mapx": "1269895649",
+      "mapy": "375710740"
     }
   ]
 }

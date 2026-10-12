@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:53 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:34:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,48 +16,48 @@
       "mapy": "375704933"
     },
     {
-      "title": "디라이프스타일키친 광화문점",
-      "link": "https://dlifestyle.co.kr/",
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
-      "mapx": "1269782701",
-      "mapy": "375684246"
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
     },
     {
-      "title": "루뽀",
-      "link": "https://app.catchtable.co.kr/ct/shop/luposeoul?from=share&type=DINING",
+      "title": "퍼블릭도원 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/publicdowon",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 도렴동 65 센터포인트 빌딩 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
-      "mapx": "1269743036",
-      "mapy": "375730456"
+      "address": "서울특별시 종로구 권농동 189-2 2층",
+      "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
+      "mapx": "1269921439",
+      "mapy": "375742047"
     },
     {
-      "title": "정원레스토랑 어반가든",
-      "link": "http://urbangarden.co.kr",
+      "title": "<b>파스타</b> 타타 pasta ta ta",
+      "link": "https://app.catchtable.co.kr/ct/shop/pastatata",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 28-2",
-      "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
+      "address": "서울특별시 중구 다동 115 스몰하우스 빅도어 1층",
+      "roadAddress": "서울특별시 중구 남대문로9길 6 스몰하우스 빅도어 1층",
+      "mapx": "1269819673",
+      "mapy": "375669492"
     },
     {
-      "title": "까사 이태리아",
-      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
-      "category": "음식점>이탈리아음식",
+      "title": "더 시옷",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesiot",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
-      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
-      "mapx": "1269723542",
-      "mapy": "375787841"
+      "address": "서울특별시 중구 저동2가 47-15 OK빌딩 2층",
+      "roadAddress": "서울특별시 중구 수표로 30 OK빌딩 2층",
+      "mapx": "1269903062",
+      "mapy": "375638355"
     }
   ]
 }

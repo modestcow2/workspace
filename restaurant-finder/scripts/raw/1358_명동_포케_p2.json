@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:45 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:49:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "훅트<b>포케</b> 을지로점",
-      "link": "https://www.hookedpoke.co.kr/",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
-      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
-      "mapx": "1269887654",
-      "mapy": "375666400"
-    },
     {
       "title": "벤자민<b>포케</b>엔샐러드",
       "link": "https://www.instagram.com/benjamin_pokesalad",
@@ -27,37 +16,48 @@
       "mapy": "375593277"
     },
     {
-      "title": "르베지왕 을지공간",
-      "link": "http://www.levegiwang.com/",
+      "title": "훅트<b>포케</b> 을지로점",
+      "link": "https://www.hookedpoke.co.kr/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 116 2층",
-      "roadAddress": "서울특별시 중구 남대문로9길 10 2층",
-      "mapx": "1269818830",
-      "mapy": "375668000"
+      "address": "서울특별시 중구 을지로2가 101-30 1층 훅트",
+      "roadAddress": "서울특별시 중구 삼일대로12길 18 1층 훅트",
+      "mapx": "1269887654",
+      "mapy": "375666400"
     },
     {
-      "title": "샐러링 광화문점",
-      "link": "https://salaring.com/",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "비건키친",
+      "link": "",
+      "category": "뷔페>채식,샐러드뷔페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 85 1층 101호",
-      "roadAddress": "서울특별시 중구 남대문로 125 다동 1층 101호",
-      "mapx": "1269822027",
-      "mapy": "375682184"
+      "address": "서울특별시 중구 남산동2가 15-11 1층",
+      "roadAddress": "서울특별시 중구 퇴계로20길 21 1층",
+      "mapx": "1269859469",
+      "mapy": "375592631"
     },
     {
-      "title": "슬로우캘리 을지로점",
-      "link": "http://www.slowcali.co.kr",
+      "title": "더타코부스 남산점",
+      "link": "",
+      "category": "음식점>양식>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 49-32 1층 (남산동 2가)",
+      "roadAddress": "서울특별시 중구 소파로 103-1 1층 (남산동 2가)",
+      "mapx": "1269858709",
+      "mapy": "375571988"
+    },
+    {
+      "title": "프레퍼스 다이어트 푸드 광화문점",
+      "link": "https://www.instagram.com/preppers_gwanghwamun/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 수하동 67 미래에셋센터원 지1층 118호",
-      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋센터원 지1층 118호",
-      "mapx": "1269850954",
-      "mapy": "375672787"
+      "address": "서울특별시 중구 태평로1가 84 B2층 210호",
+      "roadAddress": "서울특별시 중구 세종대로 136 B2층 210호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     }
   ]
 }

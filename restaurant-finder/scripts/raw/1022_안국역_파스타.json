@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:09 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:45:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,30 +12,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 중학동 14 B동 1층 102-103호",
       "roadAddress": "서울특별시 종로구 율곡로 6 B동 1층 102-103호",
-      "mapx": "1269805312",
-      "mapy": "375755019"
-    },
-    {
-      "title": "루시드 서울",
-      "link": "http://instagram.com/lucyd_seoul",
-      "category": "음식점>브런치",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 운니동 62-1 1층 101호",
-      "roadAddress": "서울특별시 종로구 삼일대로32길 45 1층 101호",
-      "mapx": "1269895257",
-      "mapy": "375756045"
-    },
-    {
-      "title": "스미스가좋아하는한옥",
-      "link": "https://www.instagram.com/smith_hanok",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 62-1",
-      "roadAddress": "서울특별시 종로구 삼청로 22-7",
-      "mapx": "1269801792",
-      "mapy": "375779378"
+      "mapx": "1269806761",
+      "mapy": "375755559"
     },
     {
       "title": "로우파이브 안국",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
       "mapx": "1269856635",
       "mapy": "375791098"
+    },
+    {
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
+    },
+    {
+      "title": "이태리재",
+      "link": "https://www.instagram.com/italyjae",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 158-1",
+      "roadAddress": "서울특별시 종로구 율곡로1길 74-9",
+      "mapx": "1269817287",
+      "mapy": "375787922"
     }
   ]
 }

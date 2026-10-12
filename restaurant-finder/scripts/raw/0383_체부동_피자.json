@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:08 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:37:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375756345"
     },
     {
-      "title": "김용현베이커리",
-      "link": "",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 32-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 21 1층",
-      "mapx": "1269716282",
-      "mapy": "375780065"
-    },
-    {
       "title": "한옥달 레스토랑",
       "link": "https://catchtable.co.kr/ct/shop/hanokdal",
       "category": "이탈리아음식>스파게티,파스타전문",
@@ -38,6 +27,17 @@
       "mapy": "375769814"
     },
     {
+      "title": "김용현베이커리",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 32-2 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 21 1층",
+      "mapx": "1269716282",
+      "mapy": "375780065"
+    },
+    {
       "title": "뮤추얼사운드클럽",
       "link": "http://www.instagram.com/mutualsoundclub",
       "category": "술집>바(BAR)",
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 종로구 체부동 30 3층",
       "roadAddress": "서울특별시 종로구 자하문로 23 3층",
-      "mapx": "1269715166",
-      "mapy": "375780520"
+      "mapx": "1269714908",
+      "mapy": "375780883"
     },
     {
-      "title": "준수방키친",
-      "link": "https://app.catchtable.co.kr/ct/shop/junsubangkitchen?from=share&type=WAITING",
-      "category": "음식점>이탈리아음식",
+      "title": "스파게티가있는풍경 광화문점",
+      "link": "https://www.instagram.com/pomodori_park",
+      "category": "이탈리아음식>스파게티,파스타전문",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 122 준수방키친",
-      "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
-      "mapx": "1269708097",
-      "mapy": "375796788"
+      "address": "서울특별시 종로구 신문로1가 1-1 2층",
+      "roadAddress": "서울특별시 종로구 새문안로 103-1 2층",
+      "mapx": "1269761832",
+      "mapy": "375704933"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:31 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:51:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375745591"
     },
     {
-      "title": "백년가<b>짬뽕</b> 광화문점",
-      "link": "",
+      "title": "크리스탈제이드 광화문상하이팰리스점",
+      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
       "category": "음식점>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 지하1층 백년가짬뽕",
-      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 지하1층 백년가짬뽕",
-      "mapx": "1269789959",
-      "mapy": "375739044"
+      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
+      "mapx": "1269814479",
+      "mapy": "375750528"
     },
     {
       "title": "홍복성",
@@ -38,18 +38,18 @@
       "mapy": "375725618"
     },
     {
-      "title": "크리스탈제이드 광화문상하이팰리스점",
-      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
+      "title": "백년가<b>짬뽕</b> 광화문점",
+      "link": "",
       "category": "음식점>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
-      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
-      "mapx": "1269814479",
-      "mapy": "375750528"
+      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 지하1층 백년가짬뽕",
+      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 지하1층 백년가짬뽕",
+      "mapx": "1269789959",
+      "mapy": "375739044"
     },
     {
-      "title": "금문도",
+      "title": "금문도 <b>수송동</b>점",
       "link": "",
       "category": "중식>중식당",
       "description": "",

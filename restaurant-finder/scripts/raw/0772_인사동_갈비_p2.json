@@ -1,11 +1,11 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:11 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:42:38 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "정선할매곤드레 본점",
+      "title": "간장게장에 진심인 정선할매",
       "link": "",
       "category": "음식점>한식",
       "description": "",
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 인사동8길 16 1층",
       "mapx": "1269859897",
       "mapy": "375741541"
-    },
-    {
-      "title": "어부몽 인사점",
-      "link": "https://www.instagram.com/abumong.2024",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 3층",
-      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
-      "mapx": "1269835556",
-      "mapy": "375744663"
     },
     {
       "title": "도마 <b>인사동</b>점",
@@ -38,17 +27,6 @@
       "mapy": "375738125"
     },
     {
-      "title": "신사동인동 안녕<b>인사동</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
-    },
-    {
       "title": "사리원불고기[본사] 안녕<b>인사동</b>점",
       "link": "http://www.sariwon.co.kr",
       "category": "한식>육류,고기요리",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 4층",
       "mapx": "1269834384",
       "mapy": "375743233"
+    },
+    {
+      "title": "어부몽 인사점",
+      "link": "https://www.instagram.com/abumong.2024",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 3층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
+      "mapx": "1269835556",
+      "mapy": "375744663"
+    },
+    {
+      "title": "<b>인사동</b> 6842 고기밥상",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 2-3",
+      "roadAddress": "서울특별시 종로구 인사동길 30-14",
+      "mapx": "1269862953",
+      "mapy": "375736969"
     }
   ]
 }

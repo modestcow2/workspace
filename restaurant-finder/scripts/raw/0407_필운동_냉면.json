@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:20 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:38:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375771457"
     },
     {
-      "title": "서촌기와집 본점",
-      "link": "http://서촌기와집.com/",
-      "category": "음식점>한식",
+      "title": "삼정하누 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 204-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 35",
-      "mapx": "1269702575",
-      "mapy": "375765504"
+      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
+      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
+      "mapx": "1269701780",
+      "mapy": "375750298"
     },
     {
       "title": "이가면옥",
@@ -49,15 +49,15 @@
       "mapy": "375763740"
     },
     {
-      "title": "삼정하누 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
-      "category": "한식>소고기구이",
+      "title": "광화문면옥",
+      "link": "https://www.instagram.com/gwanghwamun_myeonok/",
+      "category": "한식>냉면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 297-2 1층~2층",
-      "roadAddress": "서울특별시 종로구 사직로8길 11 1층~2층",
-      "mapx": "1269701780",
-      "mapy": "375750298"
+      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
+      "mapx": "1269747363",
+      "mapy": "375698520"
     }
   ]
 }

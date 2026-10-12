@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:15 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:33:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 103 지하",
       "mapx": "1269760717",
       "mapy": "375704856"
+    },
+    {
+      "title": "모노<b>커리</b>",
+      "link": "",
+      "category": "음식점>일식>카레",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 163 B1층 105호",
+      "roadAddress": "서울특별시 종로구 새문안로 92 B1층 105호",
+      "mapx": "1269749335",
+      "mapy": "375697325"
     },
     {
       "title": "카츠큐브",

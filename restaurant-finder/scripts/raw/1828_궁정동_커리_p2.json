@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:24 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:55:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
-    },
     {
       "title": "맘스키친",
       "link": "https://app.catchtable.co.kr/ct/shop/momskitchen",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 필운대로6길 20-1 1층",
       "mapx": "1269695266",
       "mapy": "375803365"
+    },
+    {
+      "title": "밥+",
+      "link": "https://www.instagram.com/seochon_bob_plus",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 77-15",
+      "roadAddress": "서울특별시 종로구 옥인길 9",
+      "mapx": "1269680075",
+      "mapy": "375804706"
     }
   ]
 }

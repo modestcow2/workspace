@@ -1,9 +1,42 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:40 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:49:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "포숑",
+      "link": "https://www.instagram.com/phosong_quan",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "경상남도 창원시 성산구 용호동 32-8 1층 포숑",
+      "roadAddress": "경상남도 창원시 성산구 용호로 109 1층 포숑",
+      "mapx": "1286831711",
+      "mapy": "352378460"
+    },
+    {
+      "title": "화화돈 성수점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 성동구 성수동2가 315-34 2층",
+      "roadAddress": "서울특별시 성동구 연무장7가길 3 2층",
+      "mapx": "1270548651",
+      "mapy": "375432368"
+    },
+    {
+      "title": "하롱베이 들안길본점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "대구광역시 수성구 두산동 152-4 1층",
+      "roadAddress": "대구광역시 수성구 들안로 34 1층",
+      "mapx": "1286172518",
+      "mapy": "358328385"
+    },
     {
       "title": "띤띤 SFC",
       "link": "https://www.instagram.com/tamarind_official/",
@@ -16,48 +49,15 @@
       "mapy": "375684612"
     },
     {
-      "title": "타이24",
-      "link": "",
-      "category": "음식점>태국음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-64 3층",
-      "roadAddress": "서울특별시 중구 명동9길 33 3층",
-      "mapx": "1269841157",
-      "mapy": "375652430"
-    },
-    {
-      "title": "꾸에흐엉",
-      "link": "",
+      "title": "호앙비엣 을지로입구역점",
+      "link": "https://hoang-viet.com/",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남산동2가 15-10 2층",
-      "roadAddress": "서울특별시 중구 퇴계로20길 19 2층",
-      "mapx": "1269859338",
-      "mapy": "375593818"
-    },
-    {
-      "title": "포언 시청점",
-      "link": "",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 155 센터플레이스 212호",
-      "roadAddress": "서울특별시 중구 남대문로9길 40 센터플레이스 212호",
-      "mapx": "1269803692",
-      "mapy": "375670959"
-    },
-    {
-      "title": "리틀하노이",
-      "link": "",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 32-27 해암빌딩 3층",
-      "roadAddress": "서울특별시 중구 명동8길 21-5 해암빌딩 3층",
-      "mapx": "1269851056",
-      "mapy": "375628354"
+      "address": "서울특별시 중구 남대문로1가 20 1층",
+      "roadAddress": "서울특별시 중구 남대문로 116 1층",
+      "mapx": "1269829722",
+      "mapy": "375674319"
     }
   ]
 }

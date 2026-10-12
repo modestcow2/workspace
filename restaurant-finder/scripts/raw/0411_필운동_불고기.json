@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:22 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:38:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375737152"
     },
     {
-      "title": "서촌기와집 본점",
-      "link": "http://서촌기와집.com/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 204-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 35",
-      "mapx": "1269702575",
-      "mapy": "375765504"
-    },
-    {
       "title": "삼정하누 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/sam_ghm",
       "category": "한식>소고기구이",
@@ -38,17 +27,6 @@
       "mapy": "375750298"
     },
     {
-      "title": "만가",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 206",
-      "roadAddress": "서울특별시 종로구 사직로 103-19",
-      "mapx": "1269703769",
-      "mapy": "375763740"
-    },
-    {
       "title": "경복궁미역",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +36,28 @@
       "roadAddress": "서울특별시 종로구 필운대로 4 1층",
       "mapx": "1269692731",
       "mapy": "375764904"
+    },
+    {
+      "title": "황금모이집",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 192 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 47 1층",
+      "mapx": "1269697526",
+      "mapy": "375767921"
+    },
+    {
+      "title": "만가",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 206",
+      "roadAddress": "서울특별시 종로구 사직로 103-19",
+      "mapx": "1269703769",
+      "mapy": "375763740"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:25 +0900",
+  "lastBuildDate": "Mon, 12 Oct 2026 19:47:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375646669"
     },
     {
-      "title": "바스버거 광화문점",
-      "link": "http://www.basburger.net",
-      "category": "양식>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 11 광일빌딩 지하1층",
-      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 지하1층",
-      "mapx": "1269797080",
-      "mapy": "375681229"
-    },
-    {
       "title": "맥도날드 서울시청점",
       "link": "https://www.mcdonalds.co.kr/",
       "category": "양식>햄버거",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로 136 SFC몰 B1층 다운타우너 광화문",
       "mapx": "1269782701",
       "mapy": "375684246"
+    },
+    {
+      "title": "브루클린더버거조인트 청계천점",
+      "link": "https://www.instagram.com/brooklyntheburgerjoint_ad",
+      "category": "음식점>양식>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 77",
+      "roadAddress": "서울특별시 중구 청계천로 14",
+      "mapx": "1269788595",
+      "mapy": "375688561"
     }
   ]
 }

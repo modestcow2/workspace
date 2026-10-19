@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:36 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:54:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "무구옥",
-      "link": "https://www.instagram.com/muguok_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 126-1 지상1층",
-      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
-      "mapx": "1269799066",
-      "mapy": "375764071"
-    },
-    {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
     {
       "title": "일미식당",
       "link": "http://cafe.naver.com/ilmicafe",
@@ -38,26 +16,48 @@
       "mapy": "375728300"
     },
     {
-      "title": "동백식당",
-      "link": "",
-      "category": "한식>국밥",
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
-      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
-      "mapx": "1269842899",
-      "mapy": "375765173"
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
     },
     {
-      "title": "밀과보리",
-      "link": "https://www.instagram.com/milbori_",
+      "title": "보돌미역 종로타워점",
+      "link": "http://bodolfood.com",
       "category": "한식>백반,가정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 140-47 1층",
-      "roadAddress": "서울특별시 종로구 창덕궁1길 32-1 1층",
-      "mapx": "1269875023",
-      "mapy": "375794104"
+      "address": "서울특별시 종로구 종로2가 6",
+      "roadAddress": "서울특별시 종로구 종로 51",
+      "mapx": "1269836223",
+      "mapy": "375707628"
+    },
+    {
+      "title": "도마 인사동점",
+      "link": "https://www.instagram.com/doma_insa/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 15-1 1층 도마",
+      "roadAddress": "서울특별시 종로구 인사동8길 6-1 1층 도마",
+      "mapx": "1269858347",
+      "mapy": "375738125"
+    },
+    {
+      "title": "인사동보리밥 본점",
+      "link": "https://smartstore.naver.com/greatsfb",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-17 지하1층",
+      "roadAddress": "서울특별시 종로구 인사동7길 37 지하1층",
+      "mapx": "1269847327",
+      "mapy": "375725991"
     }
   ]
 }

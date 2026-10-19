@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:01 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:54:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375793111"
     },
     {
-      "title": "깡통만두",
-      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-22 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
-      "mapx": "1269860918",
-      "mapy": "375781763"
-    },
-    {
       "title": "개성만두 궁",
       "link": "http://www.koong.co.kr/",
       "category": "분식>만두",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 인사동10길 11-3",
       "mapx": "1269853889",
       "mapy": "375742917"
+    },
+    {
+      "title": "깡통만두",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
     }
   ]
 }

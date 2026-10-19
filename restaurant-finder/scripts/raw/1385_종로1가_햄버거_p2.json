@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:58 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:59:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,28 @@
       "roadAddress": "서울특별시 종로구 종로 19 지하1층 B113-2, B113-3호",
       "mapx": "1269798147",
       "mapy": "375710182"
+    },
+    {
+      "title": "한국맥도날드",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가",
+      "roadAddress": "",
+      "mapx": "1269796830",
+      "mapy": "375704149"
+    },
+    {
+      "title": "한국맥도날드",
+      "link": "",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 1",
+      "roadAddress": "서울특별시 종로구 종로 1",
+      "mapx": "1269780820",
+      "mapy": "375705900"
     },
     {
       "title": "데일리픽스 을지로",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
       "mapx": "1269845845",
       "mapy": "375765164"
-    },
-    {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
-    },
-    {
-      "title": "버거드조선",
-      "link": "http://www.instagram.com/burger_de_joseon",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 147 1층",
-      "roadAddress": "서울특별시 종로구 사직로10길 7 1층",
-      "mapx": "1269704616",
-      "mapy": "375755982"
     }
   ]
 }

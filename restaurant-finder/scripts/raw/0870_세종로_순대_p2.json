@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:57 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:52:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,15 +27,15 @@
       "mapy": "375712514"
     },
     {
-      "title": "철길떡볶기",
-      "link": "",
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
       "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 충정로3가 150-1",
-      "roadAddress": "서울특별시 서대문구 충정로5길 11",
-      "mapx": "1269634943",
-      "mapy": "375626500"
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     },
     {
       "title": "호반",
@@ -49,15 +49,15 @@
       "mapy": "375733361"
     },
     {
-      "title": "북촌무궁화",
+      "title": "철길떡볶기",
       "link": "",
-      "category": "음식점>한식",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 137",
-      "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
-      "mapy": "375723618"
+      "address": "서울특별시 서대문구 충정로3가 150-1",
+      "roadAddress": "서울특별시 서대문구 충정로5길 11",
+      "mapx": "1269634943",
+      "mapy": "375626500"
     }
   ]
 }

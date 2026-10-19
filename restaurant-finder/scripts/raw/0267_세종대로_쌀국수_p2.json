@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:14 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:44:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,7 +16,7 @@
       "mapy": "375684612"
     },
     {
-      "title": "크루아타이",
+      "title": "크루아타이 서울역그랜드센트럴점",
       "link": "",
       "category": "음식점>태국음식",
       "description": "",
@@ -49,15 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "호앙비엣 시청역점",
-      "link": "https://hoang-viet.com/",
+      "title": "모퉁이",
+      "link": "",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 69-15 1층",
-      "roadAddress": "서울특별시 중구 세종대로 70 1층",
-      "mapx": "1269766082",
-      "mapy": "375623087"
+      "address": "서울특별시 중구 남대문로5가 21-1 지하2층",
+      "roadAddress": "서울특별시 중구 세종대로 30 지하2층",
+      "mapx": "1269749367",
+      "mapy": "375590098"
     }
   ]
 }

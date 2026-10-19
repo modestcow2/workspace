@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:08 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:58:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375705250"
     },
     {
-      "title": "학교앞분식",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 170 동서한의원",
-      "roadAddress": "서울특별시 종로구 새문안로 39-1 동서한의원",
-      "mapx": "1269695106",
-      "mapy": "375688274"
-    },
-    {
-      "title": "정든다락",
+      "title": "돌담길",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 367-1 현진빌딩 2층",
-      "roadAddress": "서울특별시 중구 덕수궁길 9 현진빌딩 2층",
-      "mapx": "1269762131",
-      "mapy": "375648101"
+      "address": "서울특별시 중구 태평로2가 367-1 지하1층",
+      "roadAddress": "서울특별시 중구 덕수궁길 9 지하1층",
+      "mapx": "1269762591",
+      "mapy": "375648146"
+    },
+    {
+      "title": "새봄 서대문점",
+      "link": "",
+      "category": "한식>국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충정로1가 62-15",
+      "roadAddress": "서울특별시 중구 새문안로 24",
+      "mapx": "1269685725",
+      "mapy": "375674131"
     }
   ]
 }

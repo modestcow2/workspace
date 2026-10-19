@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:11 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:41:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375676893"
     },
     {
-      "title": "바닷가작은부엌 경희궁점",
-      "link": "http://www.seasidekitchen.co.kr/",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 12-5 5층",
-      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
-      "mapx": "1269698101",
-      "mapy": "375683937"
-    },
-    {
       "title": "막썰이회 서대문점",
       "link": "",
       "category": "한식>생선회",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 새문안로 15-1 지하1층",
       "mapx": "1269675834",
       "mapy": "375671209"
+    },
+    {
+      "title": "바닷가작은부엌 경희궁점",
+      "link": "http://www.seasidekitchen.co.kr/",
+      "category": "한식>해물,생선요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 12-5 5층",
+      "roadAddress": "서울특별시 종로구 새문안로 38 5층",
+      "mapx": "1269698101",
+      "mapy": "375683937"
     },
     {
       "title": "멘소레",

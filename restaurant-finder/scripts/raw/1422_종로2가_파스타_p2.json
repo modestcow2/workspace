@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:15 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 18:00:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375707534"
     },
     {
-      "title": "우즈 웨일",
-      "link": "https://app.catchtable.co.kr/ct/shop/ooze.whale_bar?from=share&type=VISIT_RESERVATION",
-      "category": "술집>와인",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 71-4 bar 우즈 웨일",
-      "roadAddress": "서울특별시 종로구 종로 88 bar 우즈 웨일",
-      "mapx": "1269871529",
-      "mapy": "375699999"
-    },
-    {
       "title": "탐앤탐스 <b>종로</b>한올타워점",
       "link": "",
       "category": "카페,디저트>카페",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 종로 96 1층, 2층",
       "mapx": "1269881901",
       "mapy": "375699905"
+    },
+    {
+      "title": "우즈 웨일",
+      "link": "https://app.catchtable.co.kr/ct/shop/ooze.whale_bar?from=share&type=VISIT_RESERVATION",
+      "category": "술집>와인",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 71-4 bar 우즈 웨일",
+      "roadAddress": "서울특별시 종로구 종로 88 bar 우즈 웨일",
+      "mapx": "1269871529",
+      "mapy": "375699999"
     },
     {
       "title": "랄랄라클럽",

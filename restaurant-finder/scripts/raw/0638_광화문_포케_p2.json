@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:09 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:49:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,37 +27,37 @@
       "mapy": "375603412"
     },
     {
-      "title": "폴인<b>포케</b> 서울시청점",
-      "link": "https://fallinpoke.com",
+      "title": "벤자민<b>포케</b>엔샐러드",
+      "link": "https://www.instagram.com/benjamin_pokesalad",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 북창동 71-2 2층",
-      "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
-      "mapx": "1269775175",
-      "mapy": "375623578"
+      "address": "서울특별시 중구 남산동2가 30-2 1층",
+      "roadAddress": "서울특별시 중구 퇴계로20길 20 1층",
+      "mapx": "1269857917",
+      "mapy": "375593277"
     },
     {
-      "title": "TWG Tea <b>광화문</b>점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
+      "title": "샐러드로우앤트라타 <b>광화문</b>점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 도렴동 65 1층 104호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 31 1층 104호",
+      "mapx": "1269741944",
+      "mapy": "375731166"
     },
     {
-      "title": "어쩌다농부 팬트리 소공점",
-      "link": "https://www.instagram.com/oopspantry",
-      "category": "음식점>카페,디저트",
+      "title": "폴인<b>포케</b> 동성로점",
+      "link": "https://www.fallinpoke.com",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 79-2 1층 어쩌다농부 팬트리 소공점",
-      "roadAddress": "서울특별시 중구 소공로 96 1층 어쩌다농부 팬트리 소공점",
-      "mapx": "1269801180",
-      "mapy": "375635658"
+      "address": "대구광역시 중구 봉산동 34-8 1층",
+      "roadAddress": "대구광역시 중구 동성로1길 50 1층",
+      "mapx": "1285960545",
+      "mapy": "358658519"
     }
   ]
 }

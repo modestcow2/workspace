@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:38 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:59:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "세븐티포 <b>명동</b>성당본점",
-      "link": "https://www.instagram.com/74_myeongdong/",
+      "link": "",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
@@ -27,37 +27,37 @@
       "mapy": "375639182"
     },
     {
-      "title": "바리에가타 <b>명동</b>",
-      "link": "https://www.variegata.company/",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
-      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
-    },
-    {
-      "title": "pasta ta ta",
-      "link": "https://app.catchtable.co.kr/ct/shop/pastatata",
+      "title": "스케줄 오스테리아",
+      "link": "https://blog.naver.com/sch_co001",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 115 스몰하우스 빅도어 1층",
-      "roadAddress": "서울특별시 중구 남대문로9길 6 스몰하우스 빅도어 1층",
-      "mapx": "1269819673",
-      "mapy": "375669492"
+      "address": "서울특별시 중구 다동 85 iM금융센터 2층 202호",
+      "roadAddress": "서울특별시 중구 남대문로 125 iM금융센터 2층 202호",
+      "mapx": "1269823089",
+      "mapy": "375683770"
     },
     {
-      "title": "사유의서재 남산 와인다이닝",
-      "link": "https://litt.ly/sayu",
+      "title": "남산 촛불1978",
+      "link": "https://www.instagram.com/chotbool1978",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 8-38 3층, 촛불1978 레스토랑",
+      "roadAddress": "서울특별시 중구 소파로 95 3층, 촛불1978 레스토랑",
+      "mapx": "1269853192",
+      "mapy": "375567578"
+    },
+    {
+      "title": "넬보스코 이탈리안 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/nelbosco",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남산동2가 13-1",
-      "roadAddress": "서울특별시 중구 퇴계로20길 13",
-      "mapx": "1269858804",
-      "mapy": "375596784"
+      "address": "서울특별시 중구 회현동1가 194-23 2층",
+      "roadAddress": "서울특별시 중구 퇴계로8길 16 2층",
+      "mapx": "1269797099",
+      "mapy": "375587201"
     }
   ]
 }

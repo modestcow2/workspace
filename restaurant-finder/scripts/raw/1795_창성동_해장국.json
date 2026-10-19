@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:09 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 18:05:18 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
     {
       "title": "청진옥",
       "link": "http://www.cheongjinok.com/",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 사직로 5",
       "mapx": "1269608828",
       "mapy": "375727012"
+    },
+    {
+      "title": "대성도가니탕",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 옥천동 70 1층",
+      "roadAddress": "서울특별시 서대문구 영천시장길 54 1층",
+      "mapx": "1269619676",
+      "mapy": "375699326"
     },
     {
       "title": "청진동장터순대국",

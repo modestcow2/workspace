@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:32 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:53:56 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 자하문로11길 8 준수방키친",
       "mapx": "1269708097",
       "mapy": "375796788"
-    },
-    {
-      "title": "오스테리아소띠",
-      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 91-38",
-      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
-      "mapx": "1269722295",
-      "mapy": "375789547"
     },
     {
       "title": "까사 이태리아",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 자하문로4길 14-14 1층 비텔로소띠",
       "mapx": "1269727845",
       "mapy": "375769969"
+    },
+    {
+      "title": "오스테리아소띠",
+      "link": "http://app.catchtable.co.kr/ct/shop/osteriasotti",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 91-38",
+      "roadAddress": "서울특별시 종로구 자하문로10길 10-19",
+      "mapx": "1269722295",
+      "mapy": "375789547"
     },
     {
       "title": "이태리총각 서촌점",

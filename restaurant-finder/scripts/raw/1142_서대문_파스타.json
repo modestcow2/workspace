@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:04 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:56:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "이석덕생면<b>파스타</b> 신촌점",
-      "link": "https://www.instagram.com/lsd_pasta/",
+      "link": "https://smartstore.naver.com/",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 서대문구 명물길 16 2층 이석덕생면파스타",
       "mapx": "1269378075",
       "mapy": "375575919"
-    },
-    {
-      "title": "주인백 <b>파스타</b>",
-      "link": "http://instagram.com/",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 남가좌동 324-11",
-      "roadAddress": "서울특별시 서대문구 증가로10길 57",
-      "mapx": "1269249226",
-      "mapy": "375795267"
     },
     {
       "title": "신촌칼",
@@ -38,6 +27,17 @@
       "mapy": "375578967"
     },
     {
+      "title": "주인백 <b>파스타</b>",
+      "link": "http://instagram.com/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 남가좌동 324-11",
+      "roadAddress": "서울특별시 서대문구 증가로10길 57",
+      "mapx": "1269249226",
+      "mapy": "375795267"
+    },
+    {
       "title": "비아37 신촌본점",
       "link": "https://app.catchtable.co.kr/ct/shop/via37_",
       "category": "음식점>이탈리아음식",
@@ -49,15 +49,15 @@
       "mapy": "375592889"
     },
     {
-      "title": "초원<b>파스타</b>운",
-      "link": "https://catchtable.co.kr/prairie",
+      "title": "마우디",
+      "link": "https://www.instagram.com/maudie_dining",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 홍제동 330-156 1층",
-      "roadAddress": "서울특별시 서대문구 통일로39나길 25 1층",
-      "mapx": "1269423970",
-      "mapy": "375890575"
+      "address": "서울특별시 서대문구 연희동 132-18",
+      "roadAddress": "서울특별시 서대문구 연희로11길 18",
+      "mapx": "1269301258",
+      "mapy": "375674593"
     }
   ]
 }

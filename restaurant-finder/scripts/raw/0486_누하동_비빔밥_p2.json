@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:57 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:47:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375816457"
     },
     {
-      "title": "가진화랑",
-      "link": "",
-      "category": "문화,예술>갤러리,화랑",
+      "title": "슬렁슬렁",
+      "link": "https://www.instagram.com/seulleong_naeoejuga",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 58",
-      "roadAddress": "서울특별시 종로구 자하문로 74",
-      "mapx": "1269708940",
-      "mapy": "375825459"
+      "address": "서울특별시 종로구 효자동 25 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 2층",
+      "mapx": "1269712004",
+      "mapy": "375815886"
     },
     {
-      "title": "국수돈가",
-      "link": "",
-      "category": "한식>국수",
+      "title": "사발",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 60-3",
-      "roadAddress": "서울특별시 종로구 자하문로 74-1",
-      "mapx": "1269708581",
-      "mapy": "375826499"
+      "address": "서울특별시 종로구 내수동 72 경희궁의아침 3단지 사발 142호",
+      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의아침 3단지 사발 142호",
+      "mapx": "1269724791",
+      "mapy": "375735857"
     }
   ]
 }

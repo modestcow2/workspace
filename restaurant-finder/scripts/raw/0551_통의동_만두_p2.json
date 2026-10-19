@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:27 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:48:40 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375794011"
     },
     {
-      "title": "봉피양 경복궁점",
-      "link": "http://www.bjgalbi.com",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 67-2",
-      "roadAddress": "서울특별시 종로구 자하문로 20",
-      "mapx": "1269722429",
-      "mapy": "375779140"
-    },
-    {
       "title": "돌밭 메밀꽃",
       "link": "",
       "category": "한식>국수",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 효자로 31-1",
       "mapx": "1269737000",
       "mapy": "375788863"
+    },
+    {
+      "title": "봉피양 경복궁점",
+      "link": "http://www.bjgalbi.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 67-2",
+      "roadAddress": "서울특별시 종로구 자하문로 20",
+      "mapx": "1269722429",
+      "mapy": "375779140"
     }
   ]
 }

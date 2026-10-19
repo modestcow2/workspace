@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:57 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:56:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
       "mapx": "1269306323",
       "mapy": "375679590"
+    },
+    {
+      "title": "고향전주<b>비빔밥</b> 현대백화점신촌점",
+      "link": "",
+      "category": "한식>비빔밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 30-33 10층",
+      "roadAddress": "서울특별시 서대문구 신촌로 83 10층",
+      "mapx": "1269357533",
+      "mapy": "375558490"
     },
     {
       "title": "가미분식",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 서대문구 연세로7길 20 2층",
       "mapx": "1269357464",
       "mapy": "375577864"
-    },
-    {
-      "title": "엄마식탁",
-      "link": "https://www.instagram.com/mothers.table",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 189-4 엄마식탁",
-      "roadAddress": "서울특별시 서대문구 연희맛로 17-21 엄마식탁",
-      "mapx": "1269288278",
-      "mapy": "375666512"
     },
     {
       "title": "무학바지락칼국수",

@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:39 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:59:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "남산 촛불1978",
+      "link": "https://www.instagram.com/chotbool1978",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 예장동 8-38 3층, 촛불1978 레스토랑",
+      "roadAddress": "서울특별시 중구 소파로 95 3층, 촛불1978 레스토랑",
+      "mapx": "1269853192",
+      "mapy": "375567578"
+    },
     {
       "title": "디라이프스타일키친 광화문점",
       "link": "https://dlifestyle.co.kr/",
@@ -16,48 +27,37 @@
       "mapy": "375684246"
     },
     {
-      "title": "촛불1978",
-      "link": "https://www.instagram.com/candlelight1978",
-      "category": "음식점>양식",
+      "title": "울프강 <b>스테이크</b>하우스 광화문점",
+      "link": "http://wolfgangssteakhouse.co.kr",
+      "category": "음식점>스테이크,립",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 예장동 8-38 촛불1978 레스토랑",
-      "roadAddress": "서울특별시 중구 소파로 95 촛불1978 레스토랑",
-      "mapx": "1269853192",
-      "mapy": "375567578"
+      "address": "서울특별시 중구 태평로1가 61-21 2층",
+      "roadAddress": "서울특별시 중구 세종대로21길 40 2층",
+      "mapx": "1269757642",
+      "mapy": "375681718"
     },
     {
-      "title": "바리에가타 <b>명동</b>",
-      "link": "https://www.variegata.company/",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
-      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
-    },
-    {
-      "title": "그릴데미그라스",
+      "title": "라칸티나",
       "link": "",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 예장동 2-19 오리엔스호텔 1층",
-      "roadAddress": "서울특별시 중구 삼일대로2길 50 오리엔스호텔 1층",
-      "mapx": "1269911365",
-      "mapy": "375600953"
-    },
-    {
-      "title": "사유의서재 남산 와인다이닝",
-      "link": "https://litt.ly/sayu",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남산동2가 13-1",
-      "roadAddress": "서울특별시 중구 퇴계로20길 13",
-      "mapx": "1269858804",
-      "mapy": "375596784"
+      "address": "서울특별시 중구 을지로1가 50 삼성빌딩 지하1층",
+      "roadAddress": "서울특별시 중구 을지로 19 삼성빌딩 지하1층",
+      "mapx": "1269800349",
+      "mapy": "375662396"
+    },
+    {
+      "title": "우오보 하우스",
+      "link": "https://app.catchtable.co.kr/ct/shop/uovohouse?from=share&type=DINING",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 84 지하3층 301호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하3층 301호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     }
   ]
 }

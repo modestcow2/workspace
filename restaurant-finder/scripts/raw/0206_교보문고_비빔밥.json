@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:44 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:44:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
+      "link": "https://www.instagram.com/mmsb___official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -27,19 +27,19 @@
       "mapy": "375553582"
     },
     {
-      "title": "함평집 서울시청점",
-      "link": "",
+      "title": "꽃밥에피다",
+      "link": "https://app.catchtable.co.kr/ct/shop/flower_blossom_on_the_rice?from=share&type=VISIT_RESERVATION",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 120-14 부림빌딩 1층",
-      "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
-      "mapx": "1269736340",
-      "mapy": "375622716"
+      "address": "서울특별시 종로구 관훈동 118-27 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 3-6 1층",
+      "mapx": "1269840246",
+      "mapy": "375753027"
     },
     {
       "title": "사발",
-      "link": "https://m.booking.naver.com/booking/6/bizes/700305/items/5403470?area=pll",
+      "link": "https://app.catchtable.co.kr/ct/shop/sabal_?from=share&type=DINING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375735857"
     },
     {
-      "title": "주유별장 광화문점",
-      "link": "https://go.catchtable.co.kr/8k3p2w",
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 4층",
-      "roadAddress": "서울특별시 종로구 종로3길 17 4층",
-      "mapx": "1269788254",
-      "mapy": "375714242"
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
     }
   ]
 }

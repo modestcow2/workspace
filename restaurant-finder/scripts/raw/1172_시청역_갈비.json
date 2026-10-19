@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:18 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:57:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375664910"
     },
     {
-      "title": "대보정 서울<b>시청역</b>점",
-      "link": "https://www.instagram.com/daebojung/",
-      "category": "한식>육류,고기요리",
+      "title": "이스트빌리지서울 광화문점",
+      "link": "https://www.instagram.com/East_Village.seoul",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
-      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
-      "mapx": "1269730165",
-      "mapy": "375613584"
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하 1층",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하 1층",
+      "mapx": "1269782820",
+      "mapy": "375684612"
     }
   ]
 }

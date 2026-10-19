@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:31 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:47:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "서촌칼제비",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 194 1층서촌칼제비",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45-4 1층서촌칼제비",
+      "mapx": "1269697798",
+      "mapy": "375766683"
+    },
     {
       "title": "이가면옥",
       "link": "",
@@ -27,28 +38,6 @@
       "mapy": "375762596"
     },
     {
-      "title": "서촌칼제비",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 194 1층서촌칼제비",
-      "roadAddress": "서울특별시 종로구 자하문로1길 45-4 1층서촌칼제비",
-      "mapx": "1269697798",
-      "mapy": "375766683"
-    },
-    {
-      "title": "서촌기와집 본점",
-      "link": "http://서촌기와집.com/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 204-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 35",
-      "mapx": "1269702575",
-      "mapy": "375765504"
-    },
-    {
       "title": "명작신의주찹쌀순대",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
       "mapx": "1269686008",
       "mapy": "375744035"
+    },
+    {
+      "title": "토방칼국수",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
     }
   ]
 }

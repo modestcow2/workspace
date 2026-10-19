@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:31 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:57:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,28 @@
       "mapy": "375660943"
     },
     {
+      "title": "라그린",
+      "link": "",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 32-1 이화여고100주년기념관",
+      "roadAddress": "서울특별시 중구 정동길 26 이화여고100주년기념관",
+      "mapx": "1269707874",
+      "mapy": "375664638"
+    },
+    {
+      "title": "카페이마",
+      "link": "",
+      "category": "카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 139-8 일민미술관 1층",
+      "roadAddress": "서울특별시 종로구 세종대로 152 일민미술관 1층",
+      "mapx": "1269776958",
+      "mapy": "375698359"
+    },
+    {
       "title": "그리너 남대문점",
       "link": "",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -27,37 +49,15 @@
       "mapy": "375603412"
     },
     {
-      "title": "크리스피프레시 광화문점",
-      "link": "https://www.instagram.com/crispyfreshsalad",
-      "category": "도시락,컵밥>다이어트,샐러드",
+      "title": "THE 22 남대문 베이커리 &amp; 바",
+      "link": "https://www.instagram.com/courtyard_namdaemun/",
+      "category": "카페,디저트>베이커리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 39 케이스퀘어시티 1층",
-      "roadAddress": "서울특별시 중구 청계천로 24 케이스퀘어시티 1층",
-      "mapx": "1269803445",
-      "mapy": "375686380"
-    },
-    {
-      "title": "어쩌다농부 팬트리 소공점",
-      "link": "https://www.instagram.com/oopspantry",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 79-2 1층 어쩌다농부 팬트리 소공점",
-      "roadAddress": "서울특별시 중구 소공로 96 1층 어쩌다농부 팬트리 소공점",
-      "mapx": "1269801180",
-      "mapy": "375635658"
-    },
-    {
-      "title": "라그린",
-      "link": "",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 32-1 이화여고100주년기념관",
-      "roadAddress": "서울특별시 중구 정동길 26 이화여고100주년기념관",
-      "mapx": "1269707874",
-      "mapy": "375664638"
+      "address": "서울특별시 중구 남대문로4가 17-23 코트야드 메리어트 서울 명동 호텔 22층",
+      "roadAddress": "서울특별시 중구 남대문로 9 코트야드 메리어트 서울 명동 호텔 22층",
+      "mapx": "1269767836",
+      "mapy": "375612334"
     }
   ]
 }

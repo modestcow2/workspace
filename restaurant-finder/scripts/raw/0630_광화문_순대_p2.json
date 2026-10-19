@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:05 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:49:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375730931"
     },
     {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
+    },
+    {
       "title": "호반",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼일대로26길 20",
       "mapx": "1269891446",
       "mapy": "375733361"
-    },
-    {
-      "title": "석교식당",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 영천동 331",
-      "roadAddress": "서울특별시 서대문구 통일로 185",
-      "mapx": "1269622884",
-      "mapy": "375700014"
     }
   ]
 }

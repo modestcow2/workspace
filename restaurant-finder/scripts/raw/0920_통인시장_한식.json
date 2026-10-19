@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:20 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:53:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "잘빠진메밀 서촌 본점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 120",
-      "roadAddress": "서울특별시 종로구 자하문로11길 4",
-      "mapx": "1269709994",
-      "mapy": "375796715"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
-    {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
-    },
-    {
-      "title": "자하문로118 들풀",
+      "title": "봉혜자네주방 종로타워점",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B206, B207호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206, B207호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
     },
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
+      "title": "하녹 서순라길점",
+      "link": "https://app.catchtable.co.kr/ct/shop/hanok?from=share&type=DINING",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
+      "address": "서울특별시 종로구 운니동 45-1 1층 하녹",
+      "roadAddress": "서울특별시 종로구 삼일대로32길 49-9 1층 하녹",
+      "mapx": "1269895628",
+      "mapy": "375759179"
+    },
+    {
+      "title": "익선요록",
+      "link": "https://www.instagram.com/ikseon_yorok",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-36 1층",
+      "roadAddress": "서울특별시 종로구 돈화문로11다길 41 1층",
+      "mapx": "1269898499",
+      "mapy": "375736796"
+    },
+    {
+      "title": "온정옥 익선본점",
+      "link": "https://www.instagram.com/onjeongok_seoul/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 130 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 34-4 1층",
+      "mapx": "1269894970",
+      "mapy": "375741007"
+    },
+    {
+      "title": "안전가옥",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 47-105 .1층",
+      "roadAddress": "서울특별시 종로구 필운대로9나길 3 .1층",
+      "mapx": "1269670796",
+      "mapy": "375824570"
     }
   ]
 }

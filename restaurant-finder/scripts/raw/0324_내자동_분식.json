@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:41 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:45:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375744035"
     },
     {
-      "title": "소문난매운떡볶이",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9",
-      "roadAddress": "서울특별시 종로구 사직로8길 4",
-      "mapx": "1269689428",
-      "mapy": "375744412"
-    },
-    {
       "title": "다쯔",
       "link": "",
       "category": "분식>종합분식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4",
       "mapx": "1269686008",
       "mapy": "375744035"
+    },
+    {
+      "title": "소문난매운떡볶이",
+      "link": "",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
     }
   ]
 }

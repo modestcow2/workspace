@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:17 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 18:05:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "종갓집",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 121",
-      "roadAddress": "서울특별시 종로구 자하문로 110",
-      "mapx": "1269702250",
-      "mapy": "375858321"
-    },
     {
       "title": "서촌명가",
       "link": "https://blog.naver.com/blueui87",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로 112 지하 1층",
       "mapx": "1269702234",
       "mapy": "375860338"
+    },
+    {
+      "title": "종갓집",
+      "link": "",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청운동 121",
+      "roadAddress": "서울특별시 종로구 자하문로 110",
+      "mapx": "1269702250",
+      "mapy": "375858321"
     },
     {
       "title": "뼈탄집 서촌본점",
@@ -38,6 +38,17 @@
       "mapy": "375764468"
     },
     {
+      "title": "도틔대가",
+      "link": "https://catchtable.co.kr/dottydaega",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 54-1 1층",
+      "roadAddress": "서울특별시 종로구 자하문로1길 6 1층",
+      "mapx": "1269720264",
+      "mapy": "375765472"
+    },
+    {
       "title": "양탄집 서촌본점",
       "link": "https://www.instagram.com/yangtanhouse/",
       "category": "한식>육류,고기요리",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로1가길 5 1층",
       "mapx": "1269720601",
       "mapy": "375766927"
-    },
-    {
-      "title": "김진목삼",
-      "link": "https://app.catchtable.co.kr/ct/shop/kjmoksam",
-      "category": "한식>돼지고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 164 1층 김진목삼",
-      "roadAddress": "서울특별시 종로구 자하문로1길 56 1층 김진목삼",
-      "mapx": "1269695187",
-      "mapy": "375771457"
     }
   ]
 }

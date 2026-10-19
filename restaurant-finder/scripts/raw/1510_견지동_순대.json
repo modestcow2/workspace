@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:56 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 18:01:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "손큰할매<b>순대</b>국 <b>견지동</b>점",
-      "link": "http://sonkun.co.kr",
-      "category": "육류,고기요리>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 68-14 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 50-2 1층",
-      "mapx": "1269833030",
-      "mapy": "375736105"
-    },
     {
       "title": "농민백암<b>순대</b> 시청직영점",
       "link": "",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
       "mapx": "1269908574",
       "mapy": "375730931"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     },
     {
       "title": "호반",

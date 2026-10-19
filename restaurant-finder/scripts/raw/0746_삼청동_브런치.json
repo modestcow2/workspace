@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:59 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:51:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375770264"
     },
     {
-      "title": "도트블랭킷 삼청한옥점",
-      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
+      "title": "아메리칸 <b>브런치</b> 카페",
+      "link": "https://www.instagram.com/american.brunch.cafe",
       "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 95 1층",
-      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
-      "mapx": "1269812371",
-      "mapy": "375800959"
+      "address": "서울특별시 종로구 안국동 92 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 49-16 1층",
+      "mapx": "1269843728",
+      "mapy": "375767815"
     },
     {
       "title": "땡스오트 안국",
@@ -38,15 +38,15 @@
       "mapy": "375787585"
     },
     {
-      "title": "아메리칸 <b>브런치</b> 카페",
-      "link": "https://www.instagram.com/american.brunch.cafe",
+      "title": "도트블랭킷 삼청한옥점",
+      "link": "https://app.catchtable.co.kr/ct/shop/dotblanket_samchung",
       "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 92 1층",
-      "roadAddress": "서울특별시 종로구 율곡로 49-16 1층",
-      "mapx": "1269843728",
-      "mapy": "375767815"
+      "address": "서울특별시 종로구 소격동 95 1층",
+      "roadAddress": "서울특별시 종로구 삼청로2길 38 1층",
+      "mapx": "1269812371",
+      "mapy": "375800959"
     },
     {
       "title": "팔발라 삼청본점",

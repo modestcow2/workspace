@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:46 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:49:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375773610"
     },
     {
-      "title": "이서방네<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 191",
-      "roadAddress": "서울특별시 종로구 자하문로1길 45",
-      "mapx": "1269698490",
-      "mapy": "375767519"
-    },
-    {
       "title": "온지음 레스토랑",
       "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
       "mapx": "1269734438",
       "mapy": "375804848"
+    },
+    {
+      "title": "이서방네<b>순대</b>국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
     }
   ]
 }

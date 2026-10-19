@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:52 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:49:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "진작",
-      "link": "https://app.catchtable.co.kr/ct/shop/jinjak_euljiro?from=share&type=WAITING",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 저동2가 46-27 1층",
-      "roadAddress": "서울특별시 중구 수표로12길 12 1층",
-      "mapx": "1269908216",
-      "mapy": "375640300"
-    },
     {
       "title": "동해도 <b>광화문</b>점",
       "link": "https://www.instagram.com/donghaedo1987",
@@ -27,15 +16,15 @@
       "mapy": "375684296"
     },
     {
-      "title": "오레노 야끼 종로점",
-      "link": "https://catchtable.co.kr/orenoyakki",
+      "title": "우와 명동점",
+      "link": "https://app.catchtable.co.kr/ct/shop/wuwa_md",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-25 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
-      "mapx": "1269813635",
-      "mapy": "375730606"
+      "address": "서울특별시 중구 명동2가 4-2 1층",
+      "roadAddress": "서울특별시 중구 명동10길 35-20 1층",
+      "mapx": "1269858175",
+      "mapy": "375629437"
     },
     {
       "title": "도토리브라더스 <b>광화문</b>본점",
@@ -49,15 +38,26 @@
       "mapy": "375729254"
     },
     {
-      "title": "도우또 을지로",
-      "link": "https://www.instagram.com/dowuddo_euljiro/",
+      "title": "진심",
+      "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 인현동1가 60 1층, 2층",
-      "roadAddress": "서울특별시 중구 을지로18길 42 1층, 2층",
-      "mapx": "1269940415",
-      "mapy": "375647071"
+      "address": "서울특별시 종로구 누하동 44 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
+      "mapx": "1269688129",
+      "mapy": "375798487"
+    },
+    {
+      "title": "누하의 숲",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누하동 175-2 1F",
+      "roadAddress": "서울특별시 종로구 필운대로 31-1 1F",
+      "mapx": "1269687592",
+      "mapy": "375787996"
     }
   ]
 }

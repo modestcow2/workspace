@@ -1,30 +1,30 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:32 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 18:04:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "봉이밥 삼청동점",
+      "title": "닭궁뎅이 본점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
+      "address": "서울특별시 종로구 화동 116 1~3층",
+      "roadAddress": "서울특별시 종로구 북촌로 31-22 1~3층",
+      "mapx": "1269837448",
+      "mapy": "375795641"
     },
     {
-      "title": "포스톤즈 삼청점",
-      "link": "https://smartstore.naver.com/fourstones/",
-      "category": "음식점>카페,디저트",
+      "title": "서울서둘째로잘하는집",
+      "link": "",
+      "category": "카페,디저트>차",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 105-10 수제비 옆 골목",
-      "roadAddress": "서울특별시 종로구 삼청로 103-4 삼청동 수제비 옆 골목",
-      "mapx": "1269816589",
-      "mapy": "375847732"
+      "address": "서울특별시 종로구 삼청동 28-21",
+      "roadAddress": "서울특별시 종로구 삼청로 122-1",
+      "mapx": "1269818065",
+      "mapy": "375862618"
     },
     {
       "title": "삼청동수제비",
@@ -38,15 +38,15 @@
       "mapy": "375845273"
     },
     {
-      "title": "스낵서울",
-      "link": "https://www.instagram.com/snackseoul",
-      "category": "음식점>한식",
+      "title": "연남토마 북촌점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yntm_bc",
+      "category": "음식점>퓨전음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 80-6 2층",
-      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
-      "mapx": "1269816137",
-      "mapy": "375837662"
+      "address": "서울특별시 종로구 화동 138-6 1층",
+      "roadAddress": "서울특별시 종로구 북촌로5길 39 1층",
+      "mapx": "1269827234",
+      "mapy": "375793518"
     },
     {
       "title": "경춘자의라면땡기는날",

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:21 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:46:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375762596"
     },
     {
-      "title": "봉평막국수",
-      "link": "",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 193",
-      "roadAddress": "서울특별시 종로구 자하문로1길 49",
-      "mapx": "1269696998",
-      "mapy": "375768414"
-    },
-    {
       "title": "서촌칼제비",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 자하문로1길 45-4 1층서촌칼제비",
       "mapx": "1269697798",
       "mapy": "375766683"
+    },
+    {
+      "title": "봉평막국수",
+      "link": "",
+      "category": "한식>막국수",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 193",
+      "roadAddress": "서울특별시 종로구 자하문로1길 49",
+      "mapx": "1269696998",
+      "mapy": "375768414"
     },
     {
       "title": "이가면옥",
@@ -49,15 +49,15 @@
       "mapy": "375765099"
     },
     {
-      "title": "서촌기와집 본점",
-      "link": "http://서촌기와집.com/",
-      "category": "음식점>한식",
+      "title": "토방<b>칼국수</b>",
+      "link": "",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 204-2",
-      "roadAddress": "서울특별시 종로구 자하문로1길 35",
-      "mapx": "1269702575",
-      "mapy": "375765504"
+      "address": "서울특별시 종로구 사직동 9",
+      "roadAddress": "서울특별시 종로구 사직로8길 4",
+      "mapx": "1269689428",
+      "mapy": "375744412"
     }
   ]
 }

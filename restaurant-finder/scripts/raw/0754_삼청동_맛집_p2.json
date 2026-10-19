@@ -1,52 +1,52 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:03 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:51:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "봉이밥 <b>삼청동</b>점",
+      "title": "아메리칸 브런치 카페",
+      "link": "https://www.instagram.com/american.brunch.cafe",
+      "category": "음식점>브런치",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 92 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 49-16 1층",
+      "mapx": "1269843728",
+      "mapy": "375767815"
+    },
+    {
+      "title": "닭궁뎅이 본점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 62-17 봉이밥 점",
-      "roadAddress": "서울특별시 종로구 삼청로 100-1 봉이밥 삼청동점",
-      "mapx": "1269822067",
-      "mapy": "375842989"
+      "address": "서울특별시 종로구 화동 116 1~3층",
+      "roadAddress": "서울특별시 종로구 북촌로 31-22 1~3층",
+      "mapx": "1269837448",
+      "mapy": "375795641"
     },
     {
-      "title": "잭잭 안국점",
-      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
-      "category": "음식점>햄버거",
+      "title": "서울서둘째로잘하는집",
+      "link": "",
+      "category": "카페,디저트>차",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 159 101호, 201호",
-      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
-      "mapx": "1269845845",
-      "mapy": "375765164"
+      "address": "서울특별시 종로구 삼청동 28-21",
+      "roadAddress": "서울특별시 종로구 삼청로 122-1",
+      "mapx": "1269818065",
+      "mapy": "375862618"
     },
     {
-      "title": "ETF베이커리",
-      "link": "https://app.catchtable.co.kr/ct/shop/etfbakery?from=share&type=WAITING",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 107-1 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 3 1층",
-      "mapx": "1269858052",
-      "mapy": "375772153"
-    },
-    {
-      "title": "포스톤즈 삼청점",
-      "link": "https://smartstore.naver.com/fourstones/",
+      "title": "공공재 커피클럽",
+      "link": "https://www.instagram.com/ooj.coffee.club/",
       "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 105-10 수제비 옆 골목",
-      "roadAddress": "서울특별시 종로구 삼청로 103-4 삼청동 수제비 옆 골목",
-      "mapx": "1269816589",
-      "mapy": "375847732"
+      "address": "서울특별시 종로구 안국동 45 1층",
+      "roadAddress": "서울특별시 종로구 윤보선길 35 1층",
+      "mapx": "1269837135",
+      "mapy": "375775378"
     },
     {
       "title": "일월카츠 안국점",
@@ -56,8 +56,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 안국동 132 1층",
       "roadAddress": "서울특별시 종로구 북촌로1길 11 1층",
-      "mapx": "1269851501",
-      "mapy": "375773083"
+      "mapx": "1269851329",
+      "mapy": "375773417"
     }
   ]
 }

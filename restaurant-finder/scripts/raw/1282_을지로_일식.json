@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:11 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:58:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375657155"
     },
     {
-      "title": "와타루",
-      "link": "https://app.catchtable.co.kr/ct/shop/wataru",
-      "category": "음식점>일식>일식당",
+      "title": "우메돈",
+      "link": "https://app.catchtable.co.kr/ct/shop/umetonkatsu",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 48-25 2층",
-      "roadAddress": "서울특별시 중구 수표로 22-3 2층",
-      "mapx": "1269905675",
-      "mapy": "375632727"
+      "address": "서울특별시 중구 초동 41-7 1층",
+      "roadAddress": "서울특별시 중구 충무로 31 1층",
+      "mapx": "1269927585",
+      "mapy": "375640129"
     },
     {
       "title": "을지 만지카이",

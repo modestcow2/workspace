@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:18 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:53:31 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 종로구 신문로1가 238 신문로빌딩 1층",
       "roadAddress": "서울특별시 종로구 새문안로3길 12 신문로빌딩 1층",
-      "mapx": "1269729584",
-      "mapy": "375713330"
+      "mapx": "1269728850",
+      "mapy": "375712598"
     },
     {
-      "title": "대장금",
+      "title": "이서방네순대국",
       "link": "",
-      "category": "음식점>한식",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 74 지하1층",
-      "roadAddress": "서울특별시 종로구 사직로8길 42 지하1층",
-      "mapx": "1269731379",
-      "mapy": "375737740"
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
     }
   ]
 }

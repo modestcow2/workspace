@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:13 +0900",
+  "lastBuildDate": "Mon, 19 Oct 2026 17:48:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375756107"
     },
     {
-      "title": "강구미주구리",
-      "link": "",
-      "category": "한식>생선회",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 46-3",
-      "roadAddress": "서울특별시 종로구 자하문로2길 5",
-      "mapx": "1269730496",
-      "mapy": "375765781"
-    },
-    {
       "title": "대선칼국수",
       "link": "",
       "category": "한식>칼국수,만두",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 자하문로4길 6 우진빌딩 2층 대선칼국수",
       "mapx": "1269726245",
       "mapy": "375771878"
+    },
+    {
+      "title": "서래미소 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-43 3~5층",
+      "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
+      "mapx": "1269726487",
+      "mapy": "375770180"
     }
   ]
 }

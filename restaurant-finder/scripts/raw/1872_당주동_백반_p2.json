@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:44 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:04:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "영월사랑방식당 광화문점",
-      "link": "https://ohjingoh.mysoho.com/product/34782",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 로얄빌딩 아케이드 B1 67호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 67호",
-      "mapx": "1269743207",
-      "mapy": "375719690"
-    },
     {
       "title": "키친온유",
       "link": "",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
       "mapx": "1269799066",
       "mapy": "375764071"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
     },
     {
       "title": "선어도 충정로점",

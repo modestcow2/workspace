@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:30 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:52:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,37 @@
       "mapy": "375687918"
     },
     {
-      "title": "전설의우대<b>갈비</b> 서울시청직영점",
-      "link": "https://www.instagram.com/udaegalbioflegend",
+      "title": "<b>갈비</b>1987 포천이동본점",
+      "link": "http://instagram.com/galbi_1987",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 155 2층 206~209호",
-      "roadAddress": "서울특별시 중구 남대문로9길 40 2층 206~209호",
-      "mapx": "1269804297",
-      "mapy": "375669879"
+      "address": "경기도 포천시 이동면 장암리 242-4 갈비1987 포천이동본점",
+      "roadAddress": "경기도 포천시 이동면 화동로 2065-1 갈비1987 포천이동본점",
+      "mapx": "1273662040",
+      "mapy": "380321533"
+    },
+    {
+      "title": "육미안 혜화점",
+      "link": "https://app.catchtable.co.kr/ct/shop/yookmian",
+      "category": "육류,고기요리>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 182-1 1층 육미안",
+      "roadAddress": "서울특별시 종로구 창경궁로 246-4 1층 육미안",
+      "mapx": "1269993945",
+      "mapy": "375832566"
+    },
+    {
+      "title": "삼안<b>갈비</b>촌",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜4가 16-1 1층",
+      "roadAddress": "서울특별시 종로구 대명1길 7 1층",
+      "mapx": "1270010300",
+      "mapy": "375831745"
     },
     {
       "title": "심경희라라랜드 광화문",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
       "mapx": "1269824621",
       "mapy": "375726226"
-    },
-    {
-      "title": "광화문석<b>갈비</b> D타워점",
-      "link": "https://lumi.co.kr/brand/gwangseokssi.html",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 D타워 3층 305호",
-      "roadAddress": "서울특별시 종로구 종로3길 17 D타워 3층 305호",
-      "mapx": "1269789694",
-      "mapy": "375710184"
-    },
-    {
-      "title": "온점 을지로점",
-      "link": "https://www.instagram.com/onjeom.seoul",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 87 지1층",
-      "roadAddress": "서울특별시 중구 을지로 29 지1층",
-      "mapx": "1269810422",
-      "mapy": "375664910"
     }
   ]
 }

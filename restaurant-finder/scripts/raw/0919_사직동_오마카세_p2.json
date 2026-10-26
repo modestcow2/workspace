@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:20 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:54:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "서울 <b>오마카세</b> 우미마토 마곡본점",
+      "link": "https://catchtable.co.kr/umimato",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강서구 마곡동 774-3 센테니아 114호",
+      "roadAddress": "서울특별시 강서구 공항대로 219 센테니아 114호",
+      "mapx": "1268323103",
+      "mapy": "375594735"
+    },
     {
       "title": "스시호센",
       "link": "https://app.catchtable.co.kr/ct/shop/hosen?from=share&type=VISIT_RESERVATION",
@@ -16,6 +27,28 @@
       "mapy": "375748513"
     },
     {
+      "title": "스무고개 해운대점",
+      "link": "https://www.instagram.com/smugogae_haeundae/reels/?__d=1%2F",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 해운대구 중동 742-4 1층, 2층",
+      "roadAddress": "부산광역시 해운대구 좌동순환로468번가길 81 1층, 2층",
+      "mapx": "1291750243",
+      "mapy": "351645962"
+    },
+    {
+      "title": "스시타다시",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushi_tadasi",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "대구광역시 수성구 두산동 721 3F",
+      "roadAddress": "대구광역시 수성구 지범로 33 3F",
+      "mapx": "1286254128",
+      "mapy": "358275583"
+    },
+    {
       "title": "스시이찌 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/sushiichi_gwanghwamun?from=share&type=DINING",
       "category": "음식점>일식>일식당",
@@ -25,39 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로3길 36 용비어천가 지하1층 120호",
       "mapx": "1269732813",
       "mapy": "375734105"
-    },
-    {
-      "title": "우직 경복궁점",
-      "link": "https://app.catchtable.co.kr/ct/shop/xuzikx_kbg",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 153-1 1층 우직",
-      "roadAddress": "서울특별시 종로구 자하문로1길 49-4 1층 우직",
-      "mapx": "1269695885",
-      "mapy": "375767578"
-    },
-    {
-      "title": "진미필담 용금옥",
-      "link": "https://www.instagram.com/jinmipildam_yonggumok",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 199 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
-      "mapx": "1269708497",
-      "mapy": "375766102"
-    },
-    {
-      "title": "오가와",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19",
-      "mapx": "1269744800",
-      "mapy": "375721808"
     }
   ]
 }

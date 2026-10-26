@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:58 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:57:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
       "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
-      "mapx": "1269756446",
-      "mapy": "375687260"
+      "mapx": "1269756182",
+      "mapy": "375686475"
     },
     {
       "title": "숭례도담",
@@ -27,6 +27,17 @@
       "mapy": "375637180"
     },
     {
+      "title": "산채향 경희궁본점",
+      "link": "https://www.instagram.com/sanchaehyang",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로1가 58-21 산채향",
+      "roadAddress": "서울특별시 종로구 경희궁길 6 산채향",
+      "mapx": "1269721248",
+      "mapy": "375708167"
+    },
+    {
       "title": "만족오향족발 시청점",
       "link": "https://blog.naver.com/manchum4755",
       "category": "육류,고기요리>족발,보쌈",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 중구 서소문로 134-7",
       "mapx": "1269760158",
       "mapy": "375632554"
-    },
-    {
-      "title": "산채향 경희궁본점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 58-21 산채향",
-      "roadAddress": "서울특별시 종로구 경희궁길 6 산채향",
-      "mapx": "1269721248",
-      "mapy": "375708167"
     },
     {
       "title": "종로<b>보쌈</b>",

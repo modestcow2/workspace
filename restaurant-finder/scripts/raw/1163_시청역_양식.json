@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:14 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:56:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "이테르",
-      "link": "https://www.itermyeongdong.com/",
+      "title": "올리페페 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/ollipepe_gwanghwamun",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 117 지하1층",
-      "roadAddress": "서울특별시 중구 남대문로5길 39 지하1층",
-      "mapx": "1269786259",
-      "mapy": "375631361"
+      "address": "서울특별시 종로구 서린동 149 2층 올리페페",
+      "roadAddress": "서울특별시 종로구 청계천로 11 2층 올리페페",
+      "mapx": "1269789879",
+      "mapy": "375694150"
     },
     {
       "title": "라칸티나",
@@ -27,37 +27,37 @@
       "mapy": "375662396"
     },
     {
-      "title": "바리에가타 명동",
-      "link": "https://www.variegata.company/",
+      "title": "핏제리아 빠드레",
+      "link": "",
       "category": "음식점>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로2가 111-1 B1층",
-      "roadAddress": "서울특별시 중구 남대문로 55 B1층",
-      "mapx": "1269810557",
-      "mapy": "375624933"
+      "address": "서울특별시 종로구 당주동 165-1 지상1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 11-13 지상1층",
+      "mapx": "1269741385",
+      "mapy": "375710651"
     },
     {
-      "title": "디라이프스타일키친 광화문점",
-      "link": "https://dlifestyle.co.kr/",
+      "title": "달리181 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/daligh181",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
-      "mapx": "1269782701",
-      "mapy": "375684246"
+      "address": "서울특별시 종로구 청진동 136 B1층",
+      "roadAddress": "서울특별시 종로구 종로5길 13 B1층",
+      "mapx": "1269804824",
+      "mapy": "375710343"
     },
     {
-      "title": "오드하우스",
-      "link": "https://www.instagram.com/odd_haus",
-      "category": "음식점>양식",
+      "title": "붓처스컷 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/butcherscut_ghm?from=share&type=VISIT_RESERVATION",
+      "category": "음식점>스테이크,립",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
-      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
-      "mapx": "1269721868",
-      "mapy": "375662530"
+      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하2층",
+      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하2층",
+      "mapx": "1269780574",
+      "mapy": "375684428"
     }
   ]
 }

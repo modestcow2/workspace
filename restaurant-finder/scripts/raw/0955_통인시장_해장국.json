@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:38 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:54:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375720689"
     },
     {
-      "title": "대성집",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 행촌동 209-35",
-      "roadAddress": "서울특별시 종로구 사직로 5",
-      "mapx": "1269608828",
-      "mapy": "375727012"
-    },
-    {
       "title": "무교동북어국집",
       "link": "",
       "category": "한식>해장국",
@@ -49,15 +38,26 @@
       "mapy": "375677548"
     },
     {
-      "title": "서촌전통순대국",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "오봉집 종로점",
+      "link": "https://www.instagram.com/obongzip_jongno",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 148-1",
-      "roadAddress": "서울특별시 종로구 사직로9가길 8",
-      "mapx": "1269690851",
-      "mapy": "375766782"
+      "address": "서울특별시 종로구 관철동 44-5 1층",
+      "roadAddress": "서울특별시 종로구 종로8길 20 1층",
+      "mapx": "1269839434",
+      "mapy": "375691560"
+    },
+    {
+      "title": "무청감자탕 종로점",
+      "link": "http://www.무청감자탕.com",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 43-6 1층",
+      "roadAddress": "서울특별시 종로구 종로10길 16 1층",
+      "mapx": "1269843766",
+      "mapy": "375692405"
     }
   ]
 }

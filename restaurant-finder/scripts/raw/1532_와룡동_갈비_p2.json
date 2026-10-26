@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:06 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:01:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -29,7 +29,7 @@
     {
       "title": "육미안 혜화점",
       "link": "https://app.catchtable.co.kr/ct/shop/yookmian",
-      "category": "한식>소고기구이",
+      "category": "육류,고기요리>소고기구이",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 명륜2가 182-1 1층 육미안",
@@ -49,15 +49,15 @@
       "mapy": "375669879"
     },
     {
-      "title": "온점 을지로점",
-      "link": "https://www.instagram.com/onjeom.seoul",
-      "category": "한식>육류,고기요리",
+      "title": "심경희라라랜드 광화문",
+      "link": "",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 87 지1층",
-      "roadAddress": "서울특별시 중구 을지로 29 지1층",
-      "mapx": "1269810422",
-      "mapy": "375664910"
+      "address": "서울특별시 종로구 견지동 110 1층 113~116호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
+      "mapx": "1269824621",
+      "mapy": "375726226"
     }
   ]
 }

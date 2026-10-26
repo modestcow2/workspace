@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:30 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:58:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "명화당 <b>명동</b>1호점",
-      "link": "",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 55-3 2층",
-      "roadAddress": "서울특별시 중구 명동4길 30 2층",
-      "mapx": "1269837950",
-      "mapy": "375623945"
-    },
-    {
-      "title": "신세계떡볶이",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 10-5",
-      "roadAddress": "서울특별시 중구 명동9길 10",
-      "mapx": "1269850160",
-      "mapy": "375642992"
-    },
     {
       "title": "병아리김밥 <b>명동</b>점",
       "link": "https://chickgimbapmd.com/",
@@ -49,15 +27,37 @@
       "mapy": "375631401"
     },
     {
-      "title": "마포만두 시청점",
-      "link": "",
+      "title": "도산<b>분식</b> 도산공원점",
+      "link": "https://www.dosanbunsik.com",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 강남구 신사동 652-7 젤로빌딩",
+      "roadAddress": "서울특별시 강남구 도산대로49길 10-6 젤로빌딩",
+      "mapx": "1270379130",
+      "mapy": "375237122"
+    },
+    {
+      "title": "가메골손왕만두 남대문본점",
+      "link": "http://smartstore.naver.com/gamegol",
       "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
-      "mapx": "1269795809",
-      "mapy": "375668511"
+      "address": "서울특별시 중구 남창동 60-2",
+      "roadAddress": "서울특별시 중구 남대문시장4길 42",
+      "mapx": "1269771357",
+      "mapy": "375584236"
+    },
+    {
+      "title": "<b>명동</b>충무김밥",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동2가 32-11",
+      "roadAddress": "서울특별시 중구 명동10길 16",
+      "mapx": "1269851971",
+      "mapy": "375631379"
     }
   ]
 }

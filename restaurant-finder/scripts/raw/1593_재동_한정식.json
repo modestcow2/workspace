@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:36 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:01:43 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375787275"
     },
     {
-      "title": "안집",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 85-2 안집",
-      "roadAddress": "서울특별시 종로구 북촌로 6-6 안집",
-      "mapx": "1269863020",
-      "mapy": "375775859"
-    },
-    {
       "title": "단상",
       "link": "https://catchtable.co.kr/dansang",
       "category": "음식점>한식",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 북촌로2길 11 1층 단상",
       "mapx": "1269864234",
       "mapy": "375779820"
+    },
+    {
+      "title": "안집",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 85-2 안집",
+      "roadAddress": "서울특별시 종로구 북촌로 6-6 안집",
+      "mapx": "1269863020",
+      "mapy": "375775859"
     },
     {
       "title": "한뫼촌",

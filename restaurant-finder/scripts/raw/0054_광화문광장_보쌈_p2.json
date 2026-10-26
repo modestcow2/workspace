@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:28 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:44:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,37 +16,26 @@
       "mapy": "375699683"
     },
     {
-      "title": "인사동마늘보쌈",
-      "link": "https://insadonggarlicbossam.com",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 29-4",
-      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
-      "mapx": "1269861892",
-      "mapy": "375739819"
-    },
-    {
-      "title": "애호락 안국본점",
-      "link": "",
+      "title": "종로도담",
+      "link": "https://jongnododam.com",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
-      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
-      "mapx": "1269866350",
-      "mapy": "375791838"
+      "address": "서울특별시 종로구 청진동 46",
+      "roadAddress": "서울특별시 종로구 삼봉로 78",
+      "mapx": "1269813844",
+      "mapy": "375720658"
     },
     {
-      "title": "북촌도담",
-      "link": "https://www.instagram.com/bukchondodam",
+      "title": "숭례도담",
+      "link": "https://sungnyedodam.com",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 133",
-      "roadAddress": "서울특별시 종로구 북촌로1길 9",
-      "mapx": "1269854316",
-      "mapy": "375772856"
+      "address": "서울특별시 중구 북창동 42-2 동화빌딩 1~2층",
+      "roadAddress": "서울특별시 중구 세종대로18길 14 동화빌딩 1~2층",
+      "mapx": "1269778826",
+      "mapy": "375637180"
     },
     {
       "title": "종로 흥부가",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 수표로20길 22 1층",
       "mapx": "1269908525",
       "mapy": "375699114"
+    },
+    {
+      "title": "인사동마늘보쌈",
+      "link": "https://insadonggarlicbossam.com",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 29-4",
+      "roadAddress": "서울특별시 종로구 인사동8길 12-5",
+      "mapx": "1269861892",
+      "mapy": "375739819"
     }
   ]
 }

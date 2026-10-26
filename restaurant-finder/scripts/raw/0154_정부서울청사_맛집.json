@@ -1,30 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:18 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:45:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "스타벅스 <b>정부서울청사</b>R점",
-      "link": "http://www.starbucks.co.kr/",
-      "category": "카페,디저트>카페",
+      "title": "도량",
+      "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 156",
-      "roadAddress": "서울특별시 종로구 새문안로5가길 28 (적선동)",
-      "mapx": "1269736776",
-      "mapy": "375746212"
+      "address": "서울특별시 종로구 통의동 35-12 2, 3층",
+      "roadAddress": "서울특별시 종로구 자하문로6길 6 2, 3층",
+      "mapx": "1269724921",
+      "mapy": "375780066"
     },
     {
-      "title": "아이엠베이글 광화문점",
-      "link": "https://blog.naver.com/kyundotcom",
-      "category": "음식점>브런치",
+      "title": "안주마을",
+      "link": "",
+      "category": "술집>포장마차",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-48 1층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 7 1층",
-      "mapx": "1269709765",
-      "mapy": "375728521"
+      "address": "서울특별시 종로구 내자동 1-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 3",
+      "mapx": "1269721722",
+      "mapy": "375764582"
+    },
+    {
+      "title": "H라운지",
+      "link": "https://m.site.naver.com/1DVXM",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-21",
+      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
+      "mapx": "1269735439",
+      "mapy": "375777477"
+    },
+    {
+      "title": "드밑 De Mitt",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 120-14 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 18-13 1층",
+      "mapx": "1269701612",
+      "mapy": "375779177"
+    },
+    {
+      "title": "테일러커피 서촌 경복궁점",
+      "link": "https://tailorcoffee.com",
+      "category": "음식점>카페,디저트>카페",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-34 1층",
+      "roadAddress": "서울특별시 종로구 효자로 15 1층",
+      "mapx": "1269739512",
+      "mapy": "375770510"
     }
   ]
 }

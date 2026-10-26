@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:15 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:53:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375777902"
     },
     {
+      "title": "우치야",
+      "link": "https://www.instagram.com/u_chiya105",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 29-2 지상1층 101호",
+      "roadAddress": "서울특별시 종로구 사직로 105 지상1층 101호",
+      "mapx": "1269706560",
+      "mapy": "375762452"
+    },
+    {
       "title": "후라토식당 경복궁 본점",
       "link": "http://furato.co.kr/",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩 아케이드 B1 63호 후라토식당",
       "mapx": "1269740978",
       "mapy": "375720853"
-    },
-    {
-      "title": "덮장",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 도렴동 60 지하1층 35호,36호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 37 지하1층 35호,36호",
-      "mapx": "1269742286",
-      "mapy": "375736565"
     }
   ]
 }

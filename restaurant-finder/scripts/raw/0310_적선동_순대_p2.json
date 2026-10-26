@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:34 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:47:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375712514"
     },
     {
-      "title": "청진동장터<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 3-3",
-      "roadAddress": "서울특별시 종로구 종로5길 40",
-      "mapx": "1269804455",
-      "mapy": "375720966"
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     },
     {
-      "title": "관북",
-      "link": "",
-      "category": "한식>순대,순댓국",
+      "title": "달막달막",
+      "link": "https://dalmakdalmak.com",
+      "category": "술집>요리주점",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청진동 11-6 1,2층",
-      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
-      "mapx": "1269808546",
-      "mapy": "375719170"
+      "address": "서울특별시 종로구 관훈동 118-20",
+      "roadAddress": "서울특별시 종로구 인사동16길 11-1",
+      "mapx": "1269841880",
+      "mapy": "375752280"
     }
   ]
 }

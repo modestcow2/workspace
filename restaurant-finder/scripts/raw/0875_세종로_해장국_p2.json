@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:59 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:53:36 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청진옥",
-      "link": "http://www.cheongjinok.com/",
-      "category": "한식>해장국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 183-1",
-      "roadAddress": "서울특별시 종로구 종로3길 32",
-      "mapx": "1269794207",
-      "mapy": "375717535"
-    },
     {
       "title": "이복희해장 종로직영점",
       "link": "",
@@ -38,6 +27,17 @@
       "mapy": "375677548"
     },
     {
+      "title": "청진옥",
+      "link": "http://www.cheongjinok.com/",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 183-1",
+      "roadAddress": "서울특별시 종로구 종로3길 32",
+      "mapx": "1269794207",
+      "mapy": "375717535"
+    },
+    {
       "title": "광화문뚝감",
       "link": "",
       "category": "한식>감자탕",
@@ -49,15 +49,15 @@
       "mapy": "375720689"
     },
     {
-      "title": "신동궁감자탕 명동직영점",
+      "title": "담원순대 시청본점",
       "link": "",
-      "category": "한식>감자탕",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-18",
-      "roadAddress": "서울특별시 중구 명동9길 43",
-      "mapx": "1269840283",
-      "mapy": "375657027"
+      "address": "서울특별시 중구 서소문동 120-21 1층",
+      "roadAddress": "서울특별시 중구 세종대로9길 52 (서소문동) 1층",
+      "mapx": "1269731836",
+      "mapy": "375619522"
     }
   ]
 }

@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:37 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:54:32 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "라파리나 서촌본점",
-      "link": "https://www.instagram.com/lafarina.bagel",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 140 라파리나",
-      "roadAddress": "서울특별시 종로구 자하문로 44 라파리나",
-      "mapx": "1269715365",
-      "mapy": "375799955"
-    },
-    {
-      "title": "서촌 금상고로케",
-      "link": "https://www.instagram.com/seochonkumsang",
-      "category": "카페,디저트>베이커리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 74",
-      "roadAddress": "서울특별시 종로구 자하문로9길 24",
-      "mapx": "1269697116",
-      "mapy": "375795180"
-    },
-    {
-      "title": "이도림 세종대왕 생가터 서촌 경복궁 본점",
-      "link": "https://www.instagram.com/leedorim.seoul/",
+      "title": "카페 아이갓에브리씽 대한민국역사박물관점",
+      "link": "https://www.instagram.com/igoteverything_much?igsh=Y2hpODF6bGJvMzdx",
       "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 118-2 이도림 세종대왕 생가터 서촌 경복궁 본점",
-      "roadAddress": "서울특별시 종로구 자하문로 43 이도림 세종대왕 생가터 서촌 경복궁 본점",
-      "mapx": "1269710879",
-      "mapy": "375799483"
+      "address": "서울특별시 종로구 세종로 82-1 3층",
+      "roadAddress": "서울특별시 종로구 세종대로 198 3층",
+      "mapx": "1269778315",
+      "mapy": "375741088"
     },
     {
-      "title": "마사마드레",
+      "title": "카멜커피 서촌점",
+      "link": "https://www.instagram.com/camelcoffee_kor/",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 7-25 1층, 2층",
+      "roadAddress": "서울특별시 종로구 효자로 31 1층, 2층",
+      "mapx": "1269737395",
+      "mapy": "375787927"
+    },
+    {
+      "title": "대봉칼국수보쌈",
       "link": "",
-      "category": "카페,디저트>베이커리",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 1-7",
-      "roadAddress": "서울특별시 종로구 자하문로7길 68-3",
-      "mapx": "1269691233",
-      "mapy": "375804345"
+      "address": "서울특별시 종로구 내수동 74 지하 112, 113호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하 112, 113호",
+      "mapx": "1269731379",
+      "mapy": "375737740"
     },
     {
-      "title": "고가빈커리하우스 광화문본점",
-      "link": "http://instagram.com/gogabin_curryhouse",
-      "category": "음식점>일식>카레",
+      "title": "닭궁뎅이 본점",
+      "link": "",
+      "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 110-48 3층",
-      "roadAddress": "서울특별시 종로구 경희궁2길 7 3층",
-      "mapx": "1269709645",
-      "mapy": "375728814"
+      "address": "서울특별시 종로구 화동 116 1~3층",
+      "roadAddress": "서울특별시 종로구 북촌로 31-22 1~3층",
+      "mapx": "1269837448",
+      "mapy": "375795641"
+    },
+    {
+      "title": "드밑 De Mitt",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 120-14 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 18-13 1층",
+      "mapx": "1269701612",
+      "mapy": "375779177"
     }
   ]
 }

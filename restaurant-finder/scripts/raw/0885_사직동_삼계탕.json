@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:03 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:53:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "토속촌 <b>삼계탕</b>",
+      "title": "토속촌<b>삼계탕</b>",
       "link": "http://www.tosokchon.co.kr/",
       "category": "한식>백숙,삼계탕",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 체부동 85-1 토속촌",
       "roadAddress": "서울특별시 종로구 자하문로5길 5 토속촌",
-      "mapx": "1269716148",
-      "mapy": "375776587"
+      "mapx": "1269715865",
+      "mapy": "375776607"
     },
     {
       "title": "장수한방<b>삼계탕</b>",
@@ -38,15 +38,15 @@
       "mapy": "375737740"
     },
     {
-      "title": "고봉<b>삼계탕</b> 광화문점",
+      "title": "토담<b>삼계탕</b>",
       "link": "",
-      "category": "음식점>한식>육류,고기요리>백숙,삼계탕",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 25 정우빌딩 2층",
-      "roadAddress": "서울특별시 종로구 새문안로 89 정우빌딩 2층",
-      "mapx": "1269744499",
-      "mapy": "375703908"
+      "address": "서울특별시 종로구 필운동 211 1층 좌측호",
+      "roadAddress": "서울특별시 종로구 사직로 101 1층 좌측호",
+      "mapx": "1269699384",
+      "mapy": "375762538"
     },
     {
       "title": "감나무집",

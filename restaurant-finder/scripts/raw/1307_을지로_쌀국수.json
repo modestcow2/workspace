@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:22 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:58:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375652023"
     },
     {
-      "title": "벱비엣 <b>을지로</b>본점",
+      "title": "퍼퓰러",
       "link": "",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 저동2가 75 2층",
-      "roadAddress": "서울특별시 중구 마른내로 17-1 2층",
-      "mapx": "1269897914",
-      "mapy": "375649783"
+      "address": "서울특별시 중구 을지로6가 23-9 1, 2층",
+      "roadAddress": "서울특별시 중구 을지로44길 2 1, 2층",
+      "mapx": "1270066021",
+      "mapy": "375659765"
     },
     {
-      "title": "타이24",
-      "link": "",
-      "category": "음식점>태국음식",
+      "title": "코애<b>쌀국수</b> <b>을지로</b>점",
+      "link": "https://www.facebook.com/KhoeRestaurant",
+      "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-64 3층",
-      "roadAddress": "서울특별시 중구 명동9길 33 3층",
-      "mapx": "1269841157",
-      "mapy": "375652430"
+      "address": "서울특별시 중구 입정동 280 2층 203B호, 204호",
+      "roadAddress": "서울특별시 중구 을지로15길 32 2층 203B호, 204호",
+      "mapx": "1269944136",
+      "mapy": "375681001"
     }
   ]
 }

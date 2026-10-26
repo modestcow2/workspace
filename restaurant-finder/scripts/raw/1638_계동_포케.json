@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:57 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:02:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
+      "title": "와이스타브 다이어트 광화문점",
+      "link": "https://www.instagram.com/whystarve.kr/",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
+      "address": "서울특별시 종로구 종로1가 24 지하1층 122-2호",
+      "roadAddress": "서울특별시 종로구 종로 19 지하1층 122-2호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
     },
     {
       "title": "샐러링 광화문점",
@@ -27,37 +27,37 @@
       "mapy": "375682184"
     },
     {
-      "title": "라이크샐러드",
-      "link": "https://www.instagram.com/like_salad_SKKU",
-      "category": "도시락,컵밥>다이어트,샐러드",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 명륜3가 1-190 1층 LIKE SALAD",
-      "roadAddress": "서울특별시 종로구 명륜길 44 1층 LIKE SALAD",
-      "mapx": "1269949025",
-      "mapy": "375890462"
-    },
-    {
-      "title": "슬로우캘리 광화문",
+      "title": "슬로우캘리 종각역",
       "link": "http://www.slowcali.co.kr",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 제1층 121-1호",
-      "roadAddress": "서울특별시 종로구 종로 19 제1층 121-1호",
-      "mapx": "1269801711",
-      "mapy": "375708095"
+      "address": "서울특별시 종로구 공평동 17 센트로폴리스 1층 Retail 1R-7호",
+      "roadAddress": "서울특별시 종로구 우정국로 26 센트로폴리스 1층 Retail 1R-7호",
+      "mapx": "1269836590",
+      "mapy": "375714967"
     },
     {
-      "title": "점점점 샐러드",
-      "link": "https://youtube.com/@_jum_2023",
+      "title": "슬로우캘리 을지로점",
+      "link": "http://www.slowcali.co.kr",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 B116A-3호 지하1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 B116A-3호 지하1층",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 중구 수하동 67 미래에셋센터원 지1층 118호",
+      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋센터원 지1층 118호",
+      "mapx": "1269850954",
+      "mapy": "375672787"
+    },
+    {
+      "title": "슬로우캘리 대학로점",
+      "link": "",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 명륜2가 227-1 1층",
+      "roadAddress": "서울특별시 종로구 성균관로 7-1 1층",
+      "mapx": "1269980883",
+      "mapy": "375835802"
     }
   ]
 }

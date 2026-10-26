@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:29 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:52:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375727663"
     },
     {
-      "title": "명인<b>설렁탕</b> 광장시장점",
-      "link": "",
-      "category": "한식>곰탕,설렁탕",
+      "title": "은설<b>설렁탕</b>",
+      "link": "https://www.facebook.com/lee.jaehyun3154",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로5가 138-4 2층 208~213호",
-      "roadAddress": "서울특별시 종로구 종로 210 2층 208~213호",
-      "mapx": "1270014322",
-      "mapy": "375707088"
+      "address": "서울특별시 종로구 화동 55-1 은설설렁탕",
+      "roadAddress": "서울특별시 종로구 북촌로5가길 44-6 은설설렁탕",
+      "mapx": "1269816320",
+      "mapy": "375816001"
     },
     {
       "title": "문화옥",
@@ -38,26 +38,26 @@
       "mapy": "375680851"
     },
     {
-      "title": "<b>종로설렁탕</b>",
+      "title": "맑은곰탕 고음 <b>종로</b>",
       "link": "",
       "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로3가 107-1",
-      "roadAddress": "서울특별시 종로구 종로 110-1",
-      "mapx": "1269898070",
-      "mapy": "375699371"
+      "address": "서울특별시 종로구 인사동 209 맑은곰탕 고음 종로",
+      "roadAddress": "서울특별시 종로구 인사동3길 35 맑은곰탕 고음 종로",
+      "mapx": "1269850151",
+      "mapy": "375714996"
     },
     {
-      "title": "미성옥",
+      "title": "신가원 <b>설렁탕</b>",
       "link": "",
       "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 54-6",
-      "roadAddress": "서울특별시 중구 명동길 25-11",
-      "mapx": "1269839596",
-      "mapy": "375641835"
+      "address": "서울특별시 중구 다동 141 신가원설렁탕",
+      "roadAddress": "서울특별시 중구 을지로3길 21 신가원설렁탕",
+      "mapx": "1269815002",
+      "mapy": "375670246"
     }
   ]
 }

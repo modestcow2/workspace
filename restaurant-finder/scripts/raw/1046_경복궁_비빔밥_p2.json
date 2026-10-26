@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:20 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:55:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 22-9 1층",
       "mapx": "1269802214",
       "mapy": "375778524"
-    },
-    {
-      "title": "본죽&amp;<b>비빔밥</b>cafe <b>경복궁</b>역점",
-      "link": "https://www.bonif.co.kr/menu/list?brdCd=BF102",
-      "category": "음식점>죽",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-2 1층",
-      "roadAddress": "서울특별시 종로구 자하문로2길 1 1층",
-      "mapx": "1269727756",
-      "mapy": "375765833"
     },
     {
       "title": "옥이네밥집포차 서촌 본점",
@@ -49,15 +38,26 @@
       "mapy": "375745601"
     },
     {
-      "title": "시래기담은",
-      "link": "https://www.instagram.com/siraegidameun",
+      "title": "수라재",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 팔판동 71 시래기담은",
-      "roadAddress": "서울특별시 종로구 삼청로 65-2 시래기담은",
-      "mapx": "1269809917",
-      "mapy": "375815898"
+      "address": "서울특별시 종로구 통의동 66 2층",
+      "roadAddress": "서울특별시 종로구 자하문로 18-1 2층",
+      "mapx": "1269723288",
+      "mapy": "375778157"
+    },
+    {
+      "title": "서래미소 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/misooblack",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 통의동 35-43 3~5층",
+      "roadAddress": "서울특별시 종로구 자하문로 10 3~5층",
+      "mapx": "1269726487",
+      "mapy": "375770180"
     }
   ]
 }

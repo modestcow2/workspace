@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:51 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:50:29 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "고씨네동해막국수 종로직영점",
-      "link": "https://blog.naver.com/hjwm0116",
-      "category": "한식>막국수",
+      "title": "온정옥 익선본점",
+      "link": "https://www.instagram.com/onjeongok_seoul/",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 68 1층",
-      "roadAddress": "서울특별시 종로구 인사동12길 3 1층",
-      "mapx": "1269846887",
-      "mapy": "375744624"
+      "address": "서울특별시 종로구 익선동 130 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로30길 34-4 1층",
+      "mapx": "1269894970",
+      "mapy": "375741007"
     },
     {
-      "title": "신사동인동 안녕인사동점",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinsadongindong_insa",
+      "title": "김숙성 을지로역점",
+      "link": "https://litt.ly/euljiro_kss",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 초동 17-4 1층",
+      "roadAddress": "서울특별시 중구 충무로 46-1 1층",
+      "mapx": "1269929343",
+      "mapy": "375651773"
+    },
+    {
+      "title": "장헌감자탕 종각본점",
+      "link": "https://www.instagram.com/jangheongamjatang_jongkak",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 인싸골 4층 407, 408호",
-      "roadAddress": "서울특별시 종로구 인사동길 49 인싸골 4층 407, 408호",
-      "mapx": "1269835556",
-      "mapy": "375744663"
+      "address": "서울특별시 종로구 관철동 12-13 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로12길 23 지하 1층",
+      "mapx": "1269859278",
+      "mapy": "375689574"
     },
     {
-      "title": "다반 안국",
-      "link": "https://app.catchtable.co.kr/ct/shop/daban_anguk",
+      "title": "담양대밭",
+      "link": "https://www.myeongdongkoreanbbq.com/ko",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 운니동 98-5 이노88타워 1층 104호 다반",
-      "roadAddress": "서울특별시 종로구 율곡로 88 이노88타워 1층 104호 다반",
-      "mapx": "1269889420",
-      "mapy": "375768090"
+      "address": "서울특별시 중구 을지로2가 199-63 1층, 2층",
+      "roadAddress": "서울특별시 중구 명동9길 39 1층, 2층",
+      "mapx": "1269840474",
+      "mapy": "375655596"
     },
     {
-      "title": "정백어가 <b>광화문</b> 피맛골본점",
-      "link": "",
-      "category": "한식>생선구이",
+      "title": "우아라 <b>광화문</b>점",
+      "link": "https://gowoofnb.com/",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 1층 122-1호, 122-2호",
-      "roadAddress": "서울특별시 종로구 종로 19 1층 122-1호, 122-2호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
-    {
-      "title": "잘빠진메밀 서순라길점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 묘동 3-1 잘빠진메밀 서순라길점",
-      "roadAddress": "서울특별시 종로구 율곡로8길 73 잘빠진메밀 서순라길점",
-      "mapx": "1269915043",
-      "mapy": "375740448"
+      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 우아라 광화문",
+      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 우아라 광화문",
+      "mapx": "1269791966",
+      "mapy": "375746798"
     }
   ]
 }

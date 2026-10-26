@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:49 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:56:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375737601"
     },
     {
-      "title": "BBQ<b>치킨</b> 경희궁자이점",
-      "link": "https://blog.naver.com/blogbbq",
-      "category": "음식점>치킨,닭강정",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 무악동 45-304",
-      "roadAddress": "서울특별시 종로구 통일로14길 8",
-      "mapx": "1269581063",
-      "mapy": "375749049"
-    },
-    {
       "title": "태성골뱅이신사 독립문점",
       "link": "",
       "category": "술집>맥주,호프",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 통일로 230",
       "mapx": "1269596728",
       "mapy": "375733672"
+    },
+    {
+      "title": "BBQ<b>치킨</b> 경희궁자이점",
+      "link": "https://blog.naver.com/blogbbq",
+      "category": "음식점>치킨,닭강정",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 무악동 45-304",
+      "roadAddress": "서울특별시 종로구 통일로14길 8",
+      "mapx": "1269581063",
+      "mapy": "375749049"
     },
     {
       "title": "진미통닭",

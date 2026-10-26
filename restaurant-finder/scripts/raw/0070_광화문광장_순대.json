@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:37 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:44:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "산수갑산",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 인현동1가 15-4",
+      "roadAddress": "서울특별시 중구 을지로20길 24",
+      "mapx": "1269953138",
+      "mapy": "375653833"
+    },
     {
       "title": "화목<b>순대</b>국전문 <b>광화문</b>1호점",
       "link": "",
@@ -27,28 +38,6 @@
       "mapy": "375626099"
     },
     {
-      "title": "청진동장터<b>순대</b>국",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 3-3",
-      "roadAddress": "서울특별시 종로구 종로5길 40",
-      "mapx": "1269804455",
-      "mapy": "375720966"
-    },
-    {
-      "title": "관북",
-      "link": "",
-      "category": "한식>순대,순댓국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 11-6 1,2층",
-      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
-      "mapx": "1269808546",
-      "mapy": "375719170"
-    },
-    {
       "title": "이경문<b>순대</b>곱창",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
       "mapx": "1269908574",
       "mapy": "375730931"
+    },
+    {
+      "title": "<b>광화문</b>더덕<b>순대</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 38-2",
+      "roadAddress": "서울특별시 종로구 새문안로5길 10",
+      "mapx": "1269750695",
+      "mapy": "375710722"
     }
   ]
 }

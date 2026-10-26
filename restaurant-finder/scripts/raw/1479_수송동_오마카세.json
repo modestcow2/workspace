@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:42 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:00:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,37 +27,37 @@
       "mapy": "375723952"
     },
     {
-      "title": "스시우미 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushiumi_ghm",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B113",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B113",
-      "mapx": "1269815061",
-      "mapy": "375725618"
-    },
-    {
-      "title": "스시와",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushiwa",
+      "title": "서울 <b>오마카세</b> 우미마토 마곡본점",
+      "link": "https://catchtable.co.kr/umimato",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 85 서머셋팰리스서울 2층 201호",
-      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스서울 2층 201호",
-      "mapx": "1269812442",
-      "mapy": "375750348"
+      "address": "서울특별시 강서구 마곡동 774-3 센테니아 114호",
+      "roadAddress": "서울특별시 강서구 공항대로 219 센테니아 114호",
+      "mapx": "1268323103",
+      "mapy": "375594735"
     },
     {
-      "title": "<b>오마카세</b> 오사이초밥 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
-      "category": "음식점>일식>초밥,롤",
+      "title": "스무고개 해운대점",
+      "link": "https://www.instagram.com/smugogae_haeundae/reels/?__d=1%2F",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "부산광역시 해운대구 중동 742-4 1층, 2층",
+      "roadAddress": "부산광역시 해운대구 좌동순환로468번가길 81 1층, 2층",
+      "mapx": "1291750243",
+      "mapy": "351645962"
+    },
+    {
+      "title": "스시타다시",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushi_tadasi",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "대구광역시 수성구 두산동 721 3F",
+      "roadAddress": "대구광역시 수성구 지범로 33 3F",
+      "mapx": "1286254128",
+      "mapy": "358275583"
     }
   ]
 }

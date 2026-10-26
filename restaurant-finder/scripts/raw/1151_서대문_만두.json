@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:09 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:56:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 서대문구 연희맛로 22 삼원빌딩",
       "mapx": "1269301144",
       "mapy": "375669752"
+    },
+    {
+      "title": "편의방",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-94",
+      "roadAddress": "서울특별시 서대문구 연희로 36",
+      "mapx": "1269275231",
+      "mapy": "375617816"
     },
     {
       "title": "이품",
@@ -38,26 +49,15 @@
       "mapy": "375819180"
     },
     {
-      "title": "편의방",
+      "title": "청화원",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 연희동 353-94",
-      "roadAddress": "서울특별시 서대문구 연희로 36",
-      "mapx": "1269275231",
-      "mapy": "375617816"
-    },
-    {
-      "title": "미스터서왕<b>만두</b>",
-      "link": "",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 대현동 27-20 103호 가이아오피스텔",
-      "roadAddress": "서울특별시 서대문구 신촌역로 16 103호 가이아오피스텔",
-      "mapx": "1269433440",
-      "mapy": "375581397"
+      "address": "서울특별시 서대문구 창천동 18-1 1층 청화원",
+      "roadAddress": "서울특별시 서대문구 명물길 10 1층 청화원",
+      "mapx": "1269375150",
+      "mapy": "375574695"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:40 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:58:58 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375589160"
     },
     {
-      "title": "후로아",
-      "link": "https://app.catchtable.co.kr/ct/shop/FUROASEOUL?from=share&type=DINING",
-      "category": "브런치카페",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 충무로2가 61-2 1층",
-      "roadAddress": "서울특별시 중구 명동8가길 52 1층",
-      "mapx": "1269879696",
-      "mapy": "375618020"
-    },
-    {
       "title": "사운즈오브애플",
       "link": "https://www.instagram.com/soundsofapple_official/?next=%2F&hl=ko",
       "category": "음식점>카페,디저트",
@@ -38,26 +27,37 @@
       "mapy": "375619109"
     },
     {
-      "title": "크루세",
-      "link": "https://www.instagram.com/https://www.instagram.com/hotelkoreana/?igshid=MzRlODBiNWFlZA%3D%3D",
-      "category": "음식점>브런치",
+      "title": "후로아",
+      "link": "https://app.catchtable.co.kr/ct/shop/FUROASEOUL?from=share&type=DINING",
+      "category": "브런치카페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 2층",
-      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 2층",
-      "mapx": "1269765840",
-      "mapy": "375683348"
+      "address": "서울특별시 중구 충무로2가 61-2 1층",
+      "roadAddress": "서울특별시 중구 명동8가길 52 1층",
+      "mapx": "1269879696",
+      "mapy": "375618020"
     },
     {
-      "title": "37.5 시그니처 <b>명동</b>점",
-      "link": "https://www.instagram.com/375myeongdong",
-      "category": "음식점>양식",
+      "title": "오브옉트 레코드바",
+      "link": "https://objktt.kr/",
+      "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로1가 24-30 데이즈호텔 2층",
-      "roadAddress": "서울특별시 중구 퇴계로 107 데이즈호텔 2층",
-      "mapx": "1269836754",
-      "mapy": "375609242"
+      "address": "서울특별시 중구 충무로2가 60-12 4층",
+      "roadAddress": "서울특별시 중구 명동8가길 58 4층",
+      "mapx": "1269882271",
+      "mapy": "375617852"
+    },
+    {
+      "title": "솔트앤슈가",
+      "link": "https://www.instagram.com/saltandsugar_cafe?igsh=MXdvbWl3NGRpajV2NQ%3D%3D&utm_source=qr",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남산동2가 25-18 1층",
+      "roadAddress": "서울특별시 중구 퇴계로20길 49 1층",
+      "mapx": "1269866390",
+      "mapy": "375581296"
     }
   ]
 }

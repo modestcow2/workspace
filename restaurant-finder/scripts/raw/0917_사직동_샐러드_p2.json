@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:19 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:54:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "H라운지",
-      "link": "https://m.site.naver.com/1DVXM",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 35-21",
-      "roadAddress": "서울특별시 종로구 자하문로4길 21-9",
-      "mapx": "1269735061",
-      "mapy": "375779155"
-    },
     {
       "title": "애즈라이크 서촌",
       "link": "http://www.instagram.com/aslike_",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 효자로7길 23 1층 애즈라이크",
       "mapx": "1269733577",
       "mapy": "375783143"
+    },
+    {
+      "title": "웰믹스 광화문점",
+      "link": "https://www.instagram.com/wellmixx.life",
+      "category": "도시락,컵밥>다이어트,샐러드",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 1층 웰믹스 광화문점",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 1층 웰믹스 광화문점",
+      "mapx": "1269734280",
+      "mapy": "375717585"
     },
     {
       "title": "아이엠베이글 광화문점",
@@ -38,26 +38,26 @@
       "mapy": "375728521"
     },
     {
-      "title": "TLC",
+      "title": "라티에 경복궁 본점",
       "link": "",
-      "category": "음식점>브런치",
+      "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내수동 72 경희궁의 아침 3단지 상가 173호",
-      "roadAddress": "서울특별시 종로구 사직로8길 34 경희궁의 아침 3단지 상가 173호",
-      "mapx": "1269720359",
-      "mapy": "375739542"
+      "address": "서울특별시 종로구 적선동 80 적선현대 빌딩 지하1층 66호",
+      "roadAddress": "서울특별시 종로구 사직로 130 적선현대 빌딩 지하1층 66호",
+      "mapx": "1269733438",
+      "mapy": "375753767"
     },
     {
-      "title": "쁘띠통",
-      "link": "https://smartstore.naver.com/petittong",
+      "title": "리제로 서울 서촌 광화문 본점",
+      "link": "https://kardiaspace.com/place",
       "category": "음식점>카페,디저트",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통의동 25-16 쁘띠통",
-      "roadAddress": "서울특별시 종로구 자하문로6길 11-9 쁘띠통",
-      "mapx": "1269726116",
-      "mapy": "375785701"
+      "address": "서울특별시 종로구 신문로2가 1-348 3층, 4층, 루프탑",
+      "roadAddress": "서울특별시 종로구 경희궁3길 3-5 3층, 4층, 루프탑",
+      "mapx": "1269680821",
+      "mapy": "375729523"
     }
   ]
 }

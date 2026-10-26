@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:44 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:00:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "광화문나폴리 종각직영점",
+      "link": "https://blog.naver.com/napolijonggak/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 205호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 205호",
+      "mapx": "1269827635",
+      "mapy": "375722493"
+    },
+    {
+      "title": "부리또리 종로점",
+      "link": "",
+      "category": "음식점>멕시코,남미음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 대성스카이렉스 1층 112호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 대성스카이렉스 1층 112호",
+      "mapx": "1269826579",
+      "mapy": "375724270"
+    },
     {
       "title": "익선취향",
       "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
@@ -23,19 +45,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 권농동 189-2 2층",
       "roadAddress": "서울특별시 종로구 서순라길 89-7 2층",
-      "mapx": "1269921258",
-      "mapy": "375742436"
-    },
-    {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
+      "mapx": "1269921439",
+      "mapy": "375742047"
     },
     {
       "title": "콩카세 안국",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 북촌로 14-3 1층",
       "mapx": "1269858330",
       "mapy": "375781862"
-    },
-    {
-      "title": "오늘그대와 익선",
-      "link": "https://app.catchtable.co.kr/ct/shop/todaywithyou",
-      "category": "이탈리아음식>스파게티,파스타전문",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 166-48 1층 오늘그대와익선",
-      "roadAddress": "서울특별시 종로구 수표로28길 21-11 1층 오늘그대와익선",
-      "mapx": "1269897142",
-      "mapy": "375733855"
     }
   ]
 }

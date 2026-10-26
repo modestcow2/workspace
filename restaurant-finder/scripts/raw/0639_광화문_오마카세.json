@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:09 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:50:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "<b>오마카세</b> 오사이초밥 <b>광화문</b>점",
-      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
-      "category": "음식점>일식>초밥,롤",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
     {
       "title": "스시산원 궁",
       "link": "https://www.instagram.com/sushi_sanwongung/",
@@ -27,37 +16,48 @@
       "mapy": "375746201"
     },
     {
-      "title": "스시누하",
-      "link": "https://catchtable.co.kr/sushi_nuha",
+      "title": "<b>오마카세</b> 오사이초밥 <b>광화문</b>점",
+      "link": "https://app.catchtable.co.kr/ct/shop/542sushi_gwanghwamun",
+      "category": "음식점>일식>초밥,롤",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르종로타운 A동 2층 213호",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 A동 2층 213호",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
+      "title": "서울 <b>오마카세</b> 우미마토 마곡본점",
+      "link": "https://catchtable.co.kr/umimato",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누하동 146-3 스시누하",
-      "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
-      "mapx": "1269686694",
-      "mapy": "375791432"
+      "address": "서울특별시 강서구 마곡동 774-3 센테니아 114호",
+      "roadAddress": "서울특별시 강서구 공항대로 219 센테니아 114호",
+      "mapx": "1268323103",
+      "mapy": "375594735"
     },
     {
-      "title": "우아라 <b>광화문</b>점",
-      "link": "https://www.instagram.com/wooara__",
-      "category": "한식>소고기구이",
+      "title": "스시미치루",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushimichiru",
+      "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 중학동 19 더케이트윈타워 지하1층 우아라 광화문",
-      "roadAddress": "서울특별시 종로구 종로1길 50 더케이트윈타워 지하1층 우아라 광화문",
-      "mapx": "1269791966",
-      "mapy": "375746798"
+      "address": "서울특별시 종로구 수송동 146-1 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 지하 1층",
+      "mapx": "1269789959",
+      "mapy": "375739044"
     },
     {
-      "title": "고우가 <b>광화문</b>점",
-      "link": "https://go.catchtable.co.kr/jrrhv4v",
-      "category": "한식>소고기구이",
+      "title": "스시키마에",
+      "link": "https://catchtable.co.kr/sushikimae",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "roadAddress": "서울특별시 중구 세종대로 136 광화문역 SFC몰 지하2층 205호 고우가 광화문점",
-      "mapx": "1269782701",
-      "mapy": "375684246"
+      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 1층 141호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 1층 141호",
+      "mapx": "1269818155",
+      "mapy": "375723952"
     }
   ]
 }

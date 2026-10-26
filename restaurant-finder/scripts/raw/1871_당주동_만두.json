@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:44 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:04:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "link": "https://blog.naver.com/wusm-official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375721028"
     },
     {
-      "title": "가봉루",
+      "title": "밀가랑 칼국수 광화문점",
       "link": "",
-      "category": "중식>중식당",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 168 당주빌딩 3층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 5-27 당주빌딩 3층",
-      "mapx": "1269745821",
-      "mapy": "375710389"
+      "address": "서울특별시 종로구 당주동 5 B1층 17호, 18호",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 17호, 18호",
+      "mapx": "1269743108",
+      "mapy": "375720320"
     }
   ]
 }

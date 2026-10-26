@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:26 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:54:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
     {
       "title": "통의동 국빈관 경복궁역점",
       "link": "https://app.catchtable.co.kr/ct/shop/tonguidong_kukbingwan",
@@ -27,15 +16,26 @@
       "mapy": "375766155"
     },
     {
-      "title": "자하문로118 들풀",
-      "link": "",
+      "title": "사직로 서울",
+      "link": "https://www.instagram.com/sajikro_seoul",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 적선동 94 2층",
+      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
+      "mapx": "1269730650",
+      "mapy": "375761905"
+    },
+    {
+      "title": "심경희라라랜드 광화문",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 1층 113~116호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
+      "mapx": "1269824621",
+      "mapy": "375726226"
     },
     {
       "title": "오는정쪽<b>갈비</b>",
@@ -49,15 +49,15 @@
       "mapy": "375765654"
     },
     {
-      "title": "심경희라라랜드 광화문",
+      "title": "체부동잔치집돼지<b>갈비</b>",
       "link": "",
-      "category": "한식>소고기구이",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 견지동 110 1층 113~116호",
-      "roadAddress": "서울특별시 종로구 삼봉로 95 1층 113~116호",
-      "mapx": "1269824621",
-      "mapy": "375726226"
+      "address": "서울특별시 종로구 체부동 194-2",
+      "roadAddress": "서울특별시 종로구 자하문로1길 24",
+      "mapx": "1269710530",
+      "mapy": "375765468"
     }
   ]
 }

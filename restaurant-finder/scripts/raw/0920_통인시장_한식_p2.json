@@ -1,63 +1,63 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:20 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:54:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "잘빠진메밀 서촌 본점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "title": "대봉칼국수보쌈",
+      "link": "",
+      "category": "한식>족발,보쌈",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 120",
-      "roadAddress": "서울특별시 종로구 자하문로11길 4",
-      "mapx": "1269709994",
-      "mapy": "375796715"
+      "address": "서울특별시 종로구 내수동 74 지하 112, 113호",
+      "roadAddress": "서울특별시 종로구 사직로8길 42 지하 112, 113호",
+      "mapx": "1269731379",
+      "mapy": "375737740"
     },
     {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
-    },
-    {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
-    },
-    {
-      "title": "자하문로118 들풀",
+      "title": "드밑 De Mitt",
       "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 체부동 120-14 1층",
+      "roadAddress": "서울특별시 종로구 자하문로5길 18-13 1층",
+      "mapx": "1269701612",
+      "mapy": "375779177"
     },
     {
-      "title": "옹시미 경복궁점",
-      "link": "https://blog.naver.com/omgseemegbg",
-      "category": "한식>칼국수,만두",
+      "title": "대물섬 종로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/DAEMULSUMJongno",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 내자동 29-2 1층",
-      "roadAddress": "서울특별시 종로구 사직로 105 1층",
-      "mapx": "1269705376",
-      "mapy": "375762516"
+      "address": "서울특별시 종로구 관철동 43-12 1층",
+      "roadAddress": "서울특별시 종로구 종로8길 21 1층",
+      "mapx": "1269840613",
+      "mapy": "375691329"
+    },
+    {
+      "title": "장수장어대전 광화문점",
+      "link": "",
+      "category": "한식>장어,먹장어요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 70 그랑서울 타워1 405호 장수장어대전",
+      "roadAddress": "서울특별시 종로구 종로 33 그랑서울 타워1 405호 장수장어대전",
+      "mapx": "1269814392",
+      "mapy": "375709600"
+    },
+    {
+      "title": "산채향 청계광장점",
+      "link": "https://blog.naver.com/jae0824",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 96 프리미어플레이스 지하1층 산채향",
+      "roadAddress": "서울특별시 중구 청계천로 8 프리미어플레이스 지하1층 산채향",
+      "mapx": "1269780888",
+      "mapy": "375688580"
     }
   ]
 }

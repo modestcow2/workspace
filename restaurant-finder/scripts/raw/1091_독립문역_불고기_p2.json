@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:41 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:56:05 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375749329"
     },
     {
-      "title": "명원숯불갈비",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 행촌동 209-8",
-      "roadAddress": "서울특별시 종로구 통일로12길 8",
-      "mapx": "1269600719",
-      "mapy": "375732322"
-    },
-    {
       "title": "동영숯불갈비",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 통일로12길 6",
       "mapx": "1269599730",
       "mapy": "375731338"
+    },
+    {
+      "title": "명원숯불갈비",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 행촌동 209-8",
+      "roadAddress": "서울특별시 종로구 통일로12길 8",
+      "mapx": "1269600719",
+      "mapy": "375732322"
     },
     {
       "title": "능라밥상",

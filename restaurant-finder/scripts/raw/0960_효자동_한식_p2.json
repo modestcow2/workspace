@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:40 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:54:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -7,7 +7,7 @@
     {
       "title": "잘빠진메밀 서촌 본점",
       "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 통인동 120",
@@ -16,26 +16,15 @@
       "mapy": "375796715"
     },
     {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "title": "온지음 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
-    },
-    {
-      "title": "용금옥",
-      "link": "http://www.yonggeumok.co.kr",
-      "category": "한식>추어탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 118-5 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 41-2 1층",
-      "mapx": "1269711110",
-      "mapy": "375797918"
+      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
+      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
+      "mapx": "1269734438",
+      "mapy": "375804848"
     },
     {
       "title": "도취",
@@ -49,15 +38,26 @@
       "mapy": "375808659"
     },
     {
-      "title": "안주마을 통인점",
-      "link": "https://smartstore.naver.com/anjumaeul",
+      "title": "안덕",
+      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 159 1층 안주마을 통인점",
-      "roadAddress": "서울특별시 종로구 자하문로7길 12 1층 안주마을 통인점",
-      "mapx": "1269711394",
-      "mapy": "375784976"
+      "address": "서울특별시 종로구 옥인동 19-53 1층",
+      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
+      "mapx": "1269696346",
+      "mapy": "375815060"
+    },
+    {
+      "title": "안전가옥",
+      "link": "",
+      "category": "한식>소고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 47-105 .1층",
+      "roadAddress": "서울특별시 종로구 필운대로9나길 3 .1층",
+      "mapx": "1269670796",
+      "mapy": "375824570"
     }
   ]
 }

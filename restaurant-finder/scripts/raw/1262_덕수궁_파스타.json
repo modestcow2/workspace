@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:01 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:58:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 중구 정동 28-2",
       "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
+      "mapx": "1269692007",
+      "mapy": "375674315"
     },
     {
       "title": "오드하우스",
@@ -27,17 +27,6 @@
       "mapy": "375662530"
     },
     {
-      "title": "도치피자 광화문",
-      "link": "https://www.instagram.com/dochi_pz",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 1-49",
-      "roadAddress": "서울특별시 중구 세종대로21길 67-2",
-      "mapx": "1269755204",
-      "mapy": "375692966"
-    },
-    {
       "title": "스파게티가있는풍경 광화문점",
       "link": "https://www.instagram.com/pomodori_park",
       "category": "이탈리아음식>스파게티,파스타전문",
@@ -49,15 +38,26 @@
       "mapy": "375704933"
     },
     {
-      "title": "메이드인시카고피자",
-      "link": "",
+      "title": "도치피자 광화문",
+      "link": "https://www.instagram.com/dochi_pz",
       "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 365 2층",
-      "roadAddress": "서울특별시 중구 덕수궁길 5 2층",
-      "mapx": "1269764641",
-      "mapy": "375647953"
+      "address": "서울특별시 중구 정동 1-49",
+      "roadAddress": "서울특별시 중구 세종대로21길 67-2",
+      "mapx": "1269755204",
+      "mapy": "375692966"
+    },
+    {
+      "title": "아워킬리바 <b>덕수궁</b>점",
+      "link": "",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 순화동 217 덕수궁롯데캐슬 102동 L120호",
+      "roadAddress": "서울특별시 중구 서소문로9길 28 덕수궁롯데캐슬 102동 L120호",
+      "mapx": "1269707525",
+      "mapy": "375638014"
     }
   ]
 }

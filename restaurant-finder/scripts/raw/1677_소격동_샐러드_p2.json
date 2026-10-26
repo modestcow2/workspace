@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:15 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:02:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,15 +38,15 @@
       "mapy": "375837523"
     },
     {
-      "title": "슬로우파크",
-      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
-      "category": "음식점>이탈리아음식",
+      "title": "더 레스토랑",
+      "link": "http://www.therestaurant.co.kr/",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 15-2 15-2번지 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 141 삼청동15-2번지 1층",
-      "mapx": "1269814921",
-      "mapy": "375880187"
+      "address": "서울특별시 종로구 소격동 48",
+      "roadAddress": "서울특별시 종로구 삼청로 54",
+      "mapx": "1269804025",
+      "mapy": "375808245"
     },
     {
       "title": "이태리재",

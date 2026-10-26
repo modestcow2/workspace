@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:53 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:44:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,48 +16,48 @@
       "mapy": "375704933"
     },
     {
-      "title": "디라이프스타일키친 광화문점",
-      "link": "https://dlifestyle.co.kr/",
+      "title": "오늘그대와 익선",
+      "link": "https://app.catchtable.co.kr/ct/shop/todaywithyou",
+      "category": "이탈리아음식>스파게티,파스타전문",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 익선동 166-48 1층 오늘그대와익선",
+      "roadAddress": "서울특별시 종로구 수표로28길 21-11 1층 오늘그대와익선",
+      "mapx": "1269897142",
+      "mapy": "375733855"
+    },
+    {
+      "title": "서울부띠끄",
+      "link": "https://app.catchtable.co.kr/ct/shop/seoulboutique",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하1층 101호",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하1층 101호",
-      "mapx": "1269782701",
-      "mapy": "375684246"
+      "address": "서울특별시 중구 만리동1가 62-1",
+      "roadAddress": "서울특별시 중구 만리재로 209-1",
+      "mapx": "1269682380",
+      "mapy": "375561132"
     },
     {
-      "title": "루뽀",
-      "link": "https://app.catchtable.co.kr/ct/shop/luposeoul?from=share&type=DINING",
+      "title": "익선취향",
+      "link": "https://instagram.com/favorite_ikseon?igshid=1msb3rc6h9dge",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 도렴동 65 센터포인트 빌딩 2층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 31 센터포인트 빌딩 2층",
-      "mapx": "1269743036",
-      "mapy": "375730456"
+      "address": "서울특별시 종로구 익선동 166-70 1층",
+      "roadAddress": "서울특별시 종로구 수표로28길 17-32 1층",
+      "mapx": "1269895934",
+      "mapy": "375735970"
     },
     {
-      "title": "정원레스토랑 어반가든",
-      "link": "http://urbangarden.co.kr",
+      "title": "오드하우스",
+      "link": "https://www.instagram.com/odd_haus",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 28-2",
-      "roadAddress": "서울특별시 중구 정동길 12-15",
-      "mapx": "1269692254",
-      "mapy": "375674386"
-    },
-    {
-      "title": "까사 이태리아",
-      "link": "https://app.catchtable.co.kr/ct/shop/casaitaly",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 23 까사 이태리아",
-      "roadAddress": "서울특별시 종로구 자하문로8길 10 까사 이태리아",
-      "mapx": "1269723542",
-      "mapy": "375787841"
+      "address": "서울특별시 중구 정동 1-28 신아기념관 G층",
+      "roadAddress": "서울특별시 중구 정동길 33 신아기념관 G층",
+      "mapx": "1269721868",
+      "mapy": "375662530"
     }
   ]
 }

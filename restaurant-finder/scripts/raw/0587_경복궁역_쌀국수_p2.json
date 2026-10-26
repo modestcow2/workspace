@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:45 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:50:20 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "알로이막막",
-      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
-      "category": "음식점>태국음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 150-1 1,2층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
-      "mapx": "1269705861",
-      "mapy": "375790359"
-    },
     {
       "title": "서촌 깜온 본점",
       "link": "https://app.catchtable.co.kr/ct/shop/Camon",
@@ -38,15 +27,15 @@
       "mapy": "375786417"
     },
     {
-      "title": "퍼리코 서촌",
-      "link": "",
-      "category": "음식점>베트남음식",
+      "title": "알로이막막",
+      "link": "https://app.catchtable.co.kr/ct/shop/aloeymagmag",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 106-1 1층",
-      "roadAddress": "서울특별시 종로구 필운대로1길 3 1층",
-      "mapx": "1269690311",
-      "mapy": "375772869"
+      "address": "서울특별시 종로구 통인동 150-1 1,2층",
+      "roadAddress": "서울특별시 종로구 자하문로7길 30 1,2층",
+      "mapx": "1269705861",
+      "mapy": "375790359"
     },
     {
       "title": "언껀",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 옥인2길 6 1층 언껀",
       "mapx": "1269668977",
       "mapy": "375808260"
+    },
+    {
+      "title": "벳남미식 경희궁직영점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내수동 110-48 2층",
+      "roadAddress": "서울특별시 종로구 경희궁2길 7 2층",
+      "mapx": "1269709391",
+      "mapy": "375728369"
     }
   ]
 }

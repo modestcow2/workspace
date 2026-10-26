@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:33 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:47:14 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "아이자와",
-      "link": "",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
-      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
-      "mapx": "1269733437",
-      "mapy": "375753767"
-    },
     {
       "title": "늘솜",
       "link": "https://www.instagram.com/_neulsom_official",
@@ -27,6 +16,17 @@
       "mapy": "375753767"
     },
     {
+      "title": "아이자와",
+      "link": "",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 현대적성빌딩 지하1층 13호",
+      "roadAddress": "서울특별시 종로구 사직로 130 현대적성빌딩 지하1층 13호",
+      "mapx": "1269733437",
+      "mapy": "375753767"
+    },
+    {
       "title": "사직동 그 가게",
       "link": "http://www.rogpa.com",
       "category": "테마카페",
@@ -34,8 +34,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 사직동 1-7",
       "roadAddress": "서울특별시 종로구 사직로9길 18",
-      "mapx": "1269677898",
-      "mapy": "375770928"
+      "mapx": "1269677662",
+      "mapy": "375770879"
     },
     {
       "title": "미카야",

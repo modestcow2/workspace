@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:12 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:02:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375733361"
     },
     {
-      "title": "북촌무궁화",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "산산옥 종각 본점",
+      "link": "https://sansanok.com",
+      "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 137",
-      "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
-      "mapy": "375723618"
+      "address": "서울특별시 종로구 관철동 6-4 1층",
+      "roadAddress": "서울특별시 종로구 삼일대로19길 6 1층",
+      "mapx": "1269872490",
+      "mapy": "375696366"
     }
   ]
 }

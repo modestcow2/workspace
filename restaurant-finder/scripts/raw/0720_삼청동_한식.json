@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:47 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:51:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "북촌도담",
-      "link": "https://www.instagram.com/bukchondodam",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 133",
-      "roadAddress": "서울특별시 종로구 북촌로1길 9",
-      "mapx": "1269854316",
-      "mapy": "375772856"
-    },
     {
       "title": "<b>삼청동</b>수제비",
       "link": "http://www.삼청동수제비.kr",
@@ -25,6 +14,28 @@
       "roadAddress": "서울특별시 종로구 삼청로 101-1",
       "mapx": "1269819599",
       "mapy": "375845273"
+    },
+    {
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
+    },
+    {
+      "title": "미옥안국",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 148-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 79 1층",
+      "mapx": "1269821228",
+      "mapy": "375791773"
     },
     {
       "title": "안암",
@@ -38,26 +49,15 @@
       "mapy": "375794197"
     },
     {
-      "title": "율동칼국수",
-      "link": "",
+      "title": "북촌도담",
+      "link": "https://www.instagram.com/bukchondodam",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 9 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
-      "mapx": "1269846160",
-      "mapy": "375794433"
-    },
-    {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
+      "address": "서울특별시 종로구 안국동 133",
+      "roadAddress": "서울특별시 종로구 북촌로1길 9",
+      "mapx": "1269852649",
+      "mapy": "375773759"
     }
   ]
 }

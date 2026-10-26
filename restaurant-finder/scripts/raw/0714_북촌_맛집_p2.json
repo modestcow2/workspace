@@ -1,23 +1,45 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:44 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:51:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "더타코부스 NYC 안국점",
+      "title": "닭궁뎅이 본점",
       "link": "",
-      "category": "음식점>양식>멕시코,남미음식",
+      "category": "음식점>치킨,닭강정",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 86 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 6-3 1층",
-      "mapx": "1269860399",
-      "mapy": "375774613"
+      "address": "서울특별시 종로구 화동 116 1~3층",
+      "roadAddress": "서울특별시 종로구 북촌로 31-22 1~3층",
+      "mapx": "1269837448",
+      "mapy": "375795641"
+    },
+    {
+      "title": "비움안국",
+      "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 45-9 1층 비움안국",
+      "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
+      "mapx": "1269856635",
+      "mapy": "375791098"
+    },
+    {
+      "title": "르피노베이크하우스",
+      "link": "https://www.instagram.com/lepinobakehaus_official/",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 46-1 1층",
+      "roadAddress": "서울특별시 종로구 북촌로4길 12 1층",
+      "mapx": "1269858836",
+      "mapy": "375791679"
     },
     {
       "title": "봉이밥 삼청동점",
-      "link": "",
+      "link": "https://www.instagram.com/bong_ee_bab",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -27,37 +49,15 @@
       "mapy": "375842989"
     },
     {
-      "title": "도토리가든 안국점",
-      "link": "https://www.instagram.com/dotori__seoul",
-      "category": "음식점>카페,디저트",
+      "title": "아메리칸 브런치 카페",
+      "link": "https://www.instagram.com/american.brunch.cafe",
+      "category": "음식점>브런치",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-45 1층",
-      "roadAddress": "서울특별시 종로구 계동길 19-8 1층",
-      "mapx": "1269862903",
-      "mapy": "375780996"
-    },
-    {
-      "title": "잭잭 안국점",
-      "link": "https://www.instagram.com/jackjack_kr?igsh=a2E3enEyMzhzbDU2",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 159 101호, 201호",
-      "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
-      "mapx": "1269845845",
-      "mapy": "375765164"
-    },
-    {
-      "title": "호이식 종로 안국",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-7 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
-      "mapx": "1269863069",
-      "mapy": "375777908"
+      "address": "서울특별시 종로구 안국동 92 1층",
+      "roadAddress": "서울특별시 종로구 율곡로 49-16 1층",
+      "mapx": "1269843728",
+      "mapy": "375767815"
     }
   ]
 }

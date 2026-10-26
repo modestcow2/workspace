@@ -1,23 +1,34 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:28 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:51:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "호이식 종로 안국",
-      "link": "",
-      "category": "한식>칼국수,만두",
+      "title": "삼청동수제비",
+      "link": "http://www.삼청동수제비.kr",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-7 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 10 1층",
-      "mapx": "1269863069",
-      "mapy": "375777908"
+      "address": "서울특별시 종로구 삼청동 99",
+      "roadAddress": "서울특별시 종로구 삼청로 101-1",
+      "mapx": "1269819599",
+      "mapy": "375845273"
+    },
+    {
+      "title": "무구옥",
+      "link": "https://www.instagram.com/muguok_seoul",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사간동 126-1 지상1층",
+      "roadAddress": "서울특별시 종로구 율곡로1길 7 지상1층",
+      "mapx": "1269799066",
+      "mapy": "375764071"
     },
     {
       "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "link": "https://www.k-delicious.kr/",
       "category": "한식>국수",
       "description": "",
       "telephone": "",
@@ -27,26 +38,15 @@
       "mapy": "375782217"
     },
     {
-      "title": "<b>북촌</b>도담",
-      "link": "https://www.instagram.com/bukchondodam",
-      "category": "음식점>한식",
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 133",
-      "roadAddress": "서울특별시 종로구 북촌로1길 9",
-      "mapx": "1269854316",
-      "mapy": "375772856"
-    },
-    {
-      "title": "애호락 안국본점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 계동 107-1 2층 애호락",
-      "roadAddress": "서울특별시 종로구 계동길 41 2층 애호락",
-      "mapx": "1269866350",
-      "mapy": "375791838"
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
     },
     {
       "title": "꽃누리들밥 경복궁점",

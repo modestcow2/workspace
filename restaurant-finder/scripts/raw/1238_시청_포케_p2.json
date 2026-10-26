@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:50 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:57:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,8 +12,8 @@
       "telephone": "",
       "address": "서울특별시 중구 북창동 71-2 2층",
       "roadAddress": "서울특별시 중구 남대문로1길 30 2층",
-      "mapx": "1269775175",
-      "mapy": "375623578"
+      "mapx": "1269775280",
+      "mapy": "375623366"
     },
     {
       "title": "슬로우캘리 서울<b>시청</b>역점",
@@ -49,15 +49,15 @@
       "mapy": "372638833"
     },
     {
-      "title": "<b>포케</b>153 <b>시청</b>점",
-      "link": "https://www.instagram.com/poke_153",
+      "title": "Poke all day <b>포케</b>&amp;샐러드 화성<b>시청</b>점",
+      "link": "https://pokeallday.co.kr/",
       "category": "도시락,컵밥>다이어트,샐러드",
       "description": "",
       "telephone": "",
-      "address": "대전광역시 서구 둔산동 1419 1층 103호",
-      "roadAddress": "대전광역시 서구 둔산중로 38 1층 103호",
-      "mapx": "1273872537",
-      "mapy": "363499644"
+      "address": "경기도 화성시 만세구 남양읍 남양리 2073-7 1동 1층 104호",
+      "roadAddress": "경기도 화성시 만세구 남양읍 역골중앙로 14 1동 1층 104호",
+      "mapx": "1268264457",
+      "mapy": "372022407"
     }
   ]
 }

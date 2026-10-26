@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:59 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:47:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
       "mapx": "1269704883",
       "mapy": "375777902"
+    },
+    {
+      "title": "사토루 더 서촌",
+      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 체부동 24",
+      "roadAddress": "서울특별시 종로구 자하문로7길 11",
+      "mapx": "1269709856",
+      "mapy": "375783639"
     },
     {
       "title": "로쿠지",
@@ -38,26 +49,15 @@
       "mapy": "375782119"
     },
     {
-      "title": "사토루 더 서촌",
-      "link": "https://app.catchtable.co.kr/ct/shop/satoru",
-      "category": "음식점>일식>일식당",
+      "title": "멘츠루 경복궁점",
+      "link": "https://www.instagram.com/menchuru.gyeongbokgung",
+      "category": "음식점>일식>일본식라면",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 24",
-      "roadAddress": "서울특별시 종로구 자하문로7길 11",
-      "mapx": "1269709856",
-      "mapy": "375783639"
-    },
-    {
-      "title": "일일주",
-      "link": "",
-      "category": "술집>이자카야",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 201동 108호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 201동 108호",
-      "mapx": "1269694864",
-      "mapy": "375749128"
+      "address": "서울특별시 종로구 체부동 42 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 15 1층",
+      "mapx": "1269719520",
+      "mapy": "375774785"
     }
   ]
 }

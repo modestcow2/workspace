@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:16 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 17:59:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375707534"
     },
     {
-      "title": "솔솥 <b>종로</b>타워점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Solsotpotricehouse",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 지하1층 B108호",
-      "roadAddress": "서울특별시 종로구 종로 51 지하1층 B108호",
-      "mapx": "1269835822",
-      "mapy": "375707034"
-    },
-    {
       "title": "랄랄라클럽",
       "link": "http://instagram.com/lallalla_350",
       "category": "도시락,컵밥>다이어트,샐러드",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로 51 지하1층 106호",
       "mapx": "1269836385",
       "mapy": "375707534"
+    },
+    {
+      "title": "필동함박 충무로 본점",
+      "link": "",
+      "category": "음식점>스테이크,립",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 필동2가 28-14 1층 필동함박 충무로 본점",
+      "roadAddress": "서울특별시 중구 필동로 7-1 1층 필동함박 충무로 본점",
+      "mapx": "1269962680",
+      "mapy": "375609184"
     }
   ]
 }

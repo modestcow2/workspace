@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:57 +0900",
+  "lastBuildDate": "Mon, 26 Oct 2026 18:05:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "샹츠마라 종로점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-14 2층",
+      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
+      "mapx": "1269859110",
+      "mapy": "375686220"
+    },
+    {
+      "title": "하우<b>마라탕</b> 종로점",
+      "link": "https://www.instagram.com/hawoo_jongno?igsh=N3VkYzNlM3o5Z3lp",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 5-1 2층",
+      "roadAddress": "서울특별시 종로구 종로16길 12 2층",
+      "mapx": "1269885196",
+      "mapy": "375695603"
+    },
     {
       "title": "마라중독",
       "link": "",
@@ -16,48 +38,26 @@
       "mapy": "375695065"
     },
     {
-      "title": "양궈푸<b>마라탕</b> 명동점",
+      "title": "사천약방",
       "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 36-3 2층",
-      "roadAddress": "서울특별시 중구 명동9길 15 2층",
-      "mapx": "1269847660",
-      "mapy": "375645620"
+      "address": "서울특별시 중구 을지로3가 322-3 1, 2층",
+      "roadAddress": "서울특별시 중구 수표로 48-15 1, 2층",
+      "mapx": "1269908141",
+      "mapy": "375655961"
     },
     {
-      "title": "여의주훠궈관 을지로본점",
-      "link": "https://www.instagram.com/yeouijuhuoguo",
+      "title": "훠궈먹고 명동점",
+      "link": "https://www.instagram.com/hotpot_mukgo_official/",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 을지로3가 323 4층 403호",
-      "roadAddress": "서울특별시 중구 을지로12길 12 4층 403호",
-      "mapx": "1269910635",
-      "mapy": "375657466"
-    },
-    {
-      "title": "샹츠마라 종로점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 11-14 2층",
-      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
-      "mapx": "1269859110",
-      "mapy": "375686220"
-    },
-    {
-      "title": "하우<b>마라탕</b> 종로점",
-      "link": "",
-      "category": "중식>마라탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1 2층",
-      "roadAddress": "서울특별시 종로구 종로16길 12 2층",
-      "mapx": "1269885196",
-      "mapy": "375695603"
+      "address": "서울특별시 중구 을지로2가 199-40 2층 204호, 205호",
+      "roadAddress": "서울특별시 중구 명동7길 21 2층 204호, 205호",
+      "mapx": "1269838787",
+      "mapy": "375647371"
     }
   ]
 }

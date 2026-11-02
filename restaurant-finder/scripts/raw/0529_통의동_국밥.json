@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:17 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 19:55:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
     {
       "title": "명작신의주찹쌀순대",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
       "mapx": "1269686008",
       "mapy": "375744035"
+    },
+    {
+      "title": "키친온유",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
+      "mapx": "1269688217",
+      "mapy": "375749073"
     },
     {
       "title": "비빔가락",
@@ -39,7 +39,7 @@
     },
     {
       "title": "광화문<b>국밥</b>",
-      "link": "",
+      "link": "https://gwanghwamungukbap.netlify.app/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -49,15 +49,15 @@
       "mapy": "375689749"
     },
     {
-      "title": "화목순대국전문 광화문1호점",
-      "link": "",
+      "title": "관북",
+      "link": "https://www.instagram.com/kwan_buk/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 40",
-      "roadAddress": "서울특별시 종로구 새문안로5길 11",
-      "mapx": "1269747764",
-      "mapy": "375712514"
+      "address": "서울특별시 종로구 청진동 11-6 1,2층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
+      "mapx": "1269808546",
+      "mapy": "375719170"
     }
   ]
 }

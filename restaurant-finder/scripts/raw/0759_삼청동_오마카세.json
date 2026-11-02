@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:05 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 19:57:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375788338"
     },
     {
-      "title": "우솔",
-      "link": "https://app.catchtable.co.kr/ct/shop/woosol?type=DINING",
-      "category": "한식>소고기구이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 안국동 129",
-      "roadAddress": "서울특별시 종로구 율곡로5길 14",
-      "mapx": "1269850136",
-      "mapy": "375771370"
-    },
-    {
-      "title": "삼월황",
-      "link": "https://smartstore.naver.com/samwolhwang",
-      "category": "카페,디저트>차",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 29 삼월황",
-      "roadAddress": "서울특별시 종로구 삼청로 124-4 삼월황",
-      "mapx": "1269820209",
-      "mapy": "375864381"
-    },
-    {
       "title": "온재",
       "link": "https://app.catchtable.co.kr/ct/shop/Onjae",
       "category": "음식점>일식>일식당",
@@ -49,15 +27,37 @@
       "mapy": "375797533"
     },
     {
-      "title": "구테이블 한정식",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "우솔",
+      "link": "https://app.catchtable.co.kr/ct/shop/woosol?type=DINING",
+      "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 86",
-      "roadAddress": "서울특별시 종로구 인사동14길 41",
-      "mapx": "1269848521",
-      "mapy": "375751535"
+      "address": "서울특별시 종로구 안국동 129",
+      "roadAddress": "서울특별시 종로구 율곡로5길 14",
+      "mapx": "1269850136",
+      "mapy": "375771370"
+    },
+    {
+      "title": "더 소와나",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 140 1층",
+      "roadAddress": "서울특별시 종로구 삼청로9길 5 1층",
+      "mapx": "1269813882",
+      "mapy": "375864915"
+    },
+    {
+      "title": "삼월황",
+      "link": "https://smartstore.naver.com/samwolhwang",
+      "category": "카페,디저트>차",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 29 삼월황",
+      "roadAddress": "서울특별시 종로구 삼청로 124-4 삼월황",
+      "mapx": "1269820209",
+      "mapy": "375864381"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:01 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 20:00:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,15 +16,15 @@
       "mapy": "375780061"
     },
     {
-      "title": "조선김밥",
-      "link": "",
-      "category": "분식>김밥",
+      "title": "개성만두 궁",
+      "link": "http://www.koong.co.kr/",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 안국동 22-1 1층",
-      "roadAddress": "서울특별시 종로구 율곡로3길 68 1층",
-      "mapx": "1269822132",
-      "mapy": "375786507"
+      "address": "서울특별시 종로구 관훈동 30-11",
+      "roadAddress": "서울특별시 종로구 인사동10길 11-3",
+      "mapx": "1269853889",
+      "mapy": "375742917"
     },
     {
       "title": "경춘자의라면땡기는날",
@@ -49,15 +49,15 @@
       "mapy": "375781763"
     },
     {
-      "title": "개성만두 궁",
-      "link": "http://www.koong.co.kr/",
+      "title": "밀양손만두",
+      "link": "",
       "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 관훈동 30-11",
-      "roadAddress": "서울특별시 종로구 인사동10길 11-3",
-      "mapx": "1269853889",
-      "mapy": "375742917"
+      "address": "서울특별시 종로구 계동 107-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 41 1층",
+      "mapx": "1269866713",
+      "mapy": "375791625"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:38 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 19:58:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375730931"
     },
     {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
+    },
+    {
       "title": "호반",
       "link": "",
       "category": "음식점>한식",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 삼일대로26길 20",
       "mapx": "1269891446",
       "mapy": "375733361"
-    },
-    {
-      "title": "북촌무궁화",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 137",
-      "roadAddress": "서울특별시 종로구 수표로 126",
-      "mapx": "1269889329",
-      "mapy": "375723618"
     },
     {
       "title": "청진동장터<b>순대</b>국",
@@ -49,15 +49,15 @@
       "mapy": "375720966"
     },
     {
-      "title": "산수갑산",
-      "link": "",
+      "title": "관북",
+      "link": "https://www.instagram.com/kwan_buk/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 인현동1가 15-4",
-      "roadAddress": "서울특별시 중구 을지로20길 24",
-      "mapx": "1269953138",
-      "mapy": "375653833"
+      "address": "서울특별시 종로구 청진동 11-6 1,2층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-5 1,2층",
+      "mapx": "1269808546",
+      "mapy": "375719170"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:04 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 20:06:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 율곡로10길 30 동주빌딩 1층",
       "mapx": "1269909994",
       "mapy": "375761086"
+    },
+    {
+      "title": "삼봉도담",
+      "link": "https://sambongdodam.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-34 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
+      "mapx": "1269825289",
+      "mapy": "375729806"
     },
     {
       "title": "황생가<b>칼국수</b>",
@@ -32,25 +43,14 @@
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-25 B1층",
-      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
+      "address": "서울특별시 중구 명동1가 59-25",
+      "roadAddress": "서울특별시 중구 명동3길 12",
       "mapx": "1269836320",
       "mapy": "375642444"
     },
     {
-      "title": "대련집",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관수동 163",
-      "roadAddress": "서울특별시 종로구 종로16길 37",
-      "mapx": "1269889029",
-      "mapy": "375683895"
-    },
-    {
       "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "link": "https://www.k-delicious.kr/",
       "category": "한식>국수",
       "description": "",
       "telephone": "",

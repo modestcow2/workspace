@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:58 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 19:59:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "보보식당 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
     {
       "title": "코끼리초밥 광화문점",
       "link": "https://blog.naver.com/kokirisushi",
@@ -23,17 +12,6 @@
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
       "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
-      "title": "TWG Tea 광화문점",
-      "link": "https://brand.naver.com/twgtea_official",
-      "category": "카페,디저트>홍차전문점",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 KT 광화문 빌딩 West 1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 KT 광화문 빌딩 West 1층",
       "mapx": "1269778819",
       "mapy": "375721535"
     },
@@ -49,13 +27,35 @@
       "mapy": "375721535"
     },
     {
-      "title": "오츠커피 광화문",
-      "link": "https://smartstore.naver.com/oatscoffee",
-      "category": "음식점>카페,디저트",
+      "title": "도우룸 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/doughroom?type=DINING",
+      "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 2층 213-2호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 2층 213-2호",
+      "address": "서울특별시 종로구 세종로 100 2층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 2층",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "파리바게뜨 광화문1945점",
+      "link": "",
+      "category": "카페,디저트>베이커리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 1층 102호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 1층 102호",
+      "mapx": "1269777401",
+      "mapy": "375721228"
+    },
+    {
+      "title": "덴푸라감춘 광화문",
+      "link": "https://blog.naver.com/tenpuragamchun",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 비108호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 비108호",
       "mapx": "1269778819",
       "mapy": "375721535"
     }

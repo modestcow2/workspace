@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:42 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 20:04:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -10,21 +10,32 @@
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 25-2",
-      "roadAddress": "서울특별시 중구 명동10길 29",
-      "mapx": "1269856025",
-      "mapy": "375625491"
+      "address": "서울특별시 중구 충무로2가 64-6",
+      "roadAddress": "서울특별시 중구 퇴계로 129",
+      "mapx": "1269861471",
+      "mapy": "375611325"
     },
     {
-      "title": "<b>명동</b>교자 신관<b>명동</b>역점",
-      "link": "https://www.mdkj.co.kr",
+      "title": "<b>명동</b>교자 1호점",
+      "link": "http://www.mdkj.co.kr/",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 충무로2가 64-6 명동교자 신관명동역점",
-      "roadAddress": "서울특별시 중구 퇴계로 129 명동교자 신관명동역점",
-      "mapx": "1269861470",
-      "mapy": "375611312"
+      "address": "서울특별시 중구 명동2가 33-4 명동교자",
+      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
+      "mapx": "1269851666",
+      "mapy": "375634828"
+    },
+    {
+      "title": "효담칼국수 닭한마리 <b>명동</b>본점",
+      "link": "https://www.instagram.com/hyodam_dakkal",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 명동1가 59-25",
+      "roadAddress": "서울특별시 중구 명동3길 12",
+      "mapx": "1269836320",
+      "mapy": "375642444"
     },
     {
       "title": "남포면옥",
@@ -38,26 +49,15 @@
       "mapy": "375671396"
     },
     {
-      "title": "효담칼국수 닭한마리 <b>명동</b>본점",
-      "link": "https://www.instagram.com/hyodam_dakkal",
+      "title": "진진<b>만두</b> 시청점",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjinmanducityhall?type=DINING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동1가 59-25 B1층",
-      "roadAddress": "서울특별시 중구 명동3길 12 B1층",
-      "mapx": "1269836320",
-      "mapy": "375642444"
-    },
-    {
-      "title": "<b>명동</b>교자 1호점",
-      "link": "http://www.mdkj.co.kr/",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동2가 33-4 명동교자",
-      "roadAddress": "서울특별시 중구 명동10길 10 명동교자",
-      "mapx": "1269851666",
-      "mapy": "375634828"
+      "address": "서울특별시 중구 을지로1가 192-11 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "roadAddress": "서울특별시 중구 을지로 6 JEI재능교육빌딩 1층, 진진만두 시청점",
+      "mapx": "1269792023",
+      "mapy": "375653757"
     }
   ]
 }

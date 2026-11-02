@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:58 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 20:07:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "미옥안국",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 148-2 1층",
+      "roadAddress": "서울특별시 종로구 율곡로3길 79 1층",
+      "mapx": "1269821228",
+      "mapy": "375791773"
+    },
     {
       "title": "삼청동수제비",
       "link": "http://www.삼청동수제비.kr",
@@ -27,28 +38,6 @@
       "mapy": "375801317"
     },
     {
-      "title": "도라보울",
-      "link": "https://www.instagram.com/dorabowl.soupcurry_official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 144-8",
-      "roadAddress": "서울특별시 종로구 북촌로5길 54",
-      "mapx": "1269820563",
-      "mapy": "375797533"
-    },
-    {
-      "title": "스낵서울",
-      "link": "https://www.instagram.com/snackseoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 80-6 2층",
-      "roadAddress": "서울특별시 종로구 팔판길 46 2층",
-      "mapx": "1269816137",
-      "mapy": "375837662"
-    },
-    {
       "title": "봉탁항아리바비큐 불쭈꾸미 삼청동 본점",
       "link": "",
       "category": "한식>육류,고기요리",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼청로 104-3",
       "mapx": "1269824147",
       "mapy": "375845995"
+    },
+    {
+      "title": "더 소와나",
+      "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 140 1층",
+      "roadAddress": "서울특별시 종로구 삼청로9길 5 1층",
+      "mapx": "1269813882",
+      "mapy": "375864915"
     }
   ]
 }

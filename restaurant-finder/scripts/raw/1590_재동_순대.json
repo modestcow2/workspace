@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:34 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 20:07:01 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "롤라곱창 안국역점",
-      "link": "https://www.instagram.com/lolla_gobchang?igsh=cWt6NDJwajBjZ3k1",
-      "category": "한식>곱창,막창,양",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-15 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 4 1층",
-      "mapx": "1269859341",
-      "mapy": "375778300"
-    },
     {
       "title": "떡산 안국",
       "link": "",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
       "mapx": "1269908574",
       "mapy": "375730931"
+    },
+    {
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     }
   ]
 }

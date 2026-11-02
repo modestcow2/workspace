@@ -1,19 +1,19 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:19 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 20:05:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "농민백암<b>순대</b> 시청직영점",
+      "title": "청담동순도리 종각점",
       "link": "",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 북창동 19-4",
-      "roadAddress": "서울특별시 중구 남대문로1길 33",
-      "mapx": "1269772550",
-      "mapy": "375626099"
+      "address": "서울특별시 종로구 종로2가 21 1층",
+      "roadAddress": "서울특별시 종로구 종로 85 1층",
+      "mapx": "1269869939",
+      "mapy": "375704003"
     },
     {
       "title": "산수갑산",
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 중구 을지로20길 24",
       "mapx": "1269953138",
       "mapy": "375653833"
+    },
+    {
+      "title": "농민백암<b>순대</b> 시청직영점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 19-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 33",
+      "mapx": "1269772550",
+      "mapy": "375626099"
     },
     {
       "title": "화목<b>순대</b>국전문 광화문1호점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
       "mapx": "1269908574",
       "mapy": "375730931"
-    },
-    {
-      "title": "호반",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 85-7",
-      "roadAddress": "서울특별시 종로구 삼일대로26길 20",
-      "mapx": "1269891446",
-      "mapy": "375733361"
     }
   ]
 }

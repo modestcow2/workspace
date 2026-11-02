@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:43 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 20:10:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375710722"
     },
     {
-      "title": "탐라<b>순대</b>국감자탕 광화문점",
-      "link": "https://www.instagram.com/tamla_gwanghwamun",
-      "category": "한식>감자탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 170-2 1층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 5-1 1층",
-      "mapx": "1269747400",
-      "mapy": "375708007"
-    },
-    {
       "title": "<b>순대</b>실록 광화문점",
       "link": "https://www.instagram.com/sundaesilrok/",
       "category": "한식>순대,순댓국",
@@ -49,15 +38,26 @@
       "mapy": "375708720"
     },
     {
-      "title": "회포",
-      "link": "https://app.catchtable.co.kr/ct/shop/heopo",
-      "category": "한식>생선회",
+      "title": "탐라<b>순대</b>국감자탕 광화문점",
+      "link": "https://www.instagram.com/tamla_gwanghwamun",
+      "category": "한식>감자탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 38-2 1층",
-      "roadAddress": "서울특별시 종로구 새문안로5길 10 1층",
-      "mapx": "1269750135",
-      "mapy": "375710982"
+      "address": "서울특별시 종로구 당주동 170-2 1층",
+      "roadAddress": "서울특별시 종로구 새문안로5길 5-1 1층",
+      "mapx": "1269747400",
+      "mapy": "375708007"
+    },
+    {
+      "title": "명작신의주찹쌀<b>순대</b>",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
+      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
+      "mapx": "1269686008",
+      "mapy": "375744035"
     }
   ]
 }

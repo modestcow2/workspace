@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:14 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 19:52:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,7 +16,7 @@
       "mapy": "375684612"
     },
     {
-      "title": "크루아타이",
+      "title": "크루아타이 서울역그랜드센트럴점",
       "link": "",
       "category": "음식점>태국음식",
       "description": "",
@@ -27,15 +27,15 @@
       "mapy": "375578385"
     },
     {
-      "title": "마스터비엣 서울역점",
+      "title": "모퉁이",
       "link": "",
       "category": "음식점>베트남음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 6-1 WISE TOWER B1층 106호",
-      "roadAddress": "서울특별시 중구 세종대로 17 WISE TOWER B1층 106호",
-      "mapx": "1269732806",
-      "mapy": "375586371"
+      "address": "서울특별시 중구 남대문로5가 21-1 지하2층",
+      "roadAddress": "서울특별시 중구 세종대로 30 지하2층",
+      "mapx": "1269749367",
+      "mapy": "375590098"
     },
     {
       "title": "니욤",

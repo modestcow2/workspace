@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:07:56 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 19:52:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,19 +38,19 @@
       "mapy": "375720966"
     },
     {
-      "title": "이경문<b>순대</b>곱창",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "현선이네 청계즉석점",
+      "link": "https://smartstore.naver.com/hyunsunine",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 돈의동 11-1",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 5",
-      "mapx": "1269908574",
-      "mapy": "375730931"
+      "address": "서울특별시 중구 남대문로1가 22-10 1층 (메가커피 옆)",
+      "roadAddress": "서울특별시 중구 남대문로 112 1층 (메가커피 옆)",
+      "mapx": "1269830312",
+      "mapy": "375671291"
     },
     {
       "title": "관북",
-      "link": "",
+      "link": "https://www.instagram.com/kwan_buk/",
       "category": "한식>순대,순댓국",
       "description": "",
       "telephone": "",

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:49 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 20:04:35 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "서당골 광화문점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 지하1층 B106-2, B106-3호",
-      "roadAddress": "서울특별시 종로구 종로 19 지하1층 B106-2, B106-3호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
-    },
     {
       "title": "푸드까페김밥천국 <b>종로</b>점",
       "link": "",
@@ -25,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 종로 19 르메이에르종로타운 1층 106호 푸드까페김밥천국",
       "mapx": "1269795303",
       "mapy": "375707330"
-    },
-    {
-      "title": "전주콩나물국밥",
-      "link": "",
-      "category": "한식>해장국",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 르메이에르 지하 1층",
-      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하 1층",
-      "mapx": "1269798606",
-      "mapy": "375708344"
     },
     {
       "title": "본죽&amp;<b>비빔밥</b> <b>종로</b>르메이에르점",
@@ -49,6 +27,17 @@
       "mapy": "375708344"
     },
     {
+      "title": "전주콩나물국밥",
+      "link": "",
+      "category": "한식>해장국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로1가 24 르메이에르 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로 19 르메이에르 지하 1층",
+      "mapx": "1269798606",
+      "mapy": "375708344"
+    },
+    {
       "title": "함평집 서울시청점",
       "link": "",
       "category": "음식점>한식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 중구 세종대로11길 42 부림빌딩 1층",
       "mapx": "1269736340",
       "mapy": "375622716"
+    },
+    {
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
     }
   ]
 }

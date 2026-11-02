@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:24 +0900",
+  "lastBuildDate": "Mon, 02 Nov 2026 19:59:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "남포면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 121-4",
-      "roadAddress": "서울특별시 중구 을지로3길 24",
-      "mapx": "1269815998",
-      "mapy": "375671396"
-    },
     {
       "title": "능라도 광화문점",
       "link": "",
@@ -28,7 +17,7 @@
     },
     {
       "title": "광화문면옥",
-      "link": "",
+      "link": "https://www.instagram.com/gwanghwamun_myeonok/",
       "category": "한식>냉면",
       "description": "",
       "telephone": "",
@@ -36,6 +25,28 @@
       "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
       "mapx": "1269747363",
       "mapy": "375698520"
+    },
+    {
+      "title": "이문면옥 광화문",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층 B108호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 B108호",
+      "mapx": "1269720469",
+      "mapy": "375687024"
+    },
+    {
+      "title": "남포면옥",
+      "link": "",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 다동 121-4",
+      "roadAddress": "서울특별시 중구 을지로3길 24",
+      "mapx": "1269815998",
+      "mapy": "375671396"
     },
     {
       "title": "류경회관 광화문점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
       "mapx": "1269818280",
       "mapy": "375724939"
-    },
-    {
-      "title": "을지면옥",
-      "link": "",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 55-1",
-      "roadAddress": "서울특별시 종로구 삼일대로30길 12",
-      "mapx": "1269886066",
-      "mapy": "375736812"
     }
   ]
 }

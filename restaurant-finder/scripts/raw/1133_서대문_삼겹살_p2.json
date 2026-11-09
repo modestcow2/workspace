@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:00 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:28:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "구이마을 본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 57-6 1층",
+      "roadAddress": "서울특별시 서대문구 연세로5가길 32 1층",
+      "mapx": "1269349009",
+      "mapy": "375573855"
+    },
     {
       "title": "설레임<b>삼겹살</b> 신촌점",
       "link": "",
@@ -16,37 +27,15 @@
       "mapy": "375572216"
     },
     {
-      "title": "신촌고기창고",
-      "link": "https://app.catchtable.co.kr/ct/shop/sinchongogichanggo?from=share&type=DINING",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 창천동 52-78",
-      "roadAddress": "서울특별시 서대문구 연세로7길 34-4",
-      "mapx": "1269350635",
-      "mapy": "375578649"
-    },
-    {
-      "title": "구이마을",
+      "title": "구이마을 2호점",
       "link": "",
       "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 창천동 57-6",
-      "roadAddress": "서울특별시 서대문구 연세로5가길 32",
-      "mapx": "1269349009",
-      "mapy": "375573855"
-    },
-    {
-      "title": "리정원 연희점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 193-16",
-      "roadAddress": "서울특별시 서대문구 연희맛로 4",
-      "mapx": "1269286242",
-      "mapy": "375658550"
+      "address": "서울특별시 서대문구 창천동 33-25 1층",
+      "roadAddress": "서울특별시 서대문구 연세로7안길 10 1층",
+      "mapx": "1269364093",
+      "mapy": "375581585"
     },
     {
       "title": "리정원 신촌점",
@@ -56,8 +45,19 @@
       "telephone": "",
       "address": "서울특별시 서대문구 창천동 9-26 1층 리정원",
       "roadAddress": "서울특별시 서대문구 명물길 59 1층 리정원",
-      "mapx": "1269393882",
-      "mapy": "375591466"
+      "mapx": "1269392717",
+      "mapy": "375591233"
+    },
+    {
+      "title": "꼬들집 연희점",
+      "link": "https://www.instagram.com/ggodle_house/",
+      "category": "한식>돼지고기구이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 132-43 2층",
+      "roadAddress": "서울특별시 서대문구 연희맛로 25 2층",
+      "mapx": "1269302319",
+      "mapy": "375674279"
     }
   ]
 }

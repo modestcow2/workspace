@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:56 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:36:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
       "mapx": "1269725749",
       "mapy": "375825416"
+    },
+    {
+      "title": "삼봉도담",
+      "link": "https://sambongdodam.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-34 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
+      "mapx": "1269825289",
+      "mapy": "375729806"
     },
     {
       "title": "황생가<b>칼국수</b>",
@@ -38,17 +49,6 @@
       "mapy": "375762516"
     },
     {
-      "title": "삼봉도담",
-      "link": "https://sambongdodam.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 110-34 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
-      "mapx": "1269825289",
-      "mapy": "375729806"
-    },
-    {
       "title": "체부동잔치집",
       "link": "",
       "category": "한식>국수",
@@ -56,8 +56,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 체부동 190",
       "roadAddress": "서울특별시 종로구 자하문로1길 16",
-      "mapx": "1269715263",
-      "mapy": "375765394"
+      "mapx": "1269714992",
+      "mapy": "375765099"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:26 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:28:41 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,28 @@
       "mapy": "375615766"
     },
     {
+      "title": "반포식스 덕수궁점",
+      "link": "http://www.banhpho6.com",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 53-2 1층",
+      "roadAddress": "서울특별시 중구 서소문로11길 6-1 1층",
+      "mapx": "1269731101",
+      "mapy": "375632005"
+    },
+    {
+      "title": "벳남미식 종로직영점",
+      "link": "",
+      "category": "음식점>베트남음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 서린동 136 지하1층 14호",
+      "roadAddress": "서울특별시 종로구 종로 14 지하1층 14호",
+      "mapx": "1269788787",
+      "mapy": "375698162"
+    },
+    {
       "title": "벳남미식 시청직영점",
       "link": "https://www.instagram.com/vietnammisik_cityhall",
       "category": "음식점>베트남음식",
@@ -36,28 +58,6 @@
       "roadAddress": "서울특별시 중구 서소문로 115 지하1층 103-2호, 104호",
       "mapx": "1269736520",
       "mapy": "375634157"
-    },
-    {
-      "title": "포언 시청점",
-      "link": "",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 다동 155 센터플레이스 212호",
-      "roadAddress": "서울특별시 중구 남대문로9길 40 센터플레이스 212호",
-      "mapx": "1269803692",
-      "mapy": "375670959"
-    },
-    {
-      "title": "땀땀 롯데백화점 본점",
-      "link": "",
-      "category": "음식점>베트남음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 소공동 1 롯데백화점 본점 지하1층",
-      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점 지하1층",
-      "mapx": "1269811881",
-      "mapy": "375647599"
     }
   ]
 }

@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:44 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:24:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "덴푸라감춘 광화문",
-      "link": "https://blog.naver.com/tenpuragamchun",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 비108호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 비108호",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
     {
       "title": "코끼리초밥 광화문점",
       "link": "https://blog.naver.com/kokirisushi",
@@ -23,6 +12,17 @@
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
       "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "덴푸라감춘 광화문",
+      "link": "https://blog.naver.com/tenpuragamchun",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 비108호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 비108호",
       "mapx": "1269778819",
       "mapy": "375721535"
     },
@@ -40,7 +40,7 @@
     {
       "title": "키보아츠아츠 광화문",
       "link": "https://www.instagram.com/keebo.co",
-      "category": "음식점>일식>일식당",
+      "category": "음식점>일식>돈가스",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100 KT광화문빌딩 West동 지하1층 B108-1호",
@@ -49,15 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "동해도 광화문점",
-      "link": "https://www.instagram.com/donghaedo1987",
+      "title": "진심",
+      "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 무교동 7 시그너스빌딩 지하1층 동해도",
-      "roadAddress": "서울특별시 중구 무교로 28 시그너스빌딩 지하1층 동해도",
-      "mapx": "1269794820",
-      "mapy": "375684296"
+      "address": "서울특별시 종로구 누하동 44 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
+      "mapx": "1269688129",
+      "mapy": "375798487"
     }
   ]
 }

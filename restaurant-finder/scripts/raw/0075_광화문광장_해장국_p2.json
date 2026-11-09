@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:39 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:14:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 종로구 종로3길 32",
       "mapx": "1269794207",
       "mapy": "375717535"
-    },
-    {
-      "title": "<b>광화문</b>뚝감",
-      "link": "",
-      "category": "한식>감자탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 128-14",
-      "roadAddress": "서울특별시 종로구 새문안로3길 21",
-      "mapx": "1269725919",
-      "mapy": "375720689"
     },
     {
       "title": "무교동북어국집",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로 385 1층, 2층",
       "mapx": "1269873599",
       "mapy": "375689415"
+    },
+    {
+      "title": "<b>광화문</b>뚝감",
+      "link": "",
+      "category": "한식>감자탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-14",
+      "roadAddress": "서울특별시 종로구 새문안로3길 21",
+      "mapx": "1269725919",
+      "mapy": "375720689"
     },
     {
       "title": "청진동장터순대국",

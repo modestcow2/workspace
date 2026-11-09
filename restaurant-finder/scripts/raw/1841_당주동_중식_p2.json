@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:29 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:37:07 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375718151"
     },
     {
-      "title": "동천홍 광화문점",
-      "link": "http://dongcheonhongdj.cityfood.co.kr/",
-      "category": "음식점>중식당",
+      "title": "광화문 두메라 뷔페",
+      "link": "",
+      "category": "음식점>뷔페",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 21-1 2층",
-      "roadAddress": "서울특별시 종로구 새문안로9길 23 2층",
-      "mapx": "1269755813",
-      "mapy": "375712692"
+      "address": "서울특별시 종로구 당주동 145 B1층 11호",
+      "roadAddress": "서울특별시 종로구 세종대로23길 47 B1층 11호",
+      "mapx": "1269739965",
+      "mapy": "375713743"
     }
   ]
 }

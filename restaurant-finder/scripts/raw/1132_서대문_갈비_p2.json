@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:00 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:27:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "연희보리밥",
-      "link": "https://www.instagram.com/boribab_official",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
-      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
-      "mapx": "1269306323",
-      "mapy": "375679590"
-    },
     {
       "title": "소신이쏘 신촌본점",
       "link": "https://www.facebook.com/sosinesso",
@@ -38,26 +27,37 @@
       "mapy": "375578619"
     },
     {
-      "title": "화우 <b>서대문</b>역본점",
-      "link": "https://app.catchtable.co.kr/ct/shop/hwauseodaemun",
-      "category": "한식>소고기구이",
+      "title": "연희보리밥",
+      "link": "https://www.instagram.com/boribab_official",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 충정로2가 5-15",
-      "roadAddress": "서울특별시 서대문구 통일로9안길 32",
-      "mapx": "1269654411",
-      "mapy": "375659994"
+      "address": "서울특별시 서대문구 연희동 132-51 1층 연희보리밥",
+      "roadAddress": "서울특별시 서대문구 연희맛로 33 1층 연희보리밥",
+      "mapx": "1269306323",
+      "mapy": "375679590"
     },
     {
-      "title": "웅네서서<b>갈비</b>",
-      "link": "",
+      "title": "오소오소",
+      "link": "https://www.instagram.com/osooso189",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 서대문구 대현동 110-25",
-      "roadAddress": "서울특별시 서대문구 신촌역로 13-1",
-      "mapx": "1269426093",
-      "mapy": "375579488"
+      "address": "서울특별시 서대문구 충정로3가 189 충정로3가,신원빌딩지층",
+      "roadAddress": "서울특별시 서대문구 충정로 47 충정로3가,신원빌딩지층",
+      "mapx": "1269643918",
+      "mapy": "375633135"
+    },
+    {
+      "title": "뜯<b>갈비</b> 신촌점",
+      "link": "https://www.instagram.com/ripgalbi_sinchon",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 창천동 62-52 1층",
+      "roadAddress": "서울특별시 서대문구 연세로5다길 46 1층",
+      "mapx": "1269331457",
+      "mapy": "375571551"
     }
   ]
 }

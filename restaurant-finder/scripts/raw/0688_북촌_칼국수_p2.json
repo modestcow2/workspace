@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:33 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:22:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -17,7 +17,7 @@
     },
     {
       "title": "신라제면 안국점",
-      "link": "https://www.instagram.com/shillajemyeon_anguk/",
+      "link": "https://www.k-delicious.kr/",
       "category": "한식>국수",
       "description": "",
       "telephone": "",
@@ -25,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 계동길 19-6 1층",
       "mapx": "1269862338",
       "mapy": "375782217"
-    },
-    {
-      "title": "깡통만두",
-      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-22 1층",
-      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
-      "mapx": "1269860918",
-      "mapy": "375781763"
     },
     {
       "title": "호이식 종로 안국",
@@ -49,15 +38,26 @@
       "mapy": "375777908"
     },
     {
-      "title": "율동<b>칼국수</b>",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "깡통만두",
+      "link": "https://app.catchtable.co.kr/ct/shop/kkangttong",
+      "category": "분식>만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 9 2층",
-      "roadAddress": "서울특별시 종로구 북촌로5길 6 2층",
-      "mapx": "1269846160",
-      "mapy": "375794433"
+      "address": "서울특별시 종로구 재동 84-22 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5-6 1층",
+      "mapx": "1269860918",
+      "mapy": "375781763"
+    },
+    {
+      "title": "밀양손만두",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 계동 107-1 1층",
+      "roadAddress": "서울특별시 종로구 계동길 41 1층",
+      "mapx": "1269866713",
+      "mapy": "375791625"
     }
   ]
 }

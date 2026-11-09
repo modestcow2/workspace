@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:26 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:18:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "이서방네순대국",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 191",
+      "roadAddress": "서울특별시 종로구 자하문로1길 45",
+      "mapx": "1269698490",
+      "mapy": "375767519"
+    },
     {
       "title": "태성골뱅이신사 서촌점",
       "link": "",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로5길 24-1 1층",
       "mapx": "1269704883",
       "mapy": "375777902"
-    },
-    {
-      "title": "오제제 광화문",
-      "link": "https://www.instagram.com/ojeje.seoul",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 지하 2층 201호 오제제",
-      "roadAddress": "서울특별시 중구 세종대로 136 지하 2층 201호 오제제",
-      "mapx": "1269783077",
-      "mapy": "375684118"
     }
   ]
 }

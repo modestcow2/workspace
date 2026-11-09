@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:50 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:21:04 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375748513"
     },
     {
-      "title": "오카즈",
-      "link": "http://catchtable.co.kr/ohkaz",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 112 1층 오카즈",
-      "roadAddress": "서울특별시 종로구 자하문로 49-1 1층 오카즈",
-      "mapx": "1269709630",
-      "mapy": "375804953"
-    },
-    {
       "title": "우직 경복궁점",
       "link": "https://app.catchtable.co.kr/ct/shop/xuzikx_kbg",
       "category": "한식>소고기구이",
@@ -49,15 +38,26 @@
       "mapy": "375767578"
     },
     {
-      "title": "진미필담 용금옥",
-      "link": "https://www.instagram.com/jinmipildam_yonggumok",
-      "category": "음식점>한식",
+      "title": "스시이찌 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sushiichi_gwanghwamun?from=share&type=DINING",
+      "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 199 1층",
-      "roadAddress": "서울특별시 종로구 자하문로1라길 4 1층(체부동)",
-      "mapx": "1269708497",
-      "mapy": "375766102"
+      "address": "서울특별시 종로구 내수동 75 용비어천가 지하1층 120호",
+      "roadAddress": "서울특별시 종로구 새문안로3길 36 용비어천가 지하1층 120호",
+      "mapx": "1269732813",
+      "mapy": "375734105"
+    },
+    {
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688434",
+      "mapy": "375768396"
     }
   ]
 }

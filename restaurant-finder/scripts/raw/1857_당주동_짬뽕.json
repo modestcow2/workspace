@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:37 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:37:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 5-27 당주빌딩 3층",
       "mapx": "1269745821",
       "mapy": "375710389"
+    },
+    {
+      "title": "일일향 광화문",
+      "link": "https://blog.naver.com/11hyang14",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 128-27 동원빌딩 별관 2층 일일향 광화문",
+      "roadAddress": "서울특별시 종로구 새문안로3길 15 동원빌딩 별관 2층 일일향 광화문",
+      "mapx": "1269723950",
+      "mapy": "375718151"
     },
     {
       "title": "동성각",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 새문안로5길 11-1 2층",
       "mapx": "1269747172",
       "mapy": "375712892"
-    },
-    {
-      "title": "일일향 광화문",
-      "link": "https://blog.naver.com/11hyang14",
-      "category": "음식점>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 128-27 동원빌딩 별관 2층 일일향 광화문",
-      "roadAddress": "서울특별시 종로구 새문안로3길 15 동원빌딩 별관 2층 일일향 광화문",
-      "mapx": "1269723950",
-      "mapy": "375718151"
     },
     {
       "title": "혼미 광화문점",

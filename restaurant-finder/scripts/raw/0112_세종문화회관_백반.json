@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:58 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:14:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375764071"
     },
     {
-      "title": "일미식당",
-      "link": "http://cafe.naver.com/ilmicafe",
-      "category": "한식>백반,가정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
-      "mapx": "1269876939",
-      "mapy": "375728300"
-    },
-    {
       "title": "사랑방칼국수",
       "link": "",
       "category": "음식점>한식",
@@ -38,26 +27,37 @@
       "mapy": "375632872"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
+      "title": "일미식당",
+      "link": "http://cafe.naver.com/ilmicafe",
+      "category": "한식>백반,가정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
+      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
+      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
+      "mapx": "1269876939",
+      "mapy": "375728300"
     },
     {
-      "title": "전주풍남<b>회관</b>",
-      "link": "",
-      "category": "음식점>한식",
+      "title": "선어도 청계천삼일빌딩점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sonodo",
+      "category": "한식>생선회",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-7 2층",
-      "roadAddress": "서울특별시 중구 세종대로21길 48 2층",
-      "mapx": "1269759995",
-      "mapy": "375685854"
+      "address": "서울특별시 종로구 관철동 10-2 지하1층 선어도 청계천삼일빌딩점",
+      "roadAddress": "서울특별시 종로구 청계천로 85 지하1층 선어도 청계천삼일빌딩점",
+      "mapx": "1269871596",
+      "mapy": "375686402"
+    },
+    {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
     }
   ]
 }

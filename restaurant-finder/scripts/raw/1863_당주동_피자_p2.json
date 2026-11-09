@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:40 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:37:24 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375710651"
     },
     {
-      "title": "유앤피",
-      "link": "https://www.instagram.com/unp_sajik",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 262-1 3층",
-      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
-      "mapx": "1269655475",
-      "mapy": "375756345"
-    },
-    {
       "title": "치로<b>피자</b>바",
       "link": "https://app.catchtable.co.kr/ct/shop/ciropizza",
       "category": "음식점>양식",
@@ -49,15 +38,26 @@
       "mapy": "375710843"
     },
     {
-      "title": "오스테리아라디치",
-      "link": "",
-      "category": "음식점>이탈리아음식",
+      "title": "유앤피",
+      "link": "https://www.instagram.com/unp_sajik",
+      "category": "음식점>피자",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 B1층 58호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 58호",
-      "mapx": "1269743109",
-      "mapy": "375720320"
+      "address": "서울특별시 종로구 사직동 262-1 3층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
+      "mapx": "1269655475",
+      "mapy": "375756345"
+    },
+    {
+      "title": "비어할레 광화문점",
+      "link": "",
+      "category": "술집>맥주,호프",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 5 로얄빌딩",
+      "roadAddress": "서울특별시 종로구 새문안로5길 19 로얄빌딩",
+      "mapx": "1269742252",
+      "mapy": "375722219"
     }
   ]
 }

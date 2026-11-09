@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:50 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:19:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375815060"
     },
     {
-      "title": "사랑방손칼국수",
-      "link": "",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 효자동 163-1 B1, 1층",
-      "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
-      "mapx": "1269725749",
-      "mapy": "375825416"
-    },
-    {
       "title": "토방",
       "link": "",
       "category": "음식점>한식",
@@ -38,15 +27,15 @@
       "mapy": "375819609"
     },
     {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
+      "title": "사랑방손칼국수",
+      "link": "",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
+      "address": "서울특별시 종로구 효자동 163-1 B1, 1층",
+      "roadAddress": "서울특별시 종로구 자하문로24길 41-42 B1, 1층",
+      "mapx": "1269725749",
+      "mapy": "375825416"
     },
     {
       "title": "자하손<b>만두</b>",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 백석동길 12",
       "mapx": "1269660928",
       "mapy": "375932163"
+    },
+    {
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
     }
   ]
 }

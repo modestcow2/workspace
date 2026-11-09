@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:50 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:32:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "태양 종각점",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 100 태양",
+      "roadAddress": "서울특별시 종로구 우정국로 42-2 태양",
+      "mapx": "1269833740",
+      "mapy": "375728418"
+    },
     {
       "title": "차이니즈키친홍성원 본점",
       "link": "",
@@ -14,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 삼봉로 95 2층 차이니즈키친홍성원 본점",
       "mapx": "1269823865",
       "mapy": "375723735"
-    },
-    {
-      "title": "만리장성",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 견지동 100",
-      "roadAddress": "서울특별시 종로구 우정국로 42-2",
-      "mapx": "1269833999",
-      "mapy": "375728415"
     },
     {
       "title": "한양중식 종로점",

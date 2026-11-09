@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:43 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:30:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "<b>명동</b>정",
-      "link": "http://www.hanjeongsik.co.kr",
+      "link": "https://www.instagram.com/myongdongjeong1",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
@@ -14,6 +14,28 @@
       "roadAddress": "서울특별시 중구 삼일대로 299 이화빌딩 1층",
       "mapx": "1269883506",
       "mapy": "375613152"
+    },
+    {
+      "title": "산채향 청계광장점",
+      "link": "https://blog.naver.com/jae0824",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 96 프리미어플레이스 지하1층 산채향",
+      "roadAddress": "서울특별시 중구 청계천로 8 프리미어플레이스 지하1층 산채향",
+      "mapx": "1269780888",
+      "mapy": "375688580"
+    },
+    {
+      "title": "봉우리 을지로점",
+      "link": "https://app.catchtable.co.kr/ct/shop/bonguri_euljiro?type=DINING",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 수하동 67 미래에셋 센터원 B1",
+      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋 센터원 B1",
+      "mapx": "1269851645",
+      "mapy": "375672414"
     },
     {
       "title": "<b>명동</b>채움<b>한정식</b>",
@@ -27,37 +49,15 @@
       "mapy": "375604898"
     },
     {
-      "title": "봉우리 을지로점",
-      "link": "https://www.instagram.com/bongwoori_kr",
+      "title": "광화문한상 광화문점",
+      "link": "https://www.instagram.com/gwanghwamun_hansang/",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 수하동 67 미래에셋 센터원 B1",
-      "roadAddress": "서울특별시 중구 을지로5길 26 미래에셋 센터원 B1",
-      "mapx": "1269851645",
-      "mapy": "375672414"
-    },
-    {
-      "title": "더테이블",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 25 지하1층",
-      "roadAddress": "서울특별시 중구 세종대로 124 지하1층",
-      "mapx": "1269777419",
-      "mapy": "375675523"
-    },
-    {
-      "title": "목멱산방",
-      "link": "https://mmmroom.co.kr/",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남산동2가 25-4 1층 목멱산방",
-      "roadAddress": "서울특별시 중구 퇴계로20길 71 1층 목멱산방",
-      "mapx": "1269869447",
-      "mapy": "375581107"
+      "address": "서울특별시 중구 태평로1가 61-1 코리아나호텔 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135 코리아나호텔 2층",
+      "mapx": "1269765840",
+      "mapy": "375683348"
     }
   ]
 }

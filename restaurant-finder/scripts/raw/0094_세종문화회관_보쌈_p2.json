@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:06:49 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:14:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375739819"
     },
     {
-      "title": "손정<b>보쌈</b> 종로점",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 12-11 1층",
-      "roadAddress": "서울특별시 종로구 삼일대로15길 24 1층",
-      "mapx": "1269861610",
-      "mapy": "375688950"
-    },
-    {
       "title": "종로도담",
       "link": "https://jongnododam.com",
       "category": "음식점>한식",
@@ -47,6 +36,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 78",
       "mapx": "1269813844",
       "mapy": "375720658"
+    },
+    {
+      "title": "숭례도담",
+      "link": "https://sungnyedodam.com",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 북창동 42-2 동화빌딩 1~2층",
+      "roadAddress": "서울특별시 중구 세종대로18길 14 동화빌딩 1~2층",
+      "mapx": "1269778826",
+      "mapy": "375637180"
     },
     {
       "title": "종로 흥부가",

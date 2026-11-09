@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:38 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:32:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "콩마루",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B1 132, 133호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B1 132, 133호",
-      "mapx": "1269815061",
-      "mapy": "375725618"
-    },
     {
       "title": "순남시래기 종로구청점",
       "link": "http://soonnam.com/",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
       "mapx": "1269876939",
       "mapy": "375728300"
+    },
+    {
+      "title": "선어도 청계천삼일빌딩점",
+      "link": "https://app.catchtable.co.kr/ct/shop/sonodo",
+      "category": "한식>생선회",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 10-2 지하1층 선어도 청계천삼일빌딩점",
+      "roadAddress": "서울특별시 종로구 청계천로 85 지하1층 선어도 청계천삼일빌딩점",
+      "mapx": "1269871596",
+      "mapy": "375686402"
     }
   ]
 }

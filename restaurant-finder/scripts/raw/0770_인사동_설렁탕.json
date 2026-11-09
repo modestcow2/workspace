@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:10 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:23:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375733794"
     },
     {
-      "title": "운현궁<b>설렁탕</b>",
+      "title": "신일곰탕 안녕<b>인사동</b>본점",
       "link": "",
       "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 경운동 89-4 운현궁SK 허브 1F",
-      "roadAddress": "서울특별시 종로구 삼일대로 461 운현궁SK 허브 1F",
-      "mapx": "1269855225",
-      "mapy": "375754506"
+      "address": "서울특별시 종로구 관훈동 155-2 3층 304호",
+      "roadAddress": "서울특별시 종로구 인사동길 49 3층 304호",
+      "mapx": "1269835556",
+      "mapy": "375744663"
     }
   ]
 }

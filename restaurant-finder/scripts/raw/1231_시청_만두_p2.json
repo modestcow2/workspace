@@ -1,23 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:47 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:29:16 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "마포<b>만두</b> <b>시청</b>점",
-      "link": "",
-      "category": "분식>만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
-      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
-      "mapx": "1269795809",
-      "mapy": "375668511"
-    },
-    {
       "title": "진진<b>만두</b> <b>시청</b>점",
-      "link": "https://www.instagram.com/jinjin_kr/",
+      "link": "https://app.catchtable.co.kr/ct/shop/jinjinmanducityhall?type=DINING",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -28,7 +17,7 @@
     },
     {
       "title": "북창동개성칼<b>만두</b> 서울<b>시청</b>역본점",
-      "link": "",
+      "link": "https://www.youtube.com/@%EB%B6%81%EC%B0%BD%EB%8F%99%EA%B0%9C%EC%84%B1%EC%B9%BC%EB%A7%8C%EB%91%90",
       "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로14길 34 지층 B1",
       "mapx": "1269785473",
       "mapy": "375627549"
+    },
+    {
+      "title": "마포<b>만두</b> <b>시청</b>점",
+      "link": "",
+      "category": "분식>만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 32 효덕빌딩",
+      "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
+      "mapx": "1269795809",
+      "mapy": "375668511"
     },
     {
       "title": "인계동 언니<b>만두</b> &amp; 칼국수 수원<b>시청</b>역본점",

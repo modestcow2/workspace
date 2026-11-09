@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:54 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:36:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -10,43 +10,32 @@
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 효자동 25 1층1호(계단 옆 울타리문)",
-      "roadAddress": "서울특별시 종로구 자하문로 62 1층1호(계단 옆 울타리문)",
+      "address": "서울특별시 종로구 효자동 25 1층 1호",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층 1호",
       "mapx": "1269711126",
       "mapy": "375816125"
     },
     {
-      "title": "오레노 야끼 종로점",
-      "link": "https://catchtable.co.kr/orenoyakki",
+      "title": "진심",
+      "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-25 1층",
-      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
-      "mapx": "1269813635",
-      "mapy": "375730606"
+      "address": "서울특별시 종로구 누하동 44 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 42-1 1층",
+      "mapx": "1269688129",
+      "mapy": "375798487"
     },
     {
-      "title": "도토리브라더스 광화문본점",
-      "link": "http://www.instagram.com/dotori_brothers",
+      "title": "누하의 숲",
+      "link": "",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 1-248 1층 도토리브라더스",
-      "roadAddress": "서울특별시 종로구 경희궁길 41 1층 도토리브라더스",
-      "mapx": "1269692709",
-      "mapy": "375729254"
-    },
-    {
-      "title": "야마야 광화문 디타워점",
-      "link": "https://store.kakao.com/yamaya/products/688567667",
-      "category": "음식점>일식>일식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 246 광화문 D타워 4층",
-      "roadAddress": "서울특별시 종로구 종로3길 17 (청진동) 광화문 D타워 4층",
-      "mapx": "1269789694",
-      "mapy": "375710184"
+      "address": "서울특별시 종로구 누하동 175-2 1F",
+      "roadAddress": "서울특별시 종로구 필운대로 31-1 1F",
+      "mapx": "1269687592",
+      "mapy": "375787996"
     },
     {
       "title": "시카노이에",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 경희궁1길 32 신문로하우스 101호",
       "mapx": "1269692608",
       "mapy": "375725079"
+    },
+    {
+      "title": "오레노 야끼 종로점",
+      "link": "https://catchtable.co.kr/orenoyakki",
+      "category": "음식점>일식>일식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-25 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
+      "mapx": "1269813635",
+      "mapy": "375730606"
     }
   ]
 }

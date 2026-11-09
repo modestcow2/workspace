@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:32 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:27:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "황생가칼국수",
-      "link": "http://황생가칼국수.com",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 소격동 84",
-      "roadAddress": "서울특별시 종로구 북촌로5길 78",
-      "mapx": "1269806900",
-      "mapy": "375801317"
-    },
     {
       "title": "도량",
       "link": "https://app.catchtable.co.kr/ct/shop/dolyang?from=share&type=WAITING://",
@@ -27,15 +16,15 @@
       "mapy": "375780066"
     },
     {
-      "title": "잘빠진메밀 서촌 본점",
-      "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "title": "황생가칼국수",
+      "link": "http://황생가칼국수.com",
+      "category": "한식>칼국수,만두",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 120",
-      "roadAddress": "서울특별시 종로구 자하문로11길 4",
-      "mapx": "1269709994",
-      "mapy": "375796715"
+      "address": "서울특별시 종로구 소격동 84",
+      "roadAddress": "서울특별시 종로구 북촌로5길 78",
+      "mapx": "1269806900",
+      "mapy": "375801317"
     },
     {
       "title": "대선칼국수",
@@ -49,15 +38,26 @@
       "mapy": "375771878"
     },
     {
-      "title": "부산집막국수",
-      "link": "",
-      "category": "한식>막국수",
+      "title": "잘빠진메밀 서촌 본점",
+      "link": "https://smartstore.naver.com/jalppajin-mill",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 적선동 26 1층",
-      "roadAddress": "서울특별시 종로구 사직로 133-8 1층",
-      "mapx": "1269734310",
-      "mapy": "375762754"
+      "address": "서울특별시 종로구 통인동 120",
+      "roadAddress": "서울특별시 종로구 자하문로11길 4",
+      "mapx": "1269709994",
+      "mapy": "375796715"
+    },
+    {
+      "title": "나주소나주곰탕 <b>경복궁</b>점",
+      "link": "",
+      "category": "한식>곰탕,설렁탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 98",
+      "roadAddress": "서울특별시 종로구 자하문로2길 8",
+      "mapx": "1269730853",
+      "mapy": "375764713"
     }
   ]
 }

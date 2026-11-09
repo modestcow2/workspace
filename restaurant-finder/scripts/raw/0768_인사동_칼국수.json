@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:09 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:23:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "취야벌국시",
+      "link": "",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 198-27",
+      "roadAddress": "서울특별시 종로구 인사동7길 21",
+      "mapx": "1269847902",
+      "mapy": "375728324"
+    },
     {
       "title": "인사샤브정",
       "link": "https://blog.naver.com/insa-shabushabu",
@@ -14,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 인사동6길 14 1층",
       "mapx": "1269866792",
       "mapy": "375735491"
+    },
+    {
+      "title": "삼봉도담",
+      "link": "https://sambongdodam.com",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110-34 1층",
+      "roadAddress": "서울특별시 종로구 우정국로 45-5 1층",
+      "mapx": "1269825289",
+      "mapy": "375729806"
     },
     {
       "title": "북촌<b>칼국수</b>",
@@ -27,17 +49,6 @@
       "mapy": "375745744"
     },
     {
-      "title": "황생가<b>칼국수</b> 종로타워점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 지하2층 B206,B207호",
-      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206,B207호",
-      "mapx": "1269836385",
-      "mapy": "375707534"
-    },
-    {
       "title": "광희<b>칼국수</b>",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 우정국로 38-18",
       "mapx": "1269840306",
       "mapy": "375728091"
-    },
-    {
-      "title": "메밀란",
-      "link": "",
-      "category": "한식>국수",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 176",
-      "roadAddress": "서울특별시 종로구 인사동11길 16-4",
-      "mapx": "1269838219",
-      "mapy": "375740182"
     }
   ]
 }

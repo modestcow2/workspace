@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:58 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:24:37 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "보보식당 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 지하1층",
-      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
     {
       "title": "코끼리초밥 광화문점",
       "link": "https://blog.naver.com/kokirisushi",
@@ -23,6 +12,28 @@
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
       "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
+    },
+    {
+      "title": "오리지널팬케이크하우스 세종문화회관점 (광화문 1호점)",
+      "link": "https://www.instagram.com/originalpancakehousekorea/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 81-3 세종문화회관 2층",
+      "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 2층",
+      "mapx": "1269761683",
+      "mapy": "375718479"
+    },
+    {
+      "title": "보보식당 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/paopaorestaurant",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 세종로 100 지하1층",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
       "mapx": "1269778819",
       "mapy": "375721535"
     },
@@ -45,17 +56,6 @@
       "telephone": "",
       "address": "서울특별시 종로구 세종로 100 지하1층",
       "roadAddress": "서울특별시 종로구 세종대로 178 지하1층",
-      "mapx": "1269778819",
-      "mapy": "375721535"
-    },
-    {
-      "title": "오츠커피 광화문",
-      "link": "https://smartstore.naver.com/oatscoffee",
-      "category": "음식점>카페,디저트",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 세종로 100 2층 213-2호",
-      "roadAddress": "서울특별시 종로구 세종대로 178 2층 213-2호",
       "mapx": "1269778819",
       "mapy": "375721535"
     }

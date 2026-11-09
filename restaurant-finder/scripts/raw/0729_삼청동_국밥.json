@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:51 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:22:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375769015"
     },
     {
-      "title": "대림국수 안국점",
-      "link": "http://app.catchtable.co.kr/ct/shop/daerimanguk",
-      "category": "음식점>한식>국수",
+      "title": "롤라곱창 안국역점",
+      "link": "https://www.instagram.com/lolla_gobchang?igsh=cWt6NDJwajBjZ3k1",
+      "category": "한식>곱창,막창,양",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 재동 84-18 1층 대림국수",
-      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 대림국수",
-      "mapx": "1269862999",
-      "mapy": "375779441"
+      "address": "서울특별시 종로구 재동 84-15 1층",
+      "roadAddress": "서울특별시 종로구 북촌로2길 4 1층",
+      "mapx": "1269859341",
+      "mapy": "375778300"
     }
   ]
 }

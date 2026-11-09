@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:38 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:32:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "류경회관 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
-      "category": "한식>냉면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
-      "mapx": "1269818280",
-      "mapy": "375724939"
-    },
     {
       "title": "만도리 신라스테이 광화문",
       "link": "https://www.mandori.co.kr/",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 율곡로4길 74 1층, 2층",
       "mapx": "1269805779",
       "mapy": "375726960"
+    },
+    {
+      "title": "류경회관 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/Ryugyeong",
+      "category": "한식>냉면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 58 2층 201~203호",
+      "roadAddress": "서울특별시 종로구 삼봉로 81 2층 201~203호",
+      "mapx": "1269818280",
+      "mapy": "375724939"
     },
     {
       "title": "나주소나주곰탕 종로수송점",
@@ -43,21 +43,21 @@
       "category": "음식점>한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
+      "address": "서울특별시 종로구 수송동 71-2 B1층, 1층",
+      "roadAddress": "서울특별시 종로구 율곡로4길 70 B1층, 1층",
       "mapx": "1269807361",
       "mapy": "375727720"
     },
     {
-      "title": "백년가짬뽕 광화문점",
+      "title": "오한수 우육면가 광화문본점",
       "link": "",
       "category": "음식점>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 지하1층 백년가짬뽕",
-      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 지하1층 백년가짬뽕",
-      "mapx": "1269789959",
-      "mapy": "375739044"
+      "address": "서울특별시 종로구 수송동 146-1 이마빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 종로1길 42 이마빌딩 지하 1층",
+      "mapx": "1269789870",
+      "mapy": "375739005"
     }
   ]
 }

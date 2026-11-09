@@ -1,12 +1,23 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:53 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:32:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
+      "title": "광화문나폴리 종각직영점",
+      "link": "https://blog.naver.com/napolijonggak/",
+      "category": "음식점>양식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 견지동 110 205호",
+      "roadAddress": "서울특별시 종로구 삼봉로 95 205호",
+      "mapx": "1269827635",
+      "mapy": "375722493"
+    },
+    {
       "title": "BEER UP 비어럽",
-      "link": "",
+      "link": "https://beerup.pro/",
       "category": "술집>요리주점",
       "description": "",
       "telephone": "",
@@ -14,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 삼봉로 95 101동 1층 101호",
       "mapx": "1269823691",
       "mapy": "375722436"
-    },
-    {
-      "title": "독립밀방 익선",
-      "link": "http://www.instagram.com/dongnip_millbang",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 익선동 121 독립밀방 익선",
-      "roadAddress": "서울특별시 종로구 돈화문로11나길 30 독립밀방 익선",
-      "mapx": "1269902619",
-      "mapy": "375740791"
     },
     {
       "title": "디라이프스타일키친 광화문점",
@@ -38,15 +38,15 @@
       "mapy": "375684246"
     },
     {
-      "title": "살롱순라 서순라길점",
-      "link": "https://app.catchtable.co.kr/ct/shop/salonsulla",
+      "title": "더 시옷",
+      "link": "https://app.catchtable.co.kr/ct/shop/thesiot",
       "category": "음식점>양식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 권농동 187-7 살롱순라",
-      "roadAddress": "서울특별시 종로구 율곡로10길 75 살롱순라",
-      "mapx": "1269916936",
-      "mapy": "375741979"
+      "address": "서울특별시 중구 저동2가 47-15 OK빌딩 2층",
+      "roadAddress": "서울특별시 중구 수표로 30 OK빌딩 2층",
+      "mapx": "1269903062",
+      "mapy": "375638355"
     },
     {
       "title": "헤비<b>스테이크</b> 종로구청점",

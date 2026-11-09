@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:13 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:31:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375706386"
     },
     {
+      "title": "청담동순도리 종각점",
+      "link": "",
+      "category": "한식>순대,순댓국",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 21 1층",
+      "roadAddress": "서울특별시 종로구 종로 85 1층",
+      "mapx": "1269869939",
+      "mapy": "375704003"
+    },
+    {
       "title": "란주칼면",
       "link": "",
       "category": "중식>중식당",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 중구 소공로 64 1층 란주칼면",
       "mapx": "1269821083",
       "mapy": "375609724"
-    },
-    {
-      "title": "안동장",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로3가 315-1",
-      "roadAddress": "서울특별시 중구 을지로 124",
-      "mapx": "1269915576",
-      "mapy": "375661354"
     },
     {
       "title": "차이들 안녕인사동점",
@@ -49,15 +49,15 @@
       "mapy": "375744663"
     },
     {
-      "title": "신승관",
-      "link": "https://m.blog.naver.com/wmedia77/223171955325",
+      "title": "안동장",
+      "link": "",
       "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로1가 24 217호",
-      "roadAddress": "서울특별시 종로구 종로 19 217호",
-      "mapx": "1269798606",
-      "mapy": "375708344"
+      "address": "서울특별시 중구 을지로3가 315-1",
+      "roadAddress": "서울특별시 중구 을지로 124",
+      "mapx": "1269915576",
+      "mapy": "375661354"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:20 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:31:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -7,7 +7,7 @@
     {
       "title": "샤브가든 <b>종로</b>타워점",
       "link": "",
-      "category": "음식점>한식",
+      "category": "음식점>일식>샤브샤브",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 종로2가 6 종로타워 지하2층 B211-1호",
@@ -16,8 +16,19 @@
       "mapy": "375707534"
     },
     {
+      "title": "봉혜자네주방 <b>종로</b>타워점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B206, B207호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B206, B207호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
+    },
+    {
       "title": "솔솥 <b>종로</b>타워점",
-      "link": "https://app.catchtable.co.kr/ct/shop/Solsotpotricehouse",
+      "link": "https://blog.naver.com/jujunara12345",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 종로 51 지하1층 B108호",
       "mapx": "1269835822",
       "mapy": "375707034"
-    },
-    {
-      "title": "애슐리퀸즈 종각역점",
-      "link": "https://www.instagram.com/your_ashley",
-      "category": "음식점>패밀리레스토랑",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
-      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
-      "mapx": "1269836843",
-      "mapy": "375705758"
     },
     {
       "title": "한양중식 <b>종로</b>점",
@@ -49,15 +49,15 @@
       "mapy": "375706386"
     },
     {
-      "title": "스타벅스 <b>종로</b>R점",
-      "link": "http://www.starbucks.co.kr/",
-      "category": "카페,디저트>카페",
+      "title": "애슐리퀸즈 종각역점",
+      "link": "https://www.instagram.com/your_ashley",
+      "category": "음식점>패밀리레스토랑",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 종로2가 6",
-      "roadAddress": "서울특별시 종로구 종로 51 (종로2가)",
-      "mapx": "1269834000",
-      "mapy": "375708000"
+      "address": "서울특별시 종로구 종로2가 6 종로타워 지하1층 애슐리",
+      "roadAddress": "서울특별시 종로구 종로 51 종로타워 지하1층 애슐리",
+      "mapx": "1269836843",
+      "mapy": "375705758"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:22 +0900",
+  "lastBuildDate": "Mon, 09 Nov 2026 20:35:12 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "봉이밥 삼청동점",
+      "title": "더 소와나",
       "link": "",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 140 1층",
+      "roadAddress": "서울특별시 종로구 삼청로9길 5 1층",
+      "mapx": "1269813882",
+      "mapy": "375864915"
+    },
+    {
+      "title": "봉이밥 삼청동점",
+      "link": "https://www.instagram.com/bong_ee_bab",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 삼청로 130",
       "mapx": "1269819890",
       "mapy": "375868876"
-    },
-    {
-      "title": "사직로 서울",
-      "link": "https://www.instagram.com/sajikro_seoul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 적선동 94 2층",
-      "roadAddress": "서울특별시 종로구 사직로 127-14 2층",
-      "mapx": "1269730650",
-      "mapy": "375761905"
     },
     {
       "title": "심경희라라랜드 광화문",

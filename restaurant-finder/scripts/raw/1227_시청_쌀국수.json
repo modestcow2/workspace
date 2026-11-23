@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:45 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:20:06 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375671662"
     },
     {
-      "title": "호아빈 서울<b>시청</b>점",
-      "link": "http://www.hoabinh.co.kr/",
-      "category": "음식점>베트남음식",
+      "title": "벤탄빌라 부천<b>시청</b>점",
+      "link": "https://www.instagram.com/benthanvilla.bc/",
+      "category": "음식점>아시아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 서소문동 14-2",
-      "roadAddress": "서울특별시 중구 서소문로 139",
-      "mapx": "1269762235",
-      "mapy": "375641009"
+      "address": "경기도 부천시 원미구 중동 1301 102동 1층 1099호 벤탄빌라",
+      "roadAddress": "경기도 부천시 원미구 길주로 234 102동 1층 1099호 벤탄빌라",
+      "mapx": "1267682986",
+      "mapy": "375026694"
     }
   ]
 }

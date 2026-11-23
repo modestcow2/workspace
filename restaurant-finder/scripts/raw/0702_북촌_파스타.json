@@ -1,31 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:39 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:13:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "스미스가좋아하는한옥",
-      "link": "https://www.instagram.com/smith_hanok",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사간동 62-1",
-      "roadAddress": "서울특별시 종로구 삼청로 22-7",
-      "mapx": "1269801792",
-      "mapy": "375779378"
-    },
-    {
-      "title": "대장장이화덕피자",
-      "link": "http://pf.kakao.com/_Zscxmb",
-      "category": "음식점>피자",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 가회동 202-1",
-      "roadAddress": "서울특별시 종로구 북촌로 42-4",
-      "mapx": "1269853702",
-      "mapy": "375805827"
-    },
     {
       "title": "계동피자",
       "link": "https://youtube.com/@kindk7985",
@@ -49,6 +27,17 @@
       "mapy": "375786322"
     },
     {
+      "title": "플롭 안국",
+      "link": "https://www.instagram.com/plop_pizza",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-20",
+      "roadAddress": "서울특별시 종로구 북촌로2길 5",
+      "mapx": "1269860684",
+      "mapy": "375779283"
+    },
+    {
       "title": "비움안국",
       "link": "https://app.catchtable.co.kr/ct/shop/biumanguk?from=share&type=WAITING",
       "category": "음식점>양식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 북촌로4길 8 1층 비움안국",
       "mapx": "1269856635",
       "mapy": "375791098"
+    },
+    {
+      "title": "슬로우파크",
+      "link": "https://www.instagram.com/cafeslowpark_samcheong?igsh=MWhqZGljamdkYWo0dA==",
+      "category": "음식점>이탈리아음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 삼청동 15-2 건물 앞뒤면 주차",
+      "roadAddress": "서울특별시 종로구 삼청로 141 건물 앞뒤면 주차",
+      "mapx": "1269815122",
+      "mapy": "375879036"
     }
   ]
 }

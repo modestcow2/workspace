@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:40 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:17:00 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -7,13 +7,24 @@
     {
       "title": "잘빠진메밀 서촌 본점",
       "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 통인동 120",
       "roadAddress": "서울특별시 종로구 자하문로11길 4",
       "mapx": "1269709994",
       "mapy": "375796715"
+    },
+    {
+      "title": "도취",
+      "link": "https://app.catchtable.co.kr/ct/shop/DochwiSeochon",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 누상동 53-1 서촌마을 제지하층 101호",
+      "roadAddress": "서울특별시 종로구 옥인길 23-6 서촌마을 제지하층 101호",
+      "mapx": "1269670920",
+      "mapy": "375808659"
     },
     {
       "title": "안덕",
@@ -38,26 +49,15 @@
       "mapy": "375797918"
     },
     {
-      "title": "도취",
-      "link": "https://app.catchtable.co.kr/ct/shop/DochwiSeochon",
+      "title": "온지음 레스토랑",
+      "link": "https://app.catchtable.co.kr/ct/shop/onjiumrestaurant",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 누상동 53-1 서촌마을 제지하층 101호",
-      "roadAddress": "서울특별시 종로구 옥인길 23-6 서촌마을 제지하층 101호",
-      "mapx": "1269670920",
-      "mapy": "375808659"
-    },
-    {
-      "title": "안주마을 통인점",
-      "link": "https://smartstore.naver.com/anjumaeul",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통인동 159 1층 안주마을 통인점",
-      "roadAddress": "서울특별시 종로구 자하문로7길 12 1층 안주마을 통인점",
-      "mapx": "1269711394",
-      "mapy": "375784976"
+      "address": "서울특별시 종로구 창성동 17-1 온지음 4층",
+      "roadAddress": "서울특별시 종로구 효자로 49 온지음 4층",
+      "mapx": "1269734438",
+      "mapy": "375804848"
     }
   ]
 }

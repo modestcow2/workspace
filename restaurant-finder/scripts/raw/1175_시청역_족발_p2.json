@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:20 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:19:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -45,19 +45,19 @@
       "telephone": "",
       "address": "서울특별시 중구 태평로1가 76-3 오양수산빌딩",
       "roadAddress": "서울특별시 중구 세종대로21길 49 오양수산빌딩",
-      "mapx": "1269756446",
-      "mapy": "375687260"
+      "mapx": "1269756182",
+      "mapy": "375686475"
     },
     {
-      "title": "비어할레 본점",
-      "link": "https://www.instagram.com/bierhalle_1986",
+      "title": "국민맥주 북창점",
+      "link": "https://www.instagram.com/kookminbeer_bukchang1?igsh=ajV3Z2NxcjhvNHVq",
       "category": "술집>맥주,호프",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 다동 97 산다빌딩 1층, 2층",
-      "roadAddress": "서울특별시 중구 을지로3길 34 산다빌딩 1층, 2층",
-      "mapx": "1269814769",
-      "mapy": "375675489"
+      "address": "서울특별시 중구 북창동 18-4",
+      "roadAddress": "서울특별시 중구 남대문로1길 46",
+      "mapx": "1269774705",
+      "mapy": "375631508"
     }
   ]
 }

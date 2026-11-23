@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:07 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:08:48 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,17 +16,6 @@
       "mapy": "375684612"
     },
     {
-      "title": "쪽삼상회",
-      "link": "https://www.instagram.com/jjoksamsanghoe?igsh=aHk3bnVoNm9wYnl1",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 69-13 1층 102호",
-      "roadAddress": "서울특별시 중구 세종대로 68 1층 102호",
-      "mapx": "1269767006",
-      "mapy": "375622675"
-    },
-    {
       "title": "투뿔 코리안 스테이크하우스 광화문점",
       "link": "https://app.catchtable.co.kr/ct/shop/twobull_gwanghwamun",
       "category": "한식>육류,고기요리",
@@ -36,6 +25,17 @@
       "roadAddress": "서울특별시 중구 세종대로 136 지하 1층",
       "mapx": "1269785521",
       "mapy": "375684009"
+    },
+    {
+      "title": "관호 광화문점",
+      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 태평로1가 62-9 2층",
+      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
+      "mapx": "1269762626",
+      "mapy": "375684239"
     },
     {
       "title": "서경한우 남대문 장터본가점",
@@ -49,15 +49,15 @@
       "mapy": "375617228"
     },
     {
-      "title": "관호 광화문점",
-      "link": "https://catchtable.co.kr/kwanho_gwanghwa",
-      "category": "한식>육류,고기요리",
+      "title": "바른고기 정육점 광화문SFC점",
+      "link": "https://www.instagram.com/just_butchers/",
+      "category": "육류,고기요리>소고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 62-9 2층",
-      "roadAddress": "서울특별시 중구 세종대로 135-7 2층",
-      "mapx": "1269762626",
-      "mapy": "375684239"
+      "address": "서울특별시 중구 태평로1가 84 지하2층, B202호",
+      "roadAddress": "서울특별시 중구 세종대로 136 지하2층, B202호",
+      "mapx": "1269782701",
+      "mapy": "375684246"
     }
   ]
 }

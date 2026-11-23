@@ -1,9 +1,31 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:49 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:12:45 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "만나분식",
+      "link": "https://smartstore.naver.com/mannabunsik",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
+      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
+      "mapx": "1269691188",
+      "mapy": "375773610"
+    },
+    {
+      "title": "고양이부엌",
+      "link": "https://www.instagram.com/goyangibueok.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 167-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 14 1층",
+      "mapx": "1269695035",
+      "mapy": "375774430"
+    },
     {
       "title": "원조정할머니기름<b>떡볶이</b>",
       "link": "",
@@ -27,37 +49,15 @@
       "mapy": "375806957"
     },
     {
-      "title": "만나분식",
-      "link": "https://smartstore.naver.com/mannabunsik",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 필운동 105 1층 만나분식",
-      "roadAddress": "서울특별시 종로구 필운대로1길 4 1층 만나분식",
-      "mapx": "1269691188",
-      "mapy": "375773610"
-    },
-    {
-      "title": "샤브샵",
-      "link": "https://www.instagram.com/karacinikora77",
-      "category": "음식점>일식>샤브샤브",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 내자동 24 1, 2층",
-      "roadAddress": "서울특별시 종로구 자하문로1길 25 1, 2층",
-      "mapx": "1269709557",
-      "mapy": "375763909"
-    },
-    {
-      "title": "소풍가는날 경복궁점",
-      "link": "https://www.instagram.com/_picnicday",
+      "title": "모던김밥",
+      "link": "",
       "category": "분식>김밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 통인동 147-2 소풍가는날",
-      "roadAddress": "서울특별시 종로구 자하문로 35-2 소풍가는날",
-      "mapx": "1269712387",
-      "mapy": "375792154"
+      "address": "서울특별시 종로구 적선동 97",
+      "roadAddress": "서울특별시 종로구 자하문로2길 10",
+      "mapx": "1269731772",
+      "mapy": "375764902"
     }
   ]
 }

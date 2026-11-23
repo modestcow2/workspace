@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:36 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:16:55 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,28 +16,6 @@
       "mapy": "375764071"
     },
     {
-      "title": "꿀밥상",
-      "link": "",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
-    },
-    {
-      "title": "일미식당",
-      "link": "http://cafe.naver.com/ilmicafe",
-      "category": "한식>백반,가정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
-      "mapx": "1269876939",
-      "mapy": "375728300"
-    },
-    {
       "title": "동백식당",
       "link": "",
       "category": "한식>국밥",
@@ -49,6 +27,17 @@
       "mapy": "375765173"
     },
     {
+      "title": "효자동밥상",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 효자동 25 1층",
+      "roadAddress": "서울특별시 종로구 자하문로 62 1층",
+      "mapx": "1269710519",
+      "mapy": "375816457"
+    },
+    {
       "title": "밀과보리",
       "link": "https://www.instagram.com/milbori_",
       "category": "한식>백반,가정식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 창덕궁1길 32-1 1층",
       "mapx": "1269875023",
       "mapy": "375794104"
+    },
+    {
+      "title": "일미식당",
+      "link": "http://cafe.naver.com/ilmicafe",
+      "category": "한식>백반,가정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
+      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
+      "mapx": "1269876939",
+      "mapy": "375728300"
     }
   ]
 }

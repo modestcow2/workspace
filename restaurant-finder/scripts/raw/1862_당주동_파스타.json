@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:20:40 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:27:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,17 +38,6 @@
       "mapy": "375706990"
     },
     {
-      "title": "오스테리아라디치",
-      "link": "",
-      "category": "음식점>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 당주동 5 B1층 58호",
-      "roadAddress": "서울특별시 종로구 새문안로5길 19 B1층 58호",
-      "mapx": "1269743109",
-      "mapy": "375720320"
-    },
-    {
       "title": "치로피자바",
       "link": "https://app.catchtable.co.kr/ct/shop/ciropizza",
       "category": "음식점>양식",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로7길 16 1층",
       "mapx": "1269754581",
       "mapy": "375710843"
+    },
+    {
+      "title": "유앤피",
+      "link": "https://www.instagram.com/unp_sajik",
+      "category": "음식점>피자",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 262-1 3층",
+      "roadAddress": "서울특별시 종로구 인왕산로 19 3층",
+      "mapx": "1269655475",
+      "mapy": "375756345"
     }
   ]
 }

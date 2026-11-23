@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:54 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:20:19 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "어슬 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
     {
       "title": "설품 <b>덕수궁</b>점",
       "link": "",
@@ -27,26 +38,15 @@
       "mapy": "375687024"
     },
     {
-      "title": "한암동 정동점",
-      "link": "https://openine.com/한암동",
+      "title": "평창우선생",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
-      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
-      "mapx": "1269708541",
-      "mapy": "375678521"
-    },
-    {
-      "title": "어슬 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
-      "mapx": "1269720468",
-      "mapy": "375687024"
+      "address": "서울특별시 중구 의주로1가 32-2 바비엥1",
+      "roadAddress": "서울특별시 중구 통일로 102 바비엥1",
+      "mapx": "1269686138",
+      "mapy": "375642754"
     },
     {
       "title": "전주풍남회관",

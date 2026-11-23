@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:18 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:13:28 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375768229"
     },
     {
-      "title": "이주당",
+      "title": "래래향 중화요리",
       "link": "",
-      "category": "술집>맥주,호프",
+      "category": "중식>중식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 체부동 189",
-      "roadAddress": "서울특별시 종로구 자하문로1나길 1",
-      "mapx": "1269716059",
-      "mapy": "375765372"
+      "address": "서울특별시 종로구 내자동 164",
+      "roadAddress": "서울특별시 종로구 사직로10길 11",
+      "mapx": "1269704213",
+      "mapy": "375753782"
     }
   ]
 }

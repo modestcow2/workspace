@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:17 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:19:26 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375670246"
     },
     {
+      "title": "양미옥 남대문점",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로3가 95-1",
+      "roadAddress": "서울특별시 중구 남대문로 27-2",
+      "mapx": "1269788017",
+      "mapy": "375613704"
+    },
+    {
       "title": "잼배옥",
       "link": "",
       "category": "한식>곰탕,설렁탕",
@@ -25,17 +36,6 @@
       "roadAddress": "서울특별시 중구 세종대로9길 68-9",
       "mapx": "1269737271",
       "mapy": "375625022"
-    },
-    {
-      "title": "양미옥 남대문점",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 남대문로3가 95-1",
-      "roadAddress": "서울특별시 중구 남대문로 27-2",
-      "mapx": "1269787856",
-      "mapy": "375614278"
     },
     {
       "title": "진주집",
@@ -49,15 +49,15 @@
       "mapy": "375600090"
     },
     {
-      "title": "봉피양 명동점",
-      "link": "http://bjgalbi.com",
-      "category": "음식점>한식",
+      "title": "금성관 나주곰탕",
+      "link": "http://m.smartstore.naver.com/slow_naju",
+      "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 소공동 1 롯데백화점 본점",
-      "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점 본점",
-      "mapx": "1269811548",
-      "mapy": "375644616"
+      "address": "서울특별시 중구 남대문로3가 96 청남빌딩",
+      "roadAddress": "서울특별시 중구 남대문로 29 청남빌딩",
+      "mapx": "1269789044",
+      "mapy": "375613997"
     }
   ]
 }

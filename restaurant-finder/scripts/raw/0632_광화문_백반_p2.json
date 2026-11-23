@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:06 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:13:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375764071"
     },
     {
+      "title": "동백식당",
+      "link": "",
+      "category": "한식>국밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
+    },
+    {
       "title": "일미식당",
       "link": "http://cafe.naver.com/ilmicafe",
       "category": "한식>백반,가정식",
@@ -39,7 +50,7 @@
     },
     {
       "title": "돈맛꿀",
-      "link": "https://youtube.com/@pig_honey",
+      "link": "https://blog.naver.com/pig_money_honey",
       "category": "한식>국밥",
       "description": "",
       "telephone": "",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 수표로22길 2 지상 1층",
       "mapx": "1269895649",
       "mapy": "375710740"
-    },
-    {
-      "title": "뚝배기집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1",
-      "roadAddress": "서울특별시 종로구 종로16길 12",
-      "mapx": "1269885481",
-      "mapy": "375695483"
     }
   ]
 }

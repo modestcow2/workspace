@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:10 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:14:46 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375733794"
     },
     {
-      "title": "운현궁<b>설렁탕</b>",
+      "title": "할매가한우곰탕",
       "link": "",
       "category": "한식>곰탕,설렁탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 경운동 89-4 운현궁SK 허브 1F",
-      "roadAddress": "서울특별시 종로구 삼일대로 461 운현궁SK 허브 1F",
-      "mapx": "1269855225",
-      "mapy": "375754506"
+      "address": "서울특별시 종로구 종로2가 6 지하2층 B210-1호",
+      "roadAddress": "서울특별시 종로구 종로 51 지하2층 B210-1호",
+      "mapx": "1269836385",
+      "mapy": "375707534"
     }
   ]
 }

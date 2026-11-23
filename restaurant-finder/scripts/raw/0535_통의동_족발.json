@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:20 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:12:03 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "사직터널 그집",
+      "link": "https://www.instagram.com/gjib0408",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 사직동 304-16 한옥 1층",
+      "roadAddress": "서울특별시 종로구 사직로 49-12 한옥 1층",
+      "mapx": "1269649127",
+      "mapy": "375736159"
+    },
     {
       "title": "귀한<b>족발</b> 경복궁역점",
       "link": "",
@@ -14,17 +25,6 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 7 1층 귀한족발 경복궁역점",
       "mapx": "1269731657",
       "mapy": "375765721"
-    },
-    {
-      "title": "명작신의주찹쌀순대",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 풍림스페이스본 202동104호",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 풍림스페이스본 202동104호",
-      "mapx": "1269686008",
-      "mapy": "375744035"
     },
     {
       "title": "오서방왕<b>족발</b>",
@@ -38,6 +38,17 @@
       "mapy": "375744412"
     },
     {
+      "title": "종로족빨 종로본점",
+      "link": "http://027341222.bdp.kr/",
+      "category": "한식>족발,보쌈",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 257 1층",
+      "roadAddress": "서울특별시 종로구 우정국로2길 14 1층",
+      "mapx": "1269837098",
+      "mapy": "375693280"
+    },
+    {
       "title": "할매집",
       "link": "",
       "category": "음식점>한식",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로12길 1-5",
       "mapx": "1269714754",
       "mapy": "375756601"
-    },
-    {
-      "title": "고려보쌈",
-      "link": "",
-      "category": "한식>족발,보쌈",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 무교동 25-1 원창빌딩",
-      "roadAddress": "서울특별시 중구 세종대로20길 23 원창빌딩",
-      "mapx": "1269787500",
-      "mapy": "375671549"
     }
   ]
 }

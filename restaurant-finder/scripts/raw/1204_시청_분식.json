@@ -1,9 +1,53 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:34 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:19:49 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "<b>분식</b>을품다 수원<b>시청</b>점",
+      "link": "https://pumda.net/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "경기도 수원시 팔달구 인계동 1030-6 1층 102호",
+      "roadAddress": "경기도 수원시 팔달구 권광로175번길 52 1층 102호",
+      "mapx": "1270296799",
+      "mapy": "372641724"
+    },
+    {
+      "title": "장인라면 서울<b>시청</b>점",
+      "link": "https://the-mishik.com/",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 무교동 21-1 1층",
+      "roadAddress": "서울특별시 중구 무교로 14 1층",
+      "mapx": "1269793501",
+      "mapy": "375671784"
+    },
+    {
+      "title": "청담동마녀김밥 <b>시청</b>점",
+      "link": "",
+      "category": "음식점>분식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 을지로1가 192-11 1층 104호",
+      "roadAddress": "서울특별시 중구 을지로 6 1층 104호",
+      "mapx": "1269791071",
+      "mapy": "375654950"
+    },
+    {
+      "title": "타이거 꼬마김밥 부산<b>시청</b>점",
+      "link": "",
+      "category": "분식>종합분식",
+      "description": "",
+      "telephone": "",
+      "address": "부산광역시 연제구 연산동 2404 1층 114호 타이거꼬마김밥 부산시청점",
+      "roadAddress": "부산광역시 연제구 거제천로 82 1층 114호 타이거꼬마김밥 부산시청점",
+      "mapx": "1290732319",
+      "mapy": "351817165"
+    },
     {
       "title": "마포만두 <b>시청</b>점",
       "link": "",
@@ -14,50 +58,6 @@
       "roadAddress": "서울특별시 중구 남대문로9길 51 효덕빌딩",
       "mapx": "1269795809",
       "mapy": "375668511"
-    },
-    {
-      "title": "<b>분식</b>을품다 수원<b>시청</b>점",
-      "link": "https://www.pumda0202.com/",
-      "category": "분식>종합분식",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 수원시 팔달구 인계동 1030-6 1층 102호",
-      "roadAddress": "경기도 수원시 팔달구 권광로175번길 52 1층 102호",
-      "mapx": "1270296799",
-      "mapy": "372641724"
-    },
-    {
-      "title": "남대문달님즉석떡볶이 서울역본점",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 순화동 151 지하 1층 111호",
-      "roadAddress": "서울특별시 중구 칠패로 27 지하 1층 111호",
-      "mapx": "1269721500",
-      "mapy": "375600347"
-    },
-    {
-      "title": "오로라 즉석떡볶이 부천<b>시청</b>점",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "경기도 부천시 원미구 중동 1161-3 1층 106호",
-      "roadAddress": "경기도 부천시 원미구 소향로 131 1층 106호",
-      "mapx": "1267624786",
-      "mapy": "375023503"
-    },
-    {
-      "title": "싸다김밥 <b>시청</b>역점",
-      "link": "https://ssadagb.com",
-      "category": "음식점>분식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 70-5 해남빌딩 본관 1층 116호",
-      "roadAddress": "서울특별시 중구 세종대로 64 해남빌딩 본관 1층 116호",
-      "mapx": "1269765121",
-      "mapy": "375620705"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:40 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:21:30 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,17 +14,6 @@
       "roadAddress": "서울특별시 중구 세종대로 136 SFCMALL B2",
       "mapx": "1269782820",
       "mapy": "375684612"
-    },
-    {
-      "title": "타이24",
-      "link": "",
-      "category": "음식점>태국음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 을지로2가 199-64 3층",
-      "roadAddress": "서울특별시 중구 명동9길 33 3층",
-      "mapx": "1269841157",
-      "mapy": "375652430"
     },
     {
       "title": "꾸에흐엉",
@@ -49,15 +38,26 @@
       "mapy": "375670959"
     },
     {
-      "title": "리틀하노이",
+      "title": "타이24",
       "link": "",
-      "category": "음식점>베트남음식",
+      "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 명동2가 32-27 해암빌딩 3층",
-      "roadAddress": "서울특별시 중구 명동8길 21-5 해암빌딩 3층",
-      "mapx": "1269851056",
-      "mapy": "375628354"
+      "address": "서울특별시 중구 을지로2가 199-64 3층",
+      "roadAddress": "서울특별시 중구 명동9길 33 3층",
+      "mapx": "1269840783",
+      "mapy": "375652433"
+    },
+    {
+      "title": "소이연남 을지로센터원점",
+      "link": "",
+      "category": "음식점>태국음식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 수하동 67 지하1층 B116호",
+      "roadAddress": "서울특별시 중구 을지로5길 26 지하1층 B116호",
+      "mapx": "1269852222",
+      "mapy": "375673385"
     }
   ]
 }

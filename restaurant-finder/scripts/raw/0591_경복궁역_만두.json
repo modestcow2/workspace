@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:46 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:12:42 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -7,24 +7,13 @@
     {
       "title": "잘빠진메밀 서촌 본점",
       "link": "https://smartstore.naver.com/jalppajin-mill",
-      "category": "한식>막국수",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 종로구 통인동 120",
       "roadAddress": "서울특별시 종로구 자하문로11길 4",
       "mapx": "1269709994",
       "mapy": "375796715"
-    },
-    {
-      "title": "안덕",
-      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 옥인동 19-53 1층",
-      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
-      "mapx": "1269696346",
-      "mapy": "375815060"
     },
     {
       "title": "옹시미 경복궁점",
@@ -45,8 +34,19 @@
       "telephone": "",
       "address": "서울특별시 종로구 체부동 190",
       "roadAddress": "서울특별시 종로구 자하문로1길 16",
-      "mapx": "1269715263",
-      "mapy": "375765394"
+      "mapx": "1269714992",
+      "mapy": "375765099"
+    },
+    {
+      "title": "안덕",
+      "link": "https://app.catchtable.co.kr/ct/shop/andeok?from=share&type=WAITING",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 옥인동 19-53 1층",
+      "roadAddress": "서울특별시 종로구 자하문로17길 18 1층",
+      "mapx": "1269696346",
+      "mapy": "375815060"
     },
     {
       "title": "영화루",

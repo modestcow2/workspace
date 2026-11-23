@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:55 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:20:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "탄백",
-      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
-      "category": "한식>칼국수,만두",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 11-8",
-      "roadAddress": "서울특별시 중구 정동길 37",
-      "mapx": "1269724678",
-      "mapy": "375659578"
-    },
     {
       "title": "명동<b>칼국수</b>",
       "link": "",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 중구 세종대로21길 48 1층 명동칼국수",
       "mapx": "1269759250",
       "mapy": "375686250"
+    },
+    {
+      "title": "탄백",
+      "link": "https://app.catchtable.co.kr/ct/shop/tanbaek",
+      "category": "한식>칼국수,만두",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 11-8",
+      "roadAddress": "서울특별시 중구 정동길 37",
+      "mapx": "1269724678",
+      "mapy": "375659578"
     },
     {
       "title": "봉평 옹심이 막국수",

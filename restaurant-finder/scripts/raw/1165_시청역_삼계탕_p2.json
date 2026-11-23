@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:15 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:19:22 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375637587"
     },
     {
+      "title": "대보정 서울<b>시청역</b>점",
+      "link": "https://gowoofnb.com/",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 135 지하1층 4호",
+      "roadAddress": "서울특별시 중구 세종대로9길 41 지하1층 4호",
+      "mapx": "1269730165",
+      "mapy": "375613584"
+    },
+    {
       "title": "여의도<b>삼계탕</b> 파이낸스센터점",
       "link": "https://blog.naver.com/dreamingmoom",
       "category": "한식>백숙,삼계탕",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 중구 남대문로 81 롯데백화점본점 13F",
       "mapx": "1269817831",
       "mapy": "375646270"
-    },
-    {
-      "title": "보승회관 시청점",
-      "link": "https://www.boseunghall.com/",
-      "category": "음식점>한식>국밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로2가 70-2",
-      "roadAddress": "서울특별시 중구 세종대로 66",
-      "mapx": "1269765651",
-      "mapy": "375621823"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:14:54 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:18:50 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375748513"
     },
     {
+      "title": "도취 하녹식당",
+      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
+      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
+      "mapx": "1269688434",
+      "mapy": "375768396"
+    },
+    {
       "title": "스시누하",
       "link": "https://catchtable.co.kr/sushi_nuha",
       "category": "음식점>일식>일식당",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 필운대로 35-1 스시누하",
       "mapx": "1269686694",
       "mapy": "375791432"
-    },
-    {
-      "title": "설우 서대문점",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 평동 222 NH농협 타워 지하 1층 104호 설우 서대문점",
-      "roadAddress": "서울특별시 종로구 통일로 134 NH농협 타워 지하 1층 104호 설우 서대문점",
-      "mapx": "1269662598",
-      "mapy": "375667937"
     },
     {
       "title": "우직 경복궁점",

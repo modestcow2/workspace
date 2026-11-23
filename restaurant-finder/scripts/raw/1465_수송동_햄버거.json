@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:35 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:22:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 삼봉로 57 호수빌딩",
       "mapx": "1269805288",
       "mapy": "375725008"
+    },
+    {
+      "title": "릴버거 광화문점",
+      "link": "https://app.catchtable.co.kr/ct/shop/lilburger_gwanghwamun?from=share&type=WAITING",
+      "category": "음식점>햄버거",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 156 1층 105호",
+      "roadAddress": "서울특별시 종로구 삼봉로 71 1층 105호",
+      "mapx": "1269810523",
+      "mapy": "375728396"
     },
     {
       "title": "패티바이번 광화문점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 율곡로 49-4 101호, 201호",
       "mapx": "1269845845",
       "mapy": "375765164"
-    },
-    {
-      "title": "침스버거 안국",
-      "link": "",
-      "category": "음식점>햄버거",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-39 1층",
-      "roadAddress": "서울특별시 종로구 북촌로 14-2 1층",
-      "mapx": "1269856859",
-      "mapy": "375780911"
     }
   ]
 }

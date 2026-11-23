@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:34 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:15:21 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "초이<b>라멘</b>",
-      "link": "",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 종로6가 83",
-      "roadAddress": "서울특별시 종로구 율곡로 290-2",
-      "mapx": "1270085588",
-      "mapy": "375715041"
-    },
     {
       "title": "<b>라멘</b> 보루도 종묘 서순라길 본점",
       "link": "https://www.instagram.com/ramen_bold",
@@ -25,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 서순라길 123-8 1층",
       "mapx": "1269911446",
       "mapy": "375756029"
+    },
+    {
+      "title": "초이<b>라멘</b>",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 종로6가 83",
+      "roadAddress": "서울특별시 종로구 율곡로 290-2",
+      "mapx": "1270085588",
+      "mapy": "375715041"
     },
     {
       "title": "츠키<b>라멘</b>",

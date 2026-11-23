@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:32 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:22:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375728786"
     },
     {
-      "title": "<b>스시</b>우미 광화문",
-      "link": "https://app.catchtable.co.kr/ct/shop/sushiumi_ghm",
+      "title": "코끼리초밥 광화문점",
+      "link": "https://blog.naver.com/kokirisushi",
       "category": "음식점>일식>초밥,롤",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 58 두산위브파빌리온 B113",
-      "roadAddress": "서울특별시 종로구 삼봉로 81 두산위브파빌리온 B113",
-      "mapx": "1269815061",
-      "mapy": "375725618"
+      "address": "서울특별시 종로구 세종로 100 지하1층 B109-5호",
+      "roadAddress": "서울특별시 종로구 세종대로 178 지하1층 B109-5호",
+      "mapx": "1269778819",
+      "mapy": "375721535"
     }
   ]
 }

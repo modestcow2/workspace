@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:48 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:14:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,6 +16,17 @@
       "mapy": "375744663"
     },
     {
+      "title": "미성",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-18 1층 미성",
+      "roadAddress": "서울특별시 종로구 북촌로2길 9 1층 미성",
+      "mapx": "1269863079",
+      "mapy": "375779497"
+    },
+    {
       "title": "인사동 화원",
       "link": "http://instagram.com/choihun81",
       "category": "중식>중식당",
@@ -27,28 +38,6 @@
       "mapy": "375738998"
     },
     {
-      "title": "크리스탈제이드 광화문상하이팰리스점",
-      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
-      "category": "음식점>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
-      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
-      "mapx": "1269814479",
-      "mapy": "375750528"
-    },
-    {
-      "title": "마파두부 낙원동점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 낙원동 9 2층",
-      "roadAddress": "서울특별시 종로구 삼일대로 438 2층",
-      "mapx": "1269879147",
-      "mapy": "375737258"
-    },
-    {
       "title": "더차이 안국점",
       "link": "",
       "category": "중식>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 율곡로 88 3층",
       "mapx": "1269889420",
       "mapy": "375768090"
+    },
+    {
+      "title": "크리스탈제이드 광화문상하이팰리스점",
+      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
+      "mapx": "1269814479",
+      "mapy": "375750528"
     }
   ]
 }

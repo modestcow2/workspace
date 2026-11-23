@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:10:34 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:12:23 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,8 +38,19 @@
       "mapy": "375764902"
     },
     {
+      "title": "고양이부엌",
+      "link": "https://www.instagram.com/goyangibueok.kr",
+      "category": "분식>떡볶이",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 필운동 167-1 1층",
+      "roadAddress": "서울특별시 종로구 필운대로 14 1층",
+      "mapx": "1269695035",
+      "mapy": "375774430"
+    },
+    {
       "title": "통인시장",
-      "link": "https://www.instagram.com/tongin_official/",
+      "link": "https://smartstore.naver.com/tonginmaket",
       "category": "쇼핑,유통>시장",
       "description": "",
       "telephone": "",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 자하문로15길 18",
       "mapx": "1269702361",
       "mapy": "375807396"
-    },
-    {
-      "title": "연희김밥 경복궁점",
-      "link": "",
-      "category": "분식>김밥",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 통의동 55 연희김밥",
-      "roadAddress": "서울특별시 종로구 자하문로 12 연희김밥",
-      "mapx": "1269725615",
-      "mapy": "375770729"
     }
   ]
 }

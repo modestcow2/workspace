@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:07 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:13:11 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "한암동 정동점",
-      "link": "https://openine.com/한암동",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
-      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
-      "mapx": "1269708541",
-      "mapy": "375678521"
-    },
     {
       "title": "일품진진수라 <b>광화문</b>점",
       "link": "http://www.jinjinsura.com",
@@ -38,26 +27,37 @@
       "mapy": "375687024"
     },
     {
-      "title": "어부몽 인사점",
-      "link": "https://www.instagram.com/abumong.2024",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관훈동 155-2 3층",
-      "roadAddress": "서울특별시 종로구 인사동길 49 3층",
-      "mapx": "1269835556",
-      "mapy": "375744663"
-    },
-    {
-      "title": "도취 하녹식당",
-      "link": "https://app.catchtable.co.kr/ct/shop/dochwi",
+      "title": "하나로회관",
+      "link": "https://hanarohoegwan.kspotguide.com",
       "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 필운동 118 1층 도취 하녹식당",
-      "roadAddress": "서울특별시 종로구 사직로9가길 12 1층 도취 하녹식당",
-      "mapx": "1269688756",
-      "mapy": "375768581"
+      "address": "서울특별시 종로구 인사동 194-4 지하1층 하나로회관",
+      "roadAddress": "서울특별시 종로구 인사동5길 25 지하1층 하나로회관",
+      "mapx": "1269853140",
+      "mapy": "375721264"
+    },
+    {
+      "title": "명동정",
+      "link": "https://www.instagram.com/myongdongjeong1",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 충무로2가 60-3 이화빌딩 1층",
+      "roadAddress": "서울특별시 중구 삼일대로 299 이화빌딩 1층",
+      "mapx": "1269883506",
+      "mapy": "375613152"
+    },
+    {
+      "title": "은성 <b>한정식</b>",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 46-24 조계사 후문 (불교대학 옆건물)",
+      "roadAddress": "서울특별시 종로구 우정국로 45-23 조계사 후문 (불교대학 옆건물)",
+      "mapx": "1269814980",
+      "mapy": "375729994"
     }
   ]
 }

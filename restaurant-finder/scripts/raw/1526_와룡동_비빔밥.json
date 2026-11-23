@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:03 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:23:34 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,26 +16,37 @@
       "mapy": "375824691"
     },
     {
-      "title": "진주육회 4호점",
-      "link": "",
+      "title": "해밀가 종각점",
+      "link": "https://app.catchtable.co.kr/ct/shop/HAEMILGA",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 예지동 25-2 1층",
-      "roadAddress": "서울특별시 종로구 창경궁로 86 1층",
-      "mapx": "1269980277",
-      "mapy": "375700337"
+      "address": "서울특별시 중구 다동 85 2층 201호",
+      "roadAddress": "서울특별시 중구 남대문로 125 2층 201호",
+      "mapx": "1269823089",
+      "mapy": "375683770"
     },
     {
-      "title": "익선애뜻",
-      "link": "",
+      "title": "인사도담",
+      "link": "https://insadodam.com/",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 익선동 163 1층 익선애뜻",
-      "roadAddress": "서울특별시 종로구 돈화문로11다길 24 1층 익선애뜻",
-      "mapx": "1269905479",
-      "mapy": "375733641"
+      "address": "서울특별시 종로구 관훈동 118-23 1층",
+      "roadAddress": "서울특별시 종로구 인사동16길 5-1 1층",
+      "mapx": "1269841610",
+      "mapy": "375751014"
+    },
+    {
+      "title": "단골손님 대학로점",
+      "link": "",
+      "category": "술집>요리주점",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 동숭동 1-64 1층",
+      "roadAddress": "서울특별시 종로구 대학로12길 10 1층",
+      "mapx": "1270026546",
+      "mapy": "375825869"
     },
     {
       "title": "익선동연리지",
@@ -45,19 +56,8 @@
       "telephone": "",
       "address": "서울특별시 종로구 익선동 120 1층",
       "roadAddress": "서울특별시 종로구 돈화문로11나길 28-1 1층",
-      "mapx": "1269903405",
-      "mapy": "375739990"
-    },
-    {
-      "title": "뚝배기집",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 5-1",
-      "roadAddress": "서울특별시 종로구 종로16길 12",
-      "mapx": "1269885481",
-      "mapy": "375695483"
+      "mapx": "1269903439",
+      "mapy": "375739992"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:09 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:19:13 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 서대문구 연희맛로 22 삼원빌딩",
       "mapx": "1269301144",
       "mapy": "375669752"
+    },
+    {
+      "title": "편의방",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 서대문구 연희동 353-94",
+      "roadAddress": "서울특별시 서대문구 연희로 36",
+      "mapx": "1269275231",
+      "mapy": "375617816"
     },
     {
       "title": "이품",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 서대문구 불광천길 150 1층",
       "mapx": "1269089080",
       "mapy": "375819180"
-    },
-    {
-      "title": "편의방",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 서대문구 연희동 353-94",
-      "roadAddress": "서울특별시 서대문구 연희로 36",
-      "mapx": "1269275231",
-      "mapy": "375617816"
     },
     {
       "title": "미스터서왕<b>만두</b>",

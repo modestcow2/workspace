@@ -1,9 +1,20 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:29 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:24:10 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
+    {
+      "title": "샹츠마라 종로점",
+      "link": "",
+      "category": "중식>마라탕",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관철동 11-14 2층",
+      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
+      "mapx": "1269859110",
+      "mapy": "375686220"
+    },
     {
       "title": "마라중독",
       "link": "",
@@ -16,19 +27,8 @@
       "mapy": "375695065"
     },
     {
-      "title": "샹츠마라 종로점",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 관철동 11-14 2층",
-      "roadAddress": "서울특별시 종로구 청계천로 73 2층",
-      "mapx": "1269859110",
-      "mapy": "375686220"
-    },
-    {
       "title": "하우<b>마라탕</b> 종로점",
-      "link": "",
+      "link": "https://www.instagram.com/hawoo_jongno?igsh=N3VkYzNlM3o5Z3lp",
       "category": "중식>마라탕",
       "description": "",
       "telephone": "",
@@ -36,17 +36,6 @@
       "roadAddress": "서울특별시 종로구 종로16길 12 2층",
       "mapx": "1269885196",
       "mapy": "375695603"
-    },
-    {
-      "title": "라향각 <b>마라탕</b>",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 72-2 2층 라향각마라탕",
-      "roadAddress": "서울특별시 중구 세종대로21길 67 2층 라향각마라탕",
-      "mapx": "1269757332",
-      "mapy": "375692879"
     },
     {
       "title": "마라공방 종각2호점",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 종로 19 1층",
       "mapx": "1269798224",
       "mapy": "375708585"
+    },
+    {
+      "title": "천향",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 11-3 2,3층",
+      "roadAddress": "서울특별시 종로구 종로5길 32-3 2,3층",
+      "mapx": "1269807512",
+      "mapy": "375718671"
     }
   ]
 }

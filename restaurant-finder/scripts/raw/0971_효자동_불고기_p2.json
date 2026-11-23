@@ -1,20 +1,9 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:13:45 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:17:08 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
-    {
-      "title": "청하식당",
-      "link": "",
-      "category": "한식>육류,고기요리",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 창성동 120",
-      "roadAddress": "서울특별시 종로구 자하문로10길 25",
-      "mapx": "1269728999",
-      "mapy": "375794749"
-    },
     {
       "title": "토방",
       "link": "",
@@ -27,17 +16,6 @@
       "mapy": "375819609"
     },
     {
-      "title": "백석 흰 당나귀",
-      "link": "",
-      "category": "술집>와인",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 260 2층",
-      "roadAddress": "서울특별시 종로구 필운대로 29 2층",
-      "mapx": "1269689143",
-      "mapy": "375785770"
-    },
-    {
       "title": "송림정육점",
       "link": "https://www.instagram.com/songlim_meat?igsh=d3I0N2NyMnUzaXFs",
       "category": "쇼핑,유통>정육점",
@@ -47,6 +25,28 @@
       "roadAddress": "서울특별시 종로구 필운대로6길 3 송림빌딩 1층 (통인동) 송림정육점",
       "mapx": "1269688159",
       "mapy": "375808338"
+    },
+    {
+      "title": "우슴 광화문 직영점",
+      "link": "https://blog.naver.com/wusm-official",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
+    },
+    {
+      "title": "사리원<b>불고기</b>[본사] 안녕인사동점",
+      "link": "http://www.sariwon.co.kr",
+      "category": "한식>육류,고기요리",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 관훈동 155-2 안녕인사동 4층",
+      "roadAddress": "서울특별시 종로구 인사동길 49 안녕인사동 4층",
+      "mapx": "1269834384",
+      "mapy": "375743233"
     },
     {
       "title": "자하문로118 들풀",

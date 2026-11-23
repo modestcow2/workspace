@@ -1,12 +1,12 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:15:52 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:20:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
       "title": "타와",
-      "link": "https://www.instagram.com/muwa__official",
+      "link": "https://tawa-official.github.io",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 중구 서소문로 115 한산빌딩 지하1층 102호 타와",
       "mapx": "1269736520",
       "mapy": "375634157"
+    },
+    {
+      "title": "멘츠루 시청점",
+      "link": "",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 서소문동 54-2 1층 1호",
+      "roadAddress": "서울특별시 중구 서소문로11길 2 1층 1호",
+      "mapx": "1269731249",
+      "mapy": "375629944"
     },
     {
       "title": "허수아비돈까스 정동점",
@@ -38,26 +49,15 @@
       "mapy": "375706979"
     },
     {
-      "title": "사카에",
-      "link": "https://app.catchtable.co.kr/ct/shop/sakae",
+      "title": "이도다완",
+      "link": "https://www.instagram.com/idodawan_",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로1가 61-1 24F",
-      "roadAddress": "서울특별시 중구 세종대로 135 24F",
-      "mapx": "1269765840",
-      "mapy": "375683348"
-    },
-    {
-      "title": "퍼스트플로어 센트럴",
-      "link": "http://fpcs.co.kr/dining-bar/first-floor",
-      "category": "음식점>양식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 순화동 214 프레이저플레이스 호텔 1층",
-      "roadAddress": "서울특별시 중구 통일로 78 프레이저플레이스 호텔 1층",
-      "mapx": "1269697479",
-      "mapy": "375624505"
+      "address": "서울특별시 중구 정동 22 2층",
+      "roadAddress": "서울특별시 중구 정동길 3 2층",
+      "mapx": "1269696482",
+      "mapy": "375680586"
     }
   ]
 }

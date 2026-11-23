@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:18:54 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:24:47 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375764071"
     },
     {
-      "title": "일미식당",
-      "link": "http://cafe.naver.com/ilmicafe",
-      "category": "한식>백반,가정식",
+      "title": "성북동돼지갈비 본점",
+      "link": "",
+      "category": "한식>돼지고기구이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 낙원동 288 낙원악기상가 지하1층 148호",
-      "roadAddress": "서울특별시 종로구 삼일대로 428 낙원악기상가 지하1층 148호",
-      "mapx": "1269876939",
-      "mapy": "375728300"
+      "address": "서울특별시 성북구 성북동 114-2",
+      "roadAddress": "서울특별시 성북구 성북로 115",
+      "mapx": "1269961462",
+      "mapy": "375933105"
     },
     {
-      "title": "꿀밥상",
+      "title": "동백식당",
       "link": "",
-      "category": "한식>한정식",
+      "category": "한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 삼청동 98-1 1층",
-      "roadAddress": "서울특별시 종로구 삼청로 101 1층",
-      "mapx": "1269818749",
-      "mapy": "375844611"
+      "address": "서울특별시 종로구 안국동 170 9호 동백식당",
+      "roadAddress": "서울특별시 종로구 윤보선길 10 9호 동백식당",
+      "mapx": "1269842899",
+      "mapy": "375765173"
     }
   ]
 }

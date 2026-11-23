@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:14 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:14:53 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,6 +27,17 @@
       "mapy": "375765832"
     },
     {
+      "title": "도마 유즈<b>라멘</b> 안국",
+      "link": "https://www.instagram.com/yuzu_ramen2",
+      "category": "음식점>일식>일본식라면",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 재동 84-6 유즈라멘",
+      "roadAddress": "서울특별시 종로구 북촌로2길 14 유즈라멘",
+      "mapx": "1269865232",
+      "mapy": "375778648"
+    },
+    {
       "title": "산들바람 : 소요카제",
       "link": "https://www.instagram.com/soyokaze_seoul",
       "category": "음식점>일식>일식당",
@@ -36,17 +47,6 @@
       "roadAddress": "서울특별시 종로구 인사동길 59 2층 소요카제",
       "mapx": "1269834025",
       "mapy": "375751516"
-    },
-    {
-      "title": "도마 유즈<b>라멘</b>",
-      "link": "https://www.instagram.com/yuzu_ramen2",
-      "category": "음식점>일식>일본식라면",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 재동 84-6 유즈라멘",
-      "roadAddress": "서울특별시 종로구 북촌로2길 14 유즈라멘",
-      "mapx": "1269865232",
-      "mapy": "375778648"
     },
     {
       "title": "미도인 종로",

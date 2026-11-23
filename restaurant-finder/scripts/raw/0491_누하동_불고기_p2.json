@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:59 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:11:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,30 +16,19 @@
       "mapy": "375819609"
     },
     {
-      "title": "백석 흰 당나귀",
-      "link": "",
-      "category": "술집>와인",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 누하동 260 2층",
-      "roadAddress": "서울특별시 종로구 필운대로 29 2층",
-      "mapx": "1269689143",
-      "mapy": "375785770"
-    },
-    {
-      "title": "자하문로118 들풀",
-      "link": "",
+      "title": "우슴 광화문 직영점",
+      "link": "https://blog.naver.com/wusm-official",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 청운동 69 1층",
-      "roadAddress": "서울특별시 종로구 자하문로 118 1층",
-      "mapx": "1269700999",
-      "mapy": "375864487"
+      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
+      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
+      "mapx": "1269730094",
+      "mapy": "375717610"
     },
     {
       "title": "고우가 광화문점",
-      "link": "https://go.catchtable.co.kr/jrrhv4v",
+      "link": "https://gowoofnb.com/",
       "category": "한식>소고기구이",
       "description": "",
       "telephone": "",
@@ -49,15 +38,26 @@
       "mapy": "375684246"
     },
     {
-      "title": "우슴 광화문 직영점",
-      "link": "https://www.instagram.com/wusm.official",
+      "title": "모담다이닝 광화문점",
+      "link": "",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 신문로2가 171 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 덕수궁디팰리스 지하 1층 B102호, B103호",
+      "mapx": "1269720468",
+      "mapy": "375687024"
+    },
+    {
+      "title": "오징어풍경 무교동점",
+      "link": "",
       "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 당주동 100 세종빌딩 1층 우슴",
-      "roadAddress": "서울특별시 종로구 세종대로23길 54 세종빌딩 1층 우슴",
-      "mapx": "1269730094",
-      "mapy": "375717610"
+      "address": "서울특별시 중구 무교동 11 광일빌딩 1층",
+      "roadAddress": "서울특별시 중구 다동길 5 광일빌딩 1층",
+      "mapx": "1269797337",
+      "mapy": "375680954"
     }
   ]
 }

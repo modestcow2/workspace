@@ -1,34 +1,23 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:16:07 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:20:39 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "원기옥 광화문점",
-      "link": "https://catchtable.co.kr/wongiok",
-      "category": "한식>한정식",
+      "title": "어슬 광화문",
+      "link": "https://app.catchtable.co.kr/ct/shop/aseulgwanghwamun",
+      "category": "음식점>한식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로2가 171 지하1층 원기옥 광화문점",
-      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층 원기옥 광화문점",
+      "address": "서울특별시 종로구 신문로2가 171 지하1층",
+      "roadAddress": "서울특별시 종로구 새문안로2길 10 지하1층",
       "mapx": "1269720468",
       "mapy": "375687024"
     },
     {
-      "title": "한암동 정동점",
-      "link": "https://openine.com/한암동",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 정동 15-5 빌딩 신관 1층",
-      "roadAddress": "서울특별시 중구 정동길 21-15 정동빌딩 신관 1층",
-      "mapx": "1269708541",
-      "mapy": "375678521"
-    },
-    {
       "title": "타와",
-      "link": "https://www.instagram.com/muwa__official",
+      "link": "https://tawa-official.github.io",
       "category": "음식점>일식>일식당",
       "description": "",
       "telephone": "",
@@ -38,26 +27,37 @@
       "mapy": "375634157"
     },
     {
-      "title": "무탄 광화문점",
-      "link": "https://naver.me/5uc3NJV7",
-      "category": "중식>중식당",
+      "title": "육전국밥 서소문점",
+      "link": "",
+      "category": "음식점>한식>국밥",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 226 흥국생명빌딩 지하 1층",
-      "roadAddress": "서울특별시 종로구 새문안로 68 흥국생명빌딩 지하 1층",
-      "mapx": "1269721401",
-      "mapy": "375696647"
+      "address": "서울특별시 중구 서소문동 57-9 1층 101호",
+      "roadAddress": "서울특별시 중구 서소문로 99 1층 101호",
+      "mapx": "1269722093",
+      "mapy": "375628296"
     },
     {
-      "title": "광화문면옥",
+      "title": "풍년닭도리탕 정동직영점",
       "link": "",
-      "category": "한식>냉면",
+      "category": "음식점>한식>육류,고기요리>닭볶음탕",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 신문로1가 163 1층 101호",
-      "roadAddress": "서울특별시 종로구 새문안로 92 1층 101호",
-      "mapx": "1269747363",
-      "mapy": "375698520"
+      "address": "서울특별시 중구 정동 22-2 경향신문사 별관 1층",
+      "roadAddress": "서울특별시 중구 정동길 5 경향신문사 별관 1층",
+      "mapx": "1269698330",
+      "mapy": "375678083"
+    },
+    {
+      "title": "커피루소 정동",
+      "link": "https://smartstore.naver.com/lussolab",
+      "category": "음식점>카페,디저트",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 정동 17-4 1층",
+      "roadAddress": "서울특별시 중구 정동길 17 1층",
+      "mapx": "1269705929",
+      "mapy": "375670330"
     }
   ]
 }

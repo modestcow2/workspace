@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:12:29 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:15:15 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -12,12 +12,12 @@
       "telephone": "",
       "address": "서울특별시 중구 주교동 118-1",
       "roadAddress": "서울특별시 중구 창경궁로 62-29",
-      "mapx": "1269987029",
-      "mapy": "375682697"
+      "mapx": "1269987278",
+      "mapy": "375681693"
     },
     {
       "title": "고궁의아침 서울대병원",
-      "link": "https://blog.naver.com/gogungmorning",
+      "link": "",
       "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
@@ -25,6 +25,17 @@
       "roadAddress": "서울특별시 종로구 창경궁로 158 고궁의아침 서울대병원",
       "mapx": "1269975450",
       "mapy": "375762428"
+    },
+    {
+      "title": "일품진진수라 광화문점",
+      "link": "http://www.jinjinsura.com",
+      "category": "한식>한정식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
+      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
+      "mapx": "1269805216",
+      "mapy": "375706504"
     },
     {
       "title": "평양고깃집",
@@ -38,26 +49,15 @@
       "mapy": "375727819"
     },
     {
-      "title": "솥내음 <b>종로</b>인사동점",
-      "link": "https://map.naver.com/p/entry/place/2017586094",
-      "category": "음식점>한식",
+      "title": "도깨비<b>불고기</b> 동대문본점",
+      "link": "https://www.siksinhot.com/P/368347",
+      "category": "한식>육류,고기요리",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 인사동 39 지상2층",
-      "roadAddress": "서울특별시 종로구 인사동길 14 지상2층",
-      "mapx": "1269870311",
-      "mapy": "375721281"
-    },
-    {
-      "title": "일품진진수라 광화문점",
-      "link": "http://www.jinjinsura.com",
-      "category": "한식>한정식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청진동 128 타워8빌딩 지하 2층",
-      "roadAddress": "서울특별시 종로구 종로5길 7 타워8빌딩 지하 2층",
-      "mapx": "1269805216",
-      "mapy": "375706504"
+      "address": "서울특별시 중구 을지로6가 18-37",
+      "roadAddress": "서울특별시 중구 을지로43길 38",
+      "mapx": "1270076862",
+      "mapy": "375677182"
     }
   ]
 }

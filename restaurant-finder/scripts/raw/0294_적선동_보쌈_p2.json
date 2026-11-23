@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:27 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:09:17 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375753857"
     },
     {
-      "title": "키친온유",
-      "link": "",
-      "category": "음식점>한식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 사직동 9 202동 1층상가",
-      "roadAddress": "서울특별시 종로구 사직로8길 4 202동 1층상가",
-      "mapx": "1269688217",
-      "mapy": "375749073"
-    },
-    {
       "title": "부산집막국수",
       "link": "",
       "category": "한식>막국수",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 새문안로5가길 28 지하1층 111호",
       "mapx": "1269735421",
       "mapy": "375744442"
+    },
+    {
+      "title": "<b>보쌈</b>키친",
+      "link": "",
+      "category": "음식점>한식",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 156 지하1층 103호",
+      "roadAddress": "서울특별시 종로구 새문안로5가길 28 지하1층 103호",
+      "mapx": "1269736144",
+      "mapy": "375744582"
     }
   ]
 }

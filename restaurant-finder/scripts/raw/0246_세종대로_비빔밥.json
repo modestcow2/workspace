@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:04 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:08:44 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,26 +38,26 @@
       "mapy": "375583627"
     },
     {
-      "title": "쪽삼상회",
-      "link": "https://www.instagram.com/jjoksamsanghoe?igsh=aHk3bnVoNm9wYnl1",
-      "category": "음식점>한식",
+      "title": "모담 서울역점",
+      "link": "https://app.catchtable.co.kr/ct/shop/modamseoulgrandcentral",
+      "category": "한식>한정식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 69-13 1층 102호",
-      "roadAddress": "서울특별시 중구 세종대로 68 1층 102호",
-      "mapx": "1269767006",
-      "mapy": "375622675"
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층 B304, B305호",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층 B304, B305호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
     },
     {
-      "title": "싸다김밥 시청역점",
-      "link": "https://ssadagb.com",
-      "category": "음식점>분식",
+      "title": "라밥 시청점",
+      "link": "http://kimbabpanda.co.kr/",
+      "category": "분식>종합분식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 태평로2가 70-5 해남빌딩 본관 1층 116호",
-      "roadAddress": "서울특별시 중구 세종대로 64 해남빌딩 본관 1층 116호",
-      "mapx": "1269765121",
-      "mapy": "375620705"
+      "address": "서울특별시 중구 태평로2가 69-2 1층",
+      "roadAddress": "서울특별시 중구 세종대로 76-1 1층",
+      "mapx": "1269768514",
+      "mapy": "375629403"
     }
   ]
 }

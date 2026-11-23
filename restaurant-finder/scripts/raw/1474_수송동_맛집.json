@@ -1,19 +1,41 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:17:39 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:22:57 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
   "items": [
     {
-      "title": "엄용백 돼지구이 광화문점",
-      "link": "https://app.catchtable.co.kr/ct/shop/umyongbaek_gwanghwamun",
-      "category": "한식>돼지고기구이",
+      "title": "더 키친 일뽀르노 광화문점",
+      "link": "https://thekitchenilforno.co.kr/index.do",
+      "category": "음식점>양식>이탈리아음식",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 수송동 46-13",
-      "roadAddress": "서울특별시 종로구 율곡로4길 51",
-      "mapx": "1269812652",
-      "mapy": "375733835"
+      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
+      "mapx": "1269812442",
+      "mapy": "375750348"
+    },
+    {
+      "title": "베이징코야",
+      "link": "http://www.베이징코야.com/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 110 연합뉴스 빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 25 연합뉴스 빌딩 지하 1층",
+      "mapx": "1269802390",
+      "mapy": "375745591"
+    },
+    {
+      "title": "크리스탈제이드 광화문상하이팰리스점",
+      "link": "https://app.catchtable.co.kr/ct/shop/crystaljade_gwanghwamun",
+      "category": "음식점>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 85 서머셋팰리스 호텔 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 7 서머셋팰리스 호텔 1층",
+      "mapx": "1269814479",
+      "mapy": "375750528"
     },
     {
       "title": "은성 한정식",
@@ -27,17 +49,6 @@
       "mapy": "375729994"
     },
     {
-      "title": "더 키친 일뽀르노 광화문점",
-      "link": "https://thekitchenilforno.co.kr/index.do",
-      "category": "음식점>양식>이탈리아음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 85 써머셋팰리스 1층",
-      "roadAddress": "서울특별시 종로구 율곡로2길 7 써머셋팰리스 1층",
-      "mapx": "1269812442",
-      "mapy": "375750348"
-    },
-    {
       "title": "오레노 야끼 종로점",
       "link": "https://catchtable.co.kr/orenoyakki",
       "category": "음식점>일식>일식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 우정국로 45-27 1층",
       "mapx": "1269813635",
       "mapy": "375730606"
-    },
-    {
-      "title": "이여곰탕 종로점",
-      "link": "https://clip.naver.com/@jongno_gomtang",
-      "category": "음식점>한식>곰탕,설렁탕",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 수송동 71-2 1층/ B1층",
-      "roadAddress": "서울특별시 종로구 율곡로4길 70 1층/ B1층",
-      "mapx": "1269807361",
-      "mapy": "375727720"
     }
   ]
 }

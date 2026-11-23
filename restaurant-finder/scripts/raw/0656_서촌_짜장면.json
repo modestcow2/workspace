@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:11:17 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:13:27 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -38,6 +38,17 @@
       "mapy": "375782778"
     },
     {
+      "title": "래래향 중화요리",
+      "link": "",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 내자동 164",
+      "roadAddress": "서울특별시 종로구 사직로10길 11",
+      "mapx": "1269704213",
+      "mapy": "375753782"
+    },
+    {
       "title": "홈보이서울",
       "link": "http://www.instagram.com/homeboy_seoul",
       "category": "중식>중식당",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로 127-14 1층 홈보이서울",
       "mapx": "1269730709",
       "mapy": "375762354"
-    },
-    {
-      "title": "도성",
-      "link": "https://blog.naver.com/minimin1108",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 체부동 20 1층",
-      "roadAddress": "서울특별시 종로구 자하문로7길 15 1층",
-      "mapx": "1269708194",
-      "mapy": "375784692"
     }
   ]
 }

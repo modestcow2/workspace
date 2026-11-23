@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:15 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:08:59 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -16,13 +16,24 @@
       "mapy": "375684118"
     },
     {
-      "title": "크루아타이",
+      "title": "크루아타이 서울역그랜드센트럴점",
       "link": "",
       "category": "음식점>태국음식",
       "description": "",
       "telephone": "",
       "address": "서울특별시 중구 남대문로5가 831 1층 104호",
       "roadAddress": "서울특별시 중구 세종대로 14 1층 104호",
+      "mapx": "1269744151",
+      "mapy": "375578385"
+    },
+    {
+      "title": "카츠쇼신 서울역그랜드센트럴점",
+      "link": "https://www.instagram.com/katsu_shoshin",
+      "category": "음식점>일식>돈가스",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
+      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
       "mapx": "1269744151",
       "mapy": "375578385"
     },
@@ -38,26 +49,15 @@
       "mapy": "375721535"
     },
     {
-      "title": "카츠쇼신 서울역그랜드센트럴점",
-      "link": "https://www.instagram.com/katsu_shoshin",
-      "category": "음식점>일식>돈가스",
+      "title": "고담",
+      "link": "https://www.instagram.com/gotham_cityhall/",
+      "category": "술집>이자카야",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 중구 남대문로5가 831 그랜드센트럴 지하3층",
-      "roadAddress": "서울특별시 중구 세종대로 14 그랜드센트럴 지하3층",
-      "mapx": "1269744151",
-      "mapy": "375578385"
-    },
-    {
-      "title": "강가 무교점",
-      "link": "https://blog.naver.com/ganga1004",
-      "category": "음식점>인도음식",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 태평로1가 84 서울파이낸스센터 지하2층",
-      "roadAddress": "서울특별시 중구 세종대로 136 서울파이낸스센터 지하2층",
-      "mapx": "1269778023",
-      "mapy": "375684147"
+      "address": "서울특별시 중구 태평로2가 341-2 2층(룸),4층(홀), 루프탑(야외 옥상)",
+      "roadAddress": "서울특별시 중구 세종대로 81 2층(룸),4층(홀), 루프탑(야외 옥상)",
+      "mapx": "1269764150",
+      "mapy": "375635587"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:08:37 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:09:33 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -14,6 +14,17 @@
       "roadAddress": "서울특별시 종로구 자하문로2길 10",
       "mapx": "1269731772",
       "mapy": "375764902"
+    },
+    {
+      "title": "식물원김밥 경복궁역점",
+      "link": "https://www.sikmoolwongimbab.com",
+      "category": "분식>김밥",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 적선동 80 지하1층 6호",
+      "roadAddress": "서울특별시 종로구 사직로 130 지하1층 6호",
+      "mapx": "1269733438",
+      "mapy": "375753767"
     },
     {
       "title": "153구포국수 경복궁점",
@@ -47,17 +58,6 @@
       "roadAddress": "서울특별시 종로구 사직로8길 4",
       "mapx": "1269689428",
       "mapy": "375744412"
-    },
-    {
-      "title": "신세계<b>떡볶이</b>",
-      "link": "",
-      "category": "분식>떡볶이",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 중구 명동1가 10-5",
-      "roadAddress": "서울특별시 중구 명동9길 10",
-      "mapx": "1269850160",
-      "mapy": "375642992"
     }
   ]
 }

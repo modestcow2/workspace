@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:19:36 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:25:51 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -49,15 +49,15 @@
       "mapy": "375791625"
     },
     {
-      "title": "배떡 로제떡볶이 종로점",
+      "title": "명품삼청동떡볶이",
       "link": "",
-      "category": "음식점>분식",
+      "category": "분식>떡볶이",
       "description": "",
       "telephone": "",
-      "address": "서울특별시 종로구 가회동 159 1층(가회동)",
-      "roadAddress": "서울특별시 종로구 북촌로 35-4",
-      "mapx": "1269847145",
-      "mapy": "375798137"
+      "address": "서울특별시 종로구 가회동 165-2",
+      "roadAddress": "서울특별시 종로구 북촌로 33-2",
+      "mapx": "1269848818",
+      "mapy": "375798891"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastBuildDate": "Fri, 13 Mar 2026 22:09:43 +0900",
+  "lastBuildDate": "Mon, 23 Nov 2026 21:11:09 +0900",
   "total": 5,
   "start": 1,
   "display": 5,
@@ -27,17 +27,6 @@
       "mapy": "375801579"
     },
     {
-      "title": "중국",
-      "link": "",
-      "category": "중식>중식당",
-      "description": "",
-      "telephone": "",
-      "address": "서울특별시 종로구 청운동 59-1",
-      "roadAddress": "서울특별시 종로구 자하문로33길 2",
-      "mapx": "1269697482",
-      "mapy": "375861990"
-    },
-    {
       "title": "신승관",
       "link": "https://m.blog.naver.com/wmedia77/223171955325",
       "category": "중식>중식당",
@@ -58,6 +47,17 @@
       "roadAddress": "서울특별시 종로구 세종대로 175 세종문화회관 지하 1층",
       "mapx": "1269762577",
       "mapy": "375724523"
+    },
+    {
+      "title": "베이징코야",
+      "link": "http://www.베이징코야.com/",
+      "category": "중식>중식당",
+      "description": "",
+      "telephone": "",
+      "address": "서울특별시 종로구 수송동 110 연합뉴스 빌딩 지하 1층",
+      "roadAddress": "서울특별시 종로구 율곡로2길 25 연합뉴스 빌딩 지하 1층",
+      "mapx": "1269802390",
+      "mapy": "375745591"
     }
   ]
 }
